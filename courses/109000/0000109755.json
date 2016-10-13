@@ -5,7 +5,6 @@
 	"departments": [
 		"REL"
 	],
-	"grouptype": "R",
 	"instructors": [
 		"Jamie A. Schillinger",
 		"Anantanand Rambachan"
@@ -16,9 +15,10 @@
 		"OM 030"
 	],
 	"name": "Placeholder Course - EIN",
+	"notes": "Prerequisite: completion of BTS-T or permission of instructor.",
 	"number": 0,
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequisite: completion of BTS-T or permission of instructor.",
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:19.378072+00:00",
@@ -30,6 +30,12 @@
 				"OM 110",
 				"OM 110"
 			]
+		},
+		{
+			"_updated": "2016-10-13T11:31:28.161922+00:00",
+			"grouptype": "R",
+			"notes": null,
+			"prerequisites": false
 		}
 	],
 	"semester": 3,
