@@ -1,22 +1,30 @@
 {
-	"clbid": 9466,
+	"clbid": "0000009466",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 18,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 18,
 	"instructors": [
 		"Barrie J. Borich"
 	],
 	"level": 100,
-	"locations": [
-		"SH 01",
-		"SH 01"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SH 01",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SH 01",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

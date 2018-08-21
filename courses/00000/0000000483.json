@@ -1,21 +1,30 @@
 {
-	"clbid": 483,
+	"clbid": "0000000483",
 	"credits": 0.25,
-	"crsid": 1018,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 24,
+	"crsid": "0000001018",
+	"department": "PEAC",
+	"enrolled": 24,
 	"instructors": [
 		"Christine Daymont"
 	],
 	"level": 100,
-	"locations": [
-		"MFH WT RM"
-	],
 	"max": 24,
 	"name": "Wt Training-Women",
 	"number": 142,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "MFH WT RM",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "MFH WT RM",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

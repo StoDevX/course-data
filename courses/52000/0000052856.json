@@ -1,24 +1,39 @@
 {
-	"clbid": 52856,
+	"clbid": "0000052856",
 	"credits": 1.0,
-	"crsid": 287,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000287",
+	"department": "CSCI",
 	"description": [
 		"A survey of fundamental concepts of computer science through an interactive exploration of the Scheme programming language, this course is organized around three approaches to programming: functional, imperative, and object-oriented programming. Topics covered include problem-solving and algorithm development, basic data structures, programming style and documentation, recursion, iteration and loop invariants, elementary algorithm analysis, concepts of object-oriented programming and applications."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 35,
 	"name": "Principles Comp Sci",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Principles of Computer Science",
 	"type": "Research",
 	"year": 2006

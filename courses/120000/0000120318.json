@@ -1,22 +1,25 @@
 {
-	"clbid": 120318,
+	"clbid": "0000120318",
 	"credits": 0.0,
-	"crsid": 244,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 0,
-	"groupid": 243,
+	"crsid": "0000000244",
+	"department": "CHIN",
+	"enrolled": 0,
+	"groupid": "0000000243",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 175"
-	],
 	"max": 14,
 	"name": "Intermed Chinese II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 175",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.807685+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.702463+00:00",
+			"clbid": 120318,
+			"crsid": 244,
+			"department": null,
+			"departments": [
+				"CHIN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 243,
+			"locations": [
+				"TOH 175"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0930-1050"
-	],
 	"type": "Lab",
 	"year": 2018
 }

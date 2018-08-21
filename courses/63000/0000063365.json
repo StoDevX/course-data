@@ -1,24 +1,39 @@
 {
-	"clbid": 63365,
+	"clbid": "0000063365",
 	"credits": 1.0,
-	"crsid": 292,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000292",
+	"department": "CSCI",
 	"description": [
 		"This course provides an introduction to the structure and creation of computer software, using C++ programming language and emphasizing object-oriented programming and software life-cycle methodology. Concepts and skills are applied in a team project based on the waterfall model of software development. Topics include object-oriented programming, specification, high-level memory management, indirect addressing, formal methods, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Prerequisite: Computer Science 121 or permission of instructor. Concurrent registration in Computer Science 252 is required."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 40,
 	"name": "Software Design",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Computer Science 121 or permission of instructor. Concurrent registration in Computer Science 252 is required.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Software Design and Implementation",
 	"type": "Research",
 	"year": 2008

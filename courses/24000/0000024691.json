@@ -1,21 +1,30 @@
 {
-	"clbid": 24691,
+	"clbid": "0000024691",
 	"credits": 0.5,
-	"crsid": 833,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 20,
+	"crsid": "0000000833",
+	"department": "MUSIC",
+	"enrolled": 20,
 	"instructors": [
 		"Anton Armstrong"
 	],
 	"level": 200,
-	"locations": [
-		"URNESS"
-	],
 	"max": 30,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "URNESS",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "URNESS",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

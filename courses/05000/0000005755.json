@@ -1,21 +1,24 @@
 {
-	"clbid": 5755,
+	"clbid": "0000005755",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 17,
+	"crsid": "0000000199",
+	"department": "CHEM",
+	"enrolled": 17,
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 20,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 378/311",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 26483,
+	"clbid": "0000026483",
 	"credits": 1.0,
-	"crsid": 559,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000000559",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"Eleanor Zelliot"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 23,
 	"name": "Vietnam",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 31",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 31",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

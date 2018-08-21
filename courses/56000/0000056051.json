@@ -1,24 +1,39 @@
 {
-	"clbid": 56051,
+	"clbid": "0000056051",
 	"credits": 1.0,
-	"crsid": 504,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000504",
+	"department": "GERM",
 	"description": [
 		"Students begin to learn German through listening, speaking, reading, and writing about topics familiar to them (their personal biographies, family, daily life, interests). Regular writing assignments are designed to learn vocabulary, check spelling, and to form thoughts with German sentence structure. Regular language lab activities aid in acquiring good pronunciation and listening skills. Offered Fall Semester."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Jack D. Hoschouer"
 	],
 	"level": 100,
-	"locations": [
-		"OM 035"
-	],
 	"max": 19,
 	"name": "Beginning German I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20071,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

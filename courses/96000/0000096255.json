@@ -1,14 +1,12 @@
 {
-	"clbid": 96255,
+	"clbid": "0000096255",
 	"credits": 0.25,
-	"crsid": 358,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000358",
+	"department": "DANCE",
 	"description": [
 		"Students expand their understanding of modern dance by building on the components of Modern Dance I, adding attention to movement qualities, elements of space, dance vocabulary and of technique with an emphasis on phrasing and sequencing movement. Some sectionsmay also include a focus on performing skills. Open to majors and other students with instructor's permission. May be repeated with permission of instructor. Offered each semester. Prerequisite: DANCE 111 and permission of instructor."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,29 @@
 		"Karla Grotting"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 19,
 	"name": "Modern Dance II",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CAD Studio 1",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CAD Studio 1",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CAD Studio 1",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 111 and permission of instructor.",
 	"revisions": [
@@ -55,9 +70,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

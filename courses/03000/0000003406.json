@@ -1,21 +1,24 @@
 {
-	"clbid": 3406,
+	"clbid": "0000003406",
 	"credits": 1.0,
-	"crsid": 1149,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 10,
+	"crsid": "0000001149",
+	"department": "PSCI",
+	"enrolled": 10,
 	"instructors": [
 		"Evelyn Davidheiser"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 15,
 	"name": "Russian Pol Econ",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 515",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

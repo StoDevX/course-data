@@ -1,21 +1,36 @@
 {
-	"clbid": 23573,
+	"clbid": "0000023573",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 17,
+	"crsid": "0000000740",
+	"department": "MATH",
+	"enrolled": 17,
 	"instructors": [
 		"Philip Gloor"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 999,
 	"name": "Elem Differ Equations",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1998
 }

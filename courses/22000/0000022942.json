@@ -1,21 +1,36 @@
 {
-	"clbid": 22942,
+	"clbid": "0000022942",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 17,
 	"instructors": [
 		"Frank L. Odd"
 	],
 	"level": 200,
-	"locations": [
-		"M 21"
-	],
 	"max": 25,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 21",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 21",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 21",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

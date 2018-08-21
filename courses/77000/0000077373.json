@@ -1,24 +1,39 @@
 {
-	"clbid": 77373,
+	"clbid": "0000077373",
 	"credits": 1.0,
-	"crsid": 711,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000711",
+	"department": "LATIN",
 	"description": [
 		"In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the fall semester."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Valerio Caldesi-Valeri"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 110"
-	],
 	"max": 18,
 	"name": "Beginning Latin I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 110",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 110",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 110",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20111,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2011
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 5382,
+	"clbid": "0000005382",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 26,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 26,
 	"instructors": [
 		"Margaret Odell"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 27,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 111",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 111",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

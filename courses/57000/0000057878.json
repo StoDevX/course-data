@@ -1,24 +1,39 @@
 {
-	"clbid": 57878,
+	"clbid": "0000057878",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
+	"crsid": "0000000498",
+	"department": "GE",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html"
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 100,
-	"locations": [
-		"OM 030"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 7146,
+	"clbid": "0000007146",
 	"credits": 0.25,
-	"crsid": 836,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000000836",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Kenneth G. Graber"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Kybd Proficiency Skil",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 222",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 222",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

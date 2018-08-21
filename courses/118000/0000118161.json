@@ -1,14 +1,12 @@
 {
-	"clbid": 118161,
+	"clbid": "0000118161",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000747",
+	"department": "MATH",
 	"description": [
 		"Algebra is concerned with sets of objects and operations that satisfy a few basic properties. Using the properties we study axiomatic systems such as groups, rings, and fields, covering topics such as homomorphisms, cosets, quotient structures, polynomial rings,and finite fields. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Counts toward computer science major. Prerequisite: MATH 220. Permission of instructor required for first-year students."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Ryota Matsuura"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 18,
 	"name": "Abstract Algebra I",
 	"notes": [
 		"Open to first-year students with permission of department chair."
 	],
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 220. Permission of instructor required for first-year students.",
 	"revisions": [
@@ -69,15 +84,30 @@
 			"locations": [
 				"RNS 297"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.342324+00:00",
+			"clbid": 118161,
+			"crsid": 747,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"TOH 184"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

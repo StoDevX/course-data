@@ -1,21 +1,36 @@
 {
-	"clbid": 26627,
+	"clbid": "0000026627",
 	"credits": 1.0,
-	"crsid": 964,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 23,
+	"crsid": "0000000964",
+	"department": "PHIL",
+	"enrolled": 23,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 25,
 	"name": "Making of Modern Mind",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 307",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 307",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 307",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22660,
+	"clbid": "0000022660",
 	"credits": 1.0,
-	"crsid": 971,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 15,
+	"crsid": "0000000971",
+	"department": "PHIL",
+	"enrolled": 15,
 	"instructors": [
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Modern Philosophy",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 403",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 403",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 2860,
+	"clbid": "0000002860",
 	"credits": 1.0,
-	"crsid": 74,
-	"departments": [
-		"ART"
-	],
-	"enroll": 7,
+	"crsid": "0000000074",
+	"department": "ART",
+	"enrolled": 7,
 	"instructors": [
 		"Nancy M. Thompson"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204"
-	],
 	"max": 15,
 	"name": "Sr Studies-Art Hist",
 	"number": 395,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 204",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CAD 204",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 25647,
+	"clbid": "0000025647",
 	"credits": 1.0,
-	"crsid": 988,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 8,
+	"crsid": "0000000988",
+	"department": "PHIL",
+	"enrolled": 8,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 300,
-	"locations": [
-		"M 1"
-	],
 	"max": 25,
 	"name": "Studies: Metaphysics",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 1",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 1",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

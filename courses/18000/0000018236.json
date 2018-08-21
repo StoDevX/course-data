@@ -1,21 +1,36 @@
 {
-	"clbid": 18236,
+	"clbid": "0000018236",
 	"credits": 1.0,
-	"crsid": 1850,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 10,
+	"crsid": "0000001850",
+	"department": "HIST",
+	"enrolled": 10,
 	"instructors": [
 		"Jeane DeLaney"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 35,
 	"name": "Brazil",
 	"number": 283,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "L 177",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "L 177",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "L 177",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

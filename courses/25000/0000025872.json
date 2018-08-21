@@ -1,21 +1,30 @@
 {
-	"clbid": 25872,
+	"clbid": "0000025872",
 	"credits": 1.0,
-	"crsid": 1361,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 16,
+	"crsid": "0000001361",
+	"department": "SWRK",
+	"enrolled": 16,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 200,
-	"locations": [
-		"CTR CONF 3"
-	],
 	"max": 20,
 	"name": "Social Work Methods I",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CTR CONF 3",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CTR CONF 3",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

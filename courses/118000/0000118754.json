@@ -1,14 +1,12 @@
 {
-	"clbid": 118754,
+	"clbid": "0000118754",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001110",
+	"department": "PSCI",
 	"description": [
 		"War and peace, justice and power -- these are age-old topics of the politics among nations. This course examines them by emphasizing certain problem areas in the world and evaluating the principal theories for understanding international politics. Offered annually."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,15 +14,32 @@
 		"Anthony Lott"
 	],
 	"level": 100,
-	"locations": [
-		"HH 502"
-	],
 	"max": 16,
 	"name": "International Relations",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,15 +59,30 @@
 			"_updated": "2018-08-07T14:48:45.053950+00:00",
 			"enroll": "8",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.429142+00:00",
+			"clbid": 118754,
+			"crsid": 1110,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"HH 502"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

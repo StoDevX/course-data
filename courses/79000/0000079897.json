@@ -1,21 +1,24 @@
 {
-	"clbid": 79897,
+	"clbid": "0000079897",
 	"credits": 0.0,
-	"crsid": 1063,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 12,
+	"crsid": "0000001063",
+	"department": "ESTH",
+	"enrolled": 12,
 	"instructors": [
 		"William Sean Goldsworthy"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 12,
 	"name": "Biomechanics Lab",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC 103",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2010
 }

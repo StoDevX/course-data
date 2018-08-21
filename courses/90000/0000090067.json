@@ -1,14 +1,12 @@
 {
-	"clbid": 90067,
+	"clbid": "0000090067",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Marju Purin"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 30,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 184",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 184",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 184",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2013
 }

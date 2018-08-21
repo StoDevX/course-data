@@ -1,21 +1,30 @@
 {
-	"clbid": 26504,
+	"clbid": "0000026504",
 	"credits": 1.0,
-	"crsid": 1859,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 13,
+	"crsid": "0000001859",
+	"department": "HIST",
+	"enrolled": 13,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"H 516"
-	],
 	"max": 18,
 	"name": "European Intellectual",
 	"number": 307,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 516",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 516",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

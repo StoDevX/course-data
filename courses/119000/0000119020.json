@@ -1,22 +1,17 @@
 {
-	"clbid": 119020,
+	"clbid": "0000119020",
 	"credits": 1.0,
-	"crsid": 196,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000196",
+	"department": "CHEM",
 	"description": [
 		"Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of organic compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in CHEM 248. Offered annually in the fall semester. Counts toward biomolecular science concentration. Prerequisite: CHEM 126, or CH/BI 227, or permission of instructor."
 	],
-	"enroll": 52,
-	"groupid": 196,
+	"enrolled": 52,
+	"groupid": "0000000196",
 	"instructors": [
 		"Peter J. Gittins"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310"
-	],
 	"max": 40,
 	"name": "Organic Chemistry I",
 	"notes": [
@@ -24,6 +19,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 310",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 310",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 310",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 126, or CH/BI 227, or permission of instructor.",
 	"revisions": [
@@ -54,15 +69,31 @@
 		{
 			"_updated": "2018-08-11T03:33:41.270420+00:00",
 			"enroll": 53
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.858743+00:00",
+			"clbid": 119020,
+			"crsid": 196,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 52,
+			"enrolled": null,
+			"groupid": 196,
+			"locations": [
+				"RNS 310"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

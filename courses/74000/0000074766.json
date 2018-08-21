@@ -1,22 +1,25 @@
 {
-	"clbid": 74766,
+	"clbid": "0000074766",
 	"credits": 0.0,
-	"crsid": 125,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
-	"groupid": 124,
+	"crsid": "0000000125",
+	"department": "BIO",
+	"enrolled": 22,
+	"groupid": "0000000124",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 250"
-	],
 	"max": 22,
 	"name": "Vertebrate Biology Lab",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 250",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

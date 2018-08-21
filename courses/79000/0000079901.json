@@ -1,33 +1,41 @@
 {
-	"clbid": 79901,
+	"clbid": "0000079901",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000108",
+	"department": "BIO",
 	"description": [
 		"In this core course, students study the mechanisms of evolution, the evolutionary history of biological diversity, and the diversity of life. The structure and function of organisms are compared within an ecological/evolutionary context. Key adaptations to survival are examined among organisms from bacteria and protists to plants, fungi, and animals. Labs investigate population genetics, phylogeny, form, and behavior of selected organisms and provide experience in experimental design and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Prerequisite: Biology 125 or Chemistry/Biology 125-127."
 	],
-	"enroll": 45,
+	"enrolled": 45,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 108,
+	"groupid": "0000000108",
 	"grouptype": "3",
 	"instructors": [
 		"Nicholas J. Deacon"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 410",
-		"RNS 410"
-	],
 	"max": 46,
 	"name": "Evolution and Diversity",
 	"notes": [
 		"Students in Bio 126C must also register for one lab Bio 126 GL or HL."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 410",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 410",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Biology 125 or Chemistry/Biology 125-127.",
 	"revisions": [
@@ -50,10 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2010
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 9731,
+	"clbid": "0000009731",
 	"credits": 0.25,
-	"crsid": 1008,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001008",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"John Campion"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 30,
 	"name": "Scuba Diving",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "21:00",
+			"location": "SAC_POOL",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"F 0600-0900PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

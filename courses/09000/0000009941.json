@@ -1,22 +1,30 @@
 {
-	"clbid": 9941,
+	"clbid": "0000009941",
 	"credits": 1.0,
-	"crsid": 1321,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001321",
+	"department": "SOAN",
+	"enrolled": 17,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 25,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 204",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 204",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

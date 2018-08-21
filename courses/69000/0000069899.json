@@ -1,14 +1,12 @@
 {
-	"clbid": 69899,
+	"clbid": "0000069899",
 	"credits": 1.0,
-	"crsid": 1218,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001218",
+	"department": "REL",
 	"description": [
 		"This survey of the historical, cultural and theological developments within Judaism pays special attention to major periods in Jewish life and thought, as well as to contemporary Judaism. Students also consider related issues, such as anti-Semitism, religious pluralism, and Jewish-Christian dialogue."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Mara H. Benjamin"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 35,
 	"name": "Judaism",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 111",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 111",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

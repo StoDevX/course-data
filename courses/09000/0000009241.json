@@ -1,21 +1,36 @@
 {
-	"clbid": 9241,
+	"clbid": "0000009241",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 44,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 44,
 	"instructors": [
 		"Gary O. Spessard"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501"
-	],
 	"max": 50,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

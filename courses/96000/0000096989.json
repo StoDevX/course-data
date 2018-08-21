@@ -1,24 +1,33 @@
 {
-	"clbid": 96989,
+	"clbid": "0000096989",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000199",
+	"department": "CHEM",
 	"description": [
 		"This laboratory course introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Marc D. Scholten"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 999,
 	"name": "Synthesis Lab I",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the fall semester.",
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20134,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",
 	"year": 2013

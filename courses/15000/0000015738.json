@@ -1,21 +1,30 @@
 {
-	"clbid": 15738,
+	"clbid": "0000015738",
 	"credits": 0.5,
-	"crsid": 22,
-	"departments": [
-		"ART"
-	],
-	"enroll": 12,
+	"crsid": "0000000022",
+	"department": "ART",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FH 18"
-	],
 	"max": 15,
 	"name": "Foundation Sculpture",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "FH 18",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "FH 18",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

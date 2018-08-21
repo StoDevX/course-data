@@ -1,24 +1,39 @@
 {
-	"clbid": 119987,
+	"clbid": "0000119987",
 	"credits": 1.0,
-	"crsid": 218,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000218",
+	"department": "CHEM",
 	"description": [
 		"This course builds depth of biochemical understanding upon the foundation laid in CHEM 379. Contents may include selected topics in catabolic and anabolic metabolism, integration and regulation of metabolism, photosynthesis and biochemical genetics. In addition, students will gain experience with the primary literature. Offered annually in the spring semester. Counts toward biomolecular science concentration. Prerequisite: CHEM 379."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Gregory W. Muth"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 12,
 	"name": "Biochemistry II",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 379.",
 	"revisions": [
@@ -53,14 +68,29 @@
 			"_updated": "2018-08-07T14:48:48.642745+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.246872+00:00",
+			"clbid": 119987,
+			"crsid": 218,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

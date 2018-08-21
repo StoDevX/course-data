@@ -1,21 +1,30 @@
 {
-	"clbid": 26878,
+	"clbid": "0000026878",
 	"credits": 1.0,
-	"crsid": 1364,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 16,
+	"crsid": "0000001364",
+	"department": "SWRK",
+	"enrolled": 16,
 	"instructors": [
 		"Matthew Ringenberg"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 20,
 	"name": "Social Work Methds II",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

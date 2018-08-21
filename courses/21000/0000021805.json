@@ -1,21 +1,36 @@
 {
-	"clbid": 21805,
+	"clbid": "0000021805",
 	"credits": 1.0,
-	"crsid": 1326,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 24,
+	"crsid": "0000001326",
+	"department": "SPAN",
+	"enrolled": 24,
 	"instructors": [
 		"Gwendolyn Barnes-Karol"
 	],
 	"level": 200,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Intermed Spanish I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

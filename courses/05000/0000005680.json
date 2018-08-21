@@ -1,22 +1,30 @@
 {
-	"clbid": 5680,
+	"clbid": "0000005680",
 	"credits": 1.0,
-	"crsid": 89,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 19,
+	"crsid": "0000000089",
+	"department": "ASIAN",
+	"enrolled": 19,
 	"instructors": [
 		"Rika Ito"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 25,
 	"name": "Talking in Japan/Us",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 011",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 011",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 16964,
+	"clbid": "0000016964",
 	"credits": 0.25,
-	"crsid": 347,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 15,
+	"crsid": "0000000347",
+	"department": "DNCTE",
+	"enrolled": 15,
 	"instructors": [
 		"Ann (wagner) Wagner"
 	],
 	"level": 100,
-	"locations": [
-		"SAC"
-	],
 	"max": 12,
 	"name": "Ballroom I (Women)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19951,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

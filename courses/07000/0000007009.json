@@ -1,21 +1,36 @@
 {
-	"clbid": 7009,
+	"clbid": "0000007009",
 	"credits": 1.0,
-	"crsid": 597,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 23,
+	"crsid": "0000000597",
+	"department": "HIST",
+	"enrolled": 23,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 200,
-	"locations": [
-		"RML 421"
-	],
 	"max": 35,
 	"name": "20th Century Russia",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RML 421",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RML 421",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RML 421",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

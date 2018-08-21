@@ -1,14 +1,12 @@
 {
-	"clbid": 69810,
+	"clbid": "0000069810",
 	"credits": 1.0,
-	"crsid": 395,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000395",
+	"department": "ENGL",
 	"description": [
 		"This course focuses on verbal folklore: narratives, songs, and shorter forms such as proverbs. It explores their intrinsic qualities as literary creations and also the ways in which they operate together in combination or in dialogue. The folktale and the epic, for example, incorporate a variety of these forms, such as the proverb, the song, or the riddle, to form a complex whole. Prerequisite: FYW or equivalent."
 	],
-	"enroll": 33,
+	"enrolled": 33,
 	"gereqs": [
 		"ALS-L",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Joseph L. Mbele"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Folklore",
 	"number": 258,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW or equivalent.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2009
 }

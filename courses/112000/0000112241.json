@@ -1,14 +1,12 @@
 {
-	"clbid": 112241,
+	"clbid": "0000112241",
 	"credits": 1.0,
-	"crsid": 24127,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000024127",
+	"department": "CSCI",
 	"description": [
 		"This course focuses on handling data: visualization, finding patterns, and communicating with data. The primary tools are Python (for transforming data) and R (for visualization and classification). Students work individually and in teams to apply basic principles and explore real-world datasets with a sustainability theme. Counts toward statistics and mathematical biology concentrations. One of CSCI 121, CSCI 125, or CSCI 251 counts toward linguistic studies concentration. Offered each semester. Prerequisite: calculus or consent of the instructor."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,9 +14,6 @@
 		"Shahid Noor"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 30,
 	"name": "Comp Sci for Science/Math",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "calculus or consent of the instructor.",
 	"revisions": [
@@ -73,9 +88,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Computer Science for Scientists and Mathematicians",
 	"type": "Research",
 	"year": 2017

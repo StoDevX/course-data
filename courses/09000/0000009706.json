@@ -1,22 +1,30 @@
 {
-	"clbid": 9706,
+	"clbid": "0000009706",
 	"credits": 1.0,
-	"crsid": 981,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 17,
+	"crsid": "0000000981",
+	"department": "PHIL",
+	"enrolled": 17,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 22,
 	"name": "Friendship Love/Gd Lf",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

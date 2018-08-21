@@ -1,21 +1,36 @@
 {
-	"clbid": 7394,
+	"clbid": "0000007394",
 	"credits": 1.0,
-	"crsid": 1294,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 26,
+	"crsid": "0000001294",
+	"department": "SOAN",
+	"enrolled": 26,
 	"instructors": [
 		"Thomas A. Williamson"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031"
-	],
 	"max": 25,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

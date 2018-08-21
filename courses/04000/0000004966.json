@@ -1,21 +1,36 @@
 {
-	"clbid": 4966,
+	"clbid": "0000004966",
 	"credits": 1.0,
-	"crsid": 418,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 17,
+	"crsid": "0000000418",
+	"department": "ENGL",
+	"enrolled": 17,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 200,
-	"locations": [
-		"RML 520"
-	],
 	"max": 15,
 	"name": "Creative Writing I",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

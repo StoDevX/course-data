@@ -1,21 +1,36 @@
 {
-	"clbid": 3282,
+	"clbid": "0000003282",
 	"credits": 1.0,
-	"crsid": 922,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 22,
+	"crsid": "0000000922",
+	"department": "NORW",
+	"enrolled": 22,
 	"instructors": [
 		"Kari L. Dorer"
 	],
 	"level": 100,
-	"locations": [
-		"M 11"
-	],
 	"max": 25,
 	"name": "Begin Norwegian II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 19182,
+	"clbid": "0000019182",
 	"credits": 1.0,
-	"crsid": 418,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 18,
+	"crsid": "0000000418",
+	"department": "ENGL",
+	"enrolled": 18,
 	"instructors": [
 		"Stephen O. Swanson"
 	],
 	"level": 200,
-	"locations": [
-		"L 420"
-	],
 	"max": 18,
 	"name": "Creative Writing I",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 420",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 420",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

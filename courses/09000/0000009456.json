@@ -1,21 +1,36 @@
 {
-	"clbid": 9456,
+	"clbid": "0000009456",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 19,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 19,
 	"instructors": [
 		"Mary E. Trull"
 	],
 	"level": 100,
-	"locations": [
-		"RML 520"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 520",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 520",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 520",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

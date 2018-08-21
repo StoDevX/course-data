@@ -1,25 +1,34 @@
 {
-	"clbid": 74811,
+	"clbid": "0000074811",
 	"credits": 0.25,
-	"crsid": 810,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000810",
+	"department": "MUSIC",
 	"description": [
 		"Through group instruction, students encounter the fundamentals of singing and an introduction to song literature. In-class performance is required. This course may be repeated once. Offered each semester."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Karen Wilkerson",
 		"Sigrid Johnson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +47,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

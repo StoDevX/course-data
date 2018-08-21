@@ -1,21 +1,24 @@
 {
-	"clbid": 24390,
+	"clbid": "0000024390",
 	"credits": 0.0,
-	"crsid": 1616,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 0,
+	"crsid": "0000001616",
+	"department": "CSCI",
+	"enrolled": 0,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"OMH 300"
-	],
 	"max": 16,
 	"name": "Software Des/Lab",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "OMH 300",
+			"start": "13:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"Th 0130-0330PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

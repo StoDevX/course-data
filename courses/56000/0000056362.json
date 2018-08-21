@@ -1,28 +1,43 @@
 {
-	"clbid": 56362,
+	"clbid": "0000056362",
 	"credits": 1.0,
-	"crsid": 166,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000166",
+	"department": "BIO",
 	"description": [
 		"Immunology focuses on the structure, development and function of the immune system. The course explores the molecular and cellular basis of the immune responses. The application of immunological principles to allergy, autoimmunity, AIDS, transplantation, and cancer will be included. Students attend lectures plus a 2-hour discussion per week. Prerequisites: Biology 125 and 126, or Chemistry/Biology 125-127 and Biology 126, and Biology 233; one semester of Chemistry or Chemistry/Biology 125-127. Offered annually."
 	],
-	"enroll": 33,
-	"groupid": 166,
+	"enrolled": 33,
+	"groupid": "0000000166",
 	"instructors": [
 		"Theodore Johnson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 24,
 	"name": "Immunology",
 	"notes": [
 		"Students in Bio 382 must also register for one discussion Bio 382AD or BD."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and 126, or Chemistry/Biology 125-127 and Biology 126, and Biology 233; one semester of Chemistry or Chemistry/Biology 125-127. Offered annually.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2007
 }

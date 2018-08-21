@@ -1,21 +1,36 @@
 {
-	"clbid": 671,
+	"clbid": "0000000671",
 	"credits": 1.0,
-	"crsid": 1326,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 24,
+	"crsid": "0000001326",
+	"department": "SPAN",
+	"enrolled": 24,
 	"instructors": [
 		"Terri Greenslade"
 	],
 	"level": 200,
-	"locations": [
-		"M 21"
-	],
 	"max": 27,
 	"name": "Intermed Spanish I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 21",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 21",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 21",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 215,
+	"clbid": "0000000215",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 23,
+	"crsid": "0000000392",
+	"department": "ENGL",
+	"enrolled": 23,
 	"instructors": [
 		"Diana Postlethwaite"
 	],
 	"level": 100,
-	"locations": [
-		"L 525"
-	],
 	"max": 25,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

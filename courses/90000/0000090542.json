@@ -1,14 +1,12 @@
 {
-	"clbid": 90542,
+	"clbid": "0000090542",
 	"credits": 1.0,
-	"crsid": 969,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000969",
+	"department": "PHIL",
 	"description": [
 		"An introduction to Kierkegaard's work and to existentialism, this course emphasizes the aesthetic, ethical, and religious \"stages on life's way.\" Existential questions concerning the meaning of human existence, passion and faith, freedom and choice, despair, and the absurd are examined. Offered annually."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Anthony J. Rudd"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 212",
-		"TOH 212"
-	],
 	"max": 25,
 	"name": "Kierkegaard",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 212",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 212",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Kierkegaard and Existentialism",
 	"type": "Research",
 	"year": 2013

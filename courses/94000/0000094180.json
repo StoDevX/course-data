@@ -1,22 +1,25 @@
 {
-	"clbid": 94180,
+	"clbid": "0000094180",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 28,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 28,
+	"groupid": "0000000187",
 	"instructors": [
 		"William P. Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 12,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 350",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

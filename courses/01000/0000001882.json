@@ -1,21 +1,30 @@
 {
-	"clbid": 1882,
+	"clbid": "0000001882",
 	"credits": 0.5,
-	"crsid": 26,
-	"departments": [
-		"ART"
-	],
-	"enroll": 20,
+	"crsid": "0000000026",
+	"department": "ART",
+	"enrolled": 20,
 	"instructors": [
 		"Ron Gallas"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 115E"
-	],
 	"max": 15,
 	"name": "Found Ceramics: Wheel",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 115E",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CAD 115E",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

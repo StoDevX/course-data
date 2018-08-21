@@ -1,21 +1,30 @@
 {
-	"clbid": 1254,
+	"clbid": "0000001254",
 	"credits": 1.0,
-	"crsid": 460,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 18,
+	"crsid": "0000000460",
+	"department": "ENVST",
+	"enrolled": 18,
 	"instructors": [
 		"Robert Jacobel"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 24,
 	"name": "Global Climate Change",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 129",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 129",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

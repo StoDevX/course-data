@@ -1,21 +1,30 @@
 {
-	"clbid": 26522,
+	"clbid": "0000026522",
 	"credits": 1.0,
-	"crsid": 724,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 8,
+	"crsid": "0000000724",
+	"department": "LATIN",
+	"enrolled": 8,
 	"instructors": [
 		"Gwendolyn Compton-Engle"
 	],
 	"level": 300,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Latin Satire",
 	"number": 377,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 3",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 3",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

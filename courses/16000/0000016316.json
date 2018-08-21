@@ -1,22 +1,37 @@
 {
-	"clbid": 16316,
+	"clbid": "0000016316",
 	"credits": 0.5,
-	"crsid": 2222,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 33,
+	"crsid": "0000002222",
+	"department": "PETH",
+	"enrolled": 33,
 	"halfcredit": "2",
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 27,
 	"name": "Psych of Sport",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

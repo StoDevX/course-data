@@ -1,24 +1,39 @@
 {
-	"clbid": 58922,
+	"clbid": "0000058922",
 	"credits": 1.0,
-	"crsid": 297,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000297",
+	"department": "CSCI",
 	"description": [
 		"In this implementation-oriented examination of features commonly found in computer programming languages, students construct their own interpreters for an example programming language incorporating the various language features they study throughout the course. Topics include programming language semantics, programming language translation, implementation of control structures and memory structures, abstraction mechanisms, and language translation systems and types. Prerequisites: Computer Science 241 and either Computer Science 125 or 251, or permission of instructor."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Programming Languages",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 241 and either Computer Science 125 or 251, or permission of instructor.",
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

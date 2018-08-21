@@ -1,22 +1,30 @@
 {
-	"clbid": 7434,
+	"clbid": "0000007434",
 	"credits": 1.0,
-	"crsid": 1365,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 11,
+	"crsid": "0000001365",
+	"department": "SWRK",
+	"enrolled": 11,
 	"instructors": [
 		"Charlynn Overvoorde"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130",
-		"SC 130"
-	],
 	"max": 20,
 	"name": "Eval/Sw Practice/Prog",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 130",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 130",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

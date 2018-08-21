@@ -1,22 +1,42 @@
 {
-	"clbid": 5080,
+	"clbid": "0000005080",
 	"credits": 1.0,
-	"crsid": 664,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 15,
+	"crsid": "0000000664",
+	"department": "JAPAN",
+	"enrolled": 15,
 	"instructors": [
 		"Phyllis Hyland Larson"
 	],
 	"level": 200,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 25,
 	"name": "Intermed Japanese II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "TB 227",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM",
-		"T 0305-0400PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

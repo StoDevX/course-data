@@ -1,21 +1,36 @@
 {
-	"clbid": 9568,
+	"clbid": "0000009568",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 28,
+	"crsid": "0000000712",
+	"department": "LATIN",
+	"enrolled": 28,
 	"instructors": [
 		"Christopher M. Brunelle"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031"
-	],
 	"max": 30,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 031",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 031",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 031",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22685,
+	"clbid": "0000022685",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 22,
+	"crsid": "0000001011",
+	"department": "PEAC",
+	"enrolled": 22,
 	"instructors": [
 		"Dick Daymont"
 	],
 	"level": 100,
-	"locations": [
-		"SAC WR RM"
-	],
 	"max": 20,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 7438,
+	"clbid": "0000007438",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 52,
+	"crsid": "0000001375",
+	"department": "THEAT",
+	"enrolled": 52,
 	"instructors": [
 		"Gary C. Gisselman"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 55,
 	"name": "Intro to Theater",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

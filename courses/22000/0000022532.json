@@ -1,21 +1,36 @@
 {
-	"clbid": 22532,
+	"clbid": "0000022532",
 	"credits": 1.0,
-	"crsid": 649,
-	"departments": [
-		"FAMST"
-	],
-	"enroll": 26,
+	"crsid": "0000000649",
+	"department": "FAMST",
+	"enrolled": 26,
 	"instructors": [
 		"C. George Holt"
 	],
 	"level": 200,
-	"locations": [
-		"L 421"
-	],
 	"max": 25,
 	"name": "Family Relationships",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

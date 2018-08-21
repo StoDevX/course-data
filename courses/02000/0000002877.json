@@ -1,22 +1,42 @@
 {
-	"clbid": 2877,
+	"clbid": "0000002877",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 18,
 	"instructors": [
 		"Denise Thiede"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 211"
-	],
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "Th",
+			"end": "17:30",
+			"location": "SC 211",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1045-1140",
-		"Th 0300-0530PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

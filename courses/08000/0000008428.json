@@ -1,22 +1,30 @@
 {
-	"clbid": 8428,
+	"clbid": "0000008428",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 13,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 13,
 	"instructors": [
 		"James Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 109",
-		"BMC 109"
-	],
 	"max": 15,
 	"name": "Sem: Bible",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 109",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

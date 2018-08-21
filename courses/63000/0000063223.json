@@ -1,14 +1,12 @@
 {
-	"clbid": 63223,
+	"clbid": "0000063223",
 	"credits": 1.0,
-	"crsid": 542,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000542",
+	"department": "GREEK",
 	"description": [
 		"The New Testament is the most famous and most widely translated Greek text from antiquity. Students delight in reading one or more of the Gospels, the Acts of the Apostles, or selected Pauline letters in the original language. Questions about the transmission of the text and about its theological implications provoke lively discussions. Prerequisite: Greek 231 or equivalent. Offered annually."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"gereqs": [
 		"ALS-L",
 		"FOL-K"
@@ -17,12 +15,29 @@
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"OM 003"
-	],
 	"max": 18,
 	"name": "New Testament Greek",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 003",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 003",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 003",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Greek 231 or equivalent. Offered annually.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2008
 }

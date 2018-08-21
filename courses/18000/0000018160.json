@@ -1,21 +1,30 @@
 {
-	"clbid": 18160,
+	"clbid": "0000018160",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 16,
+	"crsid": "0000000452",
+	"department": "ENGL",
+	"enrolled": 16,
 	"instructors": [
 		"Jonathan Hill"
 	],
 	"level": 300,
-	"locations": [
-		"L 525"
-	],
 	"max": 15,
 	"name": "Sem: The Romantics",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 525",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 525",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

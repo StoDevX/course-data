@@ -1,24 +1,39 @@
 {
-	"clbid": 118027,
+	"clbid": "0000118027",
 	"credits": 1.0,
-	"crsid": 540,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000540",
+	"department": "GREEK",
 	"description": [
 		"In this two-course sequence students learn the basics of ancient Greek. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any ancient Greek text with the aid of a dictionary. Offered annually in the spring semester. Prerequisite: GREEK 111 or equivalent."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 16,
 	"name": "Beginning Greek II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GREEK 111 or equivalent.",
 	"revisions": [
@@ -59,9 +74,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

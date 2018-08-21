@@ -1,14 +1,12 @@
 {
-	"clbid": 95474,
+	"clbid": "0000095474",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000747",
+	"department": "MATH",
 	"description": [
 		"Algebra is concerned with sets of objects and operations that satisfy a few basic properties. Using the properties we study axiomatic systems such as groups, rings, and fields, covering topics such as homomorphisms, cosets, quotient structures, polynomial rings,and finite fields. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Prerequisite: MATH 220. Permission of instructor required for first-year students."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Adam H. Berliner"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 206"
-	],
 	"max": 20,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 220. Permission of instructor required for first-year students.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

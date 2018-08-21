@@ -1,21 +1,36 @@
 {
-	"clbid": 2493,
+	"clbid": "0000002493",
 	"credits": 1.0,
-	"crsid": 1273,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 17,
+	"crsid": "0000001273",
+	"department": "RUSSN",
+	"enrolled": 17,
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "20th C Russian Lit-Tr",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2001
 }

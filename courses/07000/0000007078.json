@@ -1,21 +1,36 @@
 {
-	"clbid": 7078,
+	"clbid": "0000007078",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 25,
+	"crsid": "0000000736",
+	"department": "MATH",
+	"enrolled": 25,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 22,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 130",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 130",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 130",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

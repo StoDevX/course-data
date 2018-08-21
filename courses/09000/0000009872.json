@@ -1,22 +1,30 @@
 {
-	"clbid": 9872,
+	"clbid": "0000009872",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 23,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 23,
 	"instructors": [
 		"L. DeAne Lagerquist"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 111",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 111",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

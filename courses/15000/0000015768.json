@@ -1,21 +1,36 @@
 {
-	"clbid": 15768,
+	"clbid": "0000015768",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 33,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 33,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278"
-	],
 	"max": 48,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

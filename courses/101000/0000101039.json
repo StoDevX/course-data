@@ -1,28 +1,55 @@
 {
-	"clbid": 101039,
+	"clbid": "0000101039",
 	"credits": 1.0,
-	"crsid": 215,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000215",
+	"department": "CHEM",
 	"description": [
 		"In the laboratory, students investigate and identify organic compounds, singly and in mixtures. Lectures and discussion sessions investigate various spectroscopic methods and their applications to the elucidation of the structure of organic compounds. Offered during Interim. Prerequisites: CHEM 248 and CHEM 254."
 	],
-	"enroll": 9,
-	"groupid": 215,
+	"enrolled": 9,
+	"groupid": "0000000215",
 	"instructors": [
 		"Daniel A. Everson"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 12,
 	"name": "Organic Analys/Theory",
 	"notes": [
 		"Students in Chemistry 380 must also register for lab Chemistry 380 L."
 	],
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM 248 and CHEM 254.",
 	"revisions": [
@@ -44,9 +71,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20152,
-	"times": [
-		"M-F 0800-1000"
-	],
 	"title": "Organic Analysis and Theory",
 	"type": "Research",
 	"year": 2015

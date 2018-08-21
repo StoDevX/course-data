@@ -1,14 +1,12 @@
 {
-	"clbid": 120232,
+	"clbid": "0000120232",
 	"credits": 1.0,
-	"crsid": 1330,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001330",
+	"department": "SPAN",
 	"description": [
 		"Students explore the topic of family and society in the Spanish-speaking world and develop critical reading skills by analyzing cultural documents (literary and non-literary texts, including at least one substantive literary work). This cultural analysis provides for extensive writing (e.g., description, narration, exposition, and argumentation). Taught in Spanish. Offered each semester. Counts toward women's and gender studies and Latin American studies majors and family studies, management studies, and women's and gender studies concentrations. Prerequisite: SPAN 232 or placement into SPAN 250."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-S",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Gwendolyn Barnes-Karol"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 316",
-		"TOH 316"
-	],
 	"max": 15,
 	"name": "Family/Gender Roles in Spain",
 	"notes": [
 		"Prerequisite: completion of Spanish placement test or preceding course."
 	],
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 316",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 316",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 232 or placement into SPAN 250.",
 	"revisions": [
@@ -61,16 +69,32 @@
 		{
 			"_updated": "2018-08-11T03:33:43.565650+00:00",
 			"name": "Gateway Spanish-Speaking World"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.584226+00:00",
+			"clbid": 120232,
+			"crsid": 1330,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 316",
+				"TOH 316"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Gateway to the Spanish-Speaking World",
 	"type": "Research",
 	"year": 2018

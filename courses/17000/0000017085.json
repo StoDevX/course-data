@@ -1,21 +1,30 @@
 {
-	"clbid": 17085,
+	"clbid": "0000017085",
 	"credits": 1.0,
-	"crsid": 1780,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 18,
+	"crsid": "0000001780",
+	"department": "HIST",
+	"enrolled": 18,
 	"instructors": [
 		"Stephen Blake"
 	],
 	"level": 100,
-	"locations": [
-		"M 2"
-	],
 	"max": 23,
 	"name": "Mahatma Gandhi",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 2",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 2",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

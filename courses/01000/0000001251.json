@@ -1,21 +1,30 @@
 {
-	"clbid": 1251,
+	"clbid": "0000001251",
 	"credits": 1.0,
-	"crsid": 455,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 23,
+	"crsid": "0000000455",
+	"department": "ENVST",
+	"enrolled": 23,
 	"instructors": [
 		"Brian C. Welch"
 	],
 	"level": 100,
-	"locations": [
-		"SC 129"
-	],
 	"max": 24,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 129",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

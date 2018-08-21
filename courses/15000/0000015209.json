@@ -1,21 +1,36 @@
 {
-	"clbid": 15209,
+	"clbid": "0000015209",
 	"credits": 0.5,
-	"crsid": 2204,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 23,
+	"crsid": "0000002204",
+	"department": "PETH",
+	"enrolled": 23,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 999,
 	"name": "Skills/Tech Apt Act",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SAC 1",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SAC 1",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SAC 1",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

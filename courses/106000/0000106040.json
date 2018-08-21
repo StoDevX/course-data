@@ -1,14 +1,12 @@
 {
-	"clbid": 106040,
+	"clbid": "0000106040",
 	"credits": 1.0,
-	"crsid": 1177,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001177",
+	"department": "PSYCH",
 	"description": [
 		"Students examine theories of normal personality development in an effort to understand the factors that shape personality. Is personality biologically determined? Is it a result of interpersonal experiences, learning and reinforcement? Are other factors involved as well? Students investigate prominent personality theories and research and their conceptualizations of this fundamental aspect of human experience. Offered annually. Prerequisite: PSYCH 125."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Carlo O. Veltri"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 25,
 	"name": "Psych of Personality",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -48,9 +63,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20161,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Psychology of Personality",
 	"type": "Research",
 	"year": 2016

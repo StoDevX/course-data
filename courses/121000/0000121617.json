@@ -1,14 +1,12 @@
 {
-	"clbid": 121617,
+	"clbid": "0000121617",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001191",
+	"department": "REL",
 	"description": [
 		"This course introduces first-year students to the dialogue between Biblical traditions and the cultures and communities related to them. Students study major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"BTS-B"
 	],
@@ -16,15 +14,32 @@
 		"Kelly W. Figuerora-Ray"
 	],
 	"level": 100,
-	"locations": [
-		"OM 240"
-	],
 	"max": 19,
 	"name": "Bible/Culture/Commun",
 	"notes": [
 		"Section topic: Politics in the Bible and the Bible in Politics."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 240",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 240",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 240",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -82,8 +97,26 @@
 			"status": "C"
 		},
 		{
-			"_updated": "2018-08-21T03:40:20.498248+00:00",
+			"_updated": "2018-08-21T03:27:38.537977+00:00",
+			"clbid": 121617,
+			"crsid": 1191,
+			"department": null,
+			"departments": [
+				"REL"
+			],
 			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"OM 240"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
+		},
+		{
+			"_updated": "2018-08-21T04:00:51.329410+00:00",
+			"enrolled": 18,
 			"status": "O"
 		}
 	],
@@ -91,9 +124,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Bible in Culture and Community",
 	"type": "Research",
 	"year": 2018

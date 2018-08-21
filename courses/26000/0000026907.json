@@ -1,21 +1,36 @@
 {
-	"clbid": 26907,
+	"clbid": "0000026907",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 23,
+	"crsid": "0000001402",
+	"department": "STAT",
+	"enrolled": 23,
 	"instructors": [
 		"Kenneth Alberts"
 	],
 	"level": 100,
-	"locations": [
-		"L 250"
-	],
 	"max": 24,
 	"name": "Prin of Statistics",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "L 250",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "L 250",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "L 250",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1999
 }

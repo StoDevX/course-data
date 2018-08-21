@@ -1,14 +1,12 @@
 {
-	"clbid": 118756,
+	"clbid": "0000118756",
 	"credits": 1.0,
-	"crsid": 1069,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001069",
+	"department": "PHYS",
 	"description": [
 		"A basic introduction to astronomy, this course concentrates on how we know what we know. Students explore questions such as \"How do we measure the distance to a star?\" and \"How do we know the universe is expanding?\" In addition to studying the solar system, stars, black holes, galaxies, and the history of the universe, students engage in observation using the department's telescopes. Offered every other year. Currently planned for 2017-18. Prerequisite: proficiency in algebra and geometry."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 280"
-	],
 	"max": 48,
 	"name": "Intro Astronomy",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 280",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 280",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "proficiency in algebra and geometry.",
 	"revisions": [
@@ -54,14 +69,29 @@
 			"_updated": "2018-08-07T14:48:45.055933+00:00",
 			"enroll": "29",
 			"max": "48"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.434446+00:00",
+			"clbid": 118756,
+			"crsid": 1069,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 29,
+			"enrolled": null,
+			"locations": [
+				"TOH 280"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Introductory Astronomy",
 	"type": "Research",
 	"year": 2018

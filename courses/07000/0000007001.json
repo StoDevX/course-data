@@ -1,21 +1,36 @@
 {
-	"clbid": 7001,
+	"clbid": "0000007001",
 	"credits": 1.0,
-	"crsid": 569,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 16,
+	"crsid": "0000000569",
+	"department": "HIST",
+	"enrolled": 16,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515"
-	],
 	"max": 19,
 	"name": "Civil Rights Revolutn",
 	"number": 145,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2003
 }

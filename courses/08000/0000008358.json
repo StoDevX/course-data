@@ -1,22 +1,30 @@
 {
-	"clbid": 8358,
+	"clbid": "0000008358",
 	"credits": 1.0,
-	"crsid": 1177,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 20,
+	"crsid": "0000001177",
+	"department": "PSYCH",
+	"enrolled": 20,
 	"instructors": [
 		"Donna K. McMillan"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 30,
 	"name": "Psych of Personality",
 	"number": 271,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

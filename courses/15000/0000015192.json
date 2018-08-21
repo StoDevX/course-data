@@ -1,21 +1,30 @@
 {
-	"clbid": 15192,
+	"clbid": "0000015192",
 	"credits": 0.25,
-	"crsid": 2193,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 5,
+	"crsid": "0000002193",
+	"department": "PEAC",
+	"enrolled": 5,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"COURTS"
-	],
 	"max": 8,
 	"name": "Handball",
 	"number": 155,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "COURTS",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "COURTS",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 2226,
+	"clbid": "0000002226",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 18,
+	"crsid": "0000000731",
+	"department": "MATH",
+	"enrolled": 18,
 	"instructors": [
 		"Doreen Hamilton"
 	],
 	"level": 100,
-	"locations": [
-		"SC 130"
-	],
 	"max": 32,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

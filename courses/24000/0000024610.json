@@ -1,21 +1,36 @@
 {
-	"clbid": 24610,
+	"clbid": "0000024610",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 20,
+	"crsid": "0000000712",
+	"department": "LATIN",
+	"enrolled": 20,
 	"instructors": [
 		"Gwendolyn Compton-Engle"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

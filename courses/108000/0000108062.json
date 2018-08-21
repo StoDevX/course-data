@@ -1,28 +1,43 @@
 {
-	"clbid": 108062,
+	"clbid": "0000108062",
 	"credits": 1.0,
-	"crsid": 239,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000239",
+	"department": "CHIN",
 	"description": [
 		"Second semester of the two elementary courses, designed for those who have completed CHIN 111 or with equivalent backgrounds. It aims to further develop basic Mandarin skills, such as speaking, listening, reading, writing, and knowledge of Chinese culture and society. Students should achieve the Novice High to Intermediate Low level on the ACTFL proficiency scale, identifying about 300 characters upon completion of this course. Class meets four times weekly. Prerequisite: CHIN 111 or placement."
 	],
-	"enroll": 15,
-	"groupid": 239,
+	"enrolled": 15,
+	"groupid": "0000000239",
 	"instructors": [
 		"Hsiang-Lin Shih"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 153"
-	],
 	"max": 14,
 	"name": "Beginning Chinese II",
 	"notes": [
 		"Students in Chin 112B must also register for one lab Chin 112 AL or BL."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 153",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 153",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 153",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 111 or placement.",
 	"revisions": [
@@ -59,9 +74,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2016
 }

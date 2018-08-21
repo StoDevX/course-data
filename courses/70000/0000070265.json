@@ -1,14 +1,12 @@
 {
-	"clbid": 70265,
+	"clbid": "0000070265",
 	"credits": 1.0,
-	"crsid": 78,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000000078",
+	"department": "ASIAN",
 	"description": [
 		"This course examines major cultures of Asia from interdisciplinary and comparative perspectives with attention to theories of human behavior. Themes vary from year to year but may include Asian cities, heroic ideals, village and family life, population growth, gender roles, and medicine and healing traditions. No prerequisites."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Matthew Rahaim"
 	],
 	"level": 100,
-	"locations": [
-		"HH 403",
-		"HH 403"
-	],
 	"max": 40,
 	"name": "Asian Cultures",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 403",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 403",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20091,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Asian Cultures in Comparative Perspectives",
 	"type": "Research",
 	"year": 2009

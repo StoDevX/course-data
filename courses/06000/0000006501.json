@@ -1,21 +1,48 @@
 {
-	"clbid": 6501,
+	"clbid": "0000006501",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 11,
+	"crsid": "0000000479",
+	"department": "FREN",
+	"enrolled": 11,
 	"instructors": [
 		"Alexander Hertich"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011"
-	],
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "OM 011",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "OM 011",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "OM 011",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "OM 011",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "OM 011",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20032,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

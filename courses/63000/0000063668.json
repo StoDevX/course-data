@@ -1,25 +1,33 @@
 {
-	"clbid": 63668,
+	"clbid": "0000063668",
 	"credits": 0.25,
-	"crsid": 808,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000808",
+	"department": "MUSIC",
 	"description": [
 		"A continuation of 161, this course offers added emphases on more advanced harmonic idioms, transposition, score reading, and improvisation. Students earning a grade of B- or higher meet the department's keyboard proficiency standards for B.A. music students who are not majoring in music education. Open to non-music majors on a space-available basis only. Prerequisite: Music 161, equivalency examination I, or audition placement. Offered Spring Semester."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"instructors": [
 		"Paul A. Hisey"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "CHM 222",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:10",
+			"location": "CHM 222",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 161, equivalency examination I, or audition placement. Offered Spring Semester.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0120-0215PM",
-		"Th 0215-0310PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

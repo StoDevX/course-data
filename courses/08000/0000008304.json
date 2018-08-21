@@ -1,21 +1,24 @@
 {
-	"clbid": 8304,
+	"clbid": "0000008304",
 	"credits": 0.0,
-	"crsid": 1077,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001077",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 159"
-	],
 	"max": 18,
 	"name": "Analytical I/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:50",
+			"location": "SC 159",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0120-0350PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

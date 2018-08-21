@@ -1,14 +1,12 @@
 {
-	"clbid": 122035,
+	"clbid": "0000122035",
 	"credits": 1.0,
-	"crsid": 1240,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001240",
+	"department": "REL",
 	"description": [
 		"Students consider the present situation and future prospects of Roman Catholic theology through an engagement with the figures and events that have most deeply shaped Catholic theology in the 20th and 21st centuries. The course also examines recent Catholic views on the central topics of Christian theology, God, Christ, salvation and the Church, and the relationship of these views to Protestant ideas about the same issues. Prerequisite: BTS-B."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"Benjamin E. Heidgerken"
 	],
 	"level": 200,
-	"locations": [
-		"OM 340",
-		"OM 340"
-	],
 	"max": 24,
 	"name": "Roman Catholic Theology",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 340",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 340",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -65,15 +73,31 @@
 		{
 			"_updated": "2018-08-17T03:36:13.493728+00:00",
 			"enroll": 26
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.666376+00:00",
+			"clbid": 122035,
+			"crsid": 1240,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 25,
+			"enrolled": null,
+			"locations": [
+				"OM 340",
+				"OM 340"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

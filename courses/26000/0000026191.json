@@ -1,21 +1,30 @@
 {
-	"clbid": 26191,
+	"clbid": "0000026191",
 	"credits": 1.0,
-	"crsid": 60,
-	"departments": [
-		"ART"
-	],
-	"enroll": 12,
+	"crsid": "0000000060",
+	"department": "ART",
+	"enrolled": 12,
 	"instructors": [
 		"Perette Michelli"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 20,
 	"name": "Later Medieval Art",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH 01",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "FH 01",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

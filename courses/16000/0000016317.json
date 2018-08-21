@@ -1,22 +1,31 @@
 {
-	"clbid": 16317,
+	"clbid": "0000016317",
 	"credits": 0.5,
-	"crsid": 2223,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 10,
+	"crsid": "0000002223",
+	"department": "PETH",
+	"enrolled": 10,
 	"halfcredit": "2",
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 999,
 	"name": "Sport in Amer Society",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SAC 1",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC 1",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

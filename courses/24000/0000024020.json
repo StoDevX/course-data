@@ -1,21 +1,48 @@
 {
-	"clbid": 24020,
+	"clbid": "0000024020",
 	"credits": 1.0,
-	"crsid": 189,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 51,
+	"crsid": "0000000189",
+	"department": "CHEM",
+	"enrolled": 51,
 	"instructors": [
 		"Paul Fischer"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378/18"
-	],
 	"max": 999,
 	"name": "Chemical Structure",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SC 378/18",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "SC 378/18",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "SC 378/18",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "SC 378/18",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "SC 378/18",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19982,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

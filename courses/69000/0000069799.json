@@ -1,14 +1,12 @@
 {
-	"clbid": 69799,
+	"clbid": "0000069799",
 	"credits": 1.0,
-	"crsid": 302,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000302",
+	"department": "CSCI",
 	"description": [
 		"This course addresses computational problems arising from the need to store, access, transform, and utilize DNA-related data. Topics from computer science central to the development of problem-solving tools include: exhaustive search; algorithms (including dynamic programming, divide-and-conquer, graph and greedy algorithms); combinatorial pattern matching; clustering and trees; and hidden Markov models. Prerequisites: Computer Science 253, or Computer Science 121 and Biology 125, or Computer Science 121 and Mathematics 222, or permission of instructor. Next offered in Spring 2011 and Spring 2013."
 	],
-	"enroll": 4,
+	"enrolled": 4,
 	"gereqs": [
 		"IST"
 	],
@@ -16,13 +14,23 @@
 		"Richard Allen"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 18,
 	"name": "Bioinformatics",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 203",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 203",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 253, or Computer Science 121 and Biology 125, or Computer Science 121 and Mathematics 222, or permission of instructor. Next offered in Spring 2011 and Spring 2013.",
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9673,
+	"clbid": "0000009673",
 	"credits": 0.25,
-	"crsid": 864,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 18,
+	"crsid": "0000000864",
+	"department": "MUSIC",
+	"enrolled": 18,
 	"instructors": [
 		"John Ferguson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 232",
-		"CHM 232"
-	],
 	"max": 15,
 	"name": "Church Music Pract II",
 	"number": 392,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 232",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 232",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

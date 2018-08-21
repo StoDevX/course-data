@@ -1,21 +1,30 @@
 {
-	"clbid": 20360,
+	"clbid": "0000020360",
 	"credits": 1.0,
-	"crsid": 1762,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 8,
+	"crsid": "0000001762",
+	"department": "GERM",
+	"enrolled": 8,
 	"instructors": [
 		"Lavern Rippley"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 10,
 	"name": "Sem: Deutsch-Amerikane",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1996
 }

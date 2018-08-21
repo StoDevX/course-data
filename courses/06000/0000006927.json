@@ -1,21 +1,24 @@
 {
-	"clbid": 6927,
+	"clbid": "0000006927",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 14,
+	"crsid": "0000000452",
+	"department": "ENGL",
+	"enrolled": 14,
 	"instructors": [
 		"James Heynen"
 	],
 	"level": 300,
-	"locations": [
-		"RML 520"
-	],
 	"max": 15,
 	"name": "Major Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "22:00",
+			"location": "RML 520",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0700-1000PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 2028,
+	"clbid": "0000002028",
 	"credits": 1.0,
-	"crsid": 311,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 12,
+	"crsid": "0000000311",
+	"department": "EDUC",
+	"enrolled": 12,
 	"instructors": [
 		"Elizabeth A. Leer"
 	],
 	"level": 200,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 25,
 	"name": "Educ Psychology",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH 10L",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "FH 10L",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

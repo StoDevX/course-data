@@ -1,21 +1,30 @@
 {
-	"clbid": 22500,
+	"clbid": "0000022500",
 	"credits": 1.0,
-	"crsid": 547,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 3,
+	"crsid": "0000000547",
+	"department": "GREEK",
+	"enrolled": 3,
 	"instructors": [
 		"Gwendolyn Compton-Engle"
 	],
 	"level": 300,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Greek Historians",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 36",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 36",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

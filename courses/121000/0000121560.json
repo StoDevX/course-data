@@ -1,14 +1,12 @@
 {
-	"clbid": 121560,
+	"clbid": "0000121560",
 	"credits": 1.0,
-	"crsid": 231,
-	"departments": [
-		"CLASS"
-	],
+	"crsid": "0000000231",
+	"department": "CLASS",
 	"description": [
 		"What made the last years of the Roman Republic and the early years of the Roman Empire \"golden\"? Students learn the answer by reading some of the finest Latin literature ever written, from epic to satire. They also do research with historical source materials. The course emphasizes the many ways in which ancient Rome has influenced and continues to influence Western culture. Offered alternate years. Counts toward ancient studies, classics, Greek, and Latin majors."
 	],
-	"enroll": 31,
+	"enrolled": 31,
 	"gereqs": [
 		"ALS-L",
 		"HWC"
@@ -17,13 +15,23 @@
 		"Kyle Helms"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210",
-		"TOH 210"
-	],
 	"max": 40,
 	"name": "Golden Age of Rome-Tr",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 210",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 210",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -73,15 +81,31 @@
 		{
 			"_updated": "2018-08-11T03:33:41.412627+00:00",
 			"enroll": 32
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.391315+00:00",
+			"clbid": 121560,
+			"crsid": 231,
+			"department": null,
+			"departments": [
+				"CLASS"
+			],
+			"enroll": 31,
+			"enrolled": null,
+			"locations": [
+				"TOH 210",
+				"TOH 210"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Golden Age of Rome",
 	"type": "Research",
 	"year": 2018

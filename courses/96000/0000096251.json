@@ -1,24 +1,39 @@
 {
-	"clbid": 96251,
+	"clbid": "0000096251",
 	"credits": 1.0,
-	"crsid": 16235,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000016235",
+	"department": "MATH",
 	"description": [
 		"Modern mathematics is characterized by the interaction of theoretical and computational techniques. In this course, students study topics from pure and applied mathematics with the aid of computation. Symbolic, graphical, and numerical computational techniques are introduced. Students develop computational skills sufficient to investigate mathematical questions independently. No previous programming experience is required. Offered annually. Counts toward mathematical biology concentration. Prerequisite: MATH 220."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 20,
 	"name": "Modern Computational Math",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 220.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Modern Computational Mathematics",
 	"type": "Research",
 	"year": 2014

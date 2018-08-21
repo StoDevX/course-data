@@ -1,24 +1,39 @@
 {
-	"clbid": 97495,
+	"clbid": "0000097495",
 	"credits": 1.0,
-	"crsid": 294,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000294",
+	"department": "CSCI",
 	"description": [
 		"This course surveys standard algorithms and data structures with emphasis on implementation experience and complexity analysis. Topics include algorithmic strategies, fundamental computer algorithms, stacks, queues, lists, trees, hash tables, heaps and priority queues, compression, and decompression. Prerequisites: MATH 282 (MATH 244 or MATH 252) and CSCI 251, or consent of the instructor. Offered annually. Counts toward neuroscience concentration."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 18,
 	"name": "Algorithms/Data Struc",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 282 (MATH 244 or MATH 252) and CSCI 251, or consent of the instructor. Offered annually. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Algorithms and Data Structures",
 	"type": "Research",
 	"year": 2014

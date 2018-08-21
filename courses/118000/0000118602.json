@@ -1,22 +1,25 @@
 {
-	"clbid": 118602,
+	"clbid": "0000118602",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 4,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 4,
+	"groupid": "0000000187",
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 22,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 350",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:44.809456+00:00",
 			"enroll": "4",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.110399+00:00",
+			"clbid": 118602,
+			"crsid": 188,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 4,
+			"enrolled": null,
+			"groupid": 187,
+			"locations": [
+				"RNS 350"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0800-1100"
+			]
 		}
 	],
 	"section": "F",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

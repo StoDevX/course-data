@@ -1,21 +1,36 @@
 {
-	"clbid": 19778,
+	"clbid": "0000019778",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
-	"enroll": 18,
+	"crsid": "0000001476",
+	"department": "WMNST",
+	"enrolled": 18,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 100,
-	"locations": [
-		"YH 132"
-	],
 	"max": 20,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "YH 132",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "YH 132",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "YH 132",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

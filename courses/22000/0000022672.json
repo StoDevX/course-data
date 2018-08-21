@@ -1,21 +1,24 @@
 {
-	"clbid": 22672,
+	"clbid": "0000022672",
 	"credits": 1.0,
-	"crsid": 994,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 12,
+	"crsid": "0000000994",
+	"department": "PHIL",
+	"enrolled": 12,
 	"instructors": [
 		"Gordon D. Marino"
 	],
 	"level": 300,
-	"locations": [
-		"H 516"
-	],
 	"max": 18,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "22:00",
+			"location": "H 516",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"W 0700-1000PM"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

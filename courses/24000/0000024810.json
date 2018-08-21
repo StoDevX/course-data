@@ -1,22 +1,31 @@
 {
-	"clbid": 24810,
+	"clbid": "0000024810",
 	"credits": 0.5,
-	"crsid": 2220,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 6,
+	"crsid": "0000002220",
+	"department": "PETH",
+	"enrolled": 6,
 	"halfcredit": "1",
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 999,
 	"name": "Phys Ed/Elem Grades",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SAC 140",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SAC 140",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1998
 }

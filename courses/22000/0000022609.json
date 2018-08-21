@@ -1,21 +1,30 @@
 {
-	"clbid": 22609,
+	"clbid": "0000022609",
 	"credits": 0.75,
-	"crsid": 817,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 14,
+	"crsid": "0000000817",
+	"department": "MUSIC",
+	"enrolled": 14,
 	"instructors": [
 		"Martin Hodel"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 30,
 	"name": "Theory III",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1997
 }

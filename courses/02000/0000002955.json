@@ -1,22 +1,48 @@
 {
-	"clbid": 2955,
+	"clbid": "0000002955",
 	"credits": 1.0,
-	"crsid": 243,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 12,
+	"crsid": "0000000243",
+	"department": "CHIN",
+	"enrolled": 12,
 	"instructors": [
 		"Anbin Shi"
 	],
 	"level": 200,
-	"locations": [
-		"L 421",
-		"M 2"
-	],
 	"max": 30,
 	"name": "Intermed Chinese II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 421",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 2",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 2",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 1150-1245PM",
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

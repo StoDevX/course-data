@@ -1,11 +1,9 @@
 {
-	"clbid": 74726,
+	"clbid": "0000074726",
 	"credits": 1.0,
-	"crsid": 21538,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 28,
+	"crsid": "0000021538",
+	"department": "ENGL",
+	"enrolled": 28,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -13,12 +11,29 @@
 		"Jeff Solomon"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 30,
 	"name": "Top: 20th C Amer Lit",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2010
 }

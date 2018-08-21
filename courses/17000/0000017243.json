@@ -1,22 +1,54 @@
 {
-	"clbid": 17243,
+	"clbid": "0000017243",
 	"credits": 2.0,
-	"crsid": 948,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 16,
+	"crsid": "0000000948",
+	"department": "NURS",
+	"enrolled": 16,
 	"instructors": [
 		"Mary Johnson"
 	],
 	"level": 300,
-	"locations": [
-		"H 215",
-		"H 215"
-	],
 	"max": 20,
 	"name": "Hlth Assess/Nurs Conc",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 215",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 215",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 215",
+			"start": "09:05"
+		},
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 215",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 215",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 215",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +66,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 0905-1000",
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9556,
+	"clbid": "0000009556",
 	"credits": 1.0,
-	"crsid": 683,
-	"departments": [
-		"IS"
-	],
-	"enroll": 15,
+	"crsid": "0000000683",
+	"department": "IS",
+	"enrolled": 15,
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 18,
 	"name": "Sport & Relig: Amer Valu",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Topic",
 	"year": 2004
 }

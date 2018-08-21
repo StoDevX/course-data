@@ -1,32 +1,47 @@
 {
-	"clbid": 101245,
+	"clbid": "0000101245",
 	"credits": 1.0,
-	"crsid": 1080,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001080",
+	"department": "PHYS",
 	"description": [
 		"Physics 131, the second course in the three-semester calculus-based sequence, treats electricity, magnetism, and electromagnetic waves. There is one 2.5 hour laboratory meeting per week. Offered annually in the spring semester. Prerequisites: PHYS 130 and concurrent registration in (or previous completion of) MATH 126 or MATH 128."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 1080,
+	"groupid": "0000001080",
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 28,
 	"name": "Analytical II",
 	"notes": [
 		"Students in Physics 131 must also register for one Physics 131 lab."
 	],
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 130 and concurrent registration in (or previous completion of) MATH 126 or MATH 128.",
 	"revisions": [
@@ -55,9 +70,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Analytical Physics II",
 	"type": "Research",
 	"year": 2015

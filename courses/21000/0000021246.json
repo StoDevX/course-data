@@ -1,21 +1,36 @@
 {
-	"clbid": 21246,
+	"clbid": "0000021246",
 	"credits": 1.0,
-	"crsid": 1612,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 19,
+	"crsid": "0000001612",
+	"department": "CSCI",
+	"enrolled": 19,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 20,
 	"name": "Principles Comp Sci",
 	"number": 172,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

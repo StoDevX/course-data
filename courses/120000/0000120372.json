@@ -1,14 +1,12 @@
 {
-	"clbid": 120372,
+	"clbid": "0000120372",
 	"credits": 1.0,
-	"crsid": 31167,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000031167",
+	"department": "MUSIC",
 	"description": [
 		"This course introduces students to the study of music in cultural and historical perspective. Students explore a broad array of classical and vernacular tradtions from throughout the world with the goal of formulating and answering questions about music's nature and about its use by people in diverse times and places. Students also develop essential skills for thinking and writing critically about music-related subjects. Counts toward BA music major and all BM majors. Offered every fall and spring semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"HWC"
@@ -17,12 +15,29 @@
 		"Louis K. Epstein"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 59,
 	"name": "Introduction to Musicology",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +50,30 @@
 			"_updated": "2018-08-07T14:48:48.856261+00:00",
 			"enroll": "0",
 			"max": "59"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.832730+00:00",
+			"clbid": 120372,
+			"crsid": 31167,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 233"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 78269,
+	"clbid": "0000078269",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001022",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,13 +14,23 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"TC",
-		"TC"
-	],
 	"max": 16,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "TC",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "TC",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"T 1145-1245PM",
-		"Th 1245-0140PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

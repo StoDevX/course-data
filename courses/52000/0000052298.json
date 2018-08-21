@@ -1,22 +1,25 @@
 {
-	"clbid": 52298,
+	"clbid": "0000052298",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 21,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 21,
+	"groupid": "0000001074",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 20,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "15:25",
+			"location": "SC 111",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"F 1255-0325PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

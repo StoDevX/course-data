@@ -1,21 +1,30 @@
 {
-	"clbid": 18600,
+	"clbid": "0000018600",
 	"credits": 1.0,
-	"crsid": 1220,
-	"departments": [
-		"REL"
-	],
-	"enroll": 24,
+	"crsid": "0000001220",
+	"department": "REL",
+	"enrolled": 24,
 	"instructors": [
 		"Anantanand Rambachan"
 	],
 	"level": 200,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Hinduism",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CH 109",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CH 109",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

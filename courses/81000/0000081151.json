@@ -1,14 +1,12 @@
 {
-	"clbid": 81151,
+	"clbid": "0000081151",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include multiple regression, model diagnostics, and logistic regression. The approach focuses on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Prerequisite: Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered each semester. May not take Statistics 110, Statistics 212, or Statistics 263 after completion of Statistics 272."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Sharon Lane-Getaz"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Modeling",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 182",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered each semester. May not take Statistics 110, Statistics 212, or Statistics 263 after completion of Statistics 272.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2011
 }

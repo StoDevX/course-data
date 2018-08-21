@@ -1,24 +1,39 @@
 {
-	"clbid": 12272,
+	"clbid": "0000012272",
 	"credits": 1.0,
-	"crsid": 1084,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001084",
+	"department": "PHYS",
 	"description": [
 		"This introduction to fundamentals of DC and AC circuit theory and the principles of semiconductor electronics includes detailed studies of bipolar and field-effect transistors and operational amplifiers. Students attend one laboratory period each week. Prerequisite: Physics 125 or 228."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 24,
 	"name": "Electronic Circuits",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physics 125 or 228.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Electronic Circuits, Components and AC Circuit Theory",
 	"type": "Research",
 	"year": 2005

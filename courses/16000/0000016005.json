@@ -1,21 +1,36 @@
 {
-	"clbid": 16005,
+	"clbid": "0000016005",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 22,
+	"crsid": "0000000476",
+	"department": "FREN",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 26"
-	],
 	"max": 25,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 26",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 26",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 26",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

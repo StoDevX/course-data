@@ -1,21 +1,36 @@
 {
-	"clbid": 5121,
+	"clbid": "0000005121",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
+	"crsid": "0000000738",
+	"department": "MATH",
+	"enrolled": 19,
 	"instructors": [
 		"Doreen Hamilton"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

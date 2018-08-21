@@ -1,21 +1,36 @@
 {
-	"clbid": 16352,
+	"clbid": "0000016352",
 	"credits": 1.0,
-	"crsid": 2242,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 22,
+	"crsid": "0000002242",
+	"department": "PSCI",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"H 514"
-	],
 	"max": 30,
 	"name": "Political Analysis",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

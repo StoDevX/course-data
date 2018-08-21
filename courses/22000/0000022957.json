@@ -1,21 +1,30 @@
 {
-	"clbid": 22957,
+	"clbid": "0000022957",
 	"credits": 1.0,
-	"crsid": 1365,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 11,
+	"crsid": "0000001365",
+	"department": "SWRK",
+	"enrolled": 11,
 	"instructors": [
 		"Naurine Lennox"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 15,
 	"name": "Eval/SW Prac & Prog",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "L 177",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "L 177",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0100PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

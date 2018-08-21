@@ -1,21 +1,30 @@
 {
-	"clbid": 22333,
+	"clbid": "0000022333",
 	"credits": 1.0,
-	"crsid": 1615,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001615",
+	"department": "CSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 999,
 	"name": "Software Design & Impl",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 94159,
+	"clbid": "0000094159",
 	"credits": 1.0,
-	"crsid": 24363,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000024363",
+	"department": "EDUC",
 	"description": [
 		"This introductory course addresses the educational experience in the United States with specific focus on the experience of non-dominant groups within the U.S. Students examine the philosophy, history, politics, and sociology of the U.S. educational system. Topics are addressed through a central text as well as current literature and supplementary readings, highlighting the interaction of schools and communities. Students gain practical experience in an educational setting through a required field experience. In a final project, students develop and express their own philosophy of education based on their particular area of interest. Required 20-hour field experience. Offered every year."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"MCD"
 	],
@@ -16,12 +14,29 @@
 		"Maurella Cunningham"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 18,
 	"name": "Foundations in Education",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 112",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 112",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 112",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

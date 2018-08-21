@@ -1,24 +1,39 @@
 {
-	"clbid": 80145,
+	"clbid": "0000080145",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000738",
+	"department": "MATH",
 	"description": [
 		"This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered each semester."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 26,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 203",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Mathematics 126 or 128, and 220. Offered each semester.",
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Multivariable Calculus",
 	"type": "Research",
 	"year": 2010

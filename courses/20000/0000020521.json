@@ -1,22 +1,31 @@
 {
-	"clbid": 20521,
+	"clbid": "0000020521",
 	"credits": 1.0,
-	"crsid": 2105,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 4,
+	"crsid": "0000002105",
+	"department": "PARA",
+	"enrolled": 4,
 	"instructors": [
 		"Olivia Frey",
 		"Bruce Nordstrom-Loeb"
 	],
 	"level": 200,
-	"locations": [
-		"H 514"
-	],
 	"max": 15,
 	"name": "Gay,Lesbian, Bi Life",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

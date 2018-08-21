@@ -1,21 +1,36 @@
 {
-	"clbid": 10761,
+	"clbid": "0000010761",
 	"credits": 1.0,
-	"crsid": 829,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 62,
+	"crsid": "0000000829",
+	"department": "MUSIC",
+	"enrolled": 62,
 	"instructors": [
 		"David Hagedorn"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 60,
 	"name": "World Music",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 233",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2005
 }

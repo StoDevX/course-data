@@ -1,25 +1,33 @@
 {
-	"clbid": 85989,
+	"clbid": "0000085989",
 	"credits": 1.0,
-	"crsid": 220,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000220",
+	"department": "CHEM",
 	"description": [
 		"This course explores the subject of organic chemistry at a greater depth and breadth than in Chemistry 247 and Chemistry 248. Topics may include analysis of reaction mechanisms, reaction kinetics, and reaction thermodynamics. Particular attention is paid to the interdependent relationship between experimental and theoretical results. Textbook subjects are augmented by readings from the primary research literature. Prerequisite: Chemistry 248. Offered alternate years in the spring semester."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Dipannita Kalyani"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 316",
-		"RNS 316"
-	],
 	"max": 10,
 	"name": "Adv Organic Chemistry",
 	"number": 388,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 316",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 316",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 248. Offered alternate years in the spring semester.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20123,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Advanced Organic Chemistry",
 	"type": "Research",
 	"year": 2012

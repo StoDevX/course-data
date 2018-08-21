@@ -1,33 +1,48 @@
 {
-	"clbid": 93986,
+	"clbid": "0000093986",
 	"credits": 1.0,
-	"crsid": 26649,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000026649",
+	"department": "BIO",
 	"description": [
 		"This course is the gateway for the biology major, guiding students as they develop the context, skills, and modern framework on which to continue their study of biology. Students explore the history, evolution, and diversity of life in the context of genetics and comparative genomics. The laboratory emphasizes question-asking, problem-solving, and exploring biodiversity, and students have multiple opportunities to practice and communicate their science. Students attend lectures plus one 3-hour laboratory/discussion per week. Offered each semester."
 	],
-	"enroll": 51,
+	"enrolled": 51,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 26649,
+	"groupid": "0000026649",
 	"grouptype": "1",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 46,
 	"name": "Biodiversity Foundations",
 	"notes": [
 		"Students in Bio 150A must also register for one lab Bio 150 AL or BL."
 	],
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 410",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 410",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 410",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Evolutionary Foundations of Biodiversity",
 	"type": "Research",
 	"year": 2014

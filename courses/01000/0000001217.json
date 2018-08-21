@@ -1,22 +1,37 @@
 {
-	"clbid": 1217,
+	"clbid": "0000001217",
 	"credits": 1.0,
-	"crsid": 399,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 41,
+	"crsid": "0000000399",
+	"department": "ENGL",
+	"enrolled": 41,
 	"instructors": [
 		"Richard DuRocher",
 		"Carol Holly"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 999,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 2149,
+	"clbid": "0000002149",
 	"credits": 1.0,
-	"crsid": 1762,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 4,
+	"crsid": "0000001762",
+	"department": "GERM",
+	"enrolled": 4,
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Sem: Austrian Lit",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

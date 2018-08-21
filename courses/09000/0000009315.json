@@ -1,21 +1,36 @@
 {
-	"clbid": 9315,
+	"clbid": "0000009315",
 	"credits": 1.0,
-	"crsid": 295,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 11,
+	"crsid": "0000000295",
+	"department": "CSCI",
+	"enrolled": 11,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"HH 514"
-	],
 	"max": 20,
 	"name": "Ethical Iss: Software",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 514",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 514",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 514",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

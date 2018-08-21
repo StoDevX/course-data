@@ -1,25 +1,33 @@
 {
-	"clbid": 53585,
+	"clbid": "0000053585",
 	"credits": 1.0,
-	"crsid": 17674,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000017674",
+	"department": "BIO",
 	"description": [
 		"Human health is affected by both our biological environment -- a teaming world of parasites and diseases -- and our physical environment -- the water, air, and landscapes we inhabit. Our interactions with the environment are changing rapidly as human populations grow, travel increases, and ecosystems are altered. This course integrates traditional environmental topics, such as air and water quality, with newer public health topics, such as emerging diseases and food-borne illnesses. Prerequisite: An introductory science course."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Diane K. Angell"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 30,
 	"name": "Environmental Health",
 	"number": 228,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 204",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 204",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "An introductory science course.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

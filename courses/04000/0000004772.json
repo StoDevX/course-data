@@ -1,22 +1,42 @@
 {
-	"clbid": 4772,
+	"clbid": "0000004772",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
+	"crsid": "0000000122",
+	"department": "BIO",
+	"enrolled": 18,
 	"instructors": [
 		"Barbara May"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 229"
-	],
 	"max": 24,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "17:00",
+			"location": "SC 229",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM",
-		"Th 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

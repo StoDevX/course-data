@@ -1,14 +1,12 @@
 {
-	"clbid": 70431,
+	"clbid": "0000070431",
 	"credits": 1.0,
-	"crsid": 432,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000432",
+	"department": "ENGL",
 	"description": [
 		"Students explore the works of major authors writing in English from around the globe, as well as their historical, social, and geographic contexts. Prerequisite: FYW or equivalent."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,29 @@
 		"Mark P. Bresnan"
 	],
 	"level": 200,
-	"locations": [
-		"RML 421"
-	],
 	"max": 30,
 	"name": "Auth Engl: Am 1920s-30s",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW or equivalent.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Authors in English",
 	"type": "Topic",
 	"year": 2009

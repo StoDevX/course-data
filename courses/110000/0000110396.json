@@ -1,22 +1,43 @@
 {
-	"clbid": 110396,
+	"clbid": "0000110396",
 	"credits": 0.0,
-	"crsid": 19223,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
-	"groupid": 19222,
+	"crsid": "0000019223",
+	"department": "BIO",
+	"enrolled": 18,
+	"groupid": "0000019222",
 	"instructors": [
 		"Beth Pettitt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 455"
-	],
 	"max": 16,
 	"name": "Biology of Reproduction Lab",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 455",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 455",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 455",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "RNS 455",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +64,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20162,
-	"times": [
-		"MTThF 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

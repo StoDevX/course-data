@@ -1,14 +1,12 @@
 {
-	"clbid": 80612,
+	"clbid": "0000080612",
 	"credits": 1.0,
-	"crsid": 60,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000060",
+	"department": "ART",
 	"description": [
 		"This course explores the arts and architecture of western Europe from c. 300 to c. 1300. Through lectures and discussions, students study paintings, sculpture, manuscripts, metalwork, and stained glass windows created by the many cultures of this rich and diverse period in the history of art. Students approach the material in a variety of ways; in addition to issues of style, technique, and iconography, students address issues of viewing, patronage, and gender. Offered periodically. Counts towards medieval studies major."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"gereqs": [
 		"ALS-A",
 		"HWC"
@@ -17,12 +15,29 @@
 		"Nancy M. Thompson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Medieval Art",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2011
 }

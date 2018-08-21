@@ -1,14 +1,12 @@
 {
-	"clbid": 118616,
+	"clbid": "0000118616",
 	"credits": 1.0,
-	"crsid": 576,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000576",
+	"department": "HIST",
 	"description": [
 		"This course takes a comparative and chronological approach to studying the diverse cultures of the modern world. Through original texts, historical studies, and literary sources, students examine such themes as the rise of American imperialism and its impact on indigenous peoples of the Americas, Asia, and Africa; the emergence of the nation-state and new ideologies; the spread of American influence in the world; human interaction with the environment; challenges to religion and traditional life-styles; and innovation in family and gender structures. Offered annually."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Abdulai Iddrisu"
 	],
 	"level": 100,
-	"locations": [
-		"HH 433",
-		"HH 433"
-	],
 	"max": 25,
 	"name": "Global 1500-Present",
 	"number": 195,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 433",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 433",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,15 +54,31 @@
 		{
 			"_updated": "2018-08-09T03:33:25.335373+00:00",
 			"enroll": 8
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.117637+00:00",
+			"clbid": 118616,
+			"crsid": 576,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"locations": [
+				"HH 433",
+				"HH 433"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Global Histories from 1500 to the Present",
 	"type": "Research",
 	"year": 2018

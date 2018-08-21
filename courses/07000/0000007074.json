@@ -1,21 +1,36 @@
 {
-	"clbid": 7074,
+	"clbid": "0000007074",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 20,
+	"crsid": "0000000733",
+	"department": "MATH",
+	"enrolled": 20,
 	"instructors": [
 		"Amelia J. Taylor"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

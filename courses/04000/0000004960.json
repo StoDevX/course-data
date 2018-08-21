@@ -1,21 +1,36 @@
 {
-	"clbid": 4960,
+	"clbid": "0000004960",
 	"credits": 1.0,
-	"crsid": 388,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 32,
+	"crsid": "0000000388",
+	"department": "ENGL",
+	"enrolled": 32,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515"
-	],
 	"max": 34,
 	"name": "Literary Eras: British",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2002
 }

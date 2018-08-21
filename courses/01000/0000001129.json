@@ -1,21 +1,36 @@
 {
-	"clbid": 1129,
+	"clbid": "0000001129",
 	"credits": 1.0,
-	"crsid": 269,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 21,
+	"crsid": "0000000269",
+	"department": "ECON",
+	"enrolled": 21,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 25,
 	"name": "Bus, Govt & Marketpl",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 302",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 302",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 302",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 22771,
+	"clbid": "0000022771",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Rodney G. Grubb"
 	],
 	"level": 100,
-	"locations": [
-		"H 501"
-	],
 	"max": 45,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 501",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 501",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 501",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

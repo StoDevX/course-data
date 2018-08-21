@@ -1,24 +1,33 @@
 {
-	"clbid": 12222,
+	"clbid": "0000012222",
 	"credits": 0.25,
-	"crsid": 1018,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001018",
+	"department": "PEAC",
 	"description": [
 		"Students learn the principles of training, basic techniques and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Wt Training-Women",
 	"number": 142,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MW 0800-0855"
-	],
 	"title": "Weight Training Women",
 	"type": "Research",
 	"year": 2005

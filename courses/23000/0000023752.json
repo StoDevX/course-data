@@ -1,21 +1,36 @@
 {
-	"clbid": 23752,
+	"clbid": "0000023752",
 	"credits": 1.0,
-	"crsid": 1121,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 8,
+	"crsid": "0000001121",
+	"department": "PSCI",
+	"enrolled": 8,
 	"instructors": [
 		"J. Patrick Dale"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 25,
 	"name": "Pol Indust Societies",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 31",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 31",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 31",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

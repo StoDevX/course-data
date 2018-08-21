@@ -1,21 +1,36 @@
 {
-	"clbid": 7376,
+	"clbid": "0000007376",
 	"credits": 1.0,
-	"crsid": 1241,
-	"departments": [
-		"REL"
-	],
-	"enroll": 15,
+	"crsid": "0000001241",
+	"department": "REL",
+	"enrolled": 15,
 	"instructors": [
 		"William Poehlmann"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 109"
-	],
 	"max": 20,
 	"name": "Hist Chr Thought I",
 	"number": 302,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "BMC 109",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "BMC 109",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "BMC 109",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2003
 }

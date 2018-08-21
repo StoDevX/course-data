@@ -1,22 +1,43 @@
 {
-	"clbid": 106408,
+	"clbid": "0000106408",
 	"credits": 0.0,
-	"crsid": 17303,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 17,
-	"groupid": 171,
+	"crsid": "0000017303",
+	"department": "BIO",
+	"enrolled": 17,
+	"groupid": "0000000171",
 	"instructors": [
 		"Kevin B. Potts"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 14,
 	"name": "Animal Behavior Lab",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 123",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 123",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 123",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 123",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,9 +75,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20162,
-	"times": [
-		"M-Th 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

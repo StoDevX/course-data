@@ -1,24 +1,26 @@
 {
-	"clbid": 61290,
+	"clbid": "0000061290",
 	"credits": 0.0,
-	"crsid": 19396,
-	"departments": [
-		"BIO",
-		"ENVST"
-	],
-	"enroll": 10,
-	"groupid": 18793,
+	"crsid": "0000019396",
+	"department": "BI/ES",
+	"enrolled": 10,
+	"groupid": "0000018793",
 	"instructors": [
 		"John D. Schade",
 		"Stephanie N. Schmidt"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 12,
 	"name": "Biogeochemistry Lab",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:30",
+			"location": "RNS 454",
+			"start": "14:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 0230-0530PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

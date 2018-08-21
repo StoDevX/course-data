@@ -1,25 +1,20 @@
 {
-	"clbid": 100321,
+	"clbid": "0000100321",
 	"credits": 1.0,
-	"crsid": 207,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000207",
+	"department": "CHEM",
 	"description": [
 		"Students delve further into the topics of kinetics, thermodynamics and atomic and molecular structure that were introduced in the first-year courses, with an emphasis on the mathematical aspects of chemistry. Specific topics include reaction mechanisms, the laws of thermodynamics, statistical thermodynamics, equilibrium, quantum mechanics, spectroscopy, and molecular orbital theory. Offered each semester. Prerequisites: CHEM 126 or CH/BI 227 or permission of instructor and concurrent registration in CHEM 357; previous completion of PHYS 124 or PHYS 130 is recommended."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"IST"
 	],
-	"groupid": 207,
+	"groupid": "0000000207",
 	"instructors": [
 		"Rodrigo Sanchez-Gonzalez"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 290"
-	],
 	"max": 39,
 	"name": "Physical Chemistry",
 	"notes": [
@@ -27,6 +22,26 @@
 		"Open only to rising juniors and rising seniors."
 	],
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 290",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 290",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 290",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM 126 or CH/BI 227 or permission of instructor and concurrent registration in CHEM 357; previous completion of PHYS 124 or PHYS 130 is recommended.",
 	"revisions": [
@@ -48,9 +63,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2015
 }

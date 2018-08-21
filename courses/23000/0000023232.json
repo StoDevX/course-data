@@ -1,22 +1,42 @@
 {
-	"clbid": 23232,
+	"clbid": "0000023232",
 	"credits": 1.0,
-	"crsid": 106,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
+	"crsid": "0000000106",
+	"department": "BIO",
+	"enrolled": 20,
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "16:30",
+			"location": "SC 273",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1045-1140",
-		"F 0200-0430PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 111377,
+	"clbid": "0000111377",
 	"credits": 0.25,
-	"crsid": 30305,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000030305",
+	"department": "DANCE",
 	"description": [
 		"Students learn special topics in dance in a movement intensive environment. Students study the historical, social, and cultural context in which the dance topic emerged and currently functions and the physical and expressive capacities that distinguish it from other forms. Dance topics could include somatics, Gaga, contact improvisation, yoga, partnering, or aerial dance. Topics may vary from year to year. No prerequisite. Offered periodically."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"Karla Grotting"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2"
-	],
 	"max": 20,
 	"name": "Topics: Intermediate Jazz",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CAD Studio 2",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CAD Studio 2",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CAD Studio 2",
+			"start": "10:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -50,9 +65,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Topics in Movement Studies in Dance",
 	"type": "Topic",
 	"year": 2016

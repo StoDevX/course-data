@@ -1,14 +1,12 @@
 {
-	"clbid": 69849,
+	"clbid": "0000069849",
 	"credits": 1.0,
-	"crsid": 769,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000769",
+	"department": "MGMT",
 	"description": [
 		"This course provides an overview of the key issues which face arts administrators. Topics addressed include strategic planning, budgeting, fund raising, audience development, and human resource management as each relates to the unique setting of the arts. Case analysis and guest speakers provide opportunities to explore application of key concepts. Offered annually."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,15 +14,32 @@
 		"Sian E. Muir"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 102"
-	],
 	"max": 30,
 	"name": "Arts Management",
 	"notes": [
 		"Not open to first-year students."
 	],
 	"number": 229,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "BMC 102",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "BMC 102",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "BMC 102",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2009
 }

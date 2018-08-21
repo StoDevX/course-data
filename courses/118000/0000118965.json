@@ -1,28 +1,36 @@
 {
-	"clbid": 118965,
+	"clbid": "0000118965",
 	"credits": 1.0,
-	"crsid": 774,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000774",
+	"department": "MGMT",
 	"description": [
 		"This course emphasizes the use of financial and operating information to make internal management decisions. Topics include cost measurement and allocation, budgeting and control, performance evaluation, relevant costs for decision-making and capital budgeting decisions. Students are introduced to the modern production environment. Excel spreadsheets are used for many homework assignments. Offered each semester. Prerequisite: MGMT 225."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Richard M. Hirsch"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208",
-		"RNS 208"
-	],
 	"max": 28,
 	"name": "Managerial/Cost Acct",
 	"notes": [
 		"Not open to First-year students."
 	],
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 208",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 208",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MGMT 225.",
 	"revisions": [
@@ -64,15 +72,31 @@
 			"_updated": "2018-08-07T14:48:45.181412+00:00",
 			"enroll": "22",
 			"max": "28"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.773277+00:00",
+			"clbid": 118965,
+			"crsid": 774,
+			"department": null,
+			"departments": [
+				"MGMT"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"RNS 208",
+				"RNS 208"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Managerial Accounting",
 	"type": "Research",
 	"year": 2018

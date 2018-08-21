@@ -1,21 +1,36 @@
 {
-	"clbid": 1617,
+	"clbid": "0000001617",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 29,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 29,
 	"instructors": [
 		"James Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"CH 102"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CH 102",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CH 102",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CH 102",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

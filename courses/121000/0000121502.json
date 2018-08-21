@@ -1,21 +1,24 @@
 {
-	"clbid": 121502,
+	"clbid": "0000121502",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 20,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "18:00",
+			"location": "RNS 394",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,15 +37,30 @@
 			"_updated": "2018-08-07T14:48:49.610310+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.685894+00:00",
+			"clbid": 121502,
+			"crsid": 123,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 394"
+			],
+			"offerings": null,
+			"times": [
+				"T 0300-0600PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0300-0600PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

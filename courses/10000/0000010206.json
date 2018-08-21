@@ -1,22 +1,31 @@
 {
-	"clbid": 10206,
+	"clbid": "0000010206",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 7,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 7,
+	"groupid": "0000001074",
 	"instructors": [
 		"Matthew C. Feig"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 999,
 	"name": "Principles Physics II",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "SC 111",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SC 111",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20045,
-	"times": [
-		"WTh 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

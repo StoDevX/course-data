@@ -1,21 +1,30 @@
 {
-	"clbid": 26368,
+	"clbid": "0000026368",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 18,
+	"crsid": "0000000351",
+	"department": "DNCTE",
+	"enrolled": 18,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CT RHT"
-	],
 	"max": 16,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CT RHT",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CT RHT",
+			"start": "10:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

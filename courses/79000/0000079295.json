@@ -1,14 +1,12 @@
 {
-	"clbid": 79295,
+	"clbid": "0000079295",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001012",
+	"department": "ESAC",
 	"description": [
 		"Students personally apply the basic principles of exercise through conditioning, strength development, endurance training, and aerobic activities. Students participate in a wide range of assessments designed to enhance physical fitness."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"William Sean Goldsworthy"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Individual Fitness",
 	"type": "Research",
 	"year": 2011

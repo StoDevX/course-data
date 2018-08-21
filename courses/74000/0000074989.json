@@ -1,22 +1,25 @@
 {
-	"clbid": 74989,
+	"clbid": "0000074989",
 	"credits": 0.0,
-	"crsid": 21507,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 23,
-	"groupid": 20162,
+	"crsid": "0000021507",
+	"department": "PSYCH",
+	"enrolled": 23,
+	"groupid": "0000020162",
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 24,
 	"name": "History and Methods Lab",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "RNS 240",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"Th 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

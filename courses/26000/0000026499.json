@@ -1,21 +1,36 @@
 {
-	"clbid": 26499,
+	"clbid": "0000026499",
 	"credits": 1.0,
-	"crsid": 605,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 25,
+	"crsid": "0000000605",
+	"department": "HIST",
+	"enrolled": 25,
 	"instructors": [
 		"Jeane DeLaney"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 35,
 	"name": "Modern Latin America",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

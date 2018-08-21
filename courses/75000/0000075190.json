@@ -1,14 +1,12 @@
 {
-	"clbid": 75190,
+	"clbid": "0000075190",
 	"credits": 1.0,
-	"crsid": 1482,
-	"departments": [
-		"ARMS"
-	],
+	"crsid": "0000001482",
+	"department": "ARMS",
 	"description": [
 		"This course provides an introduction to the cultural and historical background of four groups in the United States: African Americans, Native Americans, Latinos and Asian Americans. Emphasis is on race relations and the distinguishing characteristics of these cultures as reflected in the academic disciplines of the creative and performing arts, the humanities, the social and behavioral sciences and the general area of popular culture. Contributions to cultural pluralism are accentuated as well as the special issues of identity faced by these Americans. This course emphasizes literary texts."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Joan Hepburn"
 	],
 	"level": 100,
-	"locations": [
-		"RML 520",
-		"RML 520"
-	],
 	"max": 16,
 	"name": "Intro to Arms",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 520",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 520",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Introduction to American Racial and Multicultural Studies",
 	"type": "Research",
 	"year": 2010

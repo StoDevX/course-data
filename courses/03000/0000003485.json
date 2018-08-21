@@ -1,21 +1,30 @@
 {
-	"clbid": 3485,
+	"clbid": "0000003485",
 	"credits": 1.0,
-	"crsid": 1238,
-	"departments": [
-		"REL"
-	],
-	"enroll": 17,
+	"crsid": "0000001238",
+	"department": "REL",
+	"enrolled": 17,
 	"instructors": [
 		"Douglas Schuurman"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 25,
 	"name": "Love,Justice,Soc Rel",
 	"number": 296,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CH 101",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CH 101",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

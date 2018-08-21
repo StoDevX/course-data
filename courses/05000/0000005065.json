@@ -1,21 +1,36 @@
 {
-	"clbid": 5065,
+	"clbid": "0000005065",
 	"credits": 1.0,
-	"crsid": 1867,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 16,
+	"crsid": "0000001867",
+	"department": "HIST",
+	"enrolled": 16,
 	"instructors": [
 		"Judy Kutulas"
 	],
 	"level": 300,
-	"locations": [
-		"RML 577"
-	],
 	"max": 18,
 	"name": "Contemporary America",
 	"number": 338,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RML 577",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RML 577",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RML 577",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

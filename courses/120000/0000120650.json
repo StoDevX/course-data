@@ -1,14 +1,12 @@
 {
-	"clbid": 120650,
+	"clbid": "0000120650",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000259",
+	"department": "ECON",
 	"description": [
 		"This course takes an analytical approach to economic reasoning and contemporary issues. The course introduces microeconomic and macroeconomic theories with applications to relevant topics, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes, and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers. Offered each semester. Counts toward environmental studies major (social science emphasis) and management studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Bruce Wambheim"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,16 +60,32 @@
 			"_updated": "2018-08-07T14:48:49.015616+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.229616+00:00",
+			"clbid": 120650,
+			"crsid": 259,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Principles of Economics",
 	"type": "Research",
 	"year": 2018

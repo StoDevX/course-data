@@ -1,25 +1,33 @@
 {
-	"clbid": 52374,
+	"clbid": "0000052374",
 	"credits": 1.0,
-	"crsid": 655,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000655",
+	"department": "FAMST",
 	"description": [
 		"This capstone seminar required of all majors focuses on the exploration of current research and the integration of key foundation disciplines in the study of families. Students will explore topics through assigned readings and lecture material."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Sharon Powell"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 20,
 	"name": "Senior Sem: Spec Topic",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 204",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 204",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Senior Seminar: Special Topics",
 	"type": "Research",
 	"year": 2006

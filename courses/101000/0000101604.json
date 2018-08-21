@@ -1,23 +1,26 @@
 {
-	"clbid": 101604,
+	"clbid": "0000101604",
 	"credits": 0.0,
-	"crsid": 28969,
-	"departments": [
-		"ID"
-	],
-	"enroll": 24,
-	"groupid": 28968,
+	"crsid": "0000028969",
+	"department": "ID",
+	"enrolled": 24,
+	"groupid": "0000028968",
 	"instructors": [
 		"Thomas A. Williamson",
 		"Shelly D. Dickinson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 20,
 	"name": "Integr Sci/Soc Lab",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 123",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"W 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

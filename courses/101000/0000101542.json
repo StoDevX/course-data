@@ -1,14 +1,12 @@
 {
-	"clbid": 101542,
+	"clbid": "0000101542",
 	"credits": 1.0,
-	"crsid": 728,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000728",
+	"department": "MATH",
 	"description": [
 		"This course explores the nature of mathematics and its role in contemporary society. The content and format of the course vary depending on the instructor's interests. In particular, the course may focus on one or two mathematical topics in depth or survey a wider range of topics. Recent topics have included mathematics of voting, probability, game theory, finance, and connections between mathematics and the arts. Offered annually. Prerequisites: high school algebra and geometry."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Joseph Benson"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Gateways/Mathematics",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 184",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: high school algebra and geometry.",
 	"revisions": [
@@ -54,10 +62,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Gateways to Mathematics",
 	"type": "Research",
 	"year": 2015

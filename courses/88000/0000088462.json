@@ -1,25 +1,33 @@
 {
-	"clbid": 88462,
+	"clbid": "0000088462",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000740",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential equations and analytical, numerical, and graphical techniques for the analysis of their solutions. First- and second-order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology, and physics. Laplace transforms or nonlinear systems may be covered as time permits. Students use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered each semester. Counts toward neuroscience concentration."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Kosmas Diveris"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204",
-		"RNS 204"
-	],
 	"max": 22,
 	"name": "Differential Equations I",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 204",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 204",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128 and 220. Offered each semester. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2013
 }

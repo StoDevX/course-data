@@ -1,28 +1,36 @@
 {
-	"clbid": 120680,
+	"clbid": "0000120680",
 	"credits": 1.0,
-	"crsid": 1365,
-	"departments": [
-		"SWRK"
-	],
+	"crsid": "0000001365",
+	"department": "SWRK",
 	"description": [
 		"Social work majors study scientific philosophies and approaches to ethical knowledge building for social work practice. The course includes an overview of the research process using both quantitative and qualitative methods, with special attention to how research knowledge informs generalist social work practice. Students apply course concepts in the field through an academic civic engagement component. Open only to social work majors. Offered annually in the spring semester. Counts toward management studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"HH 433",
-		"HH 433"
-	],
 	"max": 18,
 	"name": "Res Methods/Social Work",
 	"notes": [
 		"This course is open only to Junior Social Work majors."
 	],
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 433",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 433",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +43,31 @@
 			"_updated": "2018-08-07T14:48:49.044326+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.291705+00:00",
+			"clbid": 120680,
+			"crsid": 1365,
+			"department": null,
+			"departments": [
+				"SWRK"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 433",
+				"HH 433"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Research Methods in Social Work",
 	"type": "Research",
 	"year": 2018

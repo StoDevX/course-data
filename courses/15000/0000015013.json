@@ -1,21 +1,30 @@
 {
-	"clbid": 15013,
+	"clbid": "0000015013",
 	"credits": 0.0,
-	"crsid": 663,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 0,
+	"crsid": "0000000663",
+	"department": "JAPAN",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 999,
 	"name": "Interm Japanese I/Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "M 15",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "M 15",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

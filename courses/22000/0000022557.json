@@ -1,21 +1,36 @@
 {
-	"clbid": 22557,
+	"clbid": "0000022557",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 15,
+	"crsid": "0000000731",
+	"department": "MATH",
+	"enrolled": 15,
 	"instructors": [
 		"Christopher Schwartz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 999,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

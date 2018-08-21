@@ -1,14 +1,12 @@
 {
-	"clbid": 89967,
+	"clbid": "0000089967",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000353",
+	"department": "DANCE",
 	"description": [
 		"This course provides students with an introduction to ballet technique, vocabulary, proper body alignment and body awareness. Outside work includes practicing, reading, writing and concert attendance. May be repeated with permission of instructor. Offered each semester."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 15,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CAD Studio 2",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CAD Studio 2",
+			"start": "12:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 1150-1245PM",
-		"Th 1245-0140PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

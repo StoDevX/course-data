@@ -1,21 +1,24 @@
 {
-	"clbid": 49316,
+	"clbid": "0000049316",
 	"credits": 0.0,
-	"crsid": 1164,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 11,
+	"crsid": "0000001164",
+	"department": "PSYCH",
+	"enrolled": 11,
 	"instructors": [
 		"Howard Thorsheim"
 	],
 	"level": 200,
-	"locations": [
-		"HH 319"
-	],
 	"max": 0,
 	"name": "Cognit/Learn/Memory Lab",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "HH 319",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

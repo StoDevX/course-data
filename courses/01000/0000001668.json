@@ -1,21 +1,36 @@
 {
-	"clbid": 1668,
+	"clbid": "0000001668",
 	"credits": 1.0,
-	"crsid": 1294,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 27,
+	"crsid": "0000001294",
+	"department": "SOAN",
+	"enrolled": 27,
 	"instructors": [
 		"Mark Goodale"
 	],
 	"level": 100,
-	"locations": [
-		"CH 110"
-	],
 	"max": 30,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CH 110",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CH 110",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CH 110",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

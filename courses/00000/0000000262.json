@@ -1,21 +1,36 @@
 {
-	"clbid": 262,
+	"clbid": "0000000262",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 17,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 17,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 100,
-	"locations": [
-		"L 420"
-	],
 	"max": 20,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 420",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 420",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 420",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

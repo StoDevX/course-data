@@ -1,23 +1,26 @@
 {
-	"clbid": 51758,
+	"clbid": "0000051758",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 32,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 32,
+	"groupid": "0000000194",
 	"grouptype": "2",
 	"instructors": [
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/363"
-	],
 	"max": 30,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "SC 374/363",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

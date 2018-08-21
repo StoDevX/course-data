@@ -1,21 +1,36 @@
 {
-	"clbid": 8098,
+	"clbid": "0000008098",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
+	"crsid": "0000000736",
+	"department": "MATH",
+	"enrolled": 19,
 	"instructors": [
 		"Judith Cederberg"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 30,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 186",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 186",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 186",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 12137,
+	"clbid": "0000012137",
 	"credits": 1.0,
-	"crsid": 822,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 23,
+	"crsid": "0000000822",
+	"department": "MUSIC",
+	"enrolled": 23,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 16,
 	"name": "Composition I",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 85451,
+	"clbid": "0000085451",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001017",
+	"department": "ESAC",
 	"description": [
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Shahram Ahrar"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Wt Rm"
-	],
 	"max": 15,
 	"name": "Wt Training-Men",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC Wt Rm",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "SAC Wt Rm",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"title": "Weight Training Men",
 	"type": "Research",
 	"year": 2011

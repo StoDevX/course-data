@@ -1,21 +1,30 @@
 {
-	"clbid": 19251,
+	"clbid": "0000019251",
 	"credits": 1.0,
-	"crsid": 557,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 21,
+	"crsid": "0000000557",
+	"department": "HIST",
+	"enrolled": 21,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 100,
-	"locations": [
-		"H 302"
-	],
 	"max": 23,
 	"name": "Europe/Great War",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 302",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 302",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

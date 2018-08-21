@@ -1,22 +1,30 @@
 {
-	"clbid": 9696,
+	"clbid": "0000009696",
 	"credits": 1.0,
-	"crsid": 968,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 21,
+	"crsid": "0000000968",
+	"department": "PHIL",
+	"enrolled": 21,
 	"instructors": [
 		"Anthony J. Rudd"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 25,
 	"name": "Phil of Mind/Behavior",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 516",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 516",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

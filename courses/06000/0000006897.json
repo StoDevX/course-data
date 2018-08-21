@@ -1,22 +1,37 @@
 {
-	"clbid": 6897,
+	"clbid": "0000006897",
 	"credits": 1.0,
-	"crsid": 397,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 48,
+	"crsid": "0000000397",
+	"department": "ENGL",
+	"enrolled": 48,
 	"instructors": [
 		"Karen E. Marsalek",
 		"Mary E. Trull"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 60,
 	"name": "Lit in Engl to 1650",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

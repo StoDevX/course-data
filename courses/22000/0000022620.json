@@ -1,21 +1,30 @@
 {
-	"clbid": 22620,
+	"clbid": "0000022620",
 	"credits": 0.25,
-	"crsid": 1989,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 7,
+	"crsid": "0000001989",
+	"department": "MUSIC",
+	"enrolled": 7,
 	"instructors": [
 		"Harriet McCleary"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Diction: French Lyric",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

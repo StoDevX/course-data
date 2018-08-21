@@ -1,22 +1,30 @@
 {
-	"clbid": 7938,
+	"clbid": "0000007938",
 	"credits": 1.0,
-	"crsid": 492,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 9,
+	"crsid": "0000000492",
+	"department": "FREN",
+	"enrolled": 9,
 	"instructors": [
 		"Herve Pensec"
 	],
 	"level": 300,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 18,
 	"name": "Top: Caribbean Lit",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 026",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 026",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Topic",
 	"year": 2004
 }

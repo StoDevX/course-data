@@ -1,21 +1,36 @@
 {
-	"clbid": 9694,
+	"clbid": "0000009694",
 	"credits": 1.0,
-	"crsid": 964,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 21,
+	"crsid": "0000000964",
+	"department": "PHIL",
+	"enrolled": 21,
 	"instructors": [
 		"Anthony J. Rudd"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515"
-	],
 	"max": 20,
 	"name": "Making of Modern Mind",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 515",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 515",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 515",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

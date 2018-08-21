@@ -1,21 +1,30 @@
 {
-	"clbid": 18418,
+	"clbid": "0000018418",
 	"credits": 0.25,
-	"crsid": 1021,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 3,
+	"crsid": "0000001021",
+	"department": "PEAC",
+	"enrolled": 3,
 	"instructors": [
 		"Todd R. Carroll"
 	],
 	"level": 100,
-	"locations": [
-		"SAC RACQ CT"
-	],
 	"max": 8,
 	"name": "Racquetball (Women)",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "SAC RACQ CT",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SAC RACQ CT",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

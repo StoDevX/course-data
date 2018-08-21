@@ -1,14 +1,12 @@
 {
-	"clbid": 80788,
+	"clbid": "0000080788",
 	"credits": 1.0,
-	"crsid": 1215,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001215",
+	"department": "REL",
 	"description": [
 		"The themes of this introduction to major religious traditions including Hinduism, Buddhism and Islam vary from semester to semester; possible topics include sacred texts, religious experience, images of the divine and the understanding of death and afterlife."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Anantanand Rambachan"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101",
-		"BMC 101"
-	],
 	"max": 35,
 	"name": "Understg Rel Trad",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "BMC 101",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "BMC 101",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Understanding Religious Traditions",
 	"type": "Research",
 	"year": 2011

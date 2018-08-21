@@ -1,21 +1,36 @@
 {
-	"clbid": 16198,
+	"clbid": "0000016198",
 	"credits": 1.0,
-	"crsid": 927,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 8,
+	"crsid": "0000000927",
+	"department": "NORW",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 2"
-	],
 	"max": 999,
 	"name": "Intermed Norwegian II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 2",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 2",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 2",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

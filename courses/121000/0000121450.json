@@ -1,24 +1,39 @@
 {
-	"clbid": 121450,
+	"clbid": "0000121450",
 	"credits": 1.0,
-	"crsid": 18762,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000018762",
+	"department": "PSYCH",
 	"description": [
 		"Memory is a fundamental part of human existence, but what do we currently know about the neurobiology that underlies this remarkable ability? In this seminar, students present and discuss recently published research that examines the neurobiology of learning and memory from molecular, cellular, behavioral and cognitive neuroscience perspectives. Prerequisites: PSYCH 230, plus PSYCH 238 or NEURO 239. Offered most years. Counts toward neuroscience concentration."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Gary M. Muir"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 124"
-	],
 	"max": 15,
 	"name": "Neurobiology of Learning & Memory",
 	"number": 337,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 124",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 124",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 124",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PSYCH 230, plus PSYCH 238 or NEURO 239. Offered most years. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -41,14 +56,29 @@
 		{
 			"_updated": "2018-08-11T03:33:41.405029+00:00",
 			"enroll": 12
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.363121+00:00",
+			"clbid": 121450,
+			"crsid": 18762,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"RNS 124"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Neurobiology of Learning and Memory",
 	"type": "Research",
 	"year": 2018

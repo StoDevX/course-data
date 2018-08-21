@@ -1,14 +1,12 @@
 {
-	"clbid": 80629,
+	"clbid": "0000080629",
 	"credits": 1.0,
-	"crsid": 406,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000406",
+	"department": "ENGL",
 	"description": [
 		"Students read and discuss children's literature from a variety of cultures and time periods. Beginning with world folklore and children's classics as background, students explore an array of picture books, poetry, fiction, and nonfiction that exemplifies the best in fantasy, science fiction, and realism for children and young adults. Special emphasis is given to two relatively new subgenres: multicultural literature and the contemporary problem novel. Prerequisite: FYW."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Jan C. Hill"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 28,
 	"name": "Children's Literature",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 525",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Children's and Young Adult Literature",
 	"type": "Research",
 	"year": 2011

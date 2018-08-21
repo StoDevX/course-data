@@ -1,21 +1,24 @@
 {
-	"clbid": 12027,
+	"clbid": "0000012027",
 	"credits": 1.0,
-	"crsid": 630,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 14,
+	"crsid": "0000000630",
+	"department": "HIST",
+	"enrolled": 14,
 	"instructors": [
 		"David M. Perry"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514"
-	],
 	"max": 18,
 	"name": "Sem: Medieval Europe",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 514",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Seminar",
 	"year": 2005
 }

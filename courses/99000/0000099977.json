@@ -1,23 +1,26 @@
 {
-	"clbid": 99977,
+	"clbid": "0000099977",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 13,
-	"groupid": 122,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 13,
+	"groupid": "0000000122",
 	"grouptype": "2",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 20,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 394",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

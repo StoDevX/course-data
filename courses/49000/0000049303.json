@@ -1,24 +1,27 @@
 {
-	"clbid": 49303,
+	"clbid": "0000049303",
 	"credits": 0.0,
-	"crsid": 17303,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 21,
-	"groupid": 171,
+	"crsid": "0000017303",
+	"department": "BIO",
+	"enrolled": 21,
+	"groupid": "0000000171",
 	"grouptype": "R",
 	"instructors": [
 		"James Dickson Jr.",
 		"Louis Henry Kermott"
 	],
 	"level": 300,
-	"locations": [
-		"SC 253"
-	],
 	"max": 0,
 	"name": "Animal Behavior Lab",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 253",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

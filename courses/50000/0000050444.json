@@ -1,25 +1,33 @@
 {
-	"clbid": 50444,
+	"clbid": "0000050444",
 	"credits": 1.0,
-	"crsid": 786,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000786",
+	"department": "MGMT",
 	"description": [
 		"This introduction to making personal investment decisions provides a foundation for students seeking a career in the investment field. Although stocks and mutual funds are the primary focus, bonds, options and futures are also introduced. Topics include risk and return, security analysis, valuation theory and portfolio management. Students analyze historical data using a computer database and spreadsheet. Prerequisites: Management Studies 225, a statistics course, senior status or permission of the instructor. Offered Fall Semester."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 300,
-	"locations": [
-		"SC 170",
-		"SC 170"
-	],
 	"max": 25,
 	"name": "Investments",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 170",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 170",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Management Studies 225, a statistics course, senior status or permission of the instructor. Offered Fall Semester.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

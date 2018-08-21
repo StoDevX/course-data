@@ -1,22 +1,25 @@
 {
-	"clbid": 114492,
+	"clbid": "0000114492",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 23,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 23,
+	"groupid": "0000001402",
 	"instructors": [
 		"Kathryn Ziegler"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 27,
 	"name": "Principles of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"F 0905-1000"
-	],
 	"type": "Lab",
 	"year": 2017
 }

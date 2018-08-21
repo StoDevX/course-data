@@ -1,21 +1,30 @@
 {
-	"clbid": 18104,
+	"clbid": "0000018104",
 	"credits": 0.25,
-	"crsid": 365,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 11,
+	"crsid": "0000000365",
+	"department": "DNCTE",
+	"enrolled": 11,
 	"instructors": [
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"SPT RHT"
-	],
 	"max": 15,
 	"name": "Ballet III",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SPT RHT",
+			"start": "15:30"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SPT RHT",
+			"start": "15:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 0330-0500PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

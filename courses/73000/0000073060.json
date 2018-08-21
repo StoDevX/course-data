@@ -1,14 +1,12 @@
 {
-	"clbid": 73060,
+	"clbid": "0000073060",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001154",
+	"department": "PSYCH",
 	"description": [
 		"This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester."
 	],
-	"enroll": 84,
+	"enrolled": 84,
 	"gereqs": [
 		"HBS",
 		"IST"
@@ -17,13 +15,23 @@
 		"Howard Thorsheim"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 150",
-		"RNS 150"
-	],
 	"max": 100,
 	"name": "Principles: Psych",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 150",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 150",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Principles of Psychology",
 	"type": "Research",
 	"year": 2010

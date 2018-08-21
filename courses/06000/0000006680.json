@@ -1,22 +1,30 @@
 {
-	"clbid": 6680,
+	"clbid": "0000006680",
 	"credits": 0.5,
-	"crsid": 22,
-	"departments": [
-		"ART"
-	],
-	"enroll": 17,
+	"crsid": "0000000022",
+	"department": "ART",
+	"enrolled": 17,
 	"instructors": [
 		"Mollie Rabiner"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 106",
-		"CAD 106"
-	],
 	"max": 18,
 	"name": "Foundation Sculpture",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 106",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 106",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

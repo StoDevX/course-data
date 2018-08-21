@@ -1,25 +1,33 @@
 {
-	"clbid": 75638,
+	"clbid": "0000075638",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001142",
+	"department": "PSCI",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the class and lab schedule when it is offered."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Edward W. Gimbel"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 30,
 	"name": "Top: Am Foreign Policy",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 317",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 317",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in Political Science",
 	"type": "Topic",
 	"year": 2010

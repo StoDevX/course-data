@@ -1,26 +1,51 @@
 {
-	"clbid": 118992,
+	"clbid": "0000118992",
 	"credits": 1.0,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000802",
+	"department": "MUSIC",
 	"description": [
 		"Second-semester music majors continue formal musicianship studies. Students perform rhythms and melodies at sight. Students also analyze and compose Western tonal music that employs non-dominant seventh chords, applied chords, sequences, modulations, and small forms. These topics are closely integrated into melodic and harmonic dictations. Offered annually in the spring semester. Prerequisite: MUSIC 112. Concurrent registration in MUSIC 162 (or placement into a higher level of keyboard proficiency)."
 	],
-	"enroll": 3,
+	"enrolled": 3,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232",
-		"CHM 232",
-		"CHM 232"
-	],
 	"max": 19,
 	"name": "Musicianship: Tonality",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CHM 232",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 112. Concurrent registration in MUSIC 162 (or placement into a higher level of keyboard proficiency).",
 	"revisions": [
@@ -62,17 +87,34 @@
 			"_updated": "2018-08-07T14:48:45.203439+00:00",
 			"enroll": "3",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.828118+00:00",
+			"clbid": 118992,
+			"crsid": 802,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 3,
+			"enrolled": null,
+			"locations": [
+				"CHM 232",
+				"CHM 232",
+				"CHM 232"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM",
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM",
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

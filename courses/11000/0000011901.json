@@ -1,21 +1,36 @@
 {
-	"clbid": 11901,
+	"clbid": "0000011901",
 	"credits": 1.0,
-	"crsid": 384,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 28,
+	"crsid": "0000000384",
+	"department": "ENGL",
+	"enrolled": 28,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 100,
-	"locations": [
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Intro to Poetry",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 515",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2005
 }

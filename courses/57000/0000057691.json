@@ -1,28 +1,43 @@
 {
-	"clbid": 57691,
+	"clbid": "0000057691",
 	"credits": 1.0,
-	"crsid": 1261,
-	"departments": [
-		"RUSSN"
-	],
+	"crsid": "0000001261",
+	"department": "RUSSN",
 	"description": [
 		"This course offers an introduction to grammar and reading through oral and written work, supplemented by reading of graded Russian prose. Prerequisite: Russian Language and Area Studies 111 or equivalent."
 	],
-	"enroll": 11,
-	"groupid": 1261,
+	"enrolled": 11,
+	"groupid": "0000001261",
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [
-		"OM 002"
-	],
 	"max": 15,
 	"name": "Beginning Russian II",
 	"notes": [
 		"Students in Russian 112 must also register for one lab Russian 112 AL or BL."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 002",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 002",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 002",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Russian Language and Area Studies 111 or equivalent.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 4711,
+	"clbid": "0000004711",
 	"credits": 1.0,
-	"crsid": 9,
-	"departments": [
-		"AMST"
-	],
-	"enroll": 29,
+	"crsid": "0000000009",
+	"department": "AMST",
+	"enrolled": 29,
 	"instructors": [
 		"Judy Kutulas"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413",
-		"HH 413"
-	],
 	"max": 25,
 	"name": "Top: Amer Adolescence",
 	"number": 209,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 413",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 413",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Topic",
 	"year": 2002
 }

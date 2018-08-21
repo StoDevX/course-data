@@ -1,25 +1,33 @@
 {
-	"clbid": 57978,
+	"clbid": "0000057978",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000740",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential equations and analytical, numerical, and graphical techniques for their analysis. First and second order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology and physics. Students use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered both semesters."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Int Differ Equations",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128 and 220. Offered both semesters.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Introduction to Differential Equations",
 	"type": "Research",
 	"year": 2007

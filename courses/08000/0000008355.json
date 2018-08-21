@@ -1,21 +1,36 @@
 {
-	"clbid": 8355,
+	"clbid": "0000008355",
 	"credits": 1.0,
-	"crsid": 1170,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
+	"crsid": "0000001170",
+	"department": "PSYCH",
+	"enrolled": 18,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307"
-	],
 	"max": 30,
 	"name": "Social Psychology",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

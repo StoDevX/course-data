@@ -1,15 +1,13 @@
 {
-	"clbid": 68750,
+	"clbid": "0000068750",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
+	"crsid": "0000000498",
+	"department": "GE",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html for section descriptions.",
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections which explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"FYW"
 	],
@@ -17,12 +15,29 @@
 		"Kaethe Schwehn"
 	],
 	"level": 100,
-	"locations": [
-		"RML 577"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RML 577",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RML 577",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RML 577",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

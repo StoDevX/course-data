@@ -1,21 +1,36 @@
 {
-	"clbid": 22794,
+	"clbid": "0000022794",
 	"credits": 1.0,
-	"crsid": 1158,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 19,
+	"crsid": "0000001158",
+	"department": "PSYCH",
+	"enrolled": 19,
 	"instructors": [
 		"James Dickson Jr."
 	],
 	"level": 200,
-	"locations": [
-		"H 322"
-	],
 	"max": 18,
 	"name": "Research Methods",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 322",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 322",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 322",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

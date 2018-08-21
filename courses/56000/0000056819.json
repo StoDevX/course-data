@@ -1,22 +1,17 @@
 {
-	"clbid": 56819,
+	"clbid": "0000056819",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001072",
+	"department": "PHYS",
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. One laboratory per week. Prerequisite: Mathematics 120 or 122."
 	],
-	"enroll": 61,
-	"groupid": 1072,
+	"enrolled": 61,
+	"groupid": "0000001072",
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Principles Physics I",
 	"notes": [
@@ -24,6 +19,26 @@
 		"CL, DL, EL, or FL."
 	],
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 122.",
 	"revisions": [
@@ -58,9 +73,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Principles of Physics I",
 	"type": "Research",
 	"year": 2007

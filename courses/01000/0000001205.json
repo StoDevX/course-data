@@ -1,21 +1,36 @@
 {
-	"clbid": 1205,
+	"clbid": "0000001205",
 	"credits": 1.0,
-	"crsid": 1650,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 22,
+	"crsid": "0000001650",
+	"department": "DNCTH",
+	"enrolled": 22,
 	"instructors": [
 		"Heather J. Klopchin"
 	],
 	"level": 200,
-	"locations": [
-		"CT 227"
-	],
 	"max": 20,
 	"name": "Rise of Ballet",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CT 227",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CT 227",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CT 227",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

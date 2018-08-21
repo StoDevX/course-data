@@ -1,21 +1,30 @@
 {
-	"clbid": 2965,
+	"clbid": "0000002965",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 28,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 28,
 	"instructors": [
 		"David Schodt"
 	],
 	"level": 100,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 188",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 188",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

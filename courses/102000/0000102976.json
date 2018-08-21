@@ -1,14 +1,12 @@
 {
-	"clbid": 102976,
+	"clbid": "0000102976",
 	"credits": 1.0,
-	"crsid": 21510,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000021510",
+	"department": "ENGL",
 	"description": [
 		"In addition to the traditional practices of literary study, cross-disciplinary courses include materials from at least one other academic discipline, requiring students to compare and combine disciplinary perspectives in literary analysis. Examples of courses taught under this heading might include Literature and Politics; Religion and the Novel; Philosophical Approaches to Literature. May be repeated if topic is different. Click on course title in the class and lab for more information about the course for that term. Prerequisite: FYW."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Karen E. Marsalek"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Top: Global Shakespeare",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -52,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Cross-Disciplinary Literary Study",
 	"type": "Topic",
 	"year": 2015

@@ -1,21 +1,36 @@
 {
-	"clbid": 9871,
+	"clbid": "0000009871",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 25,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 25,
 	"instructors": [
 		"James Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

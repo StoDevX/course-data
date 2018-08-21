@@ -1,28 +1,43 @@
 {
-	"clbid": 64652,
+	"clbid": "0000064652",
 	"credits": 1.0,
-	"crsid": 20158,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000020158",
+	"department": "BIO",
 	"description": [
 		"Students apply computational techniques and tools to the analysis of biological data. From mining large genetic sequence databases to simulating population dynamics, computer programming is rapidly becoming essential to the study of a broad range of biological systems. This course introduces computer programming to biologists and allows for the creative application of this skill to an array of biological questions, with an emphasis on advanced genetics topics. Prerequisites: Biology 126 and 233. Offered in alternate years."
 	],
-	"enroll": 11,
-	"groupid": 20158,
+	"enrolled": 11,
+	"groupid": "0000020158",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 199"
-	],
 	"max": 18,
 	"name": "Prin of Bioinformatics",
 	"notes": [
 		"Open to Juniors and Seniors only."
 	],
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 199",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 199",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 199",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 126 and 233. Offered in alternate years.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Bioinformatics",
 	"type": "Research",
 	"year": 2008

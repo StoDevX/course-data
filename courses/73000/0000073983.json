@@ -1,22 +1,25 @@
 {
-	"clbid": 73983,
+	"clbid": "0000073983",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 20,
-	"groupid": 182,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 20,
+	"groupid": "0000000182",
 	"instructors": [
 		"Jennifer C. Klein"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 20,
 	"name": "Chemistry & the World Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 355",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2010
 }

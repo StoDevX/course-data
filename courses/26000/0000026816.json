@@ -1,21 +1,30 @@
 {
-	"clbid": 26816,
+	"clbid": "0000026816",
 	"credits": 1.0,
-	"crsid": 1258,
-	"departments": [
-		"REL"
-	],
-	"enroll": 10,
+	"crsid": "0000001258",
+	"department": "REL",
+	"enrolled": 10,
 	"instructors": [
 		"William Poehlmann"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 15,
 	"name": "Senior Sem:",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

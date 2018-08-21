@@ -1,22 +1,30 @@
 {
-	"clbid": 5393,
+	"clbid": "0000005393",
 	"credits": 1.0,
-	"crsid": 1195,
-	"departments": [
-		"REL"
-	],
-	"enroll": 29,
+	"crsid": "0000001195",
+	"department": "REL",
+	"enrolled": 29,
 	"instructors": [
 		"Douglas Schuurman"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 25,
 	"name": "Chri Theol/Moral Life",
 	"number": 207,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 102",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "BMC 102",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

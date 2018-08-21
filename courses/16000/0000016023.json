@@ -1,21 +1,30 @@
 {
-	"clbid": 16023,
+	"clbid": "0000016023",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 20,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 20,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 18,
 	"name": "First Year Seminar",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

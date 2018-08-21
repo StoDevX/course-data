@@ -1,21 +1,30 @@
 {
-	"clbid": 17956,
+	"clbid": "0000017956",
 	"credits": 1.0,
-	"crsid": 164,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 13,
+	"crsid": "0000000164",
+	"department": "BIO",
+	"enrolled": 13,
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 23,
 	"name": "Developmental Biology",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

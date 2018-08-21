@@ -1,14 +1,12 @@
 {
-	"clbid": 61846,
+	"clbid": "0000061846",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000351",
+	"department": "DANCE",
 	"description": [
 		"Modern dance classes approach movement with imagination, experience and technical training. The classes explore the structural and functional relationships within the body from which we create dance patterns and develop expressive movement and body awareness. This course introduces students to body awareness and modern dance vocabulary and technique. Offered both semesters. May be repeated with instructor's permission."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 15,
 	"name": "Modern Dance I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2008
 }

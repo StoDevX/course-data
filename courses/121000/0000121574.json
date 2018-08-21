@@ -1,14 +1,12 @@
 {
-	"clbid": 121574,
+	"clbid": "0000121574",
 	"credits": 1.0,
-	"crsid": 21545,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000021545",
+	"department": "HIST",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,12 +14,29 @@
 		"Brendan LaRocque"
 	],
 	"level": 200,
-	"locations": [
-		"HH 433"
-	],
 	"max": 25,
 	"name": "Top: India: Col/Postcol/Contemp",
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 433",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 433",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 433",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -82,14 +97,29 @@
 		{
 			"_updated": "2018-08-16T03:35:10.385951+00:00",
 			"enroll": 16
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.452292+00:00",
+			"clbid": 121574,
+			"crsid": 21545,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"HH 433"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2018

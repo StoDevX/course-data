@@ -1,21 +1,30 @@
 {
-	"clbid": 18377,
+	"clbid": "0000018377",
 	"credits": 1.0,
-	"crsid": 989,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 9,
+	"crsid": "0000000989",
+	"department": "PHIL",
+	"enrolled": 9,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 18,
 	"name": "Ethics/Value",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "H 514",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "H 514",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-1245PM"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 101526,
+	"clbid": "0000101526",
 	"credits": 1.0,
-	"crsid": 972,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000972",
+	"department": "PHIL",
 	"description": [
 		"Formal systems of logic attempt to make principles of good reasoning explicit. This course introduces two such systems of logic: propositional and predicate calculus. Students learn to use formal techniques to analyze arguments and explore philosophical issues related to meta- theory, including consistency and completeness, the paradoxes of material implication, ontological commitment, and the interpretation of quantifiers. Offered annually. Counts toward linguistic studies concentration."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Arthur Cunningham"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210"
-	],
 	"max": 30,
 	"name": "Formal Logic",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 210",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 210",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 210",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +71,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2015
 }

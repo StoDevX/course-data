@@ -1,21 +1,36 @@
 {
-	"clbid": 9150,
+	"clbid": "0000009150",
 	"credits": 1.0,
-	"crsid": 51,
-	"departments": [
-		"ART"
-	],
-	"enroll": 26,
+	"crsid": "0000000051",
+	"department": "ART",
+	"enrolled": 26,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Art 1880-1950",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

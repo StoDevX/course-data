@@ -1,22 +1,25 @@
 {
-	"clbid": 83069,
+	"clbid": "0000083069",
 	"credits": 0.0,
-	"crsid": 103,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
-	"groupid": 102,
+	"crsid": "0000000103",
+	"department": "BIO",
+	"enrolled": 22,
+	"groupid": "0000000102",
 	"instructors": [
 		"David Van Wylen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Human Biology Lab",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 254",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"W 0200-0400PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

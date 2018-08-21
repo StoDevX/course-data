@@ -1,21 +1,30 @@
 {
-	"clbid": 1140,
+	"clbid": "0000001140",
 	"credits": 1.0,
-	"crsid": 280,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 15,
+	"crsid": "0000000280",
+	"department": "ECON",
+	"enrolled": 15,
 	"instructors": [
 		"Mark Pernecky"
 	],
 	"level": 300,
-	"locations": [
-		"H 301"
-	],
 	"max": 20,
 	"name": "Labor Econ/Employ Rel",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Lab",
 	"year": 2000
 }

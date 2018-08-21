@@ -1,22 +1,30 @@
 {
-	"clbid": 7359,
+	"clbid": "0000007359",
 	"credits": 1.0,
-	"crsid": 1205,
-	"departments": [
-		"REL"
-	],
-	"enroll": 27,
+	"crsid": "0000001205",
+	"department": "REL",
+	"enrolled": 27,
 	"instructors": [
 		"James Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110",
-		"BMC 110"
-	],
 	"max": 25,
 	"name": "Jesus in Script/Trad",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 110",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

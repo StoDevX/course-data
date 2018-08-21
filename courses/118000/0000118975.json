@@ -1,27 +1,42 @@
 {
-	"clbid": 118975,
+	"clbid": "0000118975",
 	"credits": 1.0,
-	"crsid": 275,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000275",
+	"department": "ECON",
 	"description": [
 		"Microeconomics is the study of the resource allocation decisions by households, producers, and government and the resource allocation process in various types of market structures. Students are trained in the use of economic models and optimizing techniques to address a variety of real-world problems, including case studies from business and public policy. Offered each semester. Prerequisites: MATH 119 or MATH 120, and one of Economics 110-121 or permission of instructor. Offered each semester."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Colin Harris"
 	],
 	"level": 200,
-	"locations": [
-		"HH 111"
-	],
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 111",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 119 or MATH 120, and one of Economics 110-121 or permission of instructor. Offered each semester.",
 	"revisions": [
@@ -62,15 +77,30 @@
 			"_updated": "2018-08-07T14:48:45.186671+00:00",
 			"enroll": "26",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.786101+00:00",
+			"clbid": 118975,
+			"crsid": 275,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 26,
+			"enrolled": null,
+			"locations": [
+				"HH 111"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Intermediate Microeconomic Theory",
 	"type": "Research",
 	"year": 2018

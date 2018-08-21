@@ -1,21 +1,36 @@
 {
-	"clbid": 15058,
+	"clbid": "0000015058",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000748",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 184",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 184",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 184",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

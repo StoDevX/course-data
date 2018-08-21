@@ -1,21 +1,30 @@
 {
-	"clbid": 16551,
+	"clbid": "0000016551",
 	"credits": 1.0,
-	"crsid": 2487,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 27,
+	"crsid": "0000002487",
+	"department": "THEAT",
+	"enrolled": 27,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"GRRM"
-	],
 	"max": 20,
 	"name": "Topics: Public Address",
 	"number": 389,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "GRRM",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "GRRM",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Topic",
 	"year": 1994
 }

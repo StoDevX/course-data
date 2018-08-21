@@ -1,22 +1,30 @@
 {
-	"clbid": 11926,
+	"clbid": "0000011926",
 	"credits": 1.0,
-	"crsid": 448,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 16,
+	"crsid": "0000000448",
+	"department": "ENGL",
+	"enrolled": 16,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 300,
-	"locations": [
-		"RML 420",
-		"RML 420"
-	],
 	"max": 15,
 	"name": "Sem: Milton/Ethics",
 	"number": 393,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 420",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 420",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2005
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 7629,
+	"clbid": "0000007629",
 	"credits": 1.0,
-	"crsid": 50,
-	"departments": [
-		"ART"
-	],
-	"enroll": 31,
+	"crsid": "0000000050",
+	"department": "ART",
+	"enrolled": 31,
 	"instructors": [
 		"Heather M. Brooks-Shirey"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Art 1776-1880",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 305",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 305",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 121539,
+	"clbid": "0000121539",
 	"credits": 1.0,
-	"crsid": 21541,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 0,
+	"crsid": "0000021541",
+	"department": "NORW",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 0,
-	"locations": [
-		"TBA"
-	],
 	"max": 22,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,15 +54,30 @@
 			"_updated": "2018-08-07T14:48:49.636068+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.745033+00:00",
+			"clbid": 121539,
+			"crsid": 21541,
+			"department": null,
+			"departments": [
+				"NORW"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

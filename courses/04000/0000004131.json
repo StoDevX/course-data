@@ -1,22 +1,30 @@
 {
-	"clbid": 4131,
+	"clbid": "0000004131",
 	"credits": 0.5,
-	"crsid": 834,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 26,
+	"crsid": "0000000834",
+	"department": "MUSIC",
+	"enrolled": 26,
 	"instructors": [
 		"Robert V. Scholz"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 25,
 	"name": "Choral Conducting",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 140",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 140",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

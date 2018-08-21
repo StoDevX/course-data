@@ -1,22 +1,42 @@
 {
-	"clbid": 9184,
+	"clbid": "0000009184",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 20,
 	"instructors": [
 		"Kathleen L. Shea"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "17:30",
+			"location": "SC 273",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000",
-		"W 0300-0530PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 8696,
+	"clbid": "0000008696",
 	"credits": 1.0,
-	"crsid": 1485,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 15,
+	"crsid": "0000001485",
+	"department": "ARMS",
+	"enrolled": 15,
 	"instructors": [
 		"Steven C. Hahn"
 	],
 	"level": 200,
-	"locations": [
-		"RML 577"
-	],
 	"max": 18,
 	"name": "Sem: Race Early Americ",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 577",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 577",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 577",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

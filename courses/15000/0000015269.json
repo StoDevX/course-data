@@ -1,22 +1,36 @@
 {
-	"clbid": 15269,
+	"clbid": "0000015269",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 31,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 31,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170",
-		"SC 278"
-	],
 	"max": 50,
 	"name": "Introductory Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "SC 170",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:15",
+			"location": "SC 170",
+			"start": "13:20"
+		},
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "SC 278",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0120-0215PM",
-		"M 0700-0800PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

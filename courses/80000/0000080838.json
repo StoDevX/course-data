@@ -1,29 +1,44 @@
 {
-	"clbid": 80838,
+	"clbid": "0000080838",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000122",
+	"department": "BIO",
 	"description": [
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures in this core course cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week. Prerequisites: Biology 125 and Chemistry 125 or 121/123, or Chemistry/Biology 125-127. Offered each semester. Counts toward neuroscience concentration."
 	],
-	"enroll": 47,
-	"groupid": 122,
+	"enrolled": 47,
+	"groupid": "0000000122",
 	"grouptype": "2",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 40,
 	"name": "Intermediate Genetics",
 	"notes": [
 		"Students in Bio 233B must also register for one lab Bio 233 CL or DL."
 	],
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 190",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 190",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 190",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and Chemistry 125 or 121/123, or Chemistry/Biology 125-127. Offered each semester. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

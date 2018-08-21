@@ -1,14 +1,12 @@
 {
-	"clbid": 119539,
+	"clbid": "0000119539",
 	"credits": 1.0,
-	"crsid": 1357,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000001357",
+	"department": "FAMST",
 	"description": [
 		"Students explore service to human beings as a profession, both vocation and avocation. Who needs help? Who helps? Where? How? What motivates people to help? Using the liberal arts as a foundation for helping people, students study opportunities in areas such as health care, social services, ministry, youth work, and the arts. The class includes lectures, discussions, speakers, and field visits; additional fee. Open only to first-year students. Offered occasionally during Interim."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,16 +14,62 @@
 		"Melissa A. Mendez"
 	],
 	"level": 100,
-	"locations": [
-		"OM 310",
-		"OM 310"
-	],
 	"max": 18,
 	"name": "I Want to Help People",
 	"notes": [
 		"This course is open only to First-year students."
 	],
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "OM 310",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "OM 310",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "OM 310",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "OM 310",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "OM 310",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "OM 310",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "OM 310",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "OM 310",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,15 +94,31 @@
 			"_updated": "2018-08-07T14:48:46.749535+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.683212+00:00",
+			"clbid": 119539,
+			"crsid": 1357,
+			"department": null,
+			"departments": [
+				"FAMST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"OM 310",
+				"OM 310"
+			],
+			"offerings": null,
+			"times": [
+				"T-F 1040-1240PM",
+				"T-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"T-F 1040-1240PM",
-		"T-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

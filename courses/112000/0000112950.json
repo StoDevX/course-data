@@ -1,14 +1,12 @@
 {
-	"clbid": 112950,
+	"clbid": "0000112950",
 	"credits": 1.0,
-	"crsid": 305,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000305",
+	"department": "CSCI",
 	"description": [
 		"Class members participate in undergraduate research, including readings from the research literature, team development of project software, ethical analysis of their project applying CSCI 263 principles, documentation practices, and writing a research paper for public presentation. Offered annually. Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including CSCI 253 and CSCI 263, or permission of instructor."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Richard Brown"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 0,
 	"name": "Sem: Senior Capstone",
 	"notes": [
 		"Closed during web registration. Registration by permission of instructor only."
 	],
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including CSCI 253 and CSCI 263, or permission of instructor.",
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Senior Capstone Seminar",
 	"type": "Seminar",
 	"year": 2017

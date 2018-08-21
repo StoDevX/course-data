@@ -1,21 +1,30 @@
 {
-	"clbid": 16105,
+	"clbid": "0000016105",
 	"credits": 1.0,
-	"crsid": 1893,
-	"departments": [
-		"IC"
-	],
-	"enroll": 7,
+	"crsid": "0000001893",
+	"department": "IC",
+	"enrolled": 7,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"YH 100"
-	],
 	"max": 999,
 	"name": "Mid East: ISlamic Civ",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "YH 100",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "YH 100",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

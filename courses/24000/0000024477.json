@@ -1,21 +1,30 @@
 {
-	"clbid": 24477,
+	"clbid": "0000024477",
 	"credits": 1.0,
-	"crsid": 413,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 17,
+	"crsid": "0000000413",
+	"department": "ENGL",
+	"enrolled": 17,
 	"instructors": [
 		"Jan C. Hill"
 	],
 	"level": 200,
-	"locations": [
-		"L 420"
-	],
 	"max": 18,
 	"name": "Creative Nonfiction",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 420",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 420",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

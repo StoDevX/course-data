@@ -1,14 +1,12 @@
 {
-	"clbid": 115454,
+	"clbid": "0000115454",
 	"credits": 0.5,
-	"crsid": 357,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000357",
+	"department": "DANCE",
 	"description": [
 		"Students expand their understanding of modern dance by building on the components of Modern Dance I, adding attention to movement qualities, elements of space, dance vocabulary and of technique with an emphasis on phrasing and sequencing movement. Some sections may also include a focus on performing skills. Open to majors and other students with instructor's permission. May require ticket/transportation fee. Offered each semester. Prerequisites: DANCE 111 and permission of instructor."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Anthony Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 2"
-	],
 	"max": 5,
 	"name": "Modern Dance II",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD Studio 2",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD Studio 2",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: DANCE 111 and permission of instructor.",
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

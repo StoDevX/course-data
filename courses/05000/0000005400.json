@@ -1,22 +1,30 @@
 {
-	"clbid": 5400,
+	"clbid": "0000005400",
 	"credits": 1.0,
-	"crsid": 1218,
-	"departments": [
-		"REL"
-	],
-	"enroll": 23,
+	"crsid": "0000001218",
+	"department": "REL",
+	"enrolled": 23,
 	"instructors": [
 		"Joseph Edelheit"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 20,
 	"name": "Judaism",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 102",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 102",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

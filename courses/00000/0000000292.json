@@ -1,21 +1,36 @@
 {
-	"clbid": 292,
+	"clbid": "0000000292",
 	"credits": 1.0,
-	"crsid": 531,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 24,
+	"crsid": "0000000531",
+	"department": "GCON",
+	"enrolled": 24,
 	"instructors": [
 		"James May"
 	],
 	"level": 100,
-	"locations": [
-		"H 516/501"
-	],
 	"max": 999,
 	"name": "Greeks and Hebrews",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 516/501",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 516/501",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 516/501",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2000
 }

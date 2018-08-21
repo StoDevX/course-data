@@ -1,14 +1,12 @@
 {
-	"clbid": 101365,
+	"clbid": "0000101365",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester. Prerequisite: mathematics placement recommendation."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Thomas Rogers"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TOH 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TOH 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation.",
 	"revisions": [
@@ -60,10 +68,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2015
 }

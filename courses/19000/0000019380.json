@@ -1,21 +1,30 @@
 {
-	"clbid": 19380,
+	"clbid": "0000019380",
 	"credits": 0.25,
-	"crsid": 842,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 13,
+	"crsid": "0000000842",
+	"department": "MUSIC",
+	"enrolled": 13,
 	"instructors": [
 		"Robert C. Smith"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 999,
 	"name": "Vocal Solo Lit I",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 224",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 224",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

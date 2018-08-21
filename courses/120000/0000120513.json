@@ -1,14 +1,12 @@
 {
-	"clbid": 120513,
+	"clbid": "0000120513",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000392",
+	"department": "ENGL",
 	"description": [
 		"As they read a variety of mostly contemporary literature from English-speaking countries around the world, students learn strategies of critical analysis and interpretation. They also practice and develop skills in writing and oral communication. This course is required of those beginning the English major. It is not recommended for general education students. Prerequisite: FYW."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"WRI"
@@ -17,15 +15,32 @@
 		"Juliet Patterson"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Literary Studies",
 	"notes": [
 		"Open to first-year students and sophomores only."
 	],
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -57,15 +72,30 @@
 			"_updated": "2018-08-07T14:48:48.945313+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.055787+00:00",
+			"clbid": 120513,
+			"crsid": 392,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

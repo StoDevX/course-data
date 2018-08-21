@@ -1,23 +1,26 @@
 {
-	"clbid": 56936,
+	"clbid": "0000056936",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 27,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 27,
+	"groupid": "0000000192",
 	"grouptype": "1",
 	"instructors": [
 		"Nathaniel J. Schaefle"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/371"
-	],
 	"max": 30,
 	"name": "Struct Chem/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "SC 374/371",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

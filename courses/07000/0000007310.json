@@ -1,22 +1,30 @@
 {
-	"clbid": 7310,
+	"clbid": "0000007310",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 24,
+	"crsid": "0000001168",
+	"department": "PSYCH",
+	"enrolled": 24,
 	"instructors": [
 		"Leilani Endicott"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 30,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 307",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

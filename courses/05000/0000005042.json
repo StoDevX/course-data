@@ -1,22 +1,30 @@
 {
-	"clbid": 5042,
+	"clbid": "0000005042",
 	"credits": 1.0,
-	"crsid": 1797,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 18,
+	"crsid": "0000001797",
+	"department": "HIST",
+	"enrolled": 18,
 	"instructors": [
 		"Steven C. Hahn"
 	],
 	"level": 100,
-	"locations": [
-		"RML 577",
-		"RML 577"
-	],
 	"max": 23,
 	"name": "Trail of Tears",
 	"number": 134,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 577",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 577",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

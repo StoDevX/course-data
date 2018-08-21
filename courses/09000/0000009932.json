@@ -1,21 +1,36 @@
 {
-	"clbid": 9932,
+	"clbid": "0000009932",
 	"credits": 1.0,
-	"crsid": 1309,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 20,
+	"crsid": "0000001309",
+	"department": "SOAN",
+	"enrolled": 20,
 	"instructors": [
 		"Carolyn Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 403"
-	],
 	"max": 25,
 	"name": "Indigenous Peoples",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 403",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 403",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 403",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

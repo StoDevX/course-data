@@ -1,14 +1,12 @@
 {
-	"clbid": 120774,
+	"clbid": "0000120774",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include multiple regression, model diagnostics, and logistic regression. The approach focuses on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Offered each semester. Counts toward environmental studies major (natural science and social science emphases) and management studies, mathematical biology, and neuroscience concentrations. Prerequisite: STAT 110, STAT 212, or STAT 214, or ECON 263, or equivalent preparation, or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Kathryn Ziegler"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Modeling",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 182",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "STAT 110, STAT 212, or STAT 214, or ECON 263, or equivalent preparation, or permission of instructor.",
 	"revisions": [
@@ -45,16 +53,32 @@
 			"_updated": "2018-08-07T14:48:49.091265+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.438049+00:00",
+			"clbid": 120774,
+			"crsid": 1405,
+			"department": null,
+			"departments": [
+				"STAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 182",
+				"TOH 182"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

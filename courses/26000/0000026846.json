@@ -1,21 +1,30 @@
 {
-	"clbid": 26846,
+	"clbid": "0000026846",
 	"credits": 1.0,
-	"crsid": 1301,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 22,
+	"crsid": "0000001301",
+	"department": "SOAN",
+	"enrolled": 22,
 	"instructors": [
 		"Samiha Peterson"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 25,
 	"name": "The Arab World",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

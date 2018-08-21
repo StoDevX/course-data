@@ -1,21 +1,36 @@
 {
-	"clbid": 19366,
+	"clbid": "0000019366",
 	"credits": 0.25,
-	"crsid": 815,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 23,
+	"crsid": "0000000815",
+	"department": "MUSIC",
+	"enrolled": 23,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 33,
 	"name": "Ear/Keyboard III",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

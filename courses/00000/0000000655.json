@@ -1,21 +1,30 @@
 {
-	"clbid": 655,
+	"clbid": "0000000655",
 	"credits": 1.0,
-	"crsid": 1309,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001309",
+	"department": "SOAN",
+	"enrolled": 23,
 	"instructors": [
 		"Carolyn Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"L 577"
-	],
 	"max": 20,
 	"name": "Endangered Cultures",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

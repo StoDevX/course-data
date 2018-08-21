@@ -1,22 +1,25 @@
 {
-	"clbid": 69220,
+	"clbid": "0000069220",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 20,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 20,
+	"groupid": "0000001074",
 	"instructors": [
 		"James Demas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 22,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "RNS 292",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 1145-0215PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

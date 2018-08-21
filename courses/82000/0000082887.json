@@ -1,24 +1,39 @@
 {
-	"clbid": 82887,
+	"clbid": "0000082887",
 	"credits": 1.0,
-	"crsid": 1092,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001092",
+	"department": "PHYS",
 	"description": [
 		"This course is an analytical and computational study of Newtonian mechanics, including the harmonic oscillator, central force motion, non-linear oscillators, chaos, and an introduction to the Lagrangian formulation. Students use computers extensively. Prerequisites: Physics 232 and Mathematics 230. Offered annually in the fall semester."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 18,
 	"name": "Classical Mechanics",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 208",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 208",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 208",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Physics 232 and Mathematics 230. Offered annually in the fall semester.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20121,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2012
 }

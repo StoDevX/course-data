@@ -1,21 +1,36 @@
 {
-	"clbid": 12012,
+	"clbid": "0000012012",
 	"credits": 1.0,
-	"crsid": 589,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 27,
+	"crsid": "0000000589",
+	"department": "HIST",
+	"enrolled": 27,
 	"instructors": [
 		"Gary De Krey"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317"
-	],
 	"max": 30,
 	"name": "Reformation Europe",
 	"number": 218,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

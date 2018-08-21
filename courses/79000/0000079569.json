@@ -1,14 +1,12 @@
 {
-	"clbid": 79569,
+	"clbid": "0000079569",
 	"credits": 0.5,
-	"crsid": 362,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000362",
+	"department": "DANCE",
 	"description": [
 		"This course builds on the concepts and components of Modern Dance I and II. Open to majors and other students with instructor's permission. Prerequisite: Dance 210/211 (at least twice) and/or permission of the instructor. Offered each semester. 311 may be repeated with permission of instructor."
 	],
-	"enroll": 3,
+	"enrolled": 3,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,29 @@
 		"Janice Roberts"
 	],
 	"level": 300,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 4,
 	"name": "Modern III",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Dance 210/211 (at least twice) and/or permission of the instructor. Offered each semester. 311 may be repeated with permission of instructor.",
 	"revisions": [
@@ -50,9 +65,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"MWF 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

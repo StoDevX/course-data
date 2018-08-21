@@ -1,21 +1,36 @@
 {
-	"clbid": 4715,
+	"clbid": "0000004715",
 	"credits": 0.5,
-	"crsid": 19,
-	"departments": [
-		"ART"
-	],
-	"enroll": 18,
+	"crsid": "0000000019",
+	"department": "ART",
+	"enrolled": 18,
 	"instructors": [
 		"John Saurer"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 216"
-	],
 	"max": 22,
 	"name": "Found Perceptual Draw",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CAD 216",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CAD 216",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CAD 216",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2002
 }

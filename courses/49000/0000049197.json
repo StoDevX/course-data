@@ -1,26 +1,34 @@
 {
-	"clbid": 49197,
+	"clbid": "0000049197",
 	"credits": 1.0,
-	"crsid": 100,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000100",
+	"department": "BIO",
 	"description": [
 		"This course explores contemporary biological issues related to health and the environment with the goal of fostering informed citizens prepared for current biological debates. As students learn the relevant biological principles in lecture and lab, focused class discussions address related issues. Specific topics will include emerging diseases, cardiovascular health, genetics and environmental dynamics. The course includes lectures plus one 2-hour laboratory per week. Taught annually."
 	],
-	"enroll": 49,
-	"groupid": 100,
+	"enrolled": 49,
+	"groupid": "0000000100",
 	"instructors": [
 		"Diane M. Maher"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 278"
-	],
 	"max": 0,
 	"name": "Biological Science",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 278",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 278",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2005
 }

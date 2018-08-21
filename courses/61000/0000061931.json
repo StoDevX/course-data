@@ -1,14 +1,12 @@
 {
-	"clbid": 61931,
+	"clbid": "0000061931",
 	"credits": 1.0,
-	"crsid": 287,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000287",
+	"department": "CSCI",
 	"description": [
 		"The principles of computing make sounds, images, and animations possible on computers. This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, iteration (loop) invariants, levels of naming, computer design, computing ethics. Students apply these concepts daily to create web sites, make music, create and alter images, and produce animations on the computer, individually and in teams."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Steven McKelvey"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 18,
 	"name": "Principles Comp Sci",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Principles of Computer Science",
 	"type": "Research",
 	"year": 2008

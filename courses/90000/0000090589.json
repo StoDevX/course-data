@@ -1,22 +1,25 @@
 {
-	"clbid": 90589,
+	"clbid": "0000090589",
 	"credits": 0.0,
-	"crsid": 120,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
-	"groupid": 119,
+	"crsid": "0000000120",
+	"department": "BIO",
+	"enrolled": 24,
+	"groupid": "0000000119",
 	"instructors": [
 		"Theodore Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 22,
 	"name": "Microbiology Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 398",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

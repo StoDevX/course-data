@@ -1,29 +1,43 @@
 {
-	"clbid": 59912,
+	"clbid": "0000059912",
 	"credits": 1.0,
-	"crsid": 18795,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
+	"crsid": "0000018795",
+	"department": "CH/BI",
 	"description": [
 		"This course introduces chemical concepts that are important for students pursuing a study of chemistry or biology. Topics include atomic structure, the Periodic Table, bonding interactions within and between particles, water and its solutions, biological membranes, chemical reaction types, chemical stoichiometry, equilibrium systems, acids and bases, introduction to protein structure. Examples are often pulled from the realm of biological molecules and processes. Students attend three classes and one 3-hour laboratory each week. Prerequisite: Chemistry Placement Recommendation, concurrent registration in Math 120 or equivalent background. Offered Fall Semester."
 	],
-	"enroll": 28,
-	"groupid": 18795,
+	"enrolled": 28,
+	"groupid": "0000018795",
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374"
-	],
 	"max": 28,
 	"name": "Integrated Chem/Bio I",
 	"notes": [
 		"Students in CH/BI 125 must also register for lab section CH/BI 125L."
 	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry Placement Recommendation, concurrent registration in Math 120 or equivalent background. Offered Fall Semester.",
 	"revisions": [
@@ -45,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Integrated Chem/Bio I: Chemical Concepts & Biological Applications",
 	"type": "Research",
 	"year": 2007

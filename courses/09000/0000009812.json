@@ -1,21 +1,36 @@
 {
-	"clbid": 9812,
+	"clbid": "0000009812",
 	"credits": 1.0,
-	"crsid": 1113,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 21,
+	"crsid": "0000001113",
+	"department": "PSCI",
+	"enrolled": 21,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 200,
-	"locations": [
-		"HH 302"
-	],
 	"max": 20,
 	"name": "Analyzing Politics",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 302",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 302",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 302",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

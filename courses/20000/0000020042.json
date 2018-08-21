@@ -1,21 +1,36 @@
 {
-	"clbid": 20042,
+	"clbid": "0000020042",
 	"credits": 1.0,
-	"crsid": 32,
-	"departments": [
-		"ART"
-	],
-	"enroll": 55,
+	"crsid": "0000000032",
+	"department": "ART",
+	"enrolled": 55,
 	"instructors": [
 		"Perette Michelli"
 	],
 	"level": 100,
-	"locations": [
-		"FH 01"
-	],
 	"max": 60,
 	"name": "Renaissance--Present",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FH 01",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FH 01",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FH 01",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

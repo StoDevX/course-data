@@ -1,14 +1,12 @@
 {
-	"clbid": 108007,
+	"clbid": "0000108007",
 	"credits": 0.25,
-	"crsid": 25186,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000025186",
+	"department": "DANCE",
 	"description": [
 		"This course offers an expansion of ballet technique, vocabulary, proper body alignment, and body awareness beyond the beginning level. Outside work includes practicing, reading, writing, and concert attendance. Ticket/transportation fee required. May be repeated with permission of instructor. Offered annually in the spring semester. Prerequisite: DANCE 121 and/or permission of the instructor."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 15,
 	"name": "Advanced Beginning Ballet",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD Studio 2",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD Studio 2",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 121 and/or permission of the instructor.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

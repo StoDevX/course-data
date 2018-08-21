@@ -1,14 +1,12 @@
 {
-	"clbid": 113978,
+	"clbid": "0000113978",
 	"credits": 1.0,
-	"crsid": 295,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000295",
+	"department": "CSCI",
 	"description": [
 		"The software we design has real effects in people's lives. This course explores the ethical and social considerations inherent in computer-based systems, develops skills in thinking about those considerations and in collecting data to determine their effects, and expands students' abilities to integrate these issues and skills into software development procedures, largely through an extensive team analysis of a \"live\" software project. Coursework uses extended case studies and surveys topics such as professional and ethical responsibilities, risk, liability, intellectual property, privacy, and computer crime. Offered annually. Counts toward management studies concentration. Prerequisites: CSCI 251 and completion of BTS-T, or permission of instructor."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"EIN",
 		"ORC"
@@ -17,16 +15,26 @@
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 18,
 	"name": "Ethical Issues in Software Design",
 	"notes": [
 		"Prerequisite: Completion of CSCI 251 and BTS-T or permission of instructor."
 	],
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CSCI 251 and completion of BTS-T, or permission of instructor.",
 	"revisions": [
@@ -68,10 +76,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

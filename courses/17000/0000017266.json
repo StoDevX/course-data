@@ -1,21 +1,36 @@
 {
-	"clbid": 17266,
+	"clbid": "0000017266",
 	"credits": 1.0,
-	"crsid": 980,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 17,
+	"crsid": "0000000980",
+	"department": "PHIL",
+	"enrolled": 17,
 	"instructors": [
 		"Rick A. Fairbanks"
 	],
 	"level": 200,
-	"locations": [
-		"L 277"
-	],
 	"max": 25,
 	"name": "Law,Politics,Morality",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

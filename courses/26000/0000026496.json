@@ -1,21 +1,36 @@
 {
-	"clbid": 26496,
+	"clbid": "0000026496",
 	"credits": 1.0,
-	"crsid": 617,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 34,
+	"crsid": "0000000617",
+	"department": "HIST",
+	"enrolled": 34,
 	"instructors": [
 		"James Farrell"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 35,
 	"name": "Amer Environmental",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 177",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 177",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 177",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

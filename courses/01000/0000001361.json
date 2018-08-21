@@ -1,21 +1,30 @@
 {
-	"clbid": 1361,
+	"clbid": "0000001361",
 	"credits": 1.0,
-	"crsid": 674,
-	"departments": [
-		"IS"
-	],
-	"enroll": 21,
+	"crsid": "0000000674",
+	"department": "IS",
+	"enrolled": 21,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 200,
-	"locations": [
-		"CT 216"
-	],
 	"max": 22,
 	"name": "Topic: Performance Stu",
 	"number": 203,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CT 216",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CT 216",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 2000
 }

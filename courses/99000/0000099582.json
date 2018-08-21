@@ -1,22 +1,25 @@
 {
-	"clbid": 99582,
+	"clbid": "0000099582",
 	"credits": 0.0,
-	"crsid": 1260,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 14,
-	"groupid": 1259,
+	"crsid": "0000001260",
+	"department": "RUSSN",
+	"enrolled": 14,
+	"groupid": "0000001259",
 	"instructors": [
 		"Ksenia Zanon"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 110"
-	],
 	"max": 21,
 	"name": "Beginning Russian I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "TOH 110",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +44,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"T 0800-0855"
-	],
 	"type": "Lab",
 	"year": 2015
 }

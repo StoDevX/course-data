@@ -1,21 +1,30 @@
 {
-	"clbid": 18395,
+	"clbid": "0000018395",
 	"credits": 0.25,
-	"crsid": 1005,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 11,
+	"crsid": "0000001005",
+	"department": "PEAC",
+	"enrolled": 11,
 	"instructors": [
 		"William Thornton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC POOL"
-	],
 	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "SAC POOL",
+			"start": "11:10"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "SAC POOL",
+			"start": "11:10"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1110-1240PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

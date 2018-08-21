@@ -1,22 +1,30 @@
 {
-	"clbid": 9147,
+	"clbid": "0000009147",
 	"credits": 1.0,
-	"crsid": 38,
-	"departments": [
-		"ART"
-	],
-	"enroll": 12,
+	"crsid": "0000000038",
+	"department": "ART",
+	"enrolled": 12,
 	"instructors": [
 		"John Saurer"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 212",
-		"CAD 212"
-	],
 	"max": 16,
 	"name": "Printmkg: Relief/Litho",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 212",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 212",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

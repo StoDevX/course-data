@@ -1,21 +1,30 @@
 {
-	"clbid": 19349,
+	"clbid": "0000019349",
 	"credits": 0.5,
-	"crsid": 1958,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 17,
+	"crsid": "0000001958",
+	"department": "MUSIC",
+	"enrolled": 17,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 23,
 	"name": "Intro Music Theory",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

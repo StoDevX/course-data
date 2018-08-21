@@ -1,21 +1,36 @@
 {
-	"clbid": 8270,
+	"clbid": "0000008270",
 	"credits": 0.5,
-	"crsid": 1019,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 16,
+	"crsid": "0000001019",
+	"department": "PEAC",
+	"enrolled": 16,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_N"
-	],
 	"max": 16,
 	"name": "Racquet Sports .50",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC_GYM_N",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC_GYM_N",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SAC_GYM_N",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 3119,
+	"clbid": "0000003119",
 	"credits": 1.0,
-	"crsid": 505,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 22,
+	"crsid": "0000000505",
+	"department": "GERM",
+	"enrolled": 22,
 	"instructors": [
 		"Lavern Rippley"
 	],
 	"level": 100,
-	"locations": [
-		"M 35"
-	],
 	"max": 25,
 	"name": "Beginning German II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

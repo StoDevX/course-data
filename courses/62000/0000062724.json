@@ -1,22 +1,25 @@
 {
-	"clbid": 62724,
+	"clbid": "0000062724",
 	"credits": 0.0,
-	"crsid": 16384,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 6,
-	"groupid": 158,
+	"crsid": "0000016384",
+	"department": "BIO",
+	"enrolled": 6,
+	"groupid": "0000000158",
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 393"
-	],
 	"max": 16,
 	"name": "Cell Physiology Lab",
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:15",
+			"location": "RNS 393",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"Th 0215-0515PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

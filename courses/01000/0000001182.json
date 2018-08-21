@@ -1,21 +1,36 @@
 {
-	"clbid": 1182,
+	"clbid": "0000001182",
 	"credits": 0.5,
-	"crsid": 1639,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 22,
+	"crsid": "0000001639",
+	"department": "DNCTE",
+	"enrolled": 22,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"YTT CONF RM"
-	],
 	"max": 12,
 	"name": "The Body Movable",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "YTT CONF RM",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "YTT CONF RM",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "YTT CONF RM",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

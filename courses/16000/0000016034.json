@@ -1,21 +1,30 @@
 {
-	"clbid": 16034,
+	"clbid": "0000016034",
 	"credits": 1.0,
-	"crsid": 1750,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 3,
+	"crsid": "0000001750",
+	"department": "GERM",
+	"enrolled": 3,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Fict: Bism-Reunifi-Tr",
 	"number": 148,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

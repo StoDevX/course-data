@@ -1,24 +1,33 @@
 {
-	"clbid": 12211,
+	"clbid": "0000012211",
 	"credits": 0.25,
-	"crsid": 1010,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001010",
+	"department": "PEAC",
 	"description": [
 		"This is an aerobic-based course utilizing swimming and water excersise. Prerequisite: Be able to swim 300 yards."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 24,
 	"name": "Swim Fitness",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Be able to swim 300 yards.",
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2005
 }

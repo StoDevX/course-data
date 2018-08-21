@@ -1,24 +1,39 @@
 {
-	"clbid": 57720,
+	"clbid": "0000057720",
 	"credits": 0.25,
-	"crsid": 811,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000811",
+	"department": "MUSIC",
 	"description": [
 		"Intended primarily for music majors, this course introduces basic techniques for performance on the trumpet, horn, trombone, euphonium, and tuba. Each student develops a basic proficiency on any three of these instruments. Pedagogical techniques, repertoire, literature, and instrument maintenance are also included. Students play a solo with piano accompaniment and perform with the class ensemble at the end of the term. Offered Spring Semester."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Paul Niemisto"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 15,
 	"name": "Brass Class",
 	"number": 166,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

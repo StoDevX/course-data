@@ -1,14 +1,12 @@
 {
-	"clbid": 121234,
+	"clbid": "0000121234",
 	"credits": 1.0,
-	"crsid": 20059,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000020059",
+	"department": "CHEM",
 	"description": [
 		"This course introduces the fundamentals of bioanalytical chemistry and the application of modern analysis techniques to biological samples. Current clinical applications and examples of biological problems supplement lecture material. Daily lectures are closely integrated with laboratory experiences. Topics include different types of chromatography used to separate biological mixtures in various ways, 1D- and 2D-gel electrophoresis, capillary electrophoresis, radiochemical and immunological assays, centrifugation techniques,and biological mass spectrometry. Offered during Interim in alternate years. Counts toward biomolecular science concentration. Prerequisites: CHEM 255 or CHEM 379 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
@@ -17,15 +15,44 @@
 		"Douglas J. Beussman"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Bioanalytic Chemistry",
 	"notes": [
 		"Lab hours to be arranged"
 	],
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM 255 or CHEM 379 or permission of instructor.",
 	"revisions": [
@@ -38,14 +65,29 @@
 			"_updated": "2018-08-07T14:48:46.875494+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.039512+00:00",
+			"clbid": 121234,
+			"crsid": 20059,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"title": "Bioanalytical Chemistry",
 	"type": "Research",
 	"year": 2018

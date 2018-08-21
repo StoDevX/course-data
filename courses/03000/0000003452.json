@@ -1,21 +1,30 @@
 {
-	"clbid": 3452,
+	"clbid": "0000003452",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 21,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 21,
 	"instructors": [
 		"Susan Lindley"
 	],
 	"level": 100,
-	"locations": [
-		"CH 102"
-	],
 	"max": 20,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CH 102",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CH 102",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2001
 }

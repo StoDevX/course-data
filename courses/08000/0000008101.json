@@ -1,22 +1,30 @@
 {
-	"clbid": 8101,
+	"clbid": "0000008101",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000738",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SC 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,23 +1,49 @@
 {
-	"clbid": 4907,
+	"clbid": "0000004907",
 	"credits": 1.0,
-	"crsid": 334,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 19,
+	"crsid": "0000000334",
+	"department": "EDUC",
+	"enrolled": 19,
 	"instructors": [
 		"Maria L. Kelly",
 		"Larry Fowler"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Tchg of Soc Studies",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "Th",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "FH 10L",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "FH 10L",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "FH 10L",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +61,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MTh 0600-0730PM",
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

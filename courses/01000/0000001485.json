@@ -1,21 +1,30 @@
 {
-	"clbid": 1485,
+	"clbid": "0000001485",
 	"credits": 1.0,
-	"crsid": 982,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 32,
+	"crsid": "0000000982",
+	"department": "PHIL",
+	"enrolled": 32,
 	"instructors": [
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"H 307"
-	],
 	"max": 22,
 	"name": "Top: Environ Ethics",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 307",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

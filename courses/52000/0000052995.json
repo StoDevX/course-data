@@ -1,24 +1,33 @@
 {
-	"clbid": 52995,
+	"clbid": "0000052995",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"These courses introduce students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using infrared, nuclear magnetic resonance and mass spectroscopic methods. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Spring Semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Anthony T. Watson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 999,
 	"name": "Synthesis Lab",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Spring Semester.",
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 5,
 	"status": "C",
 	"term": 20055,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory",
 	"type": "Lab",
 	"year": 2005

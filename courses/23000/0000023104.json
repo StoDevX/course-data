@@ -1,21 +1,48 @@
 {
-	"clbid": 23104,
+	"clbid": "0000023104",
 	"credits": 1.0,
-	"crsid": 194,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 5,
+	"crsid": "0000000194",
+	"department": "CHEM",
+	"enrolled": 5,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 999,
 	"name": "Chemical Reactions",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 378",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 378",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 378",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 378",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 378",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 19975,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 1997
 }

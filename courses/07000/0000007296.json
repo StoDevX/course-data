@@ -1,22 +1,30 @@
 {
-	"clbid": 7296,
+	"clbid": "0000007296",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 14,
+	"crsid": "0000001148",
+	"department": "PSCI",
+	"enrolled": 14,
 	"instructors": [
 		"William A. Gorton"
 	],
 	"level": 300,
-	"locations": [
-		"OM 035",
-		"OM 035"
-	],
 	"max": 15,
 	"name": "Sem: Amer Pol Thought",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 035",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 035",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

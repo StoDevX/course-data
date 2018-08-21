@@ -1,21 +1,30 @@
 {
-	"clbid": 1328,
+	"clbid": "0000001328",
 	"credits": 1.0,
-	"crsid": 618,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 30,
+	"crsid": "0000000618",
+	"department": "HIST",
+	"enrolled": 30,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 30,
 	"name": "African--Amer Hist",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 302",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 302",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

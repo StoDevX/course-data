@@ -1,21 +1,36 @@
 {
-	"clbid": 9966,
+	"clbid": "0000009966",
 	"credits": 1.0,
-	"crsid": 1363,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 23,
+	"crsid": "0000001363",
+	"department": "SWRK",
+	"enrolled": 23,
 	"instructors": [
 		"Sarah M. Ferguson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317"
-	],
 	"max": 30,
 	"name": "Social Policy",
 	"number": 258,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

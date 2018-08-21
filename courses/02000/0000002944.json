@@ -1,21 +1,24 @@
 {
-	"clbid": 2944,
+	"clbid": "0000002944",
 	"credits": 0.25,
-	"crsid": 212,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 3,
+	"crsid": "0000000212",
+	"department": "CHEM",
+	"enrolled": 3,
 	"instructors": [
 		"Susan Green"
 	],
 	"level": 300,
-	"locations": [
-		"SC 329"
-	],
 	"max": 999,
 	"name": "Spectro-Crystallo Lab",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 329",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"M 1255-0500PM"
-	],
 	"type": "Lab",
 	"year": 2001
 }

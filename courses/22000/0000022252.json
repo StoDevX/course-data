@@ -1,21 +1,24 @@
 {
-	"clbid": 22252,
+	"clbid": "0000022252",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378/371"
-	],
 	"max": 24,
 	"name": "Fundamentls Chem/Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "SC 378/371",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 1997
 }

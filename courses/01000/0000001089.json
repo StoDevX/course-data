@@ -1,21 +1,36 @@
 {
-	"clbid": 1089,
+	"clbid": "0000001089",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 51,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 51,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282"
-	],
 	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 282",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 282",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 282",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

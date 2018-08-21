@@ -1,14 +1,12 @@
 {
-	"clbid": 121520,
+	"clbid": "0000121520",
 	"credits": 1.0,
-	"crsid": 572,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000572",
+	"department": "HIST",
 	"description": [
 		"Selected topics in historical studies, depending on instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,16 +14,26 @@
 		"Christopher M. Elias"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 18,
 	"name": "Top: America in Vietnam",
 	"notes": [
 		"First-year students only."
 	],
 	"number": 188,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,16 +46,32 @@
 			"_updated": "2018-08-07T14:48:49.625057+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.720217+00:00",
+			"clbid": 121520,
+			"crsid": 572,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Topical Seminar",
 	"type": "Topic",
 	"year": 2018

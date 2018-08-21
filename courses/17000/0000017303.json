@@ -1,21 +1,30 @@
 {
-	"clbid": 17303,
+	"clbid": "0000017303",
 	"credits": 0.25,
-	"crsid": 1021,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 7,
+	"crsid": "0000001021",
+	"department": "PEAC",
+	"enrolled": 7,
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 100,
-	"locations": [
-		"SAC RAC CT"
-	],
 	"max": 8,
 	"name": "Racquetball (Women)",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC RAC CT",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC RAC CT",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

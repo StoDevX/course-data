@@ -1,21 +1,30 @@
 {
-	"clbid": 2960,
+	"clbid": "0000002960",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 26,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 26,
 	"instructors": [
 		"Mark Pernecky"
 	],
 	"level": 100,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2001
 }

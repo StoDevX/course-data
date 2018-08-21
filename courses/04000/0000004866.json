@@ -1,21 +1,36 @@
 {
-	"clbid": 4866,
+	"clbid": "0000004866",
 	"credits": 1.0,
-	"crsid": 272,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 36,
+	"crsid": "0000000272",
+	"department": "ECON",
+	"enrolled": 36,
 	"instructors": [
 		"Steve Soderlind"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317"
-	],
 	"max": 30,
 	"name": "Urban Economics",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 317",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 91723,
+	"clbid": "0000091723",
 	"credits": 1.0,
-	"crsid": 1128,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001128",
+	"department": "PSCI",
 	"description": [
 		"The goal of this course is to expand students' knowledge of conflict, cooperation, trade, development, inequality, imperialism, and power in world politics. The course uses substantive examples to teach about issues and institutions in \"world politics\" and to examine appropriate mechanisms to understand and explain international phenomena."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Anthony Pahnke"
 	],
 	"level": 200,
-	"locations": [
-		"OM 305",
-		"OM 305"
-	],
 	"max": 19,
 	"name": "World Politics",
 	"number": 258,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 305",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "OM 305",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2013
 }

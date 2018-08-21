@@ -1,23 +1,25 @@
 {
-	"clbid": 61542,
+	"clbid": "0000061542",
 	"credits": 0.0,
-	"crsid": 18796,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 18,
-	"groupid": 18795,
+	"crsid": "0000018796",
+	"department": "CH/BI",
+	"enrolled": 18,
+	"groupid": "0000018795",
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 24,
 	"name": "Integrated Chem/Bio I Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 355",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2008
 }

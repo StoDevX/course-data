@@ -1,22 +1,25 @@
 {
-	"clbid": 118282,
+	"clbid": "0000118282",
 	"credits": 0.0,
-	"crsid": 1079,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 12,
-	"groupid": 1078,
+	"crsid": "0000001079",
+	"department": "PHYS",
+	"enrolled": 12,
+	"groupid": "0000001078",
 	"instructors": [
 		"Prabal Adhikari"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 16,
 	"name": "Analytical III Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 293",
+			"start": "08:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:44.622312+00:00",
 			"enroll": "12",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.648957+00:00",
+			"clbid": 118282,
+			"crsid": 1079,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 12,
+			"enrolled": null,
+			"groupid": 1078,
+			"locations": [
+				"RNS 293"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0820-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 0820-1050"
-	],
 	"type": "Lab",
 	"year": 2018
 }

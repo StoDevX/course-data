@@ -1,21 +1,36 @@
 {
-	"clbid": 9811,
+	"clbid": "0000009811",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 26,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 26,
 	"instructors": [
 		"Katherine S. Tegtmeyer Pak"
 	],
 	"level": 100,
-	"locations": [
-		"HH 403"
-	],
 	"max": 30,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

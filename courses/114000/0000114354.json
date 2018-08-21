@@ -1,23 +1,26 @@
 {
-	"clbid": 114354,
+	"clbid": "0000114354",
 	"credits": 0.0,
-	"crsid": 27684,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 24,
-	"groupid": 743,
+	"crsid": "0000027684",
+	"department": "MATH",
+	"enrolled": 24,
+	"groupid": "0000000743",
 	"instructors": [
 		"Bruce E. Pell",
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 20,
 	"name": "Math of Biology Lab",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 398",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -76,9 +79,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"M 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

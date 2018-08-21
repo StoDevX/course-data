@@ -1,21 +1,30 @@
 {
-	"clbid": 8261,
+	"clbid": "0000008261",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001011",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_S"
-	],
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "SAC_GYM_S",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "SAC_GYM_S",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

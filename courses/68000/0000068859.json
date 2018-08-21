@@ -1,23 +1,25 @@
 {
-	"clbid": 68859,
+	"clbid": "0000068859",
 	"credits": 0.0,
-	"crsid": 18827,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 18802,
+	"crsid": "0000018827",
+	"department": "CH/BI",
+	"enrolled": 20,
+	"groupid": "0000018802",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 24,
 	"name": "Integr Chem/Bio III Lab",
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 394",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

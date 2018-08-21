@@ -1,21 +1,36 @@
 {
-	"clbid": 19497,
+	"clbid": "0000019497",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 50,
+	"crsid": "0000001072",
+	"department": "PHYS",
+	"enrolled": 50,
 	"instructors": [
 		"Amy Larsen"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 50,
 	"name": "Principles Physics I",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

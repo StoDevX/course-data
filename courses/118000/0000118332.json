@@ -1,22 +1,25 @@
 {
-	"clbid": 118332,
+	"clbid": "0000118332",
 	"credits": 0.0,
-	"crsid": 659,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 3,
-	"groupid": 658,
+	"crsid": "0000000659",
+	"department": "JAPAN",
+	"enrolled": 3,
+	"groupid": "0000000658",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 108"
-	],
 	"max": 14,
 	"name": "Beginning Japanese I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "TOH 108",
+			"start": "13:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,15 +48,31 @@
 			"_updated": "2018-08-07T14:48:44.657439+00:00",
 			"enroll": "3",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.733437+00:00",
+			"clbid": 118332,
+			"crsid": 659,
+			"department": null,
+			"departments": [
+				"JAPAN"
+			],
+			"enroll": 3,
+			"enrolled": null,
+			"groupid": 658,
+			"locations": [
+				"TOH 108"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0150-0245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 0150-0245PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

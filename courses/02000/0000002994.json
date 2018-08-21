@@ -1,21 +1,36 @@
 {
-	"clbid": 2994,
+	"clbid": "0000002994",
 	"credits": 1.0,
-	"crsid": 311,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 18,
+	"crsid": "0000000311",
+	"department": "EDUC",
+	"enrolled": 18,
 	"instructors": [
 		"John Welckle"
 	],
 	"level": 200,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 25,
 	"name": "Educ Psychology",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1270,
+	"clbid": "0000001270",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 20,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 20,
 	"instructors": [
 		"Jon Eric Nelson"
 	],
 	"level": 100,
-	"locations": [
-		"L 420"
-	],
 	"max": 19,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "L 420",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 420",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 420",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

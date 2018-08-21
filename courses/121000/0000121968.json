@@ -1,14 +1,12 @@
 {
-	"clbid": 121968,
+	"clbid": "0000121968",
 	"credits": 1.0,
-	"crsid": 25625,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000025625",
+	"department": "PSCI",
 	"description": [
 		"Where does democracy originate, within nations or from international processes? What factors shape efforts around the world to claim power for the people? Should democratic states seek to promote democracy internationally? This course asks students to consider these questions by exploring global experiences of democratization from the 20th century through recent events. The course introduces ideas from political scientists and political actors and requires students to compare them. Offered annually."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,15 +14,32 @@
 		"Navruz Nekbakhtshoev"
 	],
 	"level": 100,
-	"locations": [
-		"OM 030"
-	],
 	"max": 16,
 	"name": "Global Democracy",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 030",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 030",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 030",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -53,15 +68,30 @@
 			"_updated": "2018-08-07T14:48:45.548697+00:00",
 			"enroll": "10",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.656891+00:00",
+			"clbid": 121968,
+			"crsid": 25625,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"locations": [
+				"OM 030"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

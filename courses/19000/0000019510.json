@@ -1,21 +1,36 @@
 {
-	"clbid": 19510,
+	"clbid": "0000019510",
 	"credits": 1.0,
-	"crsid": 1092,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 16,
+	"crsid": "0000001092",
+	"department": "PHYS",
+	"enrolled": 16,
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 24,
 	"name": "Classical Mechanics",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

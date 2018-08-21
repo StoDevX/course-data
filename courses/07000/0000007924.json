@@ -1,21 +1,36 @@
 {
-	"clbid": 7924,
+	"clbid": "0000007924",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 27,
+	"crsid": "0000000476",
+	"department": "FREN",
+	"enrolled": 27,
 	"instructors": [
 		"M. Clare Mather"
 	],
 	"level": 100,
-	"locations": [
-		"OM 030"
-	],
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

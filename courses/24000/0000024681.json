@@ -1,21 +1,30 @@
 {
-	"clbid": 24681,
+	"clbid": "0000024681",
 	"credits": 0.25,
-	"crsid": 814,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 5,
+	"crsid": "0000000814",
+	"department": "MUSIC",
+	"enrolled": 5,
 	"instructors": [
 		"Scott Kallestad"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Woodwind Class",
 	"number": 169,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 138",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 138",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 9986,
+	"clbid": "0000009986",
 	"credits": 1.0,
-	"crsid": 1399,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 26,
+	"crsid": "0000001399",
+	"department": "THEAT",
+	"enrolled": 26,
 	"instructors": [
 		"Karen Wilson"
 	],
 	"level": 300,
-	"locations": [
-		"TB 216"
-	],
 	"max": 25,
 	"name": "Top: Theatre in Societ",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TB 216",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TB 216",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TB 216",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Topic",
 	"year": 2004
 }

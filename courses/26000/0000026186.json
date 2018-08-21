@@ -1,21 +1,30 @@
 {
-	"clbid": 26186,
+	"clbid": "0000026186",
 	"credits": 1.0,
-	"crsid": 42,
-	"departments": [
-		"ART"
-	],
-	"enroll": 9,
+	"crsid": "0000000042",
+	"department": "ART",
+	"enrolled": 9,
 	"instructors": [
 		"Thomas Jacobsen"
 	],
 	"level": 200,
-	"locations": [
-		"FH 21"
-	],
 	"max": 13,
 	"name": "Motion Graphics",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "FH 21",
+			"start": "19:00"
+		},
+		{
+			"day": "We",
+			"end": "22:00",
+			"location": "FH 21",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MW 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

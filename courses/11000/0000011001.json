@@ -1,25 +1,33 @@
 {
-	"clbid": 11001,
+	"clbid": "0000011001",
 	"credits": 1.0,
-	"crsid": 1192,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001192",
+	"department": "REL",
 	"description": [
 		"This course introduces students to Christian theology, provides an overview of central Christian beliefs (e.g., about God, Christ, creation, salvation, sin, faith, the church) and critically examines their origins, meaning, coherence and contemporary validity. How should Christians understand themselves and the world in light of the God made known in Jesus Christ?"
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Gregory A. Walter"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 24,
 	"name": "Essentials Chr Theol",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 111",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "BMC 111",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Essentials of Christian Theology",
 	"type": "Research",
 	"year": 2005

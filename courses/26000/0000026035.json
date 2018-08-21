@@ -1,21 +1,48 @@
 {
-	"clbid": 26035,
+	"clbid": "0000026035",
 	"credits": 1.0,
-	"crsid": 1756,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 10,
+	"crsid": "0000001756",
+	"department": "GERM",
+	"enrolled": 10,
 	"instructors": [
 		"Norman M. Watt"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 20,
 	"name": "Speaking German",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "M 35",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "M 35",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "M 35",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "M 35",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "M 35",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19992,
-	"times": [
-		"M-F 1040-0300PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 11780,
+	"clbid": "0000011780",
 	"credits": 1.0,
-	"crsid": 207,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000207",
+	"department": "CHEM",
 	"description": [
 		"Students delve further into the topics of kinetics, thermodynamics and atomic and molecular structure that were introduced in the first-year courses. This course emphasizes the mathematical aspects of chemistry. Specific topics may include reaction mechanisms, homogeneous and heterogeneous catalysis, phase transitions, macromolecules, symmetry, spectroscopy and molecular orbital theory. Prerequisite: Chemistry 126. Previous completion of Physics 124 or 126 is recommended. Concurrent registration in Chemistry 357 is required. Offered both semesters."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Gary Miessler"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 24,
 	"name": "Physical Chemistry",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126. Previous completion of Physics 124 or 126 is recommended. Concurrent registration in Chemistry 357 is required. Offered both semesters.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

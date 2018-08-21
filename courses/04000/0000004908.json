@@ -1,23 +1,31 @@
 {
-	"clbid": 4908,
+	"clbid": "0000004908",
 	"credits": 0.5,
-	"crsid": 335,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 26,
+	"crsid": "0000000335",
+	"department": "EDUC",
+	"enrolled": 26,
 	"halfcredit": "1",
 	"instructors": [
 		"Daniel R. Forstner"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10"
-	],
 	"max": 30,
 	"name": "Counsel/Comm in Schls",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH 10",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "FH 10",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +44,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

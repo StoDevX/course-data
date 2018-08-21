@@ -1,15 +1,13 @@
 {
-	"clbid": 66387,
+	"clbid": "0000066387",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
+	"crsid": "0000000498",
+	"department": "GE",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html for section descriptions.",
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections which explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"FYW"
 	],
@@ -17,13 +15,23 @@
 		"Mary Griep"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 204",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 204",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,10 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

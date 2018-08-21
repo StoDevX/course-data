@@ -1,21 +1,30 @@
 {
-	"clbid": 20168,
+	"clbid": "0000020168",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 18,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 18,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 100,
-	"locations": [
-		"H 413"
-	],
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 413",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 413",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

@@ -1,22 +1,42 @@
 {
-	"clbid": 2988,
+	"clbid": "0000002988",
 	"credits": 1.0,
-	"crsid": 1615,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 5,
+	"crsid": "0000001615",
+	"department": "CSCI",
+	"enrolled": 5,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"OMH 300"
-	],
 	"max": 18,
 	"name": "Software Design & Impl",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "OMH 300",
+			"start": "13:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 1150-1245PM",
-		"Th 0130-0330PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

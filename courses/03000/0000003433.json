@@ -1,21 +1,36 @@
 {
-	"clbid": 3433,
+	"clbid": "0000003433",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 8,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 8,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 18,
 	"name": "Sem: Jr Research",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

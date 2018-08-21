@@ -1,28 +1,43 @@
 {
-	"clbid": 82781,
+	"clbid": "0000082781",
 	"credits": 1.0,
-	"crsid": 1259,
-	"departments": [
-		"RUSSN"
-	],
+	"crsid": "0000001259",
+	"department": "RUSSN",
 	"description": [
 		"This course offers an introduction to grammar and reading through oral and written work, supplemented by reading of graded Russian prose. Offered annually in the fall semester."
 	],
-	"enroll": 17,
-	"groupid": 1259,
+	"enrolled": 17,
+	"groupid": "0000001259",
 	"instructors": [
 		"Erik McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 312"
-	],
 	"max": 19,
 	"name": "Beginning Russian I",
 	"notes": [
 		"Students in Russn 111B must also register for one lab Russn 111AL or BL."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 312",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 312",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 312",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

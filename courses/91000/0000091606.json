@@ -1,25 +1,33 @@
 {
-	"clbid": 91606,
+	"clbid": "0000091606",
 	"credits": 1.0,
-	"crsid": 759,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000759",
+	"department": "MATH",
 	"description": [
 		"This course covers basic enumeration, including generating functions, recursion, and the inclusion-exclusion principle. Basic combinatorial objects such as set partitions, permutations, integer partitions, and posets are discussed. Making conjectures and proving theorems combinatorially are emphasized. Students also explore topics in graph theory, matrix theory, and representation theory. Prerequisite: Mathematics 252; some previous exposure to counting methods (e.g., counting permutations and combinations) is helpful but not required. Offered in 2013-14 and alternate years."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Kristina Garrett"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 206",
-		"RNS 206"
-	],
 	"max": 20,
 	"name": "Combinatorics",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 206",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 206",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 252; some previous exposure to counting methods (e.g., counting permutations and combinations) is helpful but not required. Offered in 2013-14 and alternate years.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2013
 }

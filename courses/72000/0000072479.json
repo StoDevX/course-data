@@ -1,14 +1,12 @@
 {
-	"clbid": 72479,
+	"clbid": "0000072479",
 	"credits": 1.0,
-	"crsid": 745,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000745",
+	"department": "MATH",
 	"description": [
 		"Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Offered each semester."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Bruce Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 22,
 	"name": "Real Analysis I",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128, and Mathematics 220. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

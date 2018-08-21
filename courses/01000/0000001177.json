@@ -1,21 +1,48 @@
 {
-	"clbid": 1177,
+	"clbid": "0000001177",
 	"credits": 0.5,
-	"crsid": 340,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 22,
+	"crsid": "0000000340",
+	"department": "EDUC",
+	"enrolled": 22,
 	"instructors": [
 		"John Welckle"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 999,
 	"name": "Senior Seminar Educ",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"M-F 0800-0400PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

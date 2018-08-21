@@ -1,21 +1,30 @@
 {
-	"clbid": 3568,
+	"clbid": "0000003568",
 	"credits": 1.0,
-	"crsid": 1396,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 16,
+	"crsid": "0000001396",
+	"department": "THEAT",
+	"enrolled": 16,
 	"instructors": [
 		"Gary C. Gisselman"
 	],
 	"level": 300,
-	"locations": [
-		"SPT HAUGEN/"
-	],
 	"max": 12,
 	"name": "Adv Stage Direction",
 	"number": 338,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT HAUGEN/",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT HAUGEN/",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

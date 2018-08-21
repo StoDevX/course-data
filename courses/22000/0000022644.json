@@ -1,21 +1,30 @@
 {
-	"clbid": 22644,
+	"clbid": "0000022644",
 	"credits": 1.0,
-	"crsid": 928,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 7,
+	"crsid": "0000000928",
+	"department": "NORW",
+	"enrolled": 7,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 200,
-	"locations": [
-		"M 11"
-	],
 	"max": 25,
 	"name": "Scandinavian Lit-Tr",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:25",
+			"location": "M 11",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:25",
+			"location": "M 11",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0225PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

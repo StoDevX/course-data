@@ -1,22 +1,25 @@
 {
-	"clbid": 108666,
+	"clbid": "0000108666",
 	"credits": 0.0,
-	"crsid": 160,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 10,
-	"groupid": 159,
+	"crsid": "0000000160",
+	"department": "BIO",
+	"enrolled": 10,
+	"groupid": "0000000159",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 393"
-	],
 	"max": 14,
 	"name": "Molecular Biology Lab",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 393",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

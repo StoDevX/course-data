@@ -1,28 +1,43 @@
 {
-	"clbid": 112112,
+	"clbid": "0000112112",
 	"credits": 1.0,
-	"crsid": 1259,
-	"departments": [
-		"RUSSN"
-	],
+	"crsid": "0000001259",
+	"department": "RUSSN",
 	"description": [
 		"This course offers an introduction to grammar and reading through oral and written work, supplemented by reading of graded Russian prose. Offered annually in the fall semester."
 	],
-	"enroll": 12,
-	"groupid": 1259,
+	"enrolled": 12,
+	"groupid": "0000001259",
 	"instructors": [
 		"Margarita Safariants"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 212"
-	],
 	"max": 26,
 	"name": "Beginning Russian I",
 	"notes": [
 		"Students in Russn 111A must also register for one lab Russn 111AL or BL."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 212",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 212",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 212",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +62,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 17305,
+	"clbid": "0000017305",
 	"credits": 0.25,
-	"crsid": 1021,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 6,
+	"crsid": "0000001021",
+	"department": "PEAC",
+	"enrolled": 6,
 	"instructors": [
 		"Lori Cooling"
 	],
 	"level": 100,
-	"locations": [
-		"SAC RAC CT"
-	],
 	"max": 8,
 	"name": "Racquetball (Women)",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC RAC CT",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC RAC CT",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

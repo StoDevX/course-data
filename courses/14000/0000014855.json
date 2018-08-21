@@ -1,21 +1,30 @@
 {
-	"clbid": 14855,
+	"clbid": "0000014855",
 	"credits": 0.25,
-	"crsid": 1644,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 13,
+	"crsid": "0000001644",
+	"department": "DNCTE",
+	"enrolled": 13,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CTR STUDIO"
-	],
 	"max": 16,
 	"name": "Tap",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CTR STUDIO",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "CTR STUDIO",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

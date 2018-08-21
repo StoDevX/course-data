@@ -1,21 +1,24 @@
 {
-	"clbid": 20105,
+	"clbid": "0000020105",
 	"credits": 0.0,
-	"crsid": 160,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000160",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 229"
-	],
 	"max": 12,
 	"name": "Molecular Biology/Lab",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 229",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

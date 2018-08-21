@@ -1,14 +1,12 @@
 {
-	"clbid": 115372,
+	"clbid": "0000115372",
 	"credits": 1.0,
-	"crsid": 1206,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001206",
+	"department": "REL",
 	"description": [
 		"Students examine key texts in the Old and New Testaments with the aim of exploring the issues such writings pose for Christian theological reflection. In addition, they explore selected readings on the doctrine of scripture and language about God. Counts toward ancient studies major. Prerequisite: BTS-B."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"BTS-T",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Margaret Odell"
 	],
 	"level": 200,
-	"locations": [
-		"OM 305"
-	],
 	"max": 24,
 	"name": "The Biblical God",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 305",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 305",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 305",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -60,9 +75,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

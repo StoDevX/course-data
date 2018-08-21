@@ -1,26 +1,34 @@
 {
-	"clbid": 102682,
+	"clbid": "0000102682",
 	"credits": 0.25,
-	"crsid": 99,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000099",
+	"department": "BIO",
 	"description": [
 		"This biology course emphasizes learning strategies and critical thinking skills as applied to the curriculum of BIO 150. Objectives of the course are met through additional readings, problem sets, brief written assignments, introduction of discipline-specific writing styles, projects (including individual and/or group oral presentation), and library research. Assignments include new content that complements introductory biology. P/N only. Offered annually. Prerequisites: concurrent enrollment in BIO 150 and permission of instructor."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Jean C. Porterfield",
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 426",
-		"RNS 426"
-	],
 	"max": 10,
 	"name": "Suppl Inst Cell Biol",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:00",
+			"location": "RNS 426",
+			"start": "16:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 426",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: concurrent enrollment in BIO 150 and permission of instructor.",
 	"revisions": [
@@ -49,10 +57,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"T 0400-0500PM",
-		"F 0905-1000"
-	],
 	"title": "Supplemental Biology",
 	"type": "Research",
 	"year": 2014

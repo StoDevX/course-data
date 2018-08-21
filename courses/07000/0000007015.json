@@ -1,21 +1,24 @@
 {
-	"clbid": 7015,
+	"clbid": "0000007015",
 	"credits": 1.0,
-	"crsid": 1836,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 39,
+	"crsid": "0000001836",
+	"department": "HIST",
+	"enrolled": 39,
 	"instructors": [
 		"Deborah Alexander"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501"
-	],
 	"max": 35,
 	"name": "Top: Film and History",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 501",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Topic",
 	"year": 2003
 }

@@ -1,22 +1,37 @@
 {
-	"clbid": 9394,
+	"clbid": "0000009394",
 	"credits": 1.0,
-	"crsid": 399,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 42,
+	"crsid": "0000000399",
+	"department": "ENGL",
+	"enrolled": 42,
 	"instructors": [
 		"Mark Allister",
 		"Mary Titus"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 55,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

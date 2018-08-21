@@ -1,22 +1,37 @@
 {
-	"clbid": 20232,
+	"clbid": "0000020232",
 	"credits": 1.0,
-	"crsid": 337,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 1,
+	"crsid": "0000000337",
+	"department": "EDUC",
+	"enrolled": 1,
 	"halfcredit": "2",
 	"instructors": [
 		"Ann A. Leming"
 	],
 	"level": 300,
-	"locations": [
-		"YH 132"
-	],
 	"max": 3,
 	"name": "The Exceptional Child",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "YH 132",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "YH 132",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "YH 132",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

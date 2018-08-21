@@ -1,21 +1,30 @@
 {
-	"clbid": 22442,
+	"clbid": "0000022442",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 12,
+	"crsid": "0000000452",
+	"department": "ENGL",
+	"enrolled": 12,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 300,
-	"locations": [
-		"L 520"
-	],
 	"max": 15,
 	"name": "Major Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 520",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 520",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

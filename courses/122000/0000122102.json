@@ -1,14 +1,12 @@
 {
-	"clbid": 122102,
+	"clbid": "0000122102",
 	"credits": 1.0,
-	"crsid": 27763,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000027763",
+	"department": "REL",
 	"description": [
 		"This course introduces students to Christian theology through examination of selected works of C.S. Lewis. The course considers both Lewis's explicitly theological writings and his fictional works as resources for theological reflection. Offered annually. Prerequisite: BTS-B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"Benjamin E. Heidgerken"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 35,
 	"name": "Beyond Narnia: Theol of C.S. Lewis",
 	"number": 239,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -41,15 +49,31 @@
 			"_updated": "2018-08-07T14:48:49.829295+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.979018+00:00",
+			"clbid": 122102,
+			"crsid": 27763,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Beyond Narnia: The Theology of C. S. Lewis",
 	"type": "Research",
 	"year": 2018

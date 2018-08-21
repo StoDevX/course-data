@@ -1,21 +1,24 @@
 {
-	"clbid": 19015,
+	"clbid": "0000019015",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 311/378"
-	],
 	"max": 24,
 	"name": "Fundamentals Chem/Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 311/378",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"Th 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

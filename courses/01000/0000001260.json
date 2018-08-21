@@ -1,21 +1,36 @@
 {
-	"clbid": 1260,
+	"clbid": "0000001260",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 14,
+	"crsid": "0000000476",
+	"department": "FREN",
+	"enrolled": 14,
 	"instructors": [
 		"M. Clare Mather"
 	],
 	"level": 100,
-	"locations": [
-		"M 26"
-	],
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 26",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 26",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 26",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

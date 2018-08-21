@@ -1,21 +1,36 @@
 {
-	"clbid": 367,
+	"clbid": "0000000367",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 23,
+	"crsid": "0000000738",
+	"department": "MATH",
+	"enrolled": 23,
 	"instructors": [
 		"Philip Gloor"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 999,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

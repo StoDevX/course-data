@@ -1,21 +1,36 @@
 {
-	"clbid": 22566,
+	"clbid": "0000022566",
 	"credits": 1.0,
-	"crsid": 1941,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 27,
+	"crsid": "0000001941",
+	"department": "MATH",
+	"enrolled": 27,
 	"instructors": [
 		"Michael Kahn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 25,
 	"name": "Statistics for Science",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

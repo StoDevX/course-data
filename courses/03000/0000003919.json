@@ -1,22 +1,30 @@
 {
-	"clbid": 3919,
+	"clbid": "0000003919",
 	"credits": 1.0,
-	"crsid": 413,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 18,
+	"crsid": "0000000413",
+	"department": "ENGL",
+	"enrolled": 18,
 	"instructors": [
 		"Mary Steen"
 	],
 	"level": 200,
-	"locations": [
-		"L 420",
-		"L 420"
-	],
 	"max": 18,
 	"name": "Creative Nonfiction",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "L 420",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

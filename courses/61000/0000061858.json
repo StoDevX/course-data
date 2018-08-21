@@ -1,22 +1,25 @@
 {
-	"clbid": 61858,
+	"clbid": "0000061858",
 	"credits": 0.0,
-	"crsid": 1061,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 16,
-	"groupid": 1060,
+	"crsid": "0000001061",
+	"department": "ESTH",
+	"enrolled": 16,
+	"groupid": "0000001060",
 	"instructors": [
 		"Mark Blegen"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Motor Learning Lab",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "21:00",
+			"location": "SAC 103",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"T 0700-0900PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

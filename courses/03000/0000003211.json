@@ -1,21 +1,30 @@
 {
-	"clbid": 3211,
+	"clbid": "0000003211",
 	"credits": 1.0,
-	"crsid": 749,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 21,
+	"crsid": "0000000749",
+	"department": "MATH",
+	"enrolled": 21,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 30,
 	"name": "Operations Research",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

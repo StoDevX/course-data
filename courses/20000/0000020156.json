@@ -1,21 +1,36 @@
 {
-	"clbid": 20156,
+	"clbid": "0000020156",
 	"credits": 1.0,
-	"crsid": 218,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 9,
+	"crsid": "0000000218",
+	"department": "CHEM",
+	"enrolled": 9,
 	"instructors": [
 		"Gail Carlson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Metabolic Biochem",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

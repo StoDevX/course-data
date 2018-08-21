@@ -1,27 +1,42 @@
 {
-	"clbid": 121192,
+	"clbid": "0000121192",
 	"credits": 1.0,
-	"crsid": 780,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000780",
+	"department": "MGMT",
 	"description": [
 		"This course introduces students to the principles and importance of entrepreneurship, covering both the theory and practical aspects of the subject. Students acquire a greater understanding of the entrepreneurial process: a process of opportunity recognition, resource marshaling, and team building driven by communication, creativity, and leadership. Discussions focus on the relationship of liberal arts disciplines to the entrepreneur, the role of entrepreneur in society and history, the risks and rewards of entrepreneurship, and the elements of the entrepreneurial behavior. Study concentrates on the entrepreneurial process from idea creation to ultimate business or other organizational activity. A leadership theme permeates these discussions. A variety of instructional techniques are used including group projects, guest presenters, and practicing entrepreneurs attending the class. Offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Sian E. Muir"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 28,
 	"name": "Entrepreneurship",
 	"notes": [
 		"Not open to First-year students."
 	],
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.484614+00:00",
 			"enroll": "0",
 			"max": "28"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.572698+00:00",
+			"clbid": 121192,
+			"crsid": 780,
+			"department": null,
+			"departments": [
+				"MGMT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

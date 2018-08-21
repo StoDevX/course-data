@@ -1,21 +1,30 @@
 {
-	"clbid": 19725,
+	"clbid": "0000019725",
 	"credits": 1.0,
-	"crsid": 2487,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 13,
+	"crsid": "0000002487",
+	"department": "THEAT",
+	"enrolled": 13,
 	"instructors": [
 		"Kathleen Edelmayer"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 25,
 	"name": "Topics Public Address",
 	"number": 389,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SPT 227",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SPT 227",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 1996
 }

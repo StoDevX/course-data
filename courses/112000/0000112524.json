@@ -1,14 +1,12 @@
 {
-	"clbid": 112524,
+	"clbid": "0000112524",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001110",
+	"department": "PSCI",
 	"description": [
 		"War and peace, justice and power -- these are age-old topics of the politics among nations. This course examines them by emphasizing certain problem areas in the world and evaluating the principal theories for understanding international politics. Offered annually."
 	],
-	"enroll": 34,
+	"enrolled": 34,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Mitchell T. Radtke"
 	],
 	"level": 100,
-	"locations": [
-		"HH 502"
-	],
 	"max": 35,
 	"name": "International Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 502",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +71,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2017
 }

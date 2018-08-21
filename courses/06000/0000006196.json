@@ -1,21 +1,36 @@
 {
-	"clbid": 6196,
+	"clbid": "0000006196",
 	"credits": 1.0,
-	"crsid": 1113,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001113",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 20,
 	"name": "Analyzing Politics",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

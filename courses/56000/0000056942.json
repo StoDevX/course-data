@@ -1,24 +1,33 @@
 {
-	"clbid": 56942,
+	"clbid": "0000056942",
 	"credits": 0.25,
-	"crsid": 1010,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001010",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing swimming and water excersises. Prerequisite: Be able to swim 300 yards."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 19,
 	"name": "Swim Fitness",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Be able to swim 300 yards.",
 	"revisions": [
@@ -41,9 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

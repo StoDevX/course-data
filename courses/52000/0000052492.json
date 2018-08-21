@@ -1,22 +1,25 @@
 {
-	"clbid": 52492,
+	"clbid": "0000052492",
 	"credits": 0.0,
-	"crsid": 125,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 15,
-	"groupid": 124,
+	"crsid": "0000000125",
+	"department": "BIO",
+	"enrolled": 15,
+	"groupid": "0000000124",
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 200,
-	"locations": [
-		"SC 269"
-	],
 	"max": 18,
 	"name": "Vertebrate Biology Lab",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 269",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

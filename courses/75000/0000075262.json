@@ -1,32 +1,47 @@
 {
-	"clbid": 75262,
+	"clbid": "0000075262",
 	"credits": 1.0,
-	"crsid": 100,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000100",
+	"department": "BIO",
 	"description": [
 		"This course explores contemporary biological issues related to health and the environment, with the goal of fostering informed citizens prepared for current biological debates. Students learn the relevant biological principles in lecture and lab followed by appropriate lab or field research. Specific topics vary from year to year and may include emerging diseases, cardiovascular health, genetics, specific groups of organisms, behavior, and environmental dynamics. The course includes lectures plus one two-hour laboratory per week."
 	],
-	"enroll": 65,
+	"enrolled": 65,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 100,
+	"groupid": "0000000100",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 67,
 	"name": "Biological Science",
 	"notes": [
 		"Students in Bio 121 must also register for one lab Bio 121 AL, BL, or CL."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Biological Science: Issues in Biology",
 	"type": "Research",
 	"year": 2010

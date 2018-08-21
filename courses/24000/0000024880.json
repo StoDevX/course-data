@@ -1,21 +1,30 @@
 {
-	"clbid": 24880,
+	"clbid": "0000024880",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 8,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 8,
 	"instructors": [
 		"Richard Senese"
 	],
 	"level": 300,
-	"locations": [
-		"H 320"
-	],
 	"max": 15,
 	"name": "Research Develop: Sem",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 320",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 320",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1998
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 25020,
+	"clbid": "0000025020",
 	"credits": 1.0,
-	"crsid": 1396,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 9,
+	"crsid": "0000001396",
+	"department": "THEAT",
+	"enrolled": 9,
 	"instructors": [
 		"Dona W. Freeman"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 12,
 	"name": "Inter Stage Direction",
 	"number": 338,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SPT 227",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SPT 227",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SPT 227",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

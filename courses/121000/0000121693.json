@@ -1,24 +1,39 @@
 {
-	"clbid": 121693,
+	"clbid": "0000121693",
 	"credits": 1.0,
-	"crsid": 18782,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000018782",
+	"department": "ENVST",
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Recent topics offered include Ecosystem Research, Landscape Art, Imaging Environmentalism, and Landscape and Regional Change in the Arctic."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Meredith Holgerson"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 12,
 	"name": "Top: Conservation Sci and Managemnt",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +56,30 @@
 			"_updated": "2018-08-07T14:48:49.765026+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.821094+00:00",
+			"clbid": 121693,
+			"crsid": 18782,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Advanced Research Topics in Environmental Studies",
 	"type": "Topic",
 	"year": 2018

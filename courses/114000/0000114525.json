@@ -1,14 +1,12 @@
 {
-	"clbid": 114525,
+	"clbid": "0000114525",
 	"credits": 1.0,
-	"crsid": 19414,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000019414",
+	"department": "PSYCH",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,17 +14,32 @@
 		"Shelly D. Dickinson"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 226",
-		"RNS 226",
-		"RNS 226"
-	],
 	"max": 6,
 	"name": "Res: Neurobiol of Alchohol Reward",
 	"notes": [
 		"Permission of instructor required to register. Closed during web registration."
 	],
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 226",
+			"start": "13:20"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 226",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 226",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -88,11 +101,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0120-0245PM",
-		"W 0100-0400PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2017

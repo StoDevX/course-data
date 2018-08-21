@@ -1,21 +1,30 @@
 {
-	"clbid": 33,
+	"clbid": "0000000033",
 	"credits": 1.0,
-	"crsid": 84,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 12,
+	"crsid": "0000000084",
+	"department": "ASIAN",
+	"enrolled": 12,
 	"instructors": [
 		"Bruce Dalgaard"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Rice & Society/E Asia",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

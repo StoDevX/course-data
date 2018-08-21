@@ -1,22 +1,42 @@
 {
-	"clbid": 3756,
+	"clbid": "0000003756",
 	"credits": 1.0,
-	"crsid": 139,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 16,
+	"crsid": "0000000139",
+	"department": "BIO",
+	"enrolled": 16,
 	"instructors": [
 		"Diane K. Angell"
 	],
 	"level": 200,
-	"locations": [
-		"H 307",
-		"SC 248"
-	],
 	"max": 18,
 	"name": "Ecological Principles",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Mo",
+			"end": "15:55",
+			"location": "SC 248",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 0800-0855",
-		"M 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

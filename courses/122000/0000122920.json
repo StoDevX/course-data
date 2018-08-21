@@ -1,11 +1,9 @@
 {
-	"clbid": 122920,
+	"clbid": "0000122920",
 	"credits": 1.0,
-	"crsid": 21539,
-	"departments": [
-		"REL"
-	],
-	"enroll": 0,
+	"crsid": "0000021539",
+	"department": "REL",
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -13,13 +11,23 @@
 		"Kelly W. Figuerora-Ray"
 	],
 	"level": 0,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Placeholder with BTS-T",
 	"number": 1,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -27,16 +35,32 @@
 			"_updated": "2018-08-07T14:48:49.846871+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.022388+00:00",
+			"clbid": 122920,
+			"crsid": 21539,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

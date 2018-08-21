@@ -1,22 +1,25 @@
 {
-	"clbid": 85987,
+	"clbid": "0000085987",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 23,
-	"groupid": 182,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 23,
+	"groupid": "0000000182",
 	"instructors": [
 		"Cassidy R. Terrell"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 24,
 	"name": "Chemistry & the World Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 355",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

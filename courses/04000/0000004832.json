@@ -1,21 +1,24 @@
 {
-	"clbid": 4832,
+	"clbid": "0000004832",
 	"credits": 0.25,
-	"crsid": 202,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 15,
+	"crsid": "0000000202",
+	"department": "CHEM",
+	"enrolled": 15,
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 321"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:20",
+			"location": "SC 321",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0120-0520PM"
-	],
 	"type": "Lab",
 	"year": 2002
 }

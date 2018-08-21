@@ -1,22 +1,30 @@
 {
-	"clbid": 8103,
+	"clbid": "0000008103",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 17,
+	"crsid": "0000000740",
+	"department": "MATH",
+	"enrolled": 17,
 	"instructors": [
 		"Katherine D. Crowley"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Int Differ Equations",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 184",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

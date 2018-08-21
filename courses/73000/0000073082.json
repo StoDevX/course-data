@@ -1,22 +1,25 @@
 {
-	"clbid": 73082,
+	"clbid": "0000073082",
 	"credits": 0.0,
-	"crsid": 16388,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 16,
-	"groupid": 461,
+	"crsid": "0000016388",
+	"department": "ENVST",
+	"enrolled": 16,
+	"groupid": "0000000461",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 400"
-	],
 	"max": 16,
 	"name": "Remote Sensing & GIS Lab",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 400",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"W 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

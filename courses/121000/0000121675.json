@@ -1,22 +1,30 @@
 {
-	"clbid": 121675,
+	"clbid": "0000121675",
 	"credits": 1.0,
-	"crsid": 21537,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 0,
+	"crsid": "0000021537",
+	"department": "ENGL",
+	"enrolled": 0,
 	"instructors": [
 		"Mark Allister"
 	],
 	"level": 0,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 30,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,16 +55,32 @@
 			"_updated": "2018-08-07T14:48:49.751481+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.790834+00:00",
+			"clbid": 121675,
+			"crsid": 21537,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

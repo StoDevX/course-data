@@ -1,14 +1,12 @@
 {
-	"clbid": 93062,
+	"clbid": "0000093062",
 	"credits": 1.0,
-	"crsid": 18778,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000018778",
+	"department": "ENVST",
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Topics may include Environment and Theology, Environmental Justice, Ecotourism, and Literature of the Poles. Class is largely discussion-based but may include a lab/field work component depending on the topic. May be repeated if topics are different. Offered annually."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"James P. Brown"
 	],
 	"level": 200,
-	"locations": [
-		"OM 140",
-		"OM 140"
-	],
 	"max": 16,
 	"name": "Top: Varieties Ecol Exper",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 140",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 140",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in Environmental Studies",
 	"type": "Topic",
 	"year": 2013

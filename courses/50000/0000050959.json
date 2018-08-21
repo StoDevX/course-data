@@ -1,24 +1,27 @@
 {
-	"clbid": 50959,
+	"clbid": "0000050959",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000199",
+	"department": "CHEM",
 	"description": [
 		"These courses introduce students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using infrared, nuclear magnetic resonance and mass spectroscopic methods. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Fall Semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Gregory W. Muth"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 22,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 378/311",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Fall Semester.",
 	"revisions": [
@@ -37,9 +40,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 0800-1100"
-	],
 	"title": "Synthesis Laboratory",
 	"type": "Lab",
 	"year": 2006

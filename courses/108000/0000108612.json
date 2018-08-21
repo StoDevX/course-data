@@ -1,14 +1,12 @@
 {
-	"clbid": 108612,
+	"clbid": "0000108612",
 	"credits": 0.25,
-	"crsid": 1005,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001005",
+	"department": "ESAC",
 	"description": [
 		"This course teaches the skills necessary for lifeguarding, first aid, AED, CPR, and waterfront guarding certification. Prerequisite: must be able to swim 550 yards (22 lengths)."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,13 +14,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Pool",
-		"SAC Pool"
-	],
 	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC Pool",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC Pool",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "must be able to swim 550 yards (22 lengths).",
 	"revisions": [
@@ -81,10 +89,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2016
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 20090,
+	"clbid": "0000020090",
 	"credits": 1.0,
-	"crsid": 124,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 39,
+	"crsid": "0000000124",
+	"department": "BIO",
+	"enrolled": 39,
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278"
-	],
 	"max": 32,
 	"name": "Vertebrate Nat Hist",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

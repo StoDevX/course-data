@@ -1,21 +1,36 @@
 {
-	"clbid": 17078,
+	"clbid": "0000017078",
 	"credits": 1.0,
-	"crsid": 539,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 14,
+	"crsid": "0000000539",
+	"department": "GREEK",
+	"enrolled": 14,
 	"instructors": [
 		"James May"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 999,
 	"name": "Beginning Greek I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1995
 }

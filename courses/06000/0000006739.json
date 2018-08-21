@@ -1,22 +1,42 @@
 {
-	"clbid": 6739,
+	"clbid": "0000006739",
 	"credits": 1.0,
-	"crsid": 139,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
+	"crsid": "0000000139",
+	"department": "BIO",
+	"enrolled": 11,
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278",
-		"SC 248"
-	],
 	"max": 18,
 	"name": "Ecological Principles",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 248",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855",
-		"W 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

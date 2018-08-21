@@ -1,21 +1,30 @@
 {
-	"clbid": 14810,
+	"clbid": "0000014810",
 	"credits": 1.0,
-	"crsid": 1606,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 21,
+	"crsid": "0000001606",
+	"department": "ECON",
+	"enrolled": 21,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"L 577"
-	],
 	"max": 25,
 	"name": "Investments",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 577",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 577",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

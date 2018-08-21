@@ -1,21 +1,30 @@
 {
-	"clbid": 20104,
+	"clbid": "0000020104",
 	"credits": 1.0,
-	"crsid": 159,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
+	"crsid": "0000000159",
+	"department": "BIO",
+	"enrolled": 11,
 	"instructors": [
 		"Lauri Sammartano"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 12,
 	"name": "Molecular Biology",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

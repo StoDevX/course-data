@@ -1,32 +1,47 @@
 {
-	"clbid": 68742,
+	"clbid": "0000068742",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000108",
+	"department": "BIO",
 	"description": [
 		"In this core course, students study the mechanisms of evolution, the evolutionary history of biological diversity, and the diversity of life. The structure and function of organisms are compared within an ecological/evolutionary context. Key adaptations to survival are examined among organisms from bacteria and protists to plants, fungi, and animals. Labs investigate population genetics, phylogeny, form, and behavior of selected organisms and provide experience in experimental design and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Prerequisite: Biology 125."
 	],
-	"enroll": 70,
+	"enrolled": 70,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 108,
+	"groupid": "0000000108",
 	"grouptype": "2",
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 66,
 	"name": "Evolution and Diversity",
 	"notes": [
 		"Students in Bio 126 B must also register for one lab Bio 126 DL, EL, or FL."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Biology 125.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2009
 }

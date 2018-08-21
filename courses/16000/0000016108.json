@@ -1,21 +1,36 @@
 {
-	"clbid": 16108,
+	"clbid": "0000016108",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 23,
+	"crsid": "0000000712",
+	"department": "LATIN",
+	"enrolled": 23,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 999,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

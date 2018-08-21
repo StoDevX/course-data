@@ -1,21 +1,30 @@
 {
-	"clbid": 21788,
+	"clbid": "0000021788",
 	"credits": 1.0,
-	"crsid": 1304,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 12,
+	"crsid": "0000001304",
+	"department": "SOAN",
+	"enrolled": 12,
 	"instructors": [
 		"Samiha Peterson"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 999,
 	"name": "Global Interdepend",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

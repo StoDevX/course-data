@@ -1,25 +1,33 @@
 {
-	"clbid": 100001,
+	"clbid": "0000100001",
 	"credits": 1.0,
-	"crsid": 381,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000381",
+	"department": "WRIT",
 	"description": [
 		"This course guides multilingual international students through the conventions of U.S. academic culture and discourse with emphasis on liberal arts education. Students practice reading, writing, speaking, and listening to develop skills and confidence in college writing. The course also includes extensive discussion of academic integrity and responsible use of information. Students must pass the course with a grade of C or higher in order to enroll in WRIT 111. Offered fall semester only."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Rebecca S. Richards"
 	],
 	"level": 100,
-	"locations": [
-		"OM 020",
-		"OM 020"
-	],
 	"max": 12,
 	"name": "Intro/Academic Wri",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 020",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 020",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Introduction to Academic Writing",
 	"type": "Research",
 	"year": 2015

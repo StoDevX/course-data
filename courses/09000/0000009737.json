@@ -1,21 +1,36 @@
 {
-	"clbid": 9737,
+	"clbid": "0000009737",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 21,
+	"crsid": "0000001012",
+	"department": "PEAC",
+	"enrolled": 21,
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 112"
-	],
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SAC 112",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

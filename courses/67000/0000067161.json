@@ -1,14 +1,12 @@
 {
-	"clbid": 67161,
+	"clbid": "0000067161",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001015",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,13 +14,23 @@
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr",
-		"Tostrud Ctr"
-	],
 	"max": 19,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "Tostrud Ctr",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "Tostrud Ctr",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

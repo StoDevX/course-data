@@ -1,21 +1,24 @@
 {
-	"clbid": 9313,
+	"clbid": "0000009313",
 	"credits": 0.25,
-	"crsid": 293,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 6,
+	"crsid": "0000000293",
+	"department": "CSCI",
+	"enrolled": 6,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"OM 300"
-	],
 	"max": 15,
 	"name": "Software Design/Lab",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "OM 300",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"W 0200-0400PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

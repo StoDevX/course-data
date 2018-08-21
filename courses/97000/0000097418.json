@@ -1,14 +1,12 @@
 {
-	"clbid": 97418,
+	"clbid": "0000097418",
 	"credits": 1.0,
-	"crsid": 1383,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001383",
+	"department": "THEAT",
 	"description": [
 		"Play texts are the raw material for our classes in acting, directing, design, and historical studies. This introductory course for theater majors introduces students to canonical texts and performances that have helped to define our field. Primary emphasis is on the text as a blueprint for production focusing on analysis, variety of interpretation, the changing nature of theater space, and our growing awareness of the changing nature of performance. Students are expected to communicate clarity of understanding both orally and in writing. Non-majors are invited to take this course, though its primary focus is a comprehensive preparation for further theater studies. Offered each semester."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"ALS-L",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Gary C. Gisselman"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 356A"
-	],
 	"max": 18,
 	"name": "Text and Performance",
 	"number": 180,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 356A",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 356A",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 356A",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 18176,
+	"clbid": "0000018176",
 	"credits": 1.0,
-	"crsid": 1741,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 6,
+	"crsid": "0000001741",
+	"department": "FREN",
+	"enrolled": 6,
 	"instructors": [
 		"Mary Cisar"
 	],
 	"level": 200,
-	"locations": [
-		"M 30"
-	],
 	"max": 20,
 	"name": "Applied Linguistics",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

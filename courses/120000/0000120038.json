@@ -1,22 +1,25 @@
 {
-	"clbid": 120038,
+	"clbid": "0000120038",
 	"credits": 0.0,
-	"crsid": 26715,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 26714,
+	"crsid": "0000026715",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000026714",
 	"instructors": [
 		"James Demas"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 20,
 	"name": "Cell Biology Lab",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 394",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:48.667314+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.314567+00:00",
+			"clbid": 120038,
+			"crsid": 26715,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 26714,
+			"locations": [
+				"RNS 394"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0800-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

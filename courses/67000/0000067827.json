@@ -1,25 +1,33 @@
 {
-	"clbid": 67827,
+	"clbid": "0000067827",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000801",
+	"department": "MUSIC",
 	"description": [
 		"First-semester music majors explore the fundamentals of music: pitch, rhythm, notation, intervals, triads and inversions, seventh chords, scales, harmonic progression, and basic voice leading principles. Co-requisites: Music 111, 161 (or completion of Piano Proficiency Level 1). Offered annually in the Fall Semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Margaret A. Rowland"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 19,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CHM 224",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2009
 }

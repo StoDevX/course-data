@@ -1,22 +1,30 @@
 {
-	"clbid": 4723,
+	"clbid": "0000004723",
 	"credits": 0.5,
-	"crsid": 26,
-	"departments": [
-		"ART"
-	],
-	"enroll": 17,
+	"crsid": "0000000026",
+	"department": "ART",
+	"enrolled": 17,
 	"instructors": [
 		"Monica Rudquist"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 115E",
-		"CAD 115E"
-	],
 	"max": 20,
 	"name": "Found Ceramics: Wheel",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:30",
+			"location": "CAD 115E",
+			"start": "15:00"
+		},
+		{
+			"day": "Th",
+			"end": "17:30",
+			"location": "CAD 115E",
+			"start": "16:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0300-0430PM",
-		"Th 0400-0530PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

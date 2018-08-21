@@ -1,21 +1,30 @@
 {
-	"clbid": 20263,
+	"clbid": "0000020263",
 	"credits": 1.0,
-	"crsid": 372,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 2,
+	"crsid": "0000000372",
+	"department": "DNCTH",
+	"enrolled": 2,
 	"instructors": [
 		"Susan Bauer"
 	],
 	"level": 200,
-	"locations": [
-		"SPT RHT"
-	],
 	"max": 18,
 	"name": "Articulate Body",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SPT RHT",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SPT RHT",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

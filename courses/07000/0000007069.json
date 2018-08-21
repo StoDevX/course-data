@@ -1,22 +1,30 @@
 {
-	"clbid": 7069,
+	"clbid": "0000007069",
 	"credits": 1.0,
-	"crsid": 720,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 10,
+	"crsid": "0000000720",
+	"department": "LATIN",
+	"enrolled": 10,
 	"instructors": [
 		"Jon Bruss"
 	],
 	"level": 300,
-	"locations": [
-		"OM 004",
-		"OM 004"
-	],
 	"max": 15,
 	"name": "Roman Historians",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 004",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 004",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

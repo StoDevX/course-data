@@ -1,22 +1,42 @@
 {
-	"clbid": 9278,
+	"clbid": "0000009278",
 	"credits": 1.0,
-	"crsid": 239,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 6,
+	"crsid": "0000000239",
+	"department": "CHIN",
+	"enrolled": 6,
 	"instructors": [
 		"Richard Bodman"
 	],
 	"level": 100,
-	"locations": [
-		"OM 001",
-		"OM 001"
-	],
 	"max": 15,
 	"name": "Beginning Chinese II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 001",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM",
-		"T 0800-0925"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,42 @@
 {
-	"clbid": 828,
+	"clbid": "0000000828",
 	"credits": 1.0,
-	"crsid": 388,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 25,
+	"crsid": "0000000388",
+	"department": "ENGL",
+	"enrolled": 25,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 25,
 	"name": "Southern Women Writrs",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "L 515",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "L 515",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "L 515",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "L 515",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +54,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20002,
-	"times": [
-		"M-Th 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

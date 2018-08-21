@@ -1,22 +1,30 @@
 {
-	"clbid": 7909,
+	"clbid": "0000007909",
 	"credits": 1.0,
-	"crsid": 458,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 21,
+	"crsid": "0000000458",
+	"department": "ENVST",
+	"enrolled": 21,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129",
-		"SC 129"
-	],
 	"max": 26,
 	"name": "Env Political Theory",
 	"number": 225,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 129",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "SC 129",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

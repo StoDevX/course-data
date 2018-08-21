@@ -1,22 +1,30 @@
 {
-	"clbid": 6990,
+	"clbid": "0000006990",
 	"credits": 1.0,
-	"crsid": 538,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 16,
+	"crsid": "0000000538",
+	"department": "GCON",
+	"enrolled": 16,
 	"instructors": [
 		"Rick A. Fairbanks"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204",
-		"CD 204"
-	],
 	"max": 15,
 	"name": "Ethical ISSues/Gr Con",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 204",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CD 204",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 75509,
+	"clbid": "0000075509",
 	"credits": 0.0,
-	"crsid": 22826,
-	"departments": [
-		"NEURO"
-	],
-	"enroll": 16,
-	"groupid": 22782,
+	"crsid": "0000022826",
+	"department": "NEURO",
+	"enrolled": 16,
+	"groupid": "0000022782",
 	"instructors": [
 		"Kevin M. Crisp"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Cell/Molec Neuro Lab",
 	"number": 239,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 254",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

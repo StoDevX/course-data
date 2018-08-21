@@ -1,26 +1,34 @@
 {
-	"clbid": 58323,
+	"clbid": "0000058323",
 	"credits": 1.0,
-	"crsid": 1051,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001051",
+	"department": "ESTH",
 	"description": [
 		"Students study principles pertinent to prevention of injuries in sports and physical education; treatment and care of minor injuries. The course utilizes both lecture and laboratory."
 	],
-	"enroll": 31,
-	"groupid": 1051,
+	"enrolled": 31,
+	"groupid": "0000001051",
 	"instructors": [
 		"Daniel Hagen"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 112",
-		"SAC 112"
-	],
 	"max": 24,
 	"name": "Prev/Care Sport Injur",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SAC 112",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Prevention and Care of Athletic Injuries",
 	"type": "Research",
 	"year": 2007

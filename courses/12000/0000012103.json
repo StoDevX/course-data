@@ -1,25 +1,33 @@
 {
-	"clbid": 12103,
+	"clbid": "0000012103",
 	"credits": 1.0,
-	"crsid": 783,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000783",
+	"department": "MGMT",
 	"description": [
 		"This course is an introduction to financial decision-making in a business environment. Topics include asset acquisition, issuance of stock vs. debt, dividend policy, planning and analysis and working capital policy. Case discussions, combined with lectures and readings, enable students to apply finance principles in actual business situations. Computer spreadsheets are used. Prerequisite: Management Studies 225. Offered Spring Semester."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"instructors": [
 		"Siriwan Chutikamoltham"
 	],
 	"level": 200,
-	"locations": [
-		"SC 170",
-		"SC 170"
-	],
 	"max": 25,
 	"name": "Corporate Finance",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 170",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 170",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Management Studies 225. Offered Spring Semester.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,15 +1,13 @@
 {
-	"clbid": 67149,
+	"clbid": "0000067149",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
+	"crsid": "0000000498",
+	"department": "GE",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html for section descriptions.",
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections which explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"FYW"
 	],
@@ -17,13 +15,23 @@
 		"Susan Bauer"
 	],
 	"level": 100,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 19,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 011",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 011",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 6996,
+	"clbid": "0000006996",
 	"credits": 1.0,
-	"crsid": 556,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000000556",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 19,
 	"name": "Fall Russian Monarchy",
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 515",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

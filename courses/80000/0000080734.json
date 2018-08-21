@@ -1,14 +1,12 @@
 {
-	"clbid": 80734,
+	"clbid": "0000080734",
 	"credits": 1.0,
-	"crsid": 305,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000305",
+	"department": "CSCI",
 	"description": [
 		"Class members participate in undergraduate research, including readings from the research literature, team development of project software, ethical analysis of their project applying Computer Science 263 principles, and writing a research paper for public presentation. Projects are frequently interdisciplinary in nature, and build on prior undergraduate research experiences among class members. Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including Computer Science 263, or permission of instructor. Offered annually."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Olaf A. Hall-Holt"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 19,
 	"name": "Sem: Senior Capstone",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 202",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: major in computer science with senior standing, and completion of or concurrent enrollment in computer science core courses, ordinarily including Computer Science 263, or permission of instructor. Offered annually.",
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Senior Capstone Seminar",
 	"type": "Seminar",
 	"year": 2011

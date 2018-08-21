@@ -1,22 +1,30 @@
 {
-	"clbid": 8427,
+	"clbid": "0000008427",
 	"credits": 1.0,
-	"crsid": 1240,
-	"departments": [
-		"REL"
-	],
-	"enroll": 20,
+	"crsid": "0000001240",
+	"department": "REL",
+	"enrolled": 20,
 	"instructors": [
 		"Elizabeth C. Galbraith"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 18,
 	"name": "Roman Catholic Theol",
 	"number": 301,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 102",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 102",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

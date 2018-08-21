@@ -1,22 +1,42 @@
 {
-	"clbid": 24289,
+	"clbid": "0000024289",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
+	"crsid": "0000000122",
+	"department": "BIO",
+	"enrolled": 18,
 	"instructors": [
 		"Paul Cabe"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 229"
-	],
 	"max": 24,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Th",
+			"end": "17:00",
+			"location": "SC 229",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1140",
-		"Th 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

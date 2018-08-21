@@ -1,25 +1,33 @@
 {
-	"clbid": 10633,
+	"clbid": "0000010633",
 	"credits": 1.0,
-	"crsid": 651,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000651",
+	"department": "FAMST",
 	"description": [
 		"This course explores the varied dimensions of human sexuality as they relate to, affect and are affected by past and present human relationships. Sexual problems and issues are re-examined for the development of personal value framework and for the enrichment of family life."
 	],
-	"enroll": 39,
+	"enrolled": 39,
 	"instructors": [
 		"Sharon Powell"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501",
-		"HH 501"
-	],
 	"max": 38,
 	"name": "Human Sexuality",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 501",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 501",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

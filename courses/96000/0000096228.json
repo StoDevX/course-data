@@ -1,23 +1,26 @@
 {
-	"clbid": 96228,
+	"clbid": "0000096228",
 	"credits": 0.0,
-	"crsid": 27684,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 9,
-	"groupid": 743,
+	"crsid": "0000027684",
+	"department": "MATH",
+	"enrolled": 9,
+	"groupid": "0000000743",
 	"instructors": [
 		"Rebecca M. Vandiver",
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 393"
-	],
 	"max": 20,
 	"name": "Math of Biology Lab",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 393",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +44,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"M 1255-0300PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

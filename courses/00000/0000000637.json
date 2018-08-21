@@ -1,21 +1,36 @@
 {
-	"clbid": 637,
+	"clbid": "0000000637",
 	"credits": 1.0,
-	"crsid": 1274,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 9,
+	"crsid": "0000001274",
+	"department": "RUSSN",
+	"enrolled": 9,
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Intro Russian Film-Tr",
 	"number": 265,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

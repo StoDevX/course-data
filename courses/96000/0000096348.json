@@ -1,26 +1,20 @@
 {
-	"clbid": 96348,
+	"clbid": "0000096348",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001402",
+	"department": "STAT",
 	"description": [
 		"This is an introductory course for the liberal arts. Students learn study design principles and develop statistical literacy and reasoning. They learn to describe distributions, assess if known distributions fit their data, estimate population values with confidence intervals, and assess statistical significance with hypothesis tests (e.g., chi-square, z-, and t-tests, ANOVA, correlation, and regression). In addition to lectures, there is a weekly computer lab. Not recommended for students who have completed a term of calculus. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics, and students should not take more than one; they all can serve as a prerequisite for further courses. Offered each semester."
 	],
-	"enroll": 77,
+	"enrolled": 77,
 	"gereqs": [
 		"AQR"
 	],
-	"groupid": 1402,
+	"groupid": "0000001402",
 	"instructors": [
 		"Laura F. Boehm"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 150",
-		"RNS 150"
-	],
 	"max": 81,
 	"name": "Prin of Statistics",
 	"notes": [
@@ -28,6 +22,20 @@
 		"Students in Stat 110 must also register for one lab 110 AL, BL, or CL."
 	],
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 150",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 150",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Principles of Statistics",
 	"type": "Research",
 	"year": 2014

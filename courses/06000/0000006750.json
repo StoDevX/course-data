@@ -1,23 +1,36 @@
 {
-	"clbid": 6750,
+	"clbid": "0000006750",
 	"credits": 1.0,
-	"crsid": 159,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 5,
+	"crsid": "0000000159",
+	"department": "BIO",
+	"enrolled": 5,
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 274",
-		"SC 211"
-	],
 	"max": 12,
 	"name": "Molecular Biology",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 274",
+			"start": "09:30"
+		},
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 211",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,11 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050",
-		"T 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

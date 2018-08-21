@@ -1,24 +1,39 @@
 {
-	"clbid": 12582,
+	"clbid": "0000012582",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
+	"crsid": "0000001476",
+	"department": "WMNST",
 	"description": [
 		"Required for the women's studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Diane C. LeBlanc"
 	],
 	"level": 100,
-	"locations": [
-		"RML 420"
-	],
 	"max": 21,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RML 420",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RML 420",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RML 420",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Introduction to Women's Studies",
 	"type": "Research",
 	"year": 2005

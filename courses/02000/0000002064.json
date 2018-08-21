@@ -1,21 +1,30 @@
 {
-	"clbid": 2064,
+	"clbid": "0000002064",
 	"credits": 1.0,
-	"crsid": 369,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 15,
+	"crsid": "0000000369",
+	"department": "DNCTH",
+	"enrolled": 15,
 	"instructors": [
 		"Barbara Thatcher"
 	],
 	"level": 200,
-	"locations": [
-		"DANCE ST 3"
-	],
 	"max": 15,
 	"name": "Choreog & Improvisat",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "DANCE ST 3",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "DANCE ST 3",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

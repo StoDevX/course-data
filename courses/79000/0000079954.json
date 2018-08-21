@@ -1,14 +1,12 @@
 {
-	"clbid": 79954,
+	"clbid": "0000079954",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: mathematics placement recommendation. Offered each semester."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Rose Gundacker"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

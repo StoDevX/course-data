@@ -1,22 +1,42 @@
 {
-	"clbid": 9194,
+	"clbid": "0000009194",
 	"credits": 1.0,
-	"crsid": 119,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 19,
+	"crsid": "0000000119",
+	"department": "BIO",
+	"enrolled": 19,
 	"instructors": [
 		"Theodore Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 263"
-	],
 	"max": 20,
 	"name": "Microbiology",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "SC 263",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

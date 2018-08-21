@@ -1,21 +1,30 @@
 {
-	"clbid": 1192,
+	"clbid": "0000001192",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 21,
+	"crsid": "0000000353",
+	"department": "DNCTE",
+	"enrolled": 21,
 	"instructors": [
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CT RHT"
-	],
 	"max": 16,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CT RHT",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CT RHT",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

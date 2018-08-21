@@ -1,21 +1,30 @@
 {
-	"clbid": 24926,
+	"clbid": "0000024926",
 	"credits": 1.0,
-	"crsid": 1258,
-	"departments": [
-		"REL"
-	],
-	"enroll": 12,
+	"crsid": "0000001258",
+	"department": "REL",
+	"enrolled": 12,
 	"instructors": [
 		"Eric Lund"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Senior Sem: Mysticism",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

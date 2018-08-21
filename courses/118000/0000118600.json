@@ -1,22 +1,25 @@
 {
-	"clbid": 118600,
+	"clbid": "0000118600",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 9,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 9,
+	"groupid": "0000000187",
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 22,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 350",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,15 +42,31 @@
 		{
 			"_updated": "2018-08-15T03:34:59.994469+00:00",
 			"enroll": 8
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.105236+00:00",
+			"clbid": 118600,
+			"crsid": 188,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"groupid": 187,
+			"locations": [
+				"RNS 350"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0245PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

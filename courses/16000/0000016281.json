@@ -1,21 +1,30 @@
 {
-	"clbid": 16281,
+	"clbid": "0000016281",
 	"credits": 0.25,
-	"crsid": 1023,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 15,
+	"crsid": "0000001023",
+	"department": "PEAC",
+	"enrolled": 15,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FLD HOUSE"
-	],
 	"max": 20,
 	"name": "Intermediate Tennis",
 	"number": 158,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FLD HOUSE",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FLD HOUSE",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

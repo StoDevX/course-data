@@ -1,21 +1,36 @@
 {
-	"clbid": 6847,
+	"clbid": "0000006847",
 	"credits": 1.0,
-	"crsid": 321,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 21,
+	"crsid": "0000000321",
+	"department": "EDUC",
+	"enrolled": 21,
 	"instructors": [
 		"Maria L. Kelly"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 20,
 	"name": "Prin Secondary Educ",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FH 10L",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 20359,
+	"clbid": "0000020359",
 	"credits": 1.0,
-	"crsid": 524,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 18,
+	"crsid": "0000000524",
+	"department": "GERM",
+	"enrolled": 18,
 	"instructors": [
 		"Karl Fink"
 	],
 	"level": 300,
-	"locations": [
-		"M 1"
-	],
 	"max": 999,
 	"name": "Sem: Naturwiss",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 1",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 1",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 1",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 1996
 }

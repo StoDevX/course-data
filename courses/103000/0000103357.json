@@ -1,14 +1,12 @@
 {
-	"clbid": 103357,
+	"clbid": "0000103357",
 	"credits": 1.0,
-	"crsid": 804,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000804",
+	"department": "MUSIC",
 	"description": [
 		"Primarily for non-music majors, this course presents the fundamental materials of music and exposes students to the development of styles, ideals, practices, and technologies that provide context for listening with understanding. Through a study of landmark works from the 17th to the 20th century, students develop and practice listening techniques that sharpen critical perception and open the door to a fuller enjoyment of the musical arts. The ability to read musical scores is helpful but not required. Activity fee. Generally offered annually."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,13 +14,23 @@
 		"David Carter"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "The Art of Music",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 239",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

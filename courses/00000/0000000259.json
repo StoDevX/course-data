@@ -1,21 +1,30 @@
 {
-	"clbid": 259,
+	"clbid": "0000000259",
 	"credits": 1.0,
-	"crsid": 484,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 22,
+	"crsid": "0000000484",
+	"department": "FREN",
+	"enrolled": 22,
 	"instructors": [
 		"Wendy Allen"
 	],
 	"level": 200,
-	"locations": [
-		"M 2"
-	],
 	"max": 30,
 	"name": "Top: French Civilizatn",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 2",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 2",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 2000
 }

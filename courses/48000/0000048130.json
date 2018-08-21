@@ -1,24 +1,39 @@
 {
-	"clbid": 48130,
+	"clbid": "0000048130",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000000921",
+	"department": "NORW",
 	"description": [
 		"Proficiency in a second language opens the door to another culture and another way of viewing the world. This course starts students on the road to achieving such a proficiency. Students begin learning to speak, understand, read and write Norwegian and learn about Norwegian culture through the language."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Louis E. Janus"
 	],
 	"level": 100,
-	"locations": [
-		"OM 011"
-	],
 	"max": 0,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

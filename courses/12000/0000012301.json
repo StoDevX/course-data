@@ -1,24 +1,39 @@
 {
-	"clbid": 12301,
+	"clbid": "0000012301",
 	"credits": 1.0,
-	"crsid": 1153,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001153",
+	"department": "PSCI",
 	"description": [
 		"Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"D Christopher Brooks"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514"
-	],
 	"max": 15,
 	"name": "Sem: Social Movements",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Seminar",
 	"type": "Seminar",
 	"year": 2005

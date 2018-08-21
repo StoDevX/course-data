@@ -1,21 +1,36 @@
 {
-	"clbid": 14866,
+	"clbid": "0000014866",
 	"credits": 1.0,
-	"crsid": 1660,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 17,
+	"crsid": "0000001660",
+	"department": "ENGL",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"L 525"
-	],
 	"max": 18,
 	"name": "College English",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

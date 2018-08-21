@@ -1,21 +1,30 @@
 {
-	"clbid": 16250,
+	"clbid": "0000016250",
 	"credits": 0.25,
-	"crsid": 1006,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001006",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"POOL"
-	],
 	"max": 20,
 	"name": "Water Safety Instruct",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "POOL",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "POOL",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

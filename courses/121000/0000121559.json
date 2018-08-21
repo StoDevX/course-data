@@ -1,15 +1,12 @@
 {
-	"clbid": 121559,
+	"clbid": "0000121559",
 	"credits": 1.0,
-	"crsid": 1220,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001220",
+	"department": "AS/RE",
 	"description": [
 		"This course, surveying the general nature and assumptions of Hindu thought, focuses on the diversity of doctrines and practices within some of its major traditions. Students analyze selections from authoritative Sanskrit texts like the Upanishads and Bhagavad-gita, directing special attention to the central issues and developments in Hindu-Christian dialogue."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,13 +14,23 @@
 		"PJ Johnston"
 	],
 	"level": 200,
-	"locations": [
-		"OM 305",
-		"OM 305"
-	],
 	"max": 24,
 	"name": "Hinduism",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 305",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 305",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,15 +63,32 @@
 			"_updated": "2018-08-07T14:48:45.438431+00:00",
 			"enroll": "6",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.388770+00:00",
+			"clbid": 121559,
+			"crsid": 1220,
+			"department": null,
+			"departments": [
+				"ASIAN",
+				"REL"
+			],
+			"enroll": 6,
+			"enrolled": null,
+			"locations": [
+				"OM 305",
+				"OM 305"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 121324,
+	"clbid": "0000121324",
 	"credits": 1.0,
-	"crsid": 30509,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 0,
+	"crsid": "0000030509",
+	"department": "MUSIC",
+	"enrolled": 0,
 	"instructors": [
 		"Rehanna L. Kheshgi"
 	],
 	"level": 0,
-	"locations": [
-		"TBA"
-	],
 	"max": 29,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -28,15 +43,30 @@
 			"_updated": "2018-08-07T14:48:49.587714+00:00",
 			"enroll": "0",
 			"max": "29"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.634659+00:00",
+			"clbid": 121324,
+			"crsid": 30509,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

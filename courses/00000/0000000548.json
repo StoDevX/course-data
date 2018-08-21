@@ -1,22 +1,36 @@
 {
-	"clbid": 548,
+	"clbid": "0000000548",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 67,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 67,
 	"instructors": [
 		"Bruce B. Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"H 307",
-		"SC 280"
-	],
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 307",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 307",
+			"start": "09:35"
+		},
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "SC 280",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0935-1100",
-		"M 0700-0800PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

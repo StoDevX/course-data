@@ -1,14 +1,12 @@
 {
-	"clbid": 96199,
+	"clbid": "0000096199",
 	"credits": 0.25,
-	"crsid": 1014,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001014",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in running and jogging to enhance personal fitness and training knowledge."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Vincent Varpness"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Jogging/Running",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2014
 }

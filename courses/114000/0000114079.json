@@ -1,22 +1,25 @@
 {
-	"clbid": 114079,
+	"clbid": "0000114079",
 	"credits": 0.0,
-	"crsid": 29283,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 7,
-	"groupid": 29265,
+	"crsid": "0000029283",
+	"department": "NURS",
+	"enrolled": 7,
+	"groupid": "0000029265",
 	"instructors": [
 		"Susie Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"YTT 050B"
-	],
 	"max": 10,
 	"name": "Holistic Health Lab",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "YTT 050B",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"Th 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 3707,
+	"clbid": "0000003707",
 	"credits": 1.0,
-	"crsid": 46,
-	"departments": [
-		"ART"
-	],
-	"enroll": 2,
+	"crsid": "0000000046",
+	"department": "ART",
+	"enrolled": 2,
 	"instructors": [
 		"Linda Gammell"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 102",
-		"CAD 102"
-	],
 	"max": 15,
 	"name": "Photography",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 102",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 102",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

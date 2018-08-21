@@ -1,21 +1,30 @@
 {
-	"clbid": 1448,
+	"clbid": "0000001448",
 	"credits": 1.0,
-	"crsid": 851,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 11,
+	"crsid": "0000000851",
+	"department": "MUSIC",
+	"enrolled": 11,
 	"instructors": [
 		"Peter S. Hamlin"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 12,
 	"name": "Composition II",
 	"number": 324,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 224",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CHM 224",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 25192,
+	"clbid": "0000025192",
 	"credits": 0.5,
-	"crsid": 24,
-	"departments": [
-		"ART"
-	],
-	"enroll": 16,
+	"crsid": "0000000024",
+	"department": "ART",
+	"enrolled": 16,
 	"instructors": [
 		"Ron Gallas"
 	],
 	"level": 100,
-	"locations": [
-		"FH 19"
-	],
 	"max": 16,
 	"name": "Found Ceramics: Hand",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "FH 19",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "FH 19",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19991,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

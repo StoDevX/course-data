@@ -1,14 +1,12 @@
 {
-	"clbid": 121610,
+	"clbid": "0000121610",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001191",
+	"department": "REL",
 	"description": [
 		"This course introduces first-year students to the dialogue between Biblical traditions and the cultures and communities related to them. Students study major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"BTS-B"
 	],
@@ -16,9 +14,6 @@
 		"Margaret Odell"
 	],
 	"level": 100,
-	"locations": [
-		"OM 305"
-	],
 	"max": 19,
 	"name": "Bible/Culture/Commun",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 305",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 305",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 305",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -65,8 +80,26 @@
 			"max": 18
 		},
 		{
-			"_updated": "2018-08-21T03:40:20.493294+00:00",
+			"_updated": "2018-08-21T03:27:38.520640+00:00",
+			"clbid": 121610,
+			"crsid": 1191,
+			"department": null,
+			"departments": [
+				"REL"
+			],
 			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"OM 305"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
+		},
+		{
+			"_updated": "2018-08-21T04:00:51.314281+00:00",
+			"enrolled": 8,
 			"status": "O"
 		}
 	],
@@ -74,9 +107,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Bible in Culture and Community",
 	"type": "Research",
 	"year": 2018

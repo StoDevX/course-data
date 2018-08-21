@@ -1,21 +1,36 @@
 {
-	"clbid": 3196,
+	"clbid": "0000003196",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000733",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Doreen Hamilton"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

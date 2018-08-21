@@ -1,21 +1,36 @@
 {
-	"clbid": 5004,
+	"clbid": "0000005004",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 17,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 17,
 	"instructors": [
 		"Colin Wells"
 	],
 	"level": 100,
-	"locations": [
-		"RML 421"
-	],
 	"max": 18,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

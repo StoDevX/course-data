@@ -1,21 +1,30 @@
 {
-	"clbid": 4793,
+	"clbid": "0000004793",
 	"credits": 1.0,
-	"crsid": 170,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 10,
+	"crsid": "0000000170",
+	"department": "BIO",
+	"enrolled": 10,
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 18,
 	"name": "Neuroscience Seminar",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MW 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

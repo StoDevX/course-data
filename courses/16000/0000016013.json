@@ -1,21 +1,30 @@
 {
-	"clbid": 16013,
+	"clbid": "0000016013",
 	"credits": 1.0,
-	"crsid": 485,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 9,
+	"crsid": "0000000485",
+	"department": "FREN",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 26"
-	],
 	"max": 20,
 	"name": "Comp Intro/Lit Analy",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 26",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 26",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

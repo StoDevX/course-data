@@ -1,21 +1,24 @@
 {
-	"clbid": 20612,
+	"clbid": "0000020612",
 	"credits": 0.0,
-	"crsid": 1054,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 0,
+	"crsid": "0000001054",
+	"department": "PETH",
+	"enrolled": 0,
 	"instructors": [
 		"Cynthia Book"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 142"
-	],
 	"max": 13,
 	"name": "Biomechanics/Lab",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC 142",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"Th 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

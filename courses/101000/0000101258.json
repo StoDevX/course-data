@@ -1,25 +1,33 @@
 {
-	"clbid": 101258,
+	"clbid": "0000101258",
 	"credits": 0.5,
-	"crsid": 22778,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000022778",
+	"department": "DANCE",
 	"description": [
 		"This movement intensive class is a blend of the art and the science of the body in dancing. It integrates an artistic approach to moving with a physical experience that deepens awareness of the body in motion and enhances understanding of body structure and function.This class also links to the content and focus in DANCE 201 and DANCE 301. Offered each semester. Counts toward neuroscience concentration. Prerequisite: DANCE 111 or DANCE 121 or DANCE 210/DANCE 211 or DANCE 220/DANCE 221, or permission of instructor."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 3",
-		"CAD Studio 3"
-	],
 	"max": 6,
 	"name": "Articulate Body",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD Studio 3",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD Studio 3",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 111 or DANCE 121 or DANCE 210/DANCE 211 or DANCE 220/DANCE 221, or permission of instructor.",
 	"revisions": [
@@ -57,10 +65,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

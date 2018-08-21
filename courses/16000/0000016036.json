@@ -1,21 +1,36 @@
 {
-	"clbid": 16036,
+	"clbid": "0000016036",
 	"credits": 1.0,
-	"crsid": 509,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 6,
+	"crsid": "0000000509",
+	"department": "GERM",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 15,
 	"name": "Intermed German II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 31",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 31",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 31",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

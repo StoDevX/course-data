@@ -1,14 +1,12 @@
 {
-	"clbid": 63336,
+	"clbid": "0000063336",
 	"credits": 1.0,
-	"crsid": 638,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000638",
+	"department": "HIST",
 	"description": [
 		"This seminar covers varying topics in American history, depending upon the instructor. Recent topics have included \"Women and Slavery,\" \"The American Revolution,\" and \"American Consumer Culture.\" Offered most years. May be repeated if topics are different."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Steven C. Hahn"
 	],
 	"level": 300,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 15,
 	"name": "Sem: American Rev",
 	"number": 370,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 317",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 317",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "American Seminar",
 	"type": "Seminar",
 	"year": 2008

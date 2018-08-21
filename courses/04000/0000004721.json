@@ -1,21 +1,36 @@
 {
-	"clbid": 4721,
+	"clbid": "0000004721",
 	"credits": 0.5,
-	"crsid": 23,
-	"departments": [
-		"ART"
-	],
-	"enroll": 16,
+	"crsid": "0000000023",
+	"department": "ART",
+	"enrolled": 16,
 	"instructors": [
 		"Justin Newhall"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 102"
-	],
 	"max": 20,
 	"name": "Found Photography",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 102",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 102",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 102",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

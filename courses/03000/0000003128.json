@@ -1,21 +1,36 @@
 {
-	"clbid": 3128,
+	"clbid": "0000003128",
 	"credits": 1.0,
-	"crsid": 533,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 24,
+	"crsid": "0000000533",
+	"department": "GCON",
+	"enrolled": 24,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "Medieval Synthesis",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

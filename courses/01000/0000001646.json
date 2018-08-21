@@ -1,21 +1,36 @@
 {
-	"clbid": 1646,
+	"clbid": "0000001646",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 12,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 12,
 	"instructors": [
 		"Gary Stansell"
 	],
 	"level": 300,
-	"locations": [
-		"CH 111"
-	],
 	"max": 15,
 	"name": "Bib Sem: Biblical Theo",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

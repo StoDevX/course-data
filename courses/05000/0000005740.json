@@ -1,21 +1,24 @@
 {
-	"clbid": 5740,
+	"clbid": "0000005740",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/363"
-	],
 	"max": 24,
 	"name": "Struct Chem/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 374/363",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2003
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 16846,
+	"clbid": "0000016846",
 	"credits": 1.0,
-	"crsid": 187,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 33,
+	"crsid": "0000000187",
+	"department": "CHEM",
+	"enrolled": 33,
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 282"
-	],
 	"max": 45,
 	"name": "General Chemistry",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 282",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 282",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 282",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

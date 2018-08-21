@@ -1,21 +1,30 @@
 {
-	"clbid": 22795,
+	"clbid": "0000022795",
 	"credits": 1.0,
-	"crsid": 1158,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 16,
+	"crsid": "0000001158",
+	"department": "PSYCH",
+	"enrolled": 16,
 	"instructors": [
 		"Dana Gross"
 	],
 	"level": 200,
-	"locations": [
-		"H 322"
-	],
 	"max": 15,
 	"name": "Research Methods",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 322",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 322",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 120525,
+	"clbid": "0000120525",
 	"credits": 0.0,
-	"crsid": 27684,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 0,
-	"groupid": 743,
+	"crsid": "0000027684",
+	"department": "MATH",
+	"enrolled": 0,
+	"groupid": "0000000743",
 	"instructors": [
 		"Bruce E. Pell"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 20,
 	"name": "Math of Biology Lab",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 398",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,14 +45,30 @@
 			"_updated": "2018-08-07T14:48:48.955850+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.083051+00:00",
+			"clbid": 120525,
+			"crsid": 27684,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 743,
+			"locations": [
+				"RNS 398"
+			],
+			"offerings": null,
+			"times": [
+				"M 0100-0300PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

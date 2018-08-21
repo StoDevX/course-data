@@ -1,21 +1,36 @@
 {
-	"clbid": 8417,
+	"clbid": "0000008417",
 	"credits": 1.0,
-	"crsid": 1234,
-	"departments": [
-		"REL"
-	],
-	"enroll": 20,
+	"crsid": "0000001234",
+	"department": "REL",
+	"enrolled": 20,
 	"instructors": [
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 20,
 	"name": "Buddhism,Peace,Justic",
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

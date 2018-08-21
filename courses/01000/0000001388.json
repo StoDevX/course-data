@@ -1,21 +1,36 @@
 {
-	"clbid": 1388,
+	"clbid": "0000001388",
 	"credits": 1.0,
-	"crsid": 741,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 32,
+	"crsid": "0000000741",
+	"department": "MATH",
+	"enrolled": 32,
 	"instructors": [
 		"David Molnar"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Discrete Mathematics",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

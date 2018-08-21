@@ -1,21 +1,30 @@
 {
-	"clbid": 3425,
+	"clbid": "0000003425",
 	"credits": 1.0,
-	"crsid": 1176,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 42,
+	"crsid": "0000001176",
+	"department": "PSYCH",
+	"enrolled": 42,
 	"instructors": [
 		"Deborah Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 35,
 	"name": "Abnormal Psych",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 317",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 317",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

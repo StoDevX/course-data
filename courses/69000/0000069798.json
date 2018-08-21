@@ -1,24 +1,39 @@
 {
-	"clbid": 69798,
+	"clbid": "0000069798",
 	"credits": 1.0,
-	"crsid": 297,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000297",
+	"department": "CSCI",
 	"description": [
 		"In this implementation-oriented examination of features commonly found in computer programming languages, students construct their own interpreters for an example programming language incorporating the various language features they study throughout the course. Topics include programming language semantics, programming language translation, implementation of control structures and memory structures, abstraction mechanisms, and language translation systems and types. Prerequisites: Computer Science 241 and either Computer Science 225 or 251, or permission of instructor. Next offered in Spring 2010 and Fall 2011."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 25,
 	"name": "Programming Languages",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 202",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 202",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 202",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 241 and either Computer Science 225 or 251, or permission of instructor. Next offered in Spring 2010 and Fall 2011.",
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

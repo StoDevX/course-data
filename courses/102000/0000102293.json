@@ -1,14 +1,12 @@
 {
-	"clbid": 102293,
+	"clbid": "0000102293",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001017",
+	"department": "ESAC",
 	"description": [
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 31,
+	"enrolled": 31,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,17 @@
 		"Shahram Ahrar"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Wt Training-Men",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "Tostrud Ctr",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"title": "Weight Training Men",
 	"type": "Research",
 	"year": 2015

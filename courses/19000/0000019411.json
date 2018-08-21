@@ -1,22 +1,31 @@
 {
-	"clbid": 19411,
+	"clbid": "0000019411",
 	"credits": 1.0,
-	"crsid": 2086,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 7,
+	"crsid": "0000002086",
+	"department": "PARA",
+	"enrolled": 7,
 	"instructors": [
 		"Bruce Dalgaard",
 		"David Schodt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 10,
 	"name": "States and Markets",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

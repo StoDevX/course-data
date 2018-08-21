@@ -1,14 +1,12 @@
 {
-	"clbid": 67846,
+	"clbid": "0000067846",
 	"credits": 1.0,
-	"crsid": 673,
-	"departments": [
-		"IS"
-	],
+	"crsid": "0000000673",
+	"department": "IS",
 	"description": [
 		"Faculty offer integrative seminars in the Center for Integrative Studies (CIS) on selected topics, open to students of at least sophomore standing, that model the integration of tools and resources from various disciplines in new approaches to interesting subjects. Each seminar is normally offered twice, in successive academic years, then is either retired or adopted into another department or interdisciplinary program's offerings."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"HBS",
 		"WRI"
@@ -18,16 +16,26 @@
 		"John Welckle"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 18,
 	"name": "Top: Humans & Environment",
 	"notes": [
 		"Not open to first-year students."
 	],
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 390",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 390",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics with HBS",
 	"type": "Topic",
 	"year": 2009

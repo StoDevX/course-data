@@ -1,14 +1,12 @@
 {
-	"clbid": 118486,
+	"clbid": "0000118486",
 	"credits": 1.0,
-	"crsid": 30308,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000030308",
+	"department": "DANCE",
 	"description": [
 		"Students study musculoskeletal anatomy (structure) and kinesiology (science of human motion) from the perspective of dance training and performance. Students learn anatomical terminology, identify select bones (major features, articulations) and muscles (locations, actions), and analyze their influence during coordinated movement patterns. Students learn joint structure and mechanics, alignment and imbalances, movement behavior, conditioning needs, and injury prevention. Students learn to notice, measure, experience, sense, and reflect upon the impact of anatomical characteristics and anomalies. Offered annually in the fall semester. Prerequisite: students taking this course should have previous experience in a movement intensive practice similar to dance, athletics, or exercise science."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Anthony Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 16,
 	"name": "Dance Anatomy and Kinesiology",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CAD Studio 1",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CAD Studio 1",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CAD Studio 1",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "students taking this course should have previous experience in a movement intensive practice similar to dance, athletics, or exercise science.",
 	"revisions": [
@@ -59,14 +74,29 @@
 			"_updated": "2018-08-07T14:48:44.739032+00:00",
 			"enroll": "9",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.949248+00:00",
+			"clbid": 118486,
+			"crsid": 30308,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 1"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

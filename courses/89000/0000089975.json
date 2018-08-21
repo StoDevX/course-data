@@ -1,14 +1,12 @@
 {
-	"clbid": 89975,
+	"clbid": "0000089975",
 	"credits": 0.25,
-	"crsid": 355,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000355",
+	"department": "DANCE",
 	"description": [
 		"This course provides instruction in basic steps, rhythms and styling for tango, rumba, west coast swing, and quickstep. Students learn advanced patterns in slow waltz. Emphasis is on styling and quality of movement. Prerequisite: Dance 106 or permission of instructor. Ticket/transportation fee required. Offered annually, usually in the spring semester."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Anne von Bibra"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 12,
 	"name": "Ballroom II",
 	"number": 206,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Dance 106 or permission of instructor. Ticket/transportation fee required. Offered annually, usually in the spring semester.",
 	"revisions": [
@@ -51,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2013
 }

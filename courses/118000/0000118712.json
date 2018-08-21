@@ -1,24 +1,39 @@
 {
-	"clbid": 118712,
+	"clbid": "0000118712",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000479",
+	"department": "FREN",
 	"description": [
 		"Through study, discussion and analysis of a wide variety of texts, students explore specific social and cultural topics relevant to French culture yesterday and today (e.g., stereotypes, the family, education, immigration) and develop and expand their ability to listen, speak, read and write in French while also learning specific listening and reading strategies. Explicit focus on cross-cultural comparison/contrast and analysis. Offered each semester. Prerequisite: FREN 112 or placement."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"instructors": [
 		"Cedric Briand"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 110"
-	],
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 110",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FREN 112 or placement.",
 	"revisions": [
@@ -53,15 +68,30 @@
 			"_updated": "2018-08-07T14:48:45.008151+00:00",
 			"enroll": "7",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.319569+00:00",
+			"clbid": 118712,
+			"crsid": 479,
+			"department": null,
+			"departments": [
+				"FREN"
+			],
+			"enroll": 7,
+			"enrolled": null,
+			"locations": [
+				"TOH 110"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Intermediate French I",
 	"type": "Research",
 	"year": 2018

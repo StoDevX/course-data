@@ -1,14 +1,12 @@
 {
-	"clbid": 120070,
+	"clbid": "0000120070",
 	"credits": 1.0,
-	"crsid": 1195,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001195",
+	"department": "REL",
 	"description": [
 		"Examining essential Christian beliefs with special attention to their implications for the moral life, students in this course analyze the meaning and truth of Christian symbols and claims about God, Christ, creation, fall, providence, redemption, etc., and explore their bearing upon ethical perspectives and principles, moral character and community and societal institutions and practices. Readings include classical and contemporary Christian theological sources. Prerequisite: BTS-B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Douglas Schuurman"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Chr Theol/Moral Life",
 	"number": 207,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -51,16 +59,32 @@
 			"_updated": "2018-08-07T14:48:48.686642+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.365870+00:00",
+			"clbid": 120070,
+			"crsid": 1195,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Christian Theology and the Moral Life",
 	"type": "Research",
 	"year": 2018

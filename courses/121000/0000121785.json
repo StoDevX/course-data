@@ -1,14 +1,12 @@
 {
-	"clbid": 121785,
+	"clbid": "0000121785",
 	"credits": 1.0,
-	"crsid": 271,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000271",
+	"department": "ECON",
 	"description": [
 		"Many aspects of our lives and our society are influenced by the ideas (or the theories) of economists. This course explores where economic ideas have come from, how they have changed over time and the extent to which they are compelling. While the ideas of many important figures are covered, economists such as Smith, Ricardo, Marx, Marshall, and Keynes receive particular attention. Offered annually. Prerequisite: one of Economics 110-121 or permission of instructor."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,12 +14,29 @@
 		"Paul Wojick"
 	],
 	"level": 200,
-	"locations": [
-		"HH 434"
-	],
 	"max": 25,
 	"name": "History Econ Thought",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 434",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 434",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 434",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-121 or permission of instructor.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.531262+00:00",
 			"enroll": "25",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.618796+00:00",
+			"clbid": 121785,
+			"crsid": 271,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 25,
+			"enrolled": null,
+			"locations": [
+				"HH 434"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "History of Economic Thought",
 	"type": "Research",
 	"year": 2018

@@ -1,22 +1,30 @@
 {
-	"clbid": 9985,
+	"clbid": "0000009985",
 	"credits": 1.0,
-	"crsid": 1398,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 16,
+	"crsid": "0000001398",
+	"department": "THEAT",
+	"enrolled": 16,
 	"instructors": [
 		"Gwendolyn Schwinke"
 	],
 	"level": 300,
-	"locations": [
-		"FH 40",
-		"FH 40"
-	],
 	"max": 16,
 	"name": "Top: Phys Life/Stage",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH 40",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "FH 40",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Topic",
 	"year": 2004
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 3007,
+	"clbid": "0000003007",
 	"credits": 1.0,
-	"crsid": 333,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 7,
+	"crsid": "0000000333",
+	"department": "EDUC",
+	"enrolled": 7,
 	"instructors": [
 		"Char Anne Bezanson"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 999,
 	"name": "Tchg of Science",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "22:00",
+			"location": "FH 10",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"T 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

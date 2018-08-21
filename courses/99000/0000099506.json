@@ -1,14 +1,12 @@
 {
-	"clbid": 99506,
+	"clbid": "0000099506",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001011",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Justin Lerfald"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -60,9 +69,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2015
 }

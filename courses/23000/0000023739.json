@@ -1,21 +1,24 @@
 {
-	"clbid": 23739,
+	"clbid": "0000023739",
 	"credits": 0.25,
-	"crsid": 1096,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 6,
+	"crsid": "0000001096",
+	"department": "PHYS",
+	"enrolled": 6,
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 300,
-	"locations": [
-		"SC 151"
-	],
 	"max": 10,
 	"name": "Adv Physics Lab (374)",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 151",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

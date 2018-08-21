@@ -1,22 +1,25 @@
 {
-	"clbid": 115451,
+	"clbid": "0000115451",
 	"credits": 0.0,
-	"crsid": 17302,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 12,
-	"groupid": 169,
+	"crsid": "0000017302",
+	"department": "BIO",
+	"enrolled": 12,
+	"groupid": "0000000169",
 	"instructors": [
 		"Kevin B. Potts"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 393"
-	],
 	"max": 10,
 	"name": "Evolutionary Bio Lab",
 	"number": 383,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 393",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120653,
+	"clbid": "0000120653",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000259",
+	"department": "ECON",
 	"description": [
 		"This course takes an analytical approach to economic reasoning and contemporary issues. The course introduces microeconomic and macroeconomic theories with applications to relevant topics, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes, and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers. Offered each semester. Counts toward environmental studies major (social science emphasis) and management studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Mark Pernecky"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,15 +67,30 @@
 			"_updated": "2018-08-07T14:48:49.018616+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.235380+00:00",
+			"clbid": 120653,
+			"crsid": 259,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "E",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Economics",
 	"type": "Research",
 	"year": 2018

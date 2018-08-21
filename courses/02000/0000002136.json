@@ -1,21 +1,30 @@
 {
-	"clbid": 2136,
+	"clbid": "0000002136",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 19,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 19,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 100,
-	"locations": [
-		"L 421"
-	],
 	"max": 19,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 421",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 421",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

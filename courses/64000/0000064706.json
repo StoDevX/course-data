@@ -1,21 +1,24 @@
 {
-	"clbid": 64706,
+	"clbid": "0000064706",
 	"credits": 0.25,
-	"crsid": 16225,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 4,
+	"crsid": "0000016225",
+	"department": "HIST",
+	"enrolled": 4,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 200,
-	"locations": [
-		"OM 020"
-	],
 	"max": 10,
 	"name": "FLC - French",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 020",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"F 0905-1000"
-	],
 	"type": "FLAC",
 	"year": 2008
 }

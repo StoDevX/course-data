@@ -1,21 +1,30 @@
 {
-	"clbid": 22473,
+	"clbid": "0000022473",
 	"credits": 1.0,
-	"crsid": 499,
-	"departments": [
-		"GEOG"
-	],
-	"enroll": 16,
+	"crsid": "0000000499",
+	"department": "GEOG",
+	"enrolled": 16,
 	"instructors": [
 		"Richard Dunning"
 	],
 	"level": 200,
-	"locations": [
-		"M 20"
-	],
 	"max": 50,
 	"name": "Human Geography",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

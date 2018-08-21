@@ -1,22 +1,30 @@
 {
-	"clbid": 7377,
+	"clbid": "0000007377",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 9,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 9,
 	"instructors": [
 		"Margaret Odell"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 109",
-		"BMC 109"
-	],
 	"max": 15,
 	"name": "Bib Sem: Myths of Orig",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 109",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "BMC 109",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

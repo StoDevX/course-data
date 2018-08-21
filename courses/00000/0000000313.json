@@ -1,21 +1,30 @@
 {
-	"clbid": 313,
+	"clbid": "0000000313",
 	"credits": 1.0,
-	"crsid": 595,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 32,
+	"crsid": "0000000595",
+	"department": "HIST",
+	"enrolled": 32,
 	"instructors": [
 		"Bryn Geffert"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 35,
 	"name": "Imperial Russia",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 31",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 31",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

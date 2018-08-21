@@ -1,21 +1,36 @@
 {
-	"clbid": 19204,
+	"clbid": "0000019204",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 22,
+	"crsid": "0000000479",
+	"department": "FREN",
+	"enrolled": 22,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 200,
-	"locations": [
-		"M 26"
-	],
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

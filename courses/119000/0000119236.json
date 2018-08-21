@@ -1,28 +1,36 @@
 {
-	"clbid": 119236,
+	"clbid": "0000119236",
 	"credits": 0.5,
-	"crsid": 332,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000332",
+	"department": "EDUC",
 	"description": [
 		"Prospective band and orchestra teachers study the skills and knowledge necessary for successfully conducting instrumental music. The course includes teaching philosophy and strategies, repertoire and program planning, budgeting and scheduling, musical materials and scoring, recruiting and evaluation and specialized topics such as jazz ensemble and marching band. Offered annually in the fall semester. Prerequisite: EDUC 330."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"instructors": [
 		"Robert W. Ouren"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 138",
-		"CHM 138"
-	],
 	"max": 10,
 	"name": "Teaching of Instrumental Music",
 	"notes": [
 		"Open to rising Seniors and Juniors only."
 	],
 	"number": 359,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 138",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 138",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -39,15 +47,31 @@
 			"_updated": "2018-08-07T14:48:45.333037+00:00",
 			"enroll": "5",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.135319+00:00",
+			"clbid": 119236,
+			"crsid": 332,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 5,
+			"enrolled": null,
+			"locations": [
+				"CHM 138",
+				"CHM 138"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

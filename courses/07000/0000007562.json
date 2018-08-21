@@ -1,21 +1,48 @@
 {
-	"clbid": 7562,
+	"clbid": "0000007562",
 	"credits": 1.0,
-	"crsid": 406,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 15,
+	"crsid": "0000000406",
+	"department": "ENGL",
+	"enrolled": 15,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 16,
 	"name": "Children's Literature",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "C",
 	"term": 20035,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2003
 }

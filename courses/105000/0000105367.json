@@ -1,22 +1,25 @@
 {
-	"clbid": 105367,
+	"clbid": "0000105367",
 	"credits": 0.0,
-	"crsid": 26715,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
-	"groupid": 26714,
+	"crsid": "0000026715",
+	"department": "BIO",
+	"enrolled": 18,
+	"groupid": "0000026714",
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 18,
 	"name": "Cell Biology Lab",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 398",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

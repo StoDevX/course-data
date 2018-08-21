@@ -1,21 +1,48 @@
 {
-	"clbid": 7521,
+	"clbid": "0000007521",
 	"credits": 1.0,
-	"crsid": 424,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 8,
+	"crsid": "0000000424",
+	"department": "ENGL",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 999,
 	"name": "Literature & Film",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "RML 525",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20034,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2003
 }

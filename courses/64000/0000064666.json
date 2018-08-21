@@ -1,14 +1,12 @@
 {
-	"clbid": 64666,
+	"clbid": "0000064666",
 	"credits": 1.0,
-	"crsid": 1130,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001130",
+	"department": "PSCI",
 	"description": [
 		"Machiavelli founded modern political philosophy by asking \"How does the ruler acquire power?\" This course explores how modern political thinkers answered this question by changing the grounds of authority from religious and philosophical foundations to rational ones. Texts include Machiavelli's Prince and Hobbes's Leviathan, Locke's Second Treatise, Rousseau's Social Contract, Marx's Communist Manifesto, and Nietzsche's Use and Abuse of History."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,12 +14,29 @@
 		"Michael Illuzzi"
 	],
 	"level": 200,
-	"locations": [
-		"HH 515"
-	],
 	"max": 19,
 	"name": "Hist Mod Pol Thought",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 515",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 515",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 515",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "History of Modern Political Thought",
 	"type": "Research",
 	"year": 2008

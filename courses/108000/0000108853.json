@@ -1,24 +1,27 @@
 {
-	"clbid": 108853,
+	"clbid": "0000108853",
 	"credits": 0.25,
-	"crsid": 1102,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001102",
+	"department": "PHYS",
 	"description": [
 		"Seniors and faculty members study topics of current interest. Discussions are based on journal articles, other readings, library research, and presentations by faculty, participants, or visitors. P/N only. Available on request. May be repeated if topic is different. Prerequisites: PHYS 374 and PHYS 375."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 24,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "RNS 297",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: PHYS 374 and PHYS 375.",
 	"revisions": [
@@ -45,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"F 0200-0300PM"
-	],
 	"type": "Seminar",
 	"year": 2016
 }

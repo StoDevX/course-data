@@ -1,24 +1,39 @@
 {
-	"clbid": 79680,
+	"clbid": "0000079680",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000748",
+	"department": "MATH",
 	"description": [
 		"This course introduces the mathematics of randomness. Topics include probabilities on discrete and continuous sample spaces, conditional probability and Bayes' Theorem, random variables, expectation and variance, distributions (including binomial, Poisson, geometric, normal, exponential, and gamma) and the Central Limit Theorem. Students use computers to explore these topics. Prerequisite: Mathematics 126 or 128. Offered each semester."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Adam C. McDougall"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 24,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128. Offered each semester.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2011
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 2357,
+	"clbid": "0000002357",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 24,
+	"crsid": "0000001015",
+	"department": "PEAC",
+	"enrolled": 24,
 	"instructors": [
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

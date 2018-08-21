@@ -1,21 +1,36 @@
 {
-	"clbid": 21489,
+	"clbid": "0000021489",
 	"credits": 0.25,
-	"crsid": 799,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 28,
+	"crsid": "0000000799",
+	"department": "MUSIC",
+	"enrolled": 28,
 	"instructors": [
 		"David Hagedorn"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 20,
 	"name": "Ear/Keyboard I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

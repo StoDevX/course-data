@@ -1,14 +1,12 @@
 {
-	"clbid": 118377,
+	"clbid": "0000118377",
 	"credits": 1.0,
-	"crsid": 214,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000214",
+	"department": "CHEM",
 	"description": [
 		"This course presents fundamental biological processes at the molecular level and serves as a general introduction to biochemistry. Topics include the structure and function of proteins, carbohydrates, lipids and nucleic acids, enzyme catalysis and regulation, bioenergetics and an introduction to carbohydrate metabolism. Subsequent enrollment in CHEM 385 is recommended for students desiring greater breadth and depth in the subject. Offered each semester. Counts toward biology major and neuroscience and biomolecular science concentrations. Prerequisite: CHEM 248."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Gregory W. Muth"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 290"
-	],
 	"max": 32,
 	"name": "Biochemistry I",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 290",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 290",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 290",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 248.",
 	"revisions": [
@@ -50,15 +65,30 @@
 			"_updated": "2018-08-07T14:48:44.679140+00:00",
 			"enroll": "22",
 			"max": "32"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.787487+00:00",
+			"clbid": 118377,
+			"crsid": 214,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"RNS 290"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

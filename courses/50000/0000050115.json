@@ -1,29 +1,44 @@
 {
-	"clbid": 50115,
+	"clbid": "0000050115",
 	"credits": 1.0,
-	"crsid": 106,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000106",
+	"department": "BIO",
 	"description": [
 		"This foundation course explores major principles of cellular and molecular biology and is a prerequisite for all Level II biology courses. Emphases include the structural and chemical composition of cells, crucial metabolic pathways, fundamentals of cell division, basic genetics and the scientific method. Labs integrate concepts with problem-solving and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Taught annually and during Interim. GE: NST-B, NSL."
 	],
-	"enroll": 51,
-	"groupid": 106,
+	"enrolled": 51,
+	"groupid": "0000000106",
 	"grouptype": "1",
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278"
-	],
 	"max": 48,
 	"name": "Cell Bio & Genetics",
 	"notes": [
 		"Students in Bio 125A MUST also register for one lab Bio 125 AL or BL"
 	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Cellular Biology and Genetics",
 	"type": "Research",
 	"year": 2006

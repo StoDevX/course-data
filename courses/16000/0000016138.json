@@ -1,21 +1,36 @@
 {
-	"clbid": 16138,
+	"clbid": "0000016138",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 11,
+	"crsid": "0000000747",
+	"department": "MATH",
+	"enrolled": 11,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 310"
-	],
 	"max": 15,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 310",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 310",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 310",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

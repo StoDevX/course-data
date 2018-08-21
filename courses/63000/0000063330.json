@@ -1,14 +1,12 @@
 {
-	"clbid": 63330,
+	"clbid": "0000063330",
 	"credits": 0.25,
-	"crsid": 1008,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001008",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction in all skills and techniques necessary to obtain PADI Open Water certification. Lab fee includes use of equipment."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,17 @@
 		"John Campion"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 30,
 	"name": "Scuba Diving",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "21:00",
+			"location": "SAC_POOL",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"F 0600-0900PM"
-	],
 	"title": "SCUBA",
 	"type": "Research",
 	"year": 2008

@@ -1,21 +1,36 @@
 {
-	"clbid": 18065,
+	"clbid": "0000018065",
 	"credits": 1.0,
-	"crsid": 311,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 32,
+	"crsid": "0000000311",
+	"department": "EDUC",
+	"enrolled": 32,
 	"instructors": [
 		"Mark Schelske"
 	],
 	"level": 200,
-	"locations": [
-		"FH 10"
-	],
 	"max": 35,
 	"name": "Educ Psychology",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "FH 10",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "FH 10",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "FH 10",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

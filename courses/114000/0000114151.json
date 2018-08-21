@@ -1,22 +1,25 @@
 {
-	"clbid": 114151,
+	"clbid": "0000114151",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
-	"groupid": 122,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 23,
+	"groupid": "0000000122",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 22,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 394",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 69279,
+	"clbid": "0000069279",
 	"credits": 1.0,
-	"crsid": 615,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000615",
+	"department": "HIST",
 	"description": [
 		"This course explores topics in American history, designed to emphasize active skills of critical reading, textual and contextual analysis, historiographical argument, and historical writing. Primarily for History majors - others by consent of instructor. Offered most years."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,16 +14,26 @@
 		"Steven C. Hahn"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 109",
-		"BMC 109"
-	],
 	"max": 15,
 	"name": "Sem: Franklin's America",
 	"notes": [
 		"Intended for sophomore History majors, but others may also register."
 	],
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 109",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Major Seminar: American History",
 	"type": "Seminar",
 	"year": 2009

@@ -1,24 +1,39 @@
 {
-	"clbid": 51864,
+	"clbid": "0000051864",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
+	"crsid": "0000000498",
+	"department": "GE",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html"
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Jenny Dunning"
 	],
 	"level": 100,
-	"locations": [
-		"RML 520"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2006
 }

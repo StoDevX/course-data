@@ -1,21 +1,36 @@
 {
-	"clbid": 1998,
+	"clbid": "0000001998",
 	"credits": 1.0,
-	"crsid": 245,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 1,
+	"crsid": "0000000245",
+	"department": "CHIN",
+	"enrolled": 1,
 	"instructors": [
 		"Anbin Shi"
 	],
 	"level": 200,
-	"locations": [
-		"M 36"
-	],
 	"max": 30,
 	"name": "Modern Chinese",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 36",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 36",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 36",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

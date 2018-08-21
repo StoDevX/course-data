@@ -1,24 +1,39 @@
 {
-	"clbid": 120604,
+	"clbid": "0000120604",
 	"credits": 0.25,
-	"crsid": 812,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000812",
+	"department": "MUSIC",
 	"description": [
 		"Students learn basic performance practice on core instruments in each instrument family. Additional topics include: common performance issues and their possible solution; Best Practices in teaching and learning core instruments of the family; and technology for teaching, learning, or composing for instruments as appropriate. Offered annually in the spring semester. Prerequisite: permission of instructor required for students not majoring in theory/composition or music education."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"David Hagedorn"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Percussion Techniques",
 	"number": 167,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "permission of instructor required for students not majoring in theory/composition or music education.",
 	"revisions": [
@@ -35,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:48.990574+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.167896+00:00",
+			"clbid": 120604,
+			"crsid": 812,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 138"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 3141,
+	"clbid": "0000003141",
 	"credits": 1.0,
-	"crsid": 1794,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000001794",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Rachel Shaw"
 	],
 	"level": 100,
-	"locations": [
-		"M 35"
-	],
 	"max": 23,
 	"name": "The American West",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 35",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 35",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 35",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

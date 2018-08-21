@@ -1,21 +1,36 @@
 {
-	"clbid": 5315,
+	"clbid": "0000005315",
 	"credits": 1.0,
-	"crsid": 1099,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 7,
+	"crsid": "0000001099",
+	"department": "PHYS",
+	"enrolled": 7,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110"
-	],
 	"max": 999,
 	"name": "Top: Stellar Evolution",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 110",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 110",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 110",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Topic",
 	"year": 2002
 }

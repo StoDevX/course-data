@@ -1,21 +1,36 @@
 {
-	"clbid": 6905,
+	"clbid": "0000006905",
 	"credits": 1.0,
-	"crsid": 416,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 12,
+	"crsid": "0000000416",
+	"department": "ENGL",
+	"enrolled": 12,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 18,
 	"name": "Science Writing",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

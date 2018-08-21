@@ -1,14 +1,12 @@
 {
-	"clbid": 97334,
+	"clbid": "0000097334",
 	"credits": 1.0,
-	"crsid": 1205,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001205",
+	"department": "REL",
 	"description": [
 		"This course explores the meaning and significance of Jesus Christ in major New Testament writings: the Gospels, the letters of Paul, Hebrews, Revelation. Students also examine the development of New Testament ideas about Christ in subsequent Christian tradition, both classical and contemporary. Counts toward ancient studies major. Prerequisite: BTS-B."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Jason J. Ripley"
 	],
 	"level": 200,
-	"locations": [
-		"OM 305",
-		"OM 305"
-	],
 	"max": 24,
 	"name": "Jesus in Scripture and Tradition",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 305",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 305",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2014
 }

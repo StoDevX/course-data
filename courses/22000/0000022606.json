@@ -1,21 +1,36 @@
 {
-	"clbid": 22606,
+	"clbid": "0000022606",
 	"credits": 0.25,
-	"crsid": 815,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 16,
+	"crsid": "0000000815",
+	"department": "MUSIC",
+	"enrolled": 16,
 	"instructors": [
 		"Martin Hodel"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 30,
 	"name": "Ear/Keyboard III",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 232",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 232",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 232",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

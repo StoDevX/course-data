@@ -1,22 +1,30 @@
 {
-	"clbid": 4274,
+	"clbid": "0000004274",
 	"credits": 1.0,
-	"crsid": 1170,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 37,
+	"crsid": "0000001170",
+	"department": "PSYCH",
+	"enrolled": 37,
 	"instructors": [
 		"Pamela Bacon"
 	],
 	"level": 200,
-	"locations": [
-		"H 307",
-		"H 307"
-	],
 	"max": 35,
 	"name": "Social Psychology",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 307",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "H 307",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

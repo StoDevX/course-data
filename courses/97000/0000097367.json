@@ -1,28 +1,43 @@
 {
-	"clbid": 97367,
+	"clbid": "0000097367",
 	"credits": 1.0,
-	"crsid": 134,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000134",
+	"department": "BIO",
 	"description": [
 		"This course begins with an in-depth look at a plant cell and its physiology, followed by a discussion of whole plant physiology as it relates to cellular functions. Students attend lectures plus one three-hour laboratory per week. Counts as \"comparative organismal biology\" core category. Prerequisites: Bio 150 or BIO 126, CHEM 125 and CHEM 126,and BIO 227 or CH/BI227 recommended."
 	],
-	"enroll": 35,
-	"groupid": 134,
+	"enrolled": 35,
+	"groupid": "0000000134",
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 32,
 	"name": "Plant Physiology",
 	"notes": [
 		"Students in Bio 251 must also register for one lab Bio 251 AL or BL."
 	],
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Bio 150 or BIO 126, CHEM 125 and CHEM 126,and BIO 227 or CH/BI227 recommended.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

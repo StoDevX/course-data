@@ -1,28 +1,36 @@
 {
-	"clbid": 114614,
+	"clbid": "0000114614",
 	"credits": 1.0,
-	"crsid": 1404,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000001404",
+	"department": "ECON",
 	"description": [
 		"This course emphasizes skills necessary to understand and analyze economic data. Topics include descriptive statistics, probability and random variables, sampling theory, estimation and hypothesis testing, and practical and theoretical understanding of simple and multiple regression analysis. Applications to economic and business problems use real data, realistic applications, and econometric/statistical software. Offered each semester. ECON 263 is required for economics majors who do not take both STAT 272 and ECON 385. Credit towards the economics major will not be given for ECON 263 following completion of STAT 272. Counts toward environmental studies major (social science emphasis). Prerequisite: MATH 119 or MATH 120 and one of Economics 110-121, or consent of the instructor."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Thomas Bernardin"
 	],
 	"level": 200,
-	"locations": [
-		"HH 111",
-		"HH 111"
-	],
 	"max": 20,
 	"name": "Statistics for Economics",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 111",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 111",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 and one of Economics 110-121, or consent of the instructor.",
 	"revisions": [
@@ -81,10 +89,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2017
 }

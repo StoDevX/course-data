@@ -1,14 +1,12 @@
 {
-	"clbid": 62813,
+	"clbid": "0000062813",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered both semesters."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Eric R. Ufferman"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 23,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 184",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121. Offered both semesters.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2008

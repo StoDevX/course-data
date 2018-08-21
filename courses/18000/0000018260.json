@@ -1,21 +1,30 @@
 {
-	"clbid": 18260,
+	"clbid": "0000018260",
 	"credits": 1.0,
-	"crsid": 538,
-	"departments": [
-		"ID"
-	],
-	"enroll": 15,
+	"crsid": "0000000538",
+	"department": "ID",
+	"enrolled": 15,
 	"instructors": [
 		"Edmund Santurri"
 	],
 	"level": 300,
-	"locations": [
-		"L 420"
-	],
 	"max": 25,
 	"name": "Ethical ISSues/Gr Con",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

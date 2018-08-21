@@ -1,21 +1,36 @@
 {
-	"clbid": 18056,
+	"clbid": "0000018056",
 	"credits": 1.0,
-	"crsid": 1612,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 22,
+	"crsid": "0000001612",
+	"department": "CSCI",
+	"enrolled": 22,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 25,
 	"name": "Principles Comp Sci",
 	"number": 172,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 182",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 182",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 182",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,32 +1,47 @@
 {
-	"clbid": 66400,
+	"clbid": "0000066400",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000108",
+	"department": "BIO",
 	"description": [
 		"In this core course, students study the mechanisms of evolution, the evolutionary history of biological diversity, and the diversity of life. The structure and function of organisms are compared within an ecological/evolutionary context. Key adaptations to survival are examined among organisms from bacteria and protists to plants, fungi, and animals. Labs investigate population genetics, phylogeny, form, and behavior of selected organisms and provide experience in experimental design and scientific writing. Students attend lectures plus one 2.5-hour laboratory per week. Prerequisite: Biology 125."
 	],
-	"enroll": 63,
+	"enrolled": 63,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 108,
+	"groupid": "0000000108",
 	"grouptype": "3",
 	"instructors": [
 		"Ryan C. Atwell"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 66,
 	"name": "Evolution and Diversity",
 	"notes": [
 		"Students in Bio 126C must also register for one lab Bio 126 GL, HL, or IL."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 410",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Biology 125.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

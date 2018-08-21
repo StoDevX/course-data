@@ -1,21 +1,30 @@
 {
-	"clbid": 3511,
+	"clbid": "0000003511",
 	"credits": 1.0,
-	"crsid": 1289,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 22,
+	"crsid": "0000001289",
+	"department": "SOAN",
+	"enrolled": 22,
 	"instructors": [
 		"Deborah Engelen-Eigles"
 	],
 	"level": 100,
-	"locations": [
-		"L 577"
-	],
 	"max": 25,
 	"name": "Intro to Sociology",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 577",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 577",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 26461,
+	"clbid": "0000026461",
 	"credits": 1.0,
-	"crsid": 1761,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 15,
+	"crsid": "0000001761",
+	"department": "GERM",
+	"enrolled": 15,
 	"instructors": [
 		"Norman M. Watt"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 20,
 	"name": "Art of Translation",
 	"number": 267,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

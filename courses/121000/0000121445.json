@@ -1,14 +1,12 @@
 {
-	"clbid": 121445,
+	"clbid": "0000121445",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001154",
+	"department": "PSYCH",
 	"description": [
 		"This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester. Counts toward exercise science major and educational studies concentration."
 	],
-	"enroll": 51,
+	"enrolled": 51,
 	"gereqs": [
 		"HBS",
 		"IST"
@@ -17,9 +15,6 @@
 		"Gary M. Muir"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 150"
-	],
 	"max": 100,
 	"name": "Principles: Psych",
 	"notes": [
@@ -27,6 +22,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 150",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 150",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 150",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -70,15 +85,30 @@
 		{
 			"_updated": "2018-08-09T03:33:26.115238+00:00",
 			"enroll": 52
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.350287+00:00",
+			"clbid": 121445,
+			"crsid": 1154,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 51,
+			"enrolled": null,
+			"locations": [
+				"RNS 150"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Psychology",
 	"type": "Research",
 	"year": 2018

@@ -1,21 +1,24 @@
 {
-	"clbid": 2606,
+	"clbid": "0000002606",
 	"credits": 1.0,
-	"crsid": 1482,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 27,
+	"crsid": "0000001482",
+	"department": "ARMS",
+	"enrolled": 27,
 	"instructors": [
 		"Joanne Henry"
 	],
 	"level": 100,
-	"locations": [
-		"H 501"
-	],
 	"max": 25,
 	"name": "Intro to Arms",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 501",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

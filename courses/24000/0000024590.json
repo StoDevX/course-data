@@ -1,21 +1,30 @@
 {
-	"clbid": 24590,
+	"clbid": "0000024590",
 	"credits": 1.0,
-	"crsid": 645,
-	"departments": [
-		"HSPST"
-	],
-	"enroll": 15,
+	"crsid": "0000000645",
+	"department": "HSPST",
+	"enrolled": 15,
 	"instructors": [
 		"David Schodt"
 	],
 	"level": 300,
-	"locations": [
-		"M 4"
-	],
 	"max": 20,
 	"name": "Cont ISSues/Lat Amer",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

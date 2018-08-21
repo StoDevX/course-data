@@ -1,24 +1,51 @@
 {
-	"clbid": 121316,
+	"clbid": "0000121316",
 	"credits": 1.0,
-	"crsid": 19408,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000019408",
+	"department": "MUSIC",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Louis K. Epstein"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 12,
 	"name": "Research:",
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "CHM 239",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "CHM 239",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "CHM 239",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "CHM 239",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "CHM 239",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -37,14 +64,29 @@
 			"_updated": "2018-08-07T14:48:46.878438+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.047136+00:00",
+			"clbid": 121316,
+			"crsid": 19408,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 239"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2018

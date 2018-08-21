@@ -1,24 +1,33 @@
 {
-	"clbid": 50237,
+	"clbid": "0000050237",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001015",
+	"department": "PEAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2006
 }

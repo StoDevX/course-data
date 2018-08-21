@@ -1,21 +1,30 @@
 {
-	"clbid": 22450,
+	"clbid": "0000022450",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 21,
+	"crsid": "0000000468",
+	"department": "ENVST",
+	"enrolled": 21,
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 300,
-	"locations": [
-		"SC 129"
-	],
 	"max": 27,
 	"name": "Sem: Environ Studies",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 129",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 129",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

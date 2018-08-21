@@ -1,21 +1,30 @@
 {
-	"clbid": 19155,
+	"clbid": "0000019155",
 	"credits": 1.0,
-	"crsid": 1663,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 30,
+	"crsid": "0000001663",
+	"department": "ENGL",
+	"enrolled": 30,
 	"instructors": [
 		"Abby Werlock"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 30,
 	"name": "Amer Short Stories",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

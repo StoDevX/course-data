@@ -1,15 +1,12 @@
 {
-	"clbid": 103061,
+	"clbid": "0000103061",
 	"credits": 1.0,
-	"crsid": 1222,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001222",
+	"department": "AS/RE",
 	"description": [
 		"This course studies the Buddhist view of the human predicament and its solution. Students examine the life of the Buddha, Buddhist scriptures, and the historical and philosophical development of Theravada and Mahayana Buddhism in East and Southeast Asia."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,12 +14,29 @@
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"OM 110"
-	],
 	"max": 24,
 	"name": "Buddhism",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +70,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

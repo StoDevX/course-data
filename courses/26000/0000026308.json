@@ -1,21 +1,30 @@
 {
-	"clbid": 26308,
+	"clbid": "0000026308",
 	"credits": 1.0,
-	"crsid": 265,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 15,
+	"crsid": "0000000265",
+	"department": "ECON",
+	"enrolled": 15,
 	"instructors": [
 		"Bruce Dalgaard"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 25,
 	"name": "Econ & Business Hist",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 301",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 301",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

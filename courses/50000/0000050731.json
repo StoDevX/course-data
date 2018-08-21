@@ -1,25 +1,33 @@
 {
-	"clbid": 50731,
+	"clbid": "0000050731",
 	"credits": 1.0,
-	"crsid": 777,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000777",
+	"department": "MGMT",
 	"description": [
 		"This course introduces the key elements of marketing strategy: product development and management, pricing, promotion and distribution decisions. Case analysis and simulation exercises provide opportunities for applying concepts addressed in class. Upon completion of the course, students should be able to write a marketing plan if they are assigned this responsibility in their future careers. The course is offered each semester. Prerequisite: one of Economics 110-122 or consent of instructor."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Randolph Jennings"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130",
-		"SC 130"
-	],
 	"max": 25,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 130",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 130",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-122 or consent of instructor.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

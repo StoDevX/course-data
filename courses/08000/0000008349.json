@@ -1,22 +1,42 @@
 {
-	"clbid": 8349,
+	"clbid": "0000008349",
 	"credits": 1.0,
-	"crsid": 1161,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 8,
+	"crsid": "0000001161",
+	"department": "PSYCH",
+	"enrolled": 8,
 	"instructors": [
 		"James Dickson Jr."
 	],
 	"level": 200,
-	"locations": [
-		"HH 204",
-		"HH 206"
-	],
 	"max": 15,
 	"name": "Condition & Learning",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 204",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 204",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 204",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "HH 206",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM",
-		"Th 0930-1030"
-	],
 	"type": "Research",
 	"year": 2004
 }

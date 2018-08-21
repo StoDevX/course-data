@@ -1,22 +1,30 @@
 {
-	"clbid": 5834,
+	"clbid": "0000005834",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 19,
+	"crsid": "0000000353",
+	"department": "DNCTE",
+	"enrolled": 19,
 	"instructors": [
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_2",
-		"CAD _STUDIO_2"
-	],
 	"max": 15,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CAD _STUDIO_2",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CAD _STUDIO_2",
+			"start": "12:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 1150-1245PM",
-		"Th 1245-0140PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

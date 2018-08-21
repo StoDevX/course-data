@@ -1,14 +1,12 @@
 {
-	"clbid": 121660,
+	"clbid": "0000121660",
 	"credits": 1.0,
-	"crsid": 984,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000984",
+	"department": "PHIL",
 	"description": [
 		"Students examine Freud's thesis that our thoughts and actions spring from the darkness of our unconscious. Because Freud based his theory on a small sample of case studies, the course scrutinizes this qualitative data and discusses the role of case studies in the study of human behavior. Students evaluate the criteria for a scientific theory of human behavior and consider whether Freud's theory meets them. Offered during Interim. Counts toward German studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,41 @@
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 35,
 	"name": "Freud/Human Behavior",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:46.915405+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.161628+00:00",
+			"clbid": 121660,
+			"crsid": 984,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"title": "Freud and the Study of Human Behavior",
 	"type": "Research",
 	"year": 2018

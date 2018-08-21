@@ -1,21 +1,36 @@
 {
-	"clbid": 9741,
+	"clbid": "0000009741",
 	"credits": 0.5,
-	"crsid": 1016,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001016",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Craig D. Stern"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 24,
 	"name": "Wt Training Co-Ed .50",
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TC",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TC",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TC",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

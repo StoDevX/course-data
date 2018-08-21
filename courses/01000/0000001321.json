@@ -1,21 +1,36 @@
 {
-	"clbid": 1321,
+	"clbid": "0000001321",
 	"credits": 1.0,
-	"crsid": 1820,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 24,
+	"crsid": "0000001820",
+	"department": "HIST",
+	"enrolled": 24,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 200,
-	"locations": [
-		"H 501"
-	],
 	"max": 28,
 	"name": "U.S. Since 1865",
 	"number": 206,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 501",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 501",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 501",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

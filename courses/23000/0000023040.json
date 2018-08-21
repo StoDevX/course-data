@@ -1,21 +1,36 @@
 {
-	"clbid": 23040,
+	"clbid": "0000023040",
 	"credits": 1.0,
-	"crsid": 1482,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 30,
+	"crsid": "0000001482",
+	"department": "ARMS",
+	"enrolled": 30,
 	"instructors": [
 		"Joan Hepburn"
 	],
 	"level": 100,
-	"locations": [
-		"L 277"
-	],
 	"max": 25,
 	"name": "Intro to Arms",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "L 277",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "L 277",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "L 277",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

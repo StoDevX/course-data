@@ -1,15 +1,12 @@
 {
-	"clbid": 121318,
+	"clbid": "0000121318",
 	"credits": 1.0,
-	"crsid": 1221,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001221",
+	"department": "AS/RE",
 	"description": [
 		"This course introduces the religious and philosophical traditions of China and Japan: Confucianism, Chinese Taoism, Buddhism, Japanese Shinto, and the folk traditions. Students read classical texts such as Zhuangzi and Mencius and analyze fundamental values and concepts such as Tao, yin/yang, and humaneness."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,13 +14,23 @@
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 20,
 	"name": "Religions China/Japan",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,15 +43,32 @@
 			"_updated": "2018-08-07T14:48:49.510223+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.626081+00:00",
+			"clbid": 121318,
+			"crsid": 1221,
+			"department": null,
+			"departments": [
+				"ASIAN",
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Religions of China and Japan",
 	"type": "Research",
 	"year": 2018

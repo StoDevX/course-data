@@ -1,14 +1,12 @@
 {
-	"clbid": 73967,
+	"clbid": "0000073967",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Rose Gundacker"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 26,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

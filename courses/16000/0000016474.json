@@ -1,21 +1,36 @@
 {
-	"clbid": 16474,
+	"clbid": "0000016474",
 	"credits": 1.0,
-	"crsid": 1274,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 18,
+	"crsid": "0000001274",
+	"department": "RUSSN",
+	"enrolled": 18,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 11"
-	],
 	"max": 999,
 	"name": "Intro Russian Film-Tr",
 	"number": 265,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 11",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

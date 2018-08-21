@@ -1,21 +1,30 @@
 {
-	"clbid": 2099,
+	"clbid": "0000002099",
 	"credits": 1.0,
-	"crsid": 453,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 22,
+	"crsid": "0000000453",
+	"department": "ENVST",
+	"enrolled": 22,
 	"instructors": [
 		"Rachel Shaw"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 24,
 	"name": "Culture of Nature",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

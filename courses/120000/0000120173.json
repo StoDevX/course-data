@@ -1,24 +1,27 @@
 {
-	"clbid": 120173,
+	"clbid": "0000120173",
 	"credits": 0.25,
-	"crsid": 209,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000209",
+	"department": "CHEM",
 	"description": [
 		"This lab course is highly recommended to enhance the study of biochemistry and as preparation for further research in biochemistry and related fields. The course focuses on the isolation, purification, manipulation, and characterization of proteins, DNA, and RNA. The course aims to provide continuity in experimentation that is investigative in nature. Emphasis is placed on the collection, interpretation, and presentation of data. P/N only. Offered each semester. Counts toward neuroscience and biomolecular science concentrations. Prerequisite: previous or concurrent registration in CHEM 379."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 393"
-	],
 	"max": 10,
 	"name": "Experimental Biochem",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 393",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "previous or concurrent registration in CHEM 379.",
 	"revisions": [
@@ -41,14 +44,29 @@
 			"_updated": "2018-08-07T14:48:48.742491+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.543932+00:00",
+			"clbid": 120173,
+			"crsid": 209,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 393"
+			],
+			"offerings": null,
+			"times": [
+				"W 0100-0500PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"W 0100-0500PM"
-	],
 	"title": "Experimental Biochemistry",
 	"type": "Research",
 	"year": 2018

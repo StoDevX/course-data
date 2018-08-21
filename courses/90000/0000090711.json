@@ -1,14 +1,12 @@
 {
-	"clbid": 90711,
+	"clbid": "0000090711",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001154",
+	"department": "PSYCH",
 	"description": [
 		"This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester. Counts towards exercise science major."
 	],
-	"enroll": 104,
+	"enrolled": 104,
 	"gereqs": [
 		"HBS",
 		"IST"
@@ -17,13 +15,23 @@
 		"Mark Sundby"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 150",
-		"RNS 150"
-	],
 	"max": 100,
 	"name": "Principles: Psych",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 150",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 150",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Principles of Psychology",
 	"type": "Research",
 	"year": 2013

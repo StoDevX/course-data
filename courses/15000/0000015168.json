@@ -1,21 +1,30 @@
 {
-	"clbid": 15168,
+	"clbid": "0000015168",
 	"credits": 0.25,
-	"crsid": 1004,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 8,
+	"crsid": "0000001004",
+	"department": "PEAC",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"POOL"
-	],
 	"max": 20,
 	"name": "Swimming",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "POOL",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "POOL",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

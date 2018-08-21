@@ -1,22 +1,25 @@
 {
-	"clbid": 67251,
+	"clbid": "0000067251",
 	"credits": 0.0,
-	"crsid": 168,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 14,
-	"groupid": 166,
+	"crsid": "0000000168",
+	"department": "BIO",
+	"enrolled": 14,
+	"groupid": "0000000166",
 	"instructors": [
 		"Theodore Johnson"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 356B"
-	],
 	"max": 11,
 	"name": "Immunology Disc",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:20",
+			"location": "RNS 356B",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 0120-0320PM"
-	],
 	"type": "Discussion",
 	"year": 2009
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 111382,
+	"clbid": "0000111382",
 	"credits": 0.25,
-	"crsid": 27685,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000027685",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Dennis Bengtson"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Wr Rm"
-	],
 	"max": 18,
 	"name": "Classical Hatha Yoga",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "SAC Wr Rm",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "SAC Wr Rm",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -66,9 +75,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2016
 }

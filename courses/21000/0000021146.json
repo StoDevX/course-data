@@ -1,22 +1,36 @@
 {
-	"clbid": 21146,
+	"clbid": "0000021146",
 	"credits": 1.0,
-	"crsid": 130,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 16,
+	"crsid": "0000000130",
+	"department": "BIO",
+	"enrolled": 16,
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 211"
-	],
 	"max": 18,
 	"name": "Invertebrate Zoology",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "We",
+			"end": "15:55",
+			"location": "SC 211",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 1145-0110PM",
-		"W 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

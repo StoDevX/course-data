@@ -1,21 +1,36 @@
 {
-	"clbid": 5642,
+	"clbid": "0000005642",
 	"credits": 1.0,
-	"crsid": 16,
-	"departments": [
-		"AFAM"
-	],
-	"enroll": 31,
+	"crsid": "0000000016",
+	"department": "AFAM",
+	"enrolled": 31,
 	"instructors": [
 		"Joseph L. Mbele"
 	],
 	"level": 200,
-	"locations": [
-		"RML 577"
-	],
 	"max": 25,
 	"name": "Africa & the Americas",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 577",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 577",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 577",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

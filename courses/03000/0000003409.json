@@ -1,21 +1,36 @@
 {
-	"clbid": 3409,
+	"clbid": "0000003409",
 	"credits": 1.0,
-	"crsid": 1153,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 15,
+	"crsid": "0000001153",
+	"department": "PSCI",
+	"enrolled": 15,
 	"instructors": [
 		"Daniel Hofrenning"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204"
-	],
 	"max": 15,
 	"name": "Sem: American Politics",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 204",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 204",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 204",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

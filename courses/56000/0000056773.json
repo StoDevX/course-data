@@ -1,28 +1,43 @@
 {
-	"clbid": 56773,
+	"clbid": "0000056773",
 	"credits": 1.0,
-	"crsid": 207,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000207",
+	"department": "CHEM",
 	"description": [
 		"Students delve further into the topics of kinetics, thermodynamics and atomic and molecular structure that were introduced in the first-year courses. This course emphasizes the mathematical aspects of chemistry. Specific topics include reaction mechanisms, the laws of thermodynamics, statistical thermodynamics, equilibrium, spectroscopy, and molecular orbital theory. Prerequisites: Chemistry 126 or Chemistry/Biology 127 or permission of instructor and concurrent registration in Chemistry 357. Previous completion of Physics 124 or 126 is recommended. Offered both semesters."
 	],
-	"enroll": 28,
-	"groupid": 207,
+	"enrolled": 28,
+	"groupid": "0000000207",
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 32,
 	"name": "Physical Chemistry",
 	"notes": [
 		"Students in Chem 371 must also register for Chem 357."
 	],
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Chemistry 126 or Chemistry/Biology 127 or permission of instructor and concurrent registration in Chemistry 357. Previous completion of Physics 124 or 126 is recommended. Offered both semesters.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20071,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

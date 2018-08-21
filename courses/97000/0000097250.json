@@ -1,26 +1,34 @@
 {
-	"clbid": 97250,
+	"clbid": "0000097250",
 	"credits": 1.0,
-	"crsid": 27946,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000027946",
+	"department": "STAT",
 	"description": [
 		"The course investigates issues in health-related settings using a quantitative, research-oriented perspective. Course material focuses on global and public health issues, study design, methods for analyzing health data, and communication of research findings. Design topics include controlled trials, case-control, cohort and other observational studies. Methods include survival analysis and casual inference for observational studies. Communication emphasizes writing up findings and interpreting published research. Prerequisite: completion of STAT 272 or permission of the instructor. Counts toward mathematical biology concentration. Offered during fall semester 2014-15 and alternate years."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"instructors": [
 		"Julie M. Legler",
 		"Jessica Bestrashniy"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Biostatistics",
 	"number": 302,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 182",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "completion of STAT 272 or permission of the instructor. Counts toward mathematical biology concentration. Offered during fall semester 2014-15 and alternate years.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20141,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Biostatistics: Design and Analysis",
 	"type": "Research",
 	"year": 2014

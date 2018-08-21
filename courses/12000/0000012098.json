@@ -1,25 +1,33 @@
 {
-	"clbid": 12098,
+	"clbid": "0000012098",
 	"credits": 1.0,
-	"crsid": 774,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000774",
+	"department": "MGMT",
 	"description": [
 		"This course emphasizes the use of information to make management decisions. Topics include cost and break-even analysis, budgeting and control, capital expenditures analysis and variance analysis. Computer spreadsheets and case studies are used extensively. Prerequisite: Management Studies 225. Offered each semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Siriwan Chutikamoltham"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413",
-		"HH 413"
-	],
 	"max": 35,
 	"name": "Managerial/Cost Acct",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 413",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 413",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Management Studies 225. Offered each semester.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Managerial Accounting",
 	"type": "Research",
 	"year": 2005

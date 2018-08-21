@@ -1,21 +1,30 @@
 {
-	"clbid": 22347,
+	"clbid": "0000022347",
 	"credits": 1.0,
-	"crsid": 329,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 30,
+	"crsid": "0000000329",
+	"department": "EDUC",
+	"enrolled": 30,
 	"instructors": [
 		"Linda Berger"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 25,
 	"name": "Tchg Music-Elem Schls",
 	"number": 355,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

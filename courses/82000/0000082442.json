@@ -1,22 +1,37 @@
 {
-	"clbid": 82442,
+	"clbid": "0000082442",
 	"credits": 0.25,
-	"crsid": 25120,
-	"departments": [
-		"DANCE"
-	],
-	"enroll": 1,
+	"crsid": "0000025120",
+	"department": "DANCE",
+	"enrolled": 1,
 	"grouptype": "R",
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 7,
 	"name": "Articulate Body",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20111,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2011
 }

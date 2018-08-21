@@ -1,25 +1,34 @@
 {
-	"clbid": 74809,
+	"clbid": "0000074809",
 	"credits": 0.25,
-	"crsid": 810,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000810",
+	"department": "MUSIC",
 	"description": [
 		"Through group instruction, students encounter the fundamentals of singing and an introduction to song literature. In-class performance is required. This course may be repeated once. Offered each semester."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Sigrid Johnson",
 		"Robert C. Smith"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 233",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 233",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +47,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2010
 }

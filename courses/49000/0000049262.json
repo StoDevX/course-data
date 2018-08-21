@@ -1,24 +1,33 @@
 {
-	"clbid": 49262,
+	"clbid": "0000049262",
 	"credits": 0.25,
-	"crsid": 1002,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001002",
+	"department": "PEAC",
 	"description": [
 		"This course offers an introduction/review of fundamental skills and rules of volleyball. Students focus on basic strategy in games playing."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Ctr Gym"
-	],
 	"max": 0,
 	"name": "Volleyball",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC Ctr Gym",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC Ctr Gym",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 7456,
+	"clbid": "0000007456",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 29,
+	"crsid": "0000001402",
+	"department": "STAT",
+	"enrolled": 29,
 	"instructors": [
 		"Randy Bailey"
 	],
 	"level": 100,
-	"locations": [
-		"SC 129"
-	],
 	"max": 25,
 	"name": "Prin of Statistics",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 20165,
+	"clbid": "0000020165",
 	"credits": 1.0,
-	"crsid": 254,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 12,
+	"crsid": "0000000254",
+	"department": "ECON",
+	"enrolled": 12,
 	"instructors": [
 		"Xun Pomponio"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 25,
 	"name": "Economies in Transtn",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 170",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 170",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

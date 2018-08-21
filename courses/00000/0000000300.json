@@ -1,21 +1,36 @@
 {
-	"clbid": 300,
+	"clbid": "0000000300",
 	"credits": 1.0,
-	"crsid": 548,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 5,
+	"crsid": "0000000548",
+	"department": "GREEK",
+	"enrolled": 5,
 	"instructors": [
 		"Gwendolyn Compton-Engle"
 	],
 	"level": 300,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Greek Drama",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 3530,
+	"clbid": "0000003530",
 	"credits": 1.0,
-	"crsid": 1326,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001326",
+	"department": "SPAN",
+	"enrolled": 23,
 	"instructors": [
 		"Joan Odd"
 	],
 	"level": 200,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Intermed Spanish I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 20",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

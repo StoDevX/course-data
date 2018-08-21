@@ -1,21 +1,36 @@
 {
-	"clbid": 86,
+	"clbid": "0000000086",
 	"credits": 1.0,
-	"crsid": 176,
-	"departments": [
-		"AMCON"
-	],
-	"enroll": 23,
+	"crsid": "0000000176",
+	"department": "AMCON",
+	"enrolled": 23,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 999,
 	"name": "Freedoms: 1620-1865",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 18710,
+	"clbid": "0000018710",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 20,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 20,
 	"instructors": [
 		"Kathleen Edelmayer"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT 216",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT 216",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

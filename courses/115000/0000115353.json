@@ -1,14 +1,12 @@
 {
-	"clbid": 115353,
+	"clbid": "0000115353",
 	"credits": 1.0,
-	"crsid": 1105,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001105",
+	"department": "PSCI",
 	"description": [
 		"This course is an introduction to some of the central, interrelated concepts and questions of political theory. Some of the readings will be drawn from recognized classics in the field while others will arise from contemporary debates about political issues and cultural diversity within the U.S. The course pays considerable attention to historical shifts in political thought but is not designed to provide a chronology of the great Western political thinkers. Instead, this course aims to provoke and sustain a semester-long exploration of what it means to be a political actor -- that is, a citizen -- and what it means to think about politics. Offered annually."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"HWC",
 		"ORC"
@@ -17,13 +15,23 @@
 		"Joshua Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"HH 502",
-		"HH 502"
-	],
 	"max": 27,
 	"name": "Intro: Pol Theory",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 502",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 502",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -64,10 +72,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Introduction to Political Theory",
 	"type": "Research",
 	"year": 2017

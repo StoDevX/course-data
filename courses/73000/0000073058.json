@@ -1,25 +1,20 @@
 {
-	"clbid": 73058,
+	"clbid": "0000073058",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001072",
+	"department": "PHYS",
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. One laboratory per week. Prerequisite: Mathematics 120 or equivalent. Offered annually in the fall semester."
 	],
-	"enroll": 63,
+	"enrolled": 63,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 1072,
+	"groupid": "0000001072",
 	"instructors": [
 		"Angela Reisetter"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 66,
 	"name": "Principles Physics I",
 	"notes": [
@@ -27,6 +22,26 @@
 		"CL, DL, EL, or FL."
 	],
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or equivalent. Offered annually in the fall semester.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Physics I",
 	"type": "Research",
 	"year": 2010

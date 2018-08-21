@@ -1,21 +1,30 @@
 {
-	"clbid": 26600,
+	"clbid": "0000026600",
 	"credits": 1.0,
-	"crsid": 851,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 6,
+	"crsid": "0000000851",
+	"department": "MUSIC",
+	"enrolled": 6,
 	"instructors": [
 		"Mary Childs"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 12,
 	"name": "Composition II",
 	"number": 324,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

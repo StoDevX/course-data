@@ -1,21 +1,48 @@
 {
-	"clbid": 1800,
+	"clbid": "0000001800",
 	"credits": 1.0,
-	"crsid": 1974,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 1,
+	"crsid": "0000001974",
+	"department": "MUSIC",
+	"enrolled": 1,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 999,
 	"name": "The Art of Music",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "09:30",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "09:30",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:30",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:30",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "09:30",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20004,
-	"times": [
-		"M-F 0800-0930"
-	],
 	"type": "Research",
 	"year": 2000
 }

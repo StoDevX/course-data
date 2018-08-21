@@ -1,21 +1,36 @@
 {
-	"clbid": 2060,
+	"clbid": "0000002060",
 	"credits": 0.5,
-	"crsid": 362,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 1,
+	"crsid": "0000000362",
+	"department": "DNCTE",
+	"enrolled": 1,
 	"instructors": [
 		"Barbara Thatcher"
 	],
 	"level": 300,
-	"locations": [
-		"DANCE ST 1"
-	],
 	"max": 4,
 	"name": "Modern III",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "DANCE ST 1",
+			"start": "15:30"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "DANCE ST 1",
+			"start": "15:30"
+		},
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "DANCE ST 1",
+			"start": "15:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0330-0500PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

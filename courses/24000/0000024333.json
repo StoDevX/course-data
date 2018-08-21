@@ -1,21 +1,36 @@
 {
-	"clbid": 24333,
+	"clbid": "0000024333",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 37,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 37,
 	"instructors": [
 		"Gary O. Spessard"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282"
-	],
 	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

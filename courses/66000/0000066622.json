@@ -1,14 +1,12 @@
 {
-	"clbid": 66622,
+	"clbid": "0000066622",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include two-sample comparisons, simple linear regression, multiple regression, model diagnostics, and logistic regression for binary response variables. Students focus on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Prerequisite: Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered Fall and Spring Semesters."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Sharon Lane-Getaz"
 	],
 	"level": 200,
-	"locations": [
-		"RML 115"
-	],
 	"max": 0,
 	"name": "Statistical Modeling",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 115",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 115",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 115",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered Fall and Spring Semesters.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2008
 }

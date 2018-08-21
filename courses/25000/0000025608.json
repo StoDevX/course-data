@@ -1,21 +1,30 @@
 {
-	"clbid": 25608,
+	"clbid": "0000025608",
 	"credits": 0.25,
-	"crsid": 1991,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000001991",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Margaret Eaves-Smith"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 999,
 	"name": "Vocal Solo Lit III",
 	"number": 283,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

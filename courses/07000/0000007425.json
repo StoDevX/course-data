@@ -1,22 +1,30 @@
 {
-	"clbid": 7425,
+	"clbid": "0000007425",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 25,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 25,
 	"instructors": [
 		"Joan Odd"
 	],
 	"level": 200,
-	"locations": [
-		"OM 020",
-		"OM 020"
-	],
 	"max": 22,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 020",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 020",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

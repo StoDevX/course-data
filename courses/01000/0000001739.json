@@ -1,21 +1,36 @@
 {
-	"clbid": 1739,
+	"clbid": "0000001739",
 	"credits": 1.0,
-	"crsid": 1404,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 11,
+	"crsid": "0000001404",
+	"department": "STAT",
+	"enrolled": 11,
 	"instructors": [
 		"William L. Carlson"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 15,
 	"name": "Stat Problem Solving",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 413",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 413",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 413",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

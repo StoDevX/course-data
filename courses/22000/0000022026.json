@@ -1,21 +1,48 @@
 {
-	"clbid": 22026,
+	"clbid": "0000022026",
 	"credits": 1.0,
-	"crsid": 1918,
-	"departments": [
-		"ID"
-	],
-	"enroll": 8,
+	"crsid": "0000001918",
+	"department": "ID",
+	"enrolled": 8,
 	"instructors": [
 		"John Walters"
 	],
 	"level": 200,
-	"locations": [
-		"L 250"
-	],
 	"max": 16,
 	"name": "Computers in Health",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "L 250",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "L 250",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "L 250",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "L 250",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "L 250",
+			"start": "10:40"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19972,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

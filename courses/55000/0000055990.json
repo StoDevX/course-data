@@ -1,24 +1,33 @@
 {
-	"clbid": 55990,
+	"clbid": "0000055990",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001011",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"instructors": [
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 30,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

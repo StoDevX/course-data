@@ -1,22 +1,30 @@
 {
-	"clbid": 6950,
+	"clbid": "0000006950",
 	"credits": 1.0,
-	"crsid": 488,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 11,
+	"crsid": "0000000488",
+	"department": "FREN",
+	"enrolled": 11,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 200,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 20,
 	"name": "Per Stud: 19 Cent Lit",
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 026",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "OM 026",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2003
 }

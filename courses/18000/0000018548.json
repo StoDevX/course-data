@@ -1,21 +1,30 @@
 {
-	"clbid": 18548,
+	"clbid": "0000018548",
 	"credits": 1.0,
-	"crsid": 2294,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 10,
+	"crsid": "0000002294",
+	"department": "PSYCH",
+	"enrolled": 10,
 	"instructors": [
 		"J Wesley Brown"
 	],
 	"level": 300,
-	"locations": [
-		"M 20"
-	],
 	"max": 20,
 	"name": "Psych of Religion",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

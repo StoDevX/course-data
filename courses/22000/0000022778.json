@@ -1,21 +1,30 @@
 {
-	"clbid": 22778,
+	"clbid": "0000022778",
 	"credits": 1.0,
-	"crsid": 1119,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 20,
+	"crsid": "0000001119",
+	"department": "PSCI",
+	"enrolled": 20,
 	"instructors": [
 		"J. Patrick Dale"
 	],
 	"level": 300,
-	"locations": [
-		"H 413"
-	],
 	"max": 25,
 	"name": "Distributive Justice",
 	"number": 349,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 413",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 413",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

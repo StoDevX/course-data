@@ -1,21 +1,36 @@
 {
-	"clbid": 4069,
+	"clbid": "0000004069",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 29,
+	"crsid": "0000000734",
+	"department": "MATH",
+	"enrolled": 29,
 	"instructors": [
 		"Judith Cederberg"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Math Analysis II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

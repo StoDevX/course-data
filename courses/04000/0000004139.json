@@ -1,21 +1,36 @@
 {
-	"clbid": 4139,
+	"clbid": "0000004139",
 	"credits": 1.0,
-	"crsid": 856,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 26,
+	"crsid": "0000000856",
+	"department": "MUSIC",
+	"enrolled": 26,
 	"instructors": [
 		"Donnamae Gustafson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Music of 20th Century",
 	"number": 344,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

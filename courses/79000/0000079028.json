@@ -1,22 +1,25 @@
 {
-	"clbid": 79028,
+	"clbid": "0000079028",
 	"credits": 0.0,
-	"crsid": 101,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 100,
+	"crsid": "0000000101",
+	"department": "BIO",
+	"enrolled": 20,
+	"groupid": "0000000100",
 	"instructors": [
 		"Eric McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 22,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 454",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"Th 0900-1100"
-	],
 	"type": "Lab",
 	"year": 2011
 }

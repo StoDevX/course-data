@@ -1,21 +1,48 @@
 {
-	"clbid": 7519,
+	"clbid": "0000007519",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 4,
+	"crsid": "0000000353",
+	"department": "DNCTE",
+	"enrolled": 4,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_2"
-	],
 	"max": 999,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "CAD _STUDIO_2",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "CAD _STUDIO_2",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "CAD _STUDIO_2",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "CAD _STUDIO_2",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "CAD _STUDIO_2",
+			"start": "12:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +66,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20034,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

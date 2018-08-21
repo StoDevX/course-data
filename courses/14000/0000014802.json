@@ -1,21 +1,30 @@
 {
-	"clbid": 14802,
+	"clbid": "0000014802",
 	"credits": 1.0,
-	"crsid": 779,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 9,
+	"crsid": "0000000779",
+	"department": "ECON",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 25,
 	"name": "Legal Aspects of Bus",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 177",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 177",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

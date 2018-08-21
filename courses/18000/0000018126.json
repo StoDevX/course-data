@@ -1,22 +1,31 @@
 {
-	"clbid": 18126,
+	"clbid": "0000018126",
 	"credits": 1.0,
-	"crsid": 399,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 51,
+	"crsid": "0000000399",
+	"department": "ENGL",
+	"enrolled": 51,
 	"instructors": [
 		"Mark Allister",
 		"Colin Wells"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 60,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "L 525",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "L 525",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

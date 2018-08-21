@@ -1,22 +1,30 @@
 {
-	"clbid": 4342,
+	"clbid": "0000004342",
 	"credits": 1.0,
-	"crsid": 1289,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001289",
+	"department": "SOAN",
+	"enrolled": 23,
 	"instructors": [
 		"Deborah Engelen-Eigles"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 227",
-		"SPT 227"
-	],
 	"max": 25,
 	"name": "Intro to Sociology",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SPT 227",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SPT 227",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

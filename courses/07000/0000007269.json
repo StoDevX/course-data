@@ -1,21 +1,24 @@
 {
-	"clbid": 7269,
+	"clbid": "0000007269",
 	"credits": 0.0,
-	"crsid": 1085,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001085",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 200,
-	"locations": [
-		"SC 125"
-	],
 	"max": 16,
 	"name": "Electronics Lab",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "SC 125",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2003
 }

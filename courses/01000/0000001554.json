@@ -1,21 +1,24 @@
 {
-	"clbid": 1554,
+	"clbid": "0000001554",
 	"credits": 0.25,
-	"crsid": 1097,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 5,
+	"crsid": "0000001097",
+	"department": "PHYS",
+	"enrolled": 5,
 	"instructors": [
 		"James Cederberg"
 	],
 	"level": 300,
-	"locations": [
-		"SC 151"
-	],
 	"max": 8,
 	"name": "Adv Physics Lab (375)",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "SC 151",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2000
 }

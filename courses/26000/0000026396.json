@@ -1,21 +1,30 @@
 {
-	"clbid": 26396,
+	"clbid": "0000026396",
 	"credits": 1.0,
-	"crsid": 407,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 35,
+	"crsid": "0000000407",
+	"department": "ENGL",
+	"enrolled": 35,
 	"instructors": [
 		"Melanie Richards"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 35,
 	"name": "50's Beat Generation",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 1999
 }

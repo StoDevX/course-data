@@ -1,22 +1,37 @@
 {
-	"clbid": 22355,
+	"clbid": "0000022355",
 	"credits": 0.5,
-	"crsid": 340,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 25,
+	"crsid": "0000000340",
+	"department": "EDUC",
+	"enrolled": 25,
 	"halfcredit": "1",
 	"instructors": [
 		"Debra E. Anderson"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 999,
 	"name": "Senior Seminar Educ",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

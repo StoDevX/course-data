@@ -1,21 +1,30 @@
 {
-	"clbid": 16095,
+	"clbid": "0000016095",
 	"credits": 0.0,
-	"crsid": 661,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 0,
+	"crsid": "0000000661",
+	"department": "JAPAN",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 2"
-	],
 	"max": 999,
 	"name": "Begin Japanese II/Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

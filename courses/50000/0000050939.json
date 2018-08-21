@@ -1,24 +1,39 @@
 {
-	"clbid": 50939,
+	"clbid": "0000050939",
 	"credits": 0.25,
-	"crsid": 813,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000813",
+	"department": "MUSIC",
 	"description": [
 		"Intended primarily for music majors, this course introduces basic techniques for performance on the violin, viola, cell and string bass. Students are also introduced to instrument maintenance and minor repair. Offered Fall Semester."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"David Carter"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 15,
 	"name": "String Class",
 	"number": 168,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 140",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 140",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 140",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

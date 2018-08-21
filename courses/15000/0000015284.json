@@ -1,21 +1,30 @@
 {
-	"clbid": 15284,
+	"clbid": "0000015284",
 	"credits": 1.0,
-	"crsid": 1176,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 23,
+	"crsid": "0000001176",
+	"department": "PSYCH",
+	"enrolled": 23,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 1"
-	],
 	"max": 35,
 	"name": "Deviational Psych",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 1",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 1",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 82746,
+	"clbid": "0000082746",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000353",
+	"department": "DANCE",
 	"description": [
 		"This course provides students with an introduction to ballet technique, vocabulary, proper body alignment and body awareness. Outside work includes practicing, reading, writing and concert attendance. May be repeated with permission of instructor. Offered each semester."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Jennifer Bader"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2"
-	],
 	"max": 19,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20121,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2012
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 64128,
+	"clbid": "0000064128",
 	"credits": 1.0,
-	"crsid": 518,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000518",
+	"department": "GERM",
 	"description": [
 		"Students examine a variety of texts used in a particular professional or disciplinary field such as economics, the sciences, medicine, art, music, and theology. Coursework enhances listening and reading skills in specialized areas of the work world and writing and speaking proficiency in the work place across the German professions. Recommended for students considering an internship in Germany. Taught in German with strategies for writing letters, resumes, reports, and documented professional work in German. Prerequisite: German 251 or 252. May be repeated if topic is different."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"gereqs": [
 		"FOL-G"
 	],
@@ -16,12 +14,23 @@
 		"Lavern Rippley"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035"
-	],
 	"max": 19,
 	"name": "Top: Germ in Profess",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "20:30",
+			"location": "OM 035",
+			"start": "19:00"
+		},
+		{
+			"day": "Th",
+			"end": "20:30",
+			"location": "OM 035",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "German 251 or 252. May be repeated if topic is different.",
 	"revisions": [
@@ -43,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MTh 0700-0830PM"
-	],
 	"title": "German in the Professions",
 	"type": "Topic",
 	"year": 2008

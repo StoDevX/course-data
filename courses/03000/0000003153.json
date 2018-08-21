@@ -1,21 +1,30 @@
 {
-	"clbid": 3153,
+	"clbid": "0000003153",
 	"credits": 1.0,
-	"crsid": 618,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 31,
+	"crsid": "0000000618",
+	"department": "HIST",
+	"enrolled": 31,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 35,
 	"name": "African--Amer Hist",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 413",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 413",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

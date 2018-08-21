@@ -1,21 +1,30 @@
 {
-	"clbid": 26912,
+	"clbid": "0000026912",
 	"credits": 1.0,
-	"crsid": 1406,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 9,
+	"crsid": "0000001406",
+	"department": "STAT",
+	"enrolled": 9,
 	"instructors": [
 		"Kenneth Alberts"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 999,
 	"name": "Design of Experiments",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 188",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 188",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

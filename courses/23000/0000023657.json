@@ -1,21 +1,30 @@
 {
-	"clbid": 23657,
+	"clbid": "0000023657",
 	"credits": 1.0,
-	"crsid": 964,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 18,
+	"crsid": "0000000964",
+	"department": "PHIL",
+	"enrolled": 18,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 100,
-	"locations": [
-		"SC 110"
-	],
 	"max": 22,
 	"name": "Making of Modern Mind",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 110",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 110",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 121629,
+	"clbid": "0000121629",
 	"credits": 1.0,
-	"crsid": 1249,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001249",
+	"department": "REL",
 	"description": [
 		"May be repeated if topic is different. Prerequisite: BTS-B."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"L. DeAne Lagerquist"
 	],
 	"level": 300,
-	"locations": [
-		"OM 110"
-	],
 	"max": 15,
 	"name": "Sem: Amer Identities: Rel/Race/Gend",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 110",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 110",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 110",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:45.500261+00:00",
 			"enroll": "8",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.553289+00:00",
+			"clbid": 121629,
+			"crsid": 1249,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"OM 110"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "History of Religions Seminar",
 	"type": "Seminar",
 	"year": 2018

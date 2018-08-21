@@ -1,21 +1,30 @@
 {
-	"clbid": 18586,
+	"clbid": "0000018586",
 	"credits": 1.0,
-	"crsid": 1194,
-	"departments": [
-		"REL"
-	],
-	"enroll": 14,
+	"crsid": "0000001194",
+	"department": "REL",
+	"enrolled": 14,
 	"instructors": [
 		"Barbara Pitkin"
 	],
 	"level": 200,
-	"locations": [
-		"CH 110"
-	],
 	"max": 25,
 	"name": "The Greats",
 	"number": 203,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 110",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

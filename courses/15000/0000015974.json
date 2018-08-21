@@ -1,21 +1,30 @@
 {
-	"clbid": 15974,
+	"clbid": "0000015974",
 	"credits": 1.0,
-	"crsid": 418,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 14,
+	"crsid": "0000000418",
+	"department": "ENGL",
+	"enrolled": 14,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 999,
 	"name": "Creative Writing I",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

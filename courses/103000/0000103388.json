@@ -1,24 +1,39 @@
 {
-	"clbid": 103388,
+	"clbid": "0000103388",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000748",
+	"department": "MATH",
 	"description": [
 		"This course introduces the mathematics of randomness. Topics include probabilities on discrete and continuous sample spaces, conditional probability and Bayes' Theorem, random variables, expectation and variance, distributions (including binomial, Poisson, geometric, normal, exponential, and gamma) and the Central Limit Theorem. Students use computers to explore these topics. Offered each semester. Counts toward management studies concentration. Prerequisite: MATH 126 or MATH 128."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 186"
-	],
 	"max": 24,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 186",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 186",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 186",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2015
 }

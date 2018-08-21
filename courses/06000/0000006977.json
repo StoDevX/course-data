@@ -1,21 +1,36 @@
 {
-	"clbid": 6977,
+	"clbid": "0000006977",
 	"credits": 1.0,
-	"crsid": 516,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 23,
+	"crsid": "0000000516",
+	"department": "GERM",
+	"enrolled": 23,
 	"instructors": [
 		"Karl Fink"
 	],
 	"level": 200,
-	"locations": [
-		"RML 420"
-	],
 	"max": 25,
 	"name": "Exploring Non-Fiction",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2003
 }

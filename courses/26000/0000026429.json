@@ -1,21 +1,36 @@
 {
-	"clbid": 26429,
+	"clbid": "0000026429",
 	"credits": 1.0,
-	"crsid": 477,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 18,
+	"crsid": "0000000477",
+	"department": "FREN",
+	"enrolled": 18,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 100,
-	"locations": [
-		"M 26"
-	],
 	"max": 30,
 	"name": "Beginning French II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

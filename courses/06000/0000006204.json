@@ -1,21 +1,36 @@
 {
-	"clbid": 6204,
+	"clbid": "0000006204",
 	"credits": 1.0,
-	"crsid": 1144,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 19,
+	"crsid": "0000001144",
+	"department": "PSCI",
+	"enrolled": 19,
 	"instructors": [
 		"Anthony Lott"
 	],
 	"level": 300,
-	"locations": [
-		"HH 307"
-	],
 	"max": 15,
 	"name": "IR Sem: Globalization",
 	"number": 321,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 307",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

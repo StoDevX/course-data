@@ -1,21 +1,30 @@
 {
-	"clbid": 26945,
+	"clbid": "0000026945",
 	"credits": 1.0,
-	"crsid": 1481,
-	"departments": [
-		"WMNST"
-	],
-	"enroll": 19,
+	"crsid": "0000001481",
+	"department": "WMNST",
+	"enrolled": 19,
 	"instructors": [
 		"Bruce Nordstrom-Loeb"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 20,
 	"name": "Sem: Women Cross-Cult",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

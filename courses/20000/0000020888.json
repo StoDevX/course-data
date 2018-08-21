@@ -1,21 +1,30 @@
 {
-	"clbid": 20888,
+	"clbid": "0000020888",
 	"credits": 1.0,
-	"crsid": 1404,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 18,
+	"crsid": "0000001404",
+	"department": "STAT",
+	"enrolled": 18,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 25,
 	"name": "Stat Problem Solving",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 302",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 302",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

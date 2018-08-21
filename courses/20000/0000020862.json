@@ -1,21 +1,30 @@
 {
-	"clbid": 20862,
+	"clbid": "0000020862",
 	"credits": 1.0,
-	"crsid": 2464,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 19,
+	"crsid": "0000002464",
+	"department": "THEAT",
+	"enrolled": 19,
 	"instructors": [
 		"Michael Maguire"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 20,
 	"name": "Interpersonal Commun",
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT 216",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT 216",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

@@ -1,26 +1,41 @@
 {
-	"clbid": 11727,
+	"clbid": "0000011727",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000122",
+	"department": "BIO",
 	"description": [
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical, molecular and population perspectives. Lectures cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week; taught twice a year. Prerequisites: Biology 125 and one semester of chemistry or concurrent registration."
 	],
-	"enroll": 46,
-	"groupid": 122,
+	"enrolled": 46,
+	"groupid": "0000000122",
 	"grouptype": "2",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280"
-	],
 	"max": 24,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and one semester of chemistry or concurrent registration.",
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

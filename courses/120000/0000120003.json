@@ -1,28 +1,43 @@
 {
-	"clbid": 120003,
+	"clbid": "0000120003",
 	"credits": 1.0,
-	"crsid": 1062,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001062",
+	"department": "ESTH",
 	"description": [
 		"Students analyze mechanical principles in depth as they affect human motion. Topics include study of muscular and skeletal systems, skill analysis, and motion measurement techniques. The course includes a laboratory component. Counts toward neuroscience concentration. Offered annually. Prerequisite: BIO 143 and junior standing."
 	],
-	"enroll": 0,
-	"groupid": 1062,
+	"enrolled": 0,
+	"groupid": "0000001062",
 	"instructors": [
 		"Jennifer M. Holbein"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 25,
 	"name": "Biomechanics",
 	"notes": [
 		"Students in ESTH 374 must also register for ESTH 374 A lab or B lab."
 	],
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BIO 143 and junior standing.",
 	"revisions": [
@@ -52,14 +67,30 @@
 			"_updated": "2018-08-07T14:48:48.654845+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.279313+00:00",
+			"clbid": 120003,
+			"crsid": 1062,
+			"department": null,
+			"departments": [
+				"ESTH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1062,
+			"locations": [
+				"SAC 103"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

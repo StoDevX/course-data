@@ -1,14 +1,12 @@
 {
-	"clbid": 121428,
+	"clbid": "0000121428",
 	"credits": 1.0,
-	"crsid": 29264,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000029264",
+	"department": "ENGL",
 	"description": [
 		"Focusing primarily on contemporary works, this course introduces students to Arab American literature and film by exploring different literary and film genres (the novel, memoir, poetry, documentary film, feature film). Students examine shared thematic concerns related to immigration, exile, displacement, gender, religion, and racism. Students also consider how this literature and film draws upon and responds to past and present sociopolitical conflicts. Counts toward and race and ethnic studies major and concentration and middle eastern studies concentration. Offered alternate years in the fall semester. Prerequisite: FYW."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Linda Mokdad"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 112",
-		"TOH 112"
-	],
 	"max": 30,
 	"name": "Arab American Literature and Film",
 	"number": 209,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 112",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 112",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -51,15 +59,31 @@
 			"_updated": "2018-08-07T14:48:45.412748+00:00",
 			"enroll": "26",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.319535+00:00",
+			"clbid": 121428,
+			"crsid": 29264,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 26,
+			"enrolled": null,
+			"locations": [
+				"TOH 112",
+				"TOH 112"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

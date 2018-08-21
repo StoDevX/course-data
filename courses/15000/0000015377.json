@@ -1,21 +1,36 @@
 {
-	"clbid": 15377,
+	"clbid": "0000015377",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 14,
+	"crsid": "0000001325",
+	"department": "SPAN",
+	"enrolled": 14,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 21"
-	],
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 21",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 21",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 21",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

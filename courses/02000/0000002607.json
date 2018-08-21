@@ -1,21 +1,30 @@
 {
-	"clbid": 2607,
+	"clbid": "0000002607",
 	"credits": 1.0,
-	"crsid": 1484,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 15,
+	"crsid": "0000001484",
+	"department": "ARMS",
+	"enrolled": 15,
 	"instructors": [
 		"Joanne Henry"
 	],
 	"level": 200,
-	"locations": [
-		"L 577"
-	],
 	"max": 25,
 	"name": "Top: Af-Am Women",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

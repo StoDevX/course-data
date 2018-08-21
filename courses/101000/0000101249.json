@@ -1,22 +1,25 @@
 {
-	"clbid": 101249,
+	"clbid": "0000101249",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 12,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 12,
+	"groupid": "0000001080",
 	"instructors": [
 		"Jay D. Tasson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 20,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:55",
+			"location": "RNS 293",
+			"start": "14:25"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0225-0455PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

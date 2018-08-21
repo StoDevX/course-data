@@ -1,14 +1,12 @@
 {
-	"clbid": 100221,
+	"clbid": "0000100221",
 	"credits": 0.25,
-	"crsid": 1014,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001014",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in running and jogging to enhance personal fitness and training knowledge."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Eric C. Yuen"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Jogging/Running",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -61,9 +70,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2015
 }

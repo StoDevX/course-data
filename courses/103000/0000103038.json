@@ -1,22 +1,25 @@
 {
-	"clbid": 103038,
+	"clbid": "0000103038",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 17,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 17,
+	"groupid": "0000001074",
 	"instructors": [
 		"Prabal Adhikari"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 20,
 	"name": "Principles Physics II Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:00",
+			"location": "RNS 292",
+			"start": "14:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"Th 0230-0500PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

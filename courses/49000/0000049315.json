@@ -1,22 +1,25 @@
 {
-	"clbid": 49315,
+	"clbid": "0000049315",
 	"credits": 0.0,
-	"crsid": 17308,
-	"departments": [
-		"NEURO"
-	],
-	"enroll": 23,
+	"crsid": "0000017308",
+	"department": "NEURO",
+	"enrolled": 23,
 	"instructors": [
 		"Gary M. Muir",
 		"Kevin M. Crisp"
 	],
 	"level": 200,
-	"locations": [
-		"SC 253"
-	],
 	"max": 0,
 	"name": "Intro to Neuroscience Lab",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 253",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

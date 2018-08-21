@@ -1,25 +1,28 @@
 {
-	"clbid": 85993,
+	"clbid": "0000085993",
 	"credits": 0.25,
-	"crsid": 293,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000293",
+	"department": "CSCI",
 	"description": [
 		"Students investigate the implementation of software using strategies and concepts presented in Computer Science 251, explore standard technologies for creation and management of multi- module software systems, and carry out stages of a life cycle-based team software project, through hands-on computational exercises and with direct support provided in a small group context. Prerequisite: concurrent registration in Computer Science 251. Offered both semesters."
 	],
-	"enroll": 17,
-	"groupid": 292,
+	"enrolled": 17,
+	"groupid": "0000000292",
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 20,
 	"name": "Software Design/Lab",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "RNS 202",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in Computer Science 251. Offered both semesters.",
 	"revisions": [
@@ -42,9 +45,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"Th 1245-0245PM"
-	],
 	"title": "Software Design and Implementation Lab",
 	"type": "Lab",
 	"year": 2012

@@ -1,21 +1,30 @@
 {
-	"clbid": 15130,
+	"clbid": "0000015130",
 	"credits": 1.0,
-	"crsid": 2041,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 2,
+	"crsid": "0000002041",
+	"department": "PARA",
+	"enrolled": 2,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"OMH 205"
-	],
 	"max": 2,
 	"name": "Fractal Geometry",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OMH 205",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "OMH 205",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

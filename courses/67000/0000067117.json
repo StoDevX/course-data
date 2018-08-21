@@ -1,14 +1,12 @@
 {
-	"clbid": 67117,
+	"clbid": "0000067117",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered each semester."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 19,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2009

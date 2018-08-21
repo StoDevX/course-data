@@ -1,22 +1,30 @@
 {
-	"clbid": 4901,
+	"clbid": "0000004901",
 	"credits": 1.0,
-	"crsid": 325,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 11,
+	"crsid": "0000000325",
+	"department": "EDUC",
+	"enrolled": 11,
 	"instructors": [
 		"Martha Harris"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L",
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Teaching of Comm/Lit",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 10L",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "FH 10L",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

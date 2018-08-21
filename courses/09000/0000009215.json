@@ -1,24 +1,37 @@
 {
-	"clbid": 9215,
+	"clbid": "0000009215",
 	"credits": 1.0,
-	"crsid": 171,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 14,
+	"crsid": "0000000171",
+	"department": "BIO",
+	"enrolled": 14,
 	"instructors": [
 		"James Dickson Jr.",
 		"Louis Henry Kermott"
 	],
 	"level": 300,
-	"locations": [
-		"SC 278",
-		"SC 278",
-		"SC 253"
-	],
 	"max": 18,
 	"name": "Animal Behavior",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 278",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 278",
+			"start": "09:30"
+		},
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 253",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,11 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050",
-		"T 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

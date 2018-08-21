@@ -1,14 +1,12 @@
 {
-	"clbid": 79920,
+	"clbid": "0000079920",
 	"credits": 1.0,
-	"crsid": 1206,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001206",
+	"department": "REL",
 	"description": [
 		"Students examine key texts in the Old and New Testaments with the aim of exploring the issues such writings pose for Christian theological reflection. In addition, they explore selected readings on the doctrine of scripture and language about God. Prerequisite: BTS-B."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"Paul D. Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 60,
 	"name": "The Biblical God",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 305",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 305",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -51,10 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

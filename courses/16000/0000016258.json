@@ -1,21 +1,30 @@
 {
-	"clbid": 16258,
+	"clbid": "0000016258",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 21,
+	"crsid": "0000001015",
+	"department": "PEAC",
+	"enrolled": 21,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FLD HOUSE"
-	],
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "FLD HOUSE",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "FLD HOUSE",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

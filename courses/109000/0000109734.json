@@ -1,28 +1,37 @@
 {
-	"clbid": 109734,
+	"clbid": "0000109734",
 	"credits": 0.5,
-	"crsid": 18784,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000018784",
+	"department": "PHYS",
 	"description": [
 		"In-depth study of particular topics done in a half-semester format. Topics are based on student interest and available staff. Generally offered as a pair of half-courses in one semester but students may enroll in only one. Recently topics include general relativity and cosmology. Prerequisite: PHYS 244 and MATH 230."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"halfcredit": "2",
 	"instructors": [
 		"Prabal Adhikari"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 12,
 	"name": "Top: Quantum Field Theory",
 	"notes": [
 		"This is a second-half of semester course."
 	],
 	"number": 392,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "20:50",
+			"location": "RNS 297",
+			"start": "19:10"
+		},
+		{
+			"day": "Th",
+			"end": "20:50",
+			"location": "RNS 297",
+			"start": "19:10"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PHYS 244 and MATH 230.",
 	"revisions": [
@@ -71,9 +80,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MTh 0710-0850PM"
-	],
 	"title": "Short Topics in Physics",
 	"type": "Topic",
 	"year": 2016

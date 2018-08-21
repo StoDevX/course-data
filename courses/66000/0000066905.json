@@ -1,25 +1,33 @@
 {
-	"clbid": 66905,
+	"clbid": "0000066905",
 	"credits": 1.0,
-	"crsid": 294,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000294",
+	"department": "CSCI",
 	"description": [
 		"This course surveys standard algorithms and data structures with emphasis on implementation experience and complexity analysis. Topics include algorithmic strategies, fundamental computer algorithms, stacks, queues, lists, trees, hash tables, specialized trees (e.g., binary, AVL, B-trees), heaps and priority queues, compression, and decompression. Prerequisites: Computer Science 231 and either Computer Science 225 or 251, or consent of the instructor. Offered annually in the Fall Semester."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 18,
 	"name": "Algorithms/Data Struc",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 203",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 203",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 231 and either Computer Science 225 or 251, or consent of the instructor. Offered annually in the Fall Semester.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20091,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Algorithms and Data Structures",
 	"type": "Research",
 	"year": 2009

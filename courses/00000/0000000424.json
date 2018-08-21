@@ -1,21 +1,30 @@
 {
-	"clbid": 424,
+	"clbid": "0000000424",
 	"credits": 1.0,
-	"crsid": 851,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 5,
+	"crsid": "0000000851",
+	"department": "MUSIC",
+	"enrolled": 5,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 999,
 	"name": "Composition II",
 	"number": 324,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

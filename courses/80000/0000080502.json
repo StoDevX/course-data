@@ -1,32 +1,40 @@
 {
-	"clbid": 80502,
+	"clbid": "0000080502",
 	"credits": 1.0,
-	"crsid": 141,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000141",
+	"department": "BIO",
 	"description": [
 		"Limnology is the study of inland waters and includes their physical, chemical, and biological characteristics. The course focuses on biotic processes and interactions set within the abiotic habitat of lakes and streams. Students examine current management problems facing freshwater environments by focusing on human-induced changes to aquatic habitats and their biotic consequences. Investigative laboratories introduce students to aquatic habitats and biological processes within them. Prerequisites: Biology 125 and 126, or Chemistry/Biology 125-127 and Biology 126, and 261 or permission of instructor."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 141,
+	"groupid": "0000000141",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435",
-		"RNS 435"
-	],
 	"max": 20,
 	"name": "Limnology",
 	"notes": [
 		"Students in Bio 363 must also register for one lab Bio 363 AL or BL."
 	],
 	"number": 363,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 435",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 435",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and 126, or Chemistry/Biology 125-127 and Biology 126, and 261 or permission of instructor.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2011
 }

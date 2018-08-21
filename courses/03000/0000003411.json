@@ -1,21 +1,36 @@
 {
-	"clbid": 3411,
+	"clbid": "0000003411",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 64,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 64,
 	"instructors": [
 		"Scott Woitaszewski"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

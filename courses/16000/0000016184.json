@@ -1,21 +1,24 @@
 {
-	"clbid": 16184,
+	"clbid": "0000016184",
 	"credits": 0.5,
-	"crsid": 844,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 22,
+	"crsid": "0000000844",
+	"department": "MUSIC",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 999,
 	"name": "Choral Lit I",
 	"number": 287,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "CHM 232",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

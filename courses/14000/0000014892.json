@@ -1,21 +1,30 @@
 {
-	"clbid": 14892,
+	"clbid": "0000014892",
 	"credits": 1.0,
-	"crsid": 417,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 13,
+	"crsid": "0000000417",
+	"department": "ENGL",
+	"enrolled": 13,
 	"instructors": [
 		"Jan C. Hill"
 	],
 	"level": 200,
-	"locations": [
-		"YH 100"
-	],
 	"max": 18,
 	"name": "Journalistic Writing",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "YH 100",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "YH 100",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

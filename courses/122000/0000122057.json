@@ -1,14 +1,12 @@
 {
-	"clbid": 122057,
+	"clbid": "0000122057",
 	"credits": 1.0,
-	"crsid": 32560,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000032560",
+	"department": "MUSIC",
 	"description": [
 		"Most music encountered today is either processed by computer or created entirely digitally. This course provides an introduction to the creation of computer music using programming languages and emphasizing object-oriented programming. Students develop skills in abstract and quantitative reasoning in a musical context. They develop their ability to recognize and employ musical patterns and structures in creating new pieces of music. Topics include digital synthesis, timbral design, live coding, and intonation. Offered periodically. Prerequisite: a basic knowledge of musical theory or notation is helpful but not necessary."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Justin W. Merritt"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 100",
-		"CAD 100"
-	],
 	"max": 19,
 	"name": "Coding Music",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 100",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 100",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "a basic knowledge of musical theory or notation is helpful but not necessary.",
 	"revisions": [
@@ -42,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:49.824065+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.965124+00:00",
+			"clbid": 122057,
+			"crsid": 32560,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 100",
+				"CAD 100"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

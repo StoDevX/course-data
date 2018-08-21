@@ -1,21 +1,36 @@
 {
-	"clbid": 15321,
+	"clbid": "0000015321",
 	"credits": 1.0,
-	"crsid": 2318,
-	"departments": [
-		"REL"
-	],
-	"enroll": 25,
+	"crsid": "0000002318",
+	"department": "REL",
+	"enrolled": 25,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 30,
 	"name": "God/Faith/Autobiog",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,31 @@
 {
-	"clbid": 17326,
+	"clbid": "0000017326",
 	"credits": 0.5,
-	"crsid": 2208,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 5,
+	"crsid": "0000002208",
+	"department": "PETH",
+	"enrolled": 5,
 	"halfcredit": "1",
 	"instructors": [
 		"Cynthia Book"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 02"
-	],
 	"max": 24,
 	"name": "Measurement/Evaluat'n",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC 02",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SAC 02",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

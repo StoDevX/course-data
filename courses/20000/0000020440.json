@@ -1,21 +1,36 @@
 {
-	"clbid": 20440,
+	"clbid": "0000020440",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 23,
+	"crsid": "0000000738",
+	"department": "MATH",
+	"enrolled": 23,
 	"instructors": [
 		"Arnold Ostebee"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 999,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "SC 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "SC 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "SC 184",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1150-1240PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

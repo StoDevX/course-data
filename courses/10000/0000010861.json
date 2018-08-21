@@ -1,21 +1,30 @@
 {
-	"clbid": 10861,
+	"clbid": "0000010861",
 	"credits": 0.25,
-	"crsid": 1014,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 21,
+	"crsid": "0000001014",
+	"department": "PEAC",
+	"enrolled": 21,
 	"instructors": [
 		"Craig D. Stern"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 24,
 	"name": "Jogging/Running",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

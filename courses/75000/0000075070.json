@@ -1,14 +1,12 @@
 {
-	"clbid": 75070,
+	"clbid": "0000075070",
 	"credits": 1.0,
-	"crsid": 21399,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000021399",
+	"department": "NORW",
 	"description": [
 		"This interdisciplinary course explores the Sámi, an indigenous people living mainly in the northern parts of Norway, Sweden, Finland, and Russia. Students first place the Sámi in a historical-cultural context by examining the Sámi's social and economic systems, religion, customs, and values. The major portion of the course examines the Sámi primarily from within: the Sámi will present themselves through their literature, film, music, and art. Taught in English. Offered periodically."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"HBS",
 		"MCG",
@@ -18,13 +16,23 @@
 		"Kari L. Dorer"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 312",
-		"TOH 312"
-	],
 	"max": 25,
 	"name": "Sami:Tradition/Transition",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 312",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 312",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Sámi: Traditions in Transition",
 	"type": "Research",
 	"year": 2010

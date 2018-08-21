@@ -1,21 +1,36 @@
 {
-	"clbid": 3274,
+	"clbid": "0000003274",
 	"credits": 1.0,
-	"crsid": 850,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 9,
+	"crsid": "0000000850",
+	"department": "MUSIC",
+	"enrolled": 9,
 	"instructors": [
 		"Peter S. Hamlin"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 999,
 	"name": "Analysis/20th C Music",
 	"number": 314,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

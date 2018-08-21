@@ -1,21 +1,30 @@
 {
-	"clbid": 16523,
+	"clbid": "0000016523",
 	"credits": 1.0,
-	"crsid": 1365,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 10,
+	"crsid": "0000001365",
+	"department": "SWRK",
+	"enrolled": 10,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 999,
 	"name": "Eval/Sw Prac & Prog",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

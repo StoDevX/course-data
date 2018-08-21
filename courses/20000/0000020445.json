@@ -1,21 +1,36 @@
 {
-	"clbid": 20445,
+	"clbid": "0000020445",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 8,
+	"crsid": "0000000747",
+	"department": "MATH",
+	"enrolled": 8,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 15,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

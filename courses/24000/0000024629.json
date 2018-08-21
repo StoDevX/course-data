@@ -1,21 +1,36 @@
 {
-	"clbid": 24629,
+	"clbid": "0000024629",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 29,
+	"crsid": "0000000738",
+	"department": "MATH",
+	"enrolled": 29,
 	"instructors": [
 		"Christopher Schwartz"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

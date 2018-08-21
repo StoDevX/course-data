@@ -1,22 +1,30 @@
 {
-	"clbid": 3960,
+	"clbid": "0000003960",
 	"credits": 1.0,
-	"crsid": 492,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 6,
+	"crsid": "0000000492",
+	"department": "FREN",
+	"enrolled": 6,
 	"instructors": [
 		"Scott Homler"
 	],
 	"level": 300,
-	"locations": [
-		"M 26",
-		"M 26"
-	],
 	"max": 999,
 	"name": "Top: African Novel",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 26",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "M 26",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Topic",
 	"year": 2002
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 4831,
+	"clbid": "0000004831",
 	"credits": 1.0,
-	"crsid": 201,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 20,
+	"crsid": "0000000201",
+	"department": "CHEM",
+	"enrolled": 20,
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282",
-		"SC 282"
-	],
 	"max": 32,
 	"name": "Analytical Chem",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 282",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 282",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

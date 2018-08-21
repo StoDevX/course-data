@@ -1,24 +1,39 @@
 {
-	"clbid": 57680,
+	"clbid": "0000057680",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000476",
+	"department": "FREN",
 	"description": [
 		"Students begin to learn French through listening, speaking, reading and writing about topics familiar to them. They study social and cultural notions inherent in the daily life of peoples in diverse Francophone communities and learn to think critically and make interdisciplinary connections and informed cross-cultural comparisons. Open to students with no prior background in French or placement into French 111. Offered both semesters."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Claire Burand"
 	],
 	"level": 100,
-	"locations": [
-		"OM 026"
-	],
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

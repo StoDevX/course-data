@@ -1,22 +1,30 @@
 {
-	"clbid": 8487,
+	"clbid": "0000008487",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 23,
 	"instructors": [
 		"Kris A. Cropsey"
 	],
 	"level": 200,
-	"locations": [
-		"OM 020",
-		"OM 020"
-	],
 	"max": 22,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 020",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 020",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

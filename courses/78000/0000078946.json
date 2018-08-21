@@ -1,22 +1,25 @@
 {
-	"clbid": 78946,
+	"clbid": "0000078946",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 9,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 9,
+	"groupid": "0000001080",
 	"instructors": [
 		"Carolyn M. Martsberger"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 16,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "RNS 293",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 1145-0215PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

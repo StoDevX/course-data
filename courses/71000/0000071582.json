@@ -1,14 +1,12 @@
 {
-	"clbid": 71582,
+	"clbid": "0000071582",
 	"credits": 1.0,
-	"crsid": 1301,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000001301",
+	"department": "SOAN",
 	"description": [
 		"Focusing on present day Arab and Middle Eastern countries, the course explores the role of the institutions of family and religion in maintaining continuity, while also identifying sources of change such as the colonial experience, regional and global interdependence, the social impact of oil, fundamentalist movements, and the co-existence of traditional and \"modern\" values. Offered annually in the Fall or Spring Semester."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"HBS",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Ibtesam Al Atiyat"
 	],
 	"level": 200,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 18,
 	"name": "The Arab World",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 302",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 302",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2009
 }

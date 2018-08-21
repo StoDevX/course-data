@@ -1,21 +1,24 @@
 {
-	"clbid": 9348,
+	"clbid": "0000009348",
 	"credits": 0.5,
-	"crsid": 336,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 10,
+	"crsid": "0000000336",
+	"department": "EDUC",
+	"enrolled": 10,
 	"instructors": [
 		"Heather Campbell"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 20,
 	"name": "The Exceptional Child",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "FH 10",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

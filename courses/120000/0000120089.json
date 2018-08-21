@@ -1,25 +1,33 @@
 {
-	"clbid": 120089,
+	"clbid": "0000120089",
 	"credits": 1.0,
-	"crsid": 754,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000754",
+	"department": "MATH",
 	"description": [
 		"Complex analysis treats the calculus of complex-valued functions of a complex variable. Familiar words and ideas from ordinary calculus (limit, derivative, integral, maximum and minimum, infinite series) reappear in the complex setting. Topics include complex mappings, derivatives, and integrals; applications focus especially on the physical sciences. Offered annually. Prerequisite: MATH 220, and MATH 226 or MATH 244."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 18,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 220, and MATH 226 or MATH 244.",
 	"revisions": [
@@ -50,15 +58,31 @@
 			"_updated": "2018-08-07T14:48:48.692196+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.381353+00:00",
+			"clbid": 120089,
+			"crsid": 754,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,23 +1,26 @@
 {
-	"clbid": 50108,
+	"clbid": "0000050108",
 	"credits": 0.0,
-	"crsid": 16743,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
-	"groupid": 731,
+	"crsid": "0000016743",
+	"department": "MATH",
+	"enrolled": 19,
+	"groupid": "0000000731",
 	"grouptype": "2",
 	"instructors": [
 		"Kristina Garrett"
 	],
 	"level": 100,
-	"locations": [
-		"SC 130"
-	],
 	"max": 20,
 	"name": "Calculus I Lab",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"M 0200-0255PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

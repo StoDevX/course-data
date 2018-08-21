@@ -1,23 +1,26 @@
 {
-	"clbid": 121399,
+	"clbid": "0000121399",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 14,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 14,
+	"groupid": "0000026649",
 	"grouptype": "2",
 	"instructors": [
 		"Emily Mohl"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 18,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "RNS 255",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,15 +48,31 @@
 			"_updated": "2018-08-07T14:48:45.393335+00:00",
 			"enroll": "14",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.270661+00:00",
+			"clbid": 121399,
+			"crsid": 26650,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 14,
+			"enrolled": null,
+			"groupid": 26649,
+			"locations": [
+				"RNS 255"
+			],
+			"offerings": null,
+			"times": [
+				"F 0200-0500PM"
+			]
 		}
 	],
 	"section": "H",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

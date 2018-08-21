@@ -1,14 +1,12 @@
 {
-	"clbid": 74630,
+	"clbid": "0000074630",
 	"credits": 1.0,
-	"crsid": 641,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000641",
+	"department": "HIST",
 	"description": [
 		"This course integrates independent research and collective consideration of historical issues. Students discuss significant historical themes (e.g., power, reform, gender, narrative, public history), while working individually on research projects and collectively on critiques and revisions. Designed for majors who are juniors, the seminar is appropriate (but not required) for those considering departmental distinction, academic internships, or participation in the undergraduate research program. With both instructors' consent, students may complete a research project satisfying requirements of the Research Workshop and another level III seminar. Offered most years."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Eric J. Fure-Slocum"
 	],
 	"level": 300,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 15,
 	"name": "Sem: Hist Res Workshop",
 	"number": 397,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RML 525",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RML 525",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "History Research Workshop",
 	"type": "Seminar",
 	"year": 2010

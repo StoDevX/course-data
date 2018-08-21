@@ -1,14 +1,12 @@
 {
-	"clbid": 119267,
+	"clbid": "0000119267",
 	"credits": 1.0,
-	"crsid": 22130,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000022130",
+	"department": "ENGL",
 	"description": [
 		"These courses emphasize the study of literature united by specific formal elements rather than by theme, topic, historical period, or national origin. The genre studied may be broad, such as narrative fiction, or narrowly defined, such as the elegy. The course focuses on the study of literature through a critical exploration of form. May be repeated if topic is different. Click on course title in the class and lab for more information about the course for that term. Prerequisite: FYW."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Juliet Patterson"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 30,
 	"name": "Top: Queer Lit & Theory",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 525",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -55,16 +63,32 @@
 		{
 			"_updated": "2018-08-10T03:33:23.678062+00:00",
 			"enroll": 10
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.167016+00:00",
+			"clbid": 119267,
+			"crsid": 22130,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"RML 525",
+				"RML 525"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Genre",
 	"type": "Topic",
 	"year": 2018

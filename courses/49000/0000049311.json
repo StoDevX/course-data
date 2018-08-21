@@ -1,21 +1,24 @@
 {
-	"clbid": 49311,
+	"clbid": "0000049311",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 25,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 25,
 	"instructors": [
 		"Marc A. Klingshirn"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 0,
 	"name": "Chemistry & the World Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 371",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

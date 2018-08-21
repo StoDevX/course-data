@@ -1,14 +1,12 @@
 {
-	"clbid": 73110,
+	"clbid": "0000073110",
 	"credits": 1.0,
-	"crsid": 632,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000632",
+	"department": "HIST",
 	"description": [
 		"This seminar covers various topics in modern European history, depending upon the instructor. Recent topics have included \"Gender and the Enlightenment,\" \"The Holocaust and History,\" \"Race, Gender, and Medicine,\" and \"Nation and Empire in Russian History.\" May be repeated if topics are different. Prerequisites for certain offerings. Offered most years."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Dolores Peters"
 	],
 	"level": 300,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 18,
 	"name": "Sem: Holocaust & History",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites for certain offerings. Offered most years.",
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Seminar: Modern Europe",
 	"type": "Seminar",
 	"year": 2010

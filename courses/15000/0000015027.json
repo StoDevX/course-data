@@ -1,21 +1,36 @@
 {
-	"clbid": 15027,
+	"clbid": "0000015027",
 	"credits": 1.0,
-	"crsid": 1936,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 34,
+	"crsid": "0000001936",
+	"department": "MATH",
+	"enrolled": 34,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 35,
 	"name": "Elementary Statistics",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

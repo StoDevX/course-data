@@ -1,22 +1,42 @@
 {
-	"clbid": 2491,
+	"clbid": "0000002491",
 	"credits": 1.0,
-	"crsid": 1264,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 17,
+	"crsid": "0000001264",
+	"department": "RUSSN",
+	"enrolled": 17,
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 200,
-	"locations": [
-		"M 2",
-		"M 11"
-	],
 	"max": 999,
 	"name": "Intermed Russian I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 2",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 2",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 2",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "M 11",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +54,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855",
-		"T 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

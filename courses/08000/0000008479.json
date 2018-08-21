@@ -1,21 +1,36 @@
 {
-	"clbid": 8479,
+	"clbid": "0000008479",
 	"credits": 1.0,
-	"crsid": 1326,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 22,
+	"crsid": "0000001326",
+	"department": "SPAN",
+	"enrolled": 22,
 	"instructors": [
 		"Leon Narvaez"
 	],
 	"level": 200,
-	"locations": [
-		"OM 021"
-	],
 	"max": 22,
 	"name": "Intermed Spanish I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 021",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 021",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 021",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

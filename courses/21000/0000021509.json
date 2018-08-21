@@ -1,21 +1,36 @@
 {
-	"clbid": 21509,
+	"clbid": "0000021509",
 	"credits": 1.0,
-	"crsid": 821,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 16,
+	"crsid": "0000000821",
+	"department": "MUSIC",
+	"enrolled": 16,
 	"instructors": [
 		"Peter S. Hamlin"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Counterpoint",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 233",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 233",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 233",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

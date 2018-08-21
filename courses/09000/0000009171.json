@@ -1,21 +1,36 @@
 {
-	"clbid": 9171,
+	"clbid": "0000009171",
 	"credits": 1.0,
-	"crsid": 78,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 35,
+	"crsid": "0000000078",
+	"department": "ASIAN",
+	"enrolled": 35,
 	"instructors": [
 		"Karil J. Kucera"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 35,
 	"name": "Asian Cultures",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CAD 305",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CAD 305",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CAD 305",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

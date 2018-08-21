@@ -1,21 +1,36 @@
 {
-	"clbid": 24839,
+	"clbid": "0000024839",
 	"credits": 1.0,
-	"crsid": 1105,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001105",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Rodney G. Grubb"
 	],
 	"level": 100,
-	"locations": [
-		"H 301"
-	],
 	"max": 30,
 	"name": "Political Thought",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

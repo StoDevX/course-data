@@ -1,22 +1,49 @@
 {
-	"clbid": 69764,
+	"clbid": "0000069764",
 	"credits": 0.0,
-	"crsid": 1085,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 19,
-	"groupid": 1084,
+	"crsid": "0000001085",
+	"department": "PHYS",
+	"enrolled": 19,
+	"groupid": "0000001084",
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 294"
-	],
 	"max": 20,
 	"name": "Electronic Circuits Lab",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "RNS 294",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 294",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "RNS 294",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 294",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:30",
+			"location": "RNS 294",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +61,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20092,
-	"times": [
-		"M-F 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

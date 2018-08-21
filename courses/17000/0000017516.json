@@ -1,21 +1,30 @@
 {
-	"clbid": 17516,
+	"clbid": "0000017516",
 	"credits": 1.0,
-	"crsid": 1317,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 32,
+	"crsid": "0000001317",
+	"department": "SOAN",
+	"enrolled": 32,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 300,
-	"locations": [
-		"H 302"
-	],
 	"max": 999,
 	"name": "Found Soc Sci Resrch",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 302",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 302",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1995
 }

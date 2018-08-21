@@ -1,14 +1,12 @@
 {
-	"clbid": 120199,
+	"clbid": "0000120199",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001015",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"John A. Bazzachini"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "Tostrud Ctr",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "Tostrud Ctr",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,15 +43,30 @@
 			"_updated": "2018-08-07T14:48:48.749874+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.562255+00:00",
+			"clbid": 120199,
+			"crsid": 1015,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

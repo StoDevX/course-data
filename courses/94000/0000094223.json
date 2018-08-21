@@ -1,14 +1,12 @@
 {
-	"clbid": 94223,
+	"clbid": "0000094223",
 	"credits": 1.0,
-	"crsid": 1130,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001130",
+	"department": "PSCI",
 	"description": [
 		"Machiavelli founded modern political philosophy by asking \"How does the ruler acquire power?\" This course explores how modern political thinkers answered this question by changing the grounds of authority from religious and philosophical foundations to rational ones. Texts include Machiavelli's Prince and Hobbes's Leviathan, Locke's Second Treatise, Rousseau's Social Contract, Marx's Communist Manifesto, and Nietzsche's Use and Abuse of History."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,12 +14,29 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 110"
-	],
 	"max": 19,
 	"name": "Hist Mod Pol Thought",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "History of Modern Political Thought",
 	"type": "Research",
 	"year": 2014

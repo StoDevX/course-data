@@ -1,21 +1,30 @@
 {
-	"clbid": 20487,
+	"clbid": "0000020487",
 	"credits": 0.25,
-	"crsid": 838,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 12,
+	"crsid": "0000000838",
+	"department": "MUSIC",
+	"enrolled": 12,
 	"instructors": [
 		"Dan Dressen"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Diction: Italian Lyric",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

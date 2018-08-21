@@ -1,14 +1,12 @@
 {
-	"clbid": 70105,
+	"clbid": "0000070105",
 	"credits": 1.0,
-	"crsid": 641,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000641",
+	"department": "HIST",
 	"description": [
 		"This course integrates independent research and collective consideration of historical issues. Students discuss significant historical themes (e.g., power, reform, gender, narrative, public history), while working individually on research projects and collectively on critiques and revisions. Designed for majors who are juniors, the seminar is appropriate (but not required) for those considering departmental distinction, academic internships, or participation in the undergraduate research program. With both instructors' consent, students may complete a research project satisfying requirements of the Research Workshop and another seminar. Offered most years."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Eric J. Fure-Slocum"
 	],
 	"level": 300,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 15,
 	"name": "Sem: Hist Res Workshop",
 	"number": 397,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 516",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 516",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "History Research Workshop",
 	"type": "Seminar",
 	"year": 2009

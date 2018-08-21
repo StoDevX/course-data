@@ -1,14 +1,12 @@
 {
-	"clbid": 68606,
+	"clbid": "0000068606",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Offered each semester."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Adam H. Berliner"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 26,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 208",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 208",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 208",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics Placement Recommendation. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

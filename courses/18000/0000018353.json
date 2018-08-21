@@ -1,21 +1,36 @@
 {
-	"clbid": 18353,
+	"clbid": "0000018353",
 	"credits": 1.0,
-	"crsid": 2060,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 4,
+	"crsid": "0000002060",
+	"department": "PARA",
+	"enrolled": 4,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 100,
-	"locations": [
-		"H 514"
-	],
 	"max": 10,
 	"name": "App Math: Real Tools",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 514",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 514",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 514",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

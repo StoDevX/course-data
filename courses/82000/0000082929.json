@@ -1,14 +1,12 @@
 {
-	"clbid": 82929,
+	"clbid": "0000082929",
 	"credits": 1.0,
-	"crsid": 311,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000311",
+	"department": "EDUC",
 	"description": [
 		"Students study theories of and research into human behavior, growth, and development. Through lectures, discussions, case studies and field experiences, students analyze the impact of applied psychology upon schools, teachers, and students. Students also examine the interaction between individual characteristics and needs and political, economic and philosophical issues confronting contemporary American students. Required 20-hour field experience. Recommended to be taken sophomore year to begin the licensure sequence. Offered each semester."
 	],
-	"enroll": 43,
+	"enrolled": 43,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Robert W. McClure"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210",
-		"TOH 210"
-	],
 	"max": 60,
 	"name": "Educ Psychology",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TOH 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TOH 210",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20121,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Educational Psychology",
 	"type": "Research",
 	"year": 2012

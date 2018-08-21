@@ -1,22 +1,36 @@
 {
-	"clbid": 26246,
+	"clbid": "0000026246",
 	"credits": 1.0,
-	"crsid": 158,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 6,
+	"crsid": "0000000158",
+	"department": "BIO",
+	"enrolled": 6,
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 210",
-		"SC 227"
-	],
 	"max": 12,
 	"name": "Cell Physiology",
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 227",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0800-0925",
-		"Th 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

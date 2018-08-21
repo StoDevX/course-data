@@ -1,21 +1,36 @@
 {
-	"clbid": 24513,
+	"clbid": "0000024513",
 	"credits": 1.0,
-	"crsid": 480,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 21,
+	"crsid": "0000000480",
+	"department": "FREN",
+	"enrolled": 21,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 200,
-	"locations": [
-		"M 26"
-	],
 	"max": 30,
 	"name": "Intermed French II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 26",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 11832,
+	"clbid": "0000011832",
 	"credits": 1.0,
-	"crsid": 292,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 13,
+	"crsid": "0000000292",
+	"department": "CSCI",
+	"enrolled": 13,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 30,
 	"name": "Software Design",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 186",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,28 +1,36 @@
 {
-	"clbid": 113724,
+	"clbid": "0000113724",
 	"credits": 1.0,
-	"crsid": 294,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000294",
+	"department": "CSCI",
 	"description": [
 		"This course surveys standard algorithms and data structures with emphasis on implementation experience and complexity analysis. Topics include algorithmic strategies, fundamental computer algorithms, stacks, queues, lists, trees, hash tables, heaps and priority queues, compression, and decompression. Offered annually. Counts toward neuroscience concentration. Prerequisites: MATH 282 (MATH 244 or MATH 252) and CSCI 251, or consent of the instructor."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 20,
 	"name": "Algorithms/Data Struc",
 	"notes": [
 		"Prerequisite: CSCI 251 and a mathematics proof course"
 	],
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 203",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 203",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 282 (MATH 244 or MATH 252) and CSCI 251, or consent of the instructor.",
 	"revisions": [
@@ -61,10 +69,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Algorithms and Data Structures",
 	"type": "Research",
 	"year": 2017

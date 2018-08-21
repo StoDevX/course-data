@@ -1,14 +1,12 @@
 {
-	"clbid": 120923,
+	"clbid": "0000120923",
 	"credits": 1.0,
-	"crsid": 25457,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000025457",
+	"department": "ENGL",
 	"description": [
 		"The 20th century was a period of great achievement in British and Irish literature, as demonstrated by the work of James Joyce, Virginia Woolf, W. B. Yeats, T. S. Eliot, and Samuel Beckett. This course examines the famously innovative work of poets, playwrights, and novelists active during the first half of the century. It then considers postwar writing and the challenges that this literature offered to the ideas and practices associated with modernism. Prerequisite: FYW."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Jonathan T. Naito"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "20C British & Irish Lit",
 	"number": 229,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:49.482768+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.567801+00:00",
+			"clbid": 120923,
+			"crsid": 25457,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Twentieth-Century British and Irish Literature",
 	"type": "Research",
 	"year": 2018

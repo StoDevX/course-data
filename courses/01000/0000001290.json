@@ -1,21 +1,36 @@
 {
-	"clbid": 1290,
+	"clbid": "0000001290",
 	"credits": 1.0,
-	"crsid": 509,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 29,
+	"crsid": "0000000509",
+	"department": "GERM",
+	"enrolled": 29,
 	"instructors": [
 		"Michael Wala"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Intermed German II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 35",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 35",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 35",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

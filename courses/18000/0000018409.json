@@ -1,21 +1,30 @@
 {
-	"clbid": 18409,
+	"clbid": "0000018409",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 13,
+	"crsid": "0000001017",
+	"department": "PEAC",
+	"enrolled": 13,
 	"instructors": [
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"SAC WT RM"
-	],
 	"max": 20,
 	"name": "Wt Training-Men",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC WT RM",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC WT RM",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

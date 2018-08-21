@@ -1,14 +1,12 @@
 {
-	"clbid": 64161,
+	"clbid": "0000064161",
 	"credits": 1.0,
-	"crsid": 854,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000854",
+	"department": "MUSIC",
 	"description": [
 		"This course offers an in-depth study of the music literature and styles of the Baroque, ca. 1600- 1750. Prerequisite: Music 241, 242. Offered in alternate years."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Gerald Hoekstra"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Music of Baroque Era",
 	"number": 342,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 241, 242. Offered in alternate years.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Music of the Baroque Era",
 	"type": "Research",
 	"year": 2008

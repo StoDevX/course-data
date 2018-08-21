@@ -1,21 +1,36 @@
 {
-	"clbid": 17921,
+	"clbid": "0000017921",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 54,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 54,
 	"instructors": [
 		"Louis Henry Kermott"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278"
-	],
 	"max": 48,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 278",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

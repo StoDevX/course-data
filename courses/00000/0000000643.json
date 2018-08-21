@@ -1,21 +1,30 @@
 {
-	"clbid": 643,
+	"clbid": "0000000643",
 	"credits": 1.0,
-	"crsid": 1289,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 30,
+	"crsid": "0000001289",
+	"department": "SOAN",
+	"enrolled": 30,
 	"instructors": [
 		"Michael Gibbons"
 	],
 	"level": 100,
-	"locations": [
-		"H 317"
-	],
 	"max": 30,
 	"name": "Intro to Sociology",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 317",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 317",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

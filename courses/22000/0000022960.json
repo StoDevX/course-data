@@ -1,22 +1,31 @@
 {
-	"clbid": 22960,
+	"clbid": "0000022960",
 	"credits": 0.25,
-	"crsid": 2456,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 13,
+	"crsid": "0000002456",
+	"department": "THEAT",
+	"enrolled": 13,
 	"halfcredit": "1",
 	"instructors": [
 		"Larry Schnoor"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 18,
 	"name": "Fundament of Speaking",
 	"number": 105,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1997
 }

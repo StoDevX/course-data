@@ -1,21 +1,36 @@
 {
-	"clbid": 617,
+	"clbid": "0000000617",
 	"credits": 1.0,
-	"crsid": 1227,
-	"departments": [
-		"REL"
-	],
-	"enroll": 15,
+	"crsid": "0000001227",
+	"department": "REL",
+	"enrolled": 15,
 	"instructors": [
 		"Gary Stansell"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 27,
 	"name": "Old Test/Hebrew Bible",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CH 111",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

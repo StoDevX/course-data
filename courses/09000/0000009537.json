@@ -1,21 +1,36 @@
 {
-	"clbid": 9537,
+	"clbid": "0000009537",
 	"credits": 1.0,
-	"crsid": 645,
-	"departments": [
-		"HSPST"
-	],
-	"enroll": 23,
+	"crsid": "0000000645",
+	"department": "HSPST",
+	"enrolled": 23,
 	"instructors": [
 		"Ariel Strichartz"
 	],
 	"level": 300,
-	"locations": [
-		"OM 026"
-	],
 	"max": 20,
 	"name": "Contemp Latin Am ISS",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 026",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 026",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 026",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

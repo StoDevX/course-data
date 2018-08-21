@@ -1,22 +1,30 @@
 {
-	"clbid": 6340,
+	"clbid": "0000006340",
 	"credits": 1.0,
-	"crsid": 1397,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 14,
+	"crsid": "0000001397",
+	"department": "THEAT",
+	"enrolled": 14,
 	"instructors": [
 		"Brian Bjorklund"
 	],
 	"level": 300,
-	"locations": [
-		"TB Green Rm",
-		"TB Green Rm"
-	],
 	"max": 14,
 	"name": "Scenery/Costume Desgn",
 	"number": 352,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TB Green Rm",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB Green Rm",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

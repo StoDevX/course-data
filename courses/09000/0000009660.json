@@ -1,21 +1,24 @@
 {
-	"clbid": 9660,
+	"clbid": "0000009660",
 	"credits": 0.5,
-	"crsid": 844,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 17,
+	"crsid": "0000000844",
+	"department": "MUSIC",
+	"enrolled": 17,
 	"instructors": [
 		"Dione J. Peterson"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 15,
 	"name": "Choral Lit I",
 	"number": 287,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "CHM 239",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

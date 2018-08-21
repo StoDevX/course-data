@@ -1,25 +1,33 @@
 {
-	"clbid": 66621,
+	"clbid": "0000066621",
 	"credits": 1.0,
-	"crsid": 18778,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000018778",
+	"department": "ENVST",
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Topics may include Literature of the Poles, Environment and Theology, Environmental Justice, and Ecotourism. Class is largely discussion-based but may include a lab/field work component depending on the topic. May be repeated if topics are different."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Dawn Patterson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 297",
-		"RNS 297"
-	],
 	"max": 24,
 	"name": "Top: Conservation Policy",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 297",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 297",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in Environmental Studies",
 	"type": "Topic",
 	"year": 2008

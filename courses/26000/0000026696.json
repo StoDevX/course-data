@@ -1,21 +1,36 @@
 {
-	"clbid": 26696,
+	"clbid": "0000026696",
 	"credits": 1.0,
-	"crsid": 1074,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 49,
+	"crsid": "0000001074",
+	"department": "PHYS",
+	"enrolled": 49,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Principles Physics II",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 170",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1999
 }

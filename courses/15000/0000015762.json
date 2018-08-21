@@ -1,21 +1,30 @@
 {
-	"clbid": 15762,
+	"clbid": "0000015762",
 	"credits": 1.0,
-	"crsid": 78,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 22,
+	"crsid": "0000000078",
+	"department": "ASIAN",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CH 101"
-	],
 	"max": 30,
 	"name": "Asian Cultures",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 101",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 101",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

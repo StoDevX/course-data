@@ -1,28 +1,36 @@
 {
-	"clbid": 121452,
+	"clbid": "0000121452",
 	"credits": 1.0,
-	"crsid": 19414,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000019414",
+	"department": "PSYCH",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 124",
-		"RNS 124"
-	],
 	"max": 6,
 	"name": "Res: Spiritual Life Stories",
 	"notes": [
 		"Permission of instructor required to register."
 	],
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 124",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 124",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -61,15 +69,31 @@
 			"_updated": "2018-08-07T14:48:45.430502+00:00",
 			"enroll": "5",
 			"max": "6"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.367135+00:00",
+			"clbid": 121452,
+			"crsid": 19414,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 5,
+			"enrolled": null,
+			"locations": [
+				"RNS 124",
+				"RNS 124"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2018

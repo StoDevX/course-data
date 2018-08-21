@@ -1,24 +1,39 @@
 {
-	"clbid": 115112,
+	"clbid": "0000115112",
 	"credits": 1.0,
-	"crsid": 711,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000711",
+	"department": "LATIN",
 	"description": [
 		"In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the fall semester."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Steve T. Reece"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 108"
-	],
 	"max": 25,
 	"name": "Beginning Latin I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 108",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 108",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 108",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

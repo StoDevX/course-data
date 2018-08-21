@@ -1,21 +1,36 @@
 {
-	"clbid": 11891,
+	"clbid": "0000011891",
 	"credits": 0.25,
-	"crsid": 363,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 10,
+	"crsid": "0000000363",
+	"department": "DNCTE",
+	"enrolled": 10,
 	"instructors": [
 		"Janice Roberts"
 	],
 	"level": 300,
-	"locations": [
-		"CAD _STUDIO_1"
-	],
 	"max": 10,
 	"name": "Modern III",
 	"number": 311,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD _STUDIO_1",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD _STUDIO_1",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:30",
+			"location": "CAD _STUDIO_1",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

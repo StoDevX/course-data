@@ -1,21 +1,36 @@
 {
-	"clbid": 2355,
+	"clbid": "0000002355",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 27,
+	"crsid": "0000001012",
+	"department": "PEAC",
+	"enrolled": 27,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

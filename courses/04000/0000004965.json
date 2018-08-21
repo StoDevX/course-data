@@ -1,22 +1,30 @@
 {
-	"clbid": 4965,
+	"clbid": "0000004965",
 	"credits": 1.0,
-	"crsid": 417,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 17,
+	"crsid": "0000000417",
+	"department": "ENGL",
+	"enrolled": 17,
 	"instructors": [
 		"Jan C. Hill"
 	],
 	"level": 200,
-	"locations": [
-		"RML 520",
-		"RML 520"
-	],
 	"max": 15,
 	"name": "Journalistic Writing",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 520",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 520",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

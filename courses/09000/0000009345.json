@@ -1,21 +1,24 @@
 {
-	"clbid": 9345,
+	"clbid": "0000009345",
 	"credits": 0.5,
-	"crsid": 335,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 8,
+	"crsid": "0000000335",
+	"department": "EDUC",
+	"enrolled": 8,
 	"instructors": [
 		"Mark Schelske"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 30,
 	"name": "Counsel/Comm Schools",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "FH 10",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0800-0925"
-	],
 	"type": "Research",
 	"year": 2004
 }

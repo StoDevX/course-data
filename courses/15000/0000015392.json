@@ -1,21 +1,30 @@
 {
-	"clbid": 15392,
+	"clbid": "0000015392",
 	"credits": 1.0,
-	"crsid": 1332,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 11,
+	"crsid": "0000001332",
+	"department": "SPAN",
+	"enrolled": 11,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 21"
-	],
 	"max": 20,
 	"name": "Cult & Civ in Lat Am",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 21",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 21",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,23 +1,49 @@
 {
-	"clbid": 21945,
+	"clbid": "0000021945",
 	"credits": 1.0,
-	"crsid": 1552,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 18,
+	"crsid": "0000001552",
+	"department": "CHEM",
+	"enrolled": 18,
 	"instructors": [
 		"Beth Abdella",
 		"Mary Walczak"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374",
-		"SC 374"
-	],
 	"max": 24,
 	"name": "Environmental Chem",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "SC 374",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "SC 374",
+			"start": "10:40"
+		},
+		{
+			"day": "Mo",
+			"end": "11:50",
+			"location": "SC 374",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "11:50",
+			"location": "SC 374",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "11:50",
+			"location": "SC 374",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +61,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19972,
-	"times": [
-		"TTh 1040-1240PM",
-		"MWF 1040-1150"
-	],
 	"type": "Research",
 	"year": 1997
 }

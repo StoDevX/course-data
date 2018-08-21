@@ -1,14 +1,12 @@
 {
-	"clbid": 95811,
+	"clbid": "0000095811",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001168",
+	"department": "PSYCH",
 	"description": [
 		"This course helps students better understand human development from the moment of conception and across the life span. The course focuses on biological and environmental factors that shape human development. Major changes in physical, cognitive, personality and social development are discussed. Offered each semester. Counts toward nursing, social work, and women's and gender studies majors and educational studies, family studies, and women's and gender studies concentrations. Prerequisite: PSYCH 125."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Anna E. Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 24,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Developmental Psychology",
 	"type": "Research",
 	"year": 2014

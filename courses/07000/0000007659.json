@@ -1,22 +1,42 @@
 {
-	"clbid": 7659,
+	"clbid": "0000007659",
 	"credits": 1.0,
-	"crsid": 102,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
+	"crsid": "0000000102",
+	"department": "BIO",
+	"enrolled": 23,
 	"instructors": [
 		"Alan F. Ernst"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280",
-		"SC 253"
-	],
 	"max": 22,
 	"name": "Human Biology",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SC 253",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000",
-		"Th 0800-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

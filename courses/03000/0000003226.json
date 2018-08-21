@@ -1,21 +1,36 @@
 {
-	"clbid": 3226,
+	"clbid": "0000003226",
 	"credits": 1.0,
-	"crsid": 774,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 35,
+	"crsid": "0000000774",
+	"department": "MGMT",
+	"enrolled": 35,
 	"instructors": [
 		"Mary Ann Emery"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 28,
 	"name": "Managerial/Cost Acct",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

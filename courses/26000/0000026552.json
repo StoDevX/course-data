@@ -1,21 +1,30 @@
 {
-	"clbid": 26552,
+	"clbid": "0000026552",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000762",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110"
-	],
 	"max": 999,
 	"name": "Sem:",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 110",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

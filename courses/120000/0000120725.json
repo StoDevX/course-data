@@ -1,27 +1,30 @@
 {
-	"clbid": 120725,
+	"clbid": "0000120725",
 	"credits": 0.25,
-	"crsid": 1102,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001102",
+	"department": "PHYS",
 	"description": [
 		"Seniors and faculty members study topics of current interest. Discussions are based on journal articles, other readings, library research, and presentations by faculty, participants, or visitors. P/N only. Available on request. May be repeated if topic is different. Prerequisites: PHYS 374 and PHYS 375."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 24,
 	"name": "Sem: Senior",
 	"notes": [
 		"Open to Seniors only."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "RNS 297",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: PHYS 374 and PHYS 375.",
 	"revisions": [
@@ -38,14 +41,29 @@
 			"_updated": "2018-08-07T14:48:49.066912+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.350788+00:00",
+			"clbid": 120725,
+			"crsid": 1102,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 297"
+			],
+			"offerings": null,
+			"times": [
+				"F 0200-0300PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"F 0200-0300PM"
-	],
 	"title": "Senior Seminar",
 	"type": "Seminar",
 	"year": 2018

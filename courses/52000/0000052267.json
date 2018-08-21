@@ -1,25 +1,33 @@
 {
-	"clbid": 52267,
+	"clbid": "0000052267",
 	"credits": 0.25,
-	"crsid": 808,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000808",
+	"department": "MUSIC",
 	"description": [
 		"Piano Class II continues the instruction begun in Music 161. Prerequisite: Music 161. Offered Spring Semester."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"instructors": [
 		"Paul A. Hisey"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "CHM 222",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CHM 222",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 161. Offered Spring Semester.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 1145-1240",
-		"Th 1245-0140PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

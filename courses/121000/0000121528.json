@@ -1,25 +1,33 @@
 {
-	"clbid": 121528,
+	"clbid": "0000121528",
 	"credits": 1.0,
-	"crsid": 634,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000634",
+	"department": "HIST",
 	"description": [
 		"This seminar covers varying topics in East Asian history. Recent topics have included \"World War II in East Asia and the Pacific\" and \"Nationalism and Communism in Southeast Asia.\" May be repeated if topic is different. Offered periodically. Prerequisite: history or Asian studies major or permission of the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Stephanie Montgomery"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 18,
 	"name": "Sem: East Asia",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "history or Asian studies major or permission of the instructor.",
 	"revisions": [
@@ -47,15 +55,31 @@
 			"_updated": "2018-08-07T14:48:49.630585+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.732289+00:00",
+			"clbid": 121528,
+			"crsid": 634,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "East Asia Seminar",
 	"type": "Seminar",
 	"year": 2018

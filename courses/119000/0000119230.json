@@ -1,25 +1,28 @@
 {
-	"clbid": 119230,
+	"clbid": "0000119230",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000199",
+	"department": "CHEM",
 	"description": [
 		"This laboratory course introduces students to the synthesis and characterization of organic,organometallic and inorganic compounds and serves as a general introduction to green chemistry. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements, infrared spectroscopy, and nuclear magnetic resonance spectroscopy. Students attend one three-hour laboratory each week. P/N only. Offered annually in the fall semester. Counts toward biomolecular science concentration. Prerequisite: previous or concurrent registration in CHEM 247."
 	],
-	"enroll": 15,
-	"groupid": 196,
+	"enrolled": 15,
+	"groupid": "0000000196",
 	"instructors": [
 		"Peter J. Gittins"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 18,
 	"name": "Synthesis Lab I",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 340",
+			"start": "11:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": "previous or concurrent registration in CHEM 247.",
 	"revisions": [
@@ -52,15 +55,31 @@
 			"_updated": "2018-08-07T14:48:45.328822+00:00",
 			"enroll": "15",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.125606+00:00",
+			"clbid": 119230,
+			"crsid": 199,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 15,
+			"enrolled": null,
+			"groupid": 196,
+			"locations": [
+				"RNS 340"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0245PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",
 	"year": 2018

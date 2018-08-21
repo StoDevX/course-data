@@ -1,21 +1,36 @@
 {
-	"clbid": 9880,
+	"clbid": "0000009880",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 26,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 26,
 	"instructors": [
 		"Mary E. Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

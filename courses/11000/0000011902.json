@@ -1,24 +1,39 @@
 {
-	"clbid": 11902,
+	"clbid": "0000011902",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000392",
+	"department": "ENGL",
 	"description": [
 		"Students encounter a selection of literature from many different English-speaking countries. The course offers an introduction to the analysis and interpretation of a variety of literary genres. The writing can include both formal and creative assignments. The course is required of those beginning the English major. It is not recommended for general education students."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Colin Wells"
 	],
 	"level": 100,
-	"locations": [
-		"RML 515"
-	],
 	"max": 25,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 121865,
+	"clbid": "0000121865",
 	"credits": 1.0,
-	"crsid": 27403,
-	"departments": [
-		"LAMST"
-	],
+	"crsid": "0000027403",
+	"department": "LAMST",
 	"description": [
 		"This seminar focuses on the implications of studying Latin America, or the way in which different conceptualizations of this region have helped to shape Latin America as an object of study. Possible topics for approaching this question include the history of Latin American studies in the United States and the relation between scholarship on Latin America and U.S. policy in the region; Latin American responses to U.S. representations of the region; the production of images of lo indigena according to Western expectations; and indigenous cultures and globalization. FLAC option is often available. Offered alternate years."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Jeane DeLaney"
 	],
 	"level": 300,
-	"locations": [
-		"HH 429",
-		"HH 429"
-	],
 	"max": 15,
 	"name": "Contemp Latin Am Issues",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 429",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 429",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:45.538745+00:00",
 			"enroll": "13",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.634722+00:00",
+			"clbid": 121865,
+			"crsid": 27403,
+			"department": null,
+			"departments": [
+				"LAMST"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"HH 429",
+				"HH 429"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Contemporary Latin American Issues",
 	"type": "Research",
 	"year": 2018

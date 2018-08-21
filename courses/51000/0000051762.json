@@ -1,23 +1,18 @@
 {
-	"clbid": 51762,
+	"clbid": "0000051762",
 	"credits": 1.0,
-	"crsid": 194,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000194",
+	"department": "CHEM",
 	"description": [
 		"This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one 3-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123, and Mathematics 119, 120, or 122 or permission of instructor."
 	],
-	"enroll": 52,
-	"groupid": 194,
+	"enrolled": 52,
+	"groupid": "0000000194",
 	"grouptype": "2",
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 60,
 	"name": "Chemical Reactions",
 	"notes": [
@@ -25,6 +20,26 @@
 		"Chem 126 EL, FL, GL, or HL."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 378",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 378",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 378",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 125, or 121 and 123, and Mathematics 119, 120, or 122 or permission of instructor.",
 	"revisions": [
@@ -47,9 +62,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Energies and Rates of Chemical Reactions",
 	"type": "Research",
 	"year": 2006

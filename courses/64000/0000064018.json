@@ -1,24 +1,39 @@
 {
-	"clbid": 64018,
+	"clbid": "0000064018",
 	"credits": 0.25,
-	"crsid": 819,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000819",
+	"department": "MUSIC",
 	"description": [
 		"Intended for students in vocal music education, this course introduces fundamental characteristics of orchestral and band instruments, including orchestration, instrument ranges and transposition. Prerequisite: Music 114 and junior standing. Offered Fall Semester, 2006-2007 and alternate years."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Justin W. Merritt"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 16,
 	"name": "Instrumentation",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 114 and junior standing. Offered Fall Semester, 2006-2007 and alternate years.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

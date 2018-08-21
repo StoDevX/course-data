@@ -1,14 +1,12 @@
 {
-	"clbid": 103929,
+	"clbid": "0000103929",
 	"credits": 1.0,
-	"crsid": 1165,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001165",
+	"department": "PSYCH",
 	"description": [
 		"How do biological factors influence fundamental aspects of psychology and behavior? In this course, students learn about relationships between the brain and behavior and use neuroanatomical, physiological, and biochemical levels of analysis to understand basic behavioral processes and systems, including sensation, movement, emotion, sleep and arousal, hunger, motivation, learning, and psychopathology. Offered each semester. Counts toward biology major and neuroscience concentration and biomedical studies concentration (for students through class of 2016). Prerequisite: PSYCH 125 or BIO 123, BIO 227 or CH/BI 227."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Dorea Ruggles"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 150"
-	],
 	"max": 30,
 	"name": "Biopsychology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 150",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 150",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 150",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125 or BIO 123, BIO 227 or CH/BI 227.",
 	"revisions": [
@@ -50,9 +65,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

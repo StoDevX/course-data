@@ -1,21 +1,36 @@
 {
-	"clbid": 20051,
+	"clbid": "0000020051",
 	"credits": 1.0,
-	"crsid": 60,
-	"departments": [
-		"ART"
-	],
-	"enroll": 19,
+	"crsid": "0000000060",
+	"department": "ART",
+	"enrolled": 19,
 	"instructors": [
 		"Perette Michelli"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 30,
 	"name": "Medieval",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

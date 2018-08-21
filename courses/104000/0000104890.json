@@ -1,14 +1,12 @@
 {
-	"clbid": 104890,
+	"clbid": "0000104890",
 	"credits": 1.0,
-	"crsid": 30095,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000030095",
+	"department": "PSYCH",
 	"description": [
 		"Many psychological processes once assumed to be similar around the world are actually powerfully influenced by culture. This course explores ways in which cultural context affects psychological experience, including cognition, emotion, personality, values, social behavior, and subjective well-being. Students study the methods, constructs, and findings of cultural psychology, and reflect on their own cultural experiences; thus this course is particularly appropriate for students returning from or preparing to study abroad. Offered most years. Prerequisite: PSYCH 125."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"HBS",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Donna K. McMillan"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 15,
 	"name": "Culture and Place in Psychology",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 290",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 290",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -67,10 +75,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

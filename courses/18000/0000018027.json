@@ -1,21 +1,30 @@
 {
-	"clbid": 18027,
+	"clbid": "0000018027",
 	"credits": 1.0,
-	"crsid": 1586,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 14,
+	"crsid": "0000001586",
+	"department": "ECON",
+	"enrolled": 14,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 25,
 	"name": "Managerial/Cost Acct",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

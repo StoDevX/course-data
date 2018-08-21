@@ -1,22 +1,25 @@
 {
-	"clbid": 120143,
+	"clbid": "0000120143",
 	"credits": 0.0,
-	"crsid": 140,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 139,
+	"crsid": "0000000140",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000000139",
 	"instructors": [
 		"Kathleen L. Shea"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 440"
-	],
 	"max": 22,
 	"name": "Ecological Principles Lab",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 440",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:48.724628+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.494073+00:00",
+			"clbid": 120143,
+			"crsid": 140,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 139,
+			"locations": [
+				"RNS 440"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0420PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 678,
+	"clbid": "0000000678",
 	"credits": 1.0,
-	"crsid": 1331,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001331",
+	"department": "SPAN",
+	"enrolled": 17,
 	"instructors": [
 		"Gwendolyn Barnes-Karol"
 	],
 	"level": 200,
-	"locations": [
-		"M 21"
-	],
 	"max": 25,
 	"name": "Cult & Civ of Spain",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 21",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 21",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

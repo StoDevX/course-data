@@ -1,22 +1,25 @@
 {
-	"clbid": 96349,
+	"clbid": "0000096349",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 25,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 25,
+	"groupid": "0000001402",
 	"instructors": [
 		"Laura F. Boehm"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 27,
 	"name": "Prin of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RML 115",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"F 0800-0855"
-	],
 	"type": "Lab",
 	"year": 2014
 }

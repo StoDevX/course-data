@@ -1,21 +1,24 @@
 {
-	"clbid": 7101,
+	"clbid": "0000007101",
 	"credits": 1.0,
-	"crsid": 777,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 30,
+	"crsid": "0000000777",
+	"department": "MGMT",
+	"enrolled": 30,
 	"instructors": [
 		"Liska Rutherford"
 	],
 	"level": 200,
-	"locations": [
-		"HH 403"
-	],
 	"max": 30,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 403",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

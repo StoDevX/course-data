@@ -1,14 +1,12 @@
 {
-	"clbid": 118752,
+	"clbid": "0000118752",
 	"credits": 1.0,
-	"crsid": 21509,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000021509",
+	"department": "ENGL",
 	"description": [
 		"In this course students read contemporary poetry and write intensively, exploring the writer's craft. Students peer-edit each others' writing. Prerequisites: FYW and at least sophomore status."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Jennifer Kwon Dobbs"
 	],
 	"level": 200,
-	"locations": [
-		"RML 520"
-	],
 	"max": 18,
 	"name": "Intermediate Poetry Writing",
 	"number": 292,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 520",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 520",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 520",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: FYW and at least sophomore status.",
 	"revisions": [
@@ -56,14 +71,29 @@
 			"_updated": "2018-08-07T14:48:45.051946+00:00",
 			"enroll": "18",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.424452+00:00",
+			"clbid": 118752,
+			"crsid": 21509,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"RML 520"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

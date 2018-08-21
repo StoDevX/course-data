@@ -1,11 +1,9 @@
 {
-	"clbid": 121474,
+	"clbid": "0000121474",
 	"credits": 1.0,
-	"crsid": 17201,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 0,
+	"crsid": "0000017201",
+	"department": "HIST",
+	"enrolled": 0,
 	"gereqs": [
 		"HWC",
 		"MCD"
@@ -14,12 +12,41 @@
 		"Christopher M. Elias"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 30,
 	"name": "Top: Race/Gender/Sports in America",
 	"number": 297,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,14 +59,29 @@
 			"_updated": "2018-08-07T14:48:46.897480+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.099551+00:00",
+			"clbid": 121474,
+			"crsid": 17201,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"title": "Topical Seminar",
 	"type": "Topic",
 	"year": 2018

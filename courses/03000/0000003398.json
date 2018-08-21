@@ -1,21 +1,30 @@
 {
-	"clbid": 3398,
+	"clbid": "0000003398",
 	"credits": 1.0,
-	"crsid": 1128,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 28,
+	"crsid": "0000001128",
+	"department": "PSCI",
+	"enrolled": 28,
 	"instructors": [
 		"Kurt Burch"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 20,
 	"name": "World Politics",
 	"number": 258,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 31",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 31",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

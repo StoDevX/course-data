@@ -1,21 +1,30 @@
 {
-	"clbid": 1338,
+	"clbid": "0000001338",
 	"credits": 1.0,
-	"crsid": 1869,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000001869",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 300,
-	"locations": [
-		"L 577"
-	],
 	"max": 14,
 	"name": "Us Sem: 19th Cent Soc",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

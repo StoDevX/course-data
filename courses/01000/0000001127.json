@@ -1,21 +1,30 @@
 {
-	"clbid": 1127,
+	"clbid": "0000001127",
 	"credits": 1.0,
-	"crsid": 267,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 10,
+	"crsid": "0000000267",
+	"department": "ECON",
+	"enrolled": 10,
 	"instructors": [
 		"Rebecca Judge"
 	],
 	"level": 200,
-	"locations": [
-		"H 501"
-	],
 	"max": 25,
 	"name": "Environmental Econ",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 501",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 501",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

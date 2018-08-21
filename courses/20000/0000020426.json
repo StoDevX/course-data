@@ -1,21 +1,36 @@
 {
-	"clbid": 20426,
+	"clbid": "0000020426",
 	"credits": 1.0,
-	"crsid": 1936,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 30,
+	"crsid": "0000001936",
+	"department": "MATH",
+	"enrolled": 30,
 	"instructors": [
 		"Michael Kahn"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Elementary Statistics",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

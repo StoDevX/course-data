@@ -1,30 +1,38 @@
 {
-	"clbid": 50098,
+	"clbid": "0000050098",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential and logarithmic functions. Derivatives and integrals are explored graphically, symbolically and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Credit may be earned for either Mathematics 120 or 122, but not both."
 	],
-	"enroll": 59,
-	"groupid": 731,
+	"enrolled": 59,
+	"groupid": "0000000731",
 	"grouptype": "2",
 	"instructors": [
 		"Kristina Garrett"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 60,
 	"name": "Calculus I",
 	"notes": [
 		"Students in Math 120B must also register for one lab Math 120DL, EL, or FL."
 	],
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 305",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 305",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics Placement Recommendation. Credit may be earned for either Mathematics 120 or 122, but not both.",
 	"revisions": [
@@ -54,10 +62,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

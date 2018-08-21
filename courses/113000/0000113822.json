@@ -1,24 +1,33 @@
 {
-	"clbid": 113822,
+	"clbid": "0000113822",
 	"credits": 1.0,
-	"crsid": 218,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000218",
+	"department": "CHEM",
 	"description": [
 		"This course builds depth of biochemical understanding upon the foundation laid in CHEM 379. Contents may include selected topics in catabolic and anabolic metabolism, integration and regulation of metabolism, photosynthesis and biochemical genetics. In addition, students will gain experience with the primary literature. Offered annually in the spring semester. Counts toward biomolecular science concentration. Prerequisite: CHEM 379."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"instructors": [
 		"Oleksandr Gakh"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 12,
 	"name": "Biochemistry II",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "09:30",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:30",
+			"location": "RNS 435",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 379.",
 	"revisions": [
@@ -64,9 +73,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MW 0800-0930"
-	],
 	"type": "Research",
 	"year": 2017
 }

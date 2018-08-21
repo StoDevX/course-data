@@ -1,24 +1,39 @@
 {
-	"clbid": 52935,
+	"clbid": "0000052935",
 	"credits": 1.0,
-	"crsid": 290,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000290",
+	"department": "CSCI",
 	"description": [
 		"Students learn about formal languages, automata, and other topics concerned with the theoretical basis and limitations of computation. The course covers automata theory including regular languages and context-free languages, computability theory, complexity theory including classes P and NP, and cryptographic algorithms. Prerequisite: Computer Science 231 or permission of instructor."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 110"
-	],
 	"max": 30,
 	"name": "Theory of Computation",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 110",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Computer Science 231 or permission of instructor.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

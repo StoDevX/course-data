@@ -1,14 +1,12 @@
 {
-	"clbid": 110067,
+	"clbid": "0000110067",
 	"credits": 1.0,
-	"crsid": 30424,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000030424",
+	"department": "NORW",
 	"description": [
 		"Students engage with the Viking heritage from its Nordic origin to Hollywood superheroes inspired by Norse mythology. Students examine Old Norse literature, with its accounts of Odin, Thor and Loki in Eddic poetry, as well as the Icelandic sagas of Norwegian kings, Viking warriors and voyagers, including the first European encounter with North America. In the latter half of the course, students move on to both contemporary Nordic and American reworking of that heritage in literature, film and television."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,29 @@
 		"Bjorn Nordfjord"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 108"
-	],
 	"max": 20,
 	"name": "Vikings Past and Present",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2016
 }

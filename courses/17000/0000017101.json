@@ -1,21 +1,30 @@
 {
-	"clbid": 17101,
+	"clbid": "0000017101",
 	"credits": 1.0,
-	"crsid": 617,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 10,
+	"crsid": "0000000617",
+	"department": "HIST",
+	"enrolled": 10,
 	"instructors": [
 		"Frieda Knobloch"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 35,
 	"name": "Amer Environmental",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 301",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 301",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

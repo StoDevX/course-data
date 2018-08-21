@@ -1,25 +1,33 @@
 {
-	"clbid": 93637,
+	"clbid": "0000093637",
 	"credits": 1.0,
-	"crsid": 763,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000763",
+	"department": "MATH",
 	"description": [
 		"Students work intensively on a special topic in applied mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 400",
-		"RNS 400"
-	],
 	"max": 15,
 	"name": "Sem: Algor/Decision Mkg",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 400",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 400",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Applied Mathematics",
 	"type": "Seminar",
 	"year": 2013

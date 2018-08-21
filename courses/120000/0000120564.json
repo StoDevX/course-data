@@ -1,14 +1,12 @@
 {
-	"clbid": 120564,
+	"clbid": "0000120564",
 	"credits": 1.0,
-	"crsid": 368,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000368",
+	"department": "DANCE",
 	"description": [
 		"Students learn, embody, and integrate elements of dance and film by engaging in the creative practice of making dance for the screen. Each student gains experience as a director, performer, videographer, editor, and critic in this collaborative learning community. Students discuss and analyze live movement studies, screendances by peers and professionals, and relevant texts. Other technologies, such as 3D character animation and reactive/interactive technology, may be introduced. The class culminates with an evening public showing. Offered annually in the spring semester. Counts toward media and film studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,15 +14,32 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 100"
-	],
 	"max": 15,
 	"name": "Movement/Camera/Process",
 	"notes": [
 		"This class will also meet in CAD Studio 1."
 	],
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 100",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 100",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 100",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,14 +52,29 @@
 			"_updated": "2018-08-07T14:48:48.979898+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.141892+00:00",
+			"clbid": 120564,
+			"crsid": 368,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 100"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-1000"
-	],
 	"title": "Movement, the Camera, and the Creative Process",
 	"type": "Research",
 	"year": 2018

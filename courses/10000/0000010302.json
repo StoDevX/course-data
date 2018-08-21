@@ -1,26 +1,34 @@
 {
-	"clbid": 10302,
+	"clbid": "0000010302",
 	"credits": 1.0,
-	"crsid": 141,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 26,
-	"groupid": 141,
+	"crsid": "0000000141",
+	"department": "BIO",
+	"enrolled": 26,
+	"groupid": "0000000141",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 274"
-	],
 	"max": 32,
 	"name": "Limnology",
 	"notes": [
 		"Students in Biology 263 must also register for one lab section 263AL or BL."
 	],
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 274",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2005
 }

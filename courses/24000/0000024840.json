@@ -1,21 +1,36 @@
 {
-	"clbid": 24840,
+	"clbid": "0000024840",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 37,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 37,
 	"instructors": [
 		"Rodney G. Grubb"
 	],
 	"level": 100,
-	"locations": [
-		"SC 282"
-	],
 	"max": 45,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

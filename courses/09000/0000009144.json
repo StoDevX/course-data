@@ -1,22 +1,37 @@
 {
-	"clbid": 9144,
+	"clbid": "0000009144",
 	"credits": 1.0,
-	"crsid": 32,
-	"departments": [
-		"ART"
-	],
-	"enroll": 48,
+	"crsid": "0000000032",
+	"department": "ART",
+	"enrolled": 48,
 	"instructors": [
 		"Nancy M. Thompson",
 		"Matthew Rohn"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 50,
 	"name": "Intro/Art History II",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

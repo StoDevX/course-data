@@ -1,22 +1,25 @@
 {
-	"clbid": 76152,
+	"clbid": "0000076152",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 24,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 24,
+	"groupid": "0000000187",
 	"instructors": [
 		"Annalisa M. Jordan"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 24,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "RNS 350",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

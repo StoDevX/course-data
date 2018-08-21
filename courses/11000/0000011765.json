@@ -1,21 +1,24 @@
 {
-	"clbid": 11765,
+	"clbid": "0000011765",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 23,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 23,
 	"instructors": [
 		"Dwight R. Stoll"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/371"
-	],
 	"max": 28,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "18:00",
+			"location": "SC 374/371",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"Th 0300-0600PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

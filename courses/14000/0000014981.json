@@ -1,21 +1,30 @@
 {
-	"clbid": 14981,
+	"clbid": "0000014981",
 	"credits": 1.0,
-	"crsid": 1816,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 18,
+	"crsid": "0000001816",
+	"department": "HIST",
+	"enrolled": 18,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"YH 100"
-	],
 	"max": 35,
 	"name": "America 1607-1865",
 	"number": 205,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:35",
+			"location": "YH 100",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:35",
+			"location": "YH 100",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1035"
-	],
 	"type": "Research",
 	"year": 1994
 }

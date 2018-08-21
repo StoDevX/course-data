@@ -1,22 +1,30 @@
 {
-	"clbid": 6133,
+	"clbid": "0000006133",
 	"credits": 0.25,
-	"crsid": 1003,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 24,
+	"crsid": "0000001003",
+	"department": "PEAC",
+	"enrolled": 24,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_FH",
-		"SAC_FH"
-	],
 	"max": 24,
 	"name": "Ultimate Frisbee",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC_FH",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC_FH",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

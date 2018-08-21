@@ -1,21 +1,30 @@
 {
-	"clbid": 21587,
+	"clbid": "0000021587",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001020",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Dick Daymont"
 	],
 	"level": 100,
-	"locations": [
-		"SAC N GYM"
-	],
 	"max": 20,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC N GYM",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC N GYM",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

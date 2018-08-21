@@ -1,22 +1,17 @@
 {
-	"clbid": 50838,
+	"clbid": "0000050838",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001072",
+	"department": "PHYS",
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level."
 	],
-	"enroll": 64,
-	"groupid": 1072,
+	"enrolled": 64,
+	"groupid": "0000001072",
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Principles Physics I",
 	"notes": [
@@ -24,6 +19,26 @@
 		"DL, EL, or FL."
 	],
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Physics I",
 	"type": "Research",
 	"year": 2006

@@ -1,14 +1,12 @@
 {
-	"clbid": 115924,
+	"clbid": "0000115924",
 	"credits": 1.0,
-	"crsid": 51,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000051",
+	"department": "ART",
 	"description": [
 		"This course introduces modern industrial culture and thought through a study of painting, sculpture, architecture, and related arts. Students learn about the strikingly new modes of art created in Europe and the United States after 1880, examining work by Edvard Munch, Frank Lloyd Wright, Pablo Picasso, Hannah Höch, and many others. Offered annually."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"ALS-A",
 		"HWC"
@@ -17,12 +15,29 @@
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Art 1880-1945",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Art 1880-1945 \"The Shock of the New\"",
 	"type": "Research",
 	"year": 2017

@@ -1,21 +1,30 @@
 {
-	"clbid": 22400,
+	"clbid": "0000022400",
 	"credits": 1.0,
-	"crsid": 1669,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 26,
+	"crsid": "0000001669",
+	"department": "ENGL",
+	"enrolled": 26,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 100,
-	"locations": [
-		"L 420"
-	],
 	"max": 25,
 	"name": "Intr/Literary Studies",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 12346,
+	"clbid": "0000012346",
 	"credits": 1.0,
-	"crsid": 1194,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001194",
+	"department": "REL",
 	"description": [
 		"This course treats the major moments of theology by focusing on five or six important theological figures, movements or texts spanning ancient, medieval and modern Christian theology."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Elizabeth C. Galbraith"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 25,
 	"name": "The Greats",
 	"number": 203,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "BMC 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "BMC 110",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "BMC 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

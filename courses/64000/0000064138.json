@@ -1,14 +1,12 @@
 {
-	"clbid": 64138,
+	"clbid": "0000064138",
 	"credits": 1.0,
-	"crsid": 611,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000611",
+	"department": "HIST",
 	"description": [
 		"This survey of modern Japan from about 1800 to the present examines the political transformation of the Meiji Restoration, the industrial revolution and social and cultural change, the rise and fall of party government, militarism and Japanese expansionism in World War II, the American occupation, and postwar social, political, economic, and cultural developments. Offered most years."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Robert Entenmann"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413",
-		"HH 413"
-	],
 	"max": 27,
 	"name": "Modern Japan",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 413",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 413",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

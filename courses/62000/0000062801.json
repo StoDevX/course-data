@@ -1,22 +1,25 @@
 {
-	"clbid": 62801,
+	"clbid": "0000062801",
 	"credits": 0.0,
-	"crsid": 140,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 17,
-	"groupid": 139,
+	"crsid": "0000000140",
+	"department": "BIO",
+	"enrolled": 17,
+	"groupid": "0000000139",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 440"
-	],
 	"max": 17,
 	"name": "Ecological Principles Lab",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 440",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2008
 }

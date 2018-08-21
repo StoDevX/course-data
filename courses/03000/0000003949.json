@@ -1,21 +1,36 @@
 {
-	"clbid": 3949,
+	"clbid": "0000003949",
 	"credits": 1.0,
-	"crsid": 477,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 16,
+	"crsid": "0000000477",
+	"department": "FREN",
+	"enrolled": 16,
 	"instructors": [
 		"M. Clare Mather"
 	],
 	"level": 100,
-	"locations": [
-		"M 26"
-	],
 	"max": 25,
 	"name": "Beginning French II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

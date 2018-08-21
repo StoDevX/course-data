@@ -1,14 +1,12 @@
 {
-	"clbid": 118751,
+	"clbid": "0000118751",
 	"credits": 1.0,
-	"crsid": 713,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000713",
+	"department": "LATIN",
 	"description": [
 		"Third-semester Latin students translate large portions of two orations (First Catilinarian, Pro Caelio) by Cicero and selections from Catullus' poetry while reviewing vocabulary, grammar, and syntax. Topics for class discussion include life in late Republican Rome and the stylistic features of the literature. Offered annually in the fall semester. Counts toward linguistic studies concentration. Prerequisite: LATIN 112 or equivalent."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,12 +14,29 @@
 		"Anne Groton"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 25,
 	"name": "Intermediate Latin",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 114",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 114",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 114",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 112 or equivalent.",
 	"revisions": [
@@ -60,15 +75,30 @@
 		{
 			"_updated": "2018-08-17T03:36:13.019136+00:00",
 			"enroll": 23
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.421984+00:00",
+			"clbid": 118751,
+			"crsid": 713,
+			"department": null,
+			"departments": [
+				"LATIN"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"TOH 114"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 8012,
+	"clbid": "0000008012",
 	"credits": 1.0,
-	"crsid": 612,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 33,
+	"crsid": "0000000612",
+	"department": "HIST",
+	"enrolled": 33,
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307"
-	],
 	"max": 35,
 	"name": "South Africa",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 307",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 307",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 307",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

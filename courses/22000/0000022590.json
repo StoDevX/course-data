@@ -1,21 +1,36 @@
 {
-	"clbid": 22590,
+	"clbid": "0000022590",
 	"credits": 0.25,
-	"crsid": 799,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000000799",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 30,
 	"name": "Ear/Keyboard I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

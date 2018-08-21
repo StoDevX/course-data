@@ -1,21 +1,30 @@
 {
-	"clbid": 15911,
+	"clbid": "0000015911",
 	"credits": 1.0,
-	"crsid": 329,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 20,
+	"crsid": "0000000329",
+	"department": "EDUC",
+	"enrolled": 20,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Tchg Music-Elem Schls",
 	"number": 355,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

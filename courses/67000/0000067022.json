@@ -1,28 +1,43 @@
 {
-	"clbid": 67022,
+	"clbid": "0000067022",
 	"credits": 1.0,
-	"crsid": 1062,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001062",
+	"department": "ESTH",
 	"description": [
 		"Students analyze mechanical principles in depth as they affect human motion. Topics include study of muscular and skeletal systems, skill analysis, and motion measurement techniques. The course included a laboratory component. Prerequisite: Biology 125 or consent of instructor. Offered every year."
 	],
-	"enroll": 16,
-	"groupid": 1062,
+	"enrolled": 16,
+	"groupid": "0000001062",
 	"instructors": [
 		"William Sean Goldsworthy"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Biomechanics",
 	"notes": [
 		"Students in ESTH 374 must also register for lab ESTH 374L."
 	],
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SAC 103",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Biology 125 or consent of instructor. Offered every year.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20091,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2009
 }

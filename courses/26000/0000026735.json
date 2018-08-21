@@ -1,21 +1,30 @@
 {
-	"clbid": 26735,
+	"clbid": "0000026735",
 	"credits": 1.0,
-	"crsid": 1147,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 15,
+	"crsid": "0000001147",
+	"department": "PSCI",
+	"enrolled": 15,
 	"instructors": [
 		"Andrew Seligsohn"
 	],
 	"level": 300,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Am Const Law: Limitat",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

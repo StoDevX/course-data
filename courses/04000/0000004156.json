@@ -1,21 +1,30 @@
 {
-	"clbid": 4156,
+	"clbid": "0000004156",
 	"credits": 1.0,
-	"crsid": 949,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 20,
+	"crsid": "0000000949",
+	"department": "NURS",
+	"enrolled": 20,
 	"instructors": [
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"H 215"
-	],
 	"max": 20,
 	"name": "Application/Nurs Conc",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "H 215",
+			"start": "07:30"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "H 215",
+			"start": "07:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"TTh 0730-0100PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

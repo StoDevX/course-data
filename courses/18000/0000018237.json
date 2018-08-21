@@ -1,21 +1,30 @@
 {
-	"clbid": 18237,
+	"clbid": "0000018237",
 	"credits": 1.0,
-	"crsid": 1859,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 13,
+	"crsid": "0000001859",
+	"department": "HIST",
+	"enrolled": 13,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "European Intellectual",
 	"number": 307,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

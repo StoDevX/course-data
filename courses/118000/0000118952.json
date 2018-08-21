@@ -1,14 +1,12 @@
 {
-	"clbid": 118952,
+	"clbid": "0000118952",
 	"credits": 1.0,
-	"crsid": 1346,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001346",
+	"department": "SPAN",
 	"description": [
 		"Students explore one or more periods, genres, or topics from Pre-Columbian times to the 21st century. Selected literary works are analyzed within their socio-historical and cultural contexts and in reference to pertinent critical or theoretical issues. Sample topics include: The Shaping of Latin America; Personalism and Politics; Love and Magical Realism; and Literary Representations of Kitchens, Cooking, and Eating in Latin America. May be repeated if topic is different. Taught in Spanish. Prerequisite: SPAN 275."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,16 +14,26 @@
 		"Ariel Strichartz"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 314",
-		"TOH 314"
-	],
 	"max": 15,
 	"name": "Top: Contemp Argentine Theatre",
 	"notes": [
 		"Full course topic: Contemporary Argentine Theatre: From Text to Stage"
 	],
 	"number": 314,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 314",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 314",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 275.",
 	"revisions": [
@@ -68,15 +76,31 @@
 			"_updated": "2018-08-07T14:48:45.169676+00:00",
 			"enroll": "13",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.741292+00:00",
+			"clbid": 118952,
+			"crsid": 1346,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"TOH 314",
+				"TOH 314"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Literature and Society in Latin America",
 	"type": "Topic",
 	"year": 2018

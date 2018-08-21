@@ -1,22 +1,25 @@
 {
-	"clbid": 91548,
+	"clbid": "0000091548",
 	"credits": 0.0,
-	"crsid": 17307,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 29,
-	"groupid": 181,
+	"crsid": "0000017307",
+	"department": "CHEM",
+	"enrolled": 29,
+	"groupid": "0000000181",
 	"instructors": [
 		"Douglas J. Beussman"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 27,
 	"name": "Forensic Science Lab",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 454",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 16060,
+	"clbid": "0000016060",
 	"credits": 1.0,
-	"crsid": 1820,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 31,
+	"crsid": "0000001820",
+	"department": "HIST",
+	"enrolled": 31,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 501"
-	],
 	"max": 35,
 	"name": "U.S. Since 1865",
 	"number": 206,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 501",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 501",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

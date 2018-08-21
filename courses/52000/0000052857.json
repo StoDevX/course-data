@@ -1,24 +1,39 @@
 {
-	"clbid": 52857,
+	"clbid": "0000052857",
 	"credits": 1.0,
-	"crsid": 298,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000298",
+	"department": "CSCI",
 	"description": [
 		"This course surveys technologies represented in networked software systems based on the client-server model, including graphics user interfaces (GUIs) and databases, and features a team project to design and build such a system with interdisciplinary application. Design of client- server systems, GUI applications, event-driven programming, APIs, databases and SQL query language, embedded queries, data modeling, concurrency, network programming, security and ethical considerations, and team programming methodologies. Prerequisites: Computer Science 125 or 251, or consent of the instructor."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"OMH 300"
-	],
 	"max": 25,
 	"name": "Client-Server Appl",
 	"number": 284,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:35",
+			"location": "OMH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:35",
+			"location": "OMH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:35",
+			"location": "OMH 300",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 125 or 251, or consent of the instructor.",
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"MWF 0200-0335PM"
-	],
 	"title": "Client-Server Applications",
 	"type": "Research",
 	"year": 2006

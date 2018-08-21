@@ -1,14 +1,12 @@
 {
-	"clbid": 86302,
+	"clbid": "0000086302",
 	"credits": 1.0,
-	"crsid": 1196,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001196",
+	"department": "REL",
 	"description": [
 		"This course traces the significance of essential Christian theological doctrines (e.g., God, Christ, sin, salvation) for contemporary understandings of human beings and human behavior. Selected comparisons with alternative and/or complementary views of human nature (for example, philosophical, psychological, sociological, literary) are also included. Prerequisite: BTS-B."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Peder J. Jothen"
 	],
 	"level": 200,
-	"locations": [
-		"OM 305",
-		"OM 305"
-	],
 	"max": 24,
 	"name": "Chr Theol/Human Exist",
 	"number": 208,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 305",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 305",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Christian Theology and Human Existence",
 	"type": "Research",
 	"year": 2012

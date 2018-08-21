@@ -1,24 +1,27 @@
 {
-	"clbid": 121498,
+	"clbid": "0000121498",
 	"credits": 1.0,
-	"crsid": 20656,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000020656",
+	"department": "ART",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Karil J. Kucera"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 8,
 	"name": "Res: Ceramics: Crafting & Curating",
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "21:00",
+			"location": "TBA",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -46,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.606096+00:00",
 			"enroll": "0",
 			"max": "8"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.677484+00:00",
+			"clbid": 121498,
+			"crsid": 20656,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0600-0900PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0600-0900PM"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2018

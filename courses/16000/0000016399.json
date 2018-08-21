@@ -1,21 +1,30 @@
 {
-	"clbid": 16399,
+	"clbid": "0000016399",
 	"credits": 1.0,
-	"crsid": 1181,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 27,
+	"crsid": "0000001181",
+	"department": "PSYCH",
+	"enrolled": 27,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"L 577"
-	],
 	"max": 24,
 	"name": "Psych of Counseling",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

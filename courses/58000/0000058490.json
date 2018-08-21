@@ -1,25 +1,33 @@
 {
-	"clbid": 58490,
+	"clbid": "0000058490",
 	"credits": 0.75,
-	"crsid": 818,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000818",
+	"department": "MUSIC",
 	"description": [
 		"Building on principles learned in 213, students examine the techniques and materials of music since 1875, including chromaticism and extended tonality. Analysis of late 19th- and 20th-century music is included. Prerequisites: Music 211 and 213. Offered Spring Semester."
 	],
-	"enroll": 33,
+	"enrolled": 33,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 33,
 	"name": "Theory IV",
 	"number": 214,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Music 211 and 213. Offered Spring Semester.",
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2007
 }

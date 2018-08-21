@@ -1,14 +1,12 @@
 {
-	"clbid": 111741,
+	"clbid": "0000111741",
 	"credits": 1.0,
-	"crsid": 580,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000580",
+	"department": "HIST",
 	"description": [
 		"This course is a history of Western civilization's earliest cultures, the civilizations of Egypt and Mesopotamia, the Hebraic Kingdoms, and the great Empires of Assyria, Babylon, and Persia. Offered periodically. Counts toward ancient studies and classics majors."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"William N. Bruce"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 30,
 	"name": "Ancient: Near East",
 	"number": 205,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 290",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 290",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,10 +70,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

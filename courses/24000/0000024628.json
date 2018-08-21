@@ -1,21 +1,36 @@
 {
-	"clbid": 24628,
+	"clbid": "0000024628",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
+	"crsid": "0000000736",
+	"department": "MATH",
+	"enrolled": 19,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 30,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:50",
+			"location": "SC 186",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:50",
+			"location": "SC 186",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:50",
+			"location": "SC 186",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1150"
-	],
 	"type": "Research",
 	"year": 1998
 }

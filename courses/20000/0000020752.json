@@ -1,21 +1,30 @@
 {
-	"clbid": 20752,
+	"clbid": "0000020752",
 	"credits": 1.0,
-	"crsid": 1218,
-	"departments": [
-		"REL"
-	],
-	"enroll": 9,
+	"crsid": "0000001218",
+	"department": "REL",
+	"enrolled": 9,
 	"instructors": [
 		"Joel Gordon"
 	],
 	"level": 200,
-	"locations": [
-		"CH 102"
-	],
 	"max": 25,
 	"name": "Judaism",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 102",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 102",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

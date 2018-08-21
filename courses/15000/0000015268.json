@@ -1,22 +1,36 @@
 {
-	"clbid": 15268,
+	"clbid": "0000015268",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 18,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"L 277",
-		"SC 280"
-	],
 	"max": 50,
 	"name": "Introductory Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 277",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 277",
+			"start": "11:50"
+		},
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "SC 280",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"WF 1150-1245PM",
-		"M 0700-0800PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

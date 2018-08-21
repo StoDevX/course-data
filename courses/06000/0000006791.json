@@ -1,21 +1,24 @@
 {
-	"clbid": 6791,
+	"clbid": "0000006791",
 	"credits": 0.25,
-	"crsid": 206,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 9,
+	"crsid": "0000000206",
+	"department": "CHEM",
+	"enrolled": 9,
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 300,
-	"locations": [
-		"SC 329"
-	],
 	"max": 7,
 	"name": "Physical Lab",
 	"number": 357,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:20",
+			"location": "SC 329",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0520PM"
-	],
 	"type": "Lab",
 	"year": 2003
 }

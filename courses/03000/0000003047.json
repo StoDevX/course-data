@@ -1,21 +1,36 @@
 {
-	"clbid": 3047,
+	"clbid": "0000003047",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 25,
+	"crsid": "0000000392",
+	"department": "ENGL",
+	"enrolled": 25,
 	"instructors": [
 		"Joseph L. Mbele"
 	],
 	"level": 100,
-	"locations": [
-		"L 525"
-	],
 	"max": 23,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

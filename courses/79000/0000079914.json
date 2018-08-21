@@ -1,14 +1,12 @@
 {
-	"clbid": 79914,
+	"clbid": "0000079914",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001011",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Cynthia Book"
 	],
 	"level": 100,
-	"locations": [
-		"SAC S Gym"
-	],
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "SAC S Gym",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "SAC S Gym",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2010
 }

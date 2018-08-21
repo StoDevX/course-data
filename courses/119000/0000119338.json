@@ -1,21 +1,16 @@
 {
-	"clbid": 119338,
+	"clbid": "0000119338",
 	"credits": 0.25,
-	"crsid": 814,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000814",
+	"department": "MUSIC",
 	"description": [
 		"Students learn basic performance practice on core instruments in each instrument family. Additional topics include: common performance issues and their possible solution; Best Practices in teaching and learning core instruments of the family; and technology for teaching, learning, or composing for instruments as appropriate. Offered annually in the fall semester. Prerequisite: permission of instructor required for students not majoring in theory/composition or music education."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Dana L. Maeda"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Woodwind Techniques",
 	"notes": [
@@ -24,6 +19,26 @@
 		"period with the permission of the instructor."
 	],
 	"number": 169,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 138",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 138",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 138",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "permission of instructor required for students not majoring in theory/composition or music education.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.354091+00:00",
 			"enroll": "11",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.180219+00:00",
+			"clbid": 119338,
+			"crsid": 814,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"CHM 138"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Woodwind Techiques",
 	"type": "Research",
 	"year": 2018

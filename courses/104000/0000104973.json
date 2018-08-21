@@ -1,14 +1,12 @@
 {
-	"clbid": 104973,
+	"clbid": "0000104973",
 	"credits": 1.0,
-	"crsid": 21545,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000021545",
+	"department": "HIST",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Brendan LaRocque"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210",
-		"TOH 210"
-	],
 	"max": 27,
 	"name": "Top: History of Islam in South Asia",
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 210",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 210",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2015

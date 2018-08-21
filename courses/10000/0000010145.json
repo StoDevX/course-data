@@ -1,22 +1,31 @@
 {
-	"clbid": 10145,
+	"clbid": "0000010145",
 	"credits": 0.0,
-	"crsid": 127,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 7,
-	"groupid": 126,
+	"crsid": "0000000127",
+	"department": "BIO",
+	"enrolled": 7,
+	"groupid": "0000000126",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 253"
-	],
 	"max": 999,
 	"name": "Human Anatomy & Physiol",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "SC 253",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "SC 253",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20044,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

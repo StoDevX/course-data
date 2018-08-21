@@ -1,22 +1,36 @@
 {
-	"clbid": 16373,
+	"clbid": "0000016373",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 32,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 32,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"H 317",
-		"H 307"
-	],
 	"max": 40,
 	"name": "Introductory Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 317",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 317",
+			"start": "09:05"
+		},
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "H 307",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0905-1000",
-		"M 0700-0800PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

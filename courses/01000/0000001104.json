@@ -1,21 +1,24 @@
 {
-	"clbid": 1104,
+	"clbid": "0000001104",
 	"credits": 0.25,
-	"crsid": 210,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 10,
+	"crsid": "0000000210",
+	"department": "CHEM",
+	"enrolled": 10,
 	"instructors": [
 		"Paul Fischer"
 	],
 	"level": 300,
-	"locations": [
-		"SC 340"
-	],
 	"max": 999,
 	"name": "Adv Synthesis Lab",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:20",
+			"location": "SC 340",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"Th 0120-0520PM"
-	],
 	"type": "Lab",
 	"year": 2000
 }

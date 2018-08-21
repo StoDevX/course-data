@@ -1,21 +1,30 @@
 {
-	"clbid": 5192,
+	"clbid": "0000005192",
 	"credits": 0.25,
-	"crsid": 841,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 15,
+	"crsid": "0000000841",
+	"department": "MUSIC",
+	"enrolled": 15,
 	"instructors": [
 		"Andrea Een"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 999,
 	"name": "Instr Chamber Music",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "CHM 138",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "CHM 138",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

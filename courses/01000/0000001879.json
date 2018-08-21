@@ -1,21 +1,30 @@
 {
-	"clbid": 1879,
+	"clbid": "0000001879",
 	"credits": 0.5,
-	"crsid": 23,
-	"departments": [
-		"ART"
-	],
-	"enroll": 18,
+	"crsid": "0000000023",
+	"department": "ART",
+	"enrolled": 18,
 	"instructors": [
 		"Linda Gammell"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 102"
-	],
 	"max": 20,
 	"name": "Found Photography",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 102",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CAD 102",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

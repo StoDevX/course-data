@@ -1,21 +1,30 @@
 {
-	"clbid": 18508,
+	"clbid": "0000018508",
 	"credits": 1.0,
-	"crsid": 1146,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 11,
+	"crsid": "0000001146",
+	"department": "PSCI",
+	"enrolled": 11,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 300,
-	"locations": [
-		"SC 130"
-	],
 	"max": 20,
 	"name": "Pol Research Methods",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

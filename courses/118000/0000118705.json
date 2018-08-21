@@ -1,31 +1,46 @@
 {
-	"clbid": 118705,
+	"clbid": "0000118705",
 	"credits": 1.0,
-	"crsid": 241,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000241",
+	"department": "CHIN",
 	"description": [
 		"This course is for students who have successfully completed CHIN 112 or students who have had at least one year of Chinese learning experience. It aims to enhance students' proficiency in all four language skills (speaking, listening, reading, and writing) as well as knowledge of various Chinese communities and cross-cultural communications. Students should achieve the Intermediate Low/Medium level on the ACTFL proficiency scale. Class meets four times weekly. Prerequisite: CHIN 112 or placement."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"FOL-C"
 	],
-	"groupid": 241,
+	"groupid": "0000000241",
 	"instructors": [
 		"Hsiang-Lin Shih"
 	],
 	"level": 200,
-	"locations": [
-		"OM 210"
-	],
 	"max": 14,
 	"name": "Intermed Chinese I",
 	"notes": [
 		"Students in Chinese 231A must also register for one lab Chinese 231AL or BL."
 	],
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 210",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 210",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 210",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 112 or placement.",
 	"revisions": [
@@ -48,15 +63,31 @@
 			"_updated": "2018-08-07T14:48:45.000656+00:00",
 			"enroll": "12",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.302106+00:00",
+			"clbid": 118705,
+			"crsid": 241,
+			"department": null,
+			"departments": [
+				"CHIN"
+			],
+			"enroll": 12,
+			"enrolled": null,
+			"groupid": 241,
+			"locations": [
+				"OM 210"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Intermediate Chinese I",
 	"type": "Research",
 	"year": 2018

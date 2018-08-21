@@ -1,21 +1,36 @@
 {
-	"clbid": 15103,
+	"clbid": "0000015103",
 	"credits": 1.0,
-	"crsid": 851,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 4,
+	"crsid": "0000000851",
+	"department": "MUSIC",
+	"enrolled": 4,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 234"
-	],
 	"max": 999,
 	"name": "Composition II",
 	"number": 324,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:55",
+			"location": "CHM 234",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:55",
+			"location": "CHM 234",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:55",
+			"location": "CHM 234",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 1255-0155PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

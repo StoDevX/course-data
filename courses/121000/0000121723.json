@@ -1,24 +1,39 @@
 {
-	"clbid": 121723,
+	"clbid": "0000121723",
 	"credits": 1.0,
-	"crsid": 1258,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001258",
+	"department": "REL",
 	"description": [
 		"This integrative seminar focuses on the pursuit of research, the explanation of research to fellow students and the exploration of connections among diverse approaches to the selected topic, which changes annually. May be repeated if topic is different. May count toward ancient studies and medieval studies majors. Prerequisite: BTS-B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Anthony Bateza"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 15,
 	"name": "Thematic Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -42,14 +57,29 @@
 			"_updated": "2018-08-07T14:48:49.789464+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.879019+00:00",
+			"clbid": 121723,
+			"crsid": 1258,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

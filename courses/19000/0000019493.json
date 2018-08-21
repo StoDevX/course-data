@@ -1,22 +1,31 @@
 {
-	"clbid": 19493,
+	"clbid": "0000019493",
 	"credits": 0.5,
-	"crsid": 2223,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 10,
+	"crsid": "0000002223",
+	"department": "PETH",
+	"enrolled": 10,
 	"halfcredit": "1",
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 24,
 	"name": "Sport in Amer Society",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SAC 140",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SAC 140",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 3251,
+	"clbid": "0000003251",
 	"credits": 0.25,
-	"crsid": 811,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 15,
+	"crsid": "0000000811",
+	"department": "MUSIC",
+	"enrolled": 15,
 	"instructors": [
 		"Paul Niemisto"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Brass Class",
 	"number": 166,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

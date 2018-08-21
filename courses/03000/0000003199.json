@@ -1,21 +1,36 @@
 {
-	"clbid": 3199,
+	"clbid": "0000003199",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 28,
+	"crsid": "0000000734",
+	"department": "MATH",
+	"enrolled": 28,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 188"
-	],
 	"max": 25,
 	"name": "Math Analysis II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 24540,
+	"clbid": "0000024540",
 	"credits": 1.0,
-	"crsid": 509,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 19,
+	"crsid": "0000000509",
+	"department": "GERM",
+	"enrolled": 19,
 	"instructors": [
 		"Frederike Von Schwerin-High"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 25,
 	"name": "Intermed German II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 35",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

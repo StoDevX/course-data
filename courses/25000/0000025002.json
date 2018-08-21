@@ -1,21 +1,36 @@
 {
-	"clbid": 25002,
+	"clbid": "0000025002",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 21,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 21,
 	"instructors": [
 		"Michael Maguire"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SPT 227",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SPT 227",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SPT 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

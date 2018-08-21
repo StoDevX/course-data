@@ -1,22 +1,30 @@
 {
-	"clbid": 9431,
+	"clbid": "0000009431",
 	"credits": 1.0,
-	"crsid": 462,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 24,
+	"crsid": "0000000462",
+	"department": "ENVST",
+	"enrolled": 24,
 	"instructors": [
 		"Emily A. Swanson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129",
-		"SC 129"
-	],
 	"max": 26,
 	"name": "Saving Wild Places",
 	"number": 259,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 129",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "SC 129",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

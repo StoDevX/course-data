@@ -1,21 +1,36 @@
 {
-	"clbid": 20501,
+	"clbid": "0000020501",
 	"credits": 1.0,
-	"crsid": 922,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 17,
+	"crsid": "0000000922",
+	"department": "NORW",
+	"enrolled": 17,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 100,
-	"locations": [
-		"M 11"
-	],
 	"max": 25,
 	"name": "Begin Norwegian II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 11",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 11",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 11",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1996
 }

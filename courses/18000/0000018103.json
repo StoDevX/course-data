@@ -1,21 +1,30 @@
 {
-	"clbid": 18103,
+	"clbid": "0000018103",
 	"credits": 0.25,
-	"crsid": 358,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 17,
+	"crsid": "0000000358",
+	"department": "DNCTE",
+	"enrolled": 17,
 	"instructors": [
 		"Janice Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"SPT RHT"
-	],
 	"max": 16,
 	"name": "Modern Dance II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SPT RHT",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SPT RHT",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

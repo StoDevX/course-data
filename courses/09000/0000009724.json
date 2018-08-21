@@ -1,21 +1,30 @@
 {
-	"clbid": 9724,
+	"clbid": "0000009724",
 	"credits": 0.25,
-	"crsid": 998,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 11,
+	"crsid": "0000000998",
+	"department": "PEAC",
+	"enrolled": 11,
 	"instructors": [
 		"Judith Tegtmeyer"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 12,
 	"name": "Rock Climbing",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

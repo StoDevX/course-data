@@ -1,21 +1,36 @@
 {
-	"clbid": 15308,
+	"clbid": "0000015308",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 25,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 25,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CH 102"
-	],
 	"max": 26,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CH 102",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CH 102",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CH 102",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1738,
+	"clbid": "0000001738",
 	"credits": 1.0,
-	"crsid": 1403,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 23,
+	"crsid": "0000001403",
+	"department": "STAT",
+	"enrolled": 23,
 	"instructors": [
 		"Miriam Newton"
 	],
 	"level": 200,
-	"locations": [
-		"L 477"
-	],
 	"max": 25,
 	"name": "Statistics for Science",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "L 477",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "L 477",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "L 477",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

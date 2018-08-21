@@ -1,21 +1,30 @@
 {
-	"clbid": 19427,
+	"clbid": "0000019427",
 	"credits": 1.0,
-	"crsid": 980,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 17,
+	"crsid": "0000000980",
+	"department": "PHIL",
+	"enrolled": 17,
 	"instructors": [
 		"Kenneth S. Casey"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 25,
 	"name": "Law,Politics,Morality",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

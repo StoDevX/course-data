@@ -1,21 +1,36 @@
 {
-	"clbid": 6044,
+	"clbid": "0000006044",
 	"credits": 0.25,
-	"crsid": 799,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 21,
+	"crsid": "0000000799",
+	"department": "MUSIC",
+	"enrolled": 21,
 	"instructors": [
 		"Keith D. McCutchen"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 18,
 	"name": "Ear/Keyboard I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

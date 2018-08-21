@@ -1,14 +1,12 @@
 {
-	"clbid": 80815,
+	"clbid": "0000080815",
 	"credits": 1.0,
-	"crsid": 969,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000969",
+	"department": "PHIL",
 	"description": [
 		"An introduction to Kierkegaard's work and to existentialism, this course emphasizes the aesthetic, ethical, and religious \"stages on life's way.\" Existential questions concerning the meaning of human existence, passion and faith, freedom and choice, despair, and the absurd are examined. Offered annually."
 	],
-	"enroll": 59,
+	"enrolled": 59,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 150",
-		"RNS 150"
-	],
 	"max": 35,
 	"name": "Kierkegaard",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 150",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 150",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Kierkegaard and Existentialism",
 	"type": "Research",
 	"year": 2011

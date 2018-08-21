@@ -1,22 +1,42 @@
 {
-	"clbid": 6734,
+	"clbid": "0000006734",
 	"credits": 1.0,
-	"crsid": 126,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 21,
+	"crsid": "0000000126",
+	"department": "BIO",
+	"enrolled": 21,
 	"instructors": [
 		"William Jurney"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282",
-		"SC 253"
-	],
 	"max": 24,
 	"name": "Human Anatomy & Physiol",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 282",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "15:55",
+			"location": "SC 253",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140",
-		"W 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

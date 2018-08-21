@@ -1,22 +1,30 @@
 {
-	"clbid": 5810,
+	"clbid": "0000005810",
 	"credits": 1.0,
-	"crsid": 321,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 17,
+	"crsid": "0000000321",
+	"department": "EDUC",
+	"enrolled": 17,
 	"instructors": [
 		"Maria L. Kelly"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L",
-		"FH 10L"
-	],
 	"max": 20,
 	"name": "Principles of Educ",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "FH 10L",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "FH 10L",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

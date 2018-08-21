@@ -1,21 +1,36 @@
 {
-	"clbid": 2158,
+	"clbid": "0000002158",
 	"credits": 1.0,
-	"crsid": 539,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 8,
+	"crsid": "0000000539",
+	"department": "GREEK",
+	"enrolled": 8,
 	"instructors": [
 		"Steve T. Reece"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 30,
 	"name": "Beginning Greek I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 30",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

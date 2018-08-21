@@ -1,32 +1,47 @@
 {
-	"clbid": 89939,
+	"clbid": "0000089939",
 	"credits": 1.0,
-	"crsid": 1080,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001080",
+	"department": "PHYS",
 	"description": [
 		"Physics 131, the second course in the three-semester calculus-based sequence, treats electricity, magnetism, and electromagnetic waves. There is one 2.5 hour laboratory meeting per week. Prerequisites: Physics 130 and concurrent registration in (or previous completion of) Mathematics 126 or 128. Offered annually in the spring semester."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 1080,
+	"groupid": "0000001080",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 30,
 	"name": "Analytical II",
 	"notes": [
 		"Students in Physics 131 must also register for one lab Physics 131 AL, BL, or CL"
 	],
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Physics 130 and concurrent registration in (or previous completion of) Mathematics 126 or 128. Offered annually in the spring semester.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Analytical Physics II",
 	"type": "Research",
 	"year": 2013

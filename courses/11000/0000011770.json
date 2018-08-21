@@ -1,24 +1,27 @@
 {
-	"clbid": 11770,
+	"clbid": "0000011770",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"These courses introduce students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using infrared, nuclear magnetic resonance and mass spectroscopic methods. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Spring Semester."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Marc A. Klingshirn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 16,
 	"name": "Synthesis Lab",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 378/311",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Spring Semester.",
 	"revisions": [
@@ -37,9 +40,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"title": "Synthesis Laboratory",
 	"type": "Lab",
 	"year": 2005

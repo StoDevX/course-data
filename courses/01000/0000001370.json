@@ -1,21 +1,36 @@
 {
-	"clbid": 1370,
+	"clbid": "0000001370",
 	"credits": 1.0,
-	"crsid": 715,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 7,
+	"crsid": "0000000715",
+	"department": "LATIN",
+	"enrolled": 7,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Vergil & Latin Epic",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

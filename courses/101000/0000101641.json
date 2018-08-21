@@ -1,22 +1,25 @@
 {
-	"clbid": 101641,
+	"clbid": "0000101641",
 	"credits": 0.0,
-	"crsid": 1267,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 10,
-	"groupid": 1266,
+	"crsid": "0000001267",
+	"department": "RUSSN",
+	"enrolled": 10,
+	"groupid": "0000001266",
 	"instructors": [
 		"Ksenia Zanon"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 18,
 	"name": "Intermed Russian II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "TOH 114",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0120-0215PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

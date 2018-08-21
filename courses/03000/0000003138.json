@@ -1,21 +1,30 @@
 {
-	"clbid": 3138,
+	"clbid": "0000003138",
 	"credits": 1.0,
-	"crsid": 556,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000000556",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 23,
 	"name": "Fall Russian Monarchy",
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

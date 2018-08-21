@@ -1,14 +1,12 @@
 {
-	"clbid": 86859,
+	"clbid": "0000086859",
 	"credits": 1.0,
-	"crsid": 592,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000592",
+	"department": "HIST",
 	"description": [
 		"This course provides a survey of the history of Germany with emphasis on the period from 1700 to the present. Through primary sources, literature, and historical accounts, students examine Germany's development from a collection of independent states to a great power, focusing on the social, cultural, and political impact of national unification, rapid industrialization, world wars, and European union. Offered alternate years. Counts toward women's and gender studies major and German studies and women's and gender studies concentrations."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Edward N. Snyder"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 30,
 	"name": "Modern Germany",
 	"number": 224,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 307",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 307",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20123,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

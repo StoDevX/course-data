@@ -1,22 +1,30 @@
 {
-	"clbid": 6904,
+	"clbid": "0000006904",
 	"credits": 1.0,
-	"crsid": 413,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 18,
+	"crsid": "0000000413",
+	"department": "ENGL",
+	"enrolled": 18,
 	"instructors": [
 		"Mary Steen"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 18,
 	"name": "Creative Nonfiction",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 515",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

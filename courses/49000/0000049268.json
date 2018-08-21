@@ -1,24 +1,27 @@
 {
-	"clbid": 49268,
+	"clbid": "0000049268",
 	"credits": 1.0,
-	"crsid": 1153,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001153",
+	"department": "PSCI",
 	"description": [
 		"Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Donald I. Ostrom"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302"
-	],
 	"max": 0,
 	"name": "Sem: American Issues",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 302",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +40,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"title": "Seminar",
 	"type": "Seminar",
 	"year": 2005

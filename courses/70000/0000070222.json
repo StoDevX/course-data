@@ -1,25 +1,33 @@
 {
-	"clbid": 70222,
+	"clbid": "0000070222",
 	"credits": 1.0,
-	"crsid": 1135,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000001135",
+	"department": "ENVST",
 	"description": [
 		"Analysis of environmental policy includes the politics of agenda setting, policy selection and program implementation, and the effects of policy outcomes. Offered annually."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Daniel Hofrenning"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 24,
 	"name": "Environmental Politics",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 390",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 390",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

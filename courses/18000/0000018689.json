@@ -1,21 +1,36 @@
 {
-	"clbid": 18689,
+	"clbid": "0000018689",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 21,
 	"instructors": [
 		"Michael Hasbrouck"
 	],
 	"level": 200,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 20",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 20",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 20",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1995
 }

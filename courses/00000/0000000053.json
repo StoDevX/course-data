@@ -1,22 +1,42 @@
 {
-	"clbid": 53,
+	"clbid": "0000000053",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
+	"crsid": "0000000122",
+	"department": "BIO",
+	"enrolled": 22,
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 263"
-	],
 	"max": 23,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 263",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140",
-		"W 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9288,
+	"clbid": "0000009288",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 22,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 22,
 	"instructors": [
 		"Terry J. Fitzgerald"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

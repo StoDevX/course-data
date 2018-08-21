@@ -1,21 +1,30 @@
 {
-	"clbid": 26951,
+	"clbid": "0000026951",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 23,
+	"crsid": "0000000199",
+	"department": "CHEM",
+	"enrolled": 23,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 24,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 19994,
-	"times": [
-		"MT 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 1999
 }

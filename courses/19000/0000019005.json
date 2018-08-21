@@ -1,21 +1,24 @@
 {
-	"clbid": 19005,
+	"clbid": "0000019005",
 	"credits": 0.0,
-	"crsid": 168,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000168",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 210"
-	],
 	"max": 12,
 	"name": "Immunology/Disc",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "SC 210",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"M 0700-0800PM"
-	],
 	"type": "Discussion",
 	"year": 1996
 }

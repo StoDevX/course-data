@@ -1,21 +1,36 @@
 {
-	"clbid": 17217,
+	"clbid": "0000017217",
 	"credits": 1.0,
-	"crsid": 852,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 2,
+	"crsid": "0000000852",
+	"department": "MUSIC",
+	"enrolled": 2,
 	"instructors": [
 		"Peter S. Hamlin"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 234"
-	],
 	"max": 999,
 	"name": "Composition III",
 	"number": 325,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 234",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 234",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 234",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

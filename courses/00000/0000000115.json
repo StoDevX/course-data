@@ -1,21 +1,24 @@
 {
-	"clbid": 115,
+	"clbid": "0000000115",
 	"credits": 0.25,
-	"crsid": 202,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 14,
+	"crsid": "0000000202",
+	"department": "CHEM",
+	"enrolled": 14,
 	"instructors": [
 		"Mary Walczak"
 	],
 	"level": 200,
-	"locations": [
-		"SC 321"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:20",
+			"location": "SC 321",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"T 0120-0520PM"
-	],
 	"type": "Lab",
 	"year": 2000
 }

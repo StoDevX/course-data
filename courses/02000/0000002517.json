@@ -1,21 +1,36 @@
 {
-	"clbid": 2517,
+	"clbid": "0000002517",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001325",
+	"department": "SPAN",
+	"enrolled": 23,
 	"instructors": [
 		"Terri Greenslade"
 	],
 	"level": 100,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 20",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 20",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 20",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

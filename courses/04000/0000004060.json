@@ -1,21 +1,36 @@
 {
-	"clbid": 4060,
+	"clbid": "0000004060",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 36,
+	"crsid": "0000000731",
+	"department": "MATH",
+	"enrolled": 36,
 	"instructors": [
 		"James Halverson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 32,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

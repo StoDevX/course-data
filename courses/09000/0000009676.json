@@ -1,23 +1,43 @@
 {
-	"clbid": 9676,
+	"clbid": "0000009676",
 	"credits": 1.0,
-	"crsid": 916,
-	"departments": [
-		"NEURO"
-	],
-	"enroll": 20,
+	"crsid": "0000000916",
+	"department": "NEURO",
+	"enrolled": 20,
 	"instructors": [
 		"Alan F. Ernst",
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"SC 253"
-	],
 	"max": 28,
 	"name": "Intro to Neuroscience",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 253",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000",
-		"Th 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

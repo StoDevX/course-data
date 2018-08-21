@@ -1,21 +1,30 @@
 {
-	"clbid": 3161,
+	"clbid": "0000003161",
 	"credits": 1.0,
-	"crsid": 1869,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 16,
+	"crsid": "0000001869",
+	"department": "HIST",
+	"enrolled": 16,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 300,
-	"locations": [
-		"L 577"
-	],
 	"max": 17,
 	"name": "Us Sem: Civl War Era",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

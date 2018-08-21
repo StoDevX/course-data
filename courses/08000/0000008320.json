@@ -1,22 +1,30 @@
 {
-	"clbid": 8320,
+	"clbid": "0000008320",
 	"credits": 1.0,
-	"crsid": 1105,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 35,
+	"crsid": "0000001105",
+	"department": "PSCI",
+	"enrolled": 35,
 	"instructors": [
 		"William A. Gorton"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 35,
 	"name": "Intro: Pol Theory",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD 305",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD 305",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

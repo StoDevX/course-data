@@ -1,22 +1,42 @@
 {
-	"clbid": 6731,
+	"clbid": "0000006731",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
+	"crsid": "0000000122",
+	"department": "BIO",
+	"enrolled": 24,
 	"instructors": [
 		"Robert Rutherford"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 211"
-	],
 	"max": 24,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 280",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "17:15",
+			"location": "SC 211",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1150-1245PM",
-		"Th 0215-0515PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,25 +1,34 @@
 {
-	"clbid": 69550,
+	"clbid": "0000069550",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one 3-hour laboratory each week. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Peter J. Gittins",
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 24,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. P/N only. Offered Spring Semester.",
 	"revisions": [
@@ -38,9 +47,6 @@
 	"semester": 5,
 	"status": "C",
 	"term": 20085,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2008

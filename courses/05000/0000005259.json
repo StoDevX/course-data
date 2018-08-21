@@ -1,21 +1,36 @@
 {
-	"clbid": 5259,
+	"clbid": "0000005259",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 18,
+	"crsid": "0000001012",
+	"department": "PEAC",
+	"enrolled": 18,
 	"instructors": [
 		"Chris A. Stepan"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC FH",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC FH",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SAC FH",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2002
 }

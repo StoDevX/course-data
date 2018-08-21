@@ -1,24 +1,39 @@
 {
-	"clbid": 101288,
+	"clbid": "0000101288",
 	"credits": 1.0,
-	"crsid": 477,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000477",
+	"department": "FREN",
 	"description": [
 		"Students expand their developing language skills by continuing to listen, speak, read and write on topics familiar to them. They continue their study of social and cultural notions inherent in the daily life of peoples in diverse Francophone communities and learn to think critically and make interdisciplinary connections and informed cross-cultural comparisons. Offered each semester. Prerequisite: FREN 111 or placement."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Maria Vendetti"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 310"
-	],
 	"max": 19,
 	"name": "Beginning French II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 310",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 310",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 310",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FREN 111 or placement.",
 	"revisions": [
@@ -57,9 +72,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2015
 }

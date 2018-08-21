@@ -1,21 +1,36 @@
 {
-	"clbid": 1482,
+	"clbid": "0000001482",
 	"credits": 1.0,
-	"crsid": 981,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 23,
+	"crsid": "0000000981",
+	"department": "PHIL",
+	"enrolled": 23,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 22,
 	"name": "Friendship Love/Gd Lf",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 302",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 302",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 302",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2000
 }

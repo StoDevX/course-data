@@ -1,14 +1,12 @@
 {
-	"clbid": 121191,
+	"clbid": "0000121191",
 	"credits": 1.0,
-	"crsid": 769,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000769",
+	"department": "MGMT",
 	"description": [
 		"This course provides an overview of the key issues that face arts administrators. Topics addressed include strategic planning, budgeting, fund raising, audience development, and human resource management as each relates to the unique setting of the arts. Case analysis and guest speakers provide opportunities to explore application of key concepts. Offered annually. Counts toward media studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,15 +14,32 @@
 		"Sian E. Muir"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 28,
 	"name": "Arts Management",
 	"notes": [
 		"Not open to First-year students."
 	],
 	"number": 229,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,14 +52,29 @@
 			"_updated": "2018-08-07T14:48:49.483726+00:00",
 			"enroll": "0",
 			"max": "28"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.570231+00:00",
+			"clbid": 121191,
+			"crsid": 769,
+			"department": null,
+			"departments": [
+				"MGMT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

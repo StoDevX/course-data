@@ -1,21 +1,30 @@
 {
-	"clbid": 1729,
+	"clbid": "0000001729",
 	"credits": 1.0,
-	"crsid": 2484,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 15,
+	"crsid": "0000002484",
+	"department": "THEAT",
+	"enrolled": 15,
 	"instructors": [
 		"Linda Devenish"
 	],
 	"level": 300,
-	"locations": [
-		"CT 227"
-	],
 	"max": 20,
 	"name": "Persuasion",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CT 227",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CT 227",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 19550,
+	"clbid": "0000019550",
 	"credits": 1.0,
-	"crsid": 2291,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 16,
+	"crsid": "0000002291",
+	"department": "PSYCH",
+	"enrolled": 16,
 	"instructors": [
 		"Bruce B. Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 30,
 	"name": "Cross-Cultural Psych",
 	"number": 259,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 301",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 301",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 301",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1996
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 101297,
+	"clbid": "0000101297",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000712",
+	"department": "LATIN",
 	"description": [
 		"In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the spring semester. Prerequisite: LATIN 111 or equivalent."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Lisa A. Whitlatch"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 108"
-	],
 	"max": 25,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 108",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 108",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 108",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 111 or equivalent.",
 	"revisions": [
@@ -59,9 +74,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

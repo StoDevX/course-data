@@ -1,21 +1,30 @@
 {
-	"clbid": 3344,
+	"clbid": "0000003344",
 	"credits": 0.25,
-	"crsid": 1024,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 24,
+	"crsid": "0000001024",
+	"department": "PEAC",
+	"enrolled": 24,
 	"instructors": [
 		"Kenneth Pratt"
 	],
 	"level": 100,
-	"locations": [
-		"SAC WR RM"
-	],
 	"max": 24,
 	"name": "Self Defense",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

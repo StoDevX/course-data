@@ -1,21 +1,36 @@
 {
-	"clbid": 9136,
+	"clbid": "0000009136",
 	"credits": 0.5,
-	"crsid": 21,
-	"departments": [
-		"ART"
-	],
-	"enroll": 23,
+	"crsid": "0000000021",
+	"department": "ART",
+	"enrolled": 23,
 	"instructors": [
 		"Wendell Arneson"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 116"
-	],
 	"max": 22,
 	"name": "Found Color Design",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 116",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 116",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 116",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

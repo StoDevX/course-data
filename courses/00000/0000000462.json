@@ -1,21 +1,30 @@
 {
-	"clbid": 462,
+	"clbid": "0000000462",
 	"credits": 1.0,
-	"crsid": 989,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 15,
+	"crsid": "0000000989",
+	"department": "PHIL",
+	"enrolled": 15,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110"
-	],
 	"max": 15,
 	"name": "Ethics/Theory Values",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 110",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

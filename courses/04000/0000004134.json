@@ -1,22 +1,30 @@
 {
-	"clbid": 4134,
+	"clbid": "0000004134",
 	"credits": 0.5,
-	"crsid": 839,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 15,
+	"crsid": "0000000839",
+	"department": "MUSIC",
+	"enrolled": 15,
 	"instructors": [
 		"Janis Hardy"
 	],
 	"level": 200,
-	"locations": [
-		"CHM URNESS",
-		"CHM URNESS"
-	],
 	"max": 20,
 	"name": "Adv Act Lyric Stage",
 	"number": 267,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM URNESS",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CHM URNESS",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

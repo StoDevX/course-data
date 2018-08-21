@@ -1,21 +1,30 @@
 {
-	"clbid": 3229,
+	"clbid": "0000003229",
 	"credits": 1.0,
-	"crsid": 780,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 20,
+	"crsid": "0000000780",
+	"department": "MGMT",
+	"enrolled": 20,
 	"instructors": [
 		"Mark D. Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 25,
 	"name": "Entrepreneurship",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

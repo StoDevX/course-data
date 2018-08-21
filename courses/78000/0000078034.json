@@ -1,14 +1,12 @@
 {
-	"clbid": 78034,
+	"clbid": "0000078034",
 	"credits": 1.0,
-	"crsid": 21529,
-	"departments": [
-		"ID"
-	],
+	"crsid": "0000021529",
+	"department": "ID",
 	"description": [
 		"This course introduces students to the intellectual dimensions of cultures and traditions of the modern Middle East, focusing on the period from the late 18th century to the present. Students gain familiarity with significant moments, movements, voices, and trends in society, politics, architecture, and literature, and their interdependence. The course also acquaints students with intellectual debates and conflicts in and about the Middle East, and enables them to better think through those debates for themselves."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"MCG",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Jamie A. Schillinger"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "Mid-East Studies",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "BMC 111",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "BMC 111",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "BMC 111",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Introduction to Modern Middle Eastern Studies",
 	"type": "Research",
 	"year": 2011

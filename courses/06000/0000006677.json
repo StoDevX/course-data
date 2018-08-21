@@ -1,21 +1,36 @@
 {
-	"clbid": 6677,
+	"clbid": "0000006677",
 	"credits": 0.5,
-	"crsid": 20,
-	"departments": [
-		"ART"
-	],
-	"enroll": 21,
+	"crsid": "0000000020",
+	"department": "ART",
+	"enrolled": 21,
 	"instructors": [
 		"Mary Griep"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 216"
-	],
 	"max": 24,
 	"name": "Found Conceptual Draw",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CAD 216",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CAD 216",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CAD 216",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

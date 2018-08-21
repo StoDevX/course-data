@@ -1,21 +1,30 @@
 {
-	"clbid": 2971,
+	"clbid": "0000002971",
 	"credits": 1.0,
-	"crsid": 271,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 35,
+	"crsid": "0000000271",
+	"department": "ECON",
+	"enrolled": 35,
 	"instructors": [
 		"Paul Wojick"
 	],
 	"level": 200,
-	"locations": [
-		"H 516"
-	],
 	"max": 25,
 	"name": "History Econ Thought",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 516",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 516",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 524,
+	"clbid": "0000000524",
 	"credits": 0.25,
-	"crsid": 1098,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 8,
+	"crsid": "0000001098",
+	"department": "PHYS",
+	"enrolled": 8,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [
-		"SC 151"
-	],
 	"max": 8,
 	"name": "Adv Physics Lab (376)",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 151",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2000
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 90550,
+	"clbid": "0000090550",
 	"credits": 0.25,
-	"crsid": 23242,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000023242",
+	"department": "ESAC",
 	"description": [
 		"This course introduces students to a wide range of lifetime sports and games. Students learn the history and origin of these activities along with the basic rules, etiquette, and strategies."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 20,
 	"name": "Lifetime Sports and Games",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "Tostrud Ctr",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "Tostrud Ctr",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 2013
 }

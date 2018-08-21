@@ -1,21 +1,30 @@
 {
-	"clbid": 20577,
+	"clbid": "0000020577",
 	"credits": 0.25,
-	"crsid": 1021,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 7,
+	"crsid": "0000001021",
+	"department": "PEAC",
+	"enrolled": 7,
 	"instructors": [
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"SAC RACQ CT"
-	],
 	"max": 8,
 	"name": "Racquetball (Men)",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC RACQ CT",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SAC RACQ CT",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

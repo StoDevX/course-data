@@ -1,21 +1,36 @@
 {
-	"clbid": 3997,
+	"clbid": "0000003997",
 	"credits": 1.0,
-	"crsid": 539,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 10,
+	"crsid": "0000000539",
+	"department": "GREEK",
+	"enrolled": 10,
 	"instructors": [
 		"Jon Bruss"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 30,
 	"name": "Beginning Greek I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

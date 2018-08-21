@@ -1,21 +1,36 @@
 {
-	"clbid": 20157,
+	"clbid": "0000020157",
 	"credits": 1.0,
-	"crsid": 219,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 8,
+	"crsid": "0000000219",
+	"department": "CHEM",
+	"enrolled": 8,
 	"instructors": [
 		"Donald A. Tarr"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Adv Inorganic Chem",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 374",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

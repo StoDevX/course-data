@@ -1,14 +1,12 @@
 {
-	"clbid": 112905,
+	"clbid": "0000112905",
 	"credits": 1.0,
-	"crsid": 745,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000745",
+	"department": "MATH",
 	"description": [
 		"Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Counts toward computer science mjaor. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Bruce Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 18,
 	"name": "Real Analysis I",
 	"notes": [
 		"Open to first-year students with permission of department chair."
 	],
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students.",
 	"revisions": [
@@ -51,9 +66,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

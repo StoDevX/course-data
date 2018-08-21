@@ -1,21 +1,36 @@
 {
-	"clbid": 9697,
+	"clbid": "0000009697",
 	"credits": 1.0,
-	"crsid": 971,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 23,
+	"crsid": "0000000971",
+	"department": "PHIL",
+	"enrolled": 23,
 	"instructors": [
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [
-		"HH 514"
-	],
 	"max": 20,
 	"name": "Modern Philosophy",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 514",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

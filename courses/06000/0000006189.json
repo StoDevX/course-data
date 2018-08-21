@@ -1,21 +1,36 @@
 {
-	"clbid": 6189,
+	"clbid": "0000006189",
 	"credits": 1.0,
-	"crsid": 1103,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 34,
+	"crsid": "0000001103",
+	"department": "PSCI",
+	"enrolled": 34,
 	"instructors": [
 		"Daniel Hofrenning"
 	],
 	"level": 100,
-	"locations": [
-		"HH 317"
-	],
 	"max": 30,
 	"name": "American Politics",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 317",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

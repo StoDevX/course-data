@@ -1,22 +1,30 @@
 {
-	"clbid": 3833,
+	"clbid": "0000003833",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 28,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 28,
 	"instructors": [
 		"Rebecca Judge"
 	],
 	"level": 100,
-	"locations": [
-		"H 317",
-		"H 317"
-	],
 	"max": 30,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 317",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "H 317",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

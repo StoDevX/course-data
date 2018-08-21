@@ -1,21 +1,36 @@
 {
-	"clbid": 16318,
+	"clbid": "0000016318",
 	"credits": 1.0,
-	"crsid": 1069,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 52,
+	"crsid": "0000001069",
+	"department": "PHYS",
+	"enrolled": 52,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Stellar & Galactic",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

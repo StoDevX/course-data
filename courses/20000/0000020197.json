@@ -1,21 +1,36 @@
 {
-	"clbid": 20197,
+	"clbid": "0000020197",
 	"credits": 1.0,
-	"crsid": 279,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 28,
+	"crsid": "0000000279",
+	"department": "ECON",
+	"enrolled": 28,
 	"instructors": [
 		"Paul Wojick"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Money and Banking",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 515",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 515",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 515",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

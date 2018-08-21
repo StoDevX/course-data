@@ -1,21 +1,48 @@
 {
-	"clbid": 10156,
+	"clbid": "0000010156",
 	"credits": 1.0,
-	"crsid": 424,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 9,
+	"crsid": "0000000424",
+	"department": "ENGL",
+	"enrolled": 9,
 	"instructors": [
 		"Jon Eric Nelson"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 999,
 	"name": "Literature & Film",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "RML 525",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "RML 525",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "RML 525",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "RML 525",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "RML 525",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20044,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

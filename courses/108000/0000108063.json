@@ -1,22 +1,25 @@
 {
-	"clbid": 108063,
+	"clbid": "0000108063",
 	"credits": 0.0,
-	"crsid": 240,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 15,
-	"groupid": 239,
+	"crsid": "0000000240",
+	"department": "CHIN",
+	"enrolled": 15,
+	"groupid": "0000000239",
 	"instructors": [
 		"Hsiang-Lin Shih"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 153"
-	],
 	"max": 14,
 	"name": "Beginning Chinese II Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 153",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0935-1100"
-	],
 	"type": "Lab",
 	"year": 2016
 }

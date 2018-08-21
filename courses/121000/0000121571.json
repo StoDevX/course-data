@@ -1,14 +1,12 @@
 {
-	"clbid": 121571,
+	"clbid": "0000121571",
 	"credits": 1.0,
-	"crsid": 605,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000605",
+	"department": "HIST",
 	"description": [
 		"An overview of the evolution of Latin American societies since 1750, this course examines the consequences of independence, 19th-century economic imperialism, and 20th-century transitions to more urbanized, industrialized ways of life. Students examine major Latin American nations and compare their revolutionary and counter-revolutionary trajectories toward the establishment of authoritarian states. Foreign Language Across the Curriculum course available in Spanish. Offered periodically. Counts toward Latin American studies major and concentration and management studies concentration."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,12 +14,29 @@
 		"Jeane DeLaney"
 	],
 	"level": 100,
-	"locations": [
-		"HH 434"
-	],
 	"max": 21,
 	"name": "Modern Latin America",
 	"number": 193,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 434",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 434",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 434",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,14 +59,29 @@
 			"_updated": "2018-08-07T14:48:45.450146+00:00",
 			"enroll": "20",
 			"max": "21"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.444447+00:00",
+			"clbid": 121571,
+			"crsid": 605,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"locations": [
+				"HH 434"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

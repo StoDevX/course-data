@@ -1,21 +1,36 @@
 {
-	"clbid": 9630,
+	"clbid": "0000009630",
 	"credits": 0.25,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 18,
+	"crsid": "0000000800",
+	"department": "MUSIC",
+	"enrolled": 18,
 	"instructors": [
 		"Margaret A. Rowland"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 18,
 	"name": "Ear/Keyboard II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

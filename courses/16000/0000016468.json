@@ -1,21 +1,24 @@
 {
-	"clbid": 16468,
+	"clbid": "0000016468",
 	"credits": 0.0,
-	"crsid": 1262,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 0,
+	"crsid": "0000001262",
+	"department": "RUSSN",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 1"
-	],
 	"max": 999,
 	"name": "Begin Russian II/Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "M 1",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"T 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 19541,
+	"clbid": "0000019541",
 	"credits": 1.0,
-	"crsid": 1158,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 17,
+	"crsid": "0000001158",
+	"department": "PSYCH",
+	"enrolled": 17,
 	"instructors": [
 		"Gerald Ericksen"
 	],
 	"level": 200,
-	"locations": [
-		"H 322"
-	],
 	"max": 15,
 	"name": "Research Methods",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 322",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 322",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 322",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

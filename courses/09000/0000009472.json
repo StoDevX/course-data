@@ -1,21 +1,36 @@
 {
-	"clbid": 9472,
+	"clbid": "0000009472",
 	"credits": 1.0,
-	"crsid": 505,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 13,
+	"crsid": "0000000505",
+	"department": "GERM",
+	"enrolled": 13,
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 100,
-	"locations": [
-		"OM 035"
-	],
 	"max": 30,
 	"name": "Beginning German II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "OM 035",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

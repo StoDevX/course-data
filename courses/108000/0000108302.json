@@ -1,14 +1,12 @@
 {
-	"clbid": 108302,
+	"clbid": "0000108302",
 	"credits": 0.25,
-	"crsid": 1009,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001009",
+	"department": "ESAC",
 	"description": [
 		"This course introduces students to the lifetime sport of fly-fishing and fly-tying. Equipment available. Course fee."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,15 +14,26 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 112"
-	],
 	"max": 15,
 	"name": "Fly Fishing",
 	"notes": [
 		"Open to seniors only."
 	],
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC 112",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "SAC 112",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,9 +65,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"title": "Fly-Fishing/Fly-Tying",
 	"type": "Research",
 	"year": 2016

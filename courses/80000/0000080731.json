@@ -1,14 +1,12 @@
 {
-	"clbid": 80731,
+	"clbid": "0000080731",
 	"credits": 1.0,
-	"crsid": 22777,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000022777",
+	"department": "CSCI",
 	"description": [
 		"Students engage fundamental concepts and diverse capabilities of computing and also explore the many layers of computing, including information, hardware, programming, application, and communication layers. The course focuses on algorithmic thinking and the representation and analysis of algorithms. Students investigate ideas through technical and non-technical reading introducing them to computer science and programming. The course is intended for all students."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Richard Allen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 25,
 	"name": "Gateways Computer Science",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Gateways to Computer Science",
 	"type": "Research",
 	"year": 2011

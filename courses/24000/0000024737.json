@@ -1,21 +1,36 @@
 {
-	"clbid": 24737,
+	"clbid": "0000024737",
 	"credits": 1.0,
-	"crsid": 976,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 11,
+	"crsid": "0000000976",
+	"department": "PHIL",
+	"enrolled": 11,
 	"instructors": [
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [
-		"SC 310"
-	],
 	"max": 25,
 	"name": "Philosophy & Feminism",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 310",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 310",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 310",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

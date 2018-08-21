@@ -1,21 +1,36 @@
 {
-	"clbid": 19567,
+	"clbid": "0000019567",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 22,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 22,
 	"instructors": [
 		"Richard Senese"
 	],
 	"level": 300,
-	"locations": [
-		"H 301"
-	],
 	"max": 24,
 	"name": "Sem: Addictions",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 301",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 301",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 301",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 1996
 }

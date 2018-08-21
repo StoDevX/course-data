@@ -1,14 +1,12 @@
 {
-	"clbid": 110427,
+	"clbid": "0000110427",
 	"credits": 0.25,
-	"crsid": 1018,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001018",
+	"department": "ESAC",
 	"description": [
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Kayla R. Hatting"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Wt Training-Women",
 	"number": 142,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"title": "Weight Training Women",
 	"type": "Research",
 	"year": 2016

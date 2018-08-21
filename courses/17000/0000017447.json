@@ -1,21 +1,36 @@
 {
-	"clbid": 17447,
+	"clbid": "0000017447",
 	"credits": 1.0,
-	"crsid": 1221,
-	"departments": [
-		"REL"
-	],
-	"enroll": 21,
+	"crsid": "0000001221",
+	"department": "REL",
+	"enrolled": 21,
 	"instructors": [
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 20,
 	"name": "Religions China/Japan",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CH 111",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CH 111",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CH 111",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19951,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1191,
+	"clbid": "0000001191",
 	"credits": 0.5,
-	"crsid": 352,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 15,
+	"crsid": "0000000352",
+	"department": "DNCTE",
+	"enrolled": 15,
 	"instructors": [
 		"Judith Nelson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 18,
 	"name": "Movement/Perf Artist",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 140",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

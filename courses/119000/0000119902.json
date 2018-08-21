@@ -1,22 +1,25 @@
 {
-	"clbid": 119902,
+	"clbid": "0000119902",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 0,
+	"groupid": "0000001080",
 	"instructors": [
 		"Alden Adolph"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 12,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "RNS 293",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.579949+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.034797+00:00",
+			"clbid": 119902,
+			"crsid": 17584,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1080,
+			"locations": [
+				"RNS 293"
+			],
+			"offerings": null,
+			"times": [
+				"M 0100-0330PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 63195,
+	"clbid": "0000063195",
 	"credits": 0.5,
-	"crsid": 357,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000357",
+	"department": "DANCE",
 	"description": [
 		"Students expand their understanding of modern dance by building on the components of Level I, adding attention to movement qualities, elements of space, dance vocabulary and technique with an emphasis on phrasing and sequences. This section is open to majors and general students with instructor's permission. Prerequisite: Dance 111 and permission of instructor. Offered both semesters. 211 may be repeated with instructor's permission."
 	],
-	"enroll": 4,
+	"enrolled": 4,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Sheryl Saterstrom"
 	],
 	"level": 200,
-	"locations": [
-		"CAD _STUDIO_2"
-	],
 	"max": 5,
 	"name": "Modern Dance II",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD _STUDIO_2",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD _STUDIO_2",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Dance 111 and permission of instructor. Offered both semesters. 211 may be repeated with instructor's permission.",
 	"revisions": [
@@ -51,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

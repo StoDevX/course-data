@@ -1,22 +1,30 @@
 {
-	"clbid": 4936,
+	"clbid": "0000004936",
 	"credits": 0.5,
-	"crsid": 359,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 5,
+	"crsid": "0000000359",
+	"department": "DNCTE",
+	"enrolled": 5,
 	"instructors": [
 		"Jennifer Bader"
 	],
 	"level": 200,
-	"locations": [
-		"CAD STUDIO 2",
-		"CAD STUDIO 2"
-	],
 	"max": 4,
 	"name": "Ballet II",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD STUDIO 2",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD STUDIO 2",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

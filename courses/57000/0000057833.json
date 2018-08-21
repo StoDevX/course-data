@@ -1,24 +1,39 @@
 {
-	"clbid": 57833,
+	"clbid": "0000057833",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered both semesters."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 18,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121. Offered both semesters.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2007

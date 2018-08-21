@@ -1,21 +1,30 @@
 {
-	"clbid": 22779,
+	"clbid": "0000022779",
 	"credits": 1.0,
-	"crsid": 1146,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 16,
+	"crsid": "0000001146",
+	"department": "PSCI",
+	"enrolled": 16,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 25,
 	"name": "Methods: Pub Opinion",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 514",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 514",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 15874,
+	"clbid": "0000015874",
 	"credits": 1.0,
-	"crsid": 268,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 22,
+	"crsid": "0000000268",
+	"department": "ECON",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 23,
 	"name": "Development Economics",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "H 317",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "H 317",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "H 317",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

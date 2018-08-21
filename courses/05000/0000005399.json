@@ -1,22 +1,30 @@
 {
-	"clbid": 5399,
+	"clbid": "0000005399",
 	"credits": 1.0,
-	"crsid": 1216,
-	"departments": [
-		"REL"
-	],
-	"enroll": 25,
+	"crsid": "0000001216",
+	"department": "REL",
+	"enrolled": 25,
 	"instructors": [
 		"James Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101",
-		"BMC 101"
-	],
 	"max": 20,
 	"name": "Judaism,Christ,ISlam",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 101",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 101",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

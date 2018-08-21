@@ -1,22 +1,42 @@
 {
-	"clbid": 6717,
+	"clbid": "0000006717",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 11,
 	"instructors": [
 		"Mary C. Henry"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "14:20",
+			"location": "SC 273",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000",
-		"W 1150-0220PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

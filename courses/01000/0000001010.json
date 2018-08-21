@@ -1,21 +1,30 @@
 {
-	"clbid": 1010,
+	"clbid": "0000001010",
 	"credits": 1.0,
-	"crsid": 66,
-	"departments": [
-		"ART"
-	],
-	"enroll": 3,
+	"crsid": "0000000066",
+	"department": "ART",
+	"enrolled": 3,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"FH SEM"
-	],
 	"max": 20,
 	"name": "Topics in Art History",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH SEM",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH SEM",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 2000
 }

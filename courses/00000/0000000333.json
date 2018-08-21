@@ -1,21 +1,36 @@
 {
-	"clbid": 333,
+	"clbid": "0000000333",
 	"credits": 1.0,
-	"crsid": 666,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 6,
+	"crsid": "0000000666",
+	"department": "JAPAN",
+	"enrolled": 6,
 	"instructors": [
 		"Gia Someya"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Advanced Japanese I",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 3",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 3",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 3",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

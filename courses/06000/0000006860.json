@@ -1,23 +1,31 @@
 {
-	"clbid": 6860,
+	"clbid": "0000006860",
 	"credits": 0.5,
-	"crsid": 336,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 25,
+	"crsid": "0000000336",
+	"department": "EDUC",
+	"enrolled": 25,
 	"halfcredit": "2",
 	"instructors": [
 		"Mark Schelske"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10"
-	],
 	"max": 30,
 	"name": "The Exceptional Child",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH 10",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "FH 10",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +44,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

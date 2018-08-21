@@ -1,14 +1,12 @@
 {
-	"clbid": 75331,
+	"clbid": "0000075331",
 	"credits": 1.0,
-	"crsid": 17683,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000017683",
+	"department": "HIST",
 	"description": [
 		"Students survey politics, religion, and society from the Reformation through the era of the Glorious Revolution. Using both contemporary authors and historical writings, students examine the reigns of Henry VIII and Elizabeth I, the introduction of Protestantism, the Anglican Church and its puritan critics, the conflict between the Stuart kings and parliament, the revolutions of the 17th century, and the establishment of liberty for conscience. Offered periodically."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,12 +14,29 @@
 		"Gary De Krey"
 	],
 	"level": 200,
-	"locations": [
-		"HH 403"
-	],
 	"max": 35,
 	"name": "Reformation England",
 	"number": 219,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 403",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 403",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 403",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2010
 }

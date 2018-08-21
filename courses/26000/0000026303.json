@@ -1,21 +1,36 @@
 {
-	"clbid": 26303,
+	"clbid": "0000026303",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 28,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 28,
 	"instructors": [
 		"Steve Soderlind"
 	],
 	"level": 100,
-	"locations": [
-		"M 2"
-	],
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

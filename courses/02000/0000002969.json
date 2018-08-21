@@ -1,21 +1,36 @@
 {
-	"clbid": 2969,
+	"clbid": "0000002969",
 	"credits": 1.0,
-	"crsid": 267,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 21,
+	"crsid": "0000000267",
+	"department": "ECON",
+	"enrolled": 21,
 	"instructors": [
 		"Asitha Sandanayake"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 25,
 	"name": "Environmental Econ",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 413",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 413",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 413",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

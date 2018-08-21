@@ -1,22 +1,30 @@
 {
-	"clbid": 11967,
+	"clbid": "0000011967",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 19,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 19,
 	"instructors": [
 		"Mary V. Winstead"
 	],
 	"level": 100,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 19,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TB 227",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB 227",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

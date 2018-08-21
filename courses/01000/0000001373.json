@@ -1,21 +1,36 @@
 {
-	"clbid": 1373,
+	"clbid": "0000001373",
 	"credits": 1.0,
-	"crsid": 728,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 22,
+	"crsid": "0000000728",
+	"department": "MATH",
+	"enrolled": 22,
 	"instructors": [
 		"Peder Bolstad"
 	],
 	"level": 100,
-	"locations": [
-		"SC 188"
-	],
 	"max": 25,
 	"name": "Gateways/Mathematics",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

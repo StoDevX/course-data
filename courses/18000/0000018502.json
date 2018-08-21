@@ -1,21 +1,30 @@
 {
-	"clbid": 18502,
+	"clbid": "0000018502",
 	"credits": 1.0,
-	"crsid": 1121,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 12,
+	"crsid": "0000001121",
+	"department": "PSCI",
+	"enrolled": 12,
 	"instructors": [
 		"J. Patrick Dale"
 	],
 	"level": 200,
-	"locations": [
-		"L 577"
-	],
 	"max": 30,
 	"name": "Pol/Indus Societies",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

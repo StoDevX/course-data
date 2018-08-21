@@ -1,21 +1,36 @@
 {
-	"clbid": 1638,
+	"clbid": "0000001638",
 	"credits": 1.0,
-	"crsid": 1207,
-	"departments": [
-		"REL"
-	],
-	"enroll": 27,
+	"crsid": "0000001207",
+	"department": "REL",
+	"enrolled": 27,
 	"instructors": [
 		"William Poehlmann"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 27,
 	"name": "St.Paul/Letter/Gospel",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CH 111",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CH 111",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CH 111",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

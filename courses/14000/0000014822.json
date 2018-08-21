@@ -1,21 +1,30 @@
 {
-	"clbid": 14822,
+	"clbid": "0000014822",
 	"credits": 1.0,
-	"crsid": 1619,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 9,
+	"crsid": "0000001619",
+	"department": "EDUC",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 30,
 	"name": "Environmental Educ",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 129",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

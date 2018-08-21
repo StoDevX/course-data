@@ -1,22 +1,30 @@
 {
-	"clbid": 9141,
+	"clbid": "0000009141",
 	"credits": 0.5,
-	"crsid": 25,
-	"departments": [
-		"ART"
-	],
-	"enroll": 14,
+	"crsid": "0000000025",
+	"department": "ART",
+	"enrolled": 14,
 	"instructors": [
 		"Patrick T. Kelley"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 100",
-		"CAD 100"
-	],
 	"max": 11,
 	"name": "Found Digital Media",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 100",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 100",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,22 +1,43 @@
 {
-	"clbid": 66418,
+	"clbid": "0000066418",
 	"credits": 0.0,
-	"crsid": 17249,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 26,
-	"groupid": 110,
+	"crsid": "0000017249",
+	"department": "BIO",
+	"enrolled": 26,
+	"groupid": "0000000110",
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 24,
 	"name": "Genetics/Evol/Soc Lab",
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +55,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20082,
-	"times": [
-		"M-Th 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

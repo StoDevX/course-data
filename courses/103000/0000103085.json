@@ -1,25 +1,33 @@
 {
-	"clbid": 103085,
+	"clbid": "0000103085",
 	"credits": 1.0,
-	"crsid": 1384,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001384",
+	"department": "THEAT",
 	"description": [
 		"A studio course for the student with previous acting experience. Through scene and monologue work students explore text and character analysis as well as the requirements of major theatrical period styles. Students perform regularly throughout the semester. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. Offered annually in the spring semester. Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Dona W. Freeman"
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 14,
 	"name": "Intermediate Acting",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB Haugen",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB Haugen",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

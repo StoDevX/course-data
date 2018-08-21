@@ -1,21 +1,30 @@
 {
-	"clbid": 14995,
+	"clbid": "0000014995",
 	"credits": 1.0,
-	"crsid": 1862,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 12,
+	"crsid": "0000001862",
+	"department": "HIST",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 130"
-	],
 	"max": 20,
 	"name": "Sem: Eur Between Wars",
 	"number": 314,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

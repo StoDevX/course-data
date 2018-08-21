@@ -1,23 +1,36 @@
 {
-	"clbid": 4774,
+	"clbid": "0000004774",
 	"credits": 1.0,
-	"crsid": 124,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 14,
+	"crsid": "0000000124",
+	"department": "BIO",
+	"enrolled": 14,
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278",
-		"SC 278",
-		"SC 269"
-	],
 	"max": 18,
 	"name": "Vertebrate Biology",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 269",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,11 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920",
-		"Th 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

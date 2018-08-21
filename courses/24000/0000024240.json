@@ -1,21 +1,30 @@
 {
-	"clbid": 24240,
+	"clbid": "0000024240",
 	"credits": 0.5,
-	"crsid": 22,
-	"departments": [
-		"ART"
-	],
-	"enroll": 15,
+	"crsid": "0000000022",
+	"department": "ART",
+	"enrolled": 15,
 	"instructors": [
 		"John Saurer"
 	],
 	"level": 100,
-	"locations": [
-		"FH 18"
-	],
 	"max": 17,
 	"name": "Foundation Sculpture",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:30",
+			"location": "FH 18",
+			"start": "15:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:30",
+			"location": "FH 18",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0300-0430PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

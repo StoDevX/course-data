@@ -1,21 +1,30 @@
 {
-	"clbid": 4989,
+	"clbid": "0000004989",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 11,
+	"crsid": "0000000468",
+	"department": "ENVST",
+	"enrolled": 11,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 999,
 	"name": "Sem: Environ Studies",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "BMC 110",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "BMC 110",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MW 0200-0400PM"
-	],
 	"type": "Seminar",
 	"year": 2002
 }

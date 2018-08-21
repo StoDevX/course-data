@@ -1,21 +1,36 @@
 {
-	"clbid": 18930,
+	"clbid": "0000018930",
 	"credits": 1.0,
-	"crsid": 38,
-	"departments": [
-		"ART"
-	],
-	"enroll": 15,
+	"crsid": "0000000038",
+	"department": "ART",
+	"enrolled": 15,
 	"instructors": [
 		"Jan Shoger"
 	],
 	"level": 200,
-	"locations": [
-		"FH 44"
-	],
 	"max": 15,
 	"name": "Printmkg: Relief/Litho",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "FH 44",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "FH 44",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "FH 44",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"MWF 1045-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

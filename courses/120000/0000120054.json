@@ -1,22 +1,25 @@
 {
-	"clbid": 120054,
+	"clbid": "0000120054",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 0,
+	"groupid": "0000000194",
 	"instructors": [
 		"Gregory W. Muth"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 20,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 350",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.678378+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.342883+00:00",
+			"clbid": 120054,
+			"crsid": 195,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 194,
+			"locations": [
+				"RNS 350"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

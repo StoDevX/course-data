@@ -1,21 +1,30 @@
 {
-	"clbid": 5191,
+	"clbid": "0000005191",
 	"credits": 0.25,
-	"crsid": 838,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000000838",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Anne D. Schnauber"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 15,
 	"name": "Lyric Diction II",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 224",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 224",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 116092,
+	"clbid": "0000116092",
 	"credits": 1.0,
-	"crsid": 22780,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000022780",
+	"department": "ESTH",
 	"description": [
 		"This course presents the fundamental principles of exercise testing and prescription for both healthy and special needs individuals. Students explore techniques for assessing fitness and prescribing exercise using a variety of ergometers for improvement of health fitness parameters. Students also utilize case studies and laboratory experiences. Topics include health/medical histories, submaximal graded exercise testing, and assessment of strength, flexibility, pulmonary functions, and body composition. Offered annually. Prerequisites: BIO 143, BIO 243 and ESTH 375."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"Jennifer M. Holbein"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 30,
 	"name": "Exercise Prescription",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SAC 103",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SAC 103",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SAC 103",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: BIO 143, BIO 243 and ESTH 375.",
 	"revisions": [
@@ -61,9 +76,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Fitness Assessment and Exercise Prescription",
 	"type": "Research",
 	"year": 2017

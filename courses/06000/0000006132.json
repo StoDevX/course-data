@@ -1,21 +1,30 @@
 {
-	"clbid": 6132,
+	"clbid": "0000006132",
 	"credits": 0.25,
-	"crsid": 1002,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 26,
+	"crsid": "0000001002",
+	"department": "PEAC",
+	"enrolled": 26,
 	"instructors": [
 		"Lori Cooling"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_C"
-	],
 	"max": 24,
 	"name": "Volleyball",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC_GYM_C",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC_GYM_C",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

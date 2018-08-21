@@ -1,22 +1,30 @@
 {
-	"clbid": 7649,
+	"clbid": "0000007649",
 	"credits": 1.0,
-	"crsid": 76,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 21,
+	"crsid": "0000000076",
+	"department": "ASIAN",
+	"enrolled": 21,
 	"instructors": [
 		"Barbara Reed"
 	],
 	"level": 100,
-	"locations": [
-		"OM 015",
-		"OM 015"
-	],
 	"max": 18,
 	"name": "Family & Self/E Asia",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 015",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 015",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

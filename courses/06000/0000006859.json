@@ -1,23 +1,31 @@
 {
-	"clbid": 6859,
+	"clbid": "0000006859",
 	"credits": 0.5,
-	"crsid": 335,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 17,
+	"crsid": "0000000335",
+	"department": "EDUC",
+	"enrolled": 17,
 	"halfcredit": "1",
 	"instructors": [
 		"Mark Schelske"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10"
-	],
 	"max": 30,
 	"name": "Counsel/Comm in Schls",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 10",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "FH 10",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +44,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

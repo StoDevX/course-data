@@ -1,21 +1,30 @@
 {
-	"clbid": 1730,
+	"clbid": "0000001730",
 	"credits": 1.0,
-	"crsid": 2487,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 4,
+	"crsid": "0000002487",
+	"department": "THEAT",
+	"enrolled": 4,
 	"instructors": [
 		"Linda Devenish"
 	],
 	"level": 300,
-	"locations": [
-		"CT 216"
-	],
 	"max": 20,
 	"name": "Topics: Intercult Comm",
 	"number": 389,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Topic",
 	"year": 2000
 }

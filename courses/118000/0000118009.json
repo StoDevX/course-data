@@ -1,14 +1,12 @@
 {
-	"clbid": 118009,
+	"clbid": "0000118009",
 	"credits": 1.0,
-	"crsid": 626,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000626",
+	"department": "HIST",
 	"description": [
 		"This course offers selected surveys in historical studies. Topics depend on instructor. Recent topics have included \"Women in Early America,\" \"U.S.-Latin American Relations,\" and \"Doing Public History.\" May be repeated if topic is different. Offered periodically."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"HWC",
 		"ORC"
@@ -17,13 +15,23 @@
 		"Kevin Mummey"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 186",
-		"TOH 186"
-	],
 	"max": 25,
 	"name": "Top: Reel Middle Ages",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 186",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 186",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -71,10 +79,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2017

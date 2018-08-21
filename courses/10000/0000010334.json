@@ -1,23 +1,26 @@
 {
-	"clbid": 10334,
+	"clbid": "0000010334",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 12,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 12,
+	"groupid": "0000000192",
 	"grouptype": "2",
 	"instructors": [
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/363"
-	],
 	"max": 18,
 	"name": "Struct Chem/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 374/363",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 16098,
+	"clbid": "0000016098",
 	"credits": 1.0,
-	"crsid": 664,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 7,
+	"crsid": "0000000664",
+	"department": "JAPAN",
+	"enrolled": 7,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 4"
-	],
 	"max": 999,
 	"name": "Intermed Japanese II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

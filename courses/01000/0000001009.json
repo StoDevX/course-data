@@ -1,21 +1,30 @@
 {
-	"clbid": 1009,
+	"clbid": "0000001009",
 	"credits": 1.0,
-	"crsid": 59,
-	"departments": [
-		"ART"
-	],
-	"enroll": 31,
+	"crsid": "0000000059",
+	"department": "ART",
+	"enrolled": 31,
 	"instructors": [
 		"A. Malcolm Gimse"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 30,
 	"name": "World Architecture",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 01",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 01",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,22 +1,31 @@
 {
-	"clbid": 22677,
+	"clbid": "0000022677",
 	"credits": 0.25,
-	"crsid": 1000,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 12,
+	"crsid": "0000001000",
+	"department": "PEAC",
+	"enrolled": 12,
 	"halfcredit": "2",
 	"instructors": [
 		"Judith Tegtmeyer"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 24,
 	"name": "Orienteering",
 	"number": 109,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC 140",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC 140",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

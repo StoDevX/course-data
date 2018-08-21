@@ -1,21 +1,36 @@
 {
-	"clbid": 4015,
+	"clbid": "0000004015",
 	"credits": 1.0,
-	"crsid": 608,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 41,
+	"crsid": "0000000608",
+	"department": "HIST",
+	"enrolled": 41,
 	"instructors": [
 		"Robert Entenmann"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 40,
 	"name": "Chinese Civilization",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

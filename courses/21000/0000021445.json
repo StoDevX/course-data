@@ -1,21 +1,36 @@
 {
-	"clbid": 21445,
+	"clbid": "0000021445",
 	"credits": 1.0,
-	"crsid": 713,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 23,
+	"crsid": "0000000713",
+	"department": "LATIN",
+	"enrolled": 23,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "Intermediate Latin",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

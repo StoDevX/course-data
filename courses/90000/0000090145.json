@@ -1,14 +1,12 @@
 {
-	"clbid": 90145,
+	"clbid": "0000090145",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001168",
+	"department": "PSYCH",
 	"description": [
 		"This course helps students better understand human development from the moment of conception and across the life span. The course focuses on biological and environmental factors that shape human development. Major changes in physical, cognitive, personality and social development are discussed. Prerequisite: Psychology 125. Offered each semester. Counts toward nursing, social work, and women's and gender studies majors and educational studies, family studies, and women's and gender studies concentrations."
 	],
-	"enroll": 34,
+	"enrolled": 34,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Grace E. Cho"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 30,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 290",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 290",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Psychology 125. Offered each semester. Counts toward nursing, social work, and women's and gender studies majors and educational studies, family studies, and women's and gender studies concentrations.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Developmental Psychology",
 	"type": "Research",
 	"year": 2013

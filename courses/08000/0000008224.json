@@ -1,22 +1,30 @@
 {
-	"clbid": 8224,
+	"clbid": "0000008224",
 	"credits": 1.0,
-	"crsid": 969,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 22,
+	"crsid": "0000000969",
+	"department": "PHIL",
+	"enrolled": 22,
 	"instructors": [
 		"Anthony J. Rudd"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 22,
 	"name": "Kierkegaard",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120749,
+	"clbid": "0000120749",
 	"credits": 1.0,
-	"crsid": 322,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000322",
+	"department": "EDUC",
 	"description": [
 		"This course examines basic assumptions about social science, primal thought, feminism, humanities, history, post-modernism, and thematic social studies. Students pursue methodologies of structuring knowledge and means of advancing knowledge in each discipline. Students learn how to relate their social studies subject matter to the total social studies curriculum. Offered annually in the spring semester. Prerequisite: EDUC 260 or EDUC 290 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Robert W. McClure"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214",
-		"TOH 214"
-	],
 	"max": 12,
 	"name": "Social Studies Perspectives",
 	"notes": [
 		"Open to Juniors and Seniors only."
 	],
 	"number": 334,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 214",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 214",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 260 or EDUC 290 or permission of instructor.",
 	"revisions": [
@@ -43,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:49.078313+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.381019+00:00",
+			"clbid": 120749,
+			"crsid": 322,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 214",
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

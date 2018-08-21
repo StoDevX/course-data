@@ -1,24 +1,33 @@
 {
-	"clbid": 64280,
+	"clbid": "0000064280",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000199",
+	"department": "CHEM",
 	"description": [
 		"This courses introduces students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using optical rotation measurements and infrared, and nuclear magnetic resonance spectroscopy. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Sally Kessler"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 999,
 	"name": "Synthesis Lab I",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20074,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",
 	"year": 2007

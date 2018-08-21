@@ -1,21 +1,30 @@
 {
-	"clbid": 23105,
+	"clbid": "0000023105",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 19975,
-	"times": [
-		"WTh 1000-1130"
-	],
 	"type": "Lab",
 	"year": 1997
 }

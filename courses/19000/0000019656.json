@@ -1,21 +1,30 @@
 {
-	"clbid": 19656,
+	"clbid": "0000019656",
 	"credits": 1.0,
-	"crsid": 1294,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001294",
+	"department": "SOAN",
+	"enrolled": 23,
 	"instructors": [
 		"Walter T. Hoops"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 25,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

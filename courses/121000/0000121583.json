@@ -1,14 +1,12 @@
 {
-	"clbid": 121583,
+	"clbid": "0000121583",
 	"credits": 1.0,
-	"crsid": 22812,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000022812",
+	"department": "PHIL",
 	"description": [
 		"It is a platitude that democracy is a triumph of liberal civilization. Yet critics have charged that democratic citizens are ignorant and ill equipped to understand complex policy issues. This course explores the moral justifications for democracy in light of major objections and investigates whether there is something genuinely virtuous about the kind of society it sustains. Students discuss sources in political philosophy, economics, and political science. Offered periodically. Prerequisite: BTS-T or permission of instructor."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"EIN"
 	],
@@ -16,9 +14,6 @@
 		"Michael Fuerstein"
 	],
 	"level": 200,
-	"locations": [
-		"HH 522"
-	],
 	"max": 19,
 	"name": "Democracy: Rule of the Ignorant?",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Open only to rising seniors and juniors during web registration."
 	],
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 522",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 522",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 522",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-T or permission of instructor.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.462094+00:00",
 			"enroll": "18",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.471867+00:00",
+			"clbid": 121583,
+			"crsid": 22812,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"HH 522"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

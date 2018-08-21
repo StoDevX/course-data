@@ -1,22 +1,30 @@
 {
-	"clbid": 4281,
+	"clbid": "0000004281",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 22,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 22,
 	"instructors": [
 		"Deborah Anderson"
 	],
 	"level": 300,
-	"locations": [
-		"ST",
-		"ST"
-	],
 	"max": 18,
 	"name": "Sem: Health Psych",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "ST",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "ST",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2002
 }

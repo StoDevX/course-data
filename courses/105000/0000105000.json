@@ -1,14 +1,12 @@
 {
-	"clbid": 105000,
+	"clbid": "0000105000",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Hwayeon Ryu"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 24,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2015
 }

@@ -1,15 +1,12 @@
 {
-	"clbid": 108140,
+	"clbid": "0000108140",
 	"credits": 1.0,
-	"crsid": 1222,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001222",
+	"department": "AS/RE",
 	"description": [
 		"This course studies the Buddhist view of the human predicament and its solution. Students examine the life of the Buddha, Buddhist scriptures, and the historical and philosophical development of Theravada and Mahayana Buddhism in East and Southeast Asia."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,12 +14,29 @@
 		"Ben Van Overmeire"
 	],
 	"level": 200,
-	"locations": [
-		"OM 110"
-	],
 	"max": 24,
 	"name": "Buddhism",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 110",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 110",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 110",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -66,9 +80,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2016
 }

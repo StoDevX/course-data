@@ -1,14 +1,12 @@
 {
-	"clbid": 101871,
+	"clbid": "0000101871",
 	"credits": 1.0,
-	"crsid": 778,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000778",
+	"department": "MGMT",
 	"description": [
 		"This course familiarizes the student with the major management functions of planning, organizing, leading, and controlling. The study of management theory is linked with application exercises. Students begin to develop the management skills necessary in any organization, whether it be a for-profit or not-for-profit venture, a small business, or a large corporation.This course is required for all students pursuing a management studies concentration. Offered each semester. Prerequisite: one of Economics 110-121 or permission of instructor."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,15 +14,32 @@
 		"Steven Pederson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 010"
-	],
 	"max": 30,
 	"name": "Management",
 	"notes": [
 		"Not open to first-year students."
 	],
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 010",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 010",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 010",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-121 or permission of instructor.",
 	"revisions": [
@@ -65,9 +80,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

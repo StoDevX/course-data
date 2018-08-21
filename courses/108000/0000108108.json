@@ -1,23 +1,26 @@
 {
-	"clbid": 108108,
+	"clbid": "0000108108",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 8,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 8,
+	"groupid": "0000026649",
 	"grouptype": "2",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 20,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"M 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

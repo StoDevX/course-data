@@ -1,21 +1,30 @@
 {
-	"clbid": 16147,
+	"clbid": "0000016147",
 	"credits": 1.0,
-	"crsid": 755,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 6,
+	"crsid": "0000000755",
+	"department": "MATH",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 182"
-	],
 	"max": 999,
 	"name": "Real Analysis",
 	"number": 344,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 182",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

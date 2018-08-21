@@ -1,21 +1,36 @@
 {
-	"clbid": 20430,
+	"clbid": "0000020430",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 30,
+	"crsid": "0000000733",
+	"department": "MATH",
+	"enrolled": 30,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

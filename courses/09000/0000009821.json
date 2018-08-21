@@ -1,21 +1,24 @@
 {
-	"clbid": 9821,
+	"clbid": "0000009821",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 13,
+	"crsid": "0000001142",
+	"department": "PSCI",
+	"enrolled": 13,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301"
-	],
 	"max": 25,
 	"name": "Top: Urban Politics",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 301",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Topic",
 	"year": 2004
 }

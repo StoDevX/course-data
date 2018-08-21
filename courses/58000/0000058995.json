@@ -1,23 +1,26 @@
 {
-	"clbid": 58995,
+	"clbid": "0000058995",
 	"credits": 0.0,
-	"crsid": 1085,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 17,
-	"groupid": 1084,
+	"crsid": "0000001085",
+	"department": "PHYS",
+	"enrolled": 17,
+	"groupid": "0000001084",
 	"instructors": [
 		"Jason J. Engbrecht",
 		"Brian Borovsky"
 	],
 	"level": 200,
-	"locations": [
-		"SC 125"
-	],
 	"max": 16,
 	"name": "Electronics Lab",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 125",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

@@ -1,21 +1,16 @@
 {
-	"clbid": 120673,
+	"clbid": "0000120673",
 	"credits": 0.5,
-	"crsid": 22779,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000022779",
+	"department": "EDUC",
 	"description": [
 		"This course focuses on evidence-based best practices in reading instruction that can be used across the curriculum by secondary teachers. Students acquire the necessary knowledge, skills, and strategies to teach reading in the teaching candidate's content area(s).Required 10-hour field experience. Offered each semester. Prerequisite: EDUC 330 or permission of the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Elizabeth A. Leer"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 24,
 	"name": "Reading in the Content Area",
 	"notes": [
@@ -23,6 +18,14 @@
 		"instructor)"
 	],
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TOH 214",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330 or permission of the instructor.",
 	"revisions": [
@@ -45,14 +48,29 @@
 			"_updated": "2018-08-07T14:48:49.038145+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.278388+00:00",
+			"clbid": 120673,
+			"crsid": 22779,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925"
-	],
 	"type": "Research",
 	"year": 2018
 }

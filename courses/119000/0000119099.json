@@ -1,27 +1,42 @@
 {
-	"clbid": 119099,
+	"clbid": "0000119099",
 	"credits": 1.0,
-	"crsid": 1094,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001094",
+	"department": "PHYS",
 	"description": [
 		"Students investigate Quantum Theory, in which a particle's behavior is described through a statistically-interpreted wave function rather than through the concepts of Newtonian mechanics. Topics include an examination of the conceptual framework of Quantum Mechanics, solution of the Schrodinger Equation for systems such as the harmonic oscillator and the hydrogen atom, and approximation methods for treating more complex systems and the interaction of radiation with matter. Students in this course are normally registered for PHYS 386 as well, in order to complete the requirements for the physics major. Offered annually in the fall semester. Prerequisites: PHYS 244, PHYS 374, and one of the following: MATH 226, MATH 330, CSCI 251, or similar course upon approval of the department chair."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 25,
 	"name": "Quantum Mechanics",
 	"notes": [
 		"Open only to rising seniors and juniors."
 	],
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 244, PHYS 374, and one of the following: MATH 226, MATH 330, CSCI 251, or similar course upon approval of the department chair.",
 	"revisions": [
@@ -38,14 +53,29 @@
 			"_updated": "2018-08-07T14:48:45.255606+00:00",
 			"enroll": "13",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.958764+00:00",
+			"clbid": 119099,
+			"crsid": 1094,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"RNS 297"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 6005,
+	"clbid": "0000006005",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 17,
+	"crsid": "0000000734",
+	"department": "MATH",
+	"enrolled": 17,
 	"instructors": [
 		"Amelia J. Taylor"
 	],
 	"level": 100,
-	"locations": [
-		"SC 130"
-	],
 	"max": 30,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2003
 }

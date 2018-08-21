@@ -1,22 +1,25 @@
 {
-	"clbid": 119904,
+	"clbid": "0000119904",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 0,
+	"groupid": "0000001080",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 12,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:15",
+			"location": "RNS 293",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:48.581697+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.040503+00:00",
+			"clbid": 119904,
+			"crsid": 17584,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1080,
+			"locations": [
+				"RNS 293"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0315PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1245-0315PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

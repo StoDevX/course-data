@@ -1,21 +1,30 @@
 {
-	"clbid": 3097,
+	"clbid": "0000003097",
 	"credits": 1.0,
-	"crsid": 488,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 10,
+	"crsid": "0000000488",
+	"department": "FREN",
+	"enrolled": 10,
 	"instructors": [
 		"Scott Homler"
 	],
 	"level": 200,
-	"locations": [
-		"M 26"
-	],
 	"max": 30,
 	"name": "Per Stud: 20th Century",
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 26",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 26",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

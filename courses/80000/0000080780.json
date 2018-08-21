@@ -1,14 +1,12 @@
 {
-	"clbid": 80780,
+	"clbid": "0000080780",
 	"credits": 1.0,
-	"crsid": 21401,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000021401",
+	"department": "REL",
 	"description": [
 		"This course addresses theological understandings of love, desire, embodiment, and relationship in the context of human sexuality. Students study classic theological treatments of sexuality, with attention to the tension between positive and negative appraisals of sex; and they study contemporary theological discussions about subjects that have given rise to controversy, such as marriage, gender, family, or commodification. Prerequisite: BTS-B."
 	],
-	"enroll": 65,
+	"enrolled": 65,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -17,13 +15,23 @@
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501",
-		"HH 501"
-	],
 	"max": 70,
 	"name": "Theology and Sexuality",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 501",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 501",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2011
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 122040,
+	"clbid": "0000122040",
 	"credits": 0.25,
-	"crsid": 32553,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000032553",
+	"department": "DANCE",
 	"description": [
 		"This course explores dance techniques and styles influenced by the complexity within African art and dance aesthetics, including polyrhythm, polycentrism, and ephebism. Students investigate these African aesthetic retentions through the study and fusion of West African, Hip Hop, House, Dunham, and contemporary forms. Students investigate the idea and politics surrounding \"fusion,\" specifically in the United States of America. P/N only. Offered each semester."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Arneshia L. Williams"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 25,
 	"name": "African Fusion I",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CAD Studio 2",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD Studio 2",
+			"start": "14:40"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -36,16 +44,32 @@
 			"_updated": "2018-08-07T14:48:45.556074+00:00",
 			"enroll": "10",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.671530+00:00",
+			"clbid": 122040,
+			"crsid": 32553,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 2",
+				"CAD Studio 2"
+			],
+			"offerings": null,
+			"times": [
+				"T 0200-0255PM",
+				"Th 0240-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0200-0255PM",
-		"Th 0240-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

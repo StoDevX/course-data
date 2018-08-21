@@ -1,14 +1,12 @@
 {
-	"clbid": 67745,
+	"clbid": "0000067745",
 	"credits": 1.0,
-	"crsid": 632,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000632",
+	"department": "HIST",
 	"description": [
 		"This seminar covers various topics in modern European history, depending upon the instructor. Recent topics have included \"The Holocaust and History,\" \"Race, Gender, and Medicine,\" \"European Enlightenment,\" and \"Modern Russia.\" May be repeated if topics are different. Pre-requisites for certain offerings. Offered most years."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Dolores Peters"
 	],
 	"level": 300,
-	"locations": [
-		"OM 015",
-		"OM 015"
-	],
 	"max": 17,
 	"name": "Sem: Race,Gender,Medicine",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 015",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 015",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Seminar: Modern Europe",
 	"type": "Seminar",
 	"year": 2009

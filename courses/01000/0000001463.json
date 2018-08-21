@@ -1,21 +1,30 @@
 {
-	"clbid": 1463,
+	"clbid": "0000001463",
 	"credits": 1.0,
-	"crsid": 935,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 24,
+	"crsid": "0000000935",
+	"department": "NORW",
+	"enrolled": 24,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 300,
-	"locations": [
-		"M 15"
-	],
 	"max": 30,
 	"name": "Ibsen-Tr",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 15",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 15",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

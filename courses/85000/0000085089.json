@@ -1,14 +1,12 @@
 {
-	"clbid": 85089,
+	"clbid": "0000085089",
 	"credits": 1.0,
-	"crsid": 638,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000638",
+	"department": "HIST",
 	"description": [
 		"This seminar covers varying topics in American history, depending upon the instructor. Recent topics have included \"Lincoln and his America,\" \"The American Revolution,\" and \"19th-Century American Political Culture.\" May be repeated if topics are different. Offered most years."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Steven C. Hahn"
 	],
 	"level": 300,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 20,
 	"name": "Sem: American Rev",
 	"number": 370,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "American Seminar",
 	"type": "Seminar",
 	"year": 2012

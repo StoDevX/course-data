@@ -1,21 +1,36 @@
 {
-	"clbid": 18283,
+	"clbid": "0000018283",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 26,
+	"crsid": "0000000740",
+	"department": "MATH",
+	"enrolled": 26,
 	"instructors": [
 		"Laura Chihara"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 25,
 	"name": "Int Differ Equations",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

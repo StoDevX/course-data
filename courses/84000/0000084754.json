@@ -1,14 +1,12 @@
 {
-	"clbid": 84754,
+	"clbid": "0000084754",
 	"credits": 1.0,
-	"crsid": 1138,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001138",
+	"department": "PSCI",
 	"description": [
 		"Once the purview of diplomats and generals, international law has broken those narrow confines and is becoming a part of traditional practice in areas of business, environment, human rights, and criminal law. This course introduces students to this vast and changing subject from a liberal arts perspective, including its history, theory, and practice."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"HWC",
 		"ORC"
@@ -17,13 +15,23 @@
 		"Anthony Lott"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 19,
 	"name": "International Law",
 	"number": 285,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 111",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 111",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2012
 }

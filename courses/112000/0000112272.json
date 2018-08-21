@@ -1,14 +1,12 @@
 {
-	"clbid": 112272,
+	"clbid": "0000112272",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001168",
+	"department": "PSYCH",
 	"description": [
 		"This course helps students better understand human development from the moment of conception and across the life span. The course focuses on biological and environmental factors that shape human development. Major changes in physical, cognitive, personality and social development are discussed. Offered each semester. Counts toward exercise science, nursing, social work, and women's and gender studies majors and educational studies, family studies, and women's and gender studies concentrations. Prerequisite: PSYCH 125."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Emily A. Hazlett"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 25,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -54,9 +69,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Developmental Psychology",
 	"type": "Research",
 	"year": 2017

@@ -1,27 +1,30 @@
 {
-	"clbid": 119103,
+	"clbid": "0000119103",
 	"credits": 0.5,
-	"crsid": 22779,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000022779",
+	"department": "EDUC",
 	"description": [
 		"This course focuses on evidence-based best practices in reading instruction that can be used across the curriculum by secondary teachers. Students acquire the necessary knowledge, skills, and strategies to teach reading in the teaching candidate's content area(s).Required 10-hour field experience. Offered each semester. Prerequisite: EDUC 330 or permission of the instructor."
 	],
-	"enroll": 4,
+	"enrolled": 4,
 	"instructors": [
 		"Heather Campbell"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 24,
 	"name": "Reading in the Content Area",
 	"notes": [
 		"Open to rising Seniors and Juniors only."
 	],
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 214",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330 or permission of the instructor.",
 	"revisions": [
@@ -44,14 +47,29 @@
 			"_updated": "2018-08-07T14:48:45.257549+00:00",
 			"enroll": "4",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.963431+00:00",
+			"clbid": 119103,
+			"crsid": 22779,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 4,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

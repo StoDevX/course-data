@@ -1,24 +1,39 @@
 {
-	"clbid": 10600,
+	"clbid": "0000010600",
 	"credits": 1.0,
-	"crsid": 572,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 14,
+	"crsid": "0000000572",
+	"department": "HIST",
+	"enrolled": 14,
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
 	"level": 100,
-	"locations": [
-		"HH 514"
-	],
 	"max": 19,
 	"name": "Top: Histories/Exile",
 	"notes": [
 		"Open to First-Year Students only."
 	],
 	"number": 189,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 514",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 514",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 514",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Topic",
 	"year": 2005
 }

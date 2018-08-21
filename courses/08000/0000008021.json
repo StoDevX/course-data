@@ -1,22 +1,30 @@
 {
-	"clbid": 8021,
+	"clbid": "0000008021",
 	"credits": 1.0,
-	"crsid": 641,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 11,
+	"crsid": "0000000641",
+	"department": "HIST",
+	"enrolled": 11,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 18,
 	"name": "Sem: Senior Thesis",
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

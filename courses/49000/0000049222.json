@@ -1,23 +1,26 @@
 {
-	"clbid": 49222,
+	"clbid": "0000049222",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
-	"groupid": 122,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 24,
+	"groupid": "0000000122",
 	"grouptype": "2",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 200,
-	"locations": [
-		"SC 211"
-	],
 	"max": 0,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 211",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2005
 }

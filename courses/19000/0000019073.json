@@ -1,21 +1,30 @@
 {
-	"clbid": 19073,
+	"clbid": "0000019073",
 	"credits": 1.0,
-	"crsid": 1589,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 12,
+	"crsid": "0000001589",
+	"department": "ECON",
+	"enrolled": 12,
 	"instructors": [
 		"Jenny Bourne Wahl"
 	],
 	"level": 200,
-	"locations": [
-		"M 30"
-	],
 	"max": 25,
 	"name": "Economics & Law",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

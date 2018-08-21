@@ -1,22 +1,25 @@
 {
-	"clbid": 58330,
+	"clbid": "0000058330",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 20,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 20,
+	"groupid": "0000001074",
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 20,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 111",
+			"start": "08:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"Th 0820-1050"
-	],
 	"type": "Lab",
 	"year": 2007
 }

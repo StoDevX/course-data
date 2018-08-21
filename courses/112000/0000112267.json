@@ -1,14 +1,12 @@
 {
-	"clbid": 112267,
+	"clbid": "0000112267",
 	"credits": 1.0,
-	"crsid": 30308,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000030308",
+	"department": "DANCE",
 	"description": [
 		"Students study musculoskeletal anatomy (structure) and kinesiology (science of human motion) from the perspective of dance training and performance. Students learn anatomical terminology, identify select bones (major features, articulations) and muscles (locations, actions), and analyze their influence during coordinated movement patterns. Students learn joint structure and mechanics, alignment and imbalances, movement behavior, conditioning needs, and injury prevention. Students learn to notice, measure, experience, sense, and reflect upon the impact of anatomical characteristics and anomalies. Offered annually. Prerequisite: students taking this course should have previous experience in a movement intensive practice similar to dance, athletics, or exercise science. Offered annually in the fall semester."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"IST"
 	],
@@ -16,13 +14,23 @@
 		"Anthony Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1",
-		"CAD Studio 1"
-	],
 	"max": 16,
 	"name": "Dance Anatomy and Kinesiology",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD Studio 1",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD Studio 1",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "students taking this course should have previous experience in a movement intensive practice similar to dance, athletics, or exercise science. Offered annually in the fall semester.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2017
 }

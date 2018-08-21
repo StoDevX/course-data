@@ -1,22 +1,31 @@
 {
-	"clbid": 21526,
+	"clbid": "0000021526",
 	"credits": 0.5,
-	"crsid": 858,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000000858",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Steven Amundson",
 		"Timothy Mahr"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 999,
 	"name": "Advanced Conducting",
 	"number": 354,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +44,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

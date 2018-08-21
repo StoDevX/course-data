@@ -1,21 +1,30 @@
 {
-	"clbid": 19665,
+	"clbid": "0000019665",
 	"credits": 1.0,
-	"crsid": 1317,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 12,
+	"crsid": "0000001317",
+	"department": "SOAN",
+	"enrolled": 12,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 300,
-	"locations": [
-		"H 403"
-	],
 	"max": 999,
 	"name": "Found Soc Sci Resrch",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

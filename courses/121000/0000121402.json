@@ -1,22 +1,25 @@
 {
-	"clbid": 121402,
+	"clbid": "0000121402",
 	"credits": 0.0,
-	"crsid": 120,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 13,
-	"groupid": 119,
+	"crsid": "0000000120",
+	"department": "BIO",
+	"enrolled": 13,
+	"groupid": "0000000119",
 	"instructors": [
 		"Lisa M. Bowers"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 20,
 	"name": "Microbiology Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 398",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,15 +42,31 @@
 			"_updated": "2018-08-07T14:48:45.396190+00:00",
 			"enroll": "13",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.277520+00:00",
+			"clbid": 121402,
+			"crsid": 120,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"groupid": 119,
+			"locations": [
+				"RNS 398"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0345PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

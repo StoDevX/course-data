@@ -1,21 +1,36 @@
 {
-	"clbid": 24667,
+	"clbid": "0000024667",
 	"credits": 0.25,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 25,
+	"crsid": "0000000800",
+	"department": "MUSIC",
+	"enrolled": 25,
 	"instructors": [
 		"Martin Hodel"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 30,
 	"name": "Ear/Keyboard II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

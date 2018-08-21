@@ -1,14 +1,12 @@
 {
-	"clbid": 93694,
+	"clbid": "0000093694",
 	"credits": 0.25,
-	"crsid": 27685,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000027685",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,12 +15,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Wr Rm"
-	],
 	"max": 22,
 	"name": "Hatha Yoga",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "SAC Wr Rm",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "SAC Wr Rm",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2013
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 94016,
+	"clbid": "0000094016",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Bruce Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 19,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 184",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

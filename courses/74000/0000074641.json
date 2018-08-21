@@ -1,25 +1,33 @@
 {
-	"clbid": 74641,
+	"clbid": "0000074641",
 	"credits": 1.0,
-	"crsid": 1356,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001356",
+	"department": "SPAN",
 	"description": [
 		"Seminars engage students in in-depth study of a specified topic through readings, research and oral and written student reports. Special attention is paid to theoretical and bibliographic issues. Topics vary according to the areas of expertise and professional interests of departmental faculty. May be repeated if topics are different. Taught in Spanish. Prerequisites: Spanish 250 and at least two courses at the 270 or 300 level."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Alberto Villate-Isaza"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 200",
-		"TOH 200"
-	],
 	"max": 18,
 	"name": "Sem: Topics",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 200",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 200",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Spanish 250 and at least two courses at the 270 or 300 level.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Seminar",
 	"type": "Seminar",
 	"year": 2010

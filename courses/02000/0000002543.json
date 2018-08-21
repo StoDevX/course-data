@@ -1,21 +1,30 @@
 {
-	"clbid": 2543,
+	"clbid": "0000002543",
 	"credits": 1.0,
-	"crsid": 1376,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 17,
+	"crsid": "0000001376",
+	"department": "THEAT",
+	"enrolled": 17,
 	"instructors": [
 		"Dona W. Freeman"
 	],
 	"level": 100,
-	"locations": [
-		"SPT HAUGEN"
-	],
 	"max": 15,
 	"name": "Acting for Non-Majors",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SPT HAUGEN",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SPT HAUGEN",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

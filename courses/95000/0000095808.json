@@ -1,26 +1,20 @@
 {
-	"clbid": 95808,
+	"clbid": "0000095808",
 	"credits": 1.0,
-	"crsid": 164,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000164",
+	"department": "BIO",
 	"description": [
 		"The last decade has unveiled the mechanism by which a single cell gives rise to an embryo rich in pattern and cellular diversity. This course traces the use of surgical, genetic, and molecular techniques as they have uncovered the developmental blueprints encoding the universal body plan fundamental to all metazoan life. Students attend lectures plus one three-hour laboratory per week. Counts toward neuroscience concentration. Prerequisite: BIO 233."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"WRI"
 	],
-	"groupid": 164,
+	"groupid": "0000000164",
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435",
-		"RNS 435"
-	],
 	"max": 12,
 	"name": "Developmental Biology",
 	"notes": [
@@ -28,6 +22,20 @@
 		"Students in Bio 372 must also register for lab Bio 372L."
 	],
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 435",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 435",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BIO 233.",
 	"revisions": [
@@ -54,10 +62,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2014
 }

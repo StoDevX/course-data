@@ -1,21 +1,30 @@
 {
-	"clbid": 16149,
+	"clbid": "0000016149",
 	"credits": 1.0,
-	"crsid": 758,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 8,
+	"crsid": "0000000758",
+	"department": "MATH",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 186"
-	],
 	"max": 999,
 	"name": "Geometry",
 	"number": 356,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

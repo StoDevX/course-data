@@ -1,11 +1,9 @@
 {
-	"clbid": 121526,
+	"clbid": "0000121526",
 	"credits": 1.0,
-	"crsid": 17201,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 0,
+	"crsid": "0000017201",
+	"department": "HIST",
+	"enrolled": 0,
 	"gereqs": [
 		"HWC",
 		"MCD"
@@ -14,13 +12,23 @@
 		"Christopher M. Elias"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Top: Gossip/Media in U.S. Politics",
 	"number": 297,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,15 +41,31 @@
 			"_updated": "2018-08-07T14:48:49.628762+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.728580+00:00",
+			"clbid": 121526,
+			"crsid": 17201,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topical Seminar",
 	"type": "Topic",
 	"year": 2018

@@ -1,21 +1,24 @@
 {
-	"clbid": 6845,
+	"clbid": "0000006845",
 	"credits": 0.5,
-	"crsid": 319,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 20,
+	"crsid": "0000000319",
+	"department": "EDUC",
+	"enrolled": 20,
 	"instructors": [
 		"Daniel R. Forstner"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 25,
 	"name": "Teaching Reading 5-12",
 	"number": 321,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "22:00",
+			"location": "FH 10",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

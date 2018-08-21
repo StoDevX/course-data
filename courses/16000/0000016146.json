@@ -1,21 +1,36 @@
 {
-	"clbid": 16146,
+	"clbid": "0000016146",
 	"credits": 1.0,
-	"crsid": 754,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 18,
+	"crsid": "0000000754",
+	"department": "MATH",
+	"enrolled": 18,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 182"
-	],
 	"max": 20,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 182",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

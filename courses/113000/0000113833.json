@@ -1,22 +1,25 @@
 {
-	"clbid": 113833,
+	"clbid": "0000113833",
 	"credits": 0.0,
-	"crsid": 101,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
-	"groupid": 100,
+	"crsid": "0000000101",
+	"department": "BIO",
+	"enrolled": 22,
+	"groupid": "0000000100",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 18,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 454",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,9 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0900-1100"
-	],
 	"type": "Lab",
 	"year": 2017
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 79060,
+	"clbid": "0000079060",
 	"credits": 0.0,
-	"crsid": 22826,
-	"departments": [
-		"NEURO"
-	],
-	"enroll": 15,
-	"groupid": 22782,
+	"crsid": "0000022826",
+	"department": "NEURO",
+	"enrolled": 15,
+	"groupid": "0000022782",
 	"instructors": [
 		"James Demas"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 246"
-	],
 	"max": 22,
 	"name": "Cell/Molec Neuro Lab",
 	"number": 239,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 246",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

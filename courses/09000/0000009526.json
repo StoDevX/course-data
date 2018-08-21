@@ -1,22 +1,30 @@
 {
-	"clbid": 9526,
+	"clbid": "0000009526",
 	"credits": 1.0,
-	"crsid": 632,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000000632",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 18,
 	"name": "Sem: Stalin",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 302",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 302",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

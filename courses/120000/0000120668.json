@@ -1,24 +1,39 @@
 {
-	"clbid": 120668,
+	"clbid": "0000120668",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000748",
+	"department": "MATH",
 	"description": [
 		"This course introduces the mathematics of randomness. Topics include probabilities on discrete and continuous sample spaces, conditional probability and Bayes' Theorem, random variables, expectation and variance, distributions (including binomial, Poisson, geometric, normal, exponential, and gamma) and the Central Limit Theorem. Students use computers to explore these topics. Offered each semester. Counts toward management studies concentration. Prerequisite: MATH 126 or MATH 128."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 20,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128.",
 	"revisions": [
@@ -45,15 +60,30 @@
 			"_updated": "2018-08-07T14:48:49.033927+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.269035+00:00",
+			"clbid": 120668,
+			"crsid": 748,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 204"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

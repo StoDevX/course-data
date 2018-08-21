@@ -1,14 +1,12 @@
 {
-	"clbid": 108051,
+	"clbid": "0000108051",
 	"credits": 0.5,
-	"crsid": 359,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000359",
+	"department": "DANCE",
 	"description": [
 		"This course offers an expansion of ballet vocabulary and technique with an emphasis on movement quality, clarity and efficiency. Outside work includes practicing, reading, writing and concert attendance. Open to majors and other students with instructor's permission. Offered each semester. Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor."
 	],
-	"enroll": 2,
+	"enrolled": 2,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Heather J. Klopchin"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 6,
 	"name": "Ballet II",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD Studio 2",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD Studio 2",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor.",
 	"revisions": [
@@ -60,10 +68,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 99287,
+	"clbid": "0000099287",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001402",
+	"department": "STAT",
 	"description": [
 		"This is an introductory course for the liberal arts. Students learn study design principles and develop statistical literacy and reasoning. They learn to describe distributions, assess if known distributions fit their data, estimate population values with confidence intervals, and assess statistical significance with hypothesis tests (e.g., chi-square, z-, and t-tests, ANOVA, correlation, and regression). In addition to lectures, there is a weekly computer lab. Not recommended for students who have completed a term of calculus. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics, and students should not take more than one; they all can serve as a prerequisite for further courses. Offered each semester."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,71 @@
 		"Cory Lanker"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Prin of Statistics",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:00",
+			"location": "TOH 182",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:00",
+			"location": "TOH 182",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "TOH 182",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:00",
+			"location": "TOH 182",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:00",
+			"location": "TOH 182",
+			"start": "10:40"
+		},
+		{
+			"day": "Mo",
+			"end": "14:30",
+			"location": "TOH 182",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "14:30",
+			"location": "TOH 182",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "14:30",
+			"location": "TOH 182",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:30",
+			"location": "TOH 182",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:30",
+			"location": "TOH 182",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +96,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20142,
-	"times": [
-		"M-F 1040-1200PM",
-		"M-F 0100-0230PM"
-	],
 	"title": "Principles of Statistics",
 	"type": "Research",
 	"year": 2014

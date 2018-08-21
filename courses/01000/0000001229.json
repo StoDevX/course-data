@@ -1,21 +1,36 @@
 {
-	"clbid": 1229,
+	"clbid": "0000001229",
 	"credits": 1.0,
-	"crsid": 418,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 16,
+	"crsid": "0000000418",
+	"department": "ENGL",
+	"enrolled": 16,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 200,
-	"locations": [
-		"L 520"
-	],
 	"max": 18,
 	"name": "Creative Writing I",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

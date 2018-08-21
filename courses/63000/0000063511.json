@@ -1,14 +1,12 @@
 {
-	"clbid": 63511,
+	"clbid": "0000063511",
 	"credits": 0.25,
-	"crsid": 1006,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001006",
+	"department": "ESAC",
 	"description": [
 		"Current first aid/CPR certification is necessary to qualify for Red Cross certification in W.S.I.. Prerequisite: Exercise Science 121 or 130."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Pool"
-	],
 	"max": 15,
 	"name": "Water Safety Instruct",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC Pool",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC Pool",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Exercise Science 121 or 130.",
 	"revisions": [
@@ -43,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"title": "Water Safety Instruction",
 	"type": "Research",
 	"year": 2008

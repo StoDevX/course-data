@@ -1,14 +1,12 @@
 {
-	"clbid": 121719,
+	"clbid": "0000121719",
 	"credits": 1.0,
-	"crsid": 1218,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001218",
+	"department": "REL",
 	"description": [
 		"This survey of the historical, cultural, and theological developments within Judaism pays special attention to major periods and themes in Jewish life and thought, as well as to contemporary Judaism. Counts toward middle eastern studies concentration. Prerequisite: sophomore status or higher. Open to first-year students with permission of the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Michael Gottsegen"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Judaism",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "sophomore status or higher. Open to first-year students with permission of the instructor.",
 	"revisions": [
@@ -64,15 +72,31 @@
 			"_updated": "2018-08-07T14:48:49.786704+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.872363+00:00",
+			"clbid": 121719,
+			"crsid": 1218,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

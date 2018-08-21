@@ -1,14 +1,12 @@
 {
-	"clbid": 121891,
+	"clbid": "0000121891",
 	"credits": 1.0,
-	"crsid": 22130,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000022130",
+	"department": "ENGL",
 	"description": [
 		"These courses emphasize the study of literature united by specific formal elements rather than by theme, topic, historical period, or national origin. The genre studied may be broad, such as narrative fiction, or narrowly defined, such as the elegy. The course focuses on the study of literature through a critical exploration of form. May be repeated if topic is different. Click on course title in the class and lab for more information about the course for that term. Prerequisite: FYW."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,29 @@
 		"Sean F. Ward"
 	],
 	"level": 200,
-	"locations": [
-		"RML 421"
-	],
 	"max": 30,
 	"name": "Top: The Gothic Tradition",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 421",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 421",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 421",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -62,15 +77,30 @@
 		{
 			"_updated": "2018-08-15T03:35:00.426612+00:00",
 			"enroll": 14
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.647462+00:00",
+			"clbid": 121891,
+			"crsid": 22130,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 15,
+			"enrolled": null,
+			"locations": [
+				"RML 421"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Topics in Genre",
 	"type": "Topic",
 	"year": 2018

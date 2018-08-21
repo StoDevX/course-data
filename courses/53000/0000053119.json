@@ -1,25 +1,33 @@
 {
-	"clbid": 53119,
+	"clbid": "0000053119",
 	"credits": 1.0,
-	"crsid": 591,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000591",
+	"department": "HIST",
 	"description": [
 		"This course offers a survey of modern Scandinavian history from the period of the Protestant Reformation to the present with special attention to recent developments. Foreign Language Across the Curriculum course available in Norwegian."
 	],
-	"enroll": 33,
+	"enrolled": 33,
 	"instructors": [
 		"Todd W. Nichol"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 35,
 	"name": "Modern Scandinavia",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 305",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 305",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2006
 }

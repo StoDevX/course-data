@@ -1,21 +1,36 @@
 {
-	"clbid": 2157,
+	"clbid": "0000002157",
 	"credits": 1.0,
-	"crsid": 538,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 12,
+	"crsid": "0000000538",
+	"department": "GCON",
+	"enrolled": 12,
 	"instructors": [
 		"Edmund Santurri"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 999,
 	"name": "Ethical ISSues/Gr Con",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

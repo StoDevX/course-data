@@ -1,21 +1,30 @@
 {
-	"clbid": 19779,
+	"clbid": "0000019779",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
-	"enroll": 17,
+	"crsid": "0000001476",
+	"department": "WMNST",
+	"enrolled": 17,
 	"instructors": [
 		"Ann (wagner) Wagner"
 	],
 	"level": 100,
-	"locations": [
-		"SPT GREEN RM"
-	],
 	"max": 20,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "SPT GREEN RM",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SPT GREEN RM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

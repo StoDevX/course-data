@@ -1,22 +1,30 @@
 {
-	"clbid": 7780,
+	"clbid": "0000007780",
 	"credits": 1.0,
-	"crsid": 264,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 19,
+	"crsid": "0000000264",
+	"department": "ECON",
+	"enrolled": 19,
 	"instructors": [
 		"Edward David Emery"
 	],
 	"level": 200,
-	"locations": [
-		"OM 004",
-		"OM 004"
-	],
 	"max": 25,
 	"name": "Economic Methods",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 004",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "OM 004",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

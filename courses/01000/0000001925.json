@@ -1,22 +1,36 @@
 {
-	"clbid": 1925,
+	"clbid": "0000001925",
 	"credits": 1.0,
-	"crsid": 130,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 8,
+	"crsid": "0000000130",
+	"department": "BIO",
+	"enrolled": 8,
 	"instructors": [
 		"Mary C. Henry"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 211"
-	],
 	"max": 16,
 	"name": "Invertebrate Zoology",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "We",
+			"end": "15:55",
+			"location": "SC 211",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 0935-1100",
-		"W 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

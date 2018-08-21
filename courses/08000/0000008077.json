@@ -1,22 +1,30 @@
 {
-	"clbid": 8077,
+	"clbid": "0000008077",
 	"credits": 1.0,
-	"crsid": 721,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 13,
+	"crsid": "0000000721",
+	"department": "LATIN",
+	"enrolled": 13,
 	"instructors": [
 		"James May"
 	],
 	"level": 300,
-	"locations": [
-		"OM 004",
-		"OM 004"
-	],
 	"max": 20,
 	"name": "Lucretius/Lat Poetry",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 004",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 004",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

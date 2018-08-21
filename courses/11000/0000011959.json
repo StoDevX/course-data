@@ -1,21 +1,36 @@
 {
-	"clbid": 11959,
+	"clbid": "0000011959",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 20,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 20,
 	"instructors": [
 		"Colin Wells"
 	],
 	"level": 100,
-	"locations": [
-		"RML 420"
-	],
 	"max": 19,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

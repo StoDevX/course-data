@@ -1,24 +1,39 @@
 {
-	"clbid": 12099,
+	"clbid": "0000012099",
 	"credits": 1.0,
-	"crsid": 777,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000777",
+	"department": "MGMT",
 	"description": [
 		"This course introduces the key elements of marketing strategy: product development and management, pricing, promotion and distribution decisions. Case analysis and simulation exercises provide opportunities for applying concepts addressed in class. Upon completion of the course, students should be able to write a marketing plan if they are assigned this responsibility in their future careers. The course is offered each semester. Prerequisite: one of Economics 110-122 or consent of instructor."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Kathy C. Thomforde"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413"
-	],
 	"max": 30,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-122 or consent of instructor.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

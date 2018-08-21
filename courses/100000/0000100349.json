@@ -1,22 +1,25 @@
 {
-	"clbid": 100349,
+	"clbid": "0000100349",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 27,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 27,
+	"groupid": "0000001402",
 	"instructors": [
 		"Paul J. Roback"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 27,
 	"name": "Principles of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"F 0905-1000"
-	],
 	"type": "Lab",
 	"year": 2015
 }

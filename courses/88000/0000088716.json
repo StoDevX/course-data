@@ -1,14 +1,12 @@
 {
-	"clbid": 88716,
+	"clbid": "0000088716",
 	"credits": 1.0,
-	"crsid": 541,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000541",
+	"department": "GREEK",
 	"description": [
 		"Third-semester Greek students read selections from Plato's dialogues (Apology, Crito, Phaedo) in uncut, original versions, reviewing basic vocabulary, grammar, and syntax while translating the Greek texts. The class discusses the life and death of Socrates and the significance of the dialogues as works of literature. Prerequisite: Greek 112 or equivalent. Offered annually in the fall semester."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"FOL-K"
 	],
@@ -16,12 +14,29 @@
 		"Christopher M. Brunelle"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 300"
-	],
 	"max": 12,
 	"name": "Intermediate Greek",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Greek 112 or equivalent. Offered annually in the fall semester.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20131,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

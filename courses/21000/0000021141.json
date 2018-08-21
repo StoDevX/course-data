@@ -1,22 +1,42 @@
 {
-	"clbid": 21141,
+	"clbid": "0000021141",
 	"credits": 1.0,
-	"crsid": 126,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 30,
+	"crsid": "0000000126",
+	"department": "BIO",
+	"enrolled": 30,
 	"instructors": [
 		"David Van Wylen"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 253"
-	],
 	"max": 24,
 	"name": "Human Anatomy & Physiol",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 253",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"MWF 0800-0855",
-		"T 0800-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

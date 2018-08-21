@@ -1,14 +1,12 @@
 {
-	"clbid": 85335,
+	"clbid": "0000085335",
 	"credits": 1.0,
-	"crsid": 25193,
-	"departments": [
-		"FILM"
-	],
+	"crsid": "0000025193",
+	"department": "FILM",
 	"description": [
 		"This course uses genre criticism and film theory to introduce students to the history of cinematic realism and to examine the works of contemporary American filmmakers who have returned to realism in an era dominated by special effects and computer generated images. Students learn about the historical antecedents of present-day realism, including neorealism, cinema vérité, and 1970s American independent film; they then explore the work of contemporary filmmakers such as David Greene, Sofia Coppola, and Kelly Reichardt. Offered occasionally."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,17 +14,32 @@
 		"Amy E. Borden"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310",
-		"TB 227",
-		"TB 227"
-	],
 	"max": 19,
 	"name": "American Film Realism",
 	"notes": [
 		"Film screenings Monday evenings from 7-10 p.m."
 	],
 	"number": 215,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "RNS 310",
+			"start": "19:00"
+		},
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB 227",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB 227",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,11 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"M 0700-1000PM",
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

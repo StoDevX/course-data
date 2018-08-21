@@ -1,22 +1,25 @@
 {
-	"clbid": 52927,
+	"clbid": "0000052927",
 	"credits": 0.0,
-	"crsid": 165,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 9,
-	"groupid": 164,
+	"crsid": "0000000165",
+	"department": "BIO",
+	"enrolled": 9,
+	"groupid": "0000000164",
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [
-		"SC 229"
-	],
 	"max": 12,
 	"name": "Developmental Biology Lab",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 229",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

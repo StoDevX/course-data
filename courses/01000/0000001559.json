@@ -1,21 +1,36 @@
 {
-	"clbid": 1559,
+	"clbid": "0000001559",
 	"credits": 1.0,
-	"crsid": 1105,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 28,
+	"crsid": "0000001105",
+	"department": "PSCI",
+	"enrolled": 28,
 	"instructors": [
 		"Andrew Seligsohn"
 	],
 	"level": 100,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Political Thought",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 1564,
+	"clbid": "0000001564",
 	"credits": 1.0,
-	"crsid": 1121,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001121",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Susan Bloom"
 	],
 	"level": 200,
-	"locations": [
-		"H 307"
-	],
 	"max": 20,
 	"name": "Pol Econ: Eur,Jpn,Us",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 24762,
+	"clbid": "0000024762",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 9,
+	"crsid": "0000001011",
+	"department": "PEAC",
+	"enrolled": 9,
 	"instructors": [
 		"Lori Cooling"
 	],
 	"level": 100,
-	"locations": [
-		"SAC S GYM"
-	],
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC S GYM",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC S GYM",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

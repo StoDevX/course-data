@@ -1,25 +1,33 @@
 {
-	"clbid": 50096,
+	"clbid": "0000050096",
 	"credits": 1.0,
-	"crsid": 1222,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001222",
+	"department": "REL",
 	"description": [
 		"This course studies the Buddhist view of the human predicament and its solution. Students examine the life of the Buddha, Buddhist scriptures and the historical and philosophical development of Theravada and Mahayana Buddhism in East and Southeast Asia."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 23,
 	"name": "Buddhism",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 111",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "BMC 111",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

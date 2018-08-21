@@ -1,21 +1,36 @@
 {
-	"clbid": 3515,
+	"clbid": "0000003515",
 	"credits": 1.0,
-	"crsid": 1294,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 29,
+	"crsid": "0000001294",
+	"department": "SOAN",
+	"enrolled": 29,
 	"instructors": [
 		"Thomas A. Williamson"
 	],
 	"level": 100,
-	"locations": [
-		"L 577"
-	],
 	"max": 25,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 577",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 577",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 577",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

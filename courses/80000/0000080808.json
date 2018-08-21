@@ -1,14 +1,12 @@
 {
-	"clbid": 80808,
+	"clbid": "0000080808",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered each semester and periodically during Interim."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Ryota Matsuura"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 184",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121. Offered each semester and periodically during Interim.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2011

@@ -1,21 +1,36 @@
 {
-	"clbid": 2973,
+	"clbid": "0000002973",
 	"credits": 1.0,
-	"crsid": 274,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 21,
+	"crsid": "0000000274",
+	"department": "ECON",
+	"enrolled": 21,
 	"instructors": [
 		"Terry J. Fitzgerald"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 25,
 	"name": "Macroeconomic Theory",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

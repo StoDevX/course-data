@@ -1,30 +1,44 @@
 {
-	"clbid": 120742,
+	"clbid": "0000120742",
 	"credits": 1.0,
-	"crsid": 71,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000071",
+	"department": "ART",
 	"description": [
 		"This capstone course in the studio art program consists of advanced studio work, a visiting artist series, weekly critiques, and discussions with faculty and peers. Each student's independent work with a faculty advisor culminates in a senior exhibition at Flaten Art Museum. Weekly sessions also cover such topics as preparing a resume, documenting one's work, framing, and producing exhibition announcements and posters. Offered annually. Prerequisites: (for non-studio majors) Art 102, ART 103, ART 104, two upper-level (200-300) courses, one art history course, and permission of chair"
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Peter B. Nelson",
 		"Michon Weeks",
 		"Paul S. Briggs"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"CAD 305"
-	],
 	"max": 50,
 	"name": "Senior Studies in Studio Art",
 	"notes": [
 		"Open to Seniors only."
 	],
 	"number": 343,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "CAD 305",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: (for non-studio majors) Art 102, ART 103, ART 104, two upper-level (200-300) courses, one art history course, and permission of chair",
 	"revisions": [
@@ -37,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:49.075460+00:00",
 			"enroll": "0",
 			"max": "50"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.372760+00:00",
+			"clbid": 120742,
+			"crsid": 71,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"MW 0100-0300PM",
+				"M 0700-0900PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MW 0100-0300PM",
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,32 +1,40 @@
 {
-	"clbid": 90656,
+	"clbid": "0000090656",
 	"credits": 1.0,
-	"crsid": 207,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000207",
+	"department": "CHEM",
 	"description": [
 		"Students delve further into the topics of kinetics, thermodynamics and atomic and molecular structure that were introduced in the first-year courses, with an emphasis on the mathematical aspects of chemistry. Specific topics include reaction mechanisms, the laws of thermodynamics, statistical thermodynamics, equilibrium, quantum mechanics, spectroscopy, and molecular orbital theory. Prerequisites: Chemistry 126 or Chemistry/Biology 227 or permission of instructor and concurrent registration in Chemistry 357. Previous completion of Physics 124 or 130 is recommended. Offered each semester."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"IST"
 	],
-	"groupid": 207,
+	"groupid": "0000000207",
 	"instructors": [
 		"Keir Fogarty"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 28,
 	"name": "Physical Chemistry",
 	"notes": [
 		"Students in Chem 371 must also register for Chem 357 AL or BL."
 	],
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 390",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Chemistry 126 or Chemistry/Biology 227 or permission of instructor and concurrent registration in Chemistry 357. Previous completion of Physics 124 or 130 is recommended. Offered each semester.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2013
 }

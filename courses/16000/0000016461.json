@@ -1,21 +1,30 @@
 {
-	"clbid": 16461,
+	"clbid": "0000016461",
 	"credits": 1.0,
-	"crsid": 1256,
-	"departments": [
-		"REL"
-	],
-	"enroll": 7,
+	"crsid": "0000001256",
+	"department": "REL",
+	"enrolled": 7,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"CH 102"
-	],
 	"max": 10,
 	"name": "Rel Dialog: Story/Conv",
 	"number": 397,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CH 102",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CH 102",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 23613,
+	"clbid": "0000023613",
 	"credits": 0.75,
-	"crsid": 817,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 30,
+	"crsid": "0000000817",
+	"department": "MUSIC",
+	"enrolled": 30,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Theory III",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19981,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

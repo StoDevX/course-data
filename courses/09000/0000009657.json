@@ -1,22 +1,30 @@
 {
-	"clbid": 9657,
+	"clbid": "0000009657",
 	"credits": 0.25,
-	"crsid": 836,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 2,
+	"crsid": "0000000836",
+	"department": "MUSIC",
+	"enrolled": 2,
 	"instructors": [
 		"Linda Berger"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Kybd Proficiency Skil",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 222",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 222",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

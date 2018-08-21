@@ -1,26 +1,34 @@
 {
-	"clbid": 11730,
+	"clbid": "0000011730",
 	"credits": 1.0,
-	"crsid": 124,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000124",
+	"department": "BIO",
 	"description": [
 		"Students focus on the natural history of Upper Midwest vertebrates and phylogenetic, morphological and functional relationships of these animals. Laboratories include identification, morphology and specimen preparation. During field trips, students document bird migrations, amphibian chorusing and other animal activities. Independent projects explore topics ranging from bluebird nesting behavior to thermal conductivity and insulation in animals. Students attend lectures plus one 3-hour laboratory per week. Taught annually. Prerequisites: Biology 125, 126."
 	],
-	"enroll": 21,
-	"groupid": 124,
+	"enrolled": 21,
+	"groupid": "0000000124",
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278",
-		"SC 278"
-	],
 	"max": 18,
 	"name": "Vertebrate Biology",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, 126.",
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9437,
+	"clbid": "0000009437",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 8,
+	"crsid": "0000000468",
+	"department": "ENVST",
+	"enrolled": 8,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 300,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 15,
 	"name": "Sem: Environ Studies",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

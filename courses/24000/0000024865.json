@@ -1,21 +1,36 @@
 {
-	"clbid": 24865,
+	"clbid": "0000024865",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 42,
+	"crsid": "0000001168",
+	"department": "PSYCH",
+	"enrolled": 42,
 	"instructors": [
 		"Dana Gross"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 40,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 317",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 317",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 317",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

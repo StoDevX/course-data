@@ -1,21 +1,36 @@
 {
-	"clbid": 7254,
+	"clbid": "0000007254",
 	"credits": 1.0,
-	"crsid": 1069,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 53,
+	"crsid": "0000001069",
+	"department": "PHYS",
+	"enrolled": 53,
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 62,
 	"name": "Intro Astronomy",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 170",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 170",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 170",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 4297,
+	"clbid": "0000004297",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 24,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 24,
 	"instructors": [
 		"David Booth"
 	],
 	"level": 100,
-	"locations": [
-		"CH 101"
-	],
 	"max": 24,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CH 101",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CH 101",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CH 101",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

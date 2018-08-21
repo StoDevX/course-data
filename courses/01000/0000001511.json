@@ -1,21 +1,30 @@
 {
-	"clbid": 1511,
+	"clbid": "0000001511",
 	"credits": 0.25,
-	"crsid": 1023,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 22,
+	"crsid": "0000001023",
+	"department": "PEAC",
+	"enrolled": 22,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 20,
 	"name": "Intermediate Tennis",
 	"number": 158,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC FH",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC FH",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

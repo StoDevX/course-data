@@ -1,21 +1,24 @@
 {
-	"clbid": 16339,
+	"clbid": "0000016339",
 	"credits": 0.0,
-	"crsid": 1085,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001085",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 125"
-	],
 	"max": 10,
 	"name": "Electronic Circ/Lab",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 125",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

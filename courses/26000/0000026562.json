@@ -1,21 +1,36 @@
 {
-	"clbid": 26562,
+	"clbid": "0000026562",
 	"credits": 1.0,
-	"crsid": 787,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 15,
+	"crsid": "0000000787",
+	"department": "MGMT",
+	"enrolled": 15,
 	"instructors": [
 		"Kathy C. Thomforde"
 	],
 	"level": 300,
-	"locations": [
-		"L 421"
-	],
 	"max": 25,
 	"name": "Mgmt Policy & Strat",
 	"number": 383,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

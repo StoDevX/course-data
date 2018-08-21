@@ -1,21 +1,30 @@
 {
-	"clbid": 8258,
+	"clbid": "0000008258",
 	"credits": 0.25,
-	"crsid": 1004,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 11,
+	"crsid": "0000001004",
+	"department": "PEAC",
+	"enrolled": 11,
 	"instructors": [
 		"William Thornton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 24,
 	"name": "Beginning Swimming",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC_POOL",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC_POOL",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

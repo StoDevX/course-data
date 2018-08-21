@@ -1,21 +1,30 @@
 {
-	"clbid": 16478,
+	"clbid": "0000016478",
 	"credits": 1.0,
-	"crsid": 1289,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 19,
+	"crsid": "0000001289",
+	"department": "SOAN",
+	"enrolled": 19,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 1"
-	],
 	"max": 25,
 	"name": "Intro to Sociology",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "M 1",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "M 1",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 115883,
+	"clbid": "0000115883",
 	"credits": 0.25,
-	"crsid": 30304,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000030304",
+	"department": "DANCE",
 	"description": [
 		"Students explore dance genres that embody a strong rhythmic foundation. They experience rhythmic pattern as an organizing principle for the human body, an expressive capacity, and a social connector. Students investigate the cultural and social milieu from which dance genres emerge. Dance genres could include, hip hop, African, Asian, and Caribbean dance forms, tap dance, or jazz dance. Offered periodically."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,13 +14,23 @@
 		"Arneshia L. Williams"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 25,
 	"name": "Top: Hip Hop",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:50",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -64,10 +72,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 0800-0855",
-		"Th 0800-0850"
-	],
 	"title": "Topics in Rhythm in Dance",
 	"type": "Topic",
 	"year": 2017

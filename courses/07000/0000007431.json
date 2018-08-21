@@ -1,22 +1,30 @@
 {
-	"clbid": 7431,
+	"clbid": "0000007431",
 	"credits": 1.0,
-	"crsid": 1352,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 11,
+	"crsid": "0000001352",
+	"department": "SPAN",
+	"enrolled": 11,
 	"instructors": [
 		"Ariel Strichartz"
 	],
 	"level": 300,
-	"locations": [
-		"OM 021",
-		"OM 021"
-	],
 	"max": 25,
 	"name": "Lat Am Lit to 1940",
 	"number": 387,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 021",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 021",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

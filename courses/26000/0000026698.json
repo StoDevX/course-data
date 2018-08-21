@@ -1,21 +1,36 @@
 {
-	"clbid": 26698,
+	"clbid": "0000026698",
 	"credits": 1.0,
-	"crsid": 1074,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 35,
+	"crsid": "0000001074",
+	"department": "PHYS",
+	"enrolled": 35,
 	"instructors": [
 		"Amy Larsen"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Principles Physics II",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

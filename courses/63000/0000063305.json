@@ -1,24 +1,39 @@
 {
-	"clbid": 63305,
+	"clbid": "0000063305",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000748",
+	"department": "MATH",
 	"description": [
 		"This course is an introduction to the mathematics of randomness and games of chance. Topics include combinatorial analysis, elementary probability measures, conditional probability, random variables, special distributions, expectations, generating functions, and limit theorems. Prerequisite: Mathematics 126 or 128. Offered both semesters."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"instructors": [
 		"Mike Weimerskirch"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128. Offered both semesters.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2008
 }

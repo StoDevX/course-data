@@ -1,14 +1,12 @@
 {
-	"clbid": 118775,
+	"clbid": "0000118775",
 	"credits": 1.0,
-	"crsid": 455,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000455",
+	"department": "ENVST",
 	"description": [
 		"This interdisciplinary course uses basic concepts of environmental science to explore global environmental issues. Topics are drawn from recent texts and current periodic literature, and participants will recognize many of the themes from coverage in the media. Because most environmental problems involve issues beyond the sciences, the class examines the economic, political, and ethical dimensions of environmental questions and environmental decision-making. Offered each semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"IST"
 	],
@@ -16,16 +14,26 @@
 		"Anne M. Gothmann"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 20,
 	"name": "Intro: Env Studies",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 137,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 290",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 290",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -73,15 +81,31 @@
 		{
 			"_updated": "2018-08-10T03:33:23.322217+00:00",
 			"enroll": 24
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.497595+00:00",
+			"clbid": 118775,
+			"crsid": 455,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 23,
+			"enrolled": null,
+			"locations": [
+				"RNS 290",
+				"RNS 290"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Introduction to Environmental Studies",
 	"type": "Research",
 	"year": 2018

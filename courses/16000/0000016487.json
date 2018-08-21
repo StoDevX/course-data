@@ -1,21 +1,30 @@
 {
-	"clbid": 16487,
+	"clbid": "0000016487",
 	"credits": 1.0,
-	"crsid": 2419,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 24,
+	"crsid": "0000002419",
+	"department": "SOAN",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 25,
 	"name": "Crime & Delinquency",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 403",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 403",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

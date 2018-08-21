@@ -1,25 +1,33 @@
 {
-	"clbid": 105412,
+	"clbid": "0000105412",
 	"credits": 1.0,
-	"crsid": 851,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000851",
+	"department": "MUSIC",
 	"description": [
 		"Students develop more advanced technique in writing for instruments and voice through individual study in creative composition, focusing on smaller ensembles. May be repeated. Offered each semester. Prerequisite: MUSIC 223."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 8,
 	"name": "Composition II",
 	"number": 324,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 239",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 223.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20161,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2016
 }

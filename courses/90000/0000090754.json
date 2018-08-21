@@ -1,14 +1,12 @@
 {
-	"clbid": 90754,
+	"clbid": "0000090754",
 	"credits": 1.0,
-	"crsid": 631,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000631",
+	"department": "HIST",
 	"description": [
 		"This seminar covers various topics in early modern European history, depending upon the instructor. The most recently offered topic: \"Reformation and Revolution in England.\" May be repeated if topics are different. Offered periodically."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Gary De Krey"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 18,
 	"name": "Sem: Early Modern Europe",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 204",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 204",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Seminar: Early Modern Europe",
 	"type": "Seminar",
 	"year": 2013

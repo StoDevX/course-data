@@ -1,22 +1,30 @@
 {
-	"clbid": 4717,
+	"clbid": "0000004717",
 	"credits": 0.5,
-	"crsid": 21,
-	"departments": [
-		"ART"
-	],
-	"enroll": 22,
+	"crsid": "0000000021",
+	"department": "ART",
+	"enrolled": 22,
 	"instructors": [
 		"Jil Evans"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 116",
-		"CAD 116"
-	],
 	"max": 22,
 	"name": "Found Color Design",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 116",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 116",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,22 +1,66 @@
 {
-	"clbid": 804,
+	"clbid": "0000000804",
 	"credits": 1.0,
-	"crsid": 185,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 10,
+	"crsid": "0000000185",
+	"department": "CHEM",
+	"enrolled": 10,
 	"instructors": [
 		"Jeffrey Dahlseid"
 	],
 	"level": 100,
-	"locations": [
-		"SC 274",
-		"SC 363"
-	],
 	"max": 24,
 	"name": "Chem-Life's Beginning",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "SC 363",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "SC 363",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SC 363",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +78,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20002,
-	"times": [
-		"M-F 0800-1000",
-		"MTTh 1230-0330PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

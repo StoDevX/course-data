@@ -1,25 +1,33 @@
 {
-	"clbid": 10234,
+	"clbid": "0000010234",
 	"credits": 0.5,
-	"crsid": 25,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000025",
+	"department": "ART",
 	"description": [
 		"This course provides the technical and conceptual foundations for use of digital media for artistic expression. The course will focus on the interaction of the conceptual and the technical through readings, lecture and assignments that address fundamental issues of digital arts: digital reproduction and representation, intermedia and interface. Students will acquire basic technical skills and apply them in the development of digital art projects that span four realms: raster graphics, vector graphics, 3D graphics and web page construction. This course will prepare students for advanced art courses in the curriculum: Motion Graphics, Computer-Based Imagery and Video Art Production."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Patrick T. Kelley"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 100",
-		"CAD 100"
-	],
 	"max": 15,
 	"name": "Found Digital Media",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 100",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 100",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Foundation Digital Media",
 	"type": "Research",
 	"year": 2005

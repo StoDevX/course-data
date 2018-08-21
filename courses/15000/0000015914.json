@@ -1,22 +1,37 @@
 {
-	"clbid": 15914,
+	"clbid": "0000015914",
 	"credits": 0.5,
-	"crsid": 335,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 35,
+	"crsid": "0000000335",
+	"department": "EDUC",
+	"enrolled": 35,
 	"halfcredit": "2",
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"YH 100"
-	],
 	"max": 999,
 	"name": "Counsel/Comm in Schls",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "YH 100",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "YH 100",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "YH 100",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

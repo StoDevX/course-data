@@ -1,21 +1,36 @@
 {
-	"clbid": 22876,
+	"clbid": "0000022876",
 	"credits": 1.0,
-	"crsid": 1245,
-	"departments": [
-		"REL"
-	],
-	"enroll": 12,
+	"crsid": "0000001245",
+	"department": "REL",
+	"enrolled": 12,
 	"instructors": [
 		"John Barbour"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Conscienc/Its Critics",
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

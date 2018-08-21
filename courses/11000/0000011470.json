@@ -1,23 +1,78 @@
 {
-	"clbid": 11470,
+	"clbid": "0000011470",
 	"credits": 1.0,
-	"crsid": 803,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 21,
+	"crsid": "0000000803",
+	"department": "MUSIC",
+	"enrolled": 21,
 	"instructors": [
 		"Linda Berger"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222",
-		"CHM 224",
-		"RML 477"
-	],
 	"max": 24,
 	"name": "The Music Spectrum",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "CHM 222",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "CHM 222",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "CHM 222",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "CHM 222",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "CHM 222",
+			"start": "10:40"
+		},
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "CHM 224",
+			"start": "11:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "CHM 224",
+			"start": "11:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "CHM 224",
+			"start": "11:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "RML 477",
+			"start": "11:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "RML 477",
+			"start": "11:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +90,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20052,
-	"times": [
-		"M-F 1040-1130",
-		"MWF 1140-1240PM",
-		"TTh 1140-1240PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

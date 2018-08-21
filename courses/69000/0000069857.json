@@ -1,25 +1,33 @@
 {
-	"clbid": 69857,
+	"clbid": "0000069857",
 	"credits": 0.5,
-	"crsid": 859,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000859",
+	"department": "MUSIC",
 	"description": [
 		"An introduction to principals, methods and resources for effective and creative music teaching through the piano. Students observe demonstration teaching at various levels and in individual and group settings, engage in peer teaching, analyze and perform teaching literature, and discuss topics such as technical development, learning stages and styles, and studio management. Offered Spring Semester 2009-10 and alternate years."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Paul A. Hisey"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 12,
 	"name": "Piano Pedagogy",
 	"number": 361,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 239",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 239",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

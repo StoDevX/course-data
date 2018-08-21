@@ -1,21 +1,30 @@
 {
-	"clbid": 6130,
+	"clbid": "0000006130",
 	"credits": 0.25,
-	"crsid": 998,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 12,
+	"crsid": "0000000998",
+	"department": "PEAC",
+	"enrolled": 12,
 	"instructors": [
 		"Kenneth Pratt"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 12,
 	"name": "Rock Climbing",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TC",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TC",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

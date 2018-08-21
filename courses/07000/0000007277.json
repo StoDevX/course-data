@@ -1,21 +1,36 @@
 {
-	"clbid": 7277,
+	"clbid": "0000007277",
 	"credits": 1.0,
-	"crsid": 1104,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 24,
+	"crsid": "0000001104",
+	"department": "PSCI",
+	"enrolled": 24,
 	"instructors": [
 		"D Christopher Brooks"
 	],
 	"level": 100,
-	"locations": [
-		"HH 301"
-	],
 	"max": 30,
 	"name": "Comparative Politics",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2003
 }

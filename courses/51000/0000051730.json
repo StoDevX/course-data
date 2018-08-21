@@ -1,25 +1,33 @@
 {
-	"clbid": 51730,
+	"clbid": "0000051730",
 	"credits": 1.0,
-	"crsid": 1165,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001165",
+	"department": "PSYCH",
 	"description": [
 		"The student is introduced to the study of relationships between the brain and behavior which lie at the heart of modern neuroscience. Study of the brain and behavior from anatomical, physiological and biochemical perspectives will focus on neural factors which contribute to basic behavioral processes including sensation, movement, emotion, sleep and arousal, motivation, learning and behavior abnormalities. Prerequisite: Psychology 125."
 	],
-	"enroll": 34,
+	"enrolled": 34,
 	"instructors": [
 		"Shelly D. Dickinson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 35,
 	"name": "Biopsychology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 307",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 307",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Psychology 125.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2006
 }

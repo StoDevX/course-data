@@ -1,21 +1,30 @@
 {
-	"clbid": 21106,
+	"clbid": "0000021106",
 	"credits": 1.0,
-	"crsid": 46,
-	"departments": [
-		"ART"
-	],
-	"enroll": 12,
+	"crsid": "0000000046",
+	"department": "ART",
+	"enrolled": 12,
 	"instructors": [
 		"Margaret Ojala"
 	],
 	"level": 200,
-	"locations": [
-		"FH 2"
-	],
 	"max": 15,
 	"name": "Photography",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 2",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 2",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

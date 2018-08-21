@@ -1,14 +1,12 @@
 {
-	"clbid": 82845,
+	"clbid": "0000082845",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Kristina Garrett"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 206"
-	],
 	"max": 19,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

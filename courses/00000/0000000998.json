@@ -1,21 +1,36 @@
 {
-	"clbid": 998,
+	"clbid": "0000000998",
 	"credits": 1.0,
-	"crsid": 34,
-	"departments": [
-		"ART"
-	],
-	"enroll": 23,
+	"crsid": "0000000034",
+	"department": "ART",
+	"enrolled": 23,
 	"instructors": [
 		"Wendell Arneson"
 	],
 	"level": 200,
-	"locations": [
-		"FH AB"
-	],
 	"max": 20,
 	"name": "Watercolor Painting",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 2139,
+	"clbid": "0000002139",
 	"credits": 1.0,
-	"crsid": 504,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 12,
+	"crsid": "0000000504",
+	"department": "GERM",
+	"enrolled": 12,
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 100,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Beginning German I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 35",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 35",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 35",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

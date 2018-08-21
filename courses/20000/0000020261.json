@@ -1,22 +1,42 @@
 {
-	"clbid": 20261,
+	"clbid": "0000020261",
 	"credits": 1.0,
-	"crsid": 367,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 14,
+	"crsid": "0000000367",
+	"department": "DNCTH",
+	"enrolled": 14,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CTR ST",
-		"CTR CF3"
-	],
 	"max": 15,
 	"name": "World Dance Tradit'ns",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CTR ST",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "CTR ST",
+			"start": "11:50"
+		},
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CTR CF3",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CTR CF3",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +61,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 1150-1245PM",
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

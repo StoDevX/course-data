@@ -1,22 +1,30 @@
 {
-	"clbid": 9800,
+	"clbid": "0000009800",
 	"credits": 1.0,
-	"crsid": 1095,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 10,
+	"crsid": "0000001095",
+	"department": "PHYS",
+	"enrolled": 10,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110",
-		"SC 110"
-	],
 	"max": 20,
 	"name": "Statistical Physics",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 110",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 110",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,10 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

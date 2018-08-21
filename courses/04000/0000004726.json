@@ -1,21 +1,36 @@
 {
-	"clbid": 4726,
+	"clbid": "0000004726",
 	"credits": 1.0,
-	"crsid": 34,
-	"departments": [
-		"ART"
-	],
-	"enroll": 21,
+	"crsid": "0000000034",
+	"department": "ART",
+	"enrolled": 21,
 	"instructors": [
 		"Wendell Arneson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 116"
-	],
 	"max": 22,
 	"name": "Watercolor Painting",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

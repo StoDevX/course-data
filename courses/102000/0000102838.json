@@ -1,25 +1,33 @@
 {
-	"clbid": 102838,
+	"clbid": "0000102838",
 	"credits": 1.0,
-	"crsid": 17593,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000017593",
+	"department": "PSYCH",
 	"description": [
 		"This seminar explores current knowledge of mechanisms involved in behavioral responses to drugs of abuse at the systems, cellular, and molecular levels. The action of stimulant drugs, alcohol, and the opiates on reward pathways are discussed in terms of behavioral neurobiology, pharmacology, and gene expression. Consideration is given to the role of environmental cues and stress in relapse to drug-seeking both in animal models and human studies. Offered alternate years. Counts toward neuroscience concentration. Prerequisites: PSYCH 230, plus PSYCH 238 or NEURO 239."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Shelly D. Dickinson"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 124",
-		"RNS 124"
-	],
 	"max": 15,
 	"name": "Neuroscience of Addiction",
 	"number": 336,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 124",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 124",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PSYCH 230, plus PSYCH 238 or NEURO 239.",
 	"revisions": [
@@ -55,10 +63,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

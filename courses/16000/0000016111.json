@@ -1,21 +1,30 @@
 {
-	"clbid": 16111,
+	"clbid": "0000016111",
 	"credits": 1.0,
-	"crsid": 720,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 9,
+	"crsid": "0000000720",
+	"department": "LATIN",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Roman Historians",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 36",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 36",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 50041,
+	"clbid": "0000050041",
 	"credits": 0.0,
-	"crsid": 659,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 4,
-	"groupid": 658,
+	"crsid": "0000000659",
+	"department": "JAPAN",
+	"enrolled": 4,
+	"groupid": "0000000658",
 	"instructors": [
 		"Satoko Kurosaki"
 	],
 	"level": 100,
-	"locations": [
-		"OM 002"
-	],
 	"max": 20,
 	"name": "Beginning Japanese I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "OM 002",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"T 0800-0855"
-	],
 	"type": "Lab",
 	"year": 2006
 }

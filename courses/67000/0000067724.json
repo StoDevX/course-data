@@ -1,32 +1,47 @@
 {
-	"clbid": 67724,
+	"clbid": "0000067724",
 	"credits": 1.0,
-	"crsid": 461,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000461",
+	"department": "ENVST",
 	"description": [
 		"Remote sensing and GIS are increasingly used to address basic and applied questions in the environmental sciences and a host of other disciplines. Students survey available remote sensing image types and learn to process (ground-truthing, GPS, scanning, digitizing) and interpret remotely sensed images. They also learn theory and practice of geographic information systems (basic cartography and spatial statistics). A weekly 3-hour laboratory is required. Prerequisites: Environmental Studies 137 or a Level 1 course in biology, chemistry or physics. Offered annually."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 461,
+	"groupid": "0000000461",
 	"instructors": [
 		"Leif G. Olmanson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 400"
-	],
 	"max": 16,
 	"name": "Remote Sensing & GIS",
 	"notes": [
 		"Students in Env St 255 must also register for lab Env St 255 L."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 400",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 400",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 400",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Environmental Studies 137 or a Level 1 course in biology, chemistry or physics. Offered annually.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Remote Sensing and Geographic Information Systems",
 	"type": "Research",
 	"year": 2009

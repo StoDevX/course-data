@@ -1,21 +1,30 @@
 {
-	"clbid": 14984,
+	"clbid": "0000014984",
 	"credits": 1.0,
-	"crsid": 1813,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 28,
+	"crsid": "0000001813",
+	"department": "HIST",
+	"enrolled": 28,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 501"
-	],
 	"max": 35,
 	"name": "Ancient: Mid E/Greece",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

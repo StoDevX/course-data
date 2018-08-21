@@ -1,21 +1,36 @@
 {
-	"clbid": 1475,
+	"clbid": "0000001475",
 	"credits": 1.0,
-	"crsid": 972,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 19,
+	"crsid": "0000000972",
+	"department": "PHIL",
+	"enrolled": 19,
 	"instructors": [
 		"Vicki L. Harper"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Formal Logic & Phil",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

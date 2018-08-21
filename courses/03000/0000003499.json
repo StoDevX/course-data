@@ -1,21 +1,30 @@
 {
-	"clbid": 3499,
+	"clbid": "0000003499",
 	"credits": 1.0,
-	"crsid": 1258,
-	"departments": [
-		"REL"
-	],
-	"enroll": 7,
+	"crsid": "0000001258",
+	"department": "REL",
+	"enrolled": 7,
 	"instructors": [
 		"Philip E. Stoltzfus"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 15,
 	"name": "Them Sem: Theol,Music",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 109",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

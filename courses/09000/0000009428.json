@@ -1,21 +1,36 @@
 {
-	"clbid": 9428,
+	"clbid": "0000009428",
 	"credits": 1.0,
-	"crsid": 457,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 30,
+	"crsid": "0000000457",
+	"department": "ENVST",
+	"enrolled": 30,
 	"instructors": [
 		"James Farrell"
 	],
 	"level": 200,
-	"locations": [
-		"HH 403"
-	],
 	"max": 25,
 	"name": "Campus Ecology",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 403",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 403",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "HH 403",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

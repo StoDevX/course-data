@@ -1,22 +1,37 @@
 {
-	"clbid": 94990,
+	"clbid": "0000094990",
 	"credits": 0.0,
-	"crsid": 191,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 20,
-	"groupid": 190,
+	"crsid": "0000000191",
+	"department": "CHEM",
+	"enrolled": 20,
+	"groupid": "0000000190",
 	"instructors": [
 		"George K. Anquandah"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 24,
 	"name": "A Matter of Environ Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 454",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "RNS 454",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 454",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20142,
-	"times": [
-		"TWTh 1230-0330PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

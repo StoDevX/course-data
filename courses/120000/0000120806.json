@@ -1,27 +1,30 @@
 {
-	"clbid": 120806,
+	"clbid": "0000120806",
 	"credits": 1.0,
-	"crsid": 334,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000334",
+	"department": "EDUC",
 	"description": [
 		"Students acquire the skills, knowledge and attitudes to become successful teachers in the secondary social studies classroom. They use the curriculum standards of the National Council for Social Studies and those identified by the State of Minnesota to develop goals, outcomes, and assessments for the various content areas. Students acquire the knowledge, skills, and understandings necessary to address appropriate skills development in 5-12 social studies classrooms. Required field experience component. Offered annually in the spring semester. Prerequisite: EDUC 330."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Sarah S. McDonald"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 10,
 	"name": "Teaching of Social Studies, 5-12",
 	"notes": [
 		"Open to Juniors and Seniors only. Prerequisite: EDUC 330."
 	],
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:30",
+			"location": "TOH 214",
+			"start": "18:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -38,14 +41,29 @@
 			"_updated": "2018-08-07T14:48:49.114368+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.499913+00:00",
+			"clbid": 120806,
+			"crsid": 334,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"M 0630-0930PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0630-0930PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

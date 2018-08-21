@@ -1,21 +1,36 @@
 {
-	"clbid": 5496,
+	"clbid": "0000005496",
 	"credits": 1.0,
-	"crsid": 1406,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 14,
+	"crsid": "0000001406",
+	"department": "STAT",
+	"enrolled": 14,
 	"instructors": [
 		"Gerald Ericksen"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 999,
 	"name": "Design of Experiments",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 130",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2002
 }

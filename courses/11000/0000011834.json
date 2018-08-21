@@ -1,21 +1,36 @@
 {
-	"clbid": 11834,
+	"clbid": "0000011834",
 	"credits": 1.0,
-	"crsid": 297,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 13,
+	"crsid": "0000000297",
+	"department": "CSCI",
+	"enrolled": 13,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 15,
 	"name": "Programming Languages",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 130",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

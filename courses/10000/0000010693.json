@@ -1,24 +1,39 @@
 {
-	"clbid": 10693,
+	"clbid": "0000010693",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations and eigenvalues. Prerequisite: Mathematics 120, or 122."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Urmila S. Malvadkar"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120, or 122.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2005

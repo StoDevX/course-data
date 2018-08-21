@@ -1,23 +1,48 @@
 {
-	"clbid": 9279,
+	"clbid": "0000009279",
 	"credits": 1.0,
-	"crsid": 243,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 16,
+	"crsid": "0000000243",
+	"department": "CHIN",
+	"enrolled": 16,
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"OM 001",
-		"OM 002",
-		"OM 002"
-	],
 	"max": 25,
 	"name": "Intermed Chinese II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 001",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 001",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 001",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 002",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 002",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140",
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

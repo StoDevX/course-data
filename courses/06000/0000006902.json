@@ -1,21 +1,36 @@
 {
-	"clbid": 6902,
+	"clbid": "0000006902",
 	"credits": 1.0,
-	"crsid": 407,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 29,
+	"crsid": "0000000407",
+	"department": "ENGL",
+	"enrolled": 29,
 	"instructors": [
 		"Colin Wells"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Top: Historical/Lit",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Topic",
 	"year": 2003
 }

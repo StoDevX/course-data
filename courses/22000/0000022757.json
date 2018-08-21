@@ -1,21 +1,24 @@
 {
-	"clbid": 22757,
+	"clbid": "0000022757",
 	"credits": 0.25,
-	"crsid": 1096,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 2,
+	"crsid": "0000001096",
+	"department": "PHYS",
+	"enrolled": 2,
 	"instructors": [
 		"Robert Jacobel"
 	],
 	"level": 300,
-	"locations": [
-		"SC 151"
-	],
 	"max": 999,
 	"name": "Adv Physics Lab (374)",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 151",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 1997
 }

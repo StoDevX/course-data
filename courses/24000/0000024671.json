@@ -1,21 +1,30 @@
 {
-	"clbid": 24671,
+	"clbid": "0000024671",
 	"credits": 0.75,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 26,
+	"crsid": "0000000802",
+	"department": "MUSIC",
+	"enrolled": 26,
 	"instructors": [
 		"Martin Hodel"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 30,
 	"name": "Theory II",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 232",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 232",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

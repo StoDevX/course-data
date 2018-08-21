@@ -1,22 +1,30 @@
 {
-	"clbid": 8149,
+	"clbid": "0000008149",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 14,
+	"crsid": "0000000801",
+	"department": "MUSIC",
+	"enrolled": 14,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 18,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 224",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 224",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

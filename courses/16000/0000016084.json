@@ -1,21 +1,30 @@
 {
-	"clbid": 16084,
+	"clbid": "0000016084",
 	"credits": 1.0,
-	"crsid": 1869,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 10,
+	"crsid": "0000001869",
+	"department": "HIST",
+	"enrolled": 10,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"M 20"
-	],
 	"max": 20,
 	"name": "Amer Sem: Women/Amer W",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 20",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

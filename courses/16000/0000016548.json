@@ -1,21 +1,30 @@
 {
-	"clbid": 16548,
+	"clbid": "0000016548",
 	"credits": 1.0,
-	"crsid": 2479,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 13,
+	"crsid": "0000002479",
+	"department": "THEAT",
+	"enrolled": 13,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 14/227"
-	],
 	"max": 20,
 	"name": "Directing",
 	"number": 332,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT 14/227",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT 14/227",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

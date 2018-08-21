@@ -1,14 +1,12 @@
 {
-	"clbid": 86464,
+	"clbid": "0000086464",
 	"credits": 1.0,
-	"crsid": 417,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000417",
+	"department": "ENGL",
 	"description": [
 		"Students critically examine a variety of national, metro, and local media. Students then learn to write their own news copy, including hard news, features, editorials, arts and entertainment reviews, sports, business, and travel stories. Students also learn UPI/AP style copy editing and proofreading, important skills for students applying for internships and print media jobs. Prerequisite: FYW."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Jan C. Hill"
 	],
 	"level": 200,
-	"locations": [
-		"RML 520",
-		"RML 520"
-	],
 	"max": 14,
 	"name": "Journalistic Writing",
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 520",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 520",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

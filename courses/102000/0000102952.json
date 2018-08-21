@@ -1,14 +1,12 @@
 {
-	"clbid": 102952,
+	"clbid": "0000102952",
 	"credits": 1.0,
-	"crsid": 286,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000286",
+	"department": "ECON",
 	"description": [
 		"Selected topics to be announced. May be repeated if topics are different. Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,16 +14,26 @@
 		"Thomas Bernardin"
 	],
 	"level": 300,
-	"locations": [
-		"OM 210",
-		"OM 210"
-	],
 	"max": 15,
 	"name": "Sem: Behavioral Finance",
 	"notes": [
 		"Open only to Seniors during web registration."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 210",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 210",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -74,10 +82,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Seminar in Economics",
 	"type": "Seminar",
 	"year": 2015

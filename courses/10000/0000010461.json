@@ -1,21 +1,30 @@
 {
-	"clbid": 10461,
+	"clbid": "0000010461",
 	"credits": 0.25,
-	"crsid": 358,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 4,
+	"crsid": "0000000358",
+	"department": "DNCTE",
+	"enrolled": 4,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 200,
-	"locations": [
-		"CAD _STUDIO_3"
-	],
 	"max": 15,
 	"name": "Modern Dance II",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD _STUDIO_3",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD _STUDIO_3",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

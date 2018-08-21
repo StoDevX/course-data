@@ -1,21 +1,36 @@
 {
-	"clbid": 4961,
+	"clbid": "0000004961",
 	"credits": 1.0,
-	"crsid": 409,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 35,
+	"crsid": "0000000409",
+	"department": "ENGL",
+	"enrolled": 35,
 	"instructors": [
 		"Richard Buckstead"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515"
-	],
 	"max": 35,
 	"name": "Literary Eras: Amer",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

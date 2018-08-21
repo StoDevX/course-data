@@ -1,24 +1,39 @@
 {
-	"clbid": 115141,
+	"clbid": "0000115141",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000712",
+	"department": "LATIN",
 	"description": [
 		"In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the spring semester. Prerequisite: LATIN 111 or equivalent."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Christopher M. Brunelle"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 108"
-	],
 	"max": 25,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 108",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 111 or equivalent.",
 	"revisions": [
@@ -59,9 +74,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2017
 }

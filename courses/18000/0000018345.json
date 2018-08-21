@@ -1,21 +1,30 @@
 {
-	"clbid": 18345,
+	"clbid": "0000018345",
 	"credits": 1.0,
-	"crsid": 928,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 8,
+	"crsid": "0000000928",
+	"department": "NORW",
+	"enrolled": 8,
 	"instructors": [
 		"Leslie A. Grove"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 999,
 	"name": "Scandinavian Lit-Tr",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

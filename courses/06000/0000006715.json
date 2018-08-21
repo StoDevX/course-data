@@ -1,22 +1,42 @@
 {
-	"clbid": 6715,
+	"clbid": "0000006715",
 	"credits": 1.0,
-	"crsid": 100,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
+	"crsid": "0000000100",
+	"department": "BIO",
+	"enrolled": 22,
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280",
-		"SC 253"
-	],
 	"max": 24,
 	"name": "Biological Science",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Tu",
+			"end": "13:45",
+			"location": "SC 253",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000",
-		"T 1145-0145PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

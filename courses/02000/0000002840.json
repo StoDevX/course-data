@@ -1,21 +1,36 @@
 {
-	"clbid": 2840,
+	"clbid": "0000002840",
 	"credits": 1.0,
-	"crsid": 32,
-	"departments": [
-		"ART"
-	],
-	"enroll": 43,
+	"crsid": "0000000032",
+	"department": "ART",
+	"enrolled": 43,
 	"instructors": [
 		"Randall Van Schepen"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 40,
 	"name": "Renaissance--Present",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

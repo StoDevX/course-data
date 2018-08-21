@@ -1,22 +1,25 @@
 {
-	"clbid": 118322,
+	"clbid": "0000118322",
 	"credits": 0.0,
-	"crsid": 238,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 5,
-	"groupid": 237,
+	"crsid": "0000000238",
+	"department": "CHIN",
+	"enrolled": 5,
+	"groupid": "0000000237",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 175"
-	],
 	"max": 14,
 	"name": "Beginning Chinese I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 175",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:44.647154+00:00",
 			"enroll": "5",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.709158+00:00",
+			"clbid": 118322,
+			"crsid": 238,
+			"department": null,
+			"departments": [
+				"CHIN"
+			],
+			"enroll": 5,
+			"enrolled": null,
+			"groupid": 237,
+			"locations": [
+				"TOH 175"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

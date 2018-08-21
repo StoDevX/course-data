@@ -1,24 +1,39 @@
 {
-	"clbid": 121586,
+	"clbid": "0000121586",
 	"credits": 1.0,
-	"crsid": 987,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000987",
+	"department": "PHIL",
 	"description": [
 		"Students explore contemporary approaches to classical issues in theory of knowledge which include the nature and limits of knowledge; theories of justification; conceptions of truth; relativism and skepticism; and the standards of knowledge in the sciences, mathematics, history, ethics and religion. Specific issues discussed vary year to year. May be repeated if topic is different. Offered alternate years. Prerequisites: two courses in philosophy, one of which must be either PHIL 235 or PHIL 236 or permission of the department chair."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"Anthony J. Rudd"
 	],
 	"level": 300,
-	"locations": [
-		"HH 429"
-	],
 	"max": 19,
 	"name": "Epistemology Sem:",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 429",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 429",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 429",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: two courses in philosophy, one of which must be either PHIL 235 or PHIL 236 or permission of the department chair.",
 	"revisions": [
@@ -47,14 +62,29 @@
 		{
 			"_updated": "2018-08-11T03:33:41.428482+00:00",
 			"enroll": 9
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.480225+00:00",
+			"clbid": 121586,
+			"crsid": 987,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"locations": [
+				"HH 429"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Seminar in Epistemology",
 	"type": "Research",
 	"year": 2018

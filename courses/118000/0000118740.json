@@ -1,14 +1,12 @@
 {
-	"clbid": 118740,
+	"clbid": "0000118740",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001327",
+	"department": "SPAN",
 	"description": [
 		"Students explore the diverse histories, circumstances, and contributions of Latinos in the U.S. by reading essays, news accounts, short fiction and autobiographies, and by viewing videos and TV broadcasts. They consolidate their language skills and continue to develop their ability to analyze and communicate in Spanish by writing compositions, making oral presentations, and engaging in interactive group activities. They also review Spanish structures difficult for speakers of English. Offered each semester. Prerequisite: SPAN 231or placement."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"FOL-S",
 		"MCD"
@@ -17,15 +15,32 @@
 		"Kris A. Cropsey"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 314"
-	],
 	"max": 15,
 	"name": "Latinx Experiences in United States",
 	"notes": [
 		"Prerequisite: Completion of Spanish placement test or preceding course."
 	],
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 314",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 314",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 314",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 231or placement.",
 	"revisions": [
@@ -66,15 +81,30 @@
 		{
 			"_updated": "2018-08-09T03:33:25.490254+00:00",
 			"name": "Intermed Spanish II"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.397095+00:00",
+			"clbid": 118740,
+			"crsid": 1327,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 14,
+			"enrolled": null,
+			"locations": [
+				"TOH 314"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Intermediate Spanish II",
 	"type": "Research",
 	"year": 2018

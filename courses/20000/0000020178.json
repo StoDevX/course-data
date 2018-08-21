@@ -1,21 +1,30 @@
 {
-	"clbid": 20178,
+	"clbid": "0000020178",
 	"credits": 1.0,
-	"crsid": 268,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 17,
+	"crsid": "0000000268",
+	"department": "ECON",
+	"enrolled": 17,
 	"instructors": [
 		"David Schodt"
 	],
 	"level": 200,
-	"locations": [
-		"M 11"
-	],
 	"max": 20,
 	"name": "Economic Development",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 11",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 11",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

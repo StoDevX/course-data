@@ -1,22 +1,25 @@
 {
-	"clbid": 49198,
+	"clbid": "0000049198",
 	"credits": 0.0,
-	"crsid": 101,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 27,
-	"groupid": 100,
+	"crsid": "0000000101",
+	"department": "BIO",
+	"enrolled": 27,
+	"groupid": "0000000100",
 	"instructors": [
 		"Diane M. Maher"
 	],
 	"level": 100,
-	"locations": [
-		"SC 229"
-	],
 	"max": 0,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:20",
+			"location": "SC 229",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0320PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

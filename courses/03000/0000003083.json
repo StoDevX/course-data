@@ -1,21 +1,30 @@
 {
-	"clbid": 3083,
+	"clbid": "0000003083",
 	"credits": 1.0,
-	"crsid": 460,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 22,
+	"crsid": "0000000460",
+	"department": "ENVST",
+	"enrolled": 22,
 	"instructors": [
 		"Russane Low"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 24,
 	"name": "Global Climate Change",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 130",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 130",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

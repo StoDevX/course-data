@@ -1,22 +1,30 @@
 {
-	"clbid": 6223,
+	"clbid": "0000006223",
 	"credits": 1.0,
-	"crsid": 1176,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 29,
+	"crsid": "0000001176",
+	"department": "PSYCH",
+	"enrolled": 29,
 	"instructors": [
 		"Donna K. McMillan"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 30,
 	"name": "Abnormal Psych",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2003
 }

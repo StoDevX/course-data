@@ -1,14 +1,12 @@
 {
-	"clbid": 69098,
+	"clbid": "0000069098",
 	"credits": 1.0,
-	"crsid": 778,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000778",
+	"department": "MGMT",
 	"description": [
 		"This course familiarizes the student with the major management functions of planning, organizing, leading, and controlling. The study of management theory is linked with application exercises. Students begin to develop the management skills necessary in any organization, whether it be a for-profit or not-for-profit venture, a small business, or a large corporation. This course is required for all students pursuing a management studies concentration. Prerequisite: one of Economics 110-121 or permission of instructor. Offered each semester."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,16 +14,26 @@
 		"Thomas Burns"
 	],
 	"level": 200,
-	"locations": [
-		"OM 001",
-		"OM 001"
-	],
 	"max": 30,
 	"name": "Management",
 	"notes": [
 		"Not open to first-year students."
 	],
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 001",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 001",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-121 or permission of instructor. Offered each semester.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

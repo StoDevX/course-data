@@ -1,21 +1,48 @@
 {
-	"clbid": 8923,
+	"clbid": "0000008923",
 	"credits": 1.0,
-	"crsid": 966,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 31,
+	"crsid": "0000000966",
+	"department": "PHIL",
+	"enrolled": 31,
 	"instructors": [
 		"Vicki L. Harper"
 	],
 	"level": 100,
-	"locations": [
-		"HH 301"
-	],
 	"max": 28,
 	"name": "Philosophy and Lit",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "HH 301",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "HH 301",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "HH 301",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "HH 301",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "HH 301",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20042,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

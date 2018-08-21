@@ -1,25 +1,33 @@
 {
-	"clbid": 101428,
+	"clbid": "0000101428",
 	"credits": 1.0,
-	"crsid": 852,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000852",
+	"department": "MUSIC",
 	"description": [
 		"This course continues the study in creative composition begun in MUSIC 223 and MUSIC 324 and includes writing for large ensembles. May be repeated. Offered each semester. Prerequisites: MUSIC 221, MUSIC 223, MUSIC 324, and permission of instructor."
 	],
-	"enroll": 2,
+	"enrolled": 2,
 	"instructors": [
 		"Justin W. Merritt"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 4,
 	"name": "Composition III",
 	"number": 325,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 224",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 224",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MUSIC 221, MUSIC 223, MUSIC 324, and permission of instructor.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

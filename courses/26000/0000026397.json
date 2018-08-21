@@ -1,21 +1,36 @@
 {
-	"clbid": 26397,
+	"clbid": "0000026397",
 	"credits": 1.0,
-	"crsid": 410,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 34,
+	"crsid": "0000000410",
+	"department": "ENGL",
+	"enrolled": 34,
 	"instructors": [
 		"Joan Hepburn"
 	],
 	"level": 200,
-	"locations": [
-		"L 515"
-	],
 	"max": 35,
 	"name": "Amer Racial/Multi Lit",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

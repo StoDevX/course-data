@@ -1,21 +1,36 @@
 {
-	"clbid": 2223,
+	"clbid": "0000002223",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 32,
+	"crsid": "0000000731",
+	"department": "MATH",
+	"enrolled": 32,
 	"instructors": [
 		"Kay E. Smith"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 32,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

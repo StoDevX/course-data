@@ -1,14 +1,12 @@
 {
-	"clbid": 63296,
+	"clbid": "0000063296",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000259",
+	"department": "ECON",
 	"description": [
 		"This course takes an analytical approach to economic reasoning and contemporary issues. The course introduces microeconomic and macroeconomic theories with applications to relevant topics, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes, and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers. Offered each semester."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Suzanne L. Wisniewski"
 	],
 	"level": 100,
-	"locations": [
-		"HH 413",
-		"HH 413"
-	],
 	"max": 30,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 413",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 413",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Principles of Economics",
 	"type": "Research",
 	"year": 2008

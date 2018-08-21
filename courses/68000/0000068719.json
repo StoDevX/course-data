@@ -1,14 +1,12 @@
 {
-	"clbid": 68719,
+	"clbid": "0000068719",
 	"credits": 1.0,
-	"crsid": 1192,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001192",
+	"department": "REL",
 	"description": [
 		"This course introduces students to Christian theology, provides an overview of central Christian beliefs (for example, about God, Christ, creation, salvation, sin, faith, the church) and critically examines their origins, meaning, coherence and contemporary validity. How should Christians understand themselves and the world in light of the God made known in Jesus Christ? Prerequisites: BTS-B."
 	],
-	"enroll": 32,
+	"enrolled": 32,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,15 +14,32 @@
 		"Gregory A. Walter"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 35,
 	"name": "Essentials Chr Theol",
 	"notes": [
 		"This course does NOT fulfill a WRI requirement."
 	],
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 101",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 101",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 101",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: BTS-B.",
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Essentials of Christian Theology",
 	"type": "Research",
 	"year": 2009

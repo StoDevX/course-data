@@ -1,21 +1,36 @@
 {
-	"clbid": 9324,
+	"clbid": "0000009324",
 	"credits": 1.0,
-	"crsid": 311,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 22,
+	"crsid": "0000000311",
+	"department": "EDUC",
+	"enrolled": 22,
 	"instructors": [
 		"Robert W. McClure"
 	],
 	"level": 200,
-	"locations": [
-		"FH 10"
-	],
 	"max": 30,
 	"name": "Educ Psychology",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

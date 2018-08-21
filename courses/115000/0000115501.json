@@ -1,14 +1,12 @@
 {
-	"clbid": 115501,
+	"clbid": "0000115501",
 	"credits": 1.0,
-	"crsid": 857,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000857",
+	"department": "MUSIC",
 	"description": [
 		"Students encounter in-depth studies in a specific topic or area of music history. The content and nature of this course are determined by the instructor and the music department. Sample topics include American music, studies in classical music, opera, and folk and pop influences in art music. May be repeated if topic is different. Offered each semester. Prerequisites: MUSIC 241 and MUSIC 242."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Megan E. Sarno"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 19,
 	"name": "Top: Music and Religion",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MUSIC 241 and MUSIC 242.",
 	"revisions": [
@@ -67,9 +82,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Advanced Study in Music History",
 	"type": "Topic",
 	"year": 2017

@@ -1,24 +1,27 @@
 {
-	"clbid": 118065,
+	"clbid": "0000118065",
 	"credits": 0.25,
-	"crsid": 32290,
-	"departments": [
-		"MABIO"
-	],
+	"crsid": "0000032290",
+	"department": "MABIO",
 	"description": [
 		"Students spend one evening each week exploring topics at the interface of mathematics and biology. Faculty introduce topics supported by a reading assignment to be done prior to class. Class time is spent exploring the problem and developing the mathematical approach to solving it. Topics may include invasive species, sex-ratio evolution, neural networks, feedback control, graph theory, statistical ecology, and population genetics. P/N only. Offered annually in the spring semester. Counts toward mathematical biology concentration. Prerequisite: STAT 110, MATH 120, or equivalent."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 50,
 	"name": "Exploring Biomathematics (.25)",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "RNS 210",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "STAT 110, MATH 120, or equivalent.",
 	"revisions": [
@@ -61,9 +64,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"F 0200-0400PM"
-	],
 	"title": "Exploring Biomathematics",
 	"type": "Research",
 	"year": 2017

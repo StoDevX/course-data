@@ -1,22 +1,30 @@
 {
-	"clbid": 4095,
+	"clbid": "0000004095",
 	"credits": 1.0,
-	"crsid": 779,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 15,
+	"crsid": "0000000779",
+	"department": "MGMT",
+	"enrolled": 15,
 	"instructors": [
 		"John M. Ophaug"
 	],
 	"level": 200,
-	"locations": [
-		"CH 109",
-		"CH 109"
-	],
 	"max": 19,
 	"name": "Legal Aspects of Bus",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CH 109",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CH 109",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

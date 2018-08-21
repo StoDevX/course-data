@@ -1,22 +1,31 @@
 {
-	"clbid": 22676,
+	"clbid": "0000022676",
 	"credits": 0.25,
-	"crsid": 2179,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 23,
+	"crsid": "0000002179",
+	"department": "PEAC",
+	"enrolled": 23,
 	"halfcredit": "1",
 	"instructors": [
 		"William Sean Goldsworthy"
 	],
 	"level": 100,
-	"locations": [
-		"NFLD RINK"
-	],
 	"max": 24,
 	"name": "Ice Skating",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "NFLD RINK",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "NFLD RINK",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

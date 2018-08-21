@@ -1,21 +1,30 @@
 {
-	"clbid": 20425,
+	"clbid": "0000020425",
 	"credits": 1.0,
-	"crsid": 724,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 3,
+	"crsid": "0000000724",
+	"department": "LATIN",
+	"enrolled": 3,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 300,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Latin Satire",
 	"number": 377,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 36",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 36",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

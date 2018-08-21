@@ -1,21 +1,36 @@
 {
-	"clbid": 7430,
+	"clbid": "0000007430",
 	"credits": 1.0,
-	"crsid": 1333,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 28,
+	"crsid": "0000001333",
+	"department": "SPAN",
+	"enrolled": 28,
 	"instructors": [
 		"Maggie Broner"
 	],
 	"level": 200,
-	"locations": [
-		"OM 021"
-	],
 	"max": 25,
 	"name": "Hispanic Linguistics",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 021",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 021",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 021",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 69976,
+	"clbid": "0000069976",
 	"credits": 1.0,
-	"crsid": 514,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000514",
+	"department": "GERM",
 	"description": [
 		"Students move to an Intermediate-High level of oral proficiency through practice in daily life communicative skills such as in interviews, party games, telling stories, giving reports, and organizing social events. The course focuses on higher-order functions such as paragraph-length narration, presenting opinions, group discussions, and formal presentations, as well as interviews, debates, and regular group conversations with classroom guests and speakers. Taught in German. Prerequisite: German 232 or equivalent."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"FOL-G",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Steffen Kaupp"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035"
-	],
 	"max": 19,
 	"name": "Speaking German",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "German 232 or equivalent.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2009
 }

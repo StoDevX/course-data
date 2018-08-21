@@ -1,21 +1,24 @@
 {
-	"clbid": 21187,
+	"clbid": "0000021187",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 24,
+	"crsid": "0000000199",
+	"department": "CHEM",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311/378"
-	],
 	"max": 12,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 311/378",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 1997
 }

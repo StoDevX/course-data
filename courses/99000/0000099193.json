@@ -1,22 +1,25 @@
 {
-	"clbid": 99193,
+	"clbid": "0000099193",
 	"credits": 0.0,
-	"crsid": 1065,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 13,
-	"groupid": 1064,
+	"crsid": "0000001065",
+	"department": "ESTH",
+	"enrolled": 13,
+	"groupid": "0000001064",
 	"instructors": [
 		"Christine Daymont"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 12,
 	"name": "Physiology/Exercise Lab",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC 103",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"Th 0800-1050"
-	],
 	"type": "Lab",
 	"year": 2014
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 15106,
+	"clbid": "0000015106",
 	"credits": 1.0,
-	"crsid": 856,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 34,
+	"crsid": "0000000856",
+	"department": "MUSIC",
+	"enrolled": 34,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 35,
 	"name": "Music of 20th Century",
 	"number": 344,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CHM 232",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

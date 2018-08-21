@@ -1,21 +1,24 @@
 {
-	"clbid": 24665,
+	"clbid": "0000024665",
 	"credits": 1.0,
-	"crsid": 790,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 11,
+	"crsid": "0000000790",
+	"department": "MGMT",
+	"enrolled": 11,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 300,
-	"locations": [
-		"M 4"
-	],
 	"max": 20,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"W 1255-0255PM"
-	],
 	"type": "Seminar",
 	"year": 1998
 }

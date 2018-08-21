@@ -1,22 +1,30 @@
 {
-	"clbid": 5448,
+	"clbid": "0000005448",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 21,
 	"instructors": [
 		"Ariel Strichartz"
 	],
 	"level": 200,
-	"locations": [
-		"OM 021",
-		"OM 021"
-	],
 	"max": 23,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 021",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "OM 021",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,24 +1,33 @@
 {
-	"clbid": 52147,
+	"clbid": "0000052147",
 	"credits": 0.25,
-	"crsid": 1005,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001005",
+	"department": "PEAC",
 	"description": [
 		"Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard. Prerequisite: Physical Eduction 121 or 130."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physical Eduction 121 or 130.",
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

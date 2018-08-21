@@ -1,21 +1,36 @@
 {
-	"clbid": 12131,
+	"clbid": "0000012131",
 	"credits": 0.25,
-	"crsid": 812,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 16,
+	"crsid": "0000000812",
+	"department": "MUSIC",
+	"enrolled": 16,
 	"instructors": [
 		"David Hagedorn"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Percussion Class",
 	"number": 167,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 138",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

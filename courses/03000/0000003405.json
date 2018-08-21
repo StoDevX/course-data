@@ -1,21 +1,30 @@
 {
-	"clbid": 3405,
+	"clbid": "0000003405",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001148",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 15,
 	"name": "Studies-Fem Theory",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,23 +1,26 @@
 {
-	"clbid": 91711,
+	"clbid": "0000091711",
 	"credits": 0.0,
-	"crsid": 26692,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
-	"groupid": 1158,
+	"crsid": "0000026692",
+	"department": "PSYCH",
+	"enrolled": 18,
+	"groupid": "0000001158",
 	"grouptype": "2",
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 24,
 	"name": "Research Methods Lab",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "RNS 240",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20131,
-	"times": [
-		"Th 1245-0245PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

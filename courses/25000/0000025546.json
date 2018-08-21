@@ -1,21 +1,36 @@
 {
-	"clbid": 25546,
+	"clbid": "0000025546",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 25,
+	"crsid": "0000000734",
+	"department": "MATH",
+	"enrolled": 25,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Math Analysis II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

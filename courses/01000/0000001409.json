@@ -1,21 +1,30 @@
 {
-	"clbid": 1409,
+	"clbid": "0000001409",
 	"credits": 1.0,
-	"crsid": 783,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 30,
+	"crsid": "0000000783",
+	"department": "MGMT",
+	"enrolled": 30,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 25,
 	"name": "Corporate Finance",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 182",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 182",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

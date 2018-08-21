@@ -1,21 +1,36 @@
 {
-	"clbid": 20741,
+	"clbid": "0000020741",
 	"credits": 1.0,
-	"crsid": 1198,
-	"departments": [
-		"REL"
-	],
-	"enroll": 26,
+	"crsid": "0000001198",
+	"department": "REL",
+	"enrolled": 26,
 	"instructors": [
 		"Eric Lund"
 	],
 	"level": 200,
-	"locations": [
-		"CH 110"
-	],
 	"max": 25,
 	"name": "Chr Theol in History",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 110",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 110",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 110",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

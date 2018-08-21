@@ -1,21 +1,24 @@
 {
-	"clbid": 7259,
+	"clbid": "0000007259",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"James Cederberg"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 22,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 111",
+			"start": "08:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"Th 0820-1050"
-	],
 	"type": "Lab",
 	"year": 2003
 }

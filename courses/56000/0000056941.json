@@ -1,24 +1,33 @@
 {
-	"clbid": 56941,
+	"clbid": "0000056941",
 	"credits": 0.25,
-	"crsid": 99,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000099",
+	"department": "BIO",
 	"description": [
 		"This biology course emphasizes learning strategies and critical thinking skills as applied to the curriculum of Biology 125. Objectives of the course are met through additional readings, problem sets, brief written assignments, introduction of discipline-specific writing styles, projects (including individual and/or group oral presentation), and library research. Assignments include new content that complements introductory biology. Offered annually. Prerequisites: concurrent enrollment in Biology 125 and permission of instructor."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 100,
-	"locations": [
-		"SC 229"
-	],
 	"max": 19,
 	"name": "Suppl Inst Cell Biol",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 229",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 229",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: concurrent enrollment in Biology 125 and permission of instructor.",
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MF 0200-0255PM"
-	],
 	"title": "Supplemental Biology",
 	"type": "Research",
 	"year": 2007

@@ -1,25 +1,33 @@
 {
-	"clbid": 75281,
+	"clbid": "0000075281",
 	"credits": 1.0,
-	"crsid": 290,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000290",
+	"department": "CSCI",
 	"description": [
 		"Students learn about formal languages, automata, and other topics concerned with the theoretical basis and limitations of computation. The course covers automata theory including regular languages and context-free languages, computability theory, complexity theory including classes P and NP, and cryptographic algorithms. Prerequisite: Computer Science 231 or Mathematics 244 or 252, or permission of instructor. Next offered in spring 2011 and spring 2013."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 25,
 	"name": "Theory of Computation",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 203",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 203",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Computer Science 231 or Mathematics 244 or 252, or permission of instructor. Next offered in spring 2011 and spring 2013.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

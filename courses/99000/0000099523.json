@@ -1,25 +1,28 @@
 {
-	"clbid": 99523,
+	"clbid": "0000099523",
 	"credits": 0.25,
-	"crsid": 202,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000202",
+	"department": "CHEM",
 	"description": [
 		"Students enrolled in this lab course practice techniques of modern analytical chemistry using state-of-the-art instrumentation, including pH meters, liquid chromatographs, and a variety of spectrophotometers. Data acquisition via computer-interfaced instrumentation and electronic record-keeping is emphasized. Students practice and develop group skills by working in \"companies\" throughout the semester. P/N only. Offered each semester. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: concurrent registration in CHEM 255."
 	],
-	"enroll": 13,
-	"groupid": 201,
+	"enrolled": 13,
+	"groupid": "0000000201",
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 446"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:45",
+			"location": "RNS 446",
+			"start": "11:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": "concurrent registration in CHEM 255.",
 	"revisions": [
@@ -50,9 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"T 1145-0345PM"
-	],
 	"title": "Analytical Laboratory",
 	"type": "Lab",
 	"year": 2015

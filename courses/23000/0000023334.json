@@ -1,21 +1,30 @@
 {
-	"clbid": 23334,
+	"clbid": "0000023334",
 	"credits": 1.0,
-	"crsid": 275,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 13,
+	"crsid": "0000000275",
+	"department": "ECON",
+	"enrolled": 13,
 	"instructors": [
 		"David Schodt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 188",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 188",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

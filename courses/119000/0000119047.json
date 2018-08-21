@@ -1,27 +1,36 @@
 {
-	"clbid": 119047,
+	"clbid": "0000119047",
 	"credits": 0.25,
-	"crsid": 807,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000807",
+	"department": "MUSIC",
 	"description": [
 		"For music majors with little or no prior keyboard experience, this course introduces basic keyboard patterns and technical foundations, applied music theory, harmonization and transposition, and playing by ear. Development of sight playing skill is a central focus. Class sessions include reading, ensemble playing, performance, skill development and drill, and structured improvisation. Offered annually in the fall semester. Prerequisite: concurrent registration in MUSIC 112."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"instructors": [
 		"April R. Kim"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class I",
 	"notes": [
 		"This class is open only to approved music majors."
 	],
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 222",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 222",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in MUSIC 112.",
 	"revisions": [
@@ -48,15 +57,30 @@
 			"_updated": "2018-08-07T14:48:45.227726+00:00",
 			"enroll": "1",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.889419+00:00",
+			"clbid": 119047,
+			"crsid": 807,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 1,
+			"enrolled": null,
+			"locations": [
+				"CHM 222"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

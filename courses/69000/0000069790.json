@@ -1,22 +1,25 @@
 {
-	"clbid": 69790,
+	"clbid": "0000069790",
 	"credits": 0.0,
-	"crsid": 17303,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 10,
-	"groupid": 171,
+	"crsid": "0000017303",
+	"department": "BIO",
+	"enrolled": 10,
+	"groupid": "0000000171",
 	"instructors": [
 		"Louis Henry Kermott"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 12,
 	"name": "Animal Behavior Lab",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 123",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

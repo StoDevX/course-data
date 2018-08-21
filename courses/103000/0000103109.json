@@ -1,22 +1,25 @@
 {
-	"clbid": 103109,
+	"clbid": "0000103109",
 	"credits": 0.0,
-	"crsid": 16383,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 2,
-	"groupid": 141,
+	"crsid": "0000016383",
+	"department": "BIO",
+	"enrolled": 2,
+	"groupid": "0000000141",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 246"
-	],
 	"max": 12,
 	"name": "Limnology Lab",
 	"number": 363,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:15",
+			"location": "RNS 246",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"Th 0215-0515PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

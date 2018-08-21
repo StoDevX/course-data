@@ -1,21 +1,30 @@
 {
-	"clbid": 26889,
+	"clbid": "0000026889",
 	"credits": 1.0,
-	"crsid": 792,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 22,
+	"crsid": "0000000792",
+	"department": "THEAT",
+	"enrolled": 22,
 	"instructors": [
 		"Brenton Malin"
 	],
 	"level": 100,
-	"locations": [
-		"CT 216"
-	],
 	"max": 23,
 	"name": "Mass Media",
 	"number": 160,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CT 216",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CT 216",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

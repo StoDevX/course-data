@@ -1,21 +1,30 @@
 {
-	"clbid": 2485,
+	"clbid": "0000002485",
 	"credits": 1.0,
-	"crsid": 1258,
-	"departments": [
-		"REL"
-	],
-	"enroll": 8,
+	"crsid": "0000001258",
+	"department": "REL",
+	"enrolled": 8,
 	"instructors": [
 		"Charles Wilson"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 15,
 	"name": "Them: New Jesus",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

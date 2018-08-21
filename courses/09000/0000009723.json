@@ -1,21 +1,30 @@
 {
-	"clbid": 9723,
+	"clbid": "0000009723",
 	"credits": 0.25,
-	"crsid": 998,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 12,
+	"crsid": "0000000998",
+	"department": "PEAC",
+	"enrolled": 12,
 	"instructors": [
 		"Amelia J. Taylor"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 12,
 	"name": "Rock Climbing",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TC",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 122050,
+	"clbid": "0000122050",
 	"credits": 1.0,
-	"crsid": 32561,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000032561",
+	"department": "PSCI",
 	"description": [
 		"How do states govern their economies and how does the international economy affect domestic politics? This course aims to answer these two interrelated questions by introducing students to theories of the politics of trade, finance, and investment; as well as contemporary debates on the role of economic organizations, regional trade agreements, migration, environment and inequality. The course approaches each topic by examining alternative theoretical approaches; students evaluate these theories using historical and contemporary evidence. Offered annually in the fall semester. Prerequisite: prior course work in political science or economics useful but not required"
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Menevis Cilizoglu"
 	],
 	"level": 200,
-	"locations": [
-		"HH 523",
-		"HH 523"
-	],
 	"max": 24,
 	"name": "International Political Economy",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 523",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 523",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "prior course work in political science or economics useful but not required",
 	"revisions": [
@@ -42,16 +50,32 @@
 			"_updated": "2018-08-07T14:48:45.565352+00:00",
 			"enroll": "14",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.690681+00:00",
+			"clbid": 122050,
+			"crsid": 32561,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 14,
+			"enrolled": null,
+			"locations": [
+				"HH 523",
+				"HH 523"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

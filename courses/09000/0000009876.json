@@ -1,22 +1,30 @@
 {
-	"clbid": 9876,
+	"clbid": "0000009876",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 24,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 24,
 	"instructors": [
 		"Elizabeth C. Galbraith"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 101",
-		"BMC 101"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 101",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 101",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

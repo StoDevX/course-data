@@ -1,21 +1,30 @@
 {
-	"clbid": 18165,
+	"clbid": "0000018165",
 	"credits": 1.0,
-	"crsid": 473,
-	"departments": [
-		"IDFA"
-	],
-	"enroll": 1,
+	"crsid": "0000000473",
+	"department": "IDFA",
+	"enrolled": 1,
 	"instructors": [
 		"Susan Bauer"
 	],
 	"level": 300,
-	"locations": [
-		"SPT GREEN RM"
-	],
 	"max": 999,
 	"name": "Senior Studies",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT GREEN RM",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT GREEN RM",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

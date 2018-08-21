@@ -1,22 +1,30 @@
 {
-	"clbid": 4753,
+	"clbid": "0000004753",
 	"credits": 1.0,
-	"crsid": 95,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 8,
+	"crsid": "0000000095",
+	"department": "ASIAN",
+	"enrolled": 8,
 	"instructors": [
 		"Karil J. Kucera"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 20,
 	"name": "Buddhism: Text-Image",
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 204",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 204",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

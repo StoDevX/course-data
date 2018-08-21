@@ -1,21 +1,36 @@
 {
-	"clbid": 22631,
+	"clbid": "0000022631",
 	"credits": 1.0,
-	"crsid": 854,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 25,
+	"crsid": "0000000854",
+	"department": "MUSIC",
+	"enrolled": 25,
 	"instructors": [
 		"Gerald Hoekstra"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 30,
 	"name": "Music of Baroque Era",
 	"number": 342,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

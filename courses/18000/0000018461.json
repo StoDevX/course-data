@@ -1,21 +1,24 @@
 {
-	"clbid": 18461,
+	"clbid": "0000018461",
 	"credits": 0.0,
-	"crsid": 1065,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 0,
+	"crsid": "0000001065",
+	"department": "PETH",
+	"enrolled": 0,
 	"instructors": [
 		"Christine Daymont"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 2"
-	],
 	"max": 18,
 	"name": "Physiology/Exer/Lab",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC 2",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 1995
 }

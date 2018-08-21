@@ -1,21 +1,36 @@
 {
-	"clbid": 12130,
+	"clbid": "0000012130",
 	"credits": 0.25,
-	"crsid": 811,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 13,
+	"crsid": "0000000811",
+	"department": "MUSIC",
+	"enrolled": 13,
 	"instructors": [
 		"Larry J. Zimmerman"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 15,
 	"name": "Brass Class",
 	"number": 166,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

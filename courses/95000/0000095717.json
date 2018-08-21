@@ -1,14 +1,12 @@
 {
-	"clbid": 95717,
+	"clbid": "0000095717",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester. Prerequisite: mathematics placement recommendation."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Kay E. Smith"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 184",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2014
 }

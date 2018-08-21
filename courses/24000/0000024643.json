@@ -1,21 +1,30 @@
 {
-	"clbid": 24643,
+	"clbid": "0000024643",
 	"credits": 1.0,
-	"crsid": 763,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 14,
+	"crsid": "0000000763",
+	"department": "MATH",
+	"enrolled": 14,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 300,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Sem: Logic",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 186",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 186",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 1998
 }

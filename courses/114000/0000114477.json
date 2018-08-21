@@ -1,22 +1,25 @@
 {
-	"clbid": 114477,
+	"clbid": "0000114477",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 16,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 16,
+	"groupid": "0000001074",
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 17,
 	"name": "Principles Physics II Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 292",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0830-1100"
-	],
 	"type": "Lab",
 	"year": 2017
 }

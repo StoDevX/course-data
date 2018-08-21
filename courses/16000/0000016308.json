@@ -1,21 +1,36 @@
 {
-	"clbid": 16308,
+	"clbid": "0000016308",
 	"credits": 1.0,
-	"crsid": 2214,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 21,
+	"crsid": "0000002214",
+	"department": "PETH",
+	"enrolled": 21,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 26,
 	"name": "Anatomy & Kinesiology",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC 1",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC 1",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SAC 1",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 3837,
+	"clbid": "0000003837",
 	"credits": 1.0,
-	"crsid": 270,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 10,
+	"crsid": "0000000270",
+	"department": "ECON",
+	"enrolled": 10,
 	"instructors": [
 		"Edward David Emery"
 	],
 	"level": 200,
-	"locations": [
-		"M 4",
-		"M 4"
-	],
 	"max": 19,
 	"name": "Health Care Econ",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 4",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "M 4",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 694,
+	"clbid": "0000000694",
 	"credits": 1.0,
-	"crsid": 2464,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 22,
+	"crsid": "0000002464",
+	"department": "THEAT",
+	"enrolled": 22,
 	"instructors": [
 		"Linda Devenish"
 	],
 	"level": 100,
-	"locations": [
-		"CT 216"
-	],
 	"max": 20,
 	"name": "Interpersonal Commun",
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

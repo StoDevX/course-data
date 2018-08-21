@@ -1,22 +1,30 @@
 {
-	"clbid": 6325,
+	"clbid": "0000006325",
 	"credits": 1.0,
-	"crsid": 1374,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 26,
+	"crsid": "0000001374",
+	"department": "THEAT",
+	"enrolled": 26,
 	"instructors": [
 		"Andrea Wollenberg"
 	],
 	"level": 100,
-	"locations": [
-		"TB 216",
-		"TB 216"
-	],
 	"max": 20,
 	"name": "Oral Interpretation",
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB 216",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB 216",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

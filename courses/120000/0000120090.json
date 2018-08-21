@@ -1,26 +1,41 @@
 {
-	"clbid": 120090,
+	"clbid": "0000120090",
 	"credits": 1.0,
-	"crsid": 30522,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000030522",
+	"department": "NURS",
 	"description": [
 		"Students synthesize knowledge and apply evidence-based practice in the care and management of patients with multiple complex health conditions. The focus of this course is on caring for patients with limitations in their ability to function due to physical, mental, and psychosocial challenges. Simulation will be used to facilitate student learning in critical care environments. Counts toward the nursing major. Offered annually in the spring semester. Prerequisites: open to senior nursing majors only; NURS 315 and NURS 316; concurrent registration in NURS 317, NURS 318, and NURS 399."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Susan Huehn",
 		"Ketty Holt",
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"YTT 050A"
-	],
 	"max": 24,
 	"name": "Complex Patient Care",
 	"number": 319,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "YTT 050A",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "YTT 050A",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "YTT 050A",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to senior nursing majors only; NURS 315 and NURS 316; concurrent registration in NURS 317, NURS 318, and NURS 399.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:48.693150+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.383820+00:00",
+			"clbid": 120090,
+			"crsid": 30522,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"YTT 050A"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

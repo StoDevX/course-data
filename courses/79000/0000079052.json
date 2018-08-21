@@ -1,14 +1,12 @@
 {
-	"clbid": 79052,
+	"clbid": "0000079052",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: mathematics placement recommendation. Offered each semester."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Peter F. Blanchard"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 184",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

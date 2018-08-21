@@ -1,21 +1,24 @@
 {
-	"clbid": 6767,
+	"clbid": "0000006767",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 24,
 	"name": "Fundamentls Chem/Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 371",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"Th 0800-1050"
-	],
 	"type": "Lab",
 	"year": 2003
 }

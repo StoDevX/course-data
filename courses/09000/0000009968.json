@@ -1,22 +1,30 @@
 {
-	"clbid": 9968,
+	"clbid": "0000009968",
 	"credits": 1.0,
-	"crsid": 1365,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 13,
+	"crsid": "0000001365",
+	"department": "SWRK",
+	"enrolled": 13,
 	"instructors": [
 		"Sarah M. Ferguson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 110",
-		"SC 110"
-	],
 	"max": 20,
 	"name": "Eval/Sw Practice/Prog",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 110",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

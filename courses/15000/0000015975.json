@@ -1,21 +1,36 @@
 {
-	"clbid": 15975,
+	"clbid": "0000015975",
 	"credits": 1.0,
-	"crsid": 426,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 26,
+	"crsid": "0000000426",
+	"department": "ENGL",
+	"enrolled": 26,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 40,
 	"name": "Intro to Shakespeare",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

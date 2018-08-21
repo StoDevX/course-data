@@ -1,22 +1,30 @@
 {
-	"clbid": 7124,
+	"clbid": "0000007124",
 	"credits": 0.75,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 16,
+	"crsid": "0000000802",
+	"department": "MUSIC",
+	"enrolled": 16,
 	"instructors": [
 		"Keith D. McCutchen"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232",
-		"CHM 232"
-	],
 	"max": 20,
 	"name": "Theory II",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 232",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 232",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 7324,
+	"clbid": "0000007324",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 4,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 4,
 	"instructors": [
 		"Bonnie Sherman"
 	],
 	"level": 300,
-	"locations": [
-		"HH 204"
-	],
 	"max": 4,
 	"name": "Sem: Preceptors",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 204",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"F 0200-0255PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 21731,
+	"clbid": "0000021731",
 	"credits": 1.0,
-	"crsid": 2336,
-	"departments": [
-		"REL"
-	],
-	"enroll": 17,
+	"crsid": "0000002336",
+	"department": "REL",
+	"enrolled": 17,
 	"instructors": [
 		"Douglas Schuurman"
 	],
 	"level": 200,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Christian Ethics",
 	"number": 292,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

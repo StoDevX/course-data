@@ -1,21 +1,36 @@
 {
-	"clbid": 5809,
+	"clbid": "0000005809",
 	"credits": 1.0,
-	"crsid": 321,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 15,
+	"crsid": "0000000321",
+	"department": "EDUC",
+	"enrolled": 15,
 	"instructors": [
 		"Martha Harris"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 20,
 	"name": "Principles of Educ",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FH 10",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

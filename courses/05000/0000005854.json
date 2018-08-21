@@ -1,22 +1,30 @@
 {
-	"clbid": 5854,
+	"clbid": "0000005854",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 22,
+	"crsid": "0000000392",
+	"department": "ENGL",
+	"enrolled": 22,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 100,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 22,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 525",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

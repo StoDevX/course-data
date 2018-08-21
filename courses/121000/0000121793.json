@@ -1,14 +1,12 @@
 {
-	"clbid": 121793,
+	"clbid": "0000121793",
 	"credits": 1.0,
-	"crsid": 26896,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000026896",
+	"department": "ECON",
 	"description": [
 		"Classic economics assumes that people make decisions rationally. Behaviorial economics weakens that assumption, incorporating the findings of psychology into economic models. Students learn to apply behaviorial economics theories to improve their understanding of business, marketing, public policy, and other domains of economics. Students utilize skills they have learned from microeconomic theory and statistics orally and in writing. Offered annually. Prerequisites: ECON 262 and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,10 +14,6 @@
 		"Ashley Hodgson"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 15,
 	"name": "Behavioral Economics",
 	"notes": [
@@ -28,6 +22,20 @@
 		"the instructor."
 	],
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 262 and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -44,16 +52,32 @@
 			"_updated": "2018-08-07T14:48:49.805559+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.919737+00:00",
+			"clbid": 121793,
+			"crsid": 26896,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

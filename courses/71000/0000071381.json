@@ -1,23 +1,26 @@
 {
-	"clbid": 71381,
+	"clbid": "0000071381",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 22,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 22,
+	"groupid": "0000000194",
 	"grouptype": "2",
 	"instructors": [
 		"Peter J. Gittins"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 26,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "18:00",
+			"location": "RNS 355",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 0300-0600PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

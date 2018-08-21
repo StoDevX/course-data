@@ -1,27 +1,36 @@
 {
-	"clbid": 121311,
+	"clbid": "0000121311",
 	"credits": 0.25,
-	"crsid": 837,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000837",
+	"department": "MUSIC",
 	"description": [
 		"Students study and practice principles for singing in English and Italian with good pronunciation, enunciation, and expression. Course content includes phonetic analysis using the International Phonetic Alphabet and identifying and exercising the phonemic features of English and Italian through class performances and listening assignments. Offered fall semester 2016-2017 and alternate years. Prerequisite: two semesters of voice lessons."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Anna Mooy"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 24,
 	"name": "Lyric Diction I",
 	"notes": [
 		"Open only to junior and senior Vocal Performance and Church Music majors."
 	],
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 233",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 233",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "two semesters of voice lessons.",
 	"revisions": [
@@ -45,14 +54,29 @@
 			"_updated": "2018-08-07T14:48:45.385221+00:00",
 			"enroll": "23",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.250728+00:00",
+			"clbid": 121311,
+			"crsid": 837,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 23,
+			"enrolled": null,
+			"locations": [
+				"CHM 233"
+			],
+			"offerings": null,
+			"times": [
+				"MW 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

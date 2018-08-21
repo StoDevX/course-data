@@ -1,14 +1,12 @@
 {
-	"clbid": 69911,
+	"clbid": "0000069911",
 	"credits": 1.0,
-	"crsid": 1337,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001337",
+	"department": "SPAN",
 	"description": [
 		"Students examine the diverse elements that have shaped the cultures of U.S. Hispanics through an exploration of political, social, economic, religious, and artistic topics. They develop skills in critical analysis through reading, discussion, and written and/or oral projects. The course features the study of selected literary and non-literary texts, including at least one substantive literary work. Taught in Spanish. Prerequisite: Spanish 250."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"MCD"
 	],
@@ -16,12 +14,29 @@
 		"Ariel Strichartz"
 	],
 	"level": 200,
-	"locations": [
-		"OM 021"
-	],
 	"max": 25,
 	"name": "Heritage/Hispanic US",
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 021",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 021",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 021",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Spanish 250.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Cultural Heritage of the Hispanic U.S.",
 	"type": "Research",
 	"year": 2009

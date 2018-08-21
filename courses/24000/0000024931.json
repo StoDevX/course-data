@@ -1,21 +1,36 @@
 {
-	"clbid": 24931,
+	"clbid": "0000024931",
 	"credits": 1.0,
-	"crsid": 1266,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 9,
+	"crsid": "0000001266",
+	"department": "RUSSN",
+	"enrolled": 9,
 	"instructors": [
 		"Irina Walter"
 	],
 	"level": 200,
-	"locations": [
-		"M 4"
-	],
 	"max": 999,
 	"name": "Intermed Russian II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

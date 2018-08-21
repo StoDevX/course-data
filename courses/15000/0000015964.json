@@ -1,21 +1,30 @@
 {
-	"clbid": 15964,
+	"clbid": "0000015964",
 	"credits": 1.0,
-	"crsid": 1692,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 25,
+	"crsid": "0000001692",
+	"department": "ENGL",
+	"enrolled": 25,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 33,
 	"name": "The Victorian Era",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 525",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 525",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

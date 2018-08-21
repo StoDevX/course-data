@@ -1,22 +1,25 @@
 {
-	"clbid": 85036,
+	"clbid": "0000085036",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 27,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 27,
+	"groupid": "0000001402",
 	"instructors": [
 		"Sharon Lane-Getaz"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 27,
 	"name": "Prin of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"F 0905-1000"
-	],
 	"type": "Lab",
 	"year": 2012
 }

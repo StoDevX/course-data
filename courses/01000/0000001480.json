@@ -1,21 +1,36 @@
 {
-	"clbid": 1480,
+	"clbid": "0000001480",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 25,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 25,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 22,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

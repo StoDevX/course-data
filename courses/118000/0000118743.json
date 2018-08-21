@@ -1,22 +1,17 @@
 {
-	"clbid": 118743,
+	"clbid": "0000118743",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000122",
+	"department": "BIO",
 	"description": [
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures in this core course cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week. Offered each semester. Counts as \"genetics\" core category. Counts toward mathematical biology, neuroscience, and biomolecular studies concentrations. Prerequisites: BIO 150 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125."
 	],
-	"enroll": 65,
-	"groupid": 122,
+	"enrolled": 65,
+	"groupid": "0000000122",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 66,
 	"name": "Intermediate Genetics",
 	"notes": [
@@ -24,6 +19,26 @@
 		"Not open to first-year students."
 	],
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 410",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 410",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 410",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: BIO 150 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125.",
 	"revisions": [
@@ -67,14 +82,30 @@
 			"_updated": "2018-08-07T14:48:45.043306+00:00",
 			"enroll": "65",
 			"max": "66"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.406612+00:00",
+			"clbid": 118743,
+			"crsid": 122,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 65,
+			"enrolled": null,
+			"groupid": 122,
+			"locations": [
+				"RNS 410"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

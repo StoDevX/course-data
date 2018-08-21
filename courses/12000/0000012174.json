@@ -1,22 +1,48 @@
 {
-	"clbid": 12174,
+	"clbid": "0000012174",
 	"credits": 1.0,
-	"crsid": 952,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 24,
+	"crsid": "0000000952",
+	"department": "NURS",
+	"enrolled": 24,
 	"instructors": [
 		"Carol H. Austin"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215",
-		"HH 215"
-	],
 	"max": 24,
 	"name": "Child Health",
 	"number": 338,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 215",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 215",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 215",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "HH 215",
+			"start": "07:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "HH 215",
+			"start": "07:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 1150-1245PM",
-		"TTh 0700-0330PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 97369,
+	"clbid": "0000097369",
 	"credits": 0.0,
-	"crsid": 135,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 16,
-	"groupid": 134,
+	"crsid": "0000000135",
+	"department": "BIO",
+	"enrolled": 16,
+	"groupid": "0000000134",
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 455"
-	],
 	"max": 16,
 	"name": "Plant Physiology Lab",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 455",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

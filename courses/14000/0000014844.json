@@ -1,21 +1,30 @@
 {
-	"clbid": 14844,
+	"clbid": "0000014844",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 17,
+	"crsid": "0000000353",
+	"department": "DNCTE",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CTR STUDIO"
-	],
 	"max": 15,
 	"name": "Ballet I",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CTR STUDIO",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CTR STUDIO",
+			"start": "10:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

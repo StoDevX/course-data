@@ -1,21 +1,30 @@
 {
-	"clbid": 1561,
+	"clbid": "0000001561",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 37,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 37,
 	"instructors": [
 		"Susan Bloom"
 	],
 	"level": 100,
-	"locations": [
-		"M 35"
-	],
 	"max": 30,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

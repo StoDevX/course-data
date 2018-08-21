@@ -1,22 +1,31 @@
 {
-	"clbid": 19107,
+	"clbid": "0000019107",
 	"credits": 0.5,
-	"crsid": 1630,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 3,
+	"crsid": "0000001630",
+	"department": "EDUC",
+	"enrolled": 3,
 	"halfcredit": "2",
 	"instructors": [
 		"Gloria J. Kiester"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Special ISSus Music E",
 	"number": 357,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

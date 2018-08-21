@@ -1,21 +1,30 @@
 {
-	"clbid": 26559,
+	"clbid": "0000026559",
 	"credits": 1.0,
-	"crsid": 780,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 17,
+	"crsid": "0000000780",
+	"department": "MGMT",
+	"enrolled": 17,
 	"instructors": [
 		"John O. Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 25,
 	"name": "Entrepreneurship",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

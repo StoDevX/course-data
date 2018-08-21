@@ -1,14 +1,12 @@
 {
-	"clbid": 73089,
+	"clbid": "0000073089",
 	"credits": 0.25,
-	"crsid": 998,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000998",
+	"department": "ESAC",
 	"description": [
 		"Students learn basic rock climbing skills, techniques, and safety procedures."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 12,
 	"name": "Rock Climbing",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TC",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TC",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 2010
 }

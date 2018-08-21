@@ -1,21 +1,36 @@
 {
-	"clbid": 25012,
+	"clbid": "0000025012",
 	"credits": 0.25,
-	"crsid": 1390,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 9,
+	"crsid": "0000001390",
+	"department": "THEAT",
+	"enrolled": 9,
 	"instructors": [
 		"Brian Bjorklund"
 	],
 	"level": 200,
-	"locations": [
-		"L 250"
-	],
 	"max": 10,
 	"name": "Th Prac: Lighting/Snd",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "L 250",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "L 250",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "L 250",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

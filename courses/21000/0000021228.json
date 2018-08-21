@@ -1,21 +1,36 @@
 {
-	"clbid": 21228,
+	"clbid": "0000021228",
 	"credits": 1.0,
-	"crsid": 1592,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 16,
+	"crsid": "0000001592",
+	"department": "ECON",
+	"enrolled": 16,
 	"instructors": [
 		"Kathy C. Thomforde"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 25,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 413",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 413",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 413",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

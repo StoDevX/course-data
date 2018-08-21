@@ -1,21 +1,36 @@
 {
-	"clbid": 16158,
+	"clbid": "0000016158",
 	"credits": 0.75,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 24,
+	"crsid": "0000000802",
+	"department": "MUSIC",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 25,
 	"name": "Theory II",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 239",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

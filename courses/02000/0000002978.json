@@ -1,21 +1,30 @@
 {
-	"clbid": 2978,
+	"clbid": "0000002978",
 	"credits": 1.0,
-	"crsid": 281,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 19,
+	"crsid": "0000000281",
+	"department": "ECON",
+	"enrolled": 19,
 	"instructors": [
 		"Xun Pomponio"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "International Econ",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

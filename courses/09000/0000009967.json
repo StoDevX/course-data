@@ -1,22 +1,30 @@
 {
-	"clbid": 9967,
+	"clbid": "0000009967",
 	"credits": 1.0,
-	"crsid": 1364,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 7,
+	"crsid": "0000001364",
+	"department": "SWRK",
+	"enrolled": 7,
 	"instructors": [
 		"Naurine Lennox"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 20,
 	"name": "Social Work Methds II",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 516",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 516",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

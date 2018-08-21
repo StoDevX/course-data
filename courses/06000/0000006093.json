@@ -1,21 +1,36 @@
 {
-	"clbid": 6093,
+	"clbid": "0000006093",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 23,
+	"crsid": "0000000921",
+	"department": "NORW",
+	"enrolled": 23,
 	"instructors": [
 		"Margaret H. O'Leary"
 	],
 	"level": 100,
-	"locations": [
-		"OM 015"
-	],
 	"max": 25,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 015",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 015",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 015",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

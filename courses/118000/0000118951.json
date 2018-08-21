@@ -1,14 +1,12 @@
 {
-	"clbid": 118951,
+	"clbid": "0000118951",
 	"credits": 1.0,
-	"crsid": 1388,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001388",
+	"department": "THEAT",
 	"description": [
 		"The design and production of lighting and sound in theater, dance, music, and general presentation work plays a significant role in the experience of these events. This course introduces the production problems of lighting and sound and includes design projects in both lighting and sound. Open to all majors and non-majors. Offered annually in the fall semester. Prerequisite: THEAT 140 is recommended."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,12 +14,29 @@
 		"Brian Bjorklund"
 	],
 	"level": 200,
-	"locations": [
-		"TB Green Rm"
-	],
 	"max": 16,
 	"name": "Lighting & Sound",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "THEAT 140 is recommended.",
 	"revisions": [
@@ -42,14 +57,29 @@
 			"_updated": "2018-08-07T14:48:45.168712+00:00",
 			"enroll": "11",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.738814+00:00",
+			"clbid": 118951,
+			"crsid": 1388,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"TB Green Rm"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Lighting and Sound-Design and Production",
 	"type": "Research",
 	"year": 2018

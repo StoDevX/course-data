@@ -1,22 +1,25 @@
 {
-	"clbid": 61508,
+	"clbid": "0000061508",
 	"credits": 0.0,
-	"crsid": 127,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
-	"groupid": 126,
+	"crsid": "0000000127",
+	"department": "BIO",
+	"enrolled": 23,
+	"groupid": "0000000126",
 	"instructors": [
 		"Louis Henry Kermott"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 254",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

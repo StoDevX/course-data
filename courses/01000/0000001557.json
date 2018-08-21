@@ -1,21 +1,36 @@
 {
-	"clbid": 1557,
+	"clbid": "0000001557",
 	"credits": 1.0,
-	"crsid": 1104,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 31,
+	"crsid": "0000001104",
+	"department": "PSCI",
+	"enrolled": 31,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 30,
 	"name": "Comparative Politics",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 31",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 26700,
+	"clbid": "0000026700",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 159"
-	],
 	"max": 18,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:30",
+			"location": "SC 159",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"Th 0300-0530PM"
-	],
 	"type": "Lab",
 	"year": 1999
 }

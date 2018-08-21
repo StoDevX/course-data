@@ -1,23 +1,26 @@
 {
-	"clbid": 119989,
+	"clbid": "0000119989",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000026649",
 	"grouptype": "1",
 	"instructors": [
 		"Beth Pettitt"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 18,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 255",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -30,15 +33,31 @@
 			"_updated": "2018-08-07T14:48:48.644607+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.251243+00:00",
+			"clbid": 119989,
+			"crsid": 26650,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 26649,
+			"locations": [
+				"RNS 255"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

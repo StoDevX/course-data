@@ -1,21 +1,36 @@
 {
-	"clbid": 17072,
+	"clbid": "0000017072",
 	"credits": 1.0,
-	"crsid": 531,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 22,
+	"crsid": "0000000531",
+	"department": "GCON",
+	"enrolled": 22,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 100,
-	"locations": [
-		"H 514"
-	],
 	"max": 22,
 	"name": "Greeks and Hebrews",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 514",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19951,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

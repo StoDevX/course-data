@@ -1,22 +1,25 @@
 {
-	"clbid": 50397,
+	"clbid": "0000050397",
 	"credits": 0.0,
-	"crsid": 1265,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 12,
-	"groupid": 1264,
+	"crsid": "0000001265",
+	"department": "RUSSN",
+	"enrolled": 12,
+	"groupid": "0000001264",
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 004"
-	],
 	"max": 20,
 	"name": "Intermed Russian I Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "OM 004",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"T 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

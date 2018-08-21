@@ -1,21 +1,30 @@
 {
-	"clbid": 15863,
+	"clbid": "0000015863",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 16,
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 16,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 20,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 307",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

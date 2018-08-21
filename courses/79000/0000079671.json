@@ -1,14 +1,12 @@
 {
-	"clbid": 79671,
+	"clbid": "0000079671",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000259",
+	"department": "ECON",
 	"description": [
 		"This course takes an analytical approach to economic reasoning and contemporary issues. The course introduces microeconomic and macroeconomic theories with applications to relevant topics, such as employment, growth, environmental protection, affirmative action, exchange rate fluctuations, taxes, and welfare reform. Students explore economics as an intelligent approach to understanding our daily lives as citizens, workers, managers and consumers. Offered each semester. Counts toward environmental studies major (social science track)."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Bruce Dalgaard"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 108",
-		"TOH 108"
-	],
 	"max": 30,
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 108",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 108",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Principles of Economics",
 	"type": "Research",
 	"year": 2011

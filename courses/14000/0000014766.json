@@ -1,22 +1,30 @@
 {
-	"clbid": 14766,
+	"clbid": "0000014766",
 	"credits": 0.25,
-	"crsid": 1554,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 13,
+	"crsid": "0000001554",
+	"department": "CHEM",
+	"enrolled": 13,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 329",
-		"SC 329"
-	],
 	"max": 16,
 	"name": "Physical Lab",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 329",
+			"start": "13:20"
+		},
+		{
+			"day": "Tu",
+			"end": "17:30",
+			"location": "SC 329",
+			"start": "15:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"T 0120-0245PM",
-		"T 0300-0530PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

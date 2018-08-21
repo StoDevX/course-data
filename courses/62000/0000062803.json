@@ -1,14 +1,12 @@
 {
-	"clbid": 62803,
+	"clbid": "0000062803",
 	"credits": 1.0,
-	"crsid": 268,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000268",
+	"department": "ECON",
 	"description": [
 		"Students in this course learn and apply economic analysis, tempered by an appreciation for the political and institutional contexts of the less developed countries, to gain an understanding of these countries' economies. Using cases involving both written and oral analysis, students explore topics such as economic growth in Brazil, trade strategies in Singapore, poverty and income distribution in Taiwan, or macroeconomic performance in Mexico. Prerequisite: one of Economics 110-121 or permission of instructor. Offered annually."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"MCG",
 		"WRI"
@@ -17,13 +15,23 @@
 		"David Schodt"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 25,
 	"name": "Economic Development",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 390",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 390",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-121 or permission of instructor. Offered annually.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

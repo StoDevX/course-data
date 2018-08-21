@@ -1,25 +1,33 @@
 {
-	"clbid": 12352,
+	"clbid": "0000012352",
 	"credits": 1.0,
-	"crsid": 1206,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001206",
+	"department": "REL",
 	"description": [
 		"Students examine key texts in the Old and New Testaments with the aim of exploring the issues such writings pose for Christian theological reflection. In addition, they explore selected readings on the doctrine of scripture and language about God."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Margaret Odell"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "The Biblical God",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "BMC 111",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "BMC 111",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,24 +1,33 @@
 {
-	"clbid": 10852,
+	"clbid": "0000010852",
 	"credits": 0.25,
-	"crsid": 1005,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001005",
+	"department": "PEAC",
 	"description": [
 		"Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"William Thornton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 11,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:20",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SAC_POOL",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"TTh 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

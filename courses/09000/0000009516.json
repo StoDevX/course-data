@@ -1,22 +1,30 @@
 {
-	"clbid": 9516,
+	"clbid": "0000009516",
 	"credits": 1.0,
-	"crsid": 605,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 31,
+	"crsid": "0000000605",
+	"department": "HIST",
+	"enrolled": 31,
 	"instructors": [
 		"Dennis R. Hidalgo"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301",
-		"HH 301"
-	],
 	"max": 35,
 	"name": "Modern Latin America",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 301",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 301",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

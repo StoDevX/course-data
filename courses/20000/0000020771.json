@@ -1,21 +1,36 @@
 {
-	"clbid": 20771,
+	"clbid": "0000020771",
 	"credits": 1.0,
-	"crsid": 1277,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 15,
+	"crsid": "0000001277",
+	"department": "RUSSN",
+	"enrolled": 15,
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 300,
-	"locations": [
-		"M 2"
-	],
 	"max": 999,
 	"name": "Dostoevsky-Tr",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

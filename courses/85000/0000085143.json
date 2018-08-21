@@ -1,14 +1,12 @@
 {
-	"clbid": 85143,
+	"clbid": "0000085143",
 	"credits": 1.0,
-	"crsid": 1403,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001403",
+	"department": "STAT",
 	"description": [
 		"A first course in statistical methods for scientists, this course addresses issues for proposing/designing an experiment, as well as exploratory and inferential techniques for analyzing and modeling scientific data. Topics include probability models, exploratory graphics, descriptive techniques, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Prerequisite: Mathematics 120, 121, or equivalent, and an introductory science course. Offered each semester. Credit will not be given for more than one of Statistics 110, Statistics 212, or Statistics 263; credit will not be given for Statistics 110, Statistics 212, or Statistics 263 following completion of Statistics 272."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 354"
-	],
 	"max": 24,
 	"name": "Statistics for Science",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 354",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 354",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 354",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120, 121, or equivalent, and an introductory science course. Offered each semester. Credit will not be given for more than one of Statistics 110, Statistics 212, or Statistics 263; credit will not be given for Statistics 110, Statistics 212, or Statistics 263 following completion of Statistics 272.",
 	"revisions": [
@@ -47,9 +62,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Statistics for the Sciences",
 	"type": "Research",
 	"year": 2012

@@ -1,21 +1,36 @@
 {
-	"clbid": 5044,
+	"clbid": "0000005044",
 	"credits": 1.0,
-	"crsid": 574,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 31,
+	"crsid": "0000000574",
+	"department": "HIST",
+	"enrolled": 31,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 100,
-	"locations": [
-		"OM 035"
-	],
 	"max": 35,
 	"name": "Europe,1500-Present",
 	"number": 191,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 035",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2002
 }

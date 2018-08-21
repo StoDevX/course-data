@@ -1,21 +1,30 @@
 {
-	"clbid": 20224,
+	"clbid": "0000020224",
 	"credits": 1.0,
-	"crsid": 329,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 17,
+	"crsid": "0000000329",
+	"department": "EDUC",
+	"enrolled": 17,
 	"instructors": [
 		"Gloria J. Kiester"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Tchg Music-Elem Schls",
 	"number": 355,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

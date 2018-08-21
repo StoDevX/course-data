@@ -1,22 +1,25 @@
 {
-	"clbid": 108722,
+	"clbid": "0000108722",
 	"credits": 0.0,
-	"crsid": 1065,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 18,
-	"groupid": 1064,
+	"crsid": "0000001065",
+	"department": "ESTH",
+	"enrolled": 18,
+	"groupid": "0000001064",
 	"instructors": [
 		"Jennifer M. Holbein"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 12,
 	"name": "Physiology/Exercise Lab",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SAC 103",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

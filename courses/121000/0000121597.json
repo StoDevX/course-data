@@ -1,14 +1,12 @@
 {
-	"clbid": 121597,
+	"clbid": "0000121597",
 	"credits": 1.0,
-	"crsid": 30315,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000030315",
+	"department": "PSCI",
 	"description": [
 		"The political science research practicum provides a new opportunity to realize the college and department's commitment to undergraduate research. Students put research skills into practice by gathering and analyzing empirical evidence, and producing a substantive research project. With research topics varying from term to term, students develop methodological expertise surrounding a current problem in political science, and collect and analyze data to address the problem. Offered alternate years."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Christopher B. Chapp"
 	],
 	"level": 200,
-	"locations": [
-		"HH 429"
-	],
 	"max": 15,
 	"name": "Research Practicum",
 	"number": 296,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 429",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 429",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 429",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,14 +55,29 @@
 			"_updated": "2018-08-07T14:48:45.471540+00:00",
 			"enroll": "10",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.492888+00:00",
+			"clbid": 121597,
+			"crsid": 30315,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"locations": [
+				"HH 429"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Political Science Research Practicum",
 	"type": "Research",
 	"year": 2018

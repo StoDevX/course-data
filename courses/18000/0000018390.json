@@ -1,21 +1,30 @@
 {
-	"clbid": 18390,
+	"clbid": "0000018390",
 	"credits": 0.25,
-	"crsid": 2182,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 7,
+	"crsid": "0000002182",
+	"department": "PEAC",
+	"enrolled": 7,
 	"instructors": [
 		"Lori Cooling"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 999,
 	"name": "Softball",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 1995
 }

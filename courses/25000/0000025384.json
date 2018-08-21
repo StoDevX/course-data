@@ -1,21 +1,30 @@
 {
-	"clbid": 25384,
+	"clbid": "0000025384",
 	"credits": 0.5,
-	"crsid": 357,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 2,
+	"crsid": "0000000357",
+	"department": "DNCTE",
+	"enrolled": 2,
 	"instructors": [
 		"Anthony Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"CT RHT"
-	],
 	"max": 4,
 	"name": "Modern Dance II",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CT RHT",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CT RHT",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 6999,
+	"clbid": "0000006999",
 	"credits": 1.0,
-	"crsid": 1787,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 12,
+	"crsid": "0000001787",
+	"department": "HIST",
+	"enrolled": 12,
 	"instructors": [
 		"Helena Pohlandt-McCormick"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515"
-	],
 	"max": 19,
 	"name": "Life Hist/African Wmn",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 56071,
+	"clbid": "0000056071",
 	"credits": 0.0,
-	"crsid": 1260,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 16,
-	"groupid": 1259,
+	"crsid": "0000001260",
+	"department": "RUSSN",
+	"enrolled": 16,
+	"groupid": "0000001259",
 	"instructors": [
 		"Irina Walter"
 	],
 	"level": 100,
-	"locations": [
-		"OM 003"
-	],
 	"max": 19,
 	"name": "Beginning Russian I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "OM 003",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20071,
-	"times": [
-		"T 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

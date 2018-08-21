@@ -1,25 +1,33 @@
 {
-	"clbid": 58384,
+	"clbid": "0000058384",
 	"credits": 1.0,
-	"crsid": 763,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000763",
+	"department": "MATH",
 	"description": [
 		"Students work intensively in a special topic of an applied character. Topics vary from year to year. May be repeated if topics are different. Offered in 2007-08 and alternate years."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"Bruce Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 186",
-		"SC 186"
-	],
 	"max": 18,
 	"name": "Topics in Math: Applied",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 186",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 186",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Applied Mathematics",
 	"type": "Seminar",
 	"year": 2007

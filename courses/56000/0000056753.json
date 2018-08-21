@@ -1,26 +1,39 @@
 {
-	"clbid": 56753,
+	"clbid": "0000056753",
 	"credits": 1.0,
-	"crsid": 945,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000945",
+	"department": "NURS",
 	"description": [
 		"This course explores the foundational and philosophical concepts of the discipline of nursing. Topics include the history and image of nursing, scope of practice and professional roles, research, and lifelong learning. Students develop the ability to assess an individual's state of health from a holistic perspective, using Neuman's Systems Model as a theoretical framework. Emphasis is on the use of critical thinking and evidence-based practice. Taken concurrently with Nursing 302, 306, 308."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215",
-		"HH 215",
-		"HH 215"
-	],
 	"max": 24,
 	"name": "Nursing Concepts",
 	"number": 304,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 215",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 215",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,11 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"W 0800-0855",
-		"W 0905-1000",
-		"W 1045-1140"
-	],
 	"type": "Research",
 	"year": 2007
 }

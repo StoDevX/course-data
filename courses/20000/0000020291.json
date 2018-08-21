@@ -1,21 +1,30 @@
 {
-	"clbid": 20291,
+	"clbid": "0000020291",
 	"credits": 1.0,
-	"crsid": 1698,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 33,
+	"crsid": "0000001698",
+	"department": "ENGL",
+	"enrolled": 33,
 	"instructors": [
 		"Abby Werlock"
 	],
 	"level": 200,
-	"locations": [
-		"L 515"
-	],
 	"max": 35,
 	"name": "Amer Lit Since 1945",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 515",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

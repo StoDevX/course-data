@@ -1,25 +1,33 @@
 {
-	"clbid": 11880,
+	"clbid": "0000011880",
 	"credits": 0.25,
-	"crsid": 353,
-	"departments": [
-		"DNCTE"
-	],
+	"crsid": "0000000353",
+	"department": "DNCTE",
 	"description": [
 		"Ballet classes are taught from a modern dance perspective. This course provides students with an introduction to ballet vocabulary, technique and body awareness. Offered both semesters. Can be repeated with instructor's permission."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"instructors": [
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_2",
-		"CAD _STUDIO_2"
-	],
 	"max": 20,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD _STUDIO_2",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD _STUDIO_2",
+			"start": "09:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2005
 }

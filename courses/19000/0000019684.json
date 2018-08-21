@@ -1,21 +1,30 @@
 {
-	"clbid": 19684,
+	"clbid": "0000019684",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 17,
 	"instructors": [
 		"Thomas Waldemer"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "M 31",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "M 31",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

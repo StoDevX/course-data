@@ -1,24 +1,39 @@
 {
-	"clbid": 50031,
+	"clbid": "0000050031",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000476",
+	"department": "FREN",
 	"description": [
 		"Students begin to learn French through listening, speaking, reading and writing about topics familiar to them. They study social and cultural notions inherent in the daily life of peoples in diverse Francophone communities and learn to think critically and make interdisciplinary connections and informed cross-cultural comparisons. Open to students with prior background in French or placement into French 111."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Scott Homler"
 	],
 	"level": 100,
-	"locations": [
-		"OM 026"
-	],
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

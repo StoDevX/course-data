@@ -1,14 +1,12 @@
 {
-	"clbid": 64143,
+	"clbid": "0000064143",
 	"credits": 1.0,
-	"crsid": 634,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000634",
+	"department": "HIST",
 	"description": [
 		"This seminar covers varying topics in East Asian history. Recent topics have included \"World War II in East Asia and the Pacific\" and \"Nationalism and Communism in Southeast Asia.\" Offered periodically. May be repeated if topics are different."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Robert Entenmann"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 15,
 	"name": "Sem: East Asia",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 302",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 302",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "East Asian Seminar",
 	"type": "Seminar",
 	"year": 2008

@@ -1,21 +1,30 @@
 {
-	"clbid": 25021,
+	"clbid": "0000025021",
 	"credits": 1.0,
-	"crsid": 1398,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 12,
+	"crsid": "0000001398",
+	"department": "THEAT",
+	"enrolled": 12,
 	"instructors": [
 		"Brian Bjorklund"
 	],
 	"level": 300,
-	"locations": [
-		"SPT GREEN RM"
-	],
 	"max": 20,
 	"name": "Topics Interp & Thtr",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SPT GREEN RM",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SPT GREEN RM",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 1998
 }

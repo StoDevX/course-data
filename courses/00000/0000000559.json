@@ -1,21 +1,30 @@
 {
-	"clbid": 559,
+	"clbid": "0000000559",
 	"credits": 1.0,
-	"crsid": 1169,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 17,
+	"crsid": "0000001169",
+	"department": "PSYCH",
+	"enrolled": 17,
 	"instructors": [
 		"Deborah Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 35,
 	"name": "Psychology of Women",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 302",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 302",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

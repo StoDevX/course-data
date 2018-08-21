@@ -1,14 +1,12 @@
 {
-	"clbid": 72946,
+	"clbid": "0000072946",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000351",
+	"department": "DANCE",
 	"description": [
 		"This course introduces modern dance as a style of dance and a dance aesthetic. It explores at a beginning level a range of movement vocabulary, body awareness, and creative process. Teaching faculty bring their individual movement backgrounds to the class content. Offered each semester. May be repeated several times with instructor's permission."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 19,
 	"name": "Modern Dance I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

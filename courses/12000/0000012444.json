@@ -1,21 +1,36 @@
 {
-	"clbid": 12444,
+	"clbid": "0000012444",
 	"credits": 1.0,
-	"crsid": 1406,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 12,
+	"crsid": "0000001406",
+	"department": "STAT",
+	"enrolled": 12,
 	"instructors": [
 		"Paul J. Roback"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 25,
 	"name": "Design of Experiments",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

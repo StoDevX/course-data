@@ -1,27 +1,42 @@
 {
-	"clbid": 119962,
+	"clbid": "0000119962",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001325",
+	"department": "SPAN",
 	"description": [
 		"Students expand their skills by continuing to listen, speak, read, and write on such topics as the concept of time, leisure activities, and culinary traditions in North American and Hispanic cultures. Additional work is completed in the World Languages Center. Offered each semester. Prerequisite: SPAN 111 or placement."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 10,
 	"name": "Intro Spanish Language/World II",
 	"notes": [
 		"Prerequisite: completion of Spanish placement test or preceding course."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 114",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 114",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 114",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 111 or placement.",
 	"revisions": [
@@ -49,15 +64,30 @@
 			"_updated": "2018-08-11T03:33:43.471049+00:00",
 			"name": "Beginning Spanish II",
 			"title": null
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.182032+00:00",
+			"clbid": 119962,
+			"crsid": 1325,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 114"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Beginning Spanish II",
 	"type": "Research",
 	"year": 2018

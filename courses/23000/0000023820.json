@@ -1,21 +1,24 @@
 {
-	"clbid": 23820,
+	"clbid": "0000023820",
 	"credits": 0.25,
-	"crsid": 1199,
-	"departments": [
-		"REL"
-	],
-	"enroll": 6,
+	"crsid": "0000001199",
+	"department": "REL",
+	"enrolled": 6,
 	"instructors": [
 		"Eric Lund"
 	],
 	"level": 200,
-	"locations": [
-		"CH 109"
-	],
 	"max": 25,
 	"name": "FLC-German",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "09:00",
+			"location": "CH 109",
+			"start": "08:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"Th 0800-0900"
-	],
 	"type": "Research",
 	"year": 1998
 }

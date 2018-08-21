@@ -1,21 +1,36 @@
 {
-	"clbid": 4988,
+	"clbid": "0000004988",
 	"credits": 1.0,
-	"crsid": 463,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 33,
+	"crsid": "0000000463",
+	"department": "ENVST",
+	"enrolled": 33,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 30,
 	"name": "Nature & Am Landscape",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "BMC 101",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

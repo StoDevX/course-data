@@ -1,21 +1,36 @@
 {
-	"clbid": 21480,
+	"clbid": "0000021480",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 14,
+	"crsid": "0000000748",
+	"department": "MATH",
+	"enrolled": 14,
 	"instructors": [
 		"Theodore Vessey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 20,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

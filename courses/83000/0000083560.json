@@ -1,14 +1,12 @@
 {
-	"clbid": 83560,
+	"clbid": "0000083560",
 	"credits": 0.25,
-	"crsid": 1024,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001024",
+	"department": "ESAC",
 	"description": [
 		"Students learn a variety of practical measures to repel a physical attack, basic throws, kicks, falls, submission holds, and choke releases."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,17 @@
 		"Maya Hamilton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Wr Rm"
-	],
 	"max": 18,
 	"name": "Self-Defense",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "SAC Wr Rm",
+			"start": "12:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"F 1200-0200PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

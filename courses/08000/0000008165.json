@@ -1,22 +1,37 @@
 {
-	"clbid": 8165,
+	"clbid": "0000008165",
 	"credits": 0.25,
-	"crsid": 819,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 12,
+	"crsid": "0000000819",
+	"department": "MUSIC",
+	"enrolled": 12,
 	"halfcredit": "1",
 	"instructors": [
 		"Justin W. Merritt"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 15,
 	"name": "Instrumentation",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

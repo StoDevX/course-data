@@ -1,23 +1,31 @@
 {
-	"clbid": 5818,
+	"clbid": "0000005818",
 	"credits": 0.5,
-	"crsid": 336,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 23,
+	"crsid": "0000000336",
+	"department": "EDUC",
+	"enrolled": 23,
 	"halfcredit": "1",
 	"instructors": [
 		"Ann A. Leming"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10"
-	],
 	"max": 30,
 	"name": "The Exceptional Child",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 10",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "FH 10",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +44,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

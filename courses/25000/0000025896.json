@@ -1,21 +1,30 @@
 {
-	"clbid": 25896,
+	"clbid": "0000025896",
 	"credits": 1.0,
-	"crsid": 1398,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 7,
+	"crsid": "0000001398",
+	"department": "THEAT",
+	"enrolled": 7,
 	"instructors": [
 		"Gary C. Gisselman"
 	],
 	"level": 300,
-	"locations": [
-		"CT 227"
-	],
 	"max": 15,
 	"name": "Towards An Artistic P",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CT 227",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CT 227",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 1999
 }

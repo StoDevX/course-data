@@ -1,22 +1,42 @@
 {
-	"clbid": 5964,
+	"clbid": "0000005964",
 	"credits": 1.0,
-	"crsid": 658,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 6,
+	"crsid": "0000000658",
+	"department": "JAPAN",
+	"enrolled": 6,
 	"instructors": [
 		"Rika Ito"
 	],
 	"level": 100,
-	"locations": [
-		"OM 002",
-		"OM 002"
-	],
 	"max": 20,
 	"name": "Beginning Japanese I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 002",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 002",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 002",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "OM 002",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"MWF 1045-1140",
-		"T 0305-0400PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

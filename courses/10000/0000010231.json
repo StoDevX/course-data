@@ -1,25 +1,33 @@
 {
-	"clbid": 10231,
+	"clbid": "0000010231",
 	"credits": 0.5,
-	"crsid": 23,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000023",
+	"department": "ART",
 	"description": [
 		"This course introduces students to black and white photography and to fundamental elements in visual art, as well as to the aesthetics and history of photography and the role of photography in modern culture. Students learn camera operation, black and white film processing, printing and print presentation. Students must provide their own 35 mm camera. With the exception of art majors, credit not allowed also for Physics 120. Lab fee."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Margaret Ojala"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 102",
-		"CAD 102"
-	],
 	"max": 20,
 	"name": "Found Photography",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD 102",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD 102",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Foundation Photography",
 	"type": "Research",
 	"year": 2005

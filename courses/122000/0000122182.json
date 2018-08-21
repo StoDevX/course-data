@@ -1,14 +1,12 @@
 {
-	"clbid": 122182,
+	"clbid": "0000122182",
 	"credits": 1.0,
-	"crsid": 939,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000939",
+	"department": "NURS",
 	"description": [
 		"This course explores the sources, chemical composition, and metabolic behavior of nutrients. Nutritional requirements for a balanced diet are examined as well as the consequences of excesses and deficiencies. Students use nutrition tools and guidelines to make sound food choices, learn how to read food labels, and consider factors affecting food consumption. Class activities increase students' awareness of a healthy diet, help students evaluate nutrition behaviors, and facilitate a nutritionally sound lifestyle. Offered annually. This is an elective course."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST"
 	],
@@ -16,13 +14,23 @@
 		"Diana Neal"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 30,
 	"name": "Nutrition and Wellness",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,15 +48,31 @@
 			"_updated": "2018-08-07T14:48:49.842663+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.011851+00:00",
+			"clbid": 122182,
+			"crsid": 939,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

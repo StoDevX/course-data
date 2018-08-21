@@ -1,31 +1,46 @@
 {
-	"clbid": 103340,
+	"clbid": "0000103340",
 	"credits": 1.0,
-	"crsid": 29357,
-	"departments": [
-		"ID"
-	],
+	"crsid": "0000029357",
+	"department": "ID",
 	"description": [
 		"Computer science (CS) students team with students in non-CS fields in order to create custom web-based software that serves the research needs of particular professors in those non-CS fields of application. Students in a field of application provide disciplinary content, context, and feedback throughout project development, while pursuing relevant independent work. CS students develop software collaboratively and rapidly using the HiPerCiC (High-Performance Computing in Context) framework, while learning current web programming principles and technologies. Counts toward computer science major. Prerequisite: CSCI 251 oer permission of instructor."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
-	"groupid": 29357,
+	"groupid": "0000029357",
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 18,
 	"name": "HiPerCiC Collaborative Web Apps",
 	"notes": [
 		"Students in CSCI 259 must also register for CSCI 259 AL or BL."
 	],
 	"number": 259,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 202",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CSCI 251 oer permission of instructor.",
 	"revisions": [
@@ -66,9 +81,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "HiPerCiC: Collaborative Web Applications",
 	"type": "Research",
 	"year": 2015

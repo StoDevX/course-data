@@ -1,23 +1,17 @@
 {
-	"clbid": 59429,
+	"clbid": "0000059429",
 	"credits": 1.0,
-	"crsid": 19072,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000019072",
+	"department": "MATH",
 	"description": [
 		"Similar to Mathematics 120, but includes a 1-hour weekly laboratory session."
 	],
-	"enroll": 50,
-	"groupid": 19072,
+	"enrolled": 50,
+	"groupid": "0000019072",
 	"instructors": [
 		"Kristina Garrett"
 	],
 	"level": 100,
-	"locations": [
-		"SC 282",
-		"SC 282"
-	],
 	"max": 60,
 	"name": "Calculus I with Lab",
 	"notes": [
@@ -25,6 +19,20 @@
 		"Also register for 121AL or 121BL or 121CL."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 282",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 282",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Calculus I with Laboratory",
 	"type": "Research",
 	"year": 2007

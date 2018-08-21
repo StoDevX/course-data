@@ -1,21 +1,36 @@
 {
-	"clbid": 5320,
+	"clbid": "0000005320",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 27,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 27,
 	"instructors": [
 		"Kurt Burch"
 	],
 	"level": 100,
-	"locations": [
-		"RML 577"
-	],
 	"max": 30,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RML 577",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RML 577",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RML 577",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

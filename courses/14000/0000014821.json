@@ -1,21 +1,30 @@
 {
-	"clbid": 14821,
+	"clbid": "0000014821",
 	"credits": 1.0,
-	"crsid": 1618,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 10,
+	"crsid": "0000001618",
+	"department": "CSCI",
+	"enrolled": 10,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 184"
-	],
 	"max": 999,
 	"name": "Sem: Computer Graphics",
 	"number": 378,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

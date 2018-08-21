@@ -1,21 +1,24 @@
 {
-	"clbid": 15787,
+	"clbid": "0000015787",
 	"credits": 0.0,
-	"crsid": 1536,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000001536",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 227"
-	],
 	"max": 12,
 	"name": "Cell Biology/Lab",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "15:55",
+			"location": "SC 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"W 1255-0355PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

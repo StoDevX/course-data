@@ -1,14 +1,12 @@
 {
-	"clbid": 118753,
+	"clbid": "0000118753",
 	"credits": 0.25,
-	"crsid": 1023,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001023",
+	"department": "ESAC",
 	"description": [
 		"This course is for students who can already serve, score, play the net, and know basic singles and doubles strategy. Prerequisite: ESAC 157, or permission of instructor."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,16 +15,26 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr",
-		"Tostrud Ctr"
-	],
 	"max": 16,
 	"name": "Intermediate Tennis",
 	"notes": [
 		"This is a first-half of semester course."
 	],
 	"number": 158,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "Tostrud Ctr",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ESAC 157, or permission of instructor.",
 	"revisions": [
@@ -50,15 +58,31 @@
 			"_updated": "2018-08-07T14:48:45.052964+00:00",
 			"enroll": "9",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.426857+00:00",
+			"clbid": 118753,
+			"crsid": 1023,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr",
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

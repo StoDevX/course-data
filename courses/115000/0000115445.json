@@ -1,14 +1,12 @@
 {
-	"clbid": 115445,
+	"clbid": "0000115445",
 	"credits": 1.0,
-	"crsid": 78,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000000078",
+	"department": "ASIAN",
 	"description": [
 		"This course examines major cultures of Asia from interdisciplinary and comparative perspectives with attention to theories of human behavior. Themes vary from year to year."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Barbara Reed"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 112",
-		"TOH 112"
-	],
 	"max": 25,
 	"name": "Asian Cultures",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 112",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 112",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,10 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Asian Cultures in Comparative Perspectives",
 	"type": "Research",
 	"year": 2017

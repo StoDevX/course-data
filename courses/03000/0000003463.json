@@ -1,21 +1,30 @@
 {
-	"clbid": 3463,
+	"clbid": "0000003463",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 16,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 16,
 	"instructors": [
 		"Kimberly Vrudney"
 	],
 	"level": 100,
-	"locations": [
-		"CH 110"
-	],
 	"max": 20,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 110",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 110",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

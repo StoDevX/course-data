@@ -1,21 +1,30 @@
 {
-	"clbid": 18392,
+	"clbid": "0000018392",
 	"credits": 0.25,
-	"crsid": 1002,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001002",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 100,
-	"locations": [
-		"SAC CTR GYM"
-	],
 	"max": 24,
 	"name": "Volleyball",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC CTR GYM",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC CTR GYM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

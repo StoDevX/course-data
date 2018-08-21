@@ -1,33 +1,41 @@
 {
-	"clbid": 73982,
+	"clbid": "0000073982",
 	"credits": 1.0,
-	"crsid": 182,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000182",
+	"department": "CHEM",
 	"description": [
 		"Students explore aspects of chemistry that are encountered in the world. Basic concepts in chemistry, such as matter and bonding, acid/base chemistry, and solution chemistry, are discussed within the context of society at large. Laboratory experiences complement the class material, and students have opportunities to explore chemistry principles. Students attend three hours of class and one three-hour laboratory per week. Does not count toward the major. Offered annually in the spring semester."
 	],
-	"enroll": 42,
+	"enrolled": 42,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 182,
+	"groupid": "0000000182",
 	"instructors": [
 		"Jennifer C. Klein"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210",
-		"RNS 210"
-	],
 	"max": 40,
 	"name": "Chemistry & the World",
 	"notes": [
 		"Students in Chem 111 must also register for one lab Chem 111AL or BL."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 210",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 210",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Chemistry and the World",
 	"type": "Research",
 	"year": 2010

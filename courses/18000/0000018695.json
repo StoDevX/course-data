@@ -1,21 +1,30 @@
 {
-	"clbid": 18695,
+	"clbid": "0000018695",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 15,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 15,
 	"instructors": [
 		"Sylvia Carullo"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 25,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:20",
+			"location": "M 31",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:20",
+			"location": "M 31",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0120PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

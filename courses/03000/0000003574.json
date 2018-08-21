@@ -1,21 +1,36 @@
 {
-	"clbid": 3574,
+	"clbid": "0000003574",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 27,
+	"crsid": "0000001402",
+	"department": "STAT",
+	"enrolled": 27,
 	"instructors": [
 		"Michael Kahn"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Prin of Statistics",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

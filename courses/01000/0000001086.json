@@ -1,21 +1,24 @@
 {
-	"clbid": 1086,
+	"clbid": "0000001086",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/363"
-	],
 	"max": 20,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 374/363",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2000
 }

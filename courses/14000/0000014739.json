@@ -1,21 +1,24 @@
 {
-	"clbid": 14739,
+	"clbid": "0000014739",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 24,
 	"name": "Fundamentls Chem/Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 371",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

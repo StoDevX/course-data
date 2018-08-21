@@ -1,14 +1,12 @@
 {
-	"clbid": 118533,
+	"clbid": "0000118533",
 	"credits": 1.0,
-	"crsid": 1339,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001339",
+	"department": "SPAN",
 	"description": [
 		"In this introduction to literary terminology and to principles of literary analysis across genres, literary texts (including poetry, short stories, theater, and novel) are studied in their socio-historical context. In different semesters, the focus may be literature of the Mexican Revolution, urban and rural life, or another topic chosen by the instructor. Taught in Spanish. Offered each semester. Prerequisite: SPAN 250."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Gwendolyn Barnes-Karol"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 214",
-		"TOH 214"
-	],
 	"max": 15,
 	"name": "Exploring Hispanic Lit",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 214",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 214",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 250.",
 	"revisions": [
@@ -61,15 +69,31 @@
 			"_updated": "2018-08-07T14:48:44.766785+00:00",
 			"enroll": "17",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.010490+00:00",
+			"clbid": 118533,
+			"crsid": 1339,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"TOH 214",
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Exploring Hispanic Literature",
 	"type": "Research",
 	"year": 2018

@@ -1,21 +1,30 @@
 {
-	"clbid": 20361,
+	"clbid": "0000020361",
 	"credits": 1.0,
-	"crsid": 587,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 7,
+	"crsid": "0000000587",
+	"department": "GERM",
+	"enrolled": 7,
 	"instructors": [
 		"Norman M. Watt"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 10,
 	"name": "Lyrik",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

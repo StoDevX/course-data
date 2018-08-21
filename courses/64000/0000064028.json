@@ -1,23 +1,26 @@
 {
-	"clbid": 64028,
+	"clbid": "0000064028",
 	"credits": 0.0,
-	"crsid": 17308,
-	"departments": [
-		"NEURO"
-	],
-	"enroll": 16,
-	"groupid": 916,
+	"crsid": "0000017308",
+	"department": "NEURO",
+	"enrolled": 16,
+	"groupid": "0000000916",
 	"instructors": [
 		"Gary M. Muir",
 		"Kevin M. Crisp"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Intro to Neuroscience Lab",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 254",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

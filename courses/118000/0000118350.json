@@ -1,25 +1,33 @@
 {
-	"clbid": 118350,
+	"clbid": "0000118350",
 	"credits": 1.0,
-	"crsid": 1385,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001385",
+	"department": "THEAT",
 	"description": [
 		"This studio course focuses on the fundamentals of stage direction. Students develop skills of play selection, audience analysis, text interpretation, working with actors, stage picturization and blocking, design considerations, and the process of casting and rehearsals. A primary focus is on developing a point of view about theater and directing by the study of other directors and theories of theater. Offered annually in the fall semester. Counts toward management studies concentration. Prerequisites: THEAT 110 or THEAT 180, THEAT 115 or THEAT 130 or THEAT 131, and THEAT 140."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Randy F. Reyes"
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 18,
 	"name": "Beginning Stage Direction",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TB Haugen",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TB Haugen",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: THEAT 110 or THEAT 180, THEAT 115 or THEAT 130 or THEAT 131, and THEAT 140.",
 	"revisions": [
@@ -32,15 +40,31 @@
 			"_updated": "2018-08-07T14:48:44.674915+00:00",
 			"enroll": "13",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.775205+00:00",
+			"clbid": 118350,
+			"crsid": 1385,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"TB Haugen",
+				"TB Haugen"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Stage Direction",
 	"type": "Research",
 	"year": 2018

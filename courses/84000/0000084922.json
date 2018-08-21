@@ -1,24 +1,39 @@
 {
-	"clbid": 84922,
+	"clbid": "0000084922",
 	"credits": 1.0,
-	"crsid": 743,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000743",
+	"department": "MATH",
 	"description": [
 		"This course introduces students to the mathematics of complex systems, as applied to problems from biology. Topics include discrete and continuous models of single species and multiple species populations, age structure of populations, disease spread, evolution and game theory, and competition. Prerequisite: Mathematics 126 or 128, and Mathematics 220. Offered most years in the spring semester. Counts toward neuroscience concentration."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Rebecca M. Vandiver"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 22,
 	"name": "Math of Biology",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128, and Mathematics 220. Offered most years in the spring semester. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Mathematics of Biology",
 	"type": "Research",
 	"year": 2012

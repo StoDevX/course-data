@@ -1,22 +1,42 @@
 {
-	"clbid": 4764,
+	"clbid": "0000004764",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 23,
 	"instructors": [
 		"Diane K. Angell"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 211"
-	],
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 278",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 278",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 278",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 211",
+			"start": "13:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM",
-		"W 0130-0400PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 8049,
+	"clbid": "0000008049",
 	"credits": 0.5,
-	"crsid": 685,
-	"departments": [
-		"IS"
-	],
-	"enroll": 5,
+	"crsid": "0000000685",
+	"department": "IS",
+	"enrolled": 5,
 	"instructors": [
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [
-		"TB 227"
-	],
 	"max": 12,
 	"name": "Coll: Tradition",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB 227",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 18496,
+	"clbid": "0000018496",
 	"credits": 1.0,
-	"crsid": 1104,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 27,
+	"crsid": "0000001104",
+	"department": "PSCI",
+	"enrolled": 27,
 	"instructors": [
 		"Rodney G. Grubb"
 	],
 	"level": 100,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Comparative Politics",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 403",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 403",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 403",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

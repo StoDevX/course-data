@@ -1,22 +1,25 @@
 {
-	"clbid": 62003,
+	"clbid": "0000062003",
 	"credits": 0.0,
-	"crsid": 1160,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 12,
-	"groupid": 1159,
+	"crsid": "0000001160",
+	"department": "PSYCH",
+	"enrolled": 12,
+	"groupid": "0000001159",
 	"instructors": [
 		"Bonnie Sherman"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 18,
 	"name": "Sensation/Perception Lab",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 240",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1331,
+	"clbid": "0000001331",
 	"credits": 1.0,
-	"crsid": 609,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000000609",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"David Nordmann"
 	],
 	"level": 200,
-	"locations": [
-		"H 516"
-	],
 	"max": 30,
 	"name": "Modern China",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 516",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 516",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 516",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

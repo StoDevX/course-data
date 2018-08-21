@@ -1,21 +1,30 @@
 {
-	"clbid": 3321,
+	"clbid": "0000003321",
 	"credits": 1.0,
-	"crsid": 994,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 8,
+	"crsid": "0000000994",
+	"department": "PHIL",
+	"enrolled": 8,
 	"instructors": [
 		"Vicki L. Harper"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 15,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

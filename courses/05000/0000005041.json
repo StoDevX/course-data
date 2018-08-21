@@ -1,22 +1,30 @@
 {
-	"clbid": 5041,
+	"clbid": "0000005041",
 	"credits": 1.0,
-	"crsid": 557,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000000557",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 100,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 23,
 	"name": "Europe/Great War",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

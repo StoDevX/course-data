@@ -1,26 +1,34 @@
 {
-	"clbid": 56312,
+	"clbid": "0000056312",
 	"credits": 0.25,
-	"crsid": 997,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000997",
+	"department": "ESAC",
 	"description": [
 		"This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"halfcredit": "1",
 	"instructors": [
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_FH",
-		"SAC_FH"
-	],
 	"max": 14,
 	"name": "Golf",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC_FH",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC_FH",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"T 1150-0150PM",
-		"Th 1245-0245PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

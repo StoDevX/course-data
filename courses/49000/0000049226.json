@@ -1,22 +1,25 @@
 {
-	"clbid": 49226,
+	"clbid": "0000049226",
 	"credits": 0.0,
-	"crsid": 135,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 13,
-	"groupid": 134,
+	"crsid": "0000000135",
+	"department": "BIO",
+	"enrolled": 13,
+	"groupid": "0000000134",
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"SC 227"
-	],
 	"max": 0,
 	"name": "Plant Physiology Lab",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:55",
+			"location": "SC 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"M 1255-0355PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

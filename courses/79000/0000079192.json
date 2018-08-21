@@ -1,15 +1,13 @@
 {
-	"clbid": 79192,
+	"clbid": "0000079192",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000498",
+	"department": "WRIT",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html for section descriptions.",
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections that explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"FYW"
 	],
@@ -17,12 +15,29 @@
 		"Jenny Dunning"
 	],
 	"level": 100,
-	"locations": [
-		"RML 420"
-	],
 	"max": 16,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 420",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2011
 }

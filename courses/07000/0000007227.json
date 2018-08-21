@@ -1,22 +1,30 @@
 {
-	"clbid": 7227,
+	"clbid": "0000007227",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001022",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"TC",
-		"TC"
-	],
 	"max": 16,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TC",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TC",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 25639,
+	"clbid": "0000025639",
 	"credits": 1.0,
-	"crsid": 964,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 23,
+	"crsid": "0000000964",
+	"department": "PHIL",
+	"enrolled": 23,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 100,
-	"locations": [
-		"H 516"
-	],
 	"max": 25,
 	"name": "Making of Modern Mind",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 516",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

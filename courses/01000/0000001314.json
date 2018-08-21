@@ -1,21 +1,36 @@
 {
-	"clbid": 1314,
+	"clbid": "0000001314",
 	"credits": 1.0,
-	"crsid": 1779,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 24,
+	"crsid": "0000001779",
+	"department": "HIST",
+	"enrolled": 24,
 	"instructors": [
 		"James Farrell"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 23,
 	"name": "Us Consumr Culture",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

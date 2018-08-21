@@ -1,21 +1,36 @@
 {
-	"clbid": 21665,
+	"clbid": "0000021665",
 	"credits": 1.0,
-	"crsid": 2274,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 28,
+	"crsid": "0000002274",
+	"department": "PSYCH",
+	"enrolled": 28,
 	"instructors": [
 		"Bonnie Sherman"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 35,
 	"name": "Principles: Exp Psych",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

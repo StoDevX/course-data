@@ -1,21 +1,30 @@
 {
-	"clbid": 16549,
+	"clbid": "0000016549",
 	"credits": 1.0,
-	"crsid": 2484,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 8,
+	"crsid": "0000002484",
+	"department": "THEAT",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 25,
 	"name": "Persuasion",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SPT 216",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SPT 216",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

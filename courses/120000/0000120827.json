@@ -1,29 +1,42 @@
 {
-	"clbid": 120827,
+	"clbid": "0000120827",
 	"credits": 1.0,
-	"crsid": 32286,
-	"departments": [
-		"FILM"
-	],
+	"crsid": "0000032286",
+	"department": "FILM",
 	"description": [
 		"This advanced course rotates between various topics in film that may include genres and styles, authorship, national and transnational cinemas, industrial history, and film's relationship to other art forms and popular culture at large. Students study films within a context that emphasizes specialized theoretical, cultural, or historical concerns and questions. Offered annually in the spring semester. Counts toward film studies concentration. Prerequisite: FILM 101."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Linda Mokdad"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 280",
-		"RML 525",
-		"RML 525"
-	],
 	"max": 15,
 	"name": "Top: Topics in Film",
 	"notes": [
 		"Film screenings will be on Monday evenings."
 	],
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "TOH 280",
+			"start": "19:00"
+		},
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 525",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FILM 101.",
 	"revisions": [
@@ -44,16 +57,33 @@
 			"_updated": "2018-08-07T14:48:49.125053+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.524151+00:00",
+			"clbid": 120827,
+			"crsid": 32286,
+			"department": null,
+			"departments": [
+				"FILM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 280",
+				"RML 525",
+				"RML 525"
+			],
+			"offerings": null,
+			"times": [
+				"M 0700-1000PM",
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0700-1000PM",
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Film",
 	"type": "Topic",
 	"year": 2018

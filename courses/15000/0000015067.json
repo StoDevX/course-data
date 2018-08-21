@@ -1,21 +1,30 @@
 {
-	"clbid": 15067,
+	"clbid": "0000015067",
 	"credits": 0.5,
-	"crsid": 1958,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 14,
+	"crsid": "0000001958",
+	"department": "MUSIC",
+	"enrolled": 14,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 30,
 	"name": "Intro Music Theory",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

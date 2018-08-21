@@ -1,21 +1,30 @@
 {
-	"clbid": 26752,
+	"clbid": "0000026752",
 	"credits": 1.0,
-	"crsid": 1165,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 33,
+	"crsid": "0000001165",
+	"department": "PSYCH",
+	"enrolled": 33,
 	"instructors": [
 		"Susan Marino"
 	],
 	"level": 200,
-	"locations": [
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Biopsychology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 170",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 170",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

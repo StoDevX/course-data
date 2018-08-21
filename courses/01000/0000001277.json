@@ -1,21 +1,30 @@
 {
-	"clbid": 1277,
+	"clbid": "0000001277",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 17,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 17,
 	"instructors": [
 		"Phyllis Hyland Larson"
 	],
 	"level": 100,
-	"locations": [
-		"L 577"
-	],
 	"max": 19,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 577",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

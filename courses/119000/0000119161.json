@@ -1,27 +1,54 @@
 {
-	"clbid": 119161,
+	"clbid": "0000119161",
 	"credits": 0.5,
-	"crsid": 340,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000340",
+	"department": "EDUC",
 	"description": [
 		"Offered concurrently with student teaching, this course meets during and after student teaching. It focuses on professional development, including personal philosophies of teaching/education, professional ethics, and portfolio development. Seminar sessions also address specific issues pertaining to the student teacher experience including classroom management, differentiated instruction, assessment, and planning. Student teachers only. Offered each semester."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Sharon Lane-Getaz"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 30,
 	"name": "Senior Seminar Educ",
 	"notes": [
 		"Open to seniors in the professional semester only."
 	],
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,14 +69,29 @@
 		{
 			"_updated": "2018-08-15T03:35:00.228851+00:00",
 			"enroll": 21
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.029489+00:00",
+			"clbid": 119161,
+			"crsid": 340,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0800-0400PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"M-F 0800-0400PM"
-	],
 	"title": "Senior Seminar",
 	"type": "Research",
 	"year": 2018

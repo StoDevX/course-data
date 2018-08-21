@@ -1,21 +1,30 @@
 {
-	"clbid": 25475,
+	"clbid": "0000025475",
 	"credits": 1.0,
-	"crsid": 1762,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 17,
+	"crsid": "0000001762",
+	"department": "GERM",
+	"enrolled": 17,
 	"instructors": [
 		"Frederike Von Schwerin-High"
 	],
 	"level": 300,
-	"locations": [
-		"M 30"
-	],
 	"max": 25,
 	"name": "Sem: Classical Drama",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

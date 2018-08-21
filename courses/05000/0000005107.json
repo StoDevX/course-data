@@ -1,22 +1,30 @@
 {
-	"clbid": 5107,
+	"clbid": "0000005107",
 	"credits": 1.0,
-	"crsid": 724,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 7,
+	"crsid": "0000000724",
+	"department": "LATIN",
+	"enrolled": 7,
 	"instructors": [
 		"Christopher M. Brunelle"
 	],
 	"level": 300,
-	"locations": [
-		"OM 031",
-		"OM 031"
-	],
 	"max": 999,
 	"name": "Latin Satire",
 	"number": 377,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 031",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 031",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

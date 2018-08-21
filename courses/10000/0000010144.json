@@ -1,22 +1,49 @@
 {
-	"clbid": 10144,
+	"clbid": "0000010144",
 	"credits": 1.0,
-	"crsid": 126,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 7,
-	"groupid": 126,
+	"crsid": "0000000126",
+	"department": "BIO",
+	"enrolled": 7,
+	"groupid": "0000000126",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278"
-	],
 	"max": 999,
 	"name": "Human Anatomy & Physiol",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 278",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 278",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 278",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 278",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 278",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +61,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20044,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2004
 }

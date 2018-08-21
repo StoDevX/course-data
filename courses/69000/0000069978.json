@@ -1,22 +1,31 @@
 {
-	"clbid": 69978,
+	"clbid": "0000069978",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 7,
-	"groupid": 1072,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 7,
+	"groupid": "0000001072",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 999,
 	"name": "Principles Physics I Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 292",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20084,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

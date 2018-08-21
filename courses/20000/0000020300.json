@@ -1,21 +1,30 @@
 {
-	"clbid": 20300,
+	"clbid": "0000020300",
 	"credits": 1.0,
-	"crsid": 431,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 21,
+	"crsid": "0000000431",
+	"department": "ENGL",
+	"enrolled": 21,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 35,
 	"name": "Top: Amer Women Poets",
 	"number": 286,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 525",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

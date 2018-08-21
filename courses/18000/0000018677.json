@@ -1,21 +1,30 @@
 {
-	"clbid": 18677,
+	"clbid": "0000018677",
 	"credits": 1.0,
-	"crsid": 2442,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 6,
+	"crsid": "0000002442",
+	"department": "SOAN",
+	"enrolled": 6,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 300,
-	"locations": [
-		"L 421"
-	],
 	"max": 999,
 	"name": "Data Collect & Analy",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "L 421",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "L 421",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1995
 }

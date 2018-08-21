@@ -1,21 +1,36 @@
 {
-	"clbid": 7429,
+	"clbid": "0000007429",
 	"credits": 1.0,
-	"crsid": 1332,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 13,
+	"crsid": "0000001332",
+	"department": "SPAN",
+	"enrolled": 13,
 	"instructors": [
 		"Leon Narvaez"
 	],
 	"level": 200,
-	"locations": [
-		"OM 030"
-	],
 	"max": 999,
 	"name": "Cult & Civ of Lat Am",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 030",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

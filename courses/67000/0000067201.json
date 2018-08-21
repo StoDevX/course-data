@@ -1,14 +1,12 @@
 {
-	"clbid": 67201,
+	"clbid": "0000067201",
 	"credits": 1.0,
-	"crsid": 456,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000456",
+	"department": "ENVST",
 	"description": [
 		"Population growth, industrialization, and the consumption of fossil fuels have increased global environmental problems. The course examines the ways in which nation-states and/or international institutions have addressed these environmental concerns. Depending on the instructor, the focus of the course is either the environmental problems of a particular area (e.g., Latin America, Russia or Asia) or a broader global arena (e.g., international institutions and the environment). Offered annually."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Anthony Lott"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 26,
 	"name": "Global Env Politics",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 317",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 317",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Topics in Global Environmental Politics",
 	"type": "Research",
 	"year": 2009

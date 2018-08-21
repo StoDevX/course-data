@@ -1,22 +1,30 @@
 {
-	"clbid": 7113,
+	"clbid": "0000007113",
 	"credits": 1.0,
-	"crsid": 792,
-	"departments": [
-		"MEDIA"
-	],
-	"enroll": 32,
+	"crsid": "0000000792",
+	"department": "MEDIA",
+	"enrolled": 32,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 100,
-	"locations": [
-		"TB 216",
-		"TB 216"
-	],
 	"max": 25,
 	"name": "Mass Media",
 	"number": 160,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TB 216",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TB 216",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

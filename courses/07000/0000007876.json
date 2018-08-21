@@ -1,22 +1,37 @@
 {
-	"clbid": 7876,
+	"clbid": "0000007876",
 	"credits": 1.0,
-	"crsid": 399,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 30,
+	"crsid": "0000000399",
+	"department": "ENGL",
+	"enrolled": 30,
 	"instructors": [
 		"Jonathan Hill",
 		"Colin Wells"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 55,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RML 525",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

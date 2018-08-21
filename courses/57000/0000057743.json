@@ -1,23 +1,26 @@
 {
-	"clbid": 57743,
+	"clbid": "0000057743",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 26,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 26,
+	"groupid": "0000000194",
 	"grouptype": "2",
 	"instructors": [
 		"Nathaniel J. Schaefle"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/363"
-	],
 	"max": 26,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 374/363",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

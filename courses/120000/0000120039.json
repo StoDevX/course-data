@@ -1,22 +1,25 @@
 {
-	"clbid": 120039,
+	"clbid": "0000120039",
 	"credits": 0.0,
-	"crsid": 26715,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 26714,
+	"crsid": "0000026715",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000026714",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 20,
 	"name": "Cell Biology Lab",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 394",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,15 +47,31 @@
 			"_updated": "2018-08-07T14:48:48.668240+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.316728+00:00",
+			"clbid": 120039,
+			"crsid": 26715,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 26714,
+			"locations": [
+				"RNS 394"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0345PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

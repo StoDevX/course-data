@@ -1,21 +1,36 @@
 {
-	"clbid": 15736,
+	"clbid": "0000015736",
 	"credits": 0.5,
-	"crsid": 21,
-	"departments": [
-		"ART"
-	],
-	"enroll": 11,
+	"crsid": "0000000021",
+	"department": "ART",
+	"enrolled": 11,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FHAB"
-	],
 	"max": 22,
 	"name": "Found Color Design",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "FHAB",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "FHAB",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "FHAB",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

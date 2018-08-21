@@ -1,21 +1,30 @@
 {
-	"clbid": 23502,
+	"clbid": "0000023502",
 	"credits": 1.0,
-	"crsid": 548,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 3,
+	"crsid": "0000000548",
+	"department": "GREEK",
+	"enrolled": 3,
 	"instructors": [
 		"James May"
 	],
 	"level": 300,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Greek Drama",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 36",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 36",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,25 +1,28 @@
 {
-	"clbid": 118284,
+	"clbid": "0000118284",
 	"credits": 0.25,
-	"crsid": 202,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000202",
+	"department": "CHEM",
 	"description": [
 		"Students enrolled in this lab course practice techniques of modern analytical chemistry using state-of-the-art instrumentation, including pH meters, liquid chromatographs, and a variety of spectrophotometers. Data acquisition via computer-interfaced instrumentation and electronic record-keeping is emphasized. Students practice and develop group skills by working in \"companies\" throughout the semester. P/N only. Offered each semester. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: concurrent registration in CHEM 255."
 	],
-	"enroll": 16,
-	"groupid": 201,
+	"enrolled": 16,
+	"groupid": "0000000201",
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 446"
-	],
 	"max": 14,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:45",
+			"location": "RNS 446",
+			"start": "11:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": "concurrent registration in CHEM 255.",
 	"revisions": [
@@ -46,15 +49,31 @@
 			"_updated": "2018-08-07T14:48:44.624160+00:00",
 			"enroll": "16",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.653531+00:00",
+			"clbid": 118284,
+			"crsid": 202,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 16,
+			"enrolled": null,
+			"groupid": 201,
+			"locations": [
+				"RNS 446"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0345PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0345PM"
-	],
 	"title": "Analytical Laboratory",
 	"type": "Lab",
 	"year": 2018

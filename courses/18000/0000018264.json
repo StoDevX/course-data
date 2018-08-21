@@ -1,21 +1,30 @@
 {
-	"clbid": 18264,
+	"clbid": "0000018264",
 	"credits": 1.0,
-	"crsid": 723,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 9,
+	"crsid": "0000000723",
+	"department": "LATIN",
+	"enrolled": 9,
 	"instructors": [
 		"Anne Groton"
 	],
 	"level": 300,
-	"locations": [
-		"M 11"
-	],
 	"max": 999,
 	"name": "Roman Drama",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 11",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 11",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

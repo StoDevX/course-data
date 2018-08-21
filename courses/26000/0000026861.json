@@ -1,21 +1,36 @@
 {
-	"clbid": 26861,
+	"clbid": "0000026861",
 	"credits": 1.0,
-	"crsid": 1326,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 24,
+	"crsid": "0000001326",
+	"department": "SPAN",
+	"enrolled": 24,
 	"instructors": [
 		"Maggie Broner"
 	],
 	"level": 200,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Intermed Spanish I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1999
 }

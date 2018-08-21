@@ -1,14 +1,12 @@
 {
-	"clbid": 81548,
+	"clbid": "0000081548",
 	"credits": 1.0,
-	"crsid": 1135,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000001135",
+	"department": "ENVST",
 	"description": [
 		"Analysis of environmental policy includes the politics of agenda setting, policy selection and program implementation, and the effects of policy outcomes. Offered annually. Counts towards American studies major."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Maria D. Kim"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208",
-		"RNS 208"
-	],
 	"max": 24,
 	"name": "Environmental Politics",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 208",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 208",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

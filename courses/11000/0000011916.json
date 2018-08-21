@@ -1,21 +1,36 @@
 {
-	"clbid": 11916,
+	"clbid": "0000011916",
 	"credits": 1.0,
-	"crsid": 416,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 17,
+	"crsid": "0000000416",
+	"department": "ENGL",
+	"enrolled": 17,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 18,
 	"name": "Science Writing",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

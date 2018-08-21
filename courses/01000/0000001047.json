@@ -1,22 +1,42 @@
 {
-	"clbid": 1047,
+	"clbid": "0000001047",
 	"credits": 1.0,
-	"crsid": 139,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 17,
+	"crsid": "0000000139",
+	"department": "BIO",
+	"enrolled": 17,
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 248"
-	],
 	"max": 18,
 	"name": "Ecological Principles",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 280",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:50",
+			"location": "SC 248",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0800-0855",
-		"T 0120-0350PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

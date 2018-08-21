@@ -1,22 +1,25 @@
 {
-	"clbid": 119205,
+	"clbid": "0000119205",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 2,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 2,
+	"groupid": "0000000192",
 	"instructors": [
 		"Elodie Marlier"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 16,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 355",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,15 +48,31 @@
 		{
 			"_updated": "2018-08-15T03:35:00.250940+00:00",
 			"enroll": 1
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.092607+00:00",
+			"clbid": 119205,
+			"crsid": 193,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 2,
+			"enrolled": null,
+			"groupid": 192,
+			"locations": [
+				"RNS 355"
+			],
+			"offerings": null,
+			"times": [
+				"M 0200-0500PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

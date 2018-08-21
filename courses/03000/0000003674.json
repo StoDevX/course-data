@@ -1,21 +1,48 @@
 {
-	"clbid": 3674,
+	"clbid": "0000003674",
 	"credits": 1.0,
-	"crsid": 822,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 1,
+	"crsid": "0000000822",
+	"department": "MUSIC",
+	"enrolled": 1,
 	"instructors": [
 		"Thomas C. Schnauber"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 999,
 	"name": "Composition I",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "CHM 232",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "CHM 232",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "CHM 232",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "CHM 232",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "CHM 232",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20015,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2001
 }

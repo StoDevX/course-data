@@ -1,21 +1,36 @@
 {
-	"clbid": 6326,
+	"clbid": "0000006326",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 58,
+	"crsid": "0000001375",
+	"department": "THEAT",
+	"enrolled": 58,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 55,
 	"name": "Intro to Theater",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CAD 305",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2003
 }

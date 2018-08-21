@@ -1,21 +1,36 @@
 {
-	"clbid": 26881,
+	"clbid": "0000026881",
 	"credits": 1.0,
-	"crsid": 1374,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 28,
+	"crsid": "0000001374",
+	"department": "THEAT",
+	"enrolled": 28,
 	"instructors": [
 		"Karen Wilson"
 	],
 	"level": 100,
-	"locations": [
-		"CT 227"
-	],
 	"max": 20,
 	"name": "Oral Interpretation",
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CT 227",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CT 227",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CT 227",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1999
 }

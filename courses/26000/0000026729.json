@@ -1,21 +1,30 @@
 {
-	"clbid": 26729,
+	"clbid": "0000026729",
 	"credits": 1.0,
-	"crsid": 1129,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 15,
+	"crsid": "0000001129",
+	"department": "PSCI",
+	"enrolled": 15,
 	"instructors": [
 		"Andrew Seligsohn"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Hist Class Pol Thght",
 	"number": 259,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 515",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

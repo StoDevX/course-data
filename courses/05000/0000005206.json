@@ -1,22 +1,30 @@
 {
-	"clbid": 5206,
+	"clbid": "0000005206",
 	"credits": 0.5,
-	"crsid": 862,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 13,
+	"crsid": "0000000862",
+	"department": "MUSIC",
+	"enrolled": 13,
 	"instructors": [
 		"Charles Gray"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 15,
 	"name": "String Lit & Pedagogy",
 	"number": 368,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 140",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 140",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

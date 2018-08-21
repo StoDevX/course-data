@@ -1,21 +1,24 @@
 {
-	"clbid": 14756,
+	"clbid": "0000014756",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 363/374"
-	],
 	"max": 30,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 363/374",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 1994
 }

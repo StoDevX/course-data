@@ -1,21 +1,30 @@
 {
-	"clbid": 25627,
+	"clbid": "0000025627",
 	"credits": 1.0,
-	"crsid": 930,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 9,
+	"crsid": "0000000930",
+	"department": "NORW",
+	"enrolled": 9,
 	"instructors": [
 		"Margaret H. O'Leary"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Advanced Conv & Comp",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "M 15",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "M 15",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1999
 }

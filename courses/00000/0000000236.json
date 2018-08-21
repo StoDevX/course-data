@@ -1,21 +1,36 @@
 {
-	"clbid": 236,
+	"clbid": "0000000236",
 	"credits": 1.0,
-	"crsid": 446,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 12,
+	"crsid": "0000000446",
+	"department": "ENGL",
+	"enrolled": 12,
 	"instructors": [
 		"Jon Eric Nelson"
 	],
 	"level": 300,
-	"locations": [
-		"L 520"
-	],
 	"max": 15,
 	"name": "Brit Auth: Yeats",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

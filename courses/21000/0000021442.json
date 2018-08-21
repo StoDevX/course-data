@@ -1,21 +1,30 @@
 {
-	"clbid": 21442,
+	"clbid": "0000021442",
 	"credits": 1.0,
-	"crsid": 1928,
-	"departments": [
-		"ID"
-	],
-	"enroll": 10,
+	"crsid": "0000001928",
+	"department": "ID",
+	"enrolled": 10,
 	"instructors": [
 		"Robert Weinstock-Collins"
 	],
 	"level": 300,
-	"locations": [
-		"SC 310"
-	],
 	"max": 20,
 	"name": "The Spirit of Science",
 	"number": 300,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 310",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 310",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,24 +1,33 @@
 {
-	"clbid": 51678,
+	"clbid": "0000051678",
 	"credits": 0.25,
-	"crsid": 355,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000355",
+	"department": "DANCE",
 	"description": [
 		"This course provides instruction in basic steps, rhythms and styling for tango, rumba, west coast swing and quickstep. Students learn advanced patterns in slow waltz. Emphasis is on styling and quality of movement. Prerequisite: Dance 106 or permission of instructor."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 20,
 	"name": "Ballroom II (Men)",
 	"number": 206,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Dance 106 or permission of instructor.",
 	"revisions": [
@@ -47,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"title": "Ballroom II",
 	"type": "Research",
 	"year": 2006

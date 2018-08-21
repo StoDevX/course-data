@@ -1,21 +1,36 @@
 {
-	"clbid": 20369,
+	"clbid": "0000020369",
 	"credits": 1.0,
-	"crsid": 542,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 11,
+	"crsid": "0000000542",
+	"department": "GREEK",
+	"enrolled": 11,
 	"instructors": [
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "New Testament Greek",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 3",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

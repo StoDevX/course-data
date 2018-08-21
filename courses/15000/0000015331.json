@@ -1,21 +1,36 @@
 {
-	"clbid": 15331,
+	"clbid": "0000015331",
 	"credits": 1.0,
-	"crsid": 1233,
-	"departments": [
-		"REL"
-	],
-	"enroll": 24,
+	"crsid": "0000001233",
+	"department": "REL",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 30,
 	"name": "Religion & Literature",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CH 101",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CH 101",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CH 101",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,17 @@
 {
-	"clbid": 120139,
+	"clbid": "0000120139",
 	"credits": 0.0,
-	"crsid": 309,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000309",
+	"department": "EDUC",
 	"description": [
 		"Students examine issues related to chemical use/abuse in our society. The course, required of all candidates for a teaching license, enhances problem identification and helping skills instudents' professional and personal lives. Students develop an understanding of enabling and intervening behaviors and gain knowledge about the role of schools in addressing these and other chemical abuse concerns. P/N only. Offered each semester, evenings."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"halfcredit": "1",
 	"instructors": [
 		"Anne Breckbill"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210"
-	],
 	"max": 30,
 	"name": "Drugs & Alcohol",
 	"notes": [
@@ -24,6 +19,14 @@
 		"Meets in the first half of the semester."
 	],
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "TOH 210",
+			"start": "19:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -36,14 +39,29 @@
 			"_updated": "2018-08-07T14:48:48.721944+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.487138+00:00",
+			"clbid": 120139,
+			"crsid": 309,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 210"
+			],
+			"offerings": null,
+			"times": [
+				"M 0700-0900PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"title": "Drugs and Alcohol",
 	"type": "Research",
 	"year": 2018

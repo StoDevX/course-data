@@ -1,28 +1,36 @@
 {
-	"clbid": 120708,
+	"clbid": "0000120708",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000762",
+	"department": "MATH",
 	"description": [
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topic is different. Offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 20,
 	"name": "Sem: Financial Mathematics",
 	"notes": [
 		"Prerequisites: MATH 220 and one of MATH 244 or MATH 252."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 220 and one of MATH 244 or MATH 252.",
 	"revisions": [
@@ -58,15 +66,31 @@
 			"_updated": "2018-08-07T14:48:49.058885+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.330208+00:00",
+			"clbid": 120708,
+			"crsid": 762,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Topics in Mathematics",
 	"type": "Seminar",
 	"year": 2018

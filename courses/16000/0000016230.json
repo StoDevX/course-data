@@ -1,21 +1,30 @@
 {
-	"clbid": 16230,
+	"clbid": "0000016230",
 	"credits": 1.0,
-	"crsid": 2168,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 19,
+	"crsid": "0000002168",
+	"department": "PHIL",
+	"enrolled": 19,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 23,
 	"name": "Top: Environ Ethics",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 403",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 403",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 1994
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 118538,
+	"clbid": "0000118538",
 	"credits": 0.0,
-	"crsid": 162,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 12,
-	"groupid": 161,
+	"crsid": "0000000162",
+	"department": "BIO",
+	"enrolled": 12,
+	"groupid": "0000000161",
 	"instructors": [
 		"Kathleen L. Shea"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 440"
-	],
 	"max": 14,
 	"name": "Field Ecology Lab",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:30",
+			"location": "RNS 440",
+			"start": "14:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,14 +36,30 @@
 			"_updated": "2018-08-07T14:48:44.771240+00:00",
 			"enroll": "12",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.021253+00:00",
+			"clbid": 118538,
+			"crsid": 162,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 12,
+			"enrolled": null,
+			"groupid": 161,
+			"locations": [
+				"RNS 440"
+			],
+			"offerings": null,
+			"times": [
+				"T 0230-0530PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0230-0530PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

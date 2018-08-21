@@ -1,14 +1,12 @@
 {
-	"clbid": 118260,
+	"clbid": "0000118260",
 	"credits": 1.0,
-	"crsid": 245,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000245",
+	"department": "CHIN",
 	"description": [
 		"This course provides continued practice in speaking, reading, and writing at the third-year-level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. This course is required for students seeking a concentration in China studies. Counts toward management studies concentration. Prerequisite: CHIN 232 or equivalent."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"FOL-C"
 	],
@@ -16,12 +14,29 @@
 		"Hui Bi"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 14,
 	"name": "Advanced Chinese I",
 	"number": 301,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 112",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 232 or equivalent.",
 	"revisions": [
@@ -52,15 +67,30 @@
 		{
 			"_updated": "2018-08-17T03:36:12.820427+00:00",
 			"enroll": 9
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.576194+00:00",
+			"clbid": 118260,
+			"crsid": 245,
+			"department": null,
+			"departments": [
+				"CHIN"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"TOH 112"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Third-Year Chinese I",
 	"type": "Research",
 	"year": 2018

@@ -1,22 +1,25 @@
 {
-	"clbid": 112114,
+	"clbid": "0000112114",
 	"credits": 0.0,
-	"crsid": 1260,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 18,
-	"groupid": 1259,
+	"crsid": "0000001260",
+	"department": "RUSSN",
+	"enrolled": 18,
+	"groupid": "0000001259",
 	"instructors": [
 		"Margarita Safariants"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 212"
-	],
 	"max": 21,
 	"name": "Beginning Russian I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "TOH 212",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +44,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"T 0800-0855"
-	],
 	"type": "Lab",
 	"year": 2017
 }

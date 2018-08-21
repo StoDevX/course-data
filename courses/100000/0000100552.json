@@ -1,25 +1,33 @@
 {
-	"clbid": 100552,
+	"clbid": "0000100552",
 	"credits": 1.0,
-	"crsid": 70,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000070",
+	"department": "ART",
 	"description": [
 		"This course enables the advanced studio art student to pursue further work in any chosen medium or combination of media including performance, installation, and collaborative ways of working. This course is organized around an interdisciplinary theme set each year by the instructor. Within a seminar format, students read, discuss, and write ontheselected topic in conjunction with topic-driven individual studiowork and critiques. Offered annually. Prerequisites: three foundation studio courses plus a minimum of two level II studio courses."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Peter B. Nelson"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 103",
-		"CAD 103"
-	],
 	"max": 18,
 	"name": "Topics Sem/Studio Art",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 103",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 103",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: three foundation studio courses plus a minimum of two level II studio courses.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"T 0800-1100",
-		"Th 0800-1050"
-	],
 	"title": "Topics Seminar in Studio Art",
 	"type": "Topic",
 	"year": 2015

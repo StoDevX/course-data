@@ -1,22 +1,30 @@
 {
-	"clbid": 7022,
+	"clbid": "0000007022",
 	"credits": 1.0,
-	"crsid": 1860,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000001860",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 17,
 	"name": "Eur Sem: Early Modern",
 	"number": 309,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 514",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 514",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

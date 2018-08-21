@@ -1,21 +1,30 @@
 {
-	"clbid": 19151,
+	"clbid": "0000019151",
 	"credits": 1.0,
-	"crsid": 1660,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 21,
+	"crsid": "0000001660",
+	"department": "ENGL",
+	"enrolled": 21,
 	"instructors": [
 		"Jan C. Hill"
 	],
 	"level": 100,
-	"locations": [
-		"M 1"
-	],
 	"max": 19,
 	"name": "College English",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 1",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 1",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

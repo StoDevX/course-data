@@ -1,21 +1,36 @@
 {
-	"clbid": 24542,
+	"clbid": "0000024542",
 	"credits": 1.0,
-	"crsid": 1757,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 14,
+	"crsid": "0000001757",
+	"department": "GERM",
+	"enrolled": 14,
 	"instructors": [
 		"Frederike Von Schwerin-High"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 999,
 	"name": "Writing German",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

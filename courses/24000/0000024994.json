@@ -1,21 +1,30 @@
 {
-	"clbid": 24994,
+	"clbid": "0000024994",
 	"credits": 1.0,
-	"crsid": 1364,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 8,
+	"crsid": "0000001364",
+	"department": "SWRK",
+	"enrolled": 8,
 	"instructors": [
 		"Naurine Lennox"
 	],
 	"level": 200,
-	"locations": [
-		"L 577"
-	],
 	"max": 15,
 	"name": "Social Work Methds II",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 577",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

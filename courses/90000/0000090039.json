@@ -1,22 +1,25 @@
 {
-	"clbid": 90039,
+	"clbid": "0000090039",
 	"credits": 0.0,
-	"crsid": 101,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 15,
-	"groupid": 100,
+	"crsid": "0000000101",
+	"department": "BIO",
+	"enrolled": 15,
+	"groupid": "0000000100",
 	"instructors": [
 		"Alyson Center"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 19,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 454",
+			"start": "08:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"Th 0850-1050"
-	],
 	"type": "Lab",
 	"year": 2013
 }

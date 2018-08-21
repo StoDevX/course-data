@@ -1,22 +1,36 @@
 {
-	"clbid": 26247,
+	"clbid": "0000026247",
 	"credits": 1.0,
-	"crsid": 159,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 9,
+	"crsid": "0000000159",
+	"department": "BIO",
+	"enrolled": 9,
 	"instructors": [
 		"Amy Jessen-Marshall"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 229"
-	],
 	"max": 12,
 	"name": "Molecular Biology",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Mo",
+			"end": "15:55",
+			"location": "SC 229",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100",
-		"M 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

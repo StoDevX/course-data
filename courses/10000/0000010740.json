@@ -1,22 +1,30 @@
 {
-	"clbid": 10740,
+	"clbid": "0000010740",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 24,
+	"crsid": "0000000801",
+	"department": "MUSIC",
+	"enrolled": 24,
 	"instructors": [
 		"Margaret A. Rowland"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 18,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CHM 224",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

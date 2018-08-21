@@ -1,21 +1,36 @@
 {
-	"clbid": 346,
+	"clbid": "0000000346",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 27,
+	"crsid": "0000000731",
+	"department": "MATH",
+	"enrolled": 27,
 	"instructors": [
 		"Peder Bolstad"
 	],
 	"level": 100,
-	"locations": [
-		"M 1"
-	],
 	"max": 33,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 1",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 1",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 1",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

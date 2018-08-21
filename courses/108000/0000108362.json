@@ -1,22 +1,25 @@
 {
-	"clbid": 108362,
+	"clbid": "0000108362",
 	"credits": 0.0,
-	"crsid": 29283,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 8,
-	"groupid": 29265,
+	"crsid": "0000029283",
+	"department": "NURS",
+	"enrolled": 8,
+	"groupid": "0000029265",
 	"instructors": [
 		"Elizabeth Rodgers"
 	],
 	"level": 200,
-	"locations": [
-		"YTT 050B"
-	],
 	"max": 10,
 	"name": "Holistic Health Lab",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "12:00",
+			"location": "YTT 050B",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"Th 1000-1200PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

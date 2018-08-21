@@ -1,21 +1,30 @@
 {
-	"clbid": 16089,
+	"clbid": "0000016089",
 	"credits": 1.0,
-	"crsid": 651,
-	"departments": [
-		"FAMST"
-	],
-	"enroll": 72,
+	"crsid": "0000000651",
+	"department": "FAMST",
+	"enrolled": 72,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 501"
-	],
 	"max": 65,
 	"name": "Human Sexuality",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 501",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 501",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

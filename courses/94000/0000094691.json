@@ -1,14 +1,12 @@
 {
-	"clbid": 94691,
+	"clbid": "0000094691",
 	"credits": 0.25,
-	"crsid": 17677,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000017677",
+	"department": "DANCE",
 	"description": [
 		"Play is powerful in learning and creating. It engages, energizes, and enlightens. This class explores a range of physical activities designed to develop physical skill, confidence, and intelligence--all in the spirit of play. It incorporates activities for developing body organization and alignment while challenging students' imagination and creative sensibilities. Tumbling, terraining, contact improvisation, and ball play represent a few of the included activities. P/N only. Offered annually in the fall semester."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,13 +14,23 @@
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 3",
-		"CAD Studio 3"
-	],
 	"max": 25,
 	"name": "Power Play",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD Studio 3",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD Studio 3",
+			"start": "12:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20141,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

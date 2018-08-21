@@ -1,21 +1,30 @@
 {
-	"clbid": 22688,
+	"clbid": "0000022688",
 	"credits": 0.25,
-	"crsid": 1013,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 7,
+	"crsid": "0000001013",
+	"department": "PEAC",
+	"enrolled": 7,
 	"instructors": [
 		"Judith Tegtmeyer"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 20,
 	"name": "X-Country Ski/Cycling",
 	"number": 134,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC 140",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC 140",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,24 +1,33 @@
 {
-	"clbid": 58468,
+	"clbid": "0000058468",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001022",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"David A. Stromme"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 16,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 10615,
+	"clbid": "0000010615",
 	"credits": 1.0,
-	"crsid": 617,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 32,
+	"crsid": "0000000617",
+	"department": "HIST",
+	"enrolled": 32,
 	"instructors": [
 		"James Farrell"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307"
-	],
 	"max": 35,
 	"name": "Environmental History",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 307",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 307",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 307",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

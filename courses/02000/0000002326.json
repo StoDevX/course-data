@@ -1,21 +1,24 @@
 {
-	"clbid": 2326,
+	"clbid": "0000002326",
 	"credits": 1.0,
-	"crsid": 977,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 22,
+	"crsid": "0000000977",
+	"department": "PHIL",
+	"enrolled": 22,
 	"instructors": [
 		"Karen Gervais"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 22,
 	"name": "Biomedical Ethics",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 413",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

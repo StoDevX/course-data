@@ -1,14 +1,12 @@
 {
-	"clbid": 89167,
+	"clbid": "0000089167",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include multiple regression, model diagnostics, and logistic regression. The approach focuses on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Prerequisite: Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered each semester. May not take Statistics 110, Statistics 212, or Statistics 263 after completion of Statistics 272."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Kathryn Ziegler"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Modeling",
 	"notes": [
 		"Open to first-year students by permission only."
 	],
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Statistics 110 or 212 or 263, or equivalent preparation or permission of instructor. Offered each semester. May not take Statistics 110, Statistics 212, or Statistics 263 after completion of Statistics 272.",
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

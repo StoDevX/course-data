@@ -1,22 +1,17 @@
 {
-	"clbid": 119309,
+	"clbid": "0000119309",
 	"credits": 0.25,
-	"crsid": 31179,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000031179",
+	"department": "MUSIC",
 	"description": [
 		"This course introduces a systematic approach to the study of voice production for use in the studio or classroom. Students examine basic vocal anatomy and physiology approached through body mapping strategies. Students then apply these principles of vocal pedagogy to the child and adolescent voice with emphasis on the developing voice, establishing healthy vocal habits, appropriate teaching techniques, and literature. Counts towards BA music major and all BM majors. Required for BM vocal music education and BM vocal performance majors. Offered annually in fall semester. Prerequisite: at least three semesters of MUSPF 152: voice lessons, or permission of instructor."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Tracey M. Engleman",
 		"Anton Armstrong"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 17,
 	"name": "Vocal Development and Pedagogy",
 	"notes": [
@@ -25,6 +20,20 @@
 		"Course Material Fee will be $75."
 	],
 	"number": 291,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 239",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 239",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "at least three semesters of MUSPF 152: voice lessons, or permission of instructor.",
 	"revisions": [
@@ -58,14 +67,29 @@
 			"_updated": "2018-08-07T14:48:45.350944+00:00",
 			"enroll": "18",
 			"max": "17"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.176880+00:00",
+			"clbid": 119309,
+			"crsid": 31179,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"CHM 239"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

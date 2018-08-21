@@ -1,22 +1,25 @@
 {
-	"clbid": 96472,
+	"clbid": "0000096472",
 	"credits": 0.0,
-	"crsid": 1160,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 16,
-	"groupid": 1159,
+	"crsid": "0000001160",
+	"department": "PSYCH",
+	"enrolled": 16,
+	"groupid": "0000001159",
 	"instructors": [
 		"Jeremy Loebach"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 16,
 	"name": "Sensation/Perception Lab",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "13:45",
+			"location": "RNS 240",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"W 1045-0145PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

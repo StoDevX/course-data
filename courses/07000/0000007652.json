@@ -1,22 +1,30 @@
 {
-	"clbid": 7652,
+	"clbid": "0000007652",
 	"credits": 1.0,
-	"crsid": 84,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 17,
+	"crsid": "0000000084",
+	"department": "ASIAN",
+	"enrolled": 17,
 	"instructors": [
 		"Katherine S. Tegtmeyer Pak"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 20,
 	"name": "Rice & Society/E Asia",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 011",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 011",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

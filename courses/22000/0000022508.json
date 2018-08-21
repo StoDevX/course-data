@@ -1,21 +1,30 @@
 {
-	"clbid": 22508,
+	"clbid": "0000022508",
 	"credits": 1.0,
-	"crsid": 576,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 20,
+	"crsid": "0000000576",
+	"department": "HIST",
+	"enrolled": 20,
 	"instructors": [
 		"Robert Entenmann"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 36,
 	"name": "Global,1500-Present",
 	"number": 196,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

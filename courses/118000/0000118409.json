@@ -1,23 +1,31 @@
 {
-	"clbid": 118409,
+	"clbid": "0000118409",
 	"credits": 0.0,
-	"crsid": 27992,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 2,
-	"groupid": 27943,
+	"crsid": "0000027992",
+	"department": "MATH",
+	"enrolled": 2,
+	"groupid": "0000027943",
 	"instructors": [
 		"David P. Walmsley"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 206",
-		"RNS 206"
-	],
 	"max": 25,
 	"name": "Calc I with Review Lab",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 206",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 206",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,16 +64,33 @@
 			"_updated": "2018-08-07T14:48:44.693704+00:00",
 			"enroll": "2",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.823910+00:00",
+			"clbid": 118409,
+			"crsid": 27992,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 2,
+			"enrolled": null,
+			"groupid": 27943,
+			"locations": [
+				"RNS 206",
+				"RNS 206"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Lab",
 	"year": 2018
 }

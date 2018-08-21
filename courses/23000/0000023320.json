@@ -1,21 +1,30 @@
 {
-	"clbid": 23320,
+	"clbid": "0000023320",
 	"credits": 1.0,
-	"crsid": 1564,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 4,
+	"crsid": "0000001564",
+	"department": "CHIN",
+	"enrolled": 4,
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Chinese Class Lit-Tr",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 35",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 6675,
+	"clbid": "0000006675",
 	"credits": 0.5,
-	"crsid": 19,
-	"departments": [
-		"ART"
-	],
-	"enroll": 21,
+	"crsid": "0000000019",
+	"department": "ART",
+	"enrolled": 21,
 	"instructors": [
 		"Kristen Lowe"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 216",
-		"CAD 216"
-	],
 	"max": 24,
 	"name": "Found Perceptual Draw",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 216",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 216",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

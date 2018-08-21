@@ -1,21 +1,36 @@
 {
-	"clbid": 3216,
+	"clbid": "0000003216",
 	"credits": 1.0,
-	"crsid": 1952,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
+	"crsid": "0000001952",
+	"department": "MATH",
+	"enrolled": 19,
 	"instructors": [
 		"Julie M. Legler"
 	],
 	"level": 300,
-	"locations": [
-		"SC 130"
-	],
 	"max": 30,
 	"name": "Math Statistics",
 	"number": 312,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

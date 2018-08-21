@@ -1,21 +1,36 @@
 {
-	"clbid": 2846,
+	"clbid": "0000002846",
 	"credits": 1.0,
-	"crsid": 46,
-	"departments": [
-		"ART"
-	],
-	"enroll": 17,
+	"crsid": "0000000046",
+	"department": "ART",
+	"enrolled": 17,
 	"instructors": [
 		"Margaret Ojala"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 102"
-	],
 	"max": 20,
 	"name": "Photography",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CAD 102",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CAD 102",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CAD 102",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

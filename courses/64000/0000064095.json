@@ -1,14 +1,12 @@
 {
-	"clbid": 64095,
+	"clbid": "0000064095",
 	"credits": 0.25,
-	"crsid": 346,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000346",
+	"department": "DANCE",
 	"description": [
 		"Explore pulse and rhythm through a range of dance and movement activities, including African dance, tap dance, Latin dance, drumming, body percussion, and voice work. Investigate how body rhythms are established as we shift body weight, manipulate time, and emphasize a pulse. Explore the connections between rhythm, the innate instinct to follow rhythmic patterns in life, and the predisposition to generate our own rhythms. Join the beat!"
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2"
-	],
 	"max": 15,
 	"name": "The Beat Goes On",
 	"number": 105,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD Studio 2",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD Studio 2",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

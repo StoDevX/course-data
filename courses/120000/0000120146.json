@@ -1,14 +1,12 @@
 {
-	"clbid": 120146,
+	"clbid": "0000120146",
 	"credits": 1.0,
-	"crsid": 268,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000268",
+	"department": "ECON",
 	"description": [
 		"Students in this course learn and apply economic analysis, tempered by an appreciation for the political and institutional contexts of the less developed countries, to gain an understanding of these countries' economies. Using cases involving both written and oral analysis, students explore topics such as economic growth in Brazil, trade strategies in Singapore, poverty and income distribution in Taiwan, or macroeconomic performance in Mexico. Offered annually. Counts toward environmental studies major (social science emphasis) and Latin American studies major and concentration. Prerequisite: one of Economics 110-121 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"MCG",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Seth Binder"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 21,
 	"name": "Economic Development",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-121 or permission of instructor.",
 	"revisions": [
@@ -48,15 +63,30 @@
 			"_updated": "2018-08-07T14:48:48.725510+00:00",
 			"enroll": "0",
 			"max": "21"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.497423+00:00",
+			"clbid": 120146,
+			"crsid": 268,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

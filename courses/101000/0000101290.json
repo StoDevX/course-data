@@ -1,24 +1,39 @@
 {
-	"clbid": 101290,
+	"clbid": "0000101290",
 	"credits": 1.0,
-	"crsid": 505,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000505",
+	"department": "GERM",
 	"description": [
 		"Students continue to develop basic language skills with emphasis on expanding vocabulary and on writing assignments that aid in the practical application of grammatical concepts. Communicating in German about familiar personal topics, students acquire vocabulary about sports, food, holidays, school, the environment, and life in German speaking cultures. Prerequisite: GERM 111 or placement by test."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Lavern Rippley"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 308"
-	],
 	"max": 18,
 	"name": "Beginning German II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GERM 111 or placement by test.",
 	"revisions": [
@@ -55,9 +70,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2015
 }

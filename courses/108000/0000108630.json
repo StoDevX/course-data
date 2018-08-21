@@ -1,24 +1,39 @@
 {
-	"clbid": 108630,
+	"clbid": "0000108630",
 	"credits": 1.0,
-	"crsid": 1093,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001093",
+	"department": "PHYS",
 	"description": [
 		"This course utilizes integral and vector calculus in a thorough and analytic examination of classical electromagnetic theory and the physical laws on which it is based. Topics include electric and magnetic fields, macroscopic interaction of electromagnetism with matter, and the propagation of electromagnetic waves in various media. Students in this course are normally registered for PHYS 385 as well, in order to complete the requirements for the physics major. Offered annually in the spring semester. Prerequisites: PHYS 232, MATH 230, and either MATH 226 or MATH 330 or similar course upon approval of the department chair."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 12,
 	"name": "Maxwell's Equations",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 232, MATH 230, and either MATH 226 or MATH 330 or similar course upon approval of the department chair.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2016
 }

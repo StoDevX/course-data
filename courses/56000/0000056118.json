@@ -1,24 +1,39 @@
 {
-	"clbid": 56118,
+	"clbid": "0000056118",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential and logarithmic functions. Derivatives and integrals are explored graphically, symbolically and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Offered both semesters."
 	],
-	"enroll": 34,
+	"enrolled": 34,
 	"instructors": [
 		"Eric R. Ufferman"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374"
-	],
 	"max": 32,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics Placement Recommendation. Offered both semesters.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

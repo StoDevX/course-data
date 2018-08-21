@@ -1,22 +1,60 @@
 {
-	"clbid": 10812,
+	"clbid": "0000010812",
 	"credits": 1.0,
-	"crsid": 947,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 24,
+	"crsid": "0000000947",
+	"department": "NURS",
+	"enrolled": 24,
 	"instructors": [
 		"Carol H. Austin"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215",
-		"HH 215"
-	],
 	"max": 24,
 	"name": "Adult Health I",
 	"number": 308,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "12:30",
+			"location": "HH 215",
+			"start": "07:00"
+		},
+		{
+			"day": "We",
+			"end": "12:30",
+			"location": "HH 215",
+			"start": "07:00"
+		},
+		{
+			"day": "Th",
+			"end": "12:30",
+			"location": "HH 215",
+			"start": "07:00"
+		},
+		{
+			"day": "Fr",
+			"end": "12:30",
+			"location": "HH 215",
+			"start": "07:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +72,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 1045-1140",
-		"T-F 0700-1230PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

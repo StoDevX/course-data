@@ -1,21 +1,36 @@
 {
-	"clbid": 3809,
+	"clbid": "0000003809",
 	"credits": 1.0,
-	"crsid": 207,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 15,
+	"crsid": "0000000207",
+	"department": "CHEM",
+	"enrolled": 15,
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Physical Chemistry",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 374",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

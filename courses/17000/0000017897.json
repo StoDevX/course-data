@@ -1,21 +1,36 @@
 {
-	"clbid": 17897,
+	"clbid": "0000017897",
 	"credits": 1.0,
-	"crsid": 60,
-	"departments": [
-		"ART"
-	],
-	"enroll": 16,
+	"crsid": "0000000060",
+	"department": "ART",
+	"enrolled": 16,
 	"instructors": [
 		"Katherine Smith-Abbott"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 30,
 	"name": "Medieval",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "FH 01",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

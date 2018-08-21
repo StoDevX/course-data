@@ -1,28 +1,36 @@
 {
-	"clbid": 79722,
+	"clbid": "0000079722",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000762",
+	"department": "MATH",
 	"description": [
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Kaisa Taipale"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 186",
-		"TOH 186"
-	],
 	"max": 24,
 	"name": "Sem: Algebraic Geometry",
 	"notes": [
 		"Seniors must be pre-approved by MSCS chair for this course."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 186",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 186",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Mathematics",
 	"type": "Seminar",
 	"year": 2011

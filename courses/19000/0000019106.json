@@ -1,22 +1,31 @@
 {
-	"clbid": 19106,
+	"clbid": "0000019106",
 	"credits": 0.5,
-	"crsid": 330,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 19,
+	"crsid": "0000000330",
+	"department": "EDUC",
+	"enrolled": 19,
 	"halfcredit": "1",
 	"instructors": [
 		"Gloria J. Kiester"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Tchg Music-Mid/High S",
 	"number": 356,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 233",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

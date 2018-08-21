@@ -1,14 +1,12 @@
 {
-	"clbid": 110042,
+	"clbid": "0000110042",
 	"credits": 1.0,
-	"crsid": 21529,
-	"departments": [
-		"ID"
-	],
+	"crsid": "0000021529",
+	"department": "ID",
 	"description": [
 		"This course introduces students to the intellectual dimensions of cultures and traditions of the modern Middle East, focusing on the period from the late 18th century to the present. Students gain familiarity with significant moments, movements, voices, and trends in society, politics, architecture, and literature, and their interdependence. The course also acquaints students with intellectual debates and conflicts in and about the Middle East, and enables them to better think through those debates for themselves. Counts toward middle eastern studies concentration."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Ibtesam Al Atiyat"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 19,
 	"name": "Middle Eastern Studies",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 525",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 525",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,10 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Introduction to Modern Middle Eastern Studies",
 	"type": "Research",
 	"year": 2016

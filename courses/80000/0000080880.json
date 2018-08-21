@@ -1,14 +1,12 @@
 {
-	"clbid": 80880,
+	"clbid": "0000080880",
 	"credits": 1.0,
-	"crsid": 24266,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000024266",
+	"department": "HIST",
 	"description": [
 		"This course examines the environmental history of Latin America from ancient times to the present. Through readings and discussion, students explore topics such as pre-conquest indigenous agriculture, the environmental consequences of European colonization, Latin American understandings of nature, the Green Revolution, deforestation, questions of international environmental justice, and the growing links between the region's indigenous peoples and international environmental organizations. Offered annually. Counts toward environmental studies major (all tracks) and concentration, hispanic studies major and concentration, and Latin American/Latino studies concentration."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"MCG",
 		"ORC"
@@ -17,13 +15,23 @@
 		"Jeane DeLaney"
 	],
 	"level": 200,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 18,
 	"name": "Env History/Latin America",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 514",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Environmental History of Latin America",
 	"type": "Research",
 	"year": 2011

@@ -1,21 +1,36 @@
 {
-	"clbid": 20352,
+	"clbid": "0000020352",
 	"credits": 1.0,
-	"crsid": 505,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 17,
+	"crsid": "0000000505",
+	"department": "GERM",
+	"enrolled": 17,
 	"instructors": [
 		"Karl Fink"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 25,
 	"name": "Beginning German II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 31",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

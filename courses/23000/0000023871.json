@@ -1,21 +1,30 @@
 {
-	"clbid": 23871,
+	"clbid": "0000023871",
 	"credits": 1.0,
-	"crsid": 1307,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 20,
+	"crsid": "0000001307",
+	"department": "SOAN",
+	"enrolled": 20,
 	"instructors": [
 		"James Tallon"
 	],
 	"level": 200,
-	"locations": [
-		"M 30"
-	],
 	"max": 25,
 	"name": "Social Deviance",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 30",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 84337,
+	"clbid": "0000084337",
 	"credits": 1.0,
-	"crsid": 582,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000582",
+	"department": "HIST",
 	"description": [
 		"This course is a survey of Mediterranean civilization from the early history of Italy through the Roman Republic and Empire. Foreign Language Across the Curriculum course available in Latin. Offered most years. Counts towards ancient studies major."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Timothy R. Howe"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501",
-		"HH 501"
-	],
 	"max": 30,
 	"name": "Ancient: Rome",
 	"number": 204,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2012
 }

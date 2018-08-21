@@ -1,22 +1,25 @@
 {
-	"clbid": 95724,
+	"clbid": "0000095724",
 	"credits": 0.0,
-	"crsid": 26715,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 19,
-	"groupid": 26714,
+	"crsid": "0000026715",
+	"department": "BIO",
+	"enrolled": 19,
+	"groupid": "0000026714",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"max": 18,
 	"name": "Cell Biology Lab",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 394",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2014
 }

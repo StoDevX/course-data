@@ -1,21 +1,30 @@
 {
-	"clbid": 20560,
+	"clbid": "0000020560",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001011",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC WR RM"
-	],
 	"max": 20,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "SAC WR RM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

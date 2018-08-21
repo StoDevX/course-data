@@ -1,22 +1,25 @@
 {
-	"clbid": 57634,
+	"clbid": "0000057634",
 	"credits": 0.0,
-	"crsid": 1079,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 15,
-	"groupid": 1078,
+	"crsid": "0000001079",
+	"department": "PHYS",
+	"enrolled": 15,
+	"groupid": "0000001078",
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 159"
-	],
 	"max": 16,
 	"name": "Analytical II/Lab",
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:25",
+			"location": "SC 159",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,9 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"M 1255-0325PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

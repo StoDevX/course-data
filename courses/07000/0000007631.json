@@ -1,22 +1,30 @@
 {
-	"clbid": 7631,
+	"clbid": "0000007631",
 	"credits": 1.0,
-	"crsid": 67,
-	"departments": [
-		"ART"
-	],
-	"enroll": 17,
+	"crsid": "0000000067",
+	"department": "ART",
+	"enrolled": 17,
 	"instructors": [
 		"Nancy M. Thompson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 18,
 	"name": "Women in Art",
 	"number": 277,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 204",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 204",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

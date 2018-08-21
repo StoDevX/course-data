@@ -1,21 +1,36 @@
 {
-	"clbid": 16401,
+	"clbid": "0000016401",
 	"credits": 1.0,
-	"crsid": 1182,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 8,
+	"crsid": "0000001182",
+	"department": "PSYCH",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"H 206"
-	],
 	"max": 15,
 	"name": "Comparative Psych",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "H 206",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "H 206",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "H 206",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

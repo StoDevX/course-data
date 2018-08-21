@@ -1,21 +1,36 @@
 {
-	"clbid": 245,
+	"clbid": "0000000245",
 	"credits": 1.0,
-	"crsid": 456,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 14,
+	"crsid": "0000000456",
+	"department": "ENVST",
+	"enrolled": 14,
 	"instructors": [
 		"J. Patrick Dale"
 	],
 	"level": 200,
-	"locations": [
-		"M 1"
-	],
 	"max": 24,
 	"name": "Global Env Politics",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 1",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 1",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 1",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2000
 }

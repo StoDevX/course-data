@@ -1,21 +1,36 @@
 {
-	"clbid": 20675,
+	"clbid": "0000020675",
 	"credits": 1.0,
-	"crsid": 2274,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 16,
+	"crsid": "0000002274",
+	"department": "PSYCH",
+	"enrolled": 16,
 	"instructors": [
 		"Howard Thorsheim"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 25,
 	"name": "Prin: Experimental Psy",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 307",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

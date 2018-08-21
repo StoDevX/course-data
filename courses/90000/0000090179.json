@@ -1,14 +1,12 @@
 {
-	"clbid": 90179,
+	"clbid": "0000090179",
 	"credits": 1.0,
-	"crsid": 295,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000295",
+	"department": "CSCI",
 	"description": [
 		"The software we design has real effects in people's lives. This course explores the ethical and social considerations inherent in computer-based systems, develops skills in thinking about those considerations and in collecting data to determine their effects, and expands students' abilities to integrate these issues and skills into software development procedures, largely through an extensive team analysis of a \"live\" software project. Coursework uses extended case studies and surveys topics such as professional and ethical responsibilities, risk, liability, intellectual property, privacy, and computer crime. Prerequisites: Computer Science 251 and completion of BTS-T, or permission of instructor. Offered annually."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"EIN",
 		"ORC"
@@ -17,16 +15,26 @@
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 19,
 	"name": "Ethical Iss: Software",
 	"notes": [
 		"Prerequisite: Completion of BTS-T or permission of instructor."
 	],
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 290",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 290",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 251 and completion of BTS-T, or permission of instructor. Offered annually.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Ethical Issues in Software Design",
 	"type": "Research",
 	"year": 2013

@@ -1,14 +1,12 @@
 {
-	"clbid": 73656,
+	"clbid": "0000073656",
 	"credits": 1.0,
-	"crsid": 198,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000198",
+	"department": "CHEM",
 	"description": [
 		"Students study the structure, bonding, and reactions of compounds containing metal-carbon bonds. Special topics include applications of organometallic chemistry to the synthesis of organic compounds, homogeneous catalysis, and biochemistry. Examples illustrate organometallic chemistry as a bridge between organic and inorganic chemistry. Students use bibliographic and electronic searching software to prepare research papers based on the current literature. Prerequisite: Chemistry 247. Offered during interim."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,41 @@
 		"Gary Miessler"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 20,
 	"name": "Organometallic Chem",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 435",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 435",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 435",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 435",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "RNS 435",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 247. Offered during interim.",
 	"revisions": [
@@ -43,9 +70,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20102,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"title": "Organometallic Chemistry",
 	"type": "Research",
 	"year": 2010

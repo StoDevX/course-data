@@ -1,25 +1,33 @@
 {
-	"clbid": 75174,
+	"clbid": "0000075174",
 	"credits": 1.0,
-	"crsid": 754,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000754",
+	"department": "MATH",
 	"description": [
 		"Complex analysis treats the calculus of complex-valued functions of a complex variable. Familiar words and ideas from ordinary calculus (limit, derivative, integral, maximum and minimum, infinite series) reappear in the complex setting. Topics include complex mappings, derivatives, and integrals; applications focus especially on the physical sciences. Prerequisite: Mathematics 220, and Mathematics 226 or 244. Offered annually."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Paul Zorn"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 206",
-		"RNS 206"
-	],
 	"max": 24,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 206",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 206",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 220, and Mathematics 226 or 244. Offered annually.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

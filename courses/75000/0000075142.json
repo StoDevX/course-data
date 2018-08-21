@@ -1,14 +1,12 @@
 {
-	"clbid": 75142,
+	"clbid": "0000075142",
 	"credits": 1.0,
-	"crsid": 21544,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000021544",
+	"department": "HIST",
 	"description": [
 		"This seminar examines one of history's most dramatic episodes: the Spanish conquest and colonization of what is now Latin America. Through reading and discussion, students examine such topics as European and indigenous perceptions of the Conquest, the role of missionaries, the imperial enterprise, the response of native peoples to the imposition of Christianity, indigenous efforts to resist Spanish domination, the ecological/biological consequences of 1492, and subsequent debates over the morality of the conquest. Offered periodically."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"MCG",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Jeane DeLaney"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 19,
 	"name": "Conquest and Colonization",
 	"notes": [
 		"Open to first-year students only."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 515",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

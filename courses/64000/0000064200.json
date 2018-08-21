@@ -1,14 +1,12 @@
 {
-	"clbid": 64200,
+	"clbid": "0000064200",
 	"credits": 1.0,
-	"crsid": 1233,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001233",
+	"department": "REL",
 	"description": [
 		"Students explore the religious significance of selected works of literature and examine how literary plot, character, symbolism and theme raise religious questions, reveal ethical concerns and imply theological convictions. Prerequisite: BTS-B."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,29 @@
 		"John Barbour"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 30,
 	"name": "Religion & Literature",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 110",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Religion and Literature",
 	"type": "Research",
 	"year": 2008

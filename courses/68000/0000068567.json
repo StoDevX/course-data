@@ -1,14 +1,12 @@
 {
-	"clbid": 68567,
+	"clbid": "0000068567",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001191",
+	"department": "REL",
 	"description": [
 		"This course introduces first-year students to the dialogue between the Biblical tradition and the cultures and communities related to it. Students study the Biblical storyline, major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"BTS-B"
 	],
@@ -16,13 +14,23 @@
 		"Mara H. Benjamin"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 19,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 111",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "BMC 111",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Bible in Culture and Community",
 	"type": "Research",
 	"year": 2009

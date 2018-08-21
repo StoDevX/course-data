@@ -1,21 +1,24 @@
 {
-	"clbid": 25304,
+	"clbid": "0000025304",
 	"credits": 0.25,
-	"crsid": 209,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 10,
+	"crsid": "0000000209",
+	"department": "CHEM",
+	"enrolled": 10,
 	"instructors": [
 		"Jeffrey Dahlseid"
 	],
 	"level": 300,
-	"locations": [
-		"SC 344"
-	],
 	"max": 10,
 	"name": "Experimental Biochem",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:20",
+			"location": "SC 344",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19991,
-	"times": [
-		"M 0120-0520PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 18094,
+	"clbid": "0000018094",
 	"credits": 0.25,
-	"crsid": 347,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 16,
+	"crsid": "0000000347",
+	"department": "DNCTE",
+	"enrolled": 16,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"SAC"
-	],
 	"max": 20,
 	"name": "Ballroom I (Men)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "SAC",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "SAC",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

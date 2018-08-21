@@ -1,21 +1,30 @@
 {
-	"clbid": 18381,
+	"clbid": "0000018381",
 	"credits": 1.0,
-	"crsid": 994,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 10,
+	"crsid": "0000000994",
+	"department": "PHIL",
+	"enrolled": 10,
 	"instructors": [
 		"Rick A. Fairbanks"
 	],
 	"level": 300,
-	"locations": [
-		"H 302"
-	],
 	"max": 18,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 1126,
+	"clbid": "0000001126",
 	"credits": 1.0,
-	"crsid": 266,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 17,
+	"crsid": "0000000266",
+	"department": "ECON",
+	"enrolled": 17,
 	"instructors": [
 		"Bruce Dalgaard"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Econ Develop in Japan",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 15",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,22 +1,37 @@
 {
-	"clbid": 49165,
+	"clbid": "0000049165",
 	"credits": 0.0,
-	"crsid": 191,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 22,
-	"groupid": 190,
+	"crsid": "0000000191",
+	"department": "CHEM",
+	"enrolled": 22,
+	"groupid": "0000000190",
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 24,
 	"name": "A Matter of Environ Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "SC 371",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "SC 371",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SC 371",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20052,
-	"times": [
-		"TWTh 1230-0330PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

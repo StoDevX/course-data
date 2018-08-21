@@ -1,21 +1,24 @@
 {
-	"clbid": 20096,
+	"clbid": "0000020096",
 	"credits": 0.0,
-	"crsid": 135,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000135",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 227"
-	],
 	"max": 12,
 	"name": "Plant Physiology",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 227",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"Th 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

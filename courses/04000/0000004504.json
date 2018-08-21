@@ -1,21 +1,48 @@
 {
-	"clbid": 4504,
+	"clbid": "0000004504",
 	"credits": 1.0,
-	"crsid": 226,
-	"departments": [
-		"CLASS"
-	],
-	"enroll": 14,
+	"crsid": "0000000226",
+	"department": "CLASS",
+	"enrolled": 14,
 	"instructors": [
 		"Jon Bruss"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031"
-	],
 	"max": 30,
 	"name": "Alexander the Great",
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "OM 031",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "OM 031",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "OM 031",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "OM 031",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "OM 031",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20022,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

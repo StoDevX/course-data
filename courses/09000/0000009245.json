@@ -1,21 +1,24 @@
 {
-	"clbid": 9245,
+	"clbid": "0000009245",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 23,
+	"crsid": "0000000200",
+	"department": "CHEM",
+	"enrolled": 23,
 	"instructors": [
 		"Gary O. Spessard"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 16,
 	"name": "Synthesis Lab",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 378/311",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

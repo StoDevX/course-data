@@ -1,21 +1,30 @@
 {
-	"clbid": 24730,
+	"clbid": "0000024730",
 	"credits": 1.0,
-	"crsid": 2139,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 7,
+	"crsid": "0000002139",
+	"department": "PARA",
+	"enrolled": 7,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 14,
 	"name": "Ethics/Post-Mod World",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

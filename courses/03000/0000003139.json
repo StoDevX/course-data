@@ -1,21 +1,36 @@
 {
-	"clbid": 3139,
+	"clbid": "0000003139",
 	"credits": 1.0,
-	"crsid": 557,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 22,
+	"crsid": "0000000557",
+	"department": "HIST",
+	"enrolled": 22,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 23,
 	"name": "Europe/Great War",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 113864,
+	"clbid": "0000113864",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"Kosmas Diveris"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 206"
-	],
 	"max": 20,
 	"name": "Calculus II",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 206",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
 	"revisions": [
@@ -69,9 +84,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

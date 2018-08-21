@@ -1,21 +1,24 @@
 {
-	"clbid": 22242,
+	"clbid": "0000022242",
 	"credits": 1.0,
-	"crsid": 172,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 5,
+	"crsid": "0000000172",
+	"department": "BIO",
+	"enrolled": 5,
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 300,
-	"locations": [
-		"SC 210"
-	],
 	"max": 16,
 	"name": "Top: Stress Biology",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 210",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Topic",
 	"year": 1997
 }

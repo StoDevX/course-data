@@ -1,22 +1,30 @@
 {
-	"clbid": 7934,
+	"clbid": "0000007934",
 	"credits": 1.0,
-	"crsid": 486,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 17,
+	"crsid": "0000000486",
+	"department": "FREN",
+	"enrolled": 17,
 	"instructors": [
 		"Wendy Allen"
 	],
 	"level": 200,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 18,
 	"name": "Fr World: Maghreb",
 	"number": 271,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 026",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 026",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

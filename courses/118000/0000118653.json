@@ -1,22 +1,25 @@
 {
-	"clbid": 118653,
+	"clbid": "0000118653",
 	"credits": 0.0,
-	"crsid": 103,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 18,
-	"groupid": 102,
+	"crsid": "0000000103",
+	"department": "BIO",
+	"enrolled": 18,
+	"groupid": "0000000102",
 	"instructors": [
 		"Beth Pettitt"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Human Biology Lab",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 254",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +50,31 @@
 		{
 			"_updated": "2018-08-09T03:33:25.351549+00:00",
 			"enroll": 17
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.205227+00:00",
+			"clbid": 118653,
+			"crsid": 103,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"groupid": 102,
+			"locations": [
+				"RNS 254"
+			],
+			"offerings": null,
+			"times": [
+				"W 0800-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"W 0800-1000"
-	],
 	"type": "Lab",
 	"year": 2018
 }

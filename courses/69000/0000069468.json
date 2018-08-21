@@ -1,14 +1,12 @@
 {
-	"clbid": 69468,
+	"clbid": "0000069468",
 	"credits": 0.25,
-	"crsid": 1018,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001018",
+	"department": "ESAC",
 	"description": [
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"MFH Wt Rm"
-	],
 	"max": 24,
 	"name": "Wt Training-Women",
 	"number": 142,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "MFH Wt Rm",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "MFH Wt Rm",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MW 0905-1000"
-	],
 	"title": "Weight Training Women",
 	"type": "Research",
 	"year": 2009

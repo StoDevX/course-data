@@ -1,26 +1,28 @@
 {
-	"clbid": 59301,
+	"clbid": "0000059301",
 	"credits": 0.0,
-	"crsid": 18827,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 25,
-	"groupid": 18802,
+	"crsid": "0000018827",
+	"department": "CH/BI",
+	"enrolled": 25,
+	"groupid": "0000018802",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 211"
-	],
 	"max": 28,
 	"name": "Integr Chem/Bio III Lab",
 	"notes": [
 		"Students in CH/BI 127 must also register for lab CH/BI 127 L."
 	],
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 211",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +40,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2007
 }

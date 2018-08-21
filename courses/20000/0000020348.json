@@ -1,21 +1,30 @@
 {
-	"clbid": 20348,
+	"clbid": "0000020348",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 22,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 22,
 	"instructors": [
 		"John T. Day"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 19,
 	"name": "First Year Seminar",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

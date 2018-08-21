@@ -1,22 +1,42 @@
 {
-	"clbid": 26209,
+	"clbid": "0000026209",
 	"credits": 1.0,
-	"crsid": 100,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
+	"crsid": "0000000100",
+	"department": "BIO",
+	"enrolled": 24,
 	"instructors": [
 		"Daniel Meinhardt"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Biological Science",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Tu",
+			"end": "17:00",
+			"location": "SC 273",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000",
-		"T 0300-0500PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 108769,
+	"clbid": "0000108769",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 18,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 18,
+	"groupid": "0000001074",
 	"instructors": [
 		"Brianna S. Thomas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 18,
 	"name": "Principles Physics II Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:15",
+			"location": "RNS 292",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -67,9 +70,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"Th 1245-0315PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

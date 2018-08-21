@@ -1,28 +1,36 @@
 {
-	"clbid": 103170,
+	"clbid": "0000103170",
 	"credits": 1.0,
-	"crsid": 297,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000297",
+	"department": "CSCI",
 	"description": [
 		"Students study features commonly found in computer programming languages and construct their own interpreters for an example programming language incorporating various language features they study throughout the course. Topics include programming language semantics, programming language translation, parsing, implementation of control structures and memory structures, abstraction mechanisms, and language translation systems and types. Offered alternate years. Counts toward linguistic studies and management studies concentrations. Prerequisites: CSCI 241 and CSCI 251, or permission of instructor."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 19,
 	"name": "Programming Languages",
 	"notes": [
 		"Open only to declared Computer Science majors."
 	],
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 203",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 203",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CSCI 241 and CSCI 251, or permission of instructor.",
 	"revisions": [
@@ -68,10 +76,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2015
 }

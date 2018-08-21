@@ -1,21 +1,30 @@
 {
-	"clbid": 3026,
+	"clbid": "0000003026",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 22,
+	"crsid": "0000000351",
+	"department": "DNCTE",
+	"enrolled": 22,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD STUDIO 3"
-	],
 	"max": 16,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD STUDIO 3",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD STUDIO 3",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

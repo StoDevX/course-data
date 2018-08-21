@@ -1,14 +1,12 @@
 {
-	"clbid": 120606,
+	"clbid": "0000120606",
 	"credits": 1.0,
-	"crsid": 968,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000968",
+	"department": "PHIL",
 	"description": [
 		"Is there anything about the human mind that cannot in principle be understood scientifically? Are we just complex physical machines? This course looks at recent attempts to answer such questions. Students examine the philosophical foundations of various approaches to the study of the mind and consider the possible moral and social implications of these approaches with respect to questions of free will, personal identity, and our responsibility for our actions. Offered annually. Counts toward neuroscience concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Danny Munoz-Hutchinson"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Philosophy of Mind",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:48.992461+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.172607+00:00",
+			"clbid": 120606,
+			"crsid": 968,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

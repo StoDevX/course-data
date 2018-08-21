@@ -1,21 +1,30 @@
 {
-	"clbid": 22689,
+	"clbid": "0000022689",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001015",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"John Dyste"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 20,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

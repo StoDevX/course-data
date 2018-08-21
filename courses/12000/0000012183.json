@@ -1,24 +1,39 @@
 {
-	"clbid": 12183,
+	"clbid": "0000012183",
 	"credits": 1.0,
-	"crsid": 972,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000972",
+	"department": "PHIL",
 	"description": [
 		"Students explore propositional and predicate logic developed in a philosophical context with attention to such issues as truth and knowledge in logic and mathematics, the existence of abstract entities, paradoxes, multi-valued logics and the use of logic in philosophy. Offered every year."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Vicki L. Harper"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 25,
 	"name": "Formal Logic & Phil",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "BMC 101",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Formal Logic and Philosophy",
 	"type": "Research",
 	"year": 2005

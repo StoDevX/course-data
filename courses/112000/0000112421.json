@@ -1,14 +1,12 @@
 {
-	"clbid": 112421,
+	"clbid": "0000112421",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000734",
+	"department": "MATH",
 	"description": [
 		"This course covers the material in MATH 126 in greater depth and breadth. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered annually in the fall semester. Prerequisite: 4 or 5 on AP Calculus AB exam or permission of the Mathematics Placement Director."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Kosmas Diveris"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 186"
-	],
 	"max": 20,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 186",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "4 or 5 on AP Calculus AB exam or permission of the Mathematics Placement Director.",
 	"revisions": [
@@ -48,9 +63,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2017
 }

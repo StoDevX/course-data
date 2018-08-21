@@ -1,14 +1,12 @@
 {
-	"clbid": 103142,
+	"clbid": "0000103142",
 	"credits": 1.0,
-	"crsid": 722,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000722",
+	"department": "LATIN",
 	"description": [
 		"Rome's greatest orator, Cicero, was also its greatest prose stylist and the author most responsible for supplying Latin with philosophical vocabulary. Selections from his philosophical, rhetorical, and oratorical works show the range of his talents and help demonstrate the development of Latin prose style. Offered periodically. Counts toward ancient studies and medieval studies majors. Prerequisite: LATIN 231 or equivalent."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,13 +14,23 @@
 		"James May"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 300",
-		"TOH 300"
-	],
 	"max": 19,
 	"name": "Cicero & Latin Prose",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 300",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 300",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 231 or equivalent.",
 	"revisions": [
@@ -69,10 +77,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Cicero and Latin Prose",
 	"type": "Research",
 	"year": 2015

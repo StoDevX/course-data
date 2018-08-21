@@ -1,21 +1,36 @@
 {
-	"clbid": 18170,
+	"clbid": "0000018170",
 	"credits": 1.0,
-	"crsid": 480,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 23,
+	"crsid": "0000000480",
+	"department": "FREN",
+	"enrolled": 23,
 	"instructors": [
 		"Wendy Allen"
 	],
 	"level": 200,
-	"locations": [
-		"M 30"
-	],
 	"max": 25,
 	"name": "Intermed French II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1073,
+	"clbid": "0000001073",
 	"credits": 1.0,
-	"crsid": 177,
-	"departments": [
-		"AMCON"
-	],
-	"enroll": 22,
+	"crsid": "0000000177",
+	"department": "AMCON",
+	"enrolled": 22,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 999,
 	"name": "Dem Vistas: 1800-1900",
 	"number": 102,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 48196,
+	"clbid": "0000048196",
 	"credits": 0.0,
-	"crsid": 16243,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 8,
-	"groupid": 946,
+	"crsid": "0000016243",
+	"department": "NURS",
+	"enrolled": 8,
+	"groupid": "0000000946",
 	"instructors": [
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215"
-	],
 	"max": 8,
 	"name": "Health Assessment Lab",
 	"number": 306,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:30",
+			"location": "HH 215",
+			"start": "15:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"Th 0330-0530PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

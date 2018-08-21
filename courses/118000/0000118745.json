@@ -1,22 +1,25 @@
 {
-	"clbid": 118745,
+	"clbid": "0000118745",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
-	"groupid": 122,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 24,
+	"groupid": "0000000122",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 294"
-	],
 	"max": 22,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 294",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,15 +58,31 @@
 			"_updated": "2018-08-07T14:48:45.044337+00:00",
 			"enroll": "24",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.409973+00:00",
+			"clbid": 118745,
+			"crsid": 123,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 24,
+			"enrolled": null,
+			"groupid": 122,
+			"locations": [
+				"RNS 294"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0800-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,24 +1,33 @@
 {
-	"clbid": 103419,
+	"clbid": "0000103419",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"This course is a continuation of CHEM 253. Students gain more experience with techniques used in CHEM 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Offered annually in the spring semester. Counts toward environmental studies major (natural science emphasis). Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Aubrey Ellison"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 24,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 340",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 340",
+			"start": "12:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20145,
-	"times": [
-		"TTh 1230-0330PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2014

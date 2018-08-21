@@ -1,22 +1,30 @@
 {
-	"clbid": 49314,
+	"clbid": "0000049314",
 	"credits": 1.0,
-	"crsid": 16235,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 15,
+	"crsid": "0000016235",
+	"department": "MATH",
+	"enrolled": 15,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 0,
 	"name": "Modern Computational Math",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

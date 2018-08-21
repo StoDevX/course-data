@@ -1,22 +1,31 @@
 {
-	"clbid": 17250,
+	"clbid": "0000017250",
 	"credits": 1.0,
-	"crsid": 2095,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 4,
+	"crsid": "0000002095",
+	"department": "PARA",
+	"enrolled": 4,
 	"instructors": [
 		"Jonathan Hill",
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [
-		"YH 130"
-	],
 	"max": 5,
 	"name": "Hum: 19th Century",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "YH 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "YH 130",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

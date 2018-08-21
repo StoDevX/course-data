@@ -1,21 +1,30 @@
 {
-	"clbid": 20836,
+	"clbid": "0000020836",
 	"credits": 1.0,
-	"crsid": 1331,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 23,
+	"crsid": "0000001331",
+	"department": "SPAN",
+	"enrolled": 23,
 	"instructors": [
 		"Michael Hasbrouck"
 	],
 	"level": 200,
-	"locations": [
-		"M 31"
-	],
 	"max": 25,
 	"name": "Cult & Civ of Spain",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 31",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 31",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

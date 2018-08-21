@@ -1,22 +1,42 @@
 {
-	"clbid": 6736,
+	"clbid": "0000006736",
 	"credits": 1.0,
-	"crsid": 134,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 6,
+	"crsid": "0000000134",
+	"department": "BIO",
+	"enrolled": 6,
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 227"
-	],
 	"max": 12,
 	"name": "Plant Physiology",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "Mo",
+			"end": "15:55",
+			"location": "SC 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140",
-		"M 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 16234,
+	"clbid": "0000016234",
 	"credits": 1.0,
-	"crsid": 991,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 4,
+	"crsid": "0000000991",
+	"department": "PHIL",
+	"enrolled": 4,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"L 277"
-	],
 	"max": 15,
 	"name": "Top: Phil of Language",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 277",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 277",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Topic",
 	"year": 1994
 }

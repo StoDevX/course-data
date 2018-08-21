@@ -1,14 +1,12 @@
 {
-	"clbid": 120501,
+	"clbid": "0000120501",
 	"credits": 1.0,
-	"crsid": 417,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000417",
+	"department": "ENGL",
 	"description": [
 		"Students critically examine a variety of national, metro, and local media. Students then learn to write their own news copy, including hard news, features, editorials, arts and entertainment reviews, sports, business, and travel stories. Students also learn UPI/AP style copy editing and proofreading, important skills for students applying for internships and print media jobs. Offered periodically. Counts toward management studies and media studies concentrations. Prerequisites: FYW and at least sophomore status."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Jennifer Kwon Dobbs"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 15,
 	"name": "Journalistic Writing",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: FYW and at least sophomore status.",
 	"revisions": [
@@ -46,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:48.938618+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.039982+00:00",
+			"clbid": 120501,
+			"crsid": 417,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 25560,
+	"clbid": "0000025560",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 20,
+	"crsid": "0000000748",
+	"department": "MATH",
+	"enrolled": 20,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 999,
 	"name": "Probability Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 129",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 129",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 129",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

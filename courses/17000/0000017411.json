@@ -1,21 +1,30 @@
 {
-	"clbid": 17411,
+	"clbid": "0000017411",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 7,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 7,
 	"instructors": [
 		"Dana Gross"
 	],
 	"level": 300,
-	"locations": [
-		"M 30"
-	],
 	"max": 24,
 	"name": "Sem: Bilingualism",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 30",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

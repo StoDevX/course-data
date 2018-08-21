@@ -1,14 +1,12 @@
 {
-	"clbid": 109708,
+	"clbid": "0000109708",
 	"credits": 1.0,
-	"crsid": 720,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000720",
+	"department": "LATIN",
 	"description": [
 		"The writings of Sallust, Livy, and Tacitus provide breathtaking views of ancient Rome and memorable vignettes from the city's colorful history. Extended passages from the historians' works, read in Latin, form the basis for a survey of Roman historiography and of historical writing in general. Offered periodically. Counts toward ancient studies and medieval studies majors. Prerequisite: LATIN 231 or equivalent."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,13 +14,23 @@
 		"Christopher M. Brunelle"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 314",
-		"TOH 314"
-	],
 	"max": 19,
 	"name": "Latin Historians",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 314",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 314",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 231 or equivalent.",
 	"revisions": [
@@ -55,10 +63,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2016
 }

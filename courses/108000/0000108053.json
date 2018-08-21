@@ -1,14 +1,12 @@
 {
-	"clbid": 108053,
+	"clbid": "0000108053",
 	"credits": 0.5,
-	"crsid": 364,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000364",
+	"department": "DANCE",
 	"description": [
 		"This course offers a further exploration of ballet vocabulary and technique for the advanced dancer with an emphasis on clarity, intention, and musicality. Offered each semester. Prerequisite: DANCE 221. Open to dance majors and other students with instructor's permission."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Jennifer Bader"
 	],
 	"level": 300,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 5,
 	"name": "Ballet III",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD Studio 2",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 221. Open to dance majors and other students with instructor's permission.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2016
 }

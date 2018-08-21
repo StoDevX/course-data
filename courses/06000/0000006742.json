@@ -1,22 +1,42 @@
 {
-	"clbid": 6742,
+	"clbid": "0000006742",
 	"credits": 1.0,
-	"crsid": 142,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
+	"crsid": "0000000142",
+	"department": "BIO",
+	"enrolled": 11,
 	"instructors": [
 		"Louis Henry Kermott"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 253"
-	],
 	"max": 16,
 	"name": "Comp Vertebrate Anat",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 253",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855",
-		"Th 0800-1100"
-	],
 	"type": "Research",
 	"year": 2003
 }

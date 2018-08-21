@@ -1,23 +1,26 @@
 {
-	"clbid": 61327,
+	"clbid": "0000061327",
 	"credits": 0.0,
-	"crsid": 107,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
-	"groupid": 106,
+	"crsid": "0000000107",
+	"department": "BIO",
+	"enrolled": 22,
+	"groupid": "0000000106",
 	"grouptype": "1",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 24,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:25",
+			"location": "RNS 255",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"M 1255-0325PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

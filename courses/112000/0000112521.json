@@ -1,14 +1,12 @@
 {
-	"clbid": 112521,
+	"clbid": "0000112521",
 	"credits": 0.25,
-	"crsid": 1023,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001023",
+	"department": "ESAC",
 	"description": [
 		"This course is for students who can already serve, score, play the net, and know basic singles and doubles strategy. Prerequisite: ESAC 157, or permission of instructor."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,16 +15,26 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH",
-		"SAC FH"
-	],
 	"max": 16,
 	"name": "Intermediate Tennis",
 	"notes": [
 		"This is a first-half of semester course."
 	],
 	"number": 158,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC FH",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC FH",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ESAC 157, or permission of instructor.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2017
 }

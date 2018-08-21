@@ -1,21 +1,30 @@
 {
-	"clbid": 9359,
+	"clbid": "0000009359",
 	"credits": 0.25,
-	"crsid": 347,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 23,
+	"crsid": "0000000347",
+	"department": "DNCTE",
+	"enrolled": 23,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_1"
-	],
 	"max": 14,
 	"name": "Ballroom I (Women)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD _STUDIO_1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD _STUDIO_1",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

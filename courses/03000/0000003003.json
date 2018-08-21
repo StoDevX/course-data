@@ -1,21 +1,24 @@
 {
-	"clbid": 3003,
+	"clbid": "0000003003",
 	"credits": 0.5,
-	"crsid": 1624,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 14,
+	"crsid": "0000001624",
+	"department": "EDUC",
+	"enrolled": 14,
 	"instructors": [
 		"Olivia Frey"
 	],
 	"level": 300,
-	"locations": [
-		"L 515"
-	],
 	"max": 999,
 	"name": "Teaching of Reading",
 	"number": 346,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "21:00",
+			"location": "L 515",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"T 0600-0900PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

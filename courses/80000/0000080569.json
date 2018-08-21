@@ -1,14 +1,12 @@
 {
-	"clbid": 80569,
+	"clbid": "0000080569",
 	"credits": 1.0,
-	"crsid": 514,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000514",
+	"department": "GERM",
 	"description": [
 		"This course is designed to teach speaking strategies and bring students to an Intermediate-High level of oral proficiency through practice in everyday communication such as telling stories, giving reports, and organizing social events. The course focuses on higher-order functions such as paragraph-length narration, presenting opinions, small group discussion, and formal presentations, as well as interviews, debates, and regular group conversations with classroom guests and speakers. Taught in German. Prerequisite: German 232 or equivalent."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"FOL-G",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Karen R. Achberger"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 212"
-	],
 	"max": 15,
 	"name": "Speaking German",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 212",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 212",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 212",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "German 232 or equivalent.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20111,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

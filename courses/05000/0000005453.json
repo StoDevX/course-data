@@ -1,22 +1,30 @@
 {
-	"clbid": 5453,
+	"clbid": "0000005453",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001327",
+	"department": "SPAN",
+	"enrolled": 17,
 	"instructors": [
 		"Juliet A. Lynd"
 	],
 	"level": 200,
-	"locations": [
-		"OM 021",
-		"OM 021"
-	],
 	"max": 23,
 	"name": "Intermed Spanish II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 021",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 021",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,22 +1,37 @@
 {
-	"clbid": 23722,
+	"clbid": "0000023722",
 	"credits": 0.5,
-	"crsid": 2222,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 14,
+	"crsid": "0000002222",
+	"department": "PETH",
+	"enrolled": 14,
 	"halfcredit": "2",
 	"instructors": [
 		"Kenneth Pratt"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 24,
 	"name": "Psychology of Sport",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC 140",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC 140",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC 140",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

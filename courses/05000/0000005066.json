@@ -1,22 +1,30 @@
 {
-	"clbid": 5066,
+	"clbid": "0000005066",
 	"credits": 1.0,
-	"crsid": 1869,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000001869",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Steven C. Hahn"
 	],
 	"level": 300,
-	"locations": [
-		"RML 577",
-		"RML 577"
-	],
 	"max": 18,
 	"name": "Us Sem: Am Revolution",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 577",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 577",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2002
 }

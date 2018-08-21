@@ -1,22 +1,17 @@
 {
-	"clbid": 96483,
+	"clbid": "0000096483",
 	"credits": 1.0,
-	"crsid": 292,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000292",
+	"department": "CSCI",
 	"description": [
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and structured collaborative software-development methodology. Concepts and skills are applied in a substantial team project. Topics include object-oriented programming, specification, programmed memory management, indirect addressing, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Counts toward mathematical biology concentration; one of CSCI 121, CSCI 125, CSCI 251 counts toward linguistic studies concentration. Offered each semester.Prerequisite: CSCI 121 or CSCI 125 or CSCI 241 or PHYS 130 or MATH 252 or permission of instructor; concurrent registration in CSCI 252 is required."
 	],
-	"enroll": 19,
-	"groupid": 292,
+	"enrolled": 19,
+	"groupid": "0000000292",
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 25,
 	"name": "Software Design",
 	"notes": [
@@ -24,6 +19,26 @@
 		"Students in CSCI 251 must also register for one lab CSCI 252 AL or BL or CL."
 	],
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CSCI 121 or CSCI 125 or CSCI 241 or PHYS 130 or MATH 252 or permission of instructor; concurrent registration in CSCI 252 is required.",
 	"revisions": [
@@ -51,9 +66,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Software Design and Implementation",
 	"type": "Research",
 	"year": 2014

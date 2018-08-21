@@ -1,21 +1,36 @@
 {
-	"clbid": 24019,
+	"clbid": "0000024019",
 	"credits": 0.0,
-	"crsid": 186,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000186",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371/374"
-	],
 	"max": 24,
 	"name": "Chem-Life's Beg/Lab",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "SC 371/374",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "SC 371/374",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SC 371/374",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19982,
-	"times": [
-		"MTTh 1230-0330PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 115448,
+	"clbid": "0000115448",
 	"credits": 0.0,
-	"crsid": 19223,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 13,
-	"groupid": 19222,
+	"crsid": "0000019223",
+	"department": "BIO",
+	"enrolled": 13,
+	"groupid": "0000019222",
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 14,
 	"name": "Biology of Reproduction Lab",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 254",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,9 +65,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"M 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

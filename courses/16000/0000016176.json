@@ -1,21 +1,36 @@
 {
-	"clbid": 16176,
+	"clbid": "0000016176",
 	"credits": 1.0,
-	"crsid": 832,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 17,
+	"crsid": "0000000832",
+	"department": "MUSIC",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 35,
 	"name": "Hist & Lit Music II",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 233",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 233",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 233",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

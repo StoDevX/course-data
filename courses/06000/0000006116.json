@@ -1,21 +1,36 @@
 {
-	"clbid": 6116,
+	"clbid": "0000006116",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 25,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 25,
 	"instructors": [
 		"Edmund Santurri"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

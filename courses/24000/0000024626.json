@@ -1,21 +1,36 @@
 {
-	"clbid": 24626,
+	"clbid": "0000024626",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 12,
+	"crsid": "0000000736",
+	"department": "MATH",
+	"enrolled": 12,
 	"instructors": [
 		"Martha Wallace"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1998
 }

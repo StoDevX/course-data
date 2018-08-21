@@ -1,21 +1,42 @@
 {
-	"clbid": 2785,
+	"clbid": "0000002785",
 	"credits": 1.0,
-	"crsid": 1287,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 26,
+	"crsid": "0000001287",
+	"department": "SOAN",
+	"enrolled": 26,
 	"instructors": [
 		"Thomas A. Williamson"
 	],
 	"level": 100,
-	"locations": [
-		"L 177"
-	],
 	"max": 25,
 	"name": "Modern Elixirs",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "L 177",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "L 177",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "L 177",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "L 177",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +54,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20012,
-	"times": [
-		"M-Th 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

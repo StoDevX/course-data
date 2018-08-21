@@ -1,21 +1,36 @@
 {
-	"clbid": 23214,
+	"clbid": "0000023214",
 	"credits": 1.0,
-	"crsid": 1512,
-	"departments": [
-		"ART"
-	],
-	"enroll": 13,
+	"crsid": "0000001512",
+	"department": "ART",
+	"enrolled": 13,
 	"instructors": [
 		"Wendell Arneson"
 	],
 	"level": 300,
-	"locations": [
-		"FH 40"
-	],
 	"max": 999,
 	"name": "Painting II",
 	"number": 331,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "FH 40",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "FH 40",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "FH 40",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

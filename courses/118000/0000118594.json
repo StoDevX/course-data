@@ -1,25 +1,20 @@
 {
-	"clbid": 118594,
+	"clbid": "0000118594",
 	"credits": 1.0,
-	"crsid": 187,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000187",
+	"department": "CHEM",
 	"description": [
 		"This course provides a study of chemical stoichiometry and equilibrium at a level and pace appropriate to students with little or no background in chemistry. The combination of this course and CHEM 123 (offered during Interim) provides coverage of topics equivalent to those in CHEM 125. Students planning to continue in chemistry should consider concurrent registration in MATH 119 or MATH 120. Students attend three classes and one three-hour laboratory per week. Offered annually in the fall semester."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 187,
+	"groupid": "0000000187",
 	"instructors": [
 		"Adam Dittmer"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 390"
-	],
 	"max": 30,
 	"name": "General Chemistry",
 	"notes": [
@@ -28,6 +23,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 390",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,15 +71,31 @@
 		{
 			"_updated": "2018-08-15T03:34:59.990439+00:00",
 			"enroll": 0
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.087836+00:00",
+			"clbid": 118594,
+			"crsid": 187,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 1,
+			"enrolled": null,
+			"groupid": 187,
+			"locations": [
+				"RNS 390"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

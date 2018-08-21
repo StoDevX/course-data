@@ -1,24 +1,39 @@
 {
-	"clbid": 94047,
+	"clbid": "0000094047",
 	"credits": 1.0,
-	"crsid": 1092,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001092",
+	"department": "PHYS",
 	"description": [
 		"This course is an analytical and computational study of Newtonian mechanics, including the harmonic oscillator, central force motion, non-linear oscillators, chaos, and an introduction to the Lagrangian formulation. Students use computers extensively. Prerequisites: PHYS 232 and MATH 230. Offered annually in the fall semester."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 20,
 	"name": "Classical Mechanics",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 297",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 297",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 297",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 232 and MATH 230. Offered annually in the fall semester.",
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2014
 }

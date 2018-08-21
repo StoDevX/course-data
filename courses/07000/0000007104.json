@@ -1,21 +1,36 @@
 {
-	"clbid": 7104,
+	"clbid": "0000007104",
 	"credits": 1.0,
-	"crsid": 780,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 25,
+	"crsid": "0000000780",
+	"department": "MGMT",
+	"enrolled": 25,
 	"instructors": [
 		"Rhonda H. Rekstad"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011"
-	],
 	"max": 30,
 	"name": "Entrepreneurship",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,25 +1,33 @@
 {
-	"clbid": 12039,
+	"clbid": "0000012039",
 	"credits": 1.0,
-	"crsid": 655,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000655",
+	"department": "FAMST",
 	"description": [
 		"This capstone seminar required of all majors focuses on the major exploration of current research and the intgration of key foundation disciplines in the study of families. Students will explore topics through assigned readings and lecture material."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Sharon Powell"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 25,
 	"name": "Senior Sem: Spec Topic",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 102",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 102",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Senior Seminar: Special Topics",
 	"type": "Research",
 	"year": 2005

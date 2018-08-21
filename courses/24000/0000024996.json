@@ -1,21 +1,30 @@
 {
-	"clbid": 24996,
+	"clbid": "0000024996",
 	"credits": 1.0,
-	"crsid": 1371,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 11,
+	"crsid": "0000001371",
+	"department": "SWRK",
+	"enrolled": 11,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 300,
-	"locations": [
-		"SC 184"
-	],
 	"max": 15,
 	"name": "Social Worker as Prof",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "SC 184",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0100PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 80501,
+	"clbid": "0000080501",
 	"credits": 0.0,
-	"crsid": 137,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 14,
-	"groupid": 136,
+	"crsid": "0000000137",
+	"department": "BIO",
+	"enrolled": 14,
+	"groupid": "0000000136",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 455"
-	],
 	"max": 15,
 	"name": "Plant Morphology Lab",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 455",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"W 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

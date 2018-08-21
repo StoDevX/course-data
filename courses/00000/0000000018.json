@@ -1,21 +1,30 @@
 {
-	"clbid": 18,
+	"clbid": "0000000018",
 	"credits": 1.0,
-	"crsid": 35,
-	"departments": [
-		"ART"
-	],
-	"enroll": 11,
+	"crsid": "0000000035",
+	"department": "ART",
+	"enrolled": 11,
 	"instructors": [
 		"John Saurer"
 	],
 	"level": 200,
-	"locations": [
-		"FH 18"
-	],
 	"max": 12,
 	"name": "Sculpt: Metal Casting",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 18",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 18",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

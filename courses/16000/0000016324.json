@@ -1,21 +1,24 @@
 {
-	"clbid": 16324,
+	"clbid": "0000016324",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 159"
-	],
 	"max": 16,
 	"name": "Phenomenologic I/Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 159",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"T 0830-1100"
-	],
 	"type": "Lab",
 	"year": 1994
 }

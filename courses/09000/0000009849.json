@@ -1,22 +1,37 @@
 {
-	"clbid": 9849,
+	"clbid": "0000009849",
 	"credits": 1.0,
-	"crsid": 1181,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
+	"crsid": "0000001181",
+	"department": "PSYCH",
+	"enrolled": 18,
 	"instructors": [
 		"Hussein J. Rajput",
 		"Marit S. Lysne"
 	],
 	"level": 300,
-	"locations": [
-		"HH 515"
-	],
 	"max": 18,
 	"name": "Psych of Counseling",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2004
 }

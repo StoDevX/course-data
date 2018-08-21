@@ -1,21 +1,30 @@
 {
-	"clbid": 193,
+	"clbid": "0000000193",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 16,
+	"crsid": "0000000351",
+	"department": "DNCTE",
+	"enrolled": 16,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 14,
 	"name": "Modern Dance I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 140",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 140",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

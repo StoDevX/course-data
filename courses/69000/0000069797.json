@@ -1,14 +1,12 @@
 {
-	"clbid": 69797,
+	"clbid": "0000069797",
 	"credits": 1.0,
-	"crsid": 230,
-	"departments": [
-		"CLASS"
-	],
+	"crsid": "0000000230",
+	"department": "CLASS",
 	"description": [
 		"Students journey back to the 5th century B.C., as the Athenians emerge triumphant from the Persian Wars and develop the \"Golden Age\" of Greece. Studying the history, literature, and art of ancient Athens helps students understand the uniqueness of that city-state and its lasting contributions to Western civilization. Offered alternate years."
 	],
-	"enroll": 40,
+	"enrolled": 40,
 	"gereqs": [
 		"ALS-L",
 		"HWC"
@@ -17,13 +15,23 @@
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"HH 403",
-		"HH 403"
-	],
 	"max": 40,
 	"name": "Golden Age Greece-Tr",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 403",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 403",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Golden Age of Greece",
 	"type": "Research",
 	"year": 2009

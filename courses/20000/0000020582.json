@@ -1,21 +1,30 @@
 {
-	"clbid": 20582,
+	"clbid": "0000020582",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 12,
+	"crsid": "0000001022",
+	"department": "PEAC",
+	"enrolled": 12,
 	"instructors": [
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 20,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC FH",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC FH",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

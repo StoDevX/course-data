@@ -1,22 +1,37 @@
 {
-	"clbid": 9769,
+	"clbid": "0000009769",
 	"credits": 0.5,
-	"crsid": 1050,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 17,
+	"crsid": "0000001050",
+	"department": "PETH",
+	"enrolled": 17,
 	"halfcredit": "2",
 	"instructors": [
 		"Christopher J. Meidt"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Intro to Coaching",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

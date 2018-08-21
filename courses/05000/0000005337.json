@@ -1,21 +1,36 @@
 {
-	"clbid": 5337,
+	"clbid": "0000005337",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 118,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 118,
 	"instructors": [
 		"Leilani Endicott"
 	],
 	"level": 100,
-	"locations": [
-		"HH 501"
-	],
 	"max": 120,
 	"name": "Principles: Psych",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 501",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 501",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 501",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

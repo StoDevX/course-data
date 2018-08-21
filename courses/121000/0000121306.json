@@ -1,15 +1,12 @@
 {
-	"clbid": 121306,
+	"clbid": "0000121306",
 	"credits": 1.0,
-	"crsid": 1234,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001234",
+	"department": "AS/RE",
 	"description": [
 		"Students examine contemporary Buddhist moral teachings on social issues such as violence and peacemaking, human rights and social justice, and humanity and the environment. Coursework focuses on the writings of Vietnamese monk and peace activist Thich Nhat Hanh, Tibetan leader-in-exile Tenzin Gyatso (Fourteenth Dalai Lama), American ecologist Joanna Macy, and others. Students consider the moral paradigms of Christianity and Buddhism: Christ and the Bodhisattva. Prerequisite: BTS-T or permission of instructor."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"EIN"
 	],
@@ -17,9 +14,6 @@
 		"Barbara Reed"
 	],
 	"level": 200,
-	"locations": [
-		"OM 240"
-	],
 	"max": 19,
 	"name": "Buddhism, Peace, Justice",
 	"notes": [
@@ -27,6 +21,26 @@
 		"Open only to rising seniors and juniors during web registration."
 	],
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 240",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 240",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 240",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-T or permission of instructor.",
 	"revisions": [
@@ -53,15 +67,31 @@
 			"_updated": "2018-08-07T14:48:45.381053+00:00",
 			"enroll": "18",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.241435+00:00",
+			"clbid": 121306,
+			"crsid": 1234,
+			"department": null,
+			"departments": [
+				"ASIAN",
+				"REL"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"OM 240"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Buddhism, Peace and Justice",
 	"type": "Research",
 	"year": 2018

@@ -1,22 +1,30 @@
 {
-	"clbid": 49313,
+	"clbid": "0000049313",
 	"credits": 1.0,
-	"crsid": 684,
-	"departments": [
-		"IS"
-	],
-	"enroll": 9,
+	"crsid": "0000000684",
+	"department": "IS",
+	"enrolled": 9,
 	"instructors": [
 		"Mary Titus"
 	],
 	"level": 200,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 0,
 	"name": "Top: Vietnam/Amer War",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 514",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 514",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Topic",
 	"year": 2005
 }

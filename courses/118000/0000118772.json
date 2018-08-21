@@ -1,24 +1,45 @@
 {
-	"clbid": 118772,
+	"clbid": "0000118772",
 	"credits": 1.0,
-	"crsid": 381,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000381",
+	"department": "WRIT",
 	"description": [
 		"This course guides multilingual international students through the conventions of U.S. academic culture and discourse with emphasis on liberal arts education. Students practice reading, writing, speaking, and listening to develop skills and confidence in college writing. The course also includes extensive discussion of academic integrity and responsible use of information. Students must pass the course with a grade of C or higher in order to enroll in WRIT 111. Offered in the fall semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Anne G. Berry"
 	],
 	"level": 100,
-	"locations": [
-		"TB 227"
-	],
 	"max": 12,
 	"name": "Intro/Academic Wri",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TB 227",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TB 227",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TB 227",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "20:00",
+			"location": "TB 227",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -84,16 +105,31 @@
 			"_updated": "2018-08-07T14:48:45.069861+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.492348+00:00",
+			"clbid": 118772,
+			"crsid": 381,
+			"department": null,
+			"departments": [
+				"WRIT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB 227"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM",
+				"Th 0700-0800PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM",
-		"Th 0700-0800PM"
-	],
 	"title": "Introduction to Academic Writing",
 	"type": "Research",
 	"year": 2018

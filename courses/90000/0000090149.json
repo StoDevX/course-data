@@ -1,24 +1,39 @@
 {
-	"clbid": 90149,
+	"clbid": "0000090149",
 	"credits": 1.0,
-	"crsid": 740,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000740",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential equations and analytical, numerical, and graphical techniques for the analysis of their solutions. First- and second-order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology, and physics. Laplace transforms or nonlinear systems may be covered as time permits. Students use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered each semester. Counts toward neuroscience concentration."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Thomas St. George"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 22,
 	"name": "Differential Equations I",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 126 or 128 and 220. Offered each semester. Counts toward neuroscience concentration.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

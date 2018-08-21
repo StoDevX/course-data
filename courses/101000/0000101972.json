@@ -1,14 +1,12 @@
 {
-	"clbid": 101972,
+	"clbid": "0000101972",
 	"credits": 1.0,
-	"crsid": 29,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000029",
+	"department": "ART",
 	"description": [
 		"This course introduces students to analog and digital photographic processes as means for creating works of art. Students learn terminology and critical approaches to photography. The course includes presentations on concepts and photographers' works, discussions of articles, and regular critiques. Students are introduced to the history of the medium through presentations, readings, and hands-on work such as constructing a camera obscura. Students develop critical skills and the ability to analyze and interpret photographic work. Materials fee. Offered each semester. Counts toward media studies concentration."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,16 +14,26 @@
 		"Margaret Ojala"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 102",
-		"CAD 102"
-	],
 	"max": 13,
 	"name": "Photography",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 205,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 102",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 102",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,10 +62,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0800-1100",
-		"Th 0800-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

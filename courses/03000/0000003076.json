@@ -1,21 +1,30 @@
 {
-	"clbid": 3076,
+	"clbid": "0000003076",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 16,
+	"crsid": "0000000452",
+	"department": "ENGL",
+	"enrolled": 16,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 300,
-	"locations": [
-		"L 520"
-	],
 	"max": 999,
 	"name": "Major Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 520",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 520",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

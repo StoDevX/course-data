@@ -1,24 +1,33 @@
 {
-	"clbid": 86205,
+	"clbid": "0000086205",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"This course is a continuation of Chemistry 253. Students gain more experience with techniques used in Chemistry 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track)."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Cassidy R. Terrell"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 999,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 5,
 	"status": "C",
 	"term": 20115,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2011

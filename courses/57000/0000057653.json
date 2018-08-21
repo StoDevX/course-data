@@ -1,24 +1,39 @@
 {
-	"clbid": 57653,
+	"clbid": "0000057653",
 	"credits": 0.25,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000800",
+	"department": "MUSIC",
 	"description": [
 		"Building on principles learned in 111, students encounter more advanced rhythmic patterns, tonal melodies and chord progressions. Prerequisites: Music 111 and 113. Offered Spring Semester."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 20,
 	"name": "Aural Skills II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Music 111 and 113. Offered Spring Semester.",
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2007
 }

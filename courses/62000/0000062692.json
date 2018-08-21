@@ -1,14 +1,12 @@
 {
-	"clbid": 62692,
+	"clbid": "0000062692",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001191",
+	"department": "REL",
 	"description": [
 		"This course introduces first-year students to the dialogue between the Biblical tradition and the cultures and communities related to it. Students study the Biblical storyline, major Biblical texts and their interaction with (e.g.) theology, religious practice, ethics and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"BTS-B"
 	],
@@ -16,13 +14,23 @@
 		"Peder J. Jothen"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 19,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 102",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 102",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Bible in Culture and Community",
 	"type": "Research",
 	"year": 2008

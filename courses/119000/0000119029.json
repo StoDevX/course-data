@@ -1,14 +1,12 @@
 {
-	"clbid": 119029,
+	"clbid": "0000119029",
 	"credits": 1.0,
-	"crsid": 973,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000973",
+	"department": "PHIL",
 	"description": [
 		"This course is a philosophical inquiry into the core commitments of Christian theism in the context of other world religions and naturalism. Central themes include beliefs about the existence and nature of God, the doctrines of the trinity and incarnation, redemption and ritual, human free will and responsibility, revelation and reason, religious experience, the problem of evil, different views of life after death, miracles and historical inquiry, and religious pluralism. Offered annually. Prerequisite: BTS-B."
 	],
-	"enroll": 51,
+	"enrolled": 51,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,12 +14,29 @@
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501"
-	],
 	"max": 40,
 	"name": "Philosophical Theology",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 501",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 501",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 501",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -67,15 +82,30 @@
 			"_updated": "2018-08-07T14:48:45.219254+00:00",
 			"enroll": "51",
 			"max": "40"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.871344+00:00",
+			"clbid": 119029,
+			"crsid": 973,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 51,
+			"enrolled": null,
+			"locations": [
+				"HH 501"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

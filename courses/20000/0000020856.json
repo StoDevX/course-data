@@ -1,21 +1,30 @@
 {
-	"clbid": 20856,
+	"clbid": "0000020856",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 20,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 20,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

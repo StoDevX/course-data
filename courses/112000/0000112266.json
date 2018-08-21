@@ -1,14 +1,12 @@
 {
-	"clbid": 112266,
+	"clbid": "0000112266",
 	"credits": 1.0,
-	"crsid": 453,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000453",
+	"department": "ENVST",
 	"description": [
 		"This American environmental history course explores the social construction of nature in the 21st century, looking at the roots (both natural and cultural) of contemporary environmental issues. To figure out what nature means to us now, students study the history of stuff, the culture of grasslands and lawns, the changing character of the city and the country, the nature of the suburbs, the conservation and preservation movements, different energy ecologies, the nature of TV, the contemporary environmental movement, and alternative ecological practices. They also use the St. Olaf campus as a case study of environmental design. Offered annually. Counts toward American studies major."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Mark Allister"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 26,
 	"name": "Culture of Nature",
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Culture of Nature",
 	"type": "Research",
 	"year": 2017

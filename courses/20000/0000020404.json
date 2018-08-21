@@ -1,21 +1,36 @@
 {
-	"clbid": 20404,
+	"clbid": "0000020404",
 	"credits": 1.0,
-	"crsid": 1875,
-	"departments": [
-		"FAMST"
-	],
-	"enroll": 9,
+	"crsid": "0000001875",
+	"department": "FAMST",
+	"enrolled": 9,
 	"instructors": [
 		"Rebecca A. Benedict"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 24,
 	"name": "Nutrit & Food Choices",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

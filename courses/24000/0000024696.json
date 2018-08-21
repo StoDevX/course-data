@@ -1,21 +1,30 @@
 {
-	"clbid": 24696,
+	"clbid": "0000024696",
 	"credits": 0.25,
-	"crsid": 843,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 12,
+	"crsid": "0000000843",
+	"department": "MUSIC",
+	"enrolled": 12,
 	"instructors": [
 		"Alison J. Feldt"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Vocal Solo Lit II",
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 233",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 233",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

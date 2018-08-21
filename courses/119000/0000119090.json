@@ -1,27 +1,42 @@
 {
-	"clbid": 119090,
+	"clbid": "0000119090",
 	"credits": 1.0,
-	"crsid": 748,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000748",
+	"department": "MATH",
 	"description": [
 		"This course introduces the mathematics of randomness. Topics include probabilities on discrete and continuous sample spaces, conditional probability and Bayes' Theorem, random variables, expectation and variance, distributions (including binomial, Poisson, geometric, normal, exponential, and gamma) and the Central Limit Theorem. Students use computers to explore these topics. Offered each semester. Counts toward management studies concentration. Prerequisite: MATH 126 or MATH 128."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"instructors": [
 		"Bruce E. Pell"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 186"
-	],
 	"max": 20,
 	"name": "Probability Theory",
 	"notes": [
 		"Open to first-year students with permission of department chair."
 	],
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 186",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 186",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 186",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128.",
 	"revisions": [
@@ -60,14 +75,29 @@
 			"_updated": "2018-08-07T14:48:45.251575+00:00",
 			"enroll": "22",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.947850+00:00",
+			"clbid": 119090,
+			"crsid": 748,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"TOH 186"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

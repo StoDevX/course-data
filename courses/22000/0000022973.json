@@ -1,21 +1,30 @@
 {
-	"clbid": 22973,
+	"clbid": "0000022973",
 	"credits": 1.0,
-	"crsid": 2471,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 17,
+	"crsid": "0000002471",
+	"department": "THEAT",
+	"enrolled": 17,
 	"instructors": [
 		"Kathleen Edelmayer"
 	],
 	"level": 200,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 26,
 	"name": "Small Group Commun",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SPT 227",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SPT 227",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1997
 }

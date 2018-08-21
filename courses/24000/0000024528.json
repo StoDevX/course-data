@@ -1,21 +1,30 @@
 {
-	"clbid": 24528,
+	"clbid": "0000024528",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 19,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 19,
 	"instructors": [
 		"Phyllis Hyland Larson"
 	],
 	"level": 100,
-	"locations": [
-		"L 277"
-	],
 	"max": 18,
 	"name": "First Year Seminar",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 277",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 277",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

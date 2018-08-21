@@ -1,22 +1,25 @@
 {
-	"clbid": 69222,
+	"clbid": "0000069222",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 22,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 22,
+	"groupid": "0000001074",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 22,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:55",
+			"location": "RNS 292",
+			"start": "14:25"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 0225-0455PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

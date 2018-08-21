@@ -1,22 +1,42 @@
 {
-	"clbid": 6728,
+	"clbid": "0000006728",
 	"credits": 1.0,
-	"crsid": 119,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
+	"crsid": "0000000119",
+	"department": "BIO",
+	"enrolled": 24,
 	"instructors": [
 		"Stephen Cronin"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 263"
-	],
 	"max": 20,
 	"name": "Microbiology",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 263",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140",
-		"W 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

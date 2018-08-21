@@ -1,21 +1,36 @@
 {
-	"clbid": 23761,
+	"clbid": "0000023761",
 	"credits": 1.0,
-	"crsid": 1136,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 9,
+	"crsid": "0000001136",
+	"department": "PSCI",
+	"enrolled": 9,
 	"instructors": [
 		"Rodney G. Grubb"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 30,
 	"name": "Foreign Policy",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 15775,
+	"clbid": "0000015775",
 	"credits": 0.0,
-	"crsid": 109,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000109",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 211"
-	],
 	"max": 24,
 	"name": "Organismic Biol/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "SC 211",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"T 0800-1030"
-	],
 	"type": "Lab",
 	"year": 1994
 }

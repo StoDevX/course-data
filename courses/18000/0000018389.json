@@ -1,21 +1,30 @@
 {
-	"clbid": 18389,
+	"clbid": "0000018389",
 	"credits": 0.25,
-	"crsid": 1001,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 13,
+	"crsid": "0000001001",
+	"department": "PEAC",
+	"enrolled": 13,
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 100,
-	"locations": [
-		"SAC CTR GYM"
-	],
 	"max": 20,
 	"name": "Basketball",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC CTR GYM",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC CTR GYM",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 1347,
+	"clbid": "0000001347",
 	"credits": 1.0,
-	"crsid": 645,
-	"departments": [
-		"HSPST"
-	],
-	"enroll": 14,
+	"crsid": "0000000645",
+	"department": "HSPST",
+	"enrolled": 14,
 	"instructors": [
 		"David Schodt"
 	],
 	"level": 300,
-	"locations": [
-		"M 4"
-	],
 	"max": 20,
 	"name": "Contemp Lat Amer ISS",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 4",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 4",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

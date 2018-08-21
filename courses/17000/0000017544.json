@@ -1,21 +1,36 @@
 {
-	"clbid": 17544,
+	"clbid": "0000017544",
 	"credits": 1.0,
-	"crsid": 1360,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 10,
+	"crsid": "0000001360",
+	"department": "SWRK",
+	"enrolled": 10,
 	"instructors": [
 		"David Kuchera"
 	],
 	"level": 200,
-	"locations": [
-		"YH 130"
-	],
 	"max": 999,
 	"name": "Hum Behav in Soc Env",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "YH 130",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "YH 130",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "YH 130",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

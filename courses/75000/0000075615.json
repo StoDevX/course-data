@@ -1,25 +1,33 @@
 {
-	"clbid": 75615,
+	"clbid": "0000075615",
 	"credits": 1.0,
-	"crsid": 1095,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001095",
+	"department": "PHYS",
 	"description": [
 		"How do macroscopic variables (e.g. energy, pressure) develop through the collision or interaction of microscopic objects? Why is the spread of disease in an orchard similar to a piece of iron becoming magnetized? Students study classical and quantum gases, followed by magnets and phase transitions (Ising Model, percolation, renormalization) and employ both analytical and computer methods (Monte-Carlo sampling, simulations, molecular dynamics). Prerequisite: Physics 244. Offered alternate years."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297",
-		"RNS 297"
-	],
 	"max": 26,
 	"name": "Statistical Physics",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 297",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 297",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physics 244. Offered alternate years.",
 	"revisions": [
@@ -53,10 +61,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

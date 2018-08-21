@@ -1,21 +1,36 @@
 {
-	"clbid": 26192,
+	"clbid": "0000026192",
 	"credits": 1.0,
-	"crsid": 61,
-	"departments": [
-		"ART"
-	],
-	"enroll": 50,
+	"crsid": "0000000061",
+	"department": "ART",
+	"enrolled": 50,
 	"instructors": [
 		"A. Malcolm Gimse"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 50,
 	"name": "Art of India/SE Asia",
 	"number": 265,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "FH 01",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "FH 01",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "FH 01",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 7440,
+	"clbid": "0000007440",
 	"credits": 1.0,
-	"crsid": 1378,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 21,
+	"crsid": "0000001378",
+	"department": "THEAT",
+	"enrolled": 21,
 	"instructors": [
 		"Dona W. Freeman"
 	],
 	"level": 100,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 18,
 	"name": "Beginning Acting",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TB Haugen",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB Haugen",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

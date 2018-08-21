@@ -1,21 +1,30 @@
 {
-	"clbid": 16446,
+	"clbid": "0000016446",
 	"credits": 1.0,
-	"crsid": 1242,
-	"departments": [
-		"REL"
-	],
-	"enroll": 15,
+	"crsid": "0000001242",
+	"department": "REL",
+	"enrolled": 15,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 30,
 	"name": "Hist Chr Thought II",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CH 111",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CH 111",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

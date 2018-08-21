@@ -1,21 +1,36 @@
 {
-	"clbid": 22933,
+	"clbid": "0000022933",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 24,
+	"crsid": "0000001325",
+	"department": "SPAN",
+	"enrolled": 24,
 	"instructors": [
 		"Maggie Broner"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 4",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 4",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 4",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

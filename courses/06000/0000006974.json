@@ -1,22 +1,42 @@
 {
-	"clbid": 6974,
+	"clbid": "0000006974",
 	"credits": 1.0,
-	"crsid": 513,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 11,
+	"crsid": "0000000513",
+	"department": "GERM",
+	"enrolled": 11,
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035",
-		"VIKING_THTR"
-	],
 	"max": 40,
 	"name": "German Cinema",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 035",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 035",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 035",
+			"start": "09:05"
+		},
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "VIKING_THTR",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000",
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

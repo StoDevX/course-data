@@ -1,21 +1,36 @@
 {
-	"clbid": 18025,
+	"clbid": "0000018025",
 	"credits": 1.0,
-	"crsid": 1573,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 26,
+	"crsid": "0000001573",
+	"department": "ECON",
+	"enrolled": 26,
 	"instructors": [
 		"Mary Ann Emery"
 	],
 	"level": 200,
-	"locations": [
-		"H 301"
-	],
 	"max": 30,
 	"name": "Principles of Acct",
 	"number": 225,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

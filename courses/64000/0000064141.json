@@ -1,11 +1,9 @@
 {
-	"clbid": 64141,
+	"clbid": "0000064141",
 	"credits": 1.0,
-	"crsid": 17201,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 29,
+	"crsid": "0000017201",
+	"department": "HIST",
+	"enrolled": 29,
 	"gereqs": [
 		"HWC",
 		"MCD"
@@ -14,12 +12,29 @@
 		"Eric J. Fure-Slocum"
 	],
 	"level": 200,
-	"locations": [
-		"OM 031"
-	],
 	"max": 32,
 	"name": "Top: Wal-Mart America",
 	"number": 297,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 031",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Topical Seminar",
 	"type": "Research",
 	"year": 2008

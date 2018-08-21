@@ -1,21 +1,30 @@
 {
-	"clbid": 15897,
+	"clbid": "0000015897",
 	"credits": 1.0,
-	"crsid": 1612,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 23,
+	"crsid": "0000001612",
+	"department": "CSCI",
+	"enrolled": 23,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Prin Computer Sci I",
 	"number": 172,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

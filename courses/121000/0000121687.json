@@ -1,14 +1,12 @@
 {
-	"clbid": 121687,
+	"clbid": "0000121687",
 	"credits": 1.0,
-	"crsid": 1071,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000001071",
+	"department": "ENVST",
 	"description": [
 		"This course considers a variety of topics in earth and environmental science. Beginning with the origin of the earth and planetary system, the course examines crustal evolution and plate tectonics, geologic resources and hazards, and the relationship of these surface phenomena to processes occurring in the earth's interior. It concludes with a study of the oceans, the atmosphere, the earth's climate system, and environmental change. Offered annually. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: proficiency in algebra and geometry."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Anne M. Gothmann"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 24,
 	"name": "Geophysics",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "proficiency in algebra and geometry.",
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.759909+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.810502+00:00",
+			"clbid": 121687,
+			"crsid": 1071,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Geophysics: Perspectives on the Dynamic Earth",
 	"type": "Research",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 108145,
+	"clbid": "0000108145",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"Bruce E. Pell"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 20,
 	"name": "Calculus II",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
 	"revisions": [
@@ -65,9 +80,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2016
 }

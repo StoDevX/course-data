@@ -1,21 +1,30 @@
 {
-	"clbid": 15083,
+	"clbid": "0000015083",
 	"credits": 0.25,
-	"crsid": 813,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 17,
+	"crsid": "0000000813",
+	"department": "MUSIC",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 999,
 	"name": "String Class",
 	"number": 168,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 140",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 140",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 69216,
+	"clbid": "0000069216",
 	"credits": 1.0,
-	"crsid": 1402,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001402",
+	"department": "STAT",
 	"description": [
 		"This course is an introduction to basic concepts in statistics in the spirit of the liberal arts. Students will learn practical applications and the language and reasoning involved in analyzing behavioral and health science data. Topics include central tendency, dispersion, probability, random variables, binomial and normal distributions, estimation and hypothesis testing, contingency tables, analysis of variance, and correlation. Computer applications are integrated throughout. Not recommended for students who have successfully completed a term of calculus. Offered both semesters. Credit will not be given for more than one of Statistics 110, Statistics 212, or Statistics 263; credit will not be given for Statistics 110, Statistics 212, or Statistics 263 following completion of Statistics 272."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"Kathryn Ziegler"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 30,
 	"name": "Prin of Statistics",
 	"notes": [
 		"This course has class year limits."
 	],
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Statistics",
 	"type": "Research",
 	"year": 2009

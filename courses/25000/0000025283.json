@@ -1,21 +1,36 @@
 {
-	"clbid": 25283,
+	"clbid": "0000025283",
 	"credits": 1.0,
-	"crsid": 192,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 41,
+	"crsid": "0000000192",
+	"department": "CHEM",
+	"enrolled": 41,
 	"instructors": [
 		"Mary Walczak"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 52,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

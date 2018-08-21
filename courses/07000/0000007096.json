@@ -1,22 +1,30 @@
 {
-	"clbid": 7096,
+	"clbid": "0000007096",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 12,
+	"crsid": "0000000762",
+	"department": "MATH",
+	"enrolled": 12,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [
-		"SC 182",
-		"SC 182"
-	],
 	"max": 15,
 	"name": "Sem: Analtyical Method",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 182",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 182",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

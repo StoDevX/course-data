@@ -1,22 +1,30 @@
 {
-	"clbid": 49252,
+	"clbid": "0000049252",
 	"credits": 1.0,
-	"crsid": 553,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 14,
+	"crsid": "0000000553",
+	"department": "HIST",
+	"enrolled": 14,
 	"instructors": [
 		"Todd W. Nichol"
 	],
 	"level": 100,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 0,
 	"name": "Viking/Medieval Scand",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 011",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 011",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

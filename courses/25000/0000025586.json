@@ -1,21 +1,30 @@
 {
-	"clbid": 25586,
+	"clbid": "0000025586",
 	"credits": 0.25,
-	"crsid": 807,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 7,
+	"crsid": "0000000807",
+	"department": "MUSIC",
+	"enrolled": 7,
 	"instructors": [
 		"Theo Wee"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class I",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 222",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 222",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

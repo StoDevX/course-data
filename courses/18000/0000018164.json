@@ -1,21 +1,30 @@
 {
-	"clbid": 18164,
+	"clbid": "0000018164",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 16,
+	"crsid": "0000000468",
+	"department": "ENVST",
+	"enrolled": 16,
 	"instructors": [
 		"Frieda Knobloch"
 	],
 	"level": 300,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Sem: Environ Studies",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 188",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 188",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

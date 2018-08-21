@@ -1,21 +1,36 @@
 {
-	"clbid": 18197,
+	"clbid": "0000018197",
 	"credits": 1.0,
-	"crsid": 509,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 20,
+	"crsid": "0000000509",
+	"department": "GERM",
+	"enrolled": 20,
 	"instructors": [
 		"Keith O. Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 25,
 	"name": "Intermed German II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 35",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 35",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 35",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

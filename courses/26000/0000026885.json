@@ -1,21 +1,30 @@
 {
-	"clbid": 26885,
+	"clbid": "0000026885",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 17,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 17,
 	"instructors": [
 		"Brenton Malin"
 	],
 	"level": 100,
-	"locations": [
-		"CT 216"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CT 216",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CT 216",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

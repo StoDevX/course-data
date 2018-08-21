@@ -1,15 +1,13 @@
 {
-	"clbid": 82964,
+	"clbid": "0000082964",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000498",
+	"department": "WRIT",
 	"description": [
 		"See http://www.stolaf.edu/offices/registrar/ge.html for section descriptions.",
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections that explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"FYW"
 	],
@@ -17,13 +15,23 @@
 		"Matthew Rohn"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CAD 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CAD 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,10 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2012
 }

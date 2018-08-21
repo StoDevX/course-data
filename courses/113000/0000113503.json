@@ -1,22 +1,49 @@
 {
-	"clbid": 113503,
+	"clbid": "0000113503",
 	"credits": 0.0,
-	"crsid": 1087,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 24,
-	"groupid": 1086,
+	"crsid": "0000001087",
+	"department": "PHYS",
+	"enrolled": 24,
+	"groupid": "0000001086",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 28,
 	"name": "Musical Acoustics Lab",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +65,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20172,
-	"times": [
-		"M-F 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

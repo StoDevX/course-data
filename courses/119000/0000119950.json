@@ -1,22 +1,25 @@
 {
-	"clbid": 119950,
+	"clbid": "0000119950",
 	"credits": 0.0,
-	"crsid": 661,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 0,
-	"groupid": 660,
+	"crsid": "0000000661",
+	"department": "JAPAN",
+	"enrolled": 0,
+	"groupid": "0000000660",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 310"
-	],
 	"max": 22,
 	"name": "Beginning Japanese II Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "TOH 310",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.608463+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.123797+00:00",
+			"clbid": 119950,
+			"crsid": 661,
+			"department": null,
+			"departments": [
+				"JAPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 660,
+			"locations": [
+				"TOH 310"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0140PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1245-0140PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

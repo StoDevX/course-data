@@ -1,21 +1,36 @@
 {
-	"clbid": 4197,
+	"clbid": "0000004197",
 	"credits": 0.5,
-	"crsid": 1016,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001016",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"TOSTRUD CTR"
-	],
 	"max": 22,
 	"name": "Wt Training Co-Ed .50",
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOSTRUD CTR",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOSTRUD CTR",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOSTRUD CTR",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

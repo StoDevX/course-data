@@ -1,24 +1,39 @@
 {
-	"clbid": 10246,
+	"clbid": "0000010246",
 	"credits": 1.0,
-	"crsid": 51,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000051",
+	"department": "ART",
 	"description": [
 		"This course introduces modern culture and thought through a chronological study of painting, sculpture, architecture, and related arts. Students learn about the strikingly new modes of art created in Europe and the United States after 1880, examining work by Edvard Munch, Frank Lloyd Wright, Pablo Picasso, the Dadaists, Abstract Expressionists, and many others."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Art 1880-1950",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +57,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

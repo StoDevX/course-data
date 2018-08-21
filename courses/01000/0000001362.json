@@ -1,23 +1,37 @@
 {
-	"clbid": 1362,
+	"clbid": "0000001362",
 	"credits": 1.0,
-	"crsid": 676,
-	"departments": [
-		"IS"
-	],
-	"enroll": 15,
+	"crsid": "0000000676",
+	"department": "IS",
+	"enrolled": 15,
 	"instructors": [
 		"James Dickson Jr.",
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"SC 210",
-		"SC 248"
-	],
 	"max": 24,
 	"name": "Topic: Intro/Neurosci",
 	"number": 205,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 248",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925",
-		"Th 1145-0245PM"
-	],
 	"type": "Topic",
 	"year": 2000
 }

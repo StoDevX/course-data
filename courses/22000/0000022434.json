@@ -1,21 +1,36 @@
 {
-	"clbid": 22434,
+	"clbid": "0000022434",
 	"credits": 1.0,
-	"crsid": 445,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 9,
+	"crsid": "0000000445",
+	"department": "ENGL",
+	"enrolled": 9,
 	"instructors": [
 		"Richard Buckstead"
 	],
 	"level": 300,
-	"locations": [
-		"L 525"
-	],
 	"max": 15,
 	"name": "Poetry",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "L 525",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 214,
+	"clbid": "0000000214",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 29,
+	"crsid": "0000000392",
+	"department": "ENGL",
+	"enrolled": 29,
 	"instructors": [
 		"Jonathan Hill"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 25,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 515",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

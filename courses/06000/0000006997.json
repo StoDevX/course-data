@@ -1,22 +1,30 @@
 {
-	"clbid": 6997,
+	"clbid": "0000006997",
 	"credits": 1.0,
-	"crsid": 557,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 18,
+	"crsid": "0000000557",
+	"department": "HIST",
+	"enrolled": 18,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 100,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 19,
 	"name": "Europe/Great War",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 011",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 011",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

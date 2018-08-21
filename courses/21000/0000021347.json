@@ -1,21 +1,30 @@
 {
-	"clbid": 21347,
+	"clbid": "0000021347",
 	"credits": 1.0,
-	"crsid": 1729,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 26,
+	"crsid": "0000001729",
+	"department": "ENVST",
+	"enrolled": 26,
 	"instructors": [
 		"Robert Jacobel"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129/278"
-	],
 	"max": 18,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 129/278",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 129/278",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

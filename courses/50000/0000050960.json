@@ -1,24 +1,27 @@
 {
-	"clbid": 50960,
+	"clbid": "0000050960",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000199",
+	"department": "CHEM",
 	"description": [
 		"These courses introduce students to the synthesis and characterization of organic, organometallic and inorganic compounds. Students purify the materials they produce by techniques such as chromatography and characterize them using infrared, nuclear magnetic resonance and mass spectroscopic methods. Students attend one 3-hour laboratory each week. Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Fall Semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 22,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 378/311",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Fall Semester.",
 	"revisions": [
@@ -37,9 +40,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"title": "Synthesis Laboratory",
 	"type": "Lab",
 	"year": 2006

@@ -1,25 +1,33 @@
 {
-	"clbid": 120293,
+	"clbid": "0000120293",
 	"credits": 0.5,
-	"crsid": 835,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000835",
+	"department": "MUSIC",
 	"description": [
 		"Students learn conducting techniques for instrumental literature, including rehearsal techniques, score preparation, and reading full score. Repertoire includes characteristic examples from standard band and orchestra literature. Students gain practical experience in conducting an instrumental ensemble. Course work includes observation of conducting faculty. Offered annually in the spring semester. Prerequisite: MUSIC 251."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Instrumental Conducting",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 251.",
 	"revisions": [
@@ -47,15 +55,31 @@
 			"_updated": "2018-08-07T14:48:48.784009+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.647210+00:00",
+			"clbid": 120293,
+			"crsid": 835,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

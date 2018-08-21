@@ -1,21 +1,36 @@
 {
-	"clbid": 7098,
+	"clbid": "0000007098",
 	"credits": 1.0,
-	"crsid": 768,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 27,
+	"crsid": "0000000768",
+	"department": "MGMT",
+	"enrolled": 27,
 	"instructors": [
 		"Mary Ann Emery"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413"
-	],
 	"max": 30,
 	"name": "Principles of Acct",
 	"number": 225,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

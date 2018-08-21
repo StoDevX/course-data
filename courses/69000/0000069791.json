@@ -1,14 +1,12 @@
 {
-	"clbid": 69791,
+	"clbid": "0000069791",
 	"credits": 1.0,
-	"crsid": 180,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000180",
+	"department": "CHEM",
 	"description": [
 		"This course introduces the fundamentals of forensic science. Lectures focus on how samples are collected and analyzed and what information can be obtained. Actual case studies will be used to supplement lectures. Topics will include hair analysis, paint analysis, drug screening, arson investigation, ballistics, DNA analysis, and fingerprint analysis. This course is also available with a laboratory component, as Chemistry 107. Offered alternate years in the Spring semester."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"IST"
 	],
@@ -16,13 +14,23 @@
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 60,
 	"name": "Forensic Science",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 310",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 310",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

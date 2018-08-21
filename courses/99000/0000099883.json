@@ -1,22 +1,25 @@
 {
-	"clbid": 99883,
+	"clbid": "0000099883",
 	"credits": 0.0,
-	"crsid": 127,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 126,
+	"crsid": "0000000127",
+	"department": "BIO",
+	"enrolled": 20,
+	"groupid": "0000000126",
 	"instructors": [
 		"Sarah Amugongo"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 22,
 	"name": "Human Anatomy & Physiology Lab",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 254",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

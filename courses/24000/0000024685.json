@@ -1,21 +1,30 @@
 {
-	"clbid": 24685,
+	"clbid": "0000024685",
 	"credits": 0.75,
-	"crsid": 818,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 21,
+	"crsid": "0000000818",
+	"department": "MUSIC",
+	"enrolled": 21,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Theory IV",
 	"number": 214,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "CHM 239",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "CHM 239",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0100PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 118067,
+	"clbid": "0000118067",
 	"credits": 1.0,
-	"crsid": 32292,
-	"departments": [
-		"MSCS"
-	],
+	"crsid": "0000032292",
+	"department": "MSCS",
 	"description": [
 		"Data is the currency of the modern world, and data science is a field that sits at the intersection between statistics and computer science. At its heart, data science is about gleaning information and making decisions from data; this provides a solid foundation to the most important data science tools. Students develop a common language for creating visualizations, wrangling with data, programming in a literate manner, producing reproducible research, and communicating results. Counts toward statistics concentration. Offered each semester."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,16 +14,26 @@
 		"Paul J. Roback"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 27,
 	"name": "Introduction to Data Science",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 182",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 182",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -58,10 +66,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

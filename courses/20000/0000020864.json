@@ -1,21 +1,36 @@
 {
-	"clbid": 20864,
+	"clbid": "0000020864",
 	"credits": 1.0,
-	"crsid": 792,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 19,
+	"crsid": "0000000792",
+	"department": "THEAT",
+	"enrolled": 19,
 	"instructors": [
 		"Michael Maguire"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 20,
 	"name": "Mass Media",
 	"number": 160,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SPT 216",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SPT 216",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SPT 216",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

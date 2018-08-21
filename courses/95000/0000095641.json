@@ -1,28 +1,43 @@
 {
-	"clbid": 95641,
+	"clbid": "0000095641",
 	"credits": 1.0,
-	"crsid": 239,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000239",
+	"department": "CHIN",
 	"description": [
 		"This course offers an introduction to speaking, reading, and writing Chinese, as well as mastery of basic grammar and command of 500 characters for reading and writing. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the spring semester. Prerequisite: CHIN 111 or equivalent."
 	],
-	"enroll": 15,
-	"groupid": 239,
+	"enrolled": 15,
+	"groupid": "0000000239",
 	"instructors": [
 		"Ying Zhou"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 20,
 	"name": "Beginning Chinese II",
 	"notes": [
 		"Students in Chin 112A must also register for one lab Chin 112 AL or BL."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 112",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 112",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 112",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 111 or equivalent.",
 	"revisions": [
@@ -50,9 +65,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

@@ -1,21 +1,16 @@
 {
-	"clbid": 121796,
+	"clbid": "0000121796",
 	"credits": 1.0,
-	"crsid": 286,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000286",
+	"department": "ECON",
 	"description": [
 		"Selected topics to be announced. May be repeated if topics are different. Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 15,
 	"name": "Sem: Adv Top Law & Economics",
 	"notes": [
@@ -24,6 +19,26 @@
 		"the instructor."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -36,15 +51,30 @@
 			"_updated": "2018-08-07T14:48:49.808289+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.927205+00:00",
+			"clbid": 121796,
+			"crsid": 286,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Seminar in Economics",
 	"type": "Seminar",
 	"year": 2018

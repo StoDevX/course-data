@@ -1,28 +1,36 @@
 {
-	"clbid": 58908,
+	"clbid": "0000058908",
 	"credits": 1.0,
-	"crsid": 170,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000170",
+	"department": "BIO",
 	"description": [
 		"From tiny ion channels to the basis for learning, neuroscience is a rapidly developing area. Using texts, reviews, and current literature, students examine in depth the fundamental unit of the nervous system, the neuron. The goals are to understand how neurons accomplish their unique functions: electrical signaling, synaptic transmission, and directed growth and remodeling. Prerequisites: Biology 125, or Chemistry/Biology 125-127, and progress towards a major in any of the natural sciences."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Kevin M. Crisp"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 274"
-	],
 	"max": 12,
 	"name": "Neuroscience Seminar",
 	"notes": [
 		"Open to Juniors and Seniors only."
 	],
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 274",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, or Chemistry/Biology 125-127, and progress towards a major in any of the natural sciences.",
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -1,25 +1,33 @@
 {
-	"clbid": 62940,
+	"clbid": "0000062940",
 	"credits": 0.5,
-	"crsid": 835,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000835",
+	"department": "MUSIC",
 	"description": [
 		"Students learn conducting techniques for instrumental literature, including rehearsal techniques, score preparation, and reading the full score. They study characteristic examples from standard band and orchestra literature and receive practical experience in conducting an instrumental ensemble. Course work includes observation of conducting faculty. Prerequisite: 251. Offered Spring Semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 25,
 	"name": "Instru Conducting",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 140",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "251. Offered Spring Semester.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Instrumental Conducting",
 	"type": "Research",
 	"year": 2008

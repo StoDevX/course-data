@@ -1,21 +1,30 @@
 {
-	"clbid": 988,
+	"clbid": "0000000988",
 	"credits": 1.0,
-	"crsid": 13,
-	"departments": [
-		"AMST"
-	],
-	"enroll": 22,
+	"crsid": "0000000013",
+	"department": "AMST",
+	"enrolled": 22,
 	"instructors": [
 		"Judy Kutulas"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Sem: Television Cultur",
 	"number": 301,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

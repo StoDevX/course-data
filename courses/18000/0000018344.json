@@ -1,21 +1,36 @@
 {
-	"clbid": 18344,
+	"clbid": "0000018344",
 	"credits": 1.0,
-	"crsid": 927,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 10,
+	"crsid": "0000000927",
+	"department": "NORW",
+	"enrolled": 10,
 	"instructors": [
 		"Margaret H. O'Leary"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Intermed Norwegian II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 15",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 15",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 15",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

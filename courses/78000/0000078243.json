@@ -1,23 +1,26 @@
 {
-	"clbid": 78243,
+	"clbid": "0000078243",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 16,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 16,
+	"groupid": "0000000192",
 	"grouptype": "1",
 	"instructors": [
 		"Jennifer C. Klein"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 22,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 350",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

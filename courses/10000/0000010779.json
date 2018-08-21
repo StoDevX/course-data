@@ -1,22 +1,30 @@
 {
-	"clbid": 10779,
+	"clbid": "0000010779",
 	"credits": 0.5,
-	"crsid": 858,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 9,
+	"crsid": "0000000858",
+	"department": "MUSIC",
+	"enrolled": 9,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 18,
 	"name": "Advanced Conducting",
 	"number": 354,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 140",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2005
 }

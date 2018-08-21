@@ -1,21 +1,30 @@
 {
-	"clbid": 15369,
+	"clbid": "0000015369",
 	"credits": 1.0,
-	"crsid": 1310,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 22,
+	"crsid": "0000001310",
+	"department": "SOAN",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 25,
 	"name": "Marriage & the Family",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 403",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 403",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

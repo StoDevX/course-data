@@ -1,32 +1,40 @@
 {
-	"clbid": 108191,
+	"clbid": "0000108191",
 	"credits": 1.0,
-	"crsid": 1163,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001163",
+	"department": "PSYCH",
 	"description": [
 		"Focus includes information processing, learning and remembering speech, artistic, musical and athletic performance, invention and other forms of creativity. Students unlock the mind's mysteries using state-of-the-art scientific instrumentation, developing cognitive science knowledge and research skills. The course includes lecture and laboratory work. Offered annually. Counts toward linguistic studies and neuroscience concentrations. Prerequisite: PSYCH 125."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 1163,
+	"groupid": "0000001163",
 	"instructors": [
 		"Jessica R. Petok"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190",
-		"RNS 190"
-	],
 	"max": 28,
 	"name": "Cognitive Psychology",
 	"notes": [
 		"Students in Psych 237 must also register for Psych 237 AL or BL."
 	],
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 190",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 190",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -69,10 +77,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

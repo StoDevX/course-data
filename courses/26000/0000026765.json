@@ -1,21 +1,24 @@
 {
-	"clbid": 26765,
+	"clbid": "0000026765",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 13,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 13,
 	"instructors": [
 		"Richard Senese"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 12,
 	"name": "Sem: Jr Research",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 515",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

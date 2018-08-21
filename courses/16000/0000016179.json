@@ -1,21 +1,30 @@
 {
-	"clbid": 16179,
+	"clbid": "0000016179",
 	"credits": 0.5,
-	"crsid": 833,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 25,
+	"crsid": "0000000833",
+	"department": "MUSIC",
+	"enrolled": 25,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 999,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 239",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

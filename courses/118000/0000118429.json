@@ -1,22 +1,25 @@
 {
-	"clbid": 118429,
+	"clbid": "0000118429",
 	"credits": 0.0,
-	"crsid": 26713,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 9,
-	"groupid": 26712,
+	"crsid": "0000026713",
+	"department": "BIO",
+	"enrolled": 9,
+	"groupid": "0000026712",
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 22,
 	"name": "Cells and Tissues Lab",
 	"number": 143,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 398",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:44.715592+00:00",
 			"enroll": "9",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.869518+00:00",
+			"clbid": 118429,
+			"crsid": 26713,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"groupid": 26712,
+			"locations": [
+				"RNS 398"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0245PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

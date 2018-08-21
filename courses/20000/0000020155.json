@@ -1,21 +1,36 @@
 {
-	"clbid": 20155,
+	"clbid": "0000020155",
 	"credits": 1.0,
-	"crsid": 214,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 20,
+	"crsid": "0000000214",
+	"department": "CHEM",
+	"enrolled": 20,
 	"instructors": [
 		"Gail Carlson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374"
-	],
 	"max": 24,
 	"name": "Basic Biochemistry",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 374",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 374",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 374",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

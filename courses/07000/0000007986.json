@@ -1,21 +1,36 @@
 {
-	"clbid": 7986,
+	"clbid": "0000007986",
 	"credits": 1.0,
-	"crsid": 541,
-	"departments": [
-		"GREEK"
-	],
-	"enroll": 14,
+	"crsid": "0000000541",
+	"department": "GREEK",
+	"enrolled": 14,
 	"instructors": [
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"SH 03"
-	],
 	"max": 25,
 	"name": "Intermediate Greek",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SH 03",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SH 03",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SH 03",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

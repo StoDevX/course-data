@@ -1,24 +1,33 @@
 {
-	"clbid": 51666,
+	"clbid": "0000051666",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001020",
+	"department": "PEAC",
 	"description": [
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_N"
-	],
 	"max": 16,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC_GYM_N",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "SAC_GYM_N",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

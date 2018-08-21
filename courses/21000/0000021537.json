@@ -1,21 +1,36 @@
 {
-	"clbid": 21537,
+	"clbid": "0000021537",
 	"credits": 1.0,
-	"crsid": 926,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 23,
+	"crsid": "0000000926",
+	"department": "NORW",
+	"enrolled": 23,
 	"instructors": [
 		"Nancy Aarsvold"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Intermed Norwegian I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 15",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 15",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 15",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

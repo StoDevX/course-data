@@ -1,25 +1,33 @@
 {
-	"clbid": 12420,
+	"clbid": "0000012420",
 	"credits": 1.0,
-	"crsid": 1374,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001374",
+	"department": "THEAT",
 	"description": [
 		"Students examine and apply aesthetic principles involved in the performance of prose-fiction, poetry and drama. Offered every year."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Karen Wilson"
 	],
 	"level": 100,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 25,
 	"name": "Oral Interpretation",
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TB 227",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TB 227",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

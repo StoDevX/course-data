@@ -1,22 +1,30 @@
 {
-	"clbid": 6269,
+	"clbid": "0000006269",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 28,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 28,
 	"instructors": [
 		"Gary Stansell"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 109",
-		"BMC 109"
-	],
 	"max": 15,
 	"name": "Bib Sem: Social Justic",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 109",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 109",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

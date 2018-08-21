@@ -1,21 +1,36 @@
 {
-	"clbid": 3785,
+	"clbid": "0000003785",
 	"credits": 1.0,
-	"crsid": 192,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 53,
+	"crsid": "0000000192",
+	"department": "CHEM",
+	"enrolled": 53,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 55,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 378",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

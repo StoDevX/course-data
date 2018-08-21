@@ -1,21 +1,24 @@
 {
-	"clbid": 2255,
+	"clbid": "0000002255",
 	"credits": 1.0,
-	"crsid": 777,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 30,
+	"crsid": "0000000777",
+	"department": "MGMT",
+	"enrolled": 30,
 	"instructors": [
 		"Murray Wolf"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 403",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

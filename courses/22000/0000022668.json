@@ -1,21 +1,30 @@
 {
-	"clbid": 22668,
+	"clbid": "0000022668",
 	"credits": 1.0,
-	"crsid": 988,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 19,
+	"crsid": "0000000988",
+	"department": "PHIL",
+	"enrolled": 19,
 	"instructors": [
 		"Charles Taliaferro"
 	],
 	"level": 300,
-	"locations": [
-		"MFH 230"
-	],
 	"max": 20,
 	"name": "Studies: Metaphysics",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "MFH 230",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "MFH 230",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

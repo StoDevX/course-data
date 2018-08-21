@@ -1,22 +1,30 @@
 {
-	"clbid": 3955,
+	"clbid": "0000003955",
 	"credits": 1.0,
-	"crsid": 483,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 11,
+	"crsid": "0000000483",
+	"department": "FREN",
+	"enrolled": 11,
 	"instructors": [
 		"M. Clare Mather"
 	],
 	"level": 200,
-	"locations": [
-		"M 26",
-		"M 26"
-	],
 	"max": 18,
 	"name": "Writing French",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 26",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "M 26",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

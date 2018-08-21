@@ -1,21 +1,36 @@
 {
-	"clbid": 2956,
+	"clbid": "0000002956",
 	"credits": 1.0,
-	"crsid": 247,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 1,
+	"crsid": "0000000247",
+	"department": "CHIN",
+	"enrolled": 1,
 	"instructors": [
 		"Anbin Shi"
 	],
 	"level": 200,
-	"locations": [
-		"M 2"
-	],
 	"max": 30,
 	"name": "Chinese Drama & Film",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

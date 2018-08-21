@@ -1,25 +1,33 @@
 {
-	"clbid": 109709,
+	"clbid": "0000109709",
 	"credits": 1.0,
-	"crsid": 741,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000741",
+	"department": "MATH",
 	"description": [
 		"Using problem solving techniques, students study topics from non-continuous mathematics, including basic counting principles, mathematical induction, recursion, efficiency of algorithms,and graph theory. Offered alternate years. Students may not take this course after MATH 244, MATH 252, or MATH 282 without permission of instructor. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120 or CSCI 121 or CSCI 125 or permission of instructor."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Kay E. Smith"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 186",
-		"TOH 186"
-	],
 	"max": 20,
 	"name": "Discrete Mathematics",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 186",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 186",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or CSCI 121 or CSCI 125 or permission of instructor.",
 	"revisions": [
@@ -55,10 +63,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

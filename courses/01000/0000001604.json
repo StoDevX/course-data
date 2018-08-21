@@ -1,21 +1,30 @@
 {
-	"clbid": 1604,
+	"clbid": "0000001604",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 15,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 15,
 	"instructors": [
 		"Deborah Anderson"
 	],
 	"level": 300,
-	"locations": [
-		"H 317"
-	],
 	"max": 18,
 	"name": "Sem: Health Psych",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 317",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 317",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

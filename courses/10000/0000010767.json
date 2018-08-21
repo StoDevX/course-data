@@ -1,21 +1,30 @@
 {
-	"clbid": 10767,
+	"clbid": "0000010767",
 	"credits": 0.25,
-	"crsid": 841,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 23,
+	"crsid": "0000000841",
+	"department": "MUSIC",
+	"enrolled": 23,
 	"instructors": [
 		"Dan Dressen"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 18,
 	"name": "Instr Chamber Music",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "CHM 140",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "CHM 140",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2005
 }

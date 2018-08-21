@@ -1,14 +1,12 @@
 {
-	"clbid": 118267,
+	"clbid": "0000118267",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001011",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "Tostrud Ctr",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +47,30 @@
 			"_updated": "2018-08-07T14:48:44.609069+00:00",
 			"enroll": "22",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.618316+00:00",
+			"clbid": 118267,
+			"crsid": 1011,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"TTh 0935-1030"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2018
 }

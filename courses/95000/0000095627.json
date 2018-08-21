@@ -1,14 +1,12 @@
 {
-	"clbid": 95627,
+	"clbid": "0000095627",
 	"credits": 0.25,
-	"crsid": 360,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000360",
+	"department": "DANCE",
 	"description": [
 		"This course offers an expansion of ballet vocabulary and technique with an emphasis on movement quality, clarity and efficiency. Outside work includes practicing, reading, writing and concert attendance. Open to majors and other students with instructor's permission. Offered each semester. May be repeated with permission of instructor. Prerequisite: DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Jennifer Bader"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 15,
 	"name": "Ballet II",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD Studio 2",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD Studio 2",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 121 and DANCE 130/DANCE 131 and/or permission of the instructor.",
 	"revisions": [
@@ -57,10 +65,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2014
 }

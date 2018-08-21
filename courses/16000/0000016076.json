@@ -1,21 +1,30 @@
 {
-	"clbid": 16076,
+	"clbid": "0000016076",
 	"credits": 1.0,
-	"crsid": 617,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 15,
+	"crsid": "0000000617",
+	"department": "HIST",
+	"enrolled": 15,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"YH 130"
-	],
 	"max": 35,
 	"name": "Amer Environmental",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "YH 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "YH 130",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

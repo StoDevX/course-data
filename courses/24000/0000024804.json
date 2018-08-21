@@ -1,22 +1,31 @@
 {
-	"clbid": 24804,
+	"clbid": "0000024804",
 	"credits": 0.5,
-	"crsid": 2211,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 13,
+	"crsid": "0000002211",
+	"department": "PETH",
+	"enrolled": 13,
 	"halfcredit": "2",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"MFH TRACK"
-	],
 	"max": 24,
 	"name": "Intro Athletic Train",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "MFH TRACK",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "MFH TRACK",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1998
 }

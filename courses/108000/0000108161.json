@@ -1,22 +1,25 @@
 {
-	"clbid": 108161,
+	"clbid": "0000108161",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 28,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 28,
+	"groupid": "0000000194",
 	"instructors": [
 		"Rodrigo Sanchez-Gonzalez"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 25,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 350",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2016
 }

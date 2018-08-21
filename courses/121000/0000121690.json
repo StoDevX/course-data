@@ -1,14 +1,12 @@
 {
-	"clbid": 121690,
+	"clbid": "0000121690",
 	"credits": 1.0,
-	"crsid": 460,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000460",
+	"department": "ENVST",
 	"description": [
 		"This course is an interdisciplinary seminar on climate throughout the earth's history, including recent changes caused by humankind. It examines the climate system in the larger framework of planetary evolution and explores evidence from the geologic record for climates of the past. Using current scientific literature, students investigate causes of climate change and consider scenarios for future climate based on models incorporating alternative global development strategies. Offered annually. Prerequisites: sophomore standing; one level I biology, chemistry, or physics course or ENVST 137 strongly encouraged."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Anne M. Gothmann"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 24,
 	"name": "Global Climate Change",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: sophomore standing; one level I biology, chemistry, or physics course or ENVST 137 strongly encouraged.",
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.763193+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.816793+00:00",
+			"clbid": 121690,
+			"crsid": 460,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

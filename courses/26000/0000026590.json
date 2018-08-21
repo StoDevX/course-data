@@ -1,21 +1,30 @@
 {
-	"clbid": 26590,
+	"clbid": "0000026590",
 	"credits": 0.5,
-	"crsid": 835,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 13,
+	"crsid": "0000000835",
+	"department": "MUSIC",
+	"enrolled": 13,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 25,
 	"name": "Instru Conducting",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 138",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 138",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 5379,
+	"clbid": "0000005379",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 27,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 27,
 	"instructors": [
 		"Susan Lindley"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 110",
-		"BMC 110"
-	],
 	"max": 27,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "BMC 110",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "BMC 110",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

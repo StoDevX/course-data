@@ -1,22 +1,31 @@
 {
-	"clbid": 102571,
+	"clbid": "0000102571",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 9,
-	"groupid": 1072,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 9,
+	"groupid": "0000001072",
 	"instructors": [
 		"Prabal Adhikari"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 999,
 	"name": "Principles Physics I Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 292",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +53,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20144,
-	"times": [
-		"TTh 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

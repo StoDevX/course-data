@@ -1,14 +1,12 @@
 {
-	"clbid": 120672,
+	"clbid": "0000120672",
 	"credits": 1.0,
-	"crsid": 179,
-	"departments": [
-		"AMCON"
-	],
+	"crsid": "0000000179",
+	"department": "AMCON",
 	"description": [
 		"Students in this course examine technology, the mass market and consumerism, and the increasingly complex relations between identity and material goods. They also explore the images, institutions, and stories of environmental, feminist, and Civil Rights activists in the context of Cold War America. Topics and texts range from Yosemite National Park and Japanese internment camps to Adrienne Rich's poetry and prose, Freedom Summer, Las Vegas, and the Mall of America. Offered annually in the spring semester. Counts toward American studies, race and ethnic studies, and women's and gender studies majors and management studies, race and ethnic studies, and women's and gender studies concentrations. Prerequisite: AMCON 101, AMCON 102, and AMCON 201."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"HBS",
@@ -20,15 +18,32 @@
 		"L. DeAne Lagerquist"
 	],
 	"level": 200,
-	"locations": [
-		"HH 429"
-	],
 	"max": 19,
 	"name": "Pursuits of Happiness, 1920-Present",
 	"notes": [
 		"Open to American Conversations students only."
 	],
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 429",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 429",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 429",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "AMCON 101, AMCON 102, and AMCON 201.",
 	"revisions": [
@@ -52,15 +67,30 @@
 			"_updated": "2018-08-07T14:48:49.037177+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.275836+00:00",
+			"clbid": 120672,
+			"crsid": 179,
+			"department": null,
+			"departments": [
+				"AMCON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 429"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

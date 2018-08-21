@@ -1,22 +1,25 @@
 {
-	"clbid": 79066,
+	"clbid": "0000079066",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 26,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 26,
+	"groupid": "0000000194",
 	"instructors": [
 		"Jennifer C. Klein"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 27,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "18:00",
+			"location": "RNS 350",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0300-0600PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

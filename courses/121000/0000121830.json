@@ -1,14 +1,12 @@
 {
-	"clbid": 121830,
+	"clbid": "0000121830",
 	"credits": 1.0,
-	"crsid": 31595,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000031595",
+	"department": "MUSIC",
 	"description": [
 		"Drawing from the fields of biology, neuroscience, physics, and psychology, this course introduces students to the biological and psychological aspects of music performance. Students develop an understanding of the origins of performance-related injury, the mechanism of hearing, the sources of workplace stress in the lives of professional musicians. Each student will design and complete an exercise program tailored to their individual needs as a musician. Offered Interim alternate years."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SPM"
@@ -17,13 +15,71 @@
 		"Kathryn Ananda-Owens"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 012",
-		"BMC 012"
-	],
 	"max": 20,
 	"name": "Music Performance Science",
 	"number": 271,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "BMC 012",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "BMC 012",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "BMC 012",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "BMC 012",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "BMC 012",
+			"start": "10:40"
+		},
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "BMC 012",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "BMC 012",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "BMC 012",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "BMC 012",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "BMC 012",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +103,31 @@
 			"_updated": "2018-08-07T14:48:46.920994+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.188675+00:00",
+			"clbid": 121830,
+			"crsid": 31595,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"BMC 012",
+				"BMC 012"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM",
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM",
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

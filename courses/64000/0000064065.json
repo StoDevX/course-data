@@ -1,14 +1,12 @@
 {
-	"clbid": 64065,
+	"clbid": "0000064065",
 	"credits": 1.0,
-	"crsid": 1194,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001194",
+	"department": "REL",
 	"description": [
 		"This course treats the major moments of theology by focusing on five or six important theological figures, movements or texts spanning ancient, medieval and modern Christian theology. Prerequisite: BTS-B."
 	],
-	"enroll": 40,
+	"enrolled": 40,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,12 +14,29 @@
 		"Peder J. Jothen"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 35,
 	"name": "The Greats",
 	"number": 203,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "BMC 110",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "BMC 110",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "BMC 110",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

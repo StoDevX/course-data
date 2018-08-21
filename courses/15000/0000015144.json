@@ -1,22 +1,36 @@
 {
-	"clbid": 15144,
+	"clbid": "0000015144",
 	"credits": 1.0,
-	"crsid": 964,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 17,
+	"crsid": "0000000964",
+	"department": "PHIL",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"H 307",
-		"H 317"
-	],
 	"max": 25,
 	"name": "Making of Modern Mind",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:30"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:30"
+		},
+		{
+			"day": "Mo",
+			"end": "19:55",
+			"location": "H 317",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0830-0925",
-		"M 0700-0755PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

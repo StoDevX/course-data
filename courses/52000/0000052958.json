@@ -1,25 +1,33 @@
 {
-	"clbid": 52958,
+	"clbid": "0000052958",
 	"credits": 1.0,
-	"crsid": 749,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000749",
+	"department": "MATH",
 	"description": [
 		"Students are introduced to modeling and mathematical optimization techniques (e.g., linear programming, network flows, discrete optimization, constrained and unconstrained nonlinear programming, queuing theory). The course emphasizes applications, but prior computer experience is not assumed. Prerequisites: Mathematics 126 or 128 and 220. Recommended: Mathematics 226 and/or 262. Spring Semester only."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"Steven McKelvey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Operations Research",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 184",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Mathematics 126 or 128 and 220. Recommended: Mathematics 226 and/or 262. Spring Semester only.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2006
 }

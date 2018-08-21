@@ -1,23 +1,17 @@
 {
-	"clbid": 118304,
+	"clbid": "0000118304",
 	"credits": 1.0,
-	"crsid": 18779,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000018779",
+	"department": "ASIAN",
 	"description": [
 		"How do pilgrims, travelers and migrants make sense of their journeys in Asia? Students explore maps, histories, tales, and guides that define Asia today and in years past, including several classic Asian texts; study how cultural, linguistic, economic, religious, social, and political connections and divisions create and sustain communities in Asia; and plan related projects for their Interim course. Offered annually in the fall semester. Prerequisite: CHIN 112 or JAPAN 112 or permission of instructor. Must be accepted into Asian Conversations program to register."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"instructors": [
 		"Rika Ito",
 		"Hsiang-Lin Shih"
 	],
 	"level": 200,
-	"locations": [
-		"HH 111",
-		"HH 111"
-	],
 	"max": 30,
 	"name": "AsianCon1:MappingJourneys",
 	"notes": [
@@ -25,6 +19,20 @@
 		"the Asian Conversations program and been accepted into it."
 	],
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 111",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 111",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 112 or JAPAN 112 or permission of instructor. Must be accepted into Asian Conversations program to register.",
 	"revisions": [
@@ -69,15 +77,31 @@
 		{
 			"_updated": "2018-08-17T03:36:12.839250+00:00",
 			"enroll": 30
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.675408+00:00",
+			"clbid": 118304,
+			"crsid": 18779,
+			"department": null,
+			"departments": [
+				"ASIAN"
+			],
+			"enroll": 29,
+			"enrolled": null,
+			"locations": [
+				"HH 111",
+				"HH 111"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Asian Conversations I: Mapping Journeys",
 	"type": "Research",
 	"year": 2018

@@ -1,21 +1,36 @@
 {
-	"clbid": 15274,
+	"clbid": "0000015274",
 	"credits": 1.0,
-	"crsid": 1158,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 6,
+	"crsid": "0000001158",
+	"department": "PSYCH",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 322"
-	],
 	"max": 20,
 	"name": "Research Methods",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 322",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 322",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 322",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

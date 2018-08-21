@@ -1,21 +1,30 @@
 {
-	"clbid": 3396,
+	"clbid": "0000003396",
 	"credits": 1.0,
-	"crsid": 1115,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 27,
+	"crsid": "0000001115",
+	"department": "PSCI",
+	"enrolled": 27,
 	"instructors": [
 		"Charles E. Umbanhowar Sr"
 	],
 	"level": 200,
-	"locations": [
-		"M 4"
-	],
 	"max": 20,
 	"name": "Am Political Thought",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 4",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 4",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

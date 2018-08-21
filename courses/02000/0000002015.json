@@ -1,21 +1,36 @@
 {
-	"clbid": 2015,
+	"clbid": "0000002015",
 	"credits": 1.0,
-	"crsid": 279,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 20,
+	"crsid": "0000000279",
+	"department": "ECON",
+	"enrolled": 20,
 	"instructors": [
 		"Terry J. Fitzgerald"
 	],
 	"level": 300,
-	"locations": [
-		"H 403"
-	],
 	"max": 20,
 	"name": "Money and Banking",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 403",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

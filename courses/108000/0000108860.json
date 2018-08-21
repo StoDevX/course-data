@@ -1,14 +1,12 @@
 {
-	"clbid": 108860,
+	"clbid": "0000108860",
 	"credits": 1.0,
-	"crsid": 1170,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001170",
+	"department": "PSYCH",
 	"description": [
 		"Why are people prejudiced and how can we reduce prejudice? Why do people help others? What is self-esteem and how do we defend it? How does romantic attraction develop? What are emotions and how do they influence us? In this introduction to the ways people interact and think about each other, students design their own theories of social behavior. Offered annually. Counts toward management studies concentration. Prerequisite: PSYCH 125."
 	],
-	"enroll": 27,
+	"enrolled": 27,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Charles Huff"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 210",
-		"RNS 210"
-	],
 	"max": 25,
 	"name": "Social Psychology",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 210",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 210",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -60,10 +68,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2016
 }

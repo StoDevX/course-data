@@ -1,21 +1,48 @@
 {
-	"clbid": 27006,
+	"clbid": "0000027006",
 	"credits": 0.75,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 5,
+	"crsid": "0000000802",
+	"department": "MUSIC",
+	"enrolled": 5,
 	"instructors": [
 		"Charles Forsberg"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 999,
 	"name": "Theory II",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "CHM 224",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "CHM 224",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "CHM 224",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "CHM 224",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "CHM 224",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 19995,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 1999
 }

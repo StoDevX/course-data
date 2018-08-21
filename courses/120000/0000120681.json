@@ -1,27 +1,30 @@
 {
-	"clbid": 120681,
+	"clbid": "0000120681",
 	"credits": 1.0,
-	"crsid": 30299,
-	"departments": [
-		"LNGST"
-	],
+	"crsid": "0000030299",
+	"department": "LNGST",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Rika Ito"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 6,
 	"name": "Res: Applied Linguistics Research",
 	"notes": [
 		"Course is closed during web registration."
 	],
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "TBA",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -47,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:49.045392+00:00",
 			"enroll": "0",
 			"max": "6"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.293943+00:00",
+			"clbid": 120681,
+			"crsid": 30299,
+			"department": null,
+			"departments": [
+				"LNGST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M 0700-1000PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2018

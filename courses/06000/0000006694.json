@@ -1,21 +1,36 @@
 {
-	"clbid": 6694,
+	"clbid": "0000006694",
 	"credits": 1.0,
-	"crsid": 60,
-	"departments": [
-		"ART"
-	],
-	"enroll": 31,
+	"crsid": "0000000060",
+	"department": "ART",
+	"enrolled": 31,
 	"instructors": [
 		"Nancy M. Thompson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Medieval Art",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120704,
+	"clbid": "0000120704",
 	"credits": 1.0,
-	"crsid": 1381,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001381",
+	"department": "THEAT",
 	"description": [
 		"This course balances the elements of production with the elements of design, focusing on materials, practices, and techniques used to create scenic and costume elements used in live production. The course includes hands-on experience in the scenic and costume studios, and projects in technical drawing, designing, analysis, and research. Open to majors and non-majors. Offered annually in the spring semester. Prequisite: THEAT 140 is recommended."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,12 +14,29 @@
 		"Todd F. Edwards"
 	],
 	"level": 200,
-	"locations": [
-		"TB Green Rm"
-	],
 	"max": 16,
 	"name": "Scenery & Costume Design",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TB Green Rm",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.055912+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.318457+00:00",
+			"clbid": 120704,
+			"crsid": 1381,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB Green Rm"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Scenery and Costume Design and Production",
 	"type": "Research",
 	"year": 2018

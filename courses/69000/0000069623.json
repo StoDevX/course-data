@@ -1,24 +1,39 @@
 {
-	"clbid": 69623,
+	"clbid": "0000069623",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001142",
+	"department": "PSCI",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Nanaho Hanada"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 30,
 	"name": "Top: Women/Politics/Asia",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 410",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 410",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 410",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20091,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Topics in Political Science",
 	"type": "Topic",
 	"year": 2009

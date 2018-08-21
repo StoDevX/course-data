@@ -1,22 +1,25 @@
 {
-	"clbid": 106014,
+	"clbid": "0000106014",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 14,
-	"groupid": 1072,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 14,
+	"groupid": "0000001072",
 	"instructors": [
 		"Brianna S. Thomas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 18,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 292",
+			"start": "08:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,9 +58,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"Th 0820-1050"
-	],
 	"type": "Lab",
 	"year": 2016
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 14999,
+	"clbid": "0000014999",
 	"credits": 1.0,
-	"crsid": 641,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 4,
+	"crsid": "0000000641",
+	"department": "HIST",
+	"enrolled": 4,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Senior Thesis Seminar",
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 515",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

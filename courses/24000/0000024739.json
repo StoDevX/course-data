@@ -1,21 +1,36 @@
 {
-	"clbid": 24739,
+	"clbid": "0000024739",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 21,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 21,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CH 111",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CH 111",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CH 111",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

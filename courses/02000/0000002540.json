@@ -1,21 +1,24 @@
 {
-	"clbid": 2540,
+	"clbid": "0000002540",
 	"credits": 2.5,
-	"crsid": 1369,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 12,
+	"crsid": "0000001369",
+	"department": "SWRK",
+	"enrolled": 12,
 	"instructors": [
 		"Naurine Lennox"
 	],
 	"level": 300,
-	"locations": [
-		"L 421"
-	],
 	"max": 15,
 	"name": "Field Practicum",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "L 421",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

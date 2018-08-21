@@ -1,24 +1,39 @@
 {
-	"clbid": 57651,
+	"clbid": "0000057651",
 	"credits": 0.25,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000800",
+	"department": "MUSIC",
 	"description": [
 		"Building on principles learned in 111, students encounter more advanced rhythmic patterns, tonal melodies and chord progressions. Prerequisites: Music 111 and 113. Offered Spring Semester."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Michele Gillman"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 20,
 	"name": "Aural Skills II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Music 111 and 113. Offered Spring Semester.",
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

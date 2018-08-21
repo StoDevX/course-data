@@ -1,14 +1,12 @@
 {
-	"clbid": 120063,
+	"clbid": "0000120063",
 	"credits": 1.0,
-	"crsid": 406,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000406",
+	"department": "ENGL",
 	"description": [
 		"Students read and discuss children's literature from Britain and the United States. Beginning with fairy tales and classics from the \"golden age\" of children's literature, students explore an array of picture books, poetry, and fiction, that exemplifies the best in fantasy and realism for children and young adults. Counts toward women's and gender studies major; educational studies and women's and gender studies concentrations. Prerequisite: FYW."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,29 @@
 		"Mary Titus"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 30,
 	"name": "Children's & Young Adult Literature",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -53,14 +68,29 @@
 			"times": [
 				"MWF 1255-0150PM"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.357592+00:00",
+			"clbid": 120063,
+			"crsid": 406,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Children's and Young Adult Literature",
 	"type": "Research",
 	"year": 2018

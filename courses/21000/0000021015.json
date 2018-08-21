@@ -1,21 +1,48 @@
 {
-	"clbid": 21015,
+	"clbid": "0000021015",
 	"credits": 1.0,
-	"crsid": 426,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 3,
+	"crsid": "0000000426",
+	"department": "ENGL",
+	"enrolled": 3,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 200,
-	"locations": [
-		"L 520"
-	],
 	"max": 999,
 	"name": "Intro to Shakespeare",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "L 520",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "L 520",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "L 520",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "L 520",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "L 520",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 19965,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

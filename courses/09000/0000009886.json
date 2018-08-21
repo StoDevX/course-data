@@ -1,21 +1,36 @@
 {
-	"clbid": 9886,
+	"clbid": "0000009886",
 	"credits": 1.0,
-	"crsid": 1193,
-	"departments": [
-		"REL"
-	],
-	"enroll": 25,
+	"crsid": "0000001193",
+	"department": "REL",
+	"enrolled": 25,
 	"instructors": [
 		"Jason J. Ripley"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 25,
 	"name": "Classics and Moderns",
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "BMC 110",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "BMC 110",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "BMC 110",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

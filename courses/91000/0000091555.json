@@ -1,14 +1,12 @@
 {
-	"clbid": 91555,
+	"clbid": "0000091555",
 	"credits": 0.25,
-	"crsid": 356,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000356",
+	"department": "DANCE",
 	"description": [
 		"Students focus intensively on the dance forms and styles of selected cultures chosen by the instructor in consultation with the students. Prerequisite: Dance 109, 124, or permission of instructor. Ticket/transportation fee required. Offered occasionally."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Anne von Bibra"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 3",
-		"CAD Studio 3"
-	],
 	"max": 20,
 	"name": "Intl Dance II",
 	"number": 209,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CAD Studio 3",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD Studio 3",
+			"start": "14:40"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Dance 109, 124, or permission of instructor. Ticket/transportation fee required. Offered occasionally.",
 	"revisions": [
@@ -52,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"T 0200-0255PM",
-		"Th 0240-0335PM"
-	],
 	"title": "International Dance II: Selected Dance Cultures",
 	"type": "Research",
 	"year": 2013

@@ -1,21 +1,30 @@
 {
-	"clbid": 25720,
+	"clbid": "0000025720",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 35,
+	"crsid": "0000001110",
+	"department": "PSCI",
+	"enrolled": 35,
 	"instructors": [
 		"Michael Chambers"
 	],
 	"level": 100,
-	"locations": [
-		"H 501"
-	],
 	"max": 40,
 	"name": "Int'l Relations",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 501",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 501",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19991,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

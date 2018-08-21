@@ -1,21 +1,36 @@
 {
-	"clbid": 5656,
+	"clbid": "0000005656",
 	"credits": 1.0,
-	"crsid": 29,
-	"departments": [
-		"ART"
-	],
-	"enroll": 17,
+	"crsid": "0000000029",
+	"department": "ART",
+	"enrolled": 17,
 	"instructors": [
 		"Margaret Ojala"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 102"
-	],
 	"max": 18,
 	"name": "Found Photography",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "CAD 102",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "CAD 102",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "CAD 102",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0200-0400PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

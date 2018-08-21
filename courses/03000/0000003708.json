@@ -1,22 +1,30 @@
 {
-	"clbid": 3708,
+	"clbid": "0000003708",
 	"credits": 1.0,
-	"crsid": 47,
-	"departments": [
-		"ART"
-	],
-	"enroll": 8,
+	"crsid": "0000000047",
+	"department": "ART",
+	"enrolled": 8,
 	"instructors": [
 		"David E. Ryan"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 101",
-		"CAD 101"
-	],
 	"max": 14,
 	"name": "Video Art Production",
 	"number": 239,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 101",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 101",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0800-1100",
-		"Th 0800-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

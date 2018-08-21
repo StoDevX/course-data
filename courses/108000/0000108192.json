@@ -1,22 +1,25 @@
 {
-	"clbid": 108192,
+	"clbid": "0000108192",
 	"credits": 0.0,
-	"crsid": 1164,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 14,
-	"groupid": 1163,
+	"crsid": "0000001164",
+	"department": "PSYCH",
+	"enrolled": 14,
+	"groupid": "0000001163",
 	"instructors": [
 		"Jessica R. Petok"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 14,
 	"name": "Cognitive Psychology Lab",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 240",
+			"start": "12:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"M 1200-0300PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

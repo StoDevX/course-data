@@ -1,21 +1,24 @@
 {
-	"clbid": 20630,
+	"clbid": "0000020630",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 16,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:50",
+			"location": "SC 111",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"T 0120-0350PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

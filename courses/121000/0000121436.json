@@ -1,25 +1,33 @@
 {
-	"clbid": 121436,
+	"clbid": "0000121436",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000452",
+	"department": "ENGL",
 	"description": [
 		"In this seminar, students learn about a range of methods for literary research by exploring literature in the context of critical, theoretical, cultural, or historical materials. For each student, the centerpiece of the course is the research and writing of a long essay that represents his or her individual research interests. Students share and respond to each other's work-in-progress and present their completed projects to the seminar. May be repeated if topic is different. Prerequisites: open to juniors and seniors who have completed ENGL 185 and at least two level II English courses or by permission of the instructor."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Rebecca S. Richards"
 	],
 	"level": 300,
-	"locations": [
-		"RML 420",
-		"RML 420"
-	],
 	"max": 15,
 	"name": "Sem: Rhetoric & Power of Persuasion",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RML 420",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RML 420",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to juniors and seniors who have completed ENGL 185 and at least two level II English courses or by permission of the instructor.",
 	"revisions": [
@@ -43,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:45.419824+00:00",
 			"enroll": "13",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.343394+00:00",
+			"clbid": 121436,
+			"crsid": 452,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"RML 420",
+				"RML 420"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "The Major Seminar",
 	"type": "Seminar",
 	"year": 2018

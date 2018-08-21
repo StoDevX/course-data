@@ -1,21 +1,30 @@
 {
-	"clbid": 1704,
+	"clbid": "0000001704",
 	"credits": 1.0,
-	"crsid": 1371,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 14,
+	"crsid": "0000001371",
+	"department": "SWRK",
+	"enrolled": 14,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Social Worker as Prof",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 109",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

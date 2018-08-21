@@ -1,21 +1,24 @@
 {
-	"clbid": 4904,
+	"clbid": "0000004904",
 	"credits": 1.0,
-	"crsid": 328,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 6,
+	"crsid": "0000000328",
+	"department": "EDUC",
+	"enrolled": 6,
 	"instructors": [
 		"Maggie Broner"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Tchg of World Lang",
 	"number": 353,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "21:00",
+			"location": "FH 10L",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0600-0900PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

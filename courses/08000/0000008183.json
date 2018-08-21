@@ -1,21 +1,36 @@
 {
-	"clbid": 8183,
+	"clbid": "0000008183",
 	"credits": 1.0,
-	"crsid": 856,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 32,
+	"crsid": "0000000856",
+	"department": "MUSIC",
+	"enrolled": 32,
 	"instructors": [
 		"Alice Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "Music of 20th Century",
 	"number": 344,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 239",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

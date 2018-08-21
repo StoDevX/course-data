@@ -1,21 +1,36 @@
 {
-	"clbid": 9702,
+	"clbid": "0000009702",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 21,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 21,
 	"instructors": [
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516"
-	],
 	"max": 22,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 516",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 516",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 516",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

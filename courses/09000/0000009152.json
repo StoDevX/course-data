@@ -1,21 +1,36 @@
 {
-	"clbid": 9152,
+	"clbid": "0000009152",
 	"credits": 1.0,
-	"crsid": 58,
-	"departments": [
-		"ART"
-	],
-	"enroll": 30,
+	"crsid": "0000000058",
+	"department": "ART",
+	"enrolled": 30,
 	"instructors": [
 		"Karil J. Kucera"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Arts of Japan",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 305",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 305",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 305",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

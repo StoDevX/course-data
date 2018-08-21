@@ -1,21 +1,30 @@
 {
-	"clbid": 1397,
+	"clbid": "0000001397",
 	"credits": 1.0,
-	"crsid": 757,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000757",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [
-		"SC 188"
-	],
 	"max": 20,
 	"name": "Abstract Algebra II",
 	"number": 352,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 188",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 188",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

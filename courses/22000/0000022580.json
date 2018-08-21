@@ -1,21 +1,36 @@
 {
-	"clbid": 22580,
+	"clbid": "0000022580",
 	"credits": 1.0,
-	"crsid": 1952,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 25,
+	"crsid": "0000001952",
+	"department": "MATH",
+	"enrolled": 25,
 	"instructors": [
 		"Michael Kahn"
 	],
 	"level": 300,
-	"locations": [
-		"SC 188"
-	],
 	"max": 999,
 	"name": "Math Statistics",
 	"number": 312,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 188",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

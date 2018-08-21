@@ -1,14 +1,12 @@
 {
-	"clbid": 99526,
+	"clbid": "0000099526",
 	"credits": 1.0,
-	"crsid": 970,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000970",
+	"department": "PHIL",
 	"description": [
 		"This course surveys the origins and development of ancient Greek philosophy from the Presocratics in the 6th century BCE through Plato and Aristotle in the 4th century BCE. Students read and analyze primary texts in translation in order to examine the historical foundations of philosophical issues in cosmogony, natural philosophy, metaphysics, epistemology, logic, psychology, and ethics. As time permits, the course may include writings from one or more of the Hellenistic schools of Epicureans, Stoics, and Skeptics. Offered annually. Counts toward ancient studies major. Prerequisite: one course in philosophy or permission of instructor."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Danny Munoz-Hutchinson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 18,
 	"name": "Ancient Greek Philosophy",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one course in philosophy or permission of instructor.",
 	"revisions": [
@@ -54,10 +62,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

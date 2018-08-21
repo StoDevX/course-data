@@ -1,21 +1,30 @@
 {
-	"clbid": 16497,
+	"clbid": "0000016497",
 	"credits": 1.0,
-	"crsid": 1321,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 7,
+	"crsid": "0000001321",
+	"department": "SOAN",
+	"enrolled": 7,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"M 1"
-	],
 	"max": 999,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 1",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 1",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

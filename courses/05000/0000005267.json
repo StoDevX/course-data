@@ -1,21 +1,30 @@
 {
-	"clbid": 5267,
+	"clbid": "0000005267",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001020",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"William Thornton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC N GYM"
-	],
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC N GYM",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC N GYM",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

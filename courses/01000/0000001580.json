@@ -1,21 +1,30 @@
 {
-	"clbid": 1580,
+	"clbid": "0000001580",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 42,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 42,
 	"instructors": [
 		"James Otteson"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

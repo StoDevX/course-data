@@ -1,21 +1,30 @@
 {
-	"clbid": 1715,
+	"clbid": "0000001715",
 	"credits": 1.0,
-	"crsid": 794,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 17,
+	"crsid": "0000000794",
+	"department": "THEAT",
+	"enrolled": 17,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 200,
-	"locations": [
-		"CT 227"
-	],
 	"max": 999,
 	"name": "Comm/Contemp Culture",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CT 227",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CT 227",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

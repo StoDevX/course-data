@@ -1,22 +1,30 @@
 {
-	"clbid": 9978,
+	"clbid": "0000009978",
 	"credits": 1.0,
-	"crsid": 1392,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 24,
+	"crsid": "0000001392",
+	"department": "THEAT",
+	"enrolled": 24,
 	"instructors": [
 		"Jeanne I. Willcoxon"
 	],
 	"level": 200,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 25,
 	"name": "Hist/Theat-Since 1700",
 	"number": 271,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TB 227",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB 227",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

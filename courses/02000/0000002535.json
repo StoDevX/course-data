@@ -1,21 +1,36 @@
 {
-	"clbid": 2535,
+	"clbid": "0000002535",
 	"credits": 1.0,
-	"crsid": 1359,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 27,
+	"crsid": "0000001359",
+	"department": "SWRK",
+	"enrolled": 27,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Soc Work/Soc Services",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 403",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

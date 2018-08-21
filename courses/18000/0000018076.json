@@ -1,22 +1,31 @@
 {
-	"clbid": 18076,
+	"clbid": "0000018076",
 	"credits": 0.5,
-	"crsid": 334,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 12,
+	"crsid": "0000000334",
+	"department": "EDUC",
+	"enrolled": 12,
 	"halfcredit": "1",
 	"instructors": [
 		"Larry Fowler"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 999,
 	"name": "Tchg of Soc Studies",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "We",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 0600-0730PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

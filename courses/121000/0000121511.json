@@ -1,14 +1,12 @@
 {
-	"clbid": 121511,
+	"clbid": "0000121511",
 	"credits": 0.25,
-	"crsid": 351,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000351",
+	"department": "DANCE",
 	"description": [
 		"This course introduces modern dance as a style of dance and a dance aesthetic. It explores at a beginning level a range of movement vocabulary, body awareness, and creative process. Teaching faculty bring their individual movement backgrounds to the class content. P/N only. Offered each semester. May be repeated several times with permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2",
-		"CAD Studio 2"
-	],
 	"max": 25,
 	"name": "Modern Dance I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CAD Studio 2",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD Studio 2",
+			"start": "14:40"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -43,16 +51,32 @@
 			"_updated": "2018-08-07T14:48:49.616566+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.701429+00:00",
+			"clbid": 121511,
+			"crsid": 351,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 2",
+				"CAD Studio 2"
+			],
+			"offerings": null,
+			"times": [
+				"T 0200-0255PM",
+				"Th 0240-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0200-0255PM",
-		"Th 0240-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

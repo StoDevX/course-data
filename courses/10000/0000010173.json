@@ -1,22 +1,49 @@
 {
-	"clbid": 10173,
+	"clbid": "0000010173",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 12,
-	"groupid": 1072,
+	"crsid": "0000001072",
+	"department": "PHYS",
+	"enrolled": 12,
+	"groupid": "0000001072",
 	"instructors": [
 		"Matthew C. Feig"
 	],
 	"level": 100,
-	"locations": [
-		"SC 129"
-	],
 	"max": 999,
 	"name": "Principles Physics I",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 129",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 129",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 129",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 129",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 129",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +61,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20044,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22297,
+	"clbid": "0000022297",
 	"credits": 0.0,
-	"crsid": 244,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 0,
+	"crsid": "0000000244",
+	"department": "CHIN",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Interm Chinese II/Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 3",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 3",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Lab",
 	"year": 1997
 }

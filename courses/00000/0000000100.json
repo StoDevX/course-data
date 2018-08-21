@@ -1,21 +1,36 @@
 {
-	"clbid": 100,
+	"clbid": "0000000100",
 	"credits": 1.0,
-	"crsid": 192,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 50,
+	"crsid": "0000000192",
+	"department": "CHEM",
+	"enrolled": 50,
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 50,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

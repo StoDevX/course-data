@@ -1,21 +1,30 @@
 {
-	"clbid": 23435,
+	"clbid": "0000023435",
 	"credits": 1.0,
-	"crsid": 435,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 13,
+	"crsid": "0000000435",
+	"department": "ENGL",
+	"enrolled": 13,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 15,
 	"name": "17th-C Lit & Revolutn",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 1998
 }

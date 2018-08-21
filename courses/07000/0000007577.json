@@ -1,21 +1,48 @@
 {
-	"clbid": 7577,
+	"clbid": "0000007577",
 	"credits": 1.0,
-	"crsid": 804,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 1,
+	"crsid": "0000000804",
+	"department": "MUSIC",
+	"enrolled": 1,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 999,
 	"name": "The Art of Music",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "CHM 239",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "CHM 239",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "CHM 239",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "CHM 239",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "CHM 239",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20035,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

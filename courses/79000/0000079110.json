@@ -1,25 +1,33 @@
 {
-	"clbid": 79110,
+	"clbid": "0000079110",
 	"credits": 0.5,
-	"crsid": 833,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000833",
+	"department": "MUSIC",
 	"description": [
 		"Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Prerequisite: Music 114 or permission of instructor. Offered annually in the spring semester."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Anton Armstrong"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233",
-		"CHM 233"
-	],
 	"max": 25,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 233",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 114 or permission of instructor. Offered annually in the spring semester.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2011
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 18588,
+	"clbid": "0000018588",
 	"credits": 1.0,
-	"crsid": 1195,
-	"departments": [
-		"REL"
-	],
-	"enroll": 26,
+	"crsid": "0000001195",
+	"department": "REL",
+	"enrolled": 26,
 	"instructors": [
 		"Douglas Schuurman"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 25,
 	"name": "Chri Theol/Moral Life",
 	"number": 207,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 111",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 111",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

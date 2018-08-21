@@ -1,14 +1,12 @@
 {
-	"clbid": 69570,
+	"clbid": "0000069570",
 	"credits": 1.0,
-	"crsid": 1193,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001193",
+	"department": "REL",
 	"description": [
 		"This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Prerequisite: BTS-B."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Jamie A. Schillinger"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 24,
 	"name": "Classics and Moderns",
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "BMC 101",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

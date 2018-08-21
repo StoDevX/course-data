@@ -1,22 +1,30 @@
 {
-	"clbid": 5461,
+	"clbid": "0000005461",
 	"credits": 1.0,
-	"crsid": 1356,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001356",
+	"department": "SPAN",
+	"enrolled": 21,
 	"instructors": [
 		"Leon Narvaez"
 	],
 	"level": 300,
-	"locations": [
-		"OM 021",
-		"OM 021"
-	],
 	"max": 25,
 	"name": "Seminar in Literature",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 021",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 021",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

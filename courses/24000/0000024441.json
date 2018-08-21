@@ -1,21 +1,30 @@
 {
-	"clbid": 24441,
+	"clbid": "0000024441",
 	"credits": 0.25,
-	"crsid": 356,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 11,
+	"crsid": "0000000356",
+	"department": "DNCTE",
+	"enrolled": 11,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 200,
-	"locations": [
-		"CTR ST"
-	],
 	"max": 16,
 	"name": "Internat'l Dance II",
 	"number": 209,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "CTR ST",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "CTR ST",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

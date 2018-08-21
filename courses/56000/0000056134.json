@@ -1,25 +1,34 @@
 {
-	"clbid": 56134,
+	"clbid": "0000056134",
 	"credits": 0.25,
-	"crsid": 1007,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001007",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction in and practice of the basic techniques of canoeing; safety in handling the canoe. Prerequisite: ability to swim. Lab fee."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"halfcredit": "1",
 	"instructors": [
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 19,
 	"name": "Canoeing",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TC",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TC",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ability to swim. Lab fee.",
 	"revisions": [
@@ -41,9 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

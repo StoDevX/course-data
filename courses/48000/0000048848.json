@@ -1,22 +1,30 @@
 {
-	"clbid": 48848,
+	"clbid": "0000048848",
 	"credits": 1.0,
-	"crsid": 17201,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 31,
+	"crsid": "0000017201",
+	"department": "HIST",
+	"enrolled": 31,
 	"instructors": [
 		"Eric J. Fure-Slocum"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 35,
 	"name": "Top: Wal-Mart America",
 	"number": 297,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 317",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 317",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Topic",
 	"year": 2005
 }

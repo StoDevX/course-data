@@ -1,14 +1,12 @@
 {
-	"clbid": 115144,
+	"clbid": "0000115144",
 	"credits": 1.0,
-	"crsid": 724,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000724",
+	"department": "LATIN",
 	"description": [
 		"The Romans claimed that satire was a literary genre of their own creation. Students are able to weigh the merits of that claim as they translate selections from the wry and witty texts of prominent Roman satirists such as Horace, Petronius, Martial, and Juvenal. Offered periodically. Counts toward ancient studies and medieval studies majors. Prerequisite: LATIN 231 or equivalent."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,13 +14,23 @@
 		"Hilary J. Bouxsein"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 300",
-		"TOH 300"
-	],
 	"max": 10,
 	"name": "Latin Satire",
 	"number": 377,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 300",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 300",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 231 or equivalent.",
 	"revisions": [
@@ -57,10 +65,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2017
 }

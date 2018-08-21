@@ -1,21 +1,36 @@
 {
-	"clbid": 4065,
+	"clbid": "0000004065",
 	"credits": 1.0,
-	"crsid": 732,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000732",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Martha Wallace"
 	],
 	"level": 100,
-	"locations": [
-		"SC 188"
-	],
 	"max": 25,
 	"name": "Math Analysis I",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

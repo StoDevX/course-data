@@ -1,22 +1,30 @@
 {
-	"clbid": 7439,
+	"clbid": "0000007439",
 	"credits": 1.0,
-	"crsid": 1376,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 18,
+	"crsid": "0000001376",
+	"department": "THEAT",
+	"enrolled": 18,
 	"instructors": [
 		"Emil Herrera"
 	],
 	"level": 100,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 18,
 	"name": "Acting for Non-Majors",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TB Haugen",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TB Haugen",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2003
 }

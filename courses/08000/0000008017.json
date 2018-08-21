@@ -1,22 +1,30 @@
 {
-	"clbid": 8017,
+	"clbid": "0000008017",
 	"credits": 1.0,
-	"crsid": 632,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 10,
+	"crsid": "0000000632",
+	"department": "HIST",
+	"enrolled": 10,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 18,
 	"name": "Sem: Race/Gender/Med",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 514",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

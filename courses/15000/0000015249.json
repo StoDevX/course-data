@@ -1,21 +1,30 @@
 {
-	"clbid": 15249,
+	"clbid": "0000015249",
 	"credits": 1.0,
-	"crsid": 2242,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 12,
+	"crsid": "0000002242",
+	"department": "PSCI",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280"
-	],
 	"max": 30,
 	"name": "Political Analysis",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 280",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 280",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

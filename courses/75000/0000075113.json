@@ -1,22 +1,25 @@
 {
-	"clbid": 75113,
+	"clbid": "0000075113",
 	"credits": 0.0,
-	"crsid": 20822,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 15,
-	"groupid": 20158,
+	"crsid": "0000020822",
+	"department": "BIO",
+	"enrolled": 15,
+	"groupid": "0000020158",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 160D"
-	],
 	"max": 18,
 	"name": "Prin of Bioinform Lab",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 160D",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

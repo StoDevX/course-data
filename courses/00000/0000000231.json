@@ -1,21 +1,36 @@
 {
-	"clbid": 231,
+	"clbid": "0000000231",
 	"credits": 1.0,
-	"crsid": 432,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 15,
+	"crsid": "0000000432",
+	"department": "ENGL",
+	"enrolled": 15,
 	"instructors": [
 		"Karen Cherewatuk"
 	],
 	"level": 200,
-	"locations": [
-		"L 525"
-	],
 	"max": 35,
 	"name": "Chaucer & His Contemp",
 	"number": 290,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "L 525",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2000
 }

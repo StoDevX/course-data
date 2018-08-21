@@ -1,21 +1,30 @@
 {
-	"clbid": 17308,
+	"clbid": "0000017308",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 10,
+	"crsid": "0000001022",
+	"department": "PEAC",
+	"enrolled": 10,
 	"instructors": [
 		"Todd R. Carroll"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 20,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC FH",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC FH",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

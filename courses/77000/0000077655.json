@@ -1,14 +1,12 @@
 {
-	"clbid": 77655,
+	"clbid": "0000077655",
 	"credits": 1.0,
-	"crsid": 1220,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001220",
+	"department": "REL",
 	"description": [
 		"This course, surveying the general nature and assumptions of Hindu thought, focuses on the diversity of doctrines and practices within some of its major traditions. Students analyze selections from authoritative Sanskrit texts like the Upanishads and Bhagavad-gita, directing special attention to the central issues and developments in Hindu-Christian dialogue."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Anantanand Rambachan"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111",
-		"BMC 111"
-	],
 	"max": 35,
 	"name": "Hinduism",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 111",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 111",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20111,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2011
 }

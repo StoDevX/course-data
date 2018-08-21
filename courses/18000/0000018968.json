@@ -1,21 +1,24 @@
 {
-	"clbid": 18968,
+	"clbid": "0000018968",
 	"credits": 0.0,
-	"crsid": 107,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000107",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Cell Bio & Genetics/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:00",
+			"location": "SC 273",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"Th 0300-0500PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

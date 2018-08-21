@@ -1,22 +1,30 @@
 {
-	"clbid": 6889,
+	"clbid": "0000006889",
 	"credits": 1.0,
-	"crsid": 376,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 13,
+	"crsid": "0000000376",
+	"department": "DNCTH",
+	"enrolled": 13,
 	"instructors": [
 		"Janice Roberts"
 	],
 	"level": 300,
-	"locations": [
-		"CAD _STUDIO_3",
-		"CAD _STUDIO_3"
-	],
 	"max": 16,
 	"name": "Advanced Choreography",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD _STUDIO_3",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD _STUDIO_3",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

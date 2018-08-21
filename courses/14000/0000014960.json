@@ -1,21 +1,36 @@
 {
-	"clbid": 14960,
+	"clbid": "0000014960",
 	"credits": 1.0,
-	"crsid": 531,
-	"departments": [
-		"GCON"
-	],
-	"enroll": 22,
+	"crsid": "0000000531",
+	"department": "GCON",
+	"enrolled": 22,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"H 516"
-	],
 	"max": 22,
 	"name": "Greeks and Hebrews",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 516",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 516",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 516",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,31 @@
 {
-	"clbid": 20279,
+	"clbid": "0000020279",
 	"credits": 1.0,
-	"crsid": 399,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 41,
+	"crsid": "0000000399",
+	"department": "ENGL",
+	"enrolled": 41,
 	"instructors": [
 		"Jonathan Hill",
 		"Colin Wells"
 	],
 	"level": 200,
-	"locations": [
-		"L 515"
-	],
 	"max": 60,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "L 515",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "L 515",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 1996
 }

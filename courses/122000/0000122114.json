@@ -1,25 +1,33 @@
 {
-	"clbid": 122114,
+	"clbid": "0000122114",
 	"credits": 1.0,
-	"crsid": 822,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000822",
+	"department": "MUSIC",
 	"description": [
 		"Students are introduced to a number of compositional techniques and apply them in creating original works of music and hearing them performed. Participants listen to important 20th- and 21st-century compositions, and discuss current trends in music, the changing role of the composer in society, and practical composition issues. Offered each semester. Prerequisite: MUSIC 114, or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Timothy Mahr"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 16,
 	"name": "Composition I",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 114, or permission of instructor.",
 	"revisions": [
@@ -32,15 +40,31 @@
 			"_updated": "2018-08-07T14:48:49.833649+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.989557+00:00",
+			"clbid": 122114,
+			"crsid": 822,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

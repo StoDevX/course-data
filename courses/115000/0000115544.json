@@ -1,14 +1,12 @@
 {
-	"clbid": 115544,
+	"clbid": "0000115544",
 	"credits": 1.0,
-	"crsid": 1389,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001389",
+	"department": "THEAT",
 	"description": [
 		"This studio course covers drawing and painting as it relates to theater design and production work. Students engage in exercises and project work in perceptual drawing, scene painting, and technical drawing. Course fee is required. Open to all majors and non-majors. Offered periodically."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,13 +14,23 @@
 		"Brian Bjorklund"
 	],
 	"level": 200,
-	"locations": [
-		"TB Green Rm",
-		"TB Green Rm"
-	],
 	"max": 11,
 	"name": "Draw/Paintng/Theater",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TB Green Rm",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TB Green Rm",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Drawing and Painting for Theater",
 	"type": "Research",
 	"year": 2017

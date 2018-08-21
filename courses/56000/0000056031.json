@@ -1,25 +1,33 @@
 {
-	"clbid": 56031,
+	"clbid": "0000056031",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001020",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"William Thornton"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_N",
-		"SAC_GYM_N"
-	],
 	"max": 16,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC_GYM_N",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC_GYM_N",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 12180,
+	"clbid": "0000012180",
 	"credits": 1.0,
-	"crsid": 965,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000965",
+	"department": "PHIL",
 	"description": [
 		"This seminar introduces students to the discipline of philosophy by focusing on psychological issues related to moral behavior. Students study those states of mind and character that are thought to constitute moral (or evil) character and produce moral (or evil) actions, relationships and societies. Guilt, shame, humility, self-respect; sympathy, compassion, caring, anger; truthfulness, courage, self-knowledge: what are these states? And what influence does their presence or absence have on human relationships and society?"
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Jeanine Grenberg"
 	],
 	"level": 100,
-	"locations": [
-		"HH 516"
-	],
 	"max": 19,
 	"name": "Moral Psychology",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 516",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 516",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "HH 516",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2005
 }

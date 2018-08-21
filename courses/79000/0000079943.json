@@ -1,22 +1,25 @@
 {
-	"clbid": 79943,
+	"clbid": "0000079943",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 8,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 8,
+	"groupid": "0000001080",
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 16,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:15",
+			"location": "RNS 293",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"Th 1245-0315PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 118642,
+	"clbid": "0000118642",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000734",
+	"department": "MATH",
 	"description": [
 		"This course covers the material in MATH 126 in greater depth and breadth. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered annually in the fall semester. Prerequisite: 4 or 5 on AP Calculus AB exam or permission of the Mathematics Placement Director."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 20,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 204",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "4 or 5 on AP Calculus AB exam or permission of the Mathematics Placement Director.",
 	"revisions": [
@@ -59,15 +74,30 @@
 			"_updated": "2018-08-07T14:48:44.827998+00:00",
 			"enroll": "1",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.177538+00:00",
+			"clbid": 118642,
+			"crsid": 734,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 1,
+			"enrolled": null,
+			"locations": [
+				"RNS 204"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

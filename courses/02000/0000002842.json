@@ -1,21 +1,30 @@
 {
-	"clbid": 2842,
+	"clbid": "0000002842",
 	"credits": 1.0,
-	"crsid": 36,
-	"departments": [
-		"ART"
-	],
-	"enroll": 15,
+	"crsid": "0000000036",
+	"department": "ART",
+	"enrolled": 15,
 	"instructors": [
 		"Irve Dell"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 105"
-	],
 	"max": 15,
 	"name": "Sculpt: Metal Direct",
 	"number": 224,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 105",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CAD 105",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

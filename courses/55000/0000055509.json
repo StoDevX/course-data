@@ -1,26 +1,34 @@
 {
-	"clbid": 55509,
+	"clbid": "0000055509",
 	"credits": 0.5,
-	"crsid": 18428,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000018428",
+	"department": "ASIAN",
 	"description": [
 		"This half-semester course compares English and Japanese on the basis of phonology, morphology, syntax and pragmatics. It is intended for students who plan to teach ESL (not necessarily just in Japan and Asia) and for those who want a deeper understanding of the Japanese language. Occasional references will be made to Korean and Chinese. Knowledge of Japanese, though helpful, is not necessary."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"halfcredit": "2",
 	"instructors": [
 		"Maggie Broner"
 	],
 	"level": 200,
-	"locations": [
-		"Mod 3",
-		"Mod 3"
-	],
 	"max": 25,
 	"name": "Comparing English/Japanes",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "Mod 3",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "Mod 3",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2006
 }

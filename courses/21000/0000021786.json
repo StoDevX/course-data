@@ -1,21 +1,36 @@
 {
-	"clbid": 21786,
+	"clbid": "0000021786",
 	"credits": 1.0,
-	"crsid": 1294,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 29,
+	"crsid": "0000001294",
+	"department": "SOAN",
+	"enrolled": 29,
 	"instructors": [
 		"Carolyn Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"H 301"
-	],
 	"max": 30,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 301",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

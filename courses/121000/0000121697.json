@@ -1,14 +1,12 @@
 {
-	"clbid": 121697,
+	"clbid": "0000121697",
 	"credits": 1.0,
-	"crsid": 547,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000547",
+	"department": "GREEK",
 	"description": [
 		"Readings in Greek from the works of Herodotus, the \"Father of History,\" and Thucydides, the first \"scientific\" historian, provide the backdrop for studying the development of Greek historiography. Students analyze the historians' distinctive methods and writing styles and compare them with those of modern historians. Offered alternate years. Prerequisite: GREEK 231 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-K"
 	],
@@ -16,13 +14,23 @@
 		"Hilary J. Bouxsein"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 10,
 	"name": "Greek Historians",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GREEK 231 or equivalent.",
 	"revisions": [
@@ -41,15 +49,31 @@
 			"_updated": "2018-08-07T14:48:49.769140+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.829850+00:00",
+			"clbid": 121697,
+			"crsid": 547,
+			"department": null,
+			"departments": [
+				"GREEK"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

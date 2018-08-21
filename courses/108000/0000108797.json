@@ -1,23 +1,26 @@
 {
-	"clbid": 108797,
+	"clbid": "0000108797",
 	"credits": 0.0,
-	"crsid": 26692,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
-	"groupid": 1158,
+	"crsid": "0000026692",
+	"department": "PSYCH",
+	"enrolled": 18,
+	"groupid": "0000001158",
 	"grouptype": "2",
 	"instructors": [
 		"Grace E. Cho"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 18,
 	"name": "Research Methods Lab",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:30",
+			"location": "RNS 123",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +47,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"M 1230-0230PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

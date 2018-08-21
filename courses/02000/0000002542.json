@@ -1,21 +1,36 @@
 {
-	"clbid": 2542,
+	"clbid": "0000002542",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 29,
+	"crsid": "0000001375",
+	"department": "THEAT",
+	"enrolled": 29,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 32,
 	"name": "Intro to Theater",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SPT 216",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SPT 216",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SPT 216",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

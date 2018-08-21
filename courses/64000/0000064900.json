@@ -1,11 +1,9 @@
 {
-	"clbid": 64900,
+	"clbid": "0000064900",
 	"credits": 1.0,
-	"crsid": 20617,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 27,
+	"crsid": "0000020617",
+	"department": "ARMS",
+	"enrolled": 27,
 	"gereqs": [
 		"ALS-A",
 		"MCD"
@@ -14,12 +12,29 @@
 		"David Hagedorn"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 20,
 	"name": "Top: Hip Hop",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2008
 }

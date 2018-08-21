@@ -1,21 +1,24 @@
 {
-	"clbid": 6778,
+	"clbid": "0000006778",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 0,
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374/371"
-	],
 	"max": 28,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "SC 374/371",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2003
 }

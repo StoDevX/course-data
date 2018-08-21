@@ -1,14 +1,12 @@
 {
-	"clbid": 108829,
+	"clbid": "0000108829",
 	"credits": 1.0,
-	"crsid": 98,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000000098",
+	"department": "ASIAN",
 	"description": [
 		"A capstone experience offering an opportunity to pursue a research project and to discuss issues of general interest to students of Asia. This seminar proceeds along two tracks: one focusing on discussion of readings of general interest to Asian Studies students, the other devoted to research,writing, and presenting findings to the class. Offered annually. Prerequisite: ASIAN 275 or permission of the instructor."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Robert Entenmann"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 312",
-		"TOH 312"
-	],
 	"max": 15,
 	"name": "Sem: Asia",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 312",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 312",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ASIAN 275 or permission of the instructor.",
 	"revisions": [
@@ -59,10 +67,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Seminar for Asian Studies Majors",
 	"type": "Seminar",
 	"year": 2016

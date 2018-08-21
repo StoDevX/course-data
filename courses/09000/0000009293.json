@@ -1,22 +1,30 @@
 {
-	"clbid": 9293,
+	"clbid": "0000009293",
 	"credits": 1.0,
-	"crsid": 269,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 21,
+	"crsid": "0000000269",
+	"department": "ECON",
+	"enrolled": 21,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413",
-		"HH 413"
-	],
 	"max": 25,
 	"name": "Bus, Govt & Marketpl",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 413",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 413",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

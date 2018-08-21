@@ -1,21 +1,36 @@
 {
-	"clbid": 26286,
+	"clbid": "0000026286",
 	"credits": 1.0,
-	"crsid": 214,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 26,
+	"crsid": "0000000214",
+	"department": "CHEM",
+	"enrolled": 26,
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 35,
 	"name": "Biochemistry I",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 274",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 274",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 274",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

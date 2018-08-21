@@ -1,21 +1,48 @@
 {
-	"clbid": 3675,
+	"clbid": "0000003675",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 22,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 22,
 	"instructors": [
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [
-		"L 421"
-	],
 	"max": 999,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "L 421",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "L 421",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "L 421",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "L 421",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "23:59",
+			"location": "L 421",
+			"start": "00:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20015,
-	"times": [
-		"M-Th 1000-1130",
-		"F 00-00"
-	],
 	"type": "Research",
 	"year": 2001
 }

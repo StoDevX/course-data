@@ -1,14 +1,12 @@
 {
-	"clbid": 99192,
+	"clbid": "0000099192",
 	"credits": 0.25,
-	"crsid": 999,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000999",
+	"department": "ESAC",
 	"description": [
 		"Students learn basic skills and techniques of in-line skating. Equipment is required for participation."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,15 +15,32 @@
 		"William Sean Goldsworthy"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 19,
 	"name": "In-Line Skating",
 	"notes": [
 		"Second half of semester course."
 	],
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

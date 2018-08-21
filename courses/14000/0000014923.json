@@ -1,21 +1,36 @@
 {
-	"clbid": 14923,
+	"clbid": "0000014923",
 	"credits": 1.0,
-	"crsid": 477,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 17,
+	"crsid": "0000000477",
+	"department": "FREN",
+	"enrolled": 17,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 25,
 	"name": "Beginning French II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 4",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

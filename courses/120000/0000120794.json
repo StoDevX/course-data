@@ -1,25 +1,28 @@
 {
-	"clbid": 120794,
+	"clbid": "0000120794",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000200",
+	"department": "CHEM",
 	"description": [
 		"This course is a continuation of CHEM 253. Students gain more experience with techniques used in CHEM 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Offered annually in the spring semester. Counts toward environmental studies major (natural science emphasis) and biomolecular science concentration. Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248."
 	],
-	"enroll": 0,
-	"groupid": 197,
+	"enrolled": 0,
+	"groupid": "0000000197",
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 18,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 340",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
 	"revisions": [
@@ -32,15 +35,31 @@
 			"_updated": "2018-08-07T14:48:49.102768+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.469865+00:00",
+			"clbid": 120794,
+			"crsid": 200,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 197,
+			"locations": [
+				"RNS 340"
+			],
+			"offerings": null,
+			"times": [
+				"M 0200-0500PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2018

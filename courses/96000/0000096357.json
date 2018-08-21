@@ -1,14 +1,12 @@
 {
-	"clbid": 96357,
+	"clbid": "0000096357",
 	"credits": 1.0,
-	"crsid": 287,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000287",
+	"department": "CSCI",
 	"description": [
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers, and its applications to other disciplines. Students explore fundamental concepts, including iteration, recursion, object-oriented software design, algorithm efficiency, levels of naming, parallel computing, and computing ethics. Students apply these concepts daily in hands-on homework exercises relevant to fields in the arts, humanities (including digital humanities computations), social sciences, and natural sciences. Includes a team project applying CS to a chosen discipline. No prior experience with programming is expected or required. Offered each semester. One of CSCI 121, CSCI 125, or CSCI 251counts toward linguistic studies concentration."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Richard Allen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 30,
 	"name": "Principles Comp Sci",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 203",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 203",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 203",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Computer Science",
 	"type": "Research",
 	"year": 2014

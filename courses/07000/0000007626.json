@@ -1,21 +1,36 @@
 {
-	"clbid": 7626,
+	"clbid": "0000007626",
 	"credits": 1.0,
-	"crsid": 39,
-	"departments": [
-		"ART"
-	],
-	"enroll": 14,
+	"crsid": "0000000039",
+	"department": "ART",
+	"enrolled": 14,
 	"instructors": [
 		"John Saurer"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 212"
-	],
 	"max": 16,
 	"name": "Printmkg: Intaglio/Mono",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 212",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 212",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 212",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1045-1245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

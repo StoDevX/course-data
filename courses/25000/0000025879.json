@@ -1,21 +1,36 @@
 {
-	"clbid": 25879,
+	"clbid": "0000025879",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 21,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 21,
 	"instructors": [
 		"Linda Devenish"
 	],
 	"level": 100,
-	"locations": [
-		"CT 216"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CT 216",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CT 216",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CT 216",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19991,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

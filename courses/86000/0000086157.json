@@ -1,14 +1,12 @@
 {
-	"clbid": 86157,
+	"clbid": "0000086157",
 	"credits": 1.0,
-	"crsid": 631,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000631",
+	"department": "HIST",
 	"description": [
 		"This seminar covers various topics in early modern European history, depending upon the instructor. The most recently offered topic: \"Reformation and Revolution in England.\" May be repeated if topics are different. Offered periodically."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"J. L. Carrington"
 	],
 	"level": 300,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 18,
 	"name": "Sem: Early Reformation",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20123,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Seminar: Early Modern Europe",
 	"type": "Seminar",
 	"year": 2012

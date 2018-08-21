@@ -1,21 +1,24 @@
 {
-	"clbid": 6785,
+	"clbid": "0000006785",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 21,
+	"crsid": "0000000200",
+	"department": "CHEM",
+	"enrolled": 21,
 	"instructors": [
 		"Patrick N. Riley"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 24,
 	"name": "Synthesis Lab",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 378/311",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2003
 }

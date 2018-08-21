@@ -1,22 +1,30 @@
 {
-	"clbid": 9611,
+	"clbid": "0000009611",
 	"credits": 1.0,
-	"crsid": 778,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 25,
+	"crsid": "0000000778",
+	"department": "MGMT",
+	"enrolled": 25,
 	"instructors": [
 		"Siriwan Chutikamoltham"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301",
-		"HH 301"
-	],
 	"max": 25,
 	"name": "Management",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 301",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 301",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

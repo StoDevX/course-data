@@ -1,14 +1,12 @@
 {
-	"clbid": 86295,
+	"clbid": "0000086295",
 	"credits": 1.0,
-	"crsid": 25199,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000025199",
+	"department": "SOAN",
 	"description": [
 		"This course introduces students to the study of crime and the criminal justice system from a sociological perspective. Topics include types of crime; theories of crime causation; the role of the criminal justice system in social control; the racial and social class implications of the criminal law and law enforcement strategies; and drug policy. Offered annually in the fall or spring semester or during Interim."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Theodore E. Thornhill"
 	],
 	"level": 100,
-	"locations": [
-		"OM 30",
-		"OM 30"
-	],
 	"max": 18,
 	"name": "Crime and Inequality",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 30",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 30",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 69892,
+	"clbid": "0000069892",
 	"credits": 0.0,
-	"crsid": 1164,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 15,
-	"groupid": 1163,
+	"crsid": "0000001164",
+	"department": "PSYCH",
+	"enrolled": 15,
+	"groupid": "0000001163",
 	"instructors": [
 		"Howard Thorsheim"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 240"
-	],
 	"max": 15,
 	"name": "Cognit/Learn/Memory Lab",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "RNS 240",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

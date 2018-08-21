@@ -1,21 +1,36 @@
 {
-	"clbid": 8319,
+	"clbid": "0000008319",
 	"credits": 1.0,
-	"crsid": 1103,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 31,
+	"crsid": "0000001103",
+	"department": "PSCI",
+	"enrolled": 31,
 	"instructors": [
 		"Donald I. Ostrom"
 	],
 	"level": 100,
-	"locations": [
-		"HH 403"
-	],
 	"max": 35,
 	"name": "American Politics",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 403",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

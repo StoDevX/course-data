@@ -1,21 +1,30 @@
 {
-	"clbid": 21859,
+	"clbid": "0000021859",
 	"credits": 1.0,
-	"crsid": 2487,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 13,
+	"crsid": "0000002487",
+	"department": "THEAT",
+	"enrolled": 13,
 	"instructors": [
 		"Adrienne H. Daniels"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 25,
 	"name": "Topics Public Address",
 	"number": 389,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SPT 227",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SPT 227",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 1997
 }

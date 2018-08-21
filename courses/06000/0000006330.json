@@ -1,23 +1,31 @@
 {
-	"clbid": 6330,
+	"clbid": "0000006330",
 	"credits": 1.0,
-	"crsid": 1382,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 26,
+	"crsid": "0000001382",
+	"department": "THEAT",
+	"enrolled": 26,
 	"instructors": [
 		"Andrea Wollenberg",
 		"Karen Wilson"
 	],
 	"level": 200,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 20,
 	"name": "Voice & Phonetics",
 	"number": 200,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TB 227",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TB 227",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

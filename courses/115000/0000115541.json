@@ -1,14 +1,12 @@
 {
-	"clbid": 115541,
+	"clbid": "0000115541",
 	"credits": 1.0,
-	"crsid": 21523,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000021523",
+	"department": "SOAN",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,13 +14,23 @@
 		"Marc David"
 	],
 	"level": 200,
-	"locations": [
-		"HH 205",
-		"HH 205"
-	],
 	"max": 19,
 	"name": "Top: Political Anthropology",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 205",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 205",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -53,10 +61,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in Sociology/Anthropology",
 	"type": "Research",
 	"year": 2017

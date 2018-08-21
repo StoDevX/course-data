@@ -1,14 +1,12 @@
 {
-	"clbid": 112988,
+	"clbid": "0000112988",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include multiple regression, model diagnostics, and logistic regression. The approach focuses on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Offered each semester. Counts toward environmental studies major (natural science and social science emphases) and management studies, mathematical biology, and neuroscience concentrations. Prerequisite: STAT 110, STAT 212, or STAT 214, or ECON 263, or equivalent preparation, or permission of instructor."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,16 +14,26 @@
 		"Robert D. Eisinger"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Modeling",
 	"notes": [
 		"Open to first-year students by permission only."
 	],
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TOH 182",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TOH 182",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "STAT 110, STAT 212, or STAT 214, or ECON 263, or equivalent preparation, or permission of instructor.",
 	"revisions": [
@@ -51,10 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2017
 }

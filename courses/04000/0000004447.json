@@ -1,22 +1,30 @@
 {
-	"clbid": 4447,
+	"clbid": "0000004447",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
-	"enroll": 22,
+	"crsid": "0000001476",
+	"department": "WMNST",
+	"enrolled": 22,
 	"instructors": [
 		"Judy Kutulas"
 	],
 	"level": 100,
-	"locations": [
-		"H 302",
-		"H 302"
-	],
 	"max": 21,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 302",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "H 302",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

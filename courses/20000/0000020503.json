@@ -1,21 +1,36 @@
 {
-	"clbid": 20503,
+	"clbid": "0000020503",
 	"credits": 1.0,
-	"crsid": 922,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 26,
+	"crsid": "0000000922",
+	"department": "NORW",
+	"enrolled": 26,
 	"instructors": [
 		"Nancy Aarsvold"
 	],
 	"level": 100,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Begin Norwegian II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 15",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 15",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 15",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

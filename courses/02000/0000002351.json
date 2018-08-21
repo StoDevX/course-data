@@ -1,21 +1,30 @@
 {
-	"clbid": 2351,
+	"clbid": "0000002351",
 	"credits": 0.25,
-	"crsid": 1010,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 17,
+	"crsid": "0000001010",
+	"department": "PEAC",
+	"enrolled": 17,
 	"instructors": [
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"SAC POOL"
-	],
 	"max": 24,
 	"name": "Swim Fitness",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC POOL",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC POOL",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 94012,
+	"clbid": "0000094012",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Prerequisite: mathematics placement recommendation. Offered each semester."
 	],
-	"enroll": 35,
+	"enrolled": 35,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Joseph Benson"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 210",
-		"TOH 210"
-	],
 	"max": 30,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 210",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 210",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation. Offered each semester.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

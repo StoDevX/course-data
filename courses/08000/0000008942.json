@@ -1,21 +1,48 @@
 {
-	"clbid": 8942,
+	"clbid": "0000008942",
 	"credits": 1.0,
-	"crsid": 1114,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 23,
+	"crsid": "0000001114",
+	"department": "PSCI",
+	"enrolled": 23,
 	"instructors": [
 		"Charles E. Umbanhowar Sr"
 	],
 	"level": 200,
-	"locations": [
-		"OM 001"
-	],
 	"max": 24,
 	"name": "Politics",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "OM 001",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "OM 001",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "OM 001",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "OM 001",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "OM 001",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20042,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

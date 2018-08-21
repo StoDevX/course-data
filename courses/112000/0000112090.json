@@ -1,28 +1,43 @@
 {
-	"clbid": 112090,
+	"clbid": "0000112090",
 	"credits": 1.0,
-	"crsid": 237,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000237",
+	"department": "CHIN",
 	"description": [
 		"First of two elementary courses that helps students with no prior background to develop basic Mandarin skills, such as pronunciation, pinyin, grammar, and handwriting along with knowledge of Chinese culture and society. Students should achieve the Novice Mid level on the ACTFL proficiency scale and identify about 150 characters in areas of daily life and immediate needs upon completion of this course. Class meets four times weekly."
 	],
-	"enroll": 12,
-	"groupid": 237,
+	"enrolled": 12,
+	"groupid": "0000000237",
 	"instructors": [
 		"Ying Zhou"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 308"
-	],
 	"max": 14,
 	"name": "Beginning Chinese I",
 	"notes": [
 		"Students in Chinese 111B must also register for one lab Chinese 111AL or BL."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 308",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2017
 }

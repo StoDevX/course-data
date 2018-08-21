@@ -1,21 +1,30 @@
 {
-	"clbid": 16764,
+	"clbid": "0000016764",
 	"credits": 1.0,
-	"crsid": 64,
-	"departments": [
-		"ART"
-	],
-	"enroll": 6,
+	"crsid": "0000000064",
+	"department": "ART",
+	"enrolled": 6,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"FH SEM"
-	],
 	"max": 14,
 	"name": "Issues Art Criticism",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH SEM",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH SEM",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

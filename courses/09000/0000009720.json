@@ -1,22 +1,30 @@
 {
-	"clbid": 9720,
+	"clbid": "0000009720",
 	"credits": 1.0,
-	"crsid": 994,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 10,
+	"crsid": "0000000994",
+	"department": "PHIL",
+	"enrolled": 10,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 300,
-	"locations": [
-		"SH 02",
-		"SH 02"
-	],
 	"max": 15,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SH 02",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SH 02",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9809,
+	"clbid": "0000009809",
 	"credits": 1.0,
-	"crsid": 1109,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 33,
+	"crsid": "0000001109",
+	"department": "PSCI",
+	"enrolled": 33,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031",
-		"OM 031"
-	],
 	"max": 35,
 	"name": "Politics Human Rights",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 031",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 031",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

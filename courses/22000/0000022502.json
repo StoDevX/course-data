@@ -1,21 +1,30 @@
 {
-	"clbid": 22502,
+	"clbid": "0000022502",
 	"credits": 1.0,
-	"crsid": 553,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 26,
+	"crsid": "0000000553",
+	"department": "HIST",
+	"enrolled": 26,
 	"instructors": [
 		"Odd S. Lovoll"
 	],
 	"level": 100,
-	"locations": [
-		"M 4"
-	],
 	"max": 25,
 	"name": "Vikings",
 	"number": 105,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 4",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

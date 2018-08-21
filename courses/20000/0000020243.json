@@ -1,21 +1,30 @@
 {
-	"clbid": 20243,
+	"clbid": "0000020243",
 	"credits": 0.25,
-	"crsid": 347,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 9,
+	"crsid": "0000000347",
+	"department": "DNCTE",
+	"enrolled": 9,
 	"instructors": [
 		"Ann (wagner) Wagner"
 	],
 	"level": 100,
-	"locations": [
-		"SAC S GYM"
-	],
 	"max": 12,
 	"name": "Ballrm I Wmn",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "SAC S GYM",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "SAC S GYM",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

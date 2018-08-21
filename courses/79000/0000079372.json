@@ -1,14 +1,12 @@
 {
-	"clbid": 79372,
+	"clbid": "0000079372",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
+	"crsid": "0000001476",
+	"department": "WMNST",
 	"description": [
 		"Required for the women's studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts towards American studies major."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"MCD",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Jan C. Hill"
 	],
 	"level": 100,
-	"locations": [
-		"RML 421",
-		"RML 421"
-	],
 	"max": 16,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 421",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 421",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Introduction to Women's Studies",
 	"type": "Research",
 	"year": 2011

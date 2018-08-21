@@ -1,24 +1,33 @@
 {
-	"clbid": 56284,
+	"clbid": "0000056284",
 	"credits": 0.25,
-	"crsid": 350,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000350",
+	"department": "DANCE",
 	"description": [
 		"This course is an exploration of dance as recreation, exercise, creative process, and spiritual practice. Students experience and compare these functions of dance within culture by dancing together and creating group dances. Fundamental principles of body organization constitute the technical base of the class."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 2"
-	],
 	"max": 18,
 	"name": "Fundamentally Dance",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD Studio 2",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD Studio 2",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

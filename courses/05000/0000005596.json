@@ -1,21 +1,48 @@
 {
-	"clbid": 5596,
+	"clbid": "0000005596",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 34,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 34,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 378"
-	],
 	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "09:30",
+			"location": "CAD 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "09:30",
+			"location": "CAD 378",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:30",
+			"location": "CAD 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:30",
+			"location": "CAD 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "09:30",
+			"location": "CAD 378",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +66,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20025,
-	"times": [
-		"M-F 0800-0930"
-	],
 	"type": "Research",
 	"year": 2002
 }

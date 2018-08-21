@@ -1,14 +1,12 @@
 {
-	"clbid": 70095,
+	"clbid": "0000070095",
 	"credits": 1.0,
-	"crsid": 18785,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000018785",
+	"department": "PSCI",
 	"description": [
 		"This course examines the European working classes' struggle for political representation and social welfare after World War II. Attention is given to the Norwegian, French, British, and Czech cases. The course inquires whether social democracy has become a victim of its own success. Offered annually in the Fall Semester."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"HBS",
 		"HWC"
@@ -17,12 +15,29 @@
 		"J. Patrick Dale"
 	],
 	"level": 200,
-	"locations": [
-		"TB 216"
-	],
 	"max": 25,
 	"name": "European Social Democracy",
 	"number": 283,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TB 216",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TB 216",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TB 216",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

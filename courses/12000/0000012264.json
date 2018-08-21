@@ -1,21 +1,24 @@
 {
-	"clbid": 12264,
+	"clbid": "0000012264",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 21,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 21,
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 100,
-	"locations": [
-		"SC 111"
-	],
 	"max": 20,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:55",
+			"location": "SC 111",
+			"start": "14:25"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"Th 0225-0455PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

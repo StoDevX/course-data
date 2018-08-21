@@ -1,22 +1,30 @@
 {
-	"clbid": 9825,
+	"clbid": "0000009825",
 	"credits": 1.0,
-	"crsid": 1145,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 17,
+	"crsid": "0000001145",
+	"department": "PSCI",
+	"enrolled": 17,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 300,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 15,
 	"name": "Sem: Latin Am Politics",
 	"number": 367,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 317",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 317",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

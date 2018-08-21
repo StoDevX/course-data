@@ -1,21 +1,36 @@
 {
-	"clbid": 1633,
+	"clbid": "0000001633",
 	"credits": 0.25,
-	"crsid": 1198,
-	"departments": [
-		"REL"
-	],
-	"enroll": 5,
+	"crsid": "0000001198",
+	"department": "REL",
+	"enrolled": 5,
 	"instructors": [
 		"Wendy Allen"
 	],
 	"level": 200,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "FLC-French",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 36",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 36",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 36",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

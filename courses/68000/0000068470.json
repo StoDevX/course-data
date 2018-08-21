@@ -1,14 +1,12 @@
 {
-	"clbid": 68470,
+	"clbid": "0000068470",
 	"credits": 1.0,
-	"crsid": 1376,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001376",
+	"department": "THEAT",
 	"description": [
 		"This studio course is designed as an overview of the acting process for the non-major and includes basic acting theories, rehearsal techniques, improvisation, history and styles. Students explore and practice exercises, scene work and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. This course does not fulfill the acting requirement for the major. Offered each semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"ALS-A",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Jeanne I. Willcoxon"
 	],
 	"level": 100,
-	"locations": [
-		"TB Haugen"
-	],
 	"max": 18,
 	"name": "Acting for Non-Majors",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TB Haugen",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TB Haugen",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TB Haugen",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Acting for the Non-Major",
 	"type": "Research",
 	"year": 2009

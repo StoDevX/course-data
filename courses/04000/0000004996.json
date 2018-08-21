@@ -1,21 +1,36 @@
 {
-	"clbid": 4996,
+	"clbid": "0000004996",
 	"credits": 1.0,
-	"crsid": 480,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 21,
+	"crsid": "0000000480",
+	"department": "FREN",
+	"enrolled": 21,
 	"instructors": [
 		"Wendy Allen"
 	],
 	"level": 200,
-	"locations": [
-		"OM 026"
-	],
 	"max": 25,
 	"name": "Intermed French II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 026",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22178,
+	"clbid": "0000022178",
 	"credits": 0.5,
-	"crsid": 23,
-	"departments": [
-		"ART"
-	],
-	"enroll": 19,
+	"crsid": "0000000023",
+	"department": "ART",
+	"enrolled": 19,
 	"instructors": [
 		"Margaret Ojala"
 	],
 	"level": 100,
-	"locations": [
-		"FH 2"
-	],
 	"max": 20,
 	"name": "Found Photography",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "FH 2",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "FH 2",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

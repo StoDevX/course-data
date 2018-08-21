@@ -1,21 +1,36 @@
 {
-	"clbid": 4994,
+	"clbid": "0000004994",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 13,
+	"crsid": "0000000479",
+	"department": "FREN",
+	"enrolled": 13,
 	"instructors": [
 		"Herve Pensec"
 	],
 	"level": 200,
-	"locations": [
-		"OM 026"
-	],
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 026",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 026",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 026",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

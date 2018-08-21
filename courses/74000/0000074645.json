@@ -1,24 +1,27 @@
 {
-	"clbid": 74645,
+	"clbid": "0000074645",
 	"credits": 0.25,
-	"crsid": 1102,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001102",
+	"department": "PHYS",
 	"description": [
 		"Seniors study topics of current interest, based upon presentations by staff, participants, and visitors, library research and assigned readings. Prerequisites: Physics 374, 375, and 376. P/N only. Available on request. May be repeated if topic is different."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 284"
-	],
 	"max": 20,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:30",
+			"location": "RNS 284",
+			"start": "15:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: Physics 374, 375, and 376. P/N only. Available on request. May be repeated if topic is different.",
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"W 0330-0430PM"
-	],
 	"type": "Seminar",
 	"year": 2010
 }

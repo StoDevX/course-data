@@ -1,23 +1,31 @@
 {
-	"clbid": 51985,
+	"clbid": "0000051985",
 	"credits": 0.0,
-	"crsid": 244,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 11,
-	"groupid": 243,
+	"crsid": "0000000244",
+	"department": "CHIN",
+	"enrolled": 11,
+	"groupid": "0000000243",
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"OM 001",
-		"OM 001"
-	],
 	"max": 25,
 	"name": "Intermed Chinese II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 001",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 001",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Lab",
 	"year": 2006
 }

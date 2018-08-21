@@ -1,26 +1,28 @@
 {
-	"clbid": 114098,
+	"clbid": "0000114098",
 	"credits": 0.0,
-	"crsid": 18827,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 13,
-	"groupid": 18802,
+	"crsid": "0000018827",
+	"department": "CH/BI",
+	"enrolled": 13,
+	"groupid": "0000018802",
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 23,
 	"name": "Integr Chem/Bio III Lab",
 	"notes": [
 		"Open only to those students who have completed CH/BI 126."
 	],
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 398",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,9 +56,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

@@ -1,23 +1,48 @@
 {
-	"clbid": 3826,
+	"clbid": "0000003826",
 	"credits": 1.0,
-	"crsid": 241,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 19,
+	"crsid": "0000000241",
+	"department": "CHIN",
+	"enrolled": 19,
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"M 3",
-		"M 11",
-		"M 11"
-	],
 	"max": 25,
 	"name": "Intermed Chinese I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 11",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "M 11",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +60,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 1150-1245PM",
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

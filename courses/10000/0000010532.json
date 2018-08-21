@@ -1,24 +1,39 @@
 {
-	"clbid": 10532,
+	"clbid": "0000010532",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000476",
+	"department": "FREN",
 	"description": [
 		"Students begin to learn French through listening, speaking, reading and writing about topics familiar to them. They study social and cultural notions inherent in the daily life of peoples in diverse Francophone communities and learn to think critically and make interdisciplinary connections and informed cross-cultural comparisons."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"instructors": [
 		"Carrie Lewis"
 	],
 	"level": 100,
-	"locations": [
-		"OM 030"
-	],
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 030",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

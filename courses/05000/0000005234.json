@@ -1,22 +1,30 @@
 {
-	"clbid": 5234,
+	"clbid": "0000005234",
 	"credits": 1.0,
-	"crsid": 980,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 27,
+	"crsid": "0000000980",
+	"department": "PHIL",
+	"enrolled": 27,
 	"instructors": [
 		"Anthony J. Rudd"
 	],
 	"level": 200,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 25,
 	"name": "Law,Politics,Morality",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 302",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 302",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

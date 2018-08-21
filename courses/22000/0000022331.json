@@ -1,21 +1,36 @@
 {
-	"clbid": 22331,
+	"clbid": "0000022331",
 	"credits": 1.0,
-	"crsid": 1612,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 23,
+	"crsid": "0000001612",
+	"department": "CSCI",
+	"enrolled": 23,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Principles Comp Sci",
 	"number": 172,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

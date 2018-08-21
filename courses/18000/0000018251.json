@@ -1,21 +1,36 @@
 {
-	"clbid": 18251,
+	"clbid": "0000018251",
 	"credits": 1.0,
-	"crsid": 660,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 11,
+	"crsid": "0000000660",
+	"department": "JAPAN",
+	"enrolled": 11,
 	"instructors": [
 		"Gia Someya"
 	],
 	"level": 100,
-	"locations": [
-		"M 2"
-	],
 	"max": 999,
 	"name": "Beginning Japanese II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

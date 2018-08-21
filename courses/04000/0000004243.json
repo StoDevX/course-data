@@ -1,21 +1,36 @@
 {
-	"clbid": 4243,
+	"clbid": "0000004243",
 	"credits": 1.0,
-	"crsid": 1105,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 22,
+	"crsid": "0000001105",
+	"department": "PSCI",
+	"enrolled": 22,
 	"instructors": [
 		"Sheryl D. Breen"
 	],
 	"level": 100,
-	"locations": [
-		"H 413"
-	],
 	"max": 25,
 	"name": "Political Theory",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

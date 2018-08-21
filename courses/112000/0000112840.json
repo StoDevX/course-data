@@ -1,14 +1,12 @@
 {
-	"clbid": 112840,
+	"clbid": "0000112840",
 	"credits": 1.0,
-	"crsid": 973,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000973",
+	"department": "PHIL",
 	"description": [
 		"This course is a philosophical inquiry into the core commitments of Christian theism in the context of other world religions and naturalism. Central themes include beliefs about the existence and nature of God, the doctrines of the trinity and incarnation, redemption and ritual, human free will and responsibility, revelation and reason, religious experience, the problem of evil, different views of life after death, miracles and historical inquiry, and religious pluralism. Offered annually. Prerequisite: BTS-B."
 	],
-	"enroll": 58,
+	"enrolled": 58,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -17,13 +15,23 @@
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 40,
 	"name": "Philosophical Theology",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 390",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 390",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2017
 }

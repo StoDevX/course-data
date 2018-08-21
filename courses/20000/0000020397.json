@@ -1,21 +1,36 @@
 {
-	"clbid": 20397,
+	"clbid": "0000020397",
 	"credits": 1.0,
-	"crsid": 628,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 16,
+	"crsid": "0000000628",
+	"department": "HIST",
+	"enrolled": 16,
 	"instructors": [
 		"Richard A. Olson"
 	],
 	"level": 300,
-	"locations": [
-		"YH 130"
-	],
 	"max": 20,
 	"name": "Greek Civilization",
 	"number": 302,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "YH 130",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "YH 130",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "YH 130",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 1996
 }

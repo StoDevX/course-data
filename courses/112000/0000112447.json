@@ -1,14 +1,12 @@
 {
-	"clbid": 112447,
+	"clbid": "0000112447",
 	"credits": 0.25,
-	"crsid": 999,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000999",
+	"department": "ESAC",
 	"description": [
 		"Students learn basic skills and techniques of in-line skating. Equipment is required for participation."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,12 +15,29 @@
 		"John A. Bazzachini"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "In-Line Skating",
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20171,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

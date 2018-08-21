@@ -1,14 +1,12 @@
 {
-	"clbid": 112184,
+	"clbid": "0000112184",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester. Prerequisite: mathematics placement recommendation."
 	],
-	"enroll": 33,
+	"enrolled": 33,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"William Grodzicki"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 190",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation.",
 	"revisions": [
@@ -63,9 +78,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2017
 }

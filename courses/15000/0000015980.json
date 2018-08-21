@@ -1,21 +1,36 @@
 {
-	"clbid": 15980,
+	"clbid": "0000015980",
 	"credits": 1.0,
-	"crsid": 442,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 19,
+	"crsid": "0000000442",
+	"department": "ENGL",
+	"enrolled": 19,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"L 525"
-	],
 	"max": 18,
 	"name": "Cr Writ II: Nonfiction",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "L 525",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

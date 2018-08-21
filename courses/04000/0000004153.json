@@ -1,22 +1,30 @@
 {
-	"clbid": 4153,
+	"clbid": "0000004153",
 	"credits": 1.0,
-	"crsid": 930,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 5,
+	"crsid": "0000000930",
+	"department": "NORW",
+	"enrolled": 5,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 200,
-	"locations": [
-		"M 11",
-		"M 11"
-	],
 	"max": 999,
 	"name": "Advanced Conv & Comp",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 11",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "M 11",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

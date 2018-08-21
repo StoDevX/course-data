@@ -1,24 +1,33 @@
 {
-	"clbid": 96645,
+	"clbid": "0000096645",
 	"credits": 0.25,
-	"crsid": 810,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000810",
+	"department": "MUSIC",
 	"description": [
 		"Through group instruction, students encounter the fundamentals of singing and an introduction to song literature. In-class performance is required. May be repeated once. Offered each semester."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Robin Helgen"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"MF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

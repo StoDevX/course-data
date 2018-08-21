@@ -1,25 +1,33 @@
 {
-	"clbid": 52014,
+	"clbid": "0000052014",
 	"credits": 0.25,
-	"crsid": 349,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000349",
+	"department": "DANCE",
 	"description": [
 		"International dance classes emphasize dance in its varied cultural contexts. This course surveys dance from around the world with emphasis on European and Near Eastern forms."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1",
-		"CAD Studio 1"
-	],
 	"max": 28,
 	"name": "Intl Dance I",
 	"number": 109,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CAD Studio 1",
+			"start": "12:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 1150-1245PM",
-		"Th 1245-0140PM"
-	],
 	"title": "International Dance I: A Survey",
 	"type": "Research",
 	"year": 2006

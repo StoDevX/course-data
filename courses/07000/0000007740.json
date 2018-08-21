@@ -1,21 +1,24 @@
 {
-	"clbid": 7740,
+	"clbid": "0000007740",
 	"credits": 0.25,
-	"crsid": 199,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 22,
+	"crsid": "0000000199",
+	"department": "CHEM",
+	"enrolled": 22,
 	"instructors": [
 		"Anthony T. Watson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378/311"
-	],
 	"max": 14,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "SC 378/311",
+			"start": "12:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

@@ -1,21 +1,42 @@
 {
-	"clbid": 938,
+	"clbid": "0000000938",
 	"credits": 1.0,
-	"crsid": 2423,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 10,
+	"crsid": "0000002423",
+	"department": "SOAN",
+	"enrolled": 10,
 	"instructors": [
 		"Mark Goodale"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 30,
 	"name": "Writing Culture",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "H 515",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "H 515",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "H 515",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "H 515",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +54,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20002,
-	"times": [
-		"M-Th 0100-0330PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

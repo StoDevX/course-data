@@ -1,22 +1,30 @@
 {
-	"clbid": 7103,
+	"clbid": "0000007103",
 	"credits": 1.0,
-	"crsid": 779,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 14,
+	"crsid": "0000000779",
+	"department": "MGMT",
+	"enrolled": 14,
 	"instructors": [
 		"John M. Ophaug"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301",
-		"HH 301"
-	],
 	"max": 25,
 	"name": "Legal Aspects of Bus",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2003
 }

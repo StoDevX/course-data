@@ -1,21 +1,30 @@
 {
-	"clbid": 17960,
+	"clbid": "0000017960",
 	"credits": 0.0,
-	"crsid": 173,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000173",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 210"
-	],
 	"max": 999,
 	"name": "Top: Neurobiology/Disc",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 210",
+			"start": "15:05"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 210",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MW 0305-0400PM"
-	],
 	"type": "Discussion",
 	"year": 1995
 }

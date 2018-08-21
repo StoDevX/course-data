@@ -1,14 +1,12 @@
 {
-	"clbid": 95915,
+	"clbid": "0000095915",
 	"credits": 0.25,
-	"crsid": 997,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000997",
+	"department": "ESAC",
 	"description": [
 		"This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Course fee."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,17 @@
 		"David A. Stromme"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 16,
 	"name": "Golf",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"F 0800-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

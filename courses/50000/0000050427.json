@@ -1,26 +1,34 @@
 {
-	"clbid": 50427,
+	"clbid": "0000050427",
 	"credits": 0.5,
-	"crsid": 1050,
-	"departments": [
-		"PETH"
-	],
+	"crsid": "0000001050",
+	"department": "PETH",
 	"description": [
 		"This course introduces students to the areas of sport psychology, sport administration, sport physiology and sport pedagogy and serves as a foundation to the series of courses required for coaching certification. Successful completion of the course may include certification in the American Sport Education Program (ASEP)."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"halfcredit": "1",
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 112",
-		"SAC 112"
-	],
 	"max": 24,
 	"name": "Intro to Coaching",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SAC 112",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SAC 112",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Introduction to Coaching",
 	"type": "Research",
 	"year": 2006

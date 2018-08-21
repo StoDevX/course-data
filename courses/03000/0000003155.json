@@ -1,21 +1,36 @@
 {
-	"clbid": 3155,
+	"clbid": "0000003155",
 	"credits": 1.0,
-	"crsid": 605,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 38,
+	"crsid": "0000000605",
+	"department": "HIST",
+	"enrolled": 38,
 	"instructors": [
 		"Jeane DeLaney"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 35,
 	"name": "Modern Latin America",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 317",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 317",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 317",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

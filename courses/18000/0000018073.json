@@ -1,21 +1,30 @@
 {
-	"clbid": 18073,
+	"clbid": "0000018073",
 	"credits": 1.0,
-	"crsid": 327,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 7,
+	"crsid": "0000000327",
+	"department": "EDUC",
+	"enrolled": 7,
 	"instructors": [
 		"Martha Wallace"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Tchg of Mathematics",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "FH 10L",
+			"start": "07:30"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "FH 10L",
+			"start": "07:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0730-0925"
-	],
 	"type": "Research",
 	"year": 1995
 }

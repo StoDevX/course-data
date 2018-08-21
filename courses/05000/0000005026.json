@@ -1,21 +1,36 @@
 {
-	"clbid": 5026,
+	"clbid": "0000005026",
 	"credits": 1.0,
-	"crsid": 1757,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 10,
+	"crsid": "0000001757",
+	"department": "GERM",
+	"enrolled": 10,
 	"instructors": [
 		"Karen Pauly"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011"
-	],
 	"max": 999,
 	"name": "Writing German",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 011",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

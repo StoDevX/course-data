@@ -1,21 +1,30 @@
 {
-	"clbid": 479,
+	"clbid": "0000000479",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 22,
+	"crsid": "0000001015",
+	"department": "PEAC",
+	"enrolled": 22,
 	"instructors": [
 		"Paul Miller"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "SAC FH",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

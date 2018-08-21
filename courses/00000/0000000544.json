@@ -1,21 +1,36 @@
 {
-	"clbid": 544,
+	"clbid": "0000000544",
 	"credits": 1.0,
-	"crsid": 1136,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 21,
+	"crsid": "0000001136",
+	"department": "PSCI",
+	"enrolled": 21,
 	"instructors": [
 		"Susan Bloom"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 20,
 	"name": "Amer Foreign Policy",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "H 515",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

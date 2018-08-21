@@ -1,21 +1,36 @@
 {
-	"clbid": 6062,
+	"clbid": "0000006062",
 	"credits": 0.25,
-	"crsid": 815,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 22,
+	"crsid": "0000000815",
+	"department": "MUSIC",
+	"enrolled": 22,
 	"instructors": [
 		"Catherine R. Rodland"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 28,
 	"name": "Ear/Keyboard III",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 232",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

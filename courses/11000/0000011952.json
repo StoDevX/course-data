@@ -1,22 +1,30 @@
 {
-	"clbid": 11952,
+	"clbid": "0000011952",
 	"credits": 1.0,
-	"crsid": 492,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 13,
+	"crsid": "0000000492",
+	"department": "FREN",
+	"enrolled": 13,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 300,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 15,
 	"name": "Top: Dream and Madness",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 026",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 026",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Topic",
 	"year": 2005
 }

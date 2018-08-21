@@ -1,14 +1,12 @@
 {
-	"clbid": 88434,
+	"clbid": "0000088434",
 	"credits": 1.0,
-	"crsid": 24127,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000024127",
+	"department": "CSCI",
 	"description": [
 		"This course focuses on handling data: visualization, finding patterns, and communicating with data. Exploration of fundamental concepts, including recursion, iteration, algorithm efficiency, loops, decision structures, encapsulation, and computing ethics. Students work individually and in teams to apply basic principles and structures to create programs that model graphical, mathematical, and scientific processes. Prerequisite: Calculus or consent of the instructor."
 	],
-	"enroll": 33,
+	"enrolled": 33,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Olaf A. Hall-Holt"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 40,
 	"name": "Comp Sci for Science/Math",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 203",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Calculus or consent of the instructor.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Computer Science for Scientists and Mathematicians",
 	"type": "Research",
 	"year": 2013

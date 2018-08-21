@@ -1,14 +1,12 @@
 {
-	"clbid": 64195,
+	"clbid": "0000064195",
 	"credits": 1.0,
-	"crsid": 1207,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001207",
+	"department": "REL",
 	"description": [
 		"Students read Pauline letters carefully for their major issues, such as apocalyptic, gospel, apostleship, Jew and Gentile, faith, Torah, community. Considering Paul in the context of his times and Paul in the context of later Christianity, students discuss topics such as Jews and Christians, men and women, creation, grace in Paul and present day experience. Prerequisite: BTS-B"
 	],
-	"enroll": 37,
+	"enrolled": 37,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,12 +14,29 @@
 		"William Poehlmann"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111"
-	],
 	"max": 35,
 	"name": "St.Paul/Letter/Gospel",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Paul: His Letters, His Gospel",
 	"type": "Research",
 	"year": 2008

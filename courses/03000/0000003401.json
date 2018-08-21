@@ -1,21 +1,24 @@
 {
-	"clbid": 3401,
+	"clbid": "0000003401",
 	"credits": 1.0,
-	"crsid": 1135,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 24,
+	"crsid": "0000001135",
+	"department": "PSCI",
+	"enrolled": 24,
 	"instructors": [
 		"Daniel Hofrenning"
 	],
 	"level": 200,
-	"locations": [
-		"H 413"
-	],
 	"max": 999,
 	"name": "Environmentl Politics",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 413",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

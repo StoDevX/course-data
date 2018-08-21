@@ -1,21 +1,24 @@
 {
-	"clbid": 20108,
+	"clbid": "0000020108",
 	"credits": 0.0,
-	"crsid": 165,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000165",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 253"
-	],
 	"max": 12,
 	"name": "Developmental Bio/Lab",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 253",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

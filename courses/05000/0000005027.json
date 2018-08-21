@@ -1,22 +1,30 @@
 {
-	"clbid": 5027,
+	"clbid": "0000005027",
 	"credits": 1.0,
-	"crsid": 517,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 12,
+	"crsid": "0000000517",
+	"department": "GERM",
+	"enrolled": 12,
 	"instructors": [
 		"Frederike Von Schwerin-High"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035",
-		"OM 035"
-	],
 	"max": 999,
 	"name": "Minority Voices",
 	"number": 268,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 035",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 035",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

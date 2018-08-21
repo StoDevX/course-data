@@ -1,14 +1,12 @@
 {
-	"clbid": 64232,
+	"clbid": "0000064232",
 	"credits": 1.0,
-	"crsid": 20055,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000020055",
+	"department": "ART",
 	"description": [
 		"This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of new media art-making and ways new media inform the creation and understanding of art in cultural contexts. Students explore the form and space of new media images through a wide variety of materials and media. the course emphasizes strategies for idea generation. Students engage in dynamic activity, spirited investigation, and thoughtful creative expression. Materials fee. Offered each semester."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,12 +14,29 @@
 		"David E. Ryan"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 100"
-	],
 	"max": 14,
 	"name": "Foundation New Media",
 	"number": 104,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 100",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 100",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 100",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"MWF 1045-1245PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

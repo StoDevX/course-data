@@ -1,21 +1,36 @@
 {
-	"clbid": 2024,
+	"clbid": "0000002024",
 	"credits": 1.0,
-	"crsid": 1614,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 11,
+	"crsid": "0000001614",
+	"department": "CSCI",
+	"enrolled": 11,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 300,
-	"locations": [
-		"SC 186"
-	],
 	"max": 999,
 	"name": "Data Structures",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 186",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

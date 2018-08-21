@@ -1,21 +1,36 @@
 {
-	"clbid": 1634,
+	"clbid": "0000001634",
 	"credits": 1.0,
-	"crsid": 1199,
-	"departments": [
-		"REL"
-	],
-	"enroll": 23,
+	"crsid": "0000001199",
+	"department": "REL",
+	"enrolled": 23,
 	"instructors": [
 		"Eric Lund"
 	],
 	"level": 200,
-	"locations": [
-		"CH 111"
-	],
 	"max": 27,
 	"name": "Lutheran Heritage",
 	"number": 213,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 111",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 111",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 111",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

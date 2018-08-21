@@ -1,21 +1,24 @@
 {
-	"clbid": 17934,
+	"clbid": "0000017934",
 	"credits": 0.0,
-	"crsid": 120,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000120",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 263"
-	],
 	"max": 24,
 	"name": "Microbiology/Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 263",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1995
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120217,
+	"clbid": "0000120217",
 	"credits": 1.0,
-	"crsid": 20054,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000020054",
+	"department": "ART",
 	"description": [
 		"This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of two-dimensional art-making and the ways drawing informs the creation and understanding of art in cultural contexts. Students explore color, value, form, and space through a wide variety of materials. The course emphasizes strategies for idea generation and visual problem solving. Students engage in spirited investigation, critiques, and thoughtful creative expression. Materials fee. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,16 +14,26 @@
 		"John Saurer"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 216",
-		"CAD 216"
-	],
 	"max": 20,
 	"name": "Foundation 2-D Media",
 	"notes": [
 		"The materials fee for ART 102B will be $100."
 	],
 	"number": 102,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,16 +53,32 @@
 			"_updated": "2018-08-07T14:48:48.756398+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.578921+00:00",
+			"clbid": 120217,
+			"crsid": 20054,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 216",
+				"CAD 216"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-1100",
+				"Th 0800-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-1100",
-		"Th 0800-1050"
-	],
 	"title": "Foundation Two-Dimensional Media",
 	"type": "Research",
 	"year": 2018

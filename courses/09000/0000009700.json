@@ -1,22 +1,30 @@
 {
-	"clbid": 9700,
+	"clbid": "0000009700",
 	"credits": 1.0,
-	"crsid": 976,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 21,
+	"crsid": "0000000976",
+	"department": "PHIL",
+	"enrolled": 21,
 	"instructors": [
 		"Karen Gervais"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 25,
 	"name": "Philosophy & Feminism",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

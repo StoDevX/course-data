@@ -1,14 +1,12 @@
 {
-	"clbid": 61390,
+	"clbid": "0000061390",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered both semesters."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,15 +14,32 @@
 		"Alexander Woo"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 18,
 	"name": "Elem Linear Algebra",
 	"notes": [
 		"Closed until first-year student registration in September."
 	],
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 184",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121. Offered both semesters.",
 	"revisions": [
@@ -47,9 +62,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2008

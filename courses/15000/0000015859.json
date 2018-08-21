@@ -1,21 +1,30 @@
 {
-	"clbid": 15859,
+	"clbid": "0000015859",
 	"credits": 1.0,
-	"crsid": 1564,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 6,
+	"crsid": "0000001564",
+	"department": "CHIN",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Chinese Class Lit-Tr",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 3",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 3",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

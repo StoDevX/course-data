@@ -1,14 +1,12 @@
 {
-	"clbid": 118657,
+	"clbid": "0000118657",
 	"credits": 1.0,
-	"crsid": 651,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000651",
+	"department": "FAMST",
 	"description": [
 		"This course explores the varied dimensions of human sexuality as they affect and are affected by past and present human relationships. Sexual problems and issues are examined for the development of a value framework and for the enrichment of family life. The course emphasizes critical thinking skills applied to current issues in human sexuality (e.g. gay marriage, race and gender issues, sexual violence). Students examine issues in contemporary research and ethics in sexuality. Offered each semester. Counts toward American studies major, family studies concentration, and women's and gender studies major and concentration."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,15 +14,32 @@
 		"Lisa L. Moore"
 	],
 	"level": 200,
-	"locations": [
-		"HH 523"
-	],
 	"max": 26,
 	"name": "Human Sexuality",
 	"notes": [
 		"Open to a limited number of first-year students."
 	],
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 523",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 523",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 523",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,14 +67,29 @@
 			"_updated": "2018-08-07T14:48:44.963720+00:00",
 			"enroll": "25",
 			"max": "26"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.215954+00:00",
+			"clbid": 118657,
+			"crsid": 651,
+			"department": null,
+			"departments": [
+				"FAMST"
+			],
+			"enroll": 25,
+			"enrolled": null,
+			"locations": [
+				"HH 523"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

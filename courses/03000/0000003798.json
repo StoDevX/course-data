@@ -1,21 +1,36 @@
 {
-	"clbid": 3798,
+	"clbid": "0000003798",
 	"credits": 1.0,
-	"crsid": 196,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 40,
+	"crsid": "0000000196",
+	"department": "CHEM",
+	"enrolled": 40,
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282"
-	],
 	"max": 50,
 	"name": "Organic Chemistry",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 282",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

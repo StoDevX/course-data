@@ -1,21 +1,30 @@
 {
-	"clbid": 21690,
+	"clbid": "0000021690",
 	"credits": 1.0,
-	"crsid": 1181,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 12,
+	"crsid": "0000001181",
+	"department": "PSYCH",
+	"enrolled": 12,
 	"instructors": [
 		"Mary Ellen Ross"
 	],
 	"level": 300,
-	"locations": [
-		"H 302/H320"
-	],
 	"max": 24,
 	"name": "Psych of Counseling",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 302/H320",
+			"start": "09:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 302/H320",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 0900-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

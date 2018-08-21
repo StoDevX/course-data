@@ -1,24 +1,33 @@
 {
-	"clbid": 112864,
+	"clbid": "0000112864",
 	"credits": 0.25,
-	"crsid": 836,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000836",
+	"department": "MUSIC",
 	"description": [
 		"This advanced piano class for music majors only emphasizes sight playing, score reading, harmonization and transposition, advanced harmonic idioms, improvisation, ensemble playing, and performance preparation. A grade of B- or higher satisfies Piano Proficiency Level 3 requirements. Offered annually in the fall semester. Prerequisite: MUSIC 162, completion of Piano Proficiency Level 2, or audition placement; concurrent registration in MUSIC 212 recommended."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"April R. Kim"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class III",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 222",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 222",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 162, completion of Piano Proficiency Level 2, or audition placement; concurrent registration in MUSIC 212 recommended.",
 	"revisions": [
@@ -51,9 +60,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

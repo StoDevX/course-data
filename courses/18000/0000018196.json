@@ -1,21 +1,36 @@
 {
-	"clbid": 18196,
+	"clbid": "0000018196",
 	"credits": 1.0,
-	"crsid": 509,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 16,
+	"crsid": "0000000509",
+	"department": "GERM",
+	"enrolled": 16,
 	"instructors": [
 		"Lavern Rippley"
 	],
 	"level": 200,
-	"locations": [
-		"M 35"
-	],
 	"max": 25,
 	"name": "Intermed German II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 35",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 35",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 35",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

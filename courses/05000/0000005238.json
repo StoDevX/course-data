@@ -1,22 +1,30 @@
 {
-	"clbid": 5238,
+	"clbid": "0000005238",
 	"credits": 1.0,
-	"crsid": 990,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 16,
+	"crsid": "0000000990",
+	"department": "PHIL",
+	"enrolled": 16,
 	"instructors": [
 		"Corliss Swain"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 15,
 	"name": "Studies: Hist of Phil",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 302",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

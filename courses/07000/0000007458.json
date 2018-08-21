@@ -1,21 +1,36 @@
 {
-	"clbid": 7458,
+	"clbid": "0000007458",
 	"credits": 1.0,
-	"crsid": 1403,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 27,
+	"crsid": "0000001403",
+	"department": "STAT",
+	"enrolled": 27,
 	"instructors": [
 		"Julie M. Legler"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Statistics for Science",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 184",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

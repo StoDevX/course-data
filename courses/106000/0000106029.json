@@ -1,14 +1,12 @@
 {
-	"clbid": 106029,
+	"clbid": "0000106029",
 	"credits": 1.0,
-	"crsid": 321,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000321",
+	"department": "EDUC",
 	"description": [
 		"This course is designed to assist students in developing their own teacher style as they prepare to become full-time teachers. Topics include the roles and responsibilities of teachers, methods of instruction, planning, classroom management, assessment and reporting and other current educational issues. Through micro-teaching and school-based field experiences, they also practice instructional skills and techniques. Required 20-hour field experience. Offered each semester. Prerequisite: EDUC 290 and acceptance into the teacher education program."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,10 +14,6 @@
 		"Jill A. Watson"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214",
-		"TOH 214"
-	],
 	"max": 18,
 	"name": "Principles of Education, K-12",
 	"notes": [
@@ -27,6 +21,20 @@
 		"Prerequisite: EDUC 290"
 	],
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 214",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 214",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 290 and acceptance into the teacher education program.",
 	"revisions": [
@@ -58,10 +66,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20161,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2016
 }

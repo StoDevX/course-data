@@ -1,21 +1,30 @@
 {
-	"clbid": 5264,
+	"clbid": "0000005264",
 	"credits": 0.25,
-	"crsid": 1018,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 23,
+	"crsid": "0000001018",
+	"department": "PEAC",
+	"enrolled": 23,
 	"instructors": [
 		"Robert K. McCarthy"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 24,
 	"name": "Wt Training-Women",
 	"number": 142,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TC",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TC",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

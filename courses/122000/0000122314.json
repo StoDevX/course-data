@@ -1,14 +1,12 @@
 {
-	"clbid": 122314,
+	"clbid": "0000122314",
 	"credits": 1.0,
-	"crsid": 30088,
-	"departments": [
-		"CLASS"
-	],
+	"crsid": "0000030088",
+	"department": "CLASS",
 	"description": [
 		"This course entails a careful reading of the Iliad and Odyssey - two of the earliest and most influential epics of human history - with attention to their Greek historical and cultural contexts. The course then explores some of the many reincarnations of Homer's epics in later generations, from Monteverdi's opera Return of Ulysses to David's painting Anger of Achilles to the Coen brothers' film O Brother, Where Art Thou? Offered periodically during Interim. Counts toward ancient studies, classics, Greek, and Latin majors."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,12 +14,41 @@
 		"Steve T. Reece"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "The Many Faces of Homer",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:46.937604+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.237184+00:00",
+			"clbid": 122314,
+			"crsid": 30088,
+			"department": null,
+			"departments": [
+				"CLASS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 75404,
+	"clbid": "0000075404",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives and integrals are explored graphically, symbolically, and numerically. Applications of the derivative are included. Prerequisite: Mathematics Placement Recommendation. Offered each semester."
 	],
-	"enroll": 3,
+	"enrolled": 3,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,41 @@
 		"Peder Bolstad"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 999,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics Placement Recommendation. Offered each semester.",
 	"revisions": [
@@ -43,9 +70,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20094,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

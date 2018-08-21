@@ -1,21 +1,36 @@
 {
-	"clbid": 23559,
+	"clbid": "0000023559",
 	"credits": 1.0,
-	"crsid": 732,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 28,
+	"crsid": "0000000732",
+	"department": "MATH",
+	"enrolled": 28,
 	"instructors": [
 		"Christopher Schwartz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Math Analysis I",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 374",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

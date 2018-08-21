@@ -1,26 +1,34 @@
 {
-	"clbid": 69875,
+	"clbid": "0000069875",
 	"credits": 0.5,
-	"crsid": 18784,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000018784",
+	"department": "PHYS",
 	"description": [
 		"In-depth study of particular topics done in a half-semester format. Topics are based on student interest and available staff. Generally offered as a pair of half-courses in one semester but students may enroll in only one. Prerequisite: Physics 244 and Mathematics 230. Offered annually in the Fall Semester."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"halfcredit": "1",
 	"instructors": [
 		"Angela Reisetter"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 284",
-		"RNS 284"
-	],
 	"max": 19,
 	"name": "Top: Elem. Particle Phys.",
 	"number": 392,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 284",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 284",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physics 244 and Mathematics 230. Offered annually in the Fall Semester.",
 	"revisions": [
@@ -43,10 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Short Topics in Physics",
 	"type": "Topic",
 	"year": 2009

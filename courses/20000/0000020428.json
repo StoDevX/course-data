@@ -1,21 +1,36 @@
 {
-	"clbid": 20428,
+	"clbid": "0000020428",
 	"credits": 1.0,
-	"crsid": 730,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 27,
+	"crsid": "0000000730",
+	"department": "MATH",
+	"enrolled": 27,
 	"instructors": [
 		"Peder Bolstad"
 	],
 	"level": 100,
-	"locations": [
-		"SC 188"
-	],
 	"max": 999,
 	"name": "Calculus/Algebra II",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 188",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1996
 }

@@ -1,15 +1,12 @@
 {
-	"clbid": 121942,
+	"clbid": "0000121942",
 	"credits": 1.0,
-	"crsid": 1135,
-	"departments": [
-		"ENVST",
-		"PSCI"
-	],
+	"crsid": "0000001135",
+	"department": "ES/PS",
 	"description": [
 		"Analysis of environmental policy includes the politics of agenda setting, policy selection and program implementation, and the effects of policy outcomes. Offered annually. Counts toward American studies major and management studies concentration."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"HBS"
 	],
@@ -17,13 +14,23 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 010",
-		"OM 010"
-	],
 	"max": 24,
 	"name": "Environmental Politics",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 010",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 010",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +54,32 @@
 			"_updated": "2018-08-07T14:48:45.546687+00:00",
 			"enroll": "23",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.652445+00:00",
+			"clbid": 121942,
+			"crsid": 1135,
+			"department": null,
+			"departments": [
+				"ENVST",
+				"PSCI"
+			],
+			"enroll": 23,
+			"enrolled": null,
+			"locations": [
+				"OM 010",
+				"OM 010"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

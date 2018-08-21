@@ -1,23 +1,26 @@
 {
-	"clbid": 118380,
+	"clbid": "0000118380",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 19,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 19,
+	"groupid": "0000026649",
 	"grouptype": "1",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 18,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 255",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,15 +43,31 @@
 			"_updated": "2018-08-07T14:48:44.682346+00:00",
 			"enroll": "19",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.796341+00:00",
+			"clbid": 118380,
+			"crsid": 26650,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 19,
+			"enrolled": null,
+			"groupid": 26649,
+			"locations": [
+				"RNS 255"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0245PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 99829,
+	"clbid": "0000099829",
 	"credits": 1.0,
-	"crsid": 1071,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000001071",
+	"department": "ENVST",
 	"description": [
 		"This course considers a variety of topics in earth and environmental science. Beginning with the origin of the earth and planetary system, the course examines crustal evolution and plate tectonics, geologic resources and hazards, and the relationship of these surface phenomena to processes occurring in the earth's interior. It concludes with a study of the oceans, the atmosphere, the earth's climate system, and environmental change. Offered annually. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: proficiency in algebra and geometry."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Graham Hagen-Peter"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 24,
 	"name": "Geophysics",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "proficiency in algebra and geometry.",
 	"revisions": [
@@ -57,9 +72,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Geophysics: Perspectives on the Dynamic Earth",
 	"type": "Research",
 	"year": 2015

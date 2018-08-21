@@ -1,21 +1,30 @@
 {
-	"clbid": 1434,
+	"clbid": "0000001434",
 	"credits": 1.0,
-	"crsid": 822,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 10,
+	"crsid": "0000000822",
+	"department": "MUSIC",
+	"enrolled": 10,
 	"instructors": [
 		"Mary Childs"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 16,
 	"name": "Composition I",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

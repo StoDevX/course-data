@@ -1,23 +1,36 @@
 {
-	"clbid": 7699,
+	"clbid": "0000007699",
 	"credits": 1.0,
-	"crsid": 161,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 8,
+	"crsid": "0000000161",
+	"department": "BIO",
+	"enrolled": 8,
 	"instructors": [
 		"Kathleen L. Shea"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110",
-		"SC 248",
-		"SC 210"
-	],
 	"max": 10,
 	"name": "Field Ecology",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:20",
+			"location": "SC 110",
+			"start": "13:20"
+		},
+		{
+			"day": "Tu",
+			"end": "17:30",
+			"location": "SC 248",
+			"start": "14:30"
+		},
+		{
+			"day": "Th",
+			"end": "16:05",
+			"location": "SC 210",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0120-0220PM",
-		"T 0230-0530PM",
-		"Th 0215-0405PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

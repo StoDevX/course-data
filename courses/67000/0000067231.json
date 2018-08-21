@@ -1,14 +1,12 @@
 {
-	"clbid": 67231,
+	"clbid": "0000067231",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000734",
+	"department": "MATH",
 	"description": [
 		"This course covers the material in Mathematics 126 in greater depth and includes supplementary material. Prerequisite: 4 or 5 on AP Calculus AB exam or permission of Mathematics Placement Director. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 18,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "4 or 5 on AP Calculus AB exam or permission of Mathematics Placement Director. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2009
 }

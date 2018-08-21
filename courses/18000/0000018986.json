@@ -1,21 +1,30 @@
 {
-	"clbid": 18986,
+	"clbid": "0000018986",
 	"credits": 1.0,
-	"crsid": 136,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 17,
+	"crsid": "0000000136",
+	"department": "BIO",
+	"enrolled": 17,
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274"
-	],
 	"max": 24,
 	"name": "Plant Morphology",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 274",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1996
 }

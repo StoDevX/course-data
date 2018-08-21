@@ -1,14 +1,12 @@
 {
-	"clbid": 99692,
+	"clbid": "0000099692",
 	"credits": 1.0,
-	"crsid": 1193,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001193",
+	"department": "REL",
 	"description": [
 		"This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Prerequisite: BTS-B."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"BTS-T",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Charles Wilson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 140",
-		"OM 140"
-	],
 	"max": 23,
 	"name": "Classics and Moderns",
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 140",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 140",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -55,10 +63,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

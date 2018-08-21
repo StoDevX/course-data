@@ -1,21 +1,36 @@
 {
-	"clbid": 7209,
+	"clbid": "0000007209",
 	"credits": 0.25,
-	"crsid": 1006,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 10,
+	"crsid": "0000001006",
+	"department": "PEAC",
+	"enrolled": 10,
 	"instructors": [
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
 	"max": 15,
 	"name": "Water Safety Instruct",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

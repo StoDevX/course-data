@@ -1,10 +1,8 @@
 {
-	"clbid": 61828,
+	"clbid": "0000061828",
 	"credits": 1.0,
-	"crsid": 405,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000405",
+	"department": "ENGL",
 	"description": [
 		"These courses treat specific periods in British literature and examine the relationship between literary texts and movements and their particular cultural, political, and historical contexts. Each offering of this course examines a different literary era and emphasizes specific literary and historical issues. Students may register for the course more than once provided a different era is studied. Prerequisite: FYW or equivalent.",
 		"The Middle Ages focuses upon Anglo-Saxon and Middle English literature, including the Beowulf poet, Chaucer, Julian of Norwich, and Malory, in the context of emerging ideas such as heroism, the role of women, and the relationship between secular society and the Church.",
@@ -14,7 +12,7 @@
 		"The Victorian Period, a time of British political and cultural dominance, examines the work of such writers as Tennyson, Robert and Elizabeth Barrett Browning, Dickens, and the Brontës, in the context of scientific, industrial and colonial growth, religious skepticism, and challenges to class and gender inequalities.",
 		"Modern British Literature focuses on the literature reflecting modern turbulence, innovation, and alienation, as in Joyce, Lawrence, Woolf, and Eliot, in the context of World War, social and economic crises, and radical artistic experimentalism."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -22,12 +20,29 @@
 		"Richard DuRocher"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515"
-	],
 	"max": 25,
 	"name": "Literary Eras:Renaissance",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 515",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW or equivalent.",
 	"revisions": [
@@ -49,9 +64,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Literary Eras: British",
 	"type": "Research",
 	"year": 2008

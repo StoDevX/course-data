@@ -1,21 +1,36 @@
 {
-	"clbid": 24710,
+	"clbid": "0000024710",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 23,
+	"crsid": "0000000921",
+	"department": "NORW",
+	"enrolled": 23,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 100,
-	"locations": [
-		"M 31"
-	],
 	"max": 25,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 31",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22932,
+	"clbid": "0000022932",
 	"credits": 1.0,
-	"crsid": 1321,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 14,
+	"crsid": "0000001321",
+	"department": "SOAN",
+	"enrolled": 14,
 	"instructors": [
 		"Samiha Peterson"
 	],
 	"level": 300,
-	"locations": [
-		"H 301"
-	],
 	"max": 25,
 	"name": "Soc/Anthro and Ethics",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 301",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

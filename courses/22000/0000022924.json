@@ -1,21 +1,36 @@
 {
-	"clbid": 22924,
+	"clbid": "0000022924",
 	"credits": 1.0,
-	"crsid": 2419,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 30,
+	"crsid": "0000002419",
+	"department": "SOAN",
+	"enrolled": 30,
 	"instructors": [
 		"James Tallon"
 	],
 	"level": 200,
-	"locations": [
-		"H 516"
-	],
 	"max": 25,
 	"name": "Crime & Delinquency",
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "H 516",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "H 516",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "H 516",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

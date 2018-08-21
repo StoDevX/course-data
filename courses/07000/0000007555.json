@@ -1,21 +1,30 @@
 {
-	"clbid": 7555,
+	"clbid": "0000007555",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 35,
+	"crsid": "0000000200",
+	"department": "CHEM",
+	"enrolled": 35,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 48,
 	"name": "Synthesis Lab",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20035,
-	"times": [
-		"MT 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2003
 }

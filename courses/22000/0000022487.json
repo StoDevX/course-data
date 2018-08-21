@@ -1,21 +1,30 @@
 {
-	"clbid": 22487,
+	"clbid": "0000022487",
 	"credits": 1.0,
-	"crsid": 524,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 7,
+	"crsid": "0000000524",
+	"department": "GERM",
+	"enrolled": 7,
 	"instructors": [
 		"Lavern Rippley"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 999,
 	"name": "Sem: Cultrl Diversity",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

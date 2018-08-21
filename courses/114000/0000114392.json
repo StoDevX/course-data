@@ -1,24 +1,39 @@
 {
-	"clbid": 114392,
+	"clbid": "0000114392",
 	"credits": 1.0,
-	"crsid": 1082,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001082",
+	"department": "PHYS",
 	"description": [
 		"Quantum mechanics has changed the conceptual framework for our understanding of atoms and molecules, both as free particles and in condensed states of matter. It also guides our understanding of the nucleus and elementary particles. This course examines these discoveries and several applications they produced. Offered annually in the spring semester. Prerequisites: PHYS 232 and concurrent registration (or previous completion of) MATH 230; concurrent registration in PHYS 245 is required."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Anne M. Gothmann"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 40,
 	"name": "Modern Physics",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 210",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 232 and concurrent registration (or previous completion of) MATH 230; concurrent registration in PHYS 245 is required.",
 	"revisions": [
@@ -66,9 +81,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

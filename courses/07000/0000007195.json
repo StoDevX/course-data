@@ -1,22 +1,30 @@
 {
-	"clbid": 7195,
+	"clbid": "0000007195",
 	"credits": 1.0,
-	"crsid": 989,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 10,
+	"crsid": "0000000989",
+	"department": "PHIL",
+	"enrolled": 10,
 	"instructors": [
 		"Edward Langerak"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 15,
 	"name": "Sem: Ethics/Thy/Value",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 302",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

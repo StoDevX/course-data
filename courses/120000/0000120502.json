@@ -1,14 +1,12 @@
 {
-	"clbid": 120502,
+	"clbid": "0000120502",
 	"credits": 1.0,
-	"crsid": 969,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000969",
+	"department": "PHIL",
 	"description": [
 		"An introduction to Kierkegaard's work and to existentialism, this course emphasizes the aesthetic, ethical, and religious \"stages on life's way.\" Existential questions concerning the meaning of human existence, passion and faith, freedom and choice, despair, and the absurd are examined. Offered annually. Counts toward Nordic studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,15 +14,32 @@
 		"Gordon D. Marino"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 35,
 	"name": "Kierkegaard",
 	"notes": [
 		"This course does not fulfill a WRI."
 	],
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:48.939598+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.042397+00:00",
+			"clbid": 120502,
+			"crsid": 969,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Kierkegaard and Existentialism",
 	"type": "Research",
 	"year": 2018

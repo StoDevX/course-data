@@ -1,14 +1,12 @@
 {
-	"clbid": 73838,
+	"clbid": "0000073838",
 	"credits": 1.0,
-	"crsid": 246,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000246",
+	"department": "CHIN",
 	"description": [
 		"This course provides continued practice in speaking, reading, and writing at the third-year level. Our text introduces students to Chinese geography and history and modern written style. Conducted entirely in Chinese. These courses are recommended for students seeking a concentration in Chinese language. Prerequisite: Chinese 251 or equivalent."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"FOL-C"
 	],
@@ -16,12 +14,29 @@
 		"Shannon Cannella"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 300"
-	],
 	"max": 18,
 	"name": "Advanced Chinese II",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 300",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 300",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 300",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chinese 251 or equivalent.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

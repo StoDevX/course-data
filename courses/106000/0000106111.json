@@ -1,25 +1,28 @@
 {
-	"clbid": 106111,
+	"clbid": "0000106111",
 	"credits": 0.25,
-	"crsid": 293,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000293",
+	"department": "CSCI",
 	"description": [
 		"Students investigate the implementation of software using strategies and concepts presented in CSCI 251, explore standard technologies for creation and management of multi-module software systems, and carry out stages of structured team software project, through hands-on computational exercises and with direct support provided in a small group context. Offered each semester. Prerequisite: concurrent registration in CSCI 251."
 	],
-	"enroll": 11,
-	"groupid": 292,
+	"enrolled": 11,
+	"groupid": "0000000292",
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 15,
 	"name": "Software Design/Lab",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 202",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in CSCI 251.",
 	"revisions": [
@@ -54,9 +57,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20161,
-	"times": [
-		"W 0300-0500PM"
-	],
 	"title": "Software Design and Implementation Lab",
 	"type": "Lab",
 	"year": 2016

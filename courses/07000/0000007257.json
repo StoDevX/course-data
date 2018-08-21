@@ -1,21 +1,36 @@
 {
-	"clbid": 7257,
+	"clbid": "0000007257",
 	"credits": 1.0,
-	"crsid": 1074,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 48,
+	"crsid": "0000001074",
+	"department": "PHYS",
+	"enrolled": 48,
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 45,
 	"name": "Principles Physics II",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 170",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

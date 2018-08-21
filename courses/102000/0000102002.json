@@ -1,28 +1,43 @@
 {
-	"clbid": 102002,
+	"clbid": "0000102002",
 	"credits": 1.0,
-	"crsid": 1051,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001051",
+	"department": "ESTH",
 	"description": [
 		"Students study principles pertinent to prevention of injuries in sports and physical education; treatment and care of minor injuries. The course utilizes both lecture and laboratory. Offered annually. Counts toward biomedical studies concentration (for students through class of 2016)."
 	],
-	"enroll": 36,
-	"groupid": 1051,
+	"enrolled": 36,
+	"groupid": "0000001051",
 	"instructors": [
 		"Daniel Hagen"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 112"
-	],
 	"max": 24,
 	"name": "Prev/Care Sport Injur",
 	"notes": [
 		"Students in ESTH 255 must also register for one lab ESTH 255 AL, BL, or CL."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,9 +63,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Prevention and Care of Athletic Injuries",
 	"type": "Research",
 	"year": 2015

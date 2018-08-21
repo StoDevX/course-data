@@ -1,22 +1,48 @@
 {
-	"clbid": 514,
+	"clbid": "0000000514",
 	"credits": 1.0,
-	"crsid": 1076,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 23,
+	"crsid": "0000001076",
+	"department": "PHYS",
+	"enrolled": 23,
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170",
-		"SC 170"
-	],
 	"max": 999,
 	"name": "Analytical I",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 170",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 170",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 170",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 170",
+			"start": "10:10"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 170",
+			"start": "10:10"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +60,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140",
-		"TTh 1010-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

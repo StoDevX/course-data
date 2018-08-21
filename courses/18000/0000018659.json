@@ -1,21 +1,30 @@
 {
-	"clbid": 18659,
+	"clbid": "0000018659",
 	"credits": 1.0,
-	"crsid": 1289,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001289",
+	"department": "SOAN",
+	"enrolled": 21,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 100,
-	"locations": [
-		"M 2"
-	],
 	"max": 25,
 	"name": "Intro to Sociology",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 2",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 2",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

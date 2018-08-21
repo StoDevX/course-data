@@ -1,29 +1,50 @@
 {
-	"clbid": 102572,
+	"clbid": "0000102572",
 	"credits": 1.0,
-	"crsid": 1074,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001074",
+	"department": "PHYS",
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well-suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high-school level.",
 		"Physics 125 explores the character of electric and magnetic forces and fields, then takes up the extended description of matter (vibrations, waves - sound and light). Finally, both particle and wave descriptions are shown to be necessary for discussing quantum mechanics and its application to atomic physics. One laboratory meeting per week. Offered annually in the spring semester. Prerequisites: MATH 119 or MATH 120 or equivalent and PHYS 124."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 1074,
+	"groupid": "0000001074",
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 999,
 	"name": "Principles Physics II",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:00",
+			"location": "RNS 208",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "12:00",
+			"location": "RNS 208",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "RNS 208",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "12:00",
+			"location": "RNS 208",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 119 or MATH 120 or equivalent and PHYS 124.",
 	"revisions": [
@@ -51,9 +72,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20145,
-	"times": [
-		"M-Th 1000-1200PM"
-	],
 	"title": "Principles of Physics II",
 	"type": "Research",
 	"year": 2014

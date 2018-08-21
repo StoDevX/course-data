@@ -1,22 +1,25 @@
 {
-	"clbid": 57756,
+	"clbid": "0000057756",
 	"credits": 0.0,
-	"crsid": 183,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 26,
-	"groupid": 182,
+	"crsid": "0000000183",
+	"department": "CHEM",
+	"enrolled": 26,
+	"groupid": "0000000182",
 	"instructors": [
 		"Gregory W. Muth"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 28,
 	"name": "Chemistry & the World Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 371",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

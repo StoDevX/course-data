@@ -1,21 +1,36 @@
 {
-	"clbid": 9900,
+	"clbid": "0000009900",
 	"credits": 1.0,
-	"crsid": 1233,
-	"departments": [
-		"REL"
-	],
-	"enroll": 19,
+	"crsid": "0000001233",
+	"department": "REL",
+	"enrolled": 19,
 	"instructors": [
 		"John Barbour"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "Religion & Literature",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "BMC 111",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "BMC 111",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "BMC 111",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

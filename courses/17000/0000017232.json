@@ -1,21 +1,36 @@
 {
-	"clbid": 17232,
+	"clbid": "0000017232",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 23,
+	"crsid": "0000000921",
+	"department": "NORW",
+	"enrolled": 23,
 	"instructors": [
 		"Leslie A. Grove"
 	],
 	"level": 100,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 15",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 15",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 15",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

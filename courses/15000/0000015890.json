@@ -1,21 +1,30 @@
 {
-	"clbid": 15890,
+	"clbid": "0000015890",
 	"credits": 1.0,
-	"crsid": 280,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 8,
+	"crsid": "0000000280",
+	"department": "ECON",
+	"enrolled": 8,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"M 35"
-	],
 	"max": 25,
 	"name": "Work/Play: Labor Econ",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 35",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Lab",
 	"year": 1994
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 68367,
+	"clbid": "0000068367",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000747",
+	"department": "MATH",
 	"description": [
 		"Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings, and fields. Prerequisite: Mathematics 220. Offered each semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Jill Dietz"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 21,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 204",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 204",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 204",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 220. Offered each semester.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

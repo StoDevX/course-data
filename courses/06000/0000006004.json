@@ -1,21 +1,36 @@
 {
-	"clbid": 6004,
+	"clbid": "0000006004",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 23,
+	"crsid": "0000000734",
+	"department": "MATH",
+	"enrolled": 23,
 	"instructors": [
 		"Paul Humke"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 184",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2003
 }

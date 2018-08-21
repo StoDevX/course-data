@@ -1,21 +1,36 @@
 {
-	"clbid": 9444,
+	"clbid": "0000009444",
 	"credits": 1.0,
-	"crsid": 480,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 22,
+	"crsid": "0000000480",
+	"department": "FREN",
+	"enrolled": 22,
 	"instructors": [
 		"Scott Homler"
 	],
 	"level": 200,
-	"locations": [
-		"OM 026"
-	],
 	"max": 25,
 	"name": "Intermed French II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 026",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

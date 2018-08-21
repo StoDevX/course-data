@@ -1,21 +1,30 @@
 {
-	"clbid": 1131,
+	"clbid": "0000001131",
 	"credits": 1.0,
-	"crsid": 274,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 14,
+	"crsid": "0000000274",
+	"department": "ECON",
+	"enrolled": 14,
 	"instructors": [
 		"Mark Pernecky"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 25,
 	"name": "Macroeconomic Theory",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 403",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

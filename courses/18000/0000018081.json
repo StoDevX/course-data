@@ -1,22 +1,37 @@
 {
-	"clbid": 18081,
+	"clbid": "0000018081",
 	"credits": 1.0,
-	"crsid": 337,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 2,
+	"crsid": "0000000337",
+	"department": "EDUC",
+	"enrolled": 2,
 	"halfcredit": "2",
 	"instructors": [
 		"Ann A. Leming"
 	],
 	"level": 300,
-	"locations": [
-		"M 4"
-	],
 	"max": 5,
 	"name": "The Exceptional Child",
 	"number": 376,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 4",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

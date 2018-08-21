@@ -1,21 +1,36 @@
 {
-	"clbid": 15135,
+	"clbid": "0000015135",
 	"credits": 1.0,
-	"crsid": 2092,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 7,
+	"crsid": "0000002092",
+	"department": "PARA",
+	"enrolled": 7,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 9,
 	"name": "Hum Sem: Medieval",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "L 177",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "L 177",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "L 177",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

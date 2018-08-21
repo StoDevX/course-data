@@ -1,21 +1,30 @@
 {
-	"clbid": 3335,
+	"clbid": "0000003335",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 22,
+	"crsid": "0000001017",
+	"department": "PEAC",
+	"enrolled": 22,
 	"instructors": [
 		"Paul Miller"
 	],
 	"level": 100,
-	"locations": [
-		"MFH WT RM"
-	],
 	"max": 24,
 	"name": "Wt Training-Men",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "MFH WT RM",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "MFH WT RM",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2001
 }

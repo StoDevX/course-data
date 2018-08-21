@@ -1,14 +1,12 @@
 {
-	"clbid": 80777,
+	"clbid": "0000080777",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001148",
+	"department": "PSCI",
 	"description": [
 		"This is an advanced course in the area of political thought. The topic, either a detailed study of major works or themes in political philosophy, will vary with each offering. Prerequisites: Political Science 220 and one course in the subfield."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Douglas J. Casson"
 	],
 	"level": 300,
-	"locations": [
-		"HH 322",
-		"HH 322"
-	],
 	"max": 15,
 	"name": "Sem:Studies Pol Thought",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 322",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 322",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Political Science 220 and one course in the subfield.",
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Seminar in Political Theory",
 	"type": "Research",
 	"year": 2011

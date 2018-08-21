@@ -1,21 +1,24 @@
 {
-	"clbid": 16877,
+	"clbid": "0000016877",
 	"credits": 0.25,
-	"crsid": 209,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 4,
+	"crsid": "0000000209",
+	"department": "CHEM",
+	"enrolled": 4,
 	"instructors": [
 		"H Stewart Hendrickson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 310/321"
-	],
 	"max": 16,
 	"name": "Biochemistry Lab",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:20",
+			"location": "SC 310/321",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"T 0120-0520PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

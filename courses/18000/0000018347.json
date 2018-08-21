@@ -1,21 +1,30 @@
 {
-	"clbid": 18347,
+	"clbid": "0000018347",
 	"credits": 1.0,
-	"crsid": 2021,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 7,
+	"crsid": "0000002021",
+	"department": "NORW",
+	"enrolled": 7,
 	"instructors": [
 		"Solveig Zempel"
 	],
 	"level": 300,
-	"locations": [
-		"M 15"
-	],
 	"max": 999,
 	"name": "Topics in Norw Cult",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "M 15",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "M 15",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 1145-0100PM"
-	],
 	"type": "Topic",
 	"year": 1995
 }

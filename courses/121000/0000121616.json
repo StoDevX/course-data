@@ -1,14 +1,12 @@
 {
-	"clbid": 121616,
+	"clbid": "0000121616",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001191",
+	"department": "REL",
 	"description": [
 		"This course introduces first-year students to the dialogue between Biblical traditions and the cultures and communities related to them. Students study major Biblical texts and their interaction with, for example, theology, religious practice, ethics, and social values, while considering methods and fields in the study of religion in a liberal arts setting. An additional prospectus describes the theme of each section."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"BTS-B"
 	],
@@ -16,16 +14,26 @@
 		"Douglas Schuurman"
 	],
 	"level": 100,
-	"locations": [
-		"OM 240",
-		"OM 240"
-	],
 	"max": 19,
 	"name": "Bible/Culture/Commun",
 	"notes": [
 		"Section topic: The Bible and Ethics."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 240",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 240",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -61,8 +69,28 @@
 			"status": "C"
 		},
 		{
-			"_updated": "2018-08-21T03:40:20.497550+00:00",
+			"_updated": "2018-08-21T03:27:38.535671+00:00",
+			"clbid": 121616,
+			"crsid": 1191,
+			"department": null,
+			"departments": [
+				"REL"
+			],
 			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"OM 240",
+				"OM 240"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		},
+		{
+			"_updated": "2018-08-21T04:00:51.327186+00:00",
+			"enrolled": 18,
 			"status": "O"
 		}
 	],
@@ -70,10 +98,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Bible in Culture and Community",
 	"type": "Research",
 	"year": 2018

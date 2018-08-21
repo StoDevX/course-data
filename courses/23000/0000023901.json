@@ -1,21 +1,36 @@
 {
-	"clbid": 23901,
+	"clbid": "0000023901",
 	"credits": 1.0,
-	"crsid": 1359,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 23,
+	"crsid": "0000001359",
+	"department": "SWRK",
+	"enrolled": 23,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 200,
-	"locations": [
-		"L 177"
-	],
 	"max": 30,
 	"name": "Soc Work/Soc Services",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "L 177",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "L 177",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "L 177",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

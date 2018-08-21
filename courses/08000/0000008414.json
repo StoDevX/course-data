@@ -1,21 +1,36 @@
 {
-	"clbid": 8414,
+	"clbid": "0000008414",
 	"credits": 1.0,
-	"crsid": 1214,
-	"departments": [
-		"REL"
-	],
-	"enroll": 31,
+	"crsid": "0000001214",
+	"department": "REL",
+	"enrolled": 31,
 	"instructors": [
 		"John Barbour"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 111"
-	],
 	"max": 25,
 	"name": "God and Faith/Autobio",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "BMC 111",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

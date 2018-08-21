@@ -1,24 +1,39 @@
 {
-	"clbid": 64702,
+	"clbid": "0000064702",
 	"credits": 1.0,
-	"crsid": 1404,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001404",
+	"department": "STAT",
 	"description": [
 		"This course emphasizes skills necessary to understand and analyze data. Topics include descriptive statistics, probability, random variables, sampling theory, estimation, classical hypothesis testing, and practical and theoretical understanding of simple and multiple regression analysis. Applications to economics and business problems use real data, realistic applications, and Minitab for Windows. Written reports link statistical theory and practice with communication of results. Prerequisite: Mathematics 120 or 121, and one of Economics 110-121, or consent of the instructor. Offered each semester."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Suzanne L. Wisniewski"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378"
-	],
 	"max": 30,
 	"name": "Statistics for Economics",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 378",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121, and one of Economics 110-121, or consent of the instructor. Offered each semester.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

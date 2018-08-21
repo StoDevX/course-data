@@ -1,21 +1,36 @@
 {
-	"clbid": 22786,
+	"clbid": "0000022786",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 42,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 42,
 	"instructors": [
 		"Richard Senese"
 	],
 	"level": 100,
-	"locations": [
-		"L 277"
-	],
 	"max": 40,
 	"name": "Principles: Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 277",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

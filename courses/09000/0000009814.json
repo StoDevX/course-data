@@ -1,21 +1,36 @@
 {
-	"clbid": 9814,
+	"clbid": "0000009814",
 	"credits": 1.0,
-	"crsid": 1128,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 24,
+	"crsid": "0000001128",
+	"department": "PSCI",
+	"enrolled": 24,
 	"instructors": [
 		"Stephen B. Dyson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 030"
-	],
 	"max": 25,
 	"name": "World Politics",
 	"number": 258,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "OM 030",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "OM 030",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "OM 030",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

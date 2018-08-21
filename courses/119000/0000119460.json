@@ -1,24 +1,51 @@
 {
-	"clbid": 119460,
+	"clbid": "0000119460",
 	"credits": 1.0,
-	"crsid": 189,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000189",
+	"department": "CHEM",
 	"description": [
 		"This course, a continuation of CHEM 121, examines atomic and molecular structure, including classical and quantum theories, bonding models, molecular orbitals and coordination chemistry. CHEM 121 and CHEM 123 together are equivalent in content to CHEM 125 and are designed to prepare students for CHEM 126. Offered during Interim. Prerequisite: CHEM 121."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 390"
-	],
 	"max": 35,
 	"name": "Atom/Molec Structure",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "RNS 390",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 390",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 121.",
 	"revisions": [
@@ -41,15 +68,30 @@
 			"_updated": "2018-08-07T14:48:46.734798+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.642802+00:00",
+			"clbid": 119460,
+			"crsid": 189,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 390"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0800-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0800-1000"
-	],
 	"title": "Atomic and Molecular Structure",
 	"type": "Research",
 	"year": 2018

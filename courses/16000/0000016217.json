@@ -1,21 +1,30 @@
 {
-	"clbid": 16217,
+	"clbid": "0000016217",
 	"credits": 1.0,
-	"crsid": 2146,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 3,
+	"crsid": "0000002146",
+	"department": "PARA",
+	"enrolled": 3,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"L 177"
-	],
 	"max": 7,
 	"name": "Christ.Theo,Pol & Rel",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 177",
+			"start": "13:20"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

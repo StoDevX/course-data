@@ -1,22 +1,25 @@
 {
-	"clbid": 72731,
+	"clbid": "0000072731",
 	"credits": 0.0,
-	"crsid": 131,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
-	"groupid": 130,
+	"crsid": "0000000131",
+	"department": "BIO",
+	"enrolled": 11,
+	"groupid": "0000000130",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 246"
-	],
 	"max": 16,
 	"name": "Invertebrate Biology Lab",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 246",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

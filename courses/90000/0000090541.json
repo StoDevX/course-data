@@ -1,14 +1,12 @@
 {
-	"clbid": 90541,
+	"clbid": "0000090541",
 	"credits": 1.0,
-	"crsid": 1218,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001218",
+	"department": "REL",
 	"description": [
 		"This survey of the historical, cultural, and theological developments within Judaism pays special attention to major periods and themes in Jewish life and thought, as well as to contemporary Judaism. Prerequisite: sophomore status or higher. Open to first-year students with permission of the instructor."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Mara H. Benjamin"
 	],
 	"level": 200,
-	"locations": [
-		"OM 030",
-		"OM 030"
-	],
 	"max": 24,
 	"name": "Judaism",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 030",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 030",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "sophomore status or higher. Open to first-year students with permission of the instructor.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

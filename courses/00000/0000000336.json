@@ -1,21 +1,24 @@
 {
-	"clbid": 336,
+	"clbid": "0000000336",
 	"credits": 1.0,
-	"crsid": 695,
-	"departments": [
-		"ID"
-	],
-	"enroll": 28,
+	"crsid": "0000000695",
+	"department": "ID",
+	"enrolled": 28,
 	"instructors": [
 		"Karen Gervais"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 25,
 	"name": "Soc/Ethics & Medicine",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "H 403",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Topic",
 	"year": 2000
 }

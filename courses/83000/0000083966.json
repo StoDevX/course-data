@@ -1,23 +1,43 @@
 {
-	"clbid": 83966,
+	"clbid": "0000083966",
 	"credits": 0.0,
-	"crsid": 18804,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 19,
-	"groupid": 18803,
+	"crsid": "0000018804",
+	"department": "CH/BI",
+	"enrolled": 19,
+	"groupid": "0000018803",
 	"instructors": [
 		"Beth Abdella"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 24,
 	"name": "Integrate Chem/Bio II Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 350",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 350",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 350",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 350",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +56,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20122,
-	"times": [
-		"M-Th 1230-0300PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

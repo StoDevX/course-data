@@ -1,22 +1,25 @@
 {
-	"clbid": 15901,
+	"clbid": "0000015901",
 	"credits": 0.0,
-	"crsid": 309,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 82,
+	"crsid": "0000000309",
+	"department": "EDUC",
+	"enrolled": 82,
 	"halfcredit": "2",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"FH 01"
-	],
 	"max": 80,
 	"name": "Drugs & Alcohol",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "FH 01",
+			"start": "19:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

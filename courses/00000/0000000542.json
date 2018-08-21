@@ -1,21 +1,30 @@
 {
-	"clbid": 542,
+	"clbid": "0000000542",
 	"credits": 1.0,
-	"crsid": 1146,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 10,
+	"crsid": "0000001146",
+	"department": "PSCI",
+	"enrolled": 10,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 20,
 	"name": "Pol. Research Methods",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 514",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 514",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 90173,
+	"clbid": "0000090173",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000736",
+	"department": "MATH",
 	"description": [
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120. Offered each semester and periodically during Interim."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Adam H. Berliner"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 206"
-	],
 	"max": 22,
 	"name": "Elem Linear Algebra",
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 206",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 206",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 206",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120. Offered each semester and periodically during Interim.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2013

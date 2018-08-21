@@ -1,24 +1,39 @@
 {
-	"clbid": 58439,
+	"clbid": "0000058439",
 	"credits": 1.0,
-	"crsid": 1405,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001405",
+	"department": "STAT",
 	"description": [
 		"This course takes a case-study approach to the fitting and assessment of statistical models with application to real data. Specific topics include two-sample comparisons, simple linear regression, multiple regression, model diagnostics, logistic regression for focus on problem-solving tools, interpretation, mathematical models underlying analysis methods, and written statistical reports. Prerequisite: Statistics 110 or 212 or 263, or permission of instructor. Offered Fall and Spring Semesters."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"James Scott"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 26,
 	"name": "Statistical Modeling",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 182",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Statistics 110 or 212 or 263, or permission of instructor. Offered Fall and Spring Semesters.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

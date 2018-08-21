@@ -1,21 +1,30 @@
 {
-	"clbid": 16245,
+	"clbid": "0000016245",
 	"credits": 0.25,
-	"crsid": 1002,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 12,
+	"crsid": "0000001002",
+	"department": "PEAC",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CENTER GYM"
-	],
 	"max": 24,
 	"name": "Volleyball",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "CENTER GYM",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "CENTER GYM",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

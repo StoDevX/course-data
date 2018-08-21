@@ -1,21 +1,30 @@
 {
-	"clbid": 3569,
+	"clbid": "0000003569",
 	"credits": 1.0,
-	"crsid": 1399,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 21,
+	"crsid": "0000001399",
+	"department": "THEAT",
+	"enrolled": 21,
 	"instructors": [
 		"Karen Wilson"
 	],
 	"level": 300,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 999,
 	"name": "Topics: Theatre in Soc",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SPT 216",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SPT 216",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Topic",
 	"year": 2001
 }

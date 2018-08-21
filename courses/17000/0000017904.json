@@ -1,21 +1,24 @@
 {
-	"clbid": 17904,
+	"clbid": "0000017904",
 	"credits": 1.0,
-	"crsid": 71,
-	"departments": [
-		"ART"
-	],
-	"enroll": 26,
+	"crsid": "0000000071",
+	"department": "ART",
+	"enrolled": 26,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"FH 01"
-	],
 	"max": 35,
 	"name": "Senior Studies-Studio",
 	"number": 393,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "FH 01",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"Th 0600-1000PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

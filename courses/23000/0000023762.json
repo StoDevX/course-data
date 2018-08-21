@@ -1,21 +1,36 @@
 {
-	"clbid": 23762,
+	"clbid": "0000023762",
 	"credits": 1.0,
-	"crsid": 1150,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 9,
+	"crsid": "0000001150",
+	"department": "PSCI",
+	"enrolled": 9,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 300,
-	"locations": [
-		"M 26"
-	],
 	"max": 20,
 	"name": "Topics Pol Develop",
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 26",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Topic",
 	"year": 1998
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 26595,
+	"clbid": "0000026595",
 	"credits": 0.5,
-	"crsid": 845,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 11,
+	"crsid": "0000000845",
+	"department": "MUSIC",
+	"enrolled": 11,
 	"instructors": [
 		"Robert V. Scholz"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 999,
 	"name": "Choral Lit II",
 	"number": 288,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 232",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

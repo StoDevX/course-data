@@ -1,22 +1,25 @@
 {
-	"clbid": 73855,
+	"clbid": "0000073855",
 	"credits": 0.0,
-	"crsid": 17584,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 12,
-	"groupid": 1080,
+	"crsid": "0000017584",
+	"department": "PHYS",
+	"enrolled": 12,
+	"groupid": "0000001080",
 	"instructors": [
 		"Brian Borovsky"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 16,
 	"name": "Analytical II Lab",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:25",
+			"location": "RNS 293",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"M 1255-0325PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

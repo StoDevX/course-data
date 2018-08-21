@@ -1,21 +1,30 @@
 {
-	"clbid": 24584,
+	"clbid": "0000024584",
 	"credits": 1.0,
-	"crsid": 1862,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000001862",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 300,
-	"locations": [
-		"M 2"
-	],
 	"max": 18,
 	"name": "Eur Sem: Stalin",
 	"number": 314,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 2",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 2",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 1998
 }

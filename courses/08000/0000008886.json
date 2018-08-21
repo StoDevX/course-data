@@ -1,21 +1,48 @@
 {
-	"clbid": 8886,
+	"clbid": "0000008886",
 	"credits": 1.0,
-	"crsid": 770,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 24,
+	"crsid": "0000000770",
+	"department": "MGMT",
+	"enrolled": 24,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413"
-	],
 	"max": 25,
 	"name": "Computer Applications",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "HH 413",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "HH 413",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "HH 413",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "HH 413",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "HH 413",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20042,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

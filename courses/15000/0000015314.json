@@ -1,21 +1,30 @@
 {
-	"clbid": 15314,
+	"clbid": "0000015314",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 26,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 26,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CH 111"
-	],
 	"max": 26,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CH 111",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "CH 111",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

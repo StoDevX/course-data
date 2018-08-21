@@ -1,22 +1,37 @@
 {
-	"clbid": 18462,
+	"clbid": "0000018462",
 	"credits": 0.5,
-	"crsid": 2222,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 26,
+	"crsid": "0000002222",
+	"department": "PETH",
+	"enrolled": 26,
 	"halfcredit": "1",
 	"instructors": [
 		"Matthew Haugen"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 999,
 	"name": "Psychology of Sport",
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC 1",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

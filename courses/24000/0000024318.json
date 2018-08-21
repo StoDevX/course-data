@@ -1,21 +1,30 @@
 {
-	"clbid": 24318,
+	"clbid": "0000024318",
 	"credits": 1.0,
-	"crsid": 182,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 24,
+	"crsid": "0000000182",
+	"department": "CHEM",
+	"enrolled": 24,
 	"instructors": [
 		"George L. Hardgrove"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 24,
 	"name": "Fundamentls of Chem",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 378",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 378",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 9590,
+	"clbid": "0000009590",
 	"credits": 1.0,
-	"crsid": 745,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 13,
+	"crsid": "0000000745",
+	"department": "MATH",
+	"enrolled": 13,
 	"instructors": [
 		"Bruce Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Elem Real Analysis",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 188",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

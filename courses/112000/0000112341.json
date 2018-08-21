@@ -1,14 +1,12 @@
 {
-	"clbid": 112341,
+	"clbid": "0000112341",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001015",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

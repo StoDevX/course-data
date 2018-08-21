@@ -1,21 +1,30 @@
 {
-	"clbid": 16521,
+	"clbid": "0000016521",
 	"credits": 1.0,
-	"crsid": 1364,
-	"departments": [
-		"SWRK"
-	],
-	"enroll": 12,
+	"crsid": "0000001364",
+	"department": "SWRK",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"YH 100"
-	],
 	"max": 15,
 	"name": "Community Practice",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "YH 100",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "YH 100",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

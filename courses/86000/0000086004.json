@@ -1,24 +1,39 @@
 {
-	"clbid": 86004,
+	"clbid": "0000086004",
 	"credits": 1.0,
-	"crsid": 757,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000757",
+	"department": "MATH",
 	"description": [
 		"This course is a continuation of the study of the theory of groups, rings, and fields. Topics include group actions, Sylow theory, and Galois theory. Other topics may include representation theory, module theory, and others. Prerequisite: Math 252. Offered in 2012-13 and alternate years."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Marju Purin"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 184"
-	],
 	"max": 20,
 	"name": "Abstract Algebra II",
 	"number": 352,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 184",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 184",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 184",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Math 252. Offered in 2012-13 and alternate years.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20123,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2012
 }

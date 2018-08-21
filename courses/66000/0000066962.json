@@ -1,28 +1,43 @@
 {
-	"clbid": 66962,
+	"clbid": "0000066962",
 	"credits": 1.0,
-	"crsid": 237,
-	"departments": [
-		"CHIN"
-	],
+	"crsid": "0000000237",
+	"department": "CHIN",
 	"description": [
 		"This course offers an introduction to speaking, reading, and writing Chinese, as well as mastery of basic grammar and command of 500 characters for reading and writing. Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the Fall Semester."
 	],
-	"enroll": 8,
-	"groupid": 237,
+	"enrolled": 8,
+	"groupid": "0000000237",
 	"instructors": [
 		"Shannon Cannella"
 	],
 	"level": 100,
-	"locations": [
-		"OM 001"
-	],
 	"max": 19,
 	"name": "Beginning Chinese I",
 	"notes": [
 		"Students in Chinese 111C must also register for one lab Chinese 111AL, BL or CL."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 001",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20091,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

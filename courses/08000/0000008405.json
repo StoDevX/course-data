@@ -1,21 +1,36 @@
 {
-	"clbid": 8405,
+	"clbid": "0000008405",
 	"credits": 1.0,
-	"crsid": 1195,
-	"departments": [
-		"REL"
-	],
-	"enroll": 71,
+	"crsid": "0000001195",
+	"department": "REL",
+	"enrolled": 71,
 	"instructors": [
 		"Edmund Santurri"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515"
-	],
 	"max": 90,
 	"name": "Chr Theol/Moral Life",
 	"number": 207,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 16756,
+	"clbid": "0000016756",
 	"credits": 1.0,
-	"crsid": 45,
-	"departments": [
-		"ART"
-	],
-	"enroll": 4,
+	"crsid": "0000000045",
+	"department": "ART",
+	"enrolled": 4,
 	"instructors": [
 		"Ron Gallas"
 	],
 	"level": 200,
-	"locations": [
-		"FH 19"
-	],
 	"max": 15,
 	"name": "Ceramics",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 19",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 19",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,25 +1,33 @@
 {
-	"clbid": 85435,
+	"clbid": "0000085435",
 	"credits": 1.0,
-	"crsid": 754,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000754",
+	"department": "MATH",
 	"description": [
 		"Complex analysis treats the calculus of complex-valued functions of a complex variable. Familiar words and ideas from ordinary calculus (limit, derivative, integral, maximum and minimum, infinite series) reappear in the complex setting. Topics include complex mappings, derivatives, and integrals; applications focus especially on the physical sciences. Prerequisite: Mathematics 220, and Mathematics 226 or 244. Offered annually."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"instructors": [
 		"Bruce Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 186",
-		"TOH 186"
-	],
 	"max": 22,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TOH 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TOH 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 220, and Mathematics 226 or 244. Offered annually.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2011
 }

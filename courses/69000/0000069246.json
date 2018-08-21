@@ -1,14 +1,12 @@
 {
-	"clbid": 69246,
+	"clbid": "0000069246",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001377",
+	"department": "THEAT",
 	"description": [
 		"Students learn and apply principles of speech composition and analyze speeches to understand effective methods. They demonstrate their knowledge in classroom speeches. Offered each semester."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,12 +14,17 @@
 		"Michael Wartman"
 	],
 	"level": 100,
-	"locations": [
-		"TB 216"
-	],
 	"max": 18,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "TB 216",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 64192,
+	"clbid": "0000064192",
 	"credits": 1.0,
-	"crsid": 1310,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000001310",
+	"department": "SOAN",
 	"description": [
 		"This course provides a social science understanding of the \"contemporary American family\" and analysis of marriage and family issues from a cross-cultural perspective. Students discuss issues of dating and mate selection, marital and parent-child relationships over the family life cycle, gender issues, work and family roles, and problem-related issues affecting families (divorce, violence and death) caused by rapid changes in society. Offered Fall or Spring Semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"HBS",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Trina Smith"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130",
-		"SC 130"
-	],
 	"max": 25,
 	"name": "Marriage & the Family",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 130",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 130",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Marriage and the Family",
 	"type": "Research",
 	"year": 2008

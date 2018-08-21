@@ -1,23 +1,36 @@
 {
-	"clbid": 3942,
+	"clbid": "0000003942",
 	"credits": 1.0,
-	"crsid": 461,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 17,
+	"crsid": "0000000461",
+	"department": "ENVST",
+	"enrolled": 17,
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"L 477",
-		"L 477",
-		"L 477"
-	],
 	"max": 18,
 	"name": "Remote Sensing & Gis",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 477",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "L 477",
+			"start": "12:45"
+		},
+		{
+			"day": "We",
+			"end": "15:20",
+			"location": "L 477",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM",
-		"W 0120-0320PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 5018,
+	"clbid": "0000005018",
 	"credits": 1.0,
-	"crsid": 499,
-	"departments": [
-		"GEOG"
-	],
-	"enroll": 33,
+	"crsid": "0000000499",
+	"department": "GEOG",
+	"enrolled": 33,
 	"instructors": [
 		"Richard Dunning"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035",
-		"OM 035"
-	],
 	"max": 35,
 	"name": "Human Geography",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "OM 035",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "OM 035",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

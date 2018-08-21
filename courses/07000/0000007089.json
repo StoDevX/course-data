@@ -1,22 +1,30 @@
 {
-	"clbid": 7089,
+	"clbid": "0000007089",
 	"credits": 1.0,
-	"crsid": 749,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000749",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Glen M. Castore"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Operations Research",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 184",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SC 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2003
 }

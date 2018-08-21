@@ -1,22 +1,42 @@
 {
-	"clbid": 8041,
+	"clbid": "0000008041",
 	"credits": 1.0,
-	"crsid": 662,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 22,
+	"crsid": "0000000662",
+	"department": "JAPAN",
+	"enrolled": 22,
 	"instructors": [
 		"Phyllis Hyland Larson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 002",
-		"RML 250"
-	],
 	"max": 30,
 	"name": "Intermed Japanese I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 002",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 002",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 002",
+			"start": "12:55"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RML 250",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +54,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM",
-		"T 0305-0400PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

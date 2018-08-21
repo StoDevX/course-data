@@ -1,21 +1,30 @@
 {
-	"clbid": 20748,
+	"clbid": "0000020748",
 	"credits": 1.0,
-	"crsid": 1243,
-	"departments": [
-		"REL"
-	],
-	"enroll": 23,
+	"crsid": "0000001243",
+	"department": "REL",
+	"enrolled": 23,
 	"instructors": [
 		"Robert W. Jenson"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 25,
 	"name": "Hist Chr Thought III",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CH 101",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CH 101",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

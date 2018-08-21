@@ -1,24 +1,39 @@
 {
-	"clbid": 90572,
+	"clbid": "0000090572",
 	"credits": 1.0,
-	"crsid": 1093,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001093",
+	"department": "PHYS",
 	"description": [
 		"This course utilizes integral and vector calculus in a thorough and analytic examination of classical electromagnetic theory and the physical laws on which it is based. Topics include electric and magnetic fields, macroscopic interaction of electromagnetism with matter, and the propagation of electromagnetic waves in various media. Concurrent registration in a 0.25-course lab (Physics 385) is required. Prerequisites: Physics 232 and Mathematics 226 and 230. Offered annually in the spring semester."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 18,
 	"name": "Maxwell's Equations",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Physics 232 and Mathematics 226 and 230. Offered annually in the spring semester.",
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2013
 }

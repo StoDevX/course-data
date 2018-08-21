@@ -1,14 +1,12 @@
 {
-	"clbid": 62630,
+	"clbid": "0000062630",
 	"credits": 0.25,
-	"crsid": 996,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000996",
+	"department": "ESAC",
 	"description": [
 		"Beginning level archers learn shooting skills. Students have opportunities for shooting both recurve and compound bows."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"Philip Lundin"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_FH"
-	],
 	"max": 24,
 	"name": "Archery",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC_FH",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC_FH",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SAC_FH",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2008
 }

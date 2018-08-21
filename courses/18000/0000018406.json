@@ -1,21 +1,30 @@
 {
-	"clbid": 18406,
+	"clbid": "0000018406",
 	"credits": 0.25,
-	"crsid": 1015,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 8,
+	"crsid": "0000001015",
+	"department": "PEAC",
+	"enrolled": 8,
 	"instructors": [
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"SAC FH"
-	],
 	"max": 20,
 	"name": "Fitness Walking",
 	"number": 136,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SAC FH",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

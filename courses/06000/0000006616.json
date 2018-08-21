@@ -1,21 +1,42 @@
 {
-	"clbid": 6616,
+	"clbid": "0000006616",
 	"credits": 1.0,
-	"crsid": 1287,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 29,
+	"crsid": "0000001287",
+	"department": "SOAN",
+	"enrolled": 29,
 	"instructors": [
 		"Thomas A. Williamson"
 	],
 	"level": 100,
-	"locations": [
-		"RML 577"
-	],
 	"max": 25,
 	"name": "Modern Elixirs",
 	"number": 116,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "RML 577",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "RML 577",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "RML 577",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "RML 577",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +54,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20032,
-	"times": [
-		"MTThF 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

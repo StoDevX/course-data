@@ -1,25 +1,33 @@
 {
-	"clbid": 86005,
+	"clbid": "0000086005",
 	"credits": 1.0,
-	"crsid": 757,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000757",
+	"department": "MATH",
 	"description": [
 		"This course is a continuation of the study of the theory of groups, rings, and fields. Topics include group actions, Sylow theory, and Galois theory. Other topics may include representation theory, module theory, and others. Prerequisite: Math 252. Offered in 2012-13 and alternate years."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 20,
 	"name": "Abstract Algebra II",
 	"number": 352,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Math 252. Offered in 2012-13 and alternate years.",
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20123,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

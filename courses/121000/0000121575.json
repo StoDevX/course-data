@@ -1,14 +1,12 @@
 {
-	"clbid": 121575,
+	"clbid": "0000121575",
 	"credits": 1.0,
-	"crsid": 27056,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000027056",
+	"department": "HIST",
 	"description": [
 		"The course explores how people view Africa and the contested discourse on the meaning of \"Africa\" with special emphasis on sub-Sarahan Africa. Through lectures, discussion, and analysis of primary sources, students examine Africa's past in terms of material and social change; how the ordinary and the privileged made their world; economic and religious revolutions; responses to colonial encroachment and rule; and independence. No prior study of Africa necessary. Offered annually."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,12 +14,29 @@
 		"Abdulai Iddrisu"
 	],
 	"level": 200,
-	"locations": [
-		"OM 310"
-	],
 	"max": 25,
 	"name": "Intro to African History",
 	"number": 291,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 310",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 310",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 310",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.454489+00:00",
 			"enroll": "22",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.454461+00:00",
+			"clbid": 121575,
+			"crsid": 27056,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"OM 310"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Introduction to African History",
 	"type": "Research",
 	"year": 2018

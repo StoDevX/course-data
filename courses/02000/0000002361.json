@@ -1,21 +1,30 @@
 {
-	"clbid": 2361,
+	"clbid": "0000002361",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 20,
+	"crsid": "0000001020",
+	"department": "PEAC",
+	"enrolled": 20,
 	"instructors": [
 		"Judith Tegtmeyer"
 	],
 	"level": 100,
-	"locations": [
-		"SAC N GYM"
-	],
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC N GYM",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SAC N GYM",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

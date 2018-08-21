@@ -1,21 +1,30 @@
 {
-	"clbid": 17188,
+	"clbid": "0000017188",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 19,
+	"crsid": "0000000801",
+	"department": "MUSIC",
+	"enrolled": 19,
 	"instructors": [
 		"Robert L. Kendall"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 25,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 239",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 239",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

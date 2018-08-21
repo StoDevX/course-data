@@ -1,21 +1,36 @@
 {
-	"clbid": 26608,
+	"clbid": "0000026608",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 28,
+	"crsid": "0000000921",
+	"department": "NORW",
+	"enrolled": 28,
 	"instructors": [
 		"Nancy Aarsvold"
 	],
 	"level": 100,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "M 15",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "M 15",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "M 15",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1999
 }

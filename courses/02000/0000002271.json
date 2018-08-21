@@ -1,21 +1,30 @@
 {
-	"clbid": 2271,
+	"clbid": "0000002271",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 23,
+	"crsid": "0000000801",
+	"department": "MUSIC",
+	"enrolled": 23,
 	"instructors": [
 		"Christopher Gable"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 25,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CHM 224",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

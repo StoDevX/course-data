@@ -1,21 +1,36 @@
 {
-	"clbid": 18138,
+	"clbid": "0000018138",
 	"credits": 1.0,
-	"crsid": 1692,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 24,
+	"crsid": "0000001692",
+	"department": "ENGL",
+	"enrolled": 24,
 	"instructors": [
 		"David Wee"
 	],
 	"level": 200,
-	"locations": [
-		"L 421"
-	],
 	"max": 33,
 	"name": "The Victorian Era",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 421",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

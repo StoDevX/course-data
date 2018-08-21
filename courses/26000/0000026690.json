@@ -1,21 +1,36 @@
 {
-	"clbid": 26690,
+	"clbid": "0000026690",
 	"credits": 1.0,
-	"crsid": 1062,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 6,
+	"crsid": "0000001062",
+	"department": "PETH",
+	"enrolled": 6,
 	"instructors": [
 		"William Sean Goldsworthy"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 142"
-	],
 	"max": 30,
 	"name": "Biomechanics",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 142",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 142",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 142",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

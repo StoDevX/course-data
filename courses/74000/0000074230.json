@@ -1,23 +1,31 @@
 {
-	"clbid": 74230,
+	"clbid": "0000074230",
 	"credits": 0.0,
-	"crsid": 244,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 8,
-	"groupid": 243,
+	"crsid": "0000000244",
+	"department": "CHIN",
+	"enrolled": 8,
+	"groupid": "0000000243",
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 314",
-		"TOH 314"
-	],
 	"max": 18,
 	"name": "Intermed Chinese II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 314",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 314",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +44,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Lab",
 	"year": 2010
 }

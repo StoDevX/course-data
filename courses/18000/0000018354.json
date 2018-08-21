@@ -1,21 +1,36 @@
 {
-	"clbid": 18354,
+	"clbid": "0000018354",
 	"credits": 1.0,
-	"crsid": 2062,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 3,
+	"crsid": "0000002062",
+	"department": "PARA",
+	"enrolled": 3,
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 100,
-	"locations": [
-		"SC 269"
-	],
 	"max": 10,
 	"name": "Nature,Science,Spirit",
 	"number": 145,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 269",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 269",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 269",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

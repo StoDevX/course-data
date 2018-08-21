@@ -1,22 +1,25 @@
 {
-	"clbid": 106015,
+	"clbid": "0000106015",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 21,
-	"groupid": 1072,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 21,
+	"groupid": "0000001072",
 	"instructors": [
 		"Barry N. Costanzi"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 20,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:15",
+			"location": "RNS 292",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"Th 1245-0315PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

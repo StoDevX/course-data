@@ -1,21 +1,48 @@
 {
-	"clbid": 23106,
+	"clbid": "0000023106",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 6,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 6,
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 19975,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 1997
 }

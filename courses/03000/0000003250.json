@@ -1,21 +1,30 @@
 {
-	"clbid": 3250,
+	"clbid": "0000003250",
 	"credits": 0.25,
-	"crsid": 810,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 9,
+	"crsid": "0000000810",
+	"department": "MUSIC",
+	"enrolled": 9,
 	"instructors": [
 		"Sigrid Johnson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 233",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

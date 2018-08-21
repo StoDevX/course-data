@@ -1,22 +1,25 @@
 {
-	"clbid": 75494,
+	"clbid": "0000075494",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 18,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 18,
+	"groupid": "0000001402",
 	"instructors": [
 		"Kathryn Ziegler"
 	],
 	"level": 100,
-	"locations": [
-		"RML 250"
-	],
 	"max": 20,
 	"name": "Prin of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 250",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"M 0905-1000"
-	],
 	"type": "Lab",
 	"year": 2010
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 96353,
+	"clbid": "0000096353",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 19,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 19,
+	"groupid": "0000001074",
 	"instructors": [
 		"Amy Larsen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 20,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 292",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0830-1100"
-	],
 	"type": "Lab",
 	"year": 2014
 }

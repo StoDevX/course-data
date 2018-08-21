@@ -1,27 +1,21 @@
 {
-	"clbid": 120296,
+	"clbid": "0000120296",
 	"credits": 1.0,
-	"crsid": 18802,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
+	"crsid": "0000018802",
+	"department": "CH/BI",
 	"description": [
 		"This course builds on the principles learned in Chemistry/Biology 125/126 and explores how chemistry informs major principles of cellular and molecular biology. Topics include cell structure, metabolism, movement, signaling, and division. The course emphasizes problem-solving, quantitative reasoning, the scientific method, and scientific writing through lectures, discussions, readings, writing assignments, and lab work. Students attend three classe sand one three-hour laboratory each week. Counts toward \"cell biology\" core category for the Biology major. Offered annually in the spring semester. Prerequisite: CH/BI 126."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 18802,
+	"groupid": "0000018802",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290"
-	],
 	"max": 46,
 	"name": "Integrated Chem/Bio III",
 	"notes": [
@@ -29,6 +23,26 @@
 		"Open only to those students who have completed CH/BI 126."
 	],
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 290",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 290",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 290",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CH/BI 126.",
 	"revisions": [
@@ -56,14 +70,31 @@
 			"_updated": "2018-08-07T14:48:48.786976+00:00",
 			"enroll": "0",
 			"max": "46"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.654895+00:00",
+			"clbid": 120296,
+			"crsid": 18802,
+			"department": null,
+			"departments": [
+				"CHEM",
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 18802,
+			"locations": [
+				"RNS 290"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Integrated Chem/Bio III: Molecular and Cellular Biology",
 	"type": "Research",
 	"year": 2018

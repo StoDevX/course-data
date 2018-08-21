@@ -1,21 +1,36 @@
 {
-	"clbid": 8002,
+	"clbid": "0000008002",
 	"credits": 1.0,
-	"crsid": 589,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 25,
+	"crsid": "0000000589",
+	"department": "HIST",
+	"enrolled": 25,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307"
-	],
 	"max": 35,
 	"name": "Reformation Europe",
 	"number": 218,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 307",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 307",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 307",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

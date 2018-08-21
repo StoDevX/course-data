@@ -1,22 +1,42 @@
 {
-	"clbid": 7662,
+	"clbid": "0000007662",
 	"credits": 1.0,
-	"crsid": 106,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 27,
+	"crsid": "0000000106",
+	"department": "BIO",
+	"enrolled": 27,
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Cell Bio & Genetics",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "SC 273",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 0800-0855",
-		"Th 0800-1030"
-	],
 	"type": "Research",
 	"year": 2004
 }

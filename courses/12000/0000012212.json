@@ -1,24 +1,39 @@
 {
-	"clbid": 12212,
+	"clbid": "0000012212",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001012",
+	"department": "PEAC",
 	"description": [
 		"Students personally apply the basic principles of exercise through conditioning, strength development, endurance training and aerobic activities. Students participate in a wide rang of eassessments designed to enhance physical fitness."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Cynthia Book"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_GYM_S"
-	],
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC_GYM_S",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC_GYM_S",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SAC_GYM_S",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Individual Fitness",
 	"type": "Research",
 	"year": 2005

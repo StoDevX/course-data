@@ -1,21 +1,30 @@
 {
-	"clbid": 2109,
+	"clbid": "0000002109",
 	"credits": 1.0,
-	"crsid": 469,
-	"departments": [
-		"IDFA"
-	],
-	"enroll": 46,
+	"crsid": "0000000469",
+	"department": "IDFA",
+	"enrolled": 46,
 	"instructors": [
 		"Susan Bauer"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 45,
 	"name": "Exploring the Arts",
 	"number": 174,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

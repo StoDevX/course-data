@@ -1,14 +1,12 @@
 {
-	"clbid": 64080,
+	"clbid": "0000064080",
 	"credits": 1.0,
-	"crsid": 1229,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001229",
+	"department": "REL",
 	"description": [
 		"This course features close reading of the prophetic literature of Israel with attention to literary forms, historical context and theological insights. Students discuss the contribution of the Hebrew prophets to Jewish and Christian tradition and prophecy as a religious phenomenon. Prerequisite: BTS-B."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Margaret Odell"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 102",
-		"BMC 102"
-	],
 	"max": 24,
 	"name": "Hebrew Prophets",
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "BMC 102",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "BMC 102",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2008
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 15758,
+	"clbid": "0000015758",
 	"credits": 1.0,
-	"crsid": 1512,
-	"departments": [
-		"ART"
-	],
-	"enroll": 6,
+	"crsid": "0000001512",
+	"department": "ART",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"FH 40"
-	],
 	"max": 8,
 	"name": "Painting II",
 	"number": 331,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 40",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 40",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

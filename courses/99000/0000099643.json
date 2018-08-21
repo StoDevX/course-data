@@ -1,22 +1,25 @@
 {
-	"clbid": 99643,
+	"clbid": "0000099643",
 	"credits": 0.0,
-	"crsid": 27992,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 26,
-	"groupid": 27943,
+	"crsid": "0000027992",
+	"department": "MATH",
+	"enrolled": 26,
+	"groupid": "0000027943",
 	"instructors": [
 		"Bruce Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 206"
-	],
 	"max": 20,
 	"name": "Calc I with Review Lab",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 206",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,9 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"Th 0930-1050"
-	],
 	"type": "Lab",
 	"year": 2015
 }

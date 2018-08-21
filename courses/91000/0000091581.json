@@ -1,14 +1,12 @@
 {
-	"clbid": 91581,
+	"clbid": "0000091581",
 	"credits": 1.0,
-	"crsid": 25848,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000025848",
+	"department": "ENGL",
 	"description": [
 		"Exciting writing in English is coming from South Asia: India, Pakistan, Bangladesh, and Sri Lanka. An area once shaped by British colonization, South Asia is changing rapidly now with globalization. Students explore this area's history, culture, and religion by reading literature that tells compelling stories about individuals and groups that seem far different and far away from 21st-century Minnesota. Prerequisite: FYW. Offered alternate years."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Gabriel Shapiro"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 30,
 	"name": "South Asian Literature",
 	"number": 204,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RML 525",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RML 525",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW. Offered alternate years.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2013
 }

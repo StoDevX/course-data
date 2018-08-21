@@ -1,22 +1,25 @@
 {
-	"clbid": 93953,
+	"clbid": "0000093953",
 	"credits": 0.0,
-	"crsid": 1260,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 13,
-	"groupid": 1259,
+	"crsid": "0000001260",
+	"department": "RUSSN",
+	"enrolled": 13,
+	"groupid": "0000001259",
 	"instructors": [
 		"Irina Walter"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 316"
-	],
 	"max": 18,
 	"name": "Beginning Russian I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "TOH 316",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20141,
-	"times": [
-		"T 0200-0255PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

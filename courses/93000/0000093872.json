@@ -1,14 +1,12 @@
 {
-	"clbid": 93872,
+	"clbid": "0000093872",
 	"credits": 1.0,
-	"crsid": 974,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000974",
+	"department": "PHIL",
 	"description": [
 		"A philosophical inquiry into beauty and art. Students investigate the relationship between beauty, goodness, and truth, and examine different accounts of art, its value, meaning, and the standards by which it should be judged. Themes include the nature of creativity, censorship, and the significance -- cultural, moral, and religious -- of art. Offered annually."
 	],
-	"enroll": 42,
+	"enrolled": 42,
 	"gereqs": [
 		"ALS-A",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 35,
 	"name": "Aesthetics",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 307",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 307",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

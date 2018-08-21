@@ -1,24 +1,39 @@
 {
-	"clbid": 12269,
+	"clbid": "0000012269",
 	"credits": 1.0,
-	"crsid": 1082,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001082",
+	"department": "PHYS",
 	"description": [
 		"Quantum mechanics has changed the conceptual framework and revolutionized our understanding of atoms and molecules, both isolated and in condensed states of matter. It also guides our understanding of the nucleus and elementary particles. This course examines these discoveries and several applications they produced. Prerequisites: Physics 228 and concurrent registration in Physics 245 and Math 230. Offered Spring Semester."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 24,
 	"name": "Modern Physics",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Physics 228 and concurrent registration in Physics 245 and Math 230. Offered Spring Semester.",
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 121309,
+	"clbid": "0000121309",
 	"credits": 1.0,
-	"crsid": 824,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000824",
+	"department": "MUSIC",
 	"description": [
 		"This course presents a study of the historical development of jazz, from its roots in blues and ragtime at the \"beginning\" of the 20th century to the present, focusing on its principal forms and styles, its role in American culture, and contributions of major artists. Offered during Interim. Counts towards American studies and race and ethnic studies majors and race and ethnic students and Africa and the Americas concentrations."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"ALS-A",
 		"MCD"
@@ -17,13 +15,23 @@
 		"David Hagedorn"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 29,
 	"name": "History of Jazz",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 239",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CHM 239",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,15 +63,31 @@
 		{
 			"_updated": "2018-08-16T03:35:10.340508+00:00",
 			"enroll": 30
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.248925+00:00",
+			"clbid": 121309,
+			"crsid": 824,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 29,
+			"enrolled": null,
+			"locations": [
+				"CHM 239",
+				"CHM 239"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

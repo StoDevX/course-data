@@ -1,25 +1,33 @@
 {
-	"clbid": 67092,
+	"clbid": "0000067092",
 	"credits": 1.0,
-	"crsid": 783,
-	"departments": [
-		"MGMT"
-	],
+	"crsid": "0000000783",
+	"department": "MGMT",
 	"description": [
 		"This course is an introduction to financial decision-making in a business environment. Topics include asset acquisition, issuance of stock vs. debt, dividend policy, planning and analysis, and working capital policy. Case discussions, combined with lectures and readings, enable students to apply finance principles in actual business situations. Computer spreadsheets are used. Prerequisite: Management Studies 225. Offered annually."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"instructors": [
 		"Thomas Bredeson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 317",
-		"HH 317"
-	],
 	"max": 30,
 	"name": "Corporate Finance",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 317",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 317",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Management Studies 225. Offered annually.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

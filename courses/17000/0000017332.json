@@ -1,21 +1,36 @@
 {
-	"clbid": 17332,
+	"clbid": "0000017332",
 	"credits": 1.0,
-	"crsid": 2217,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 12,
+	"crsid": "0000002217",
+	"department": "PETH",
+	"enrolled": 12,
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 02"
-	],
 	"max": 24,
 	"name": "Hist & Phil Pe/Sport",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 02",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 02",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 02",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

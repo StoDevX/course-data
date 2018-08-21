@@ -1,21 +1,30 @@
 {
-	"clbid": 16960,
+	"clbid": "0000016960",
 	"credits": 0.5,
-	"crsid": 359,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 11,
+	"crsid": "0000000359",
+	"department": "DNCTE",
+	"enrolled": 11,
 	"instructors": [
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"SPT RHT"
-	],
 	"max": 16,
 	"name": "Ballet II",
 	"number": 104,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SPT RHT",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SPT RHT",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MW 0800-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,25 +1,33 @@
 {
-	"clbid": 58390,
+	"clbid": "0000058390",
 	"credits": 1.0,
-	"crsid": 1153,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001153",
+	"department": "PSCI",
 	"description": [
 		"Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered. May be repeated if topics are different. Prerequisites: Political Science 220, and one course in the subfield or permission of instructor."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 15,
 	"name": "Sem:Courageous Resistance",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 302",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Political Science 220, and one course in the subfield or permission of instructor.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Seminar",
 	"type": "Seminar",
 	"year": 2007

@@ -1,22 +1,30 @@
 {
-	"clbid": 7918,
+	"clbid": "0000007918",
 	"credits": 1.0,
-	"crsid": 469,
-	"departments": [
-		"IDFA"
-	],
-	"enroll": 14,
+	"crsid": "0000000469",
+	"department": "IDFA",
+	"enrolled": 14,
 	"instructors": [
 		"Dan Dressen"
 	],
 	"level": 100,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 30,
 	"name": "Exploring the Arts",
 	"number": 174,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TB 227",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TB 227",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

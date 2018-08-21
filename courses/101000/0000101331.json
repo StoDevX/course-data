@@ -1,24 +1,39 @@
 {
-	"clbid": 101331,
+	"clbid": "0000101331",
 	"credits": 1.0,
-	"crsid": 218,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000218",
+	"department": "CHEM",
 	"description": [
 		"This course builds depth of biochemical understanding upon the foundation laid in CHEM 379. Contents may include selected topics in catabolic and anabolic metabolism, integration and regulation of metabolism, photosynthesis and biochemical genetics. In addition, students will gain experience with the primary literature. Offered annually in the spring semester. Counts toward biomolecular science concentration. Prerequisite: CHEM 379."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"instructors": [
 		"William C. Solomon"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 12,
 	"name": "Biochemistry II",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 379.",
 	"revisions": [
@@ -54,9 +69,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2015
 }

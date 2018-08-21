@@ -1,21 +1,30 @@
 {
-	"clbid": 1255,
+	"clbid": "0000001255",
 	"credits": 1.0,
-	"crsid": 463,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 20,
+	"crsid": "0000000463",
+	"department": "ENVST",
+	"enrolled": 20,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 200,
-	"locations": [
-		"FH SEM"
-	],
 	"max": 20,
 	"name": "Ethics & Am Landscape",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "FH SEM",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "FH SEM",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

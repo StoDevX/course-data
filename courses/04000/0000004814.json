@@ -1,21 +1,36 @@
 {
-	"clbid": 4814,
+	"clbid": "0000004814",
 	"credits": 1.0,
-	"crsid": 194,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 53,
+	"crsid": "0000000194",
+	"department": "CHEM",
+	"enrolled": 53,
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 55,
 	"name": "Chemical Reactions",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

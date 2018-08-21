@@ -1,21 +1,30 @@
 {
-	"clbid": 1248,
+	"clbid": "0000001248",
 	"credits": 1.0,
-	"crsid": 452,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 15,
+	"crsid": "0000000452",
+	"department": "ENGL",
+	"enrolled": 15,
 	"instructors": [
 		"James Heynen"
 	],
 	"level": 300,
-	"locations": [
-		"L 520"
-	],
 	"max": 15,
 	"name": "Major Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 520",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 520",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

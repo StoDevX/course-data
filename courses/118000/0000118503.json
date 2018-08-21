@@ -1,22 +1,25 @@
 {
-	"clbid": 118503,
+	"clbid": "0000118503",
 	"credits": 0.0,
-	"crsid": 140,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 139,
+	"crsid": "0000000140",
+	"department": "BIO",
+	"enrolled": 20,
+	"groupid": "0000000139",
 	"instructors": [
 		"Meredith Holgerson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 440"
-	],
 	"max": 22,
 	"name": "Ecological Principles Lab",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 440",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:44.749434+00:00",
 			"enroll": "20",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.972226+00:00",
+			"clbid": 118503,
+			"crsid": 140,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"groupid": 139,
+			"locations": [
+				"RNS 440"
+			],
+			"offerings": null,
+			"times": [
+				"W 0100-0400PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"W 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

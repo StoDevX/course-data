@@ -1,14 +1,12 @@
 {
-	"clbid": 102940,
+	"clbid": "0000102940",
 	"credits": 1.0,
-	"crsid": 230,
-	"departments": [
-		"CLASS"
-	],
+	"crsid": "0000000230",
+	"department": "CLASS",
 	"description": [
 		"This course takes students on an exciting journey back to the 5th century BCE, as the Athenians emerge triumphant from the Persian Wars and develop the \"Golden Age\" of Greece. Studying the history, literature, and art of ancient Athens reveals how distinctive that city-state was and how lasting its contributions to Western civilization have been. Offered alternate years. Counts toward ancient studies major."
 	],
-	"enroll": 40,
+	"enrolled": 40,
 	"gereqs": [
 		"ALS-L",
 		"HWC"
@@ -17,13 +15,23 @@
 		"Lisa A. Whitlatch"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 40,
 	"name": "Golden Age Greece-Tr",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 525",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 525",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -61,10 +69,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "The Golden Age of Greece",
 	"type": "Research",
 	"year": 2015

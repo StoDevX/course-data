@@ -1,21 +1,36 @@
 {
-	"clbid": 23479,
+	"clbid": "0000023479",
 	"credits": 1.0,
-	"crsid": 508,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 27,
+	"crsid": "0000000508",
+	"department": "GERM",
+	"enrolled": 27,
 	"instructors": [
 		"Karl Fink"
 	],
 	"level": 200,
-	"locations": [
-		"M 2"
-	],
 	"max": 33,
 	"name": "Intermed German I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 2",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

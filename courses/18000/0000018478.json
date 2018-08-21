@@ -1,21 +1,36 @@
 {
-	"clbid": 18478,
+	"clbid": "0000018478",
 	"credits": 1.0,
-	"crsid": 1078,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 26,
+	"crsid": "0000001078",
+	"department": "PHYS",
+	"enrolled": 26,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170"
-	],
 	"max": 32,
 	"name": "Analytical II",
 	"number": 127,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:35",
+			"location": "SC 170",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:35",
+			"location": "SC 170",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:35",
+			"location": "SC 170",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1045-1135"
-	],
 	"type": "Research",
 	"year": 1995
 }

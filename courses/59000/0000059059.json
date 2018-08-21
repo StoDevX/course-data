@@ -1,22 +1,31 @@
 {
-	"clbid": 59059,
+	"clbid": "0000059059",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 9,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 9,
+	"groupid": "0000000192",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 999,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:00",
+			"location": "SC 371",
+			"start": "09:00"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "SC 371",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20064,
-	"times": [
-		"MW 0900-1200PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

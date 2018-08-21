@@ -1,21 +1,36 @@
 {
-	"clbid": 22547,
+	"clbid": "0000022547",
 	"credits": 1.0,
-	"crsid": 702,
-	"departments": [
-		"ID"
-	],
-	"enroll": 45,
+	"crsid": "0000000702",
+	"department": "ID",
+	"enrolled": 45,
 	"instructors": [
 		"Robert Nichols"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 45,
 	"name": "W Christ/Orthodox E",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,27 +1,42 @@
 {
-	"clbid": 121494,
+	"clbid": "0000121494",
 	"credits": 1.0,
-	"crsid": 45,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000045",
+	"department": "ART",
 	"description": [
 		"This intermediate-level course assumes students have a substantial understanding of ceramic processes, plus a good awareness of their own interests in the realm of ceramic expression. The instructor helps students focus their efforts by proposing specific areas of investigation. Materials fee. Offered annually. Prerequisite: ART 207. Previous studio experience in ceramics is accepted when approved by the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Paul S. Briggs"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 115"
-	],
 	"max": 16,
 	"name": "Intermediate Ceramics",
 	"notes": [
 		"The materials fee for ART 234 will be $170."
 	],
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 115",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 115",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 115",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ART 207. Previous studio experience in ceramics is accepted when approved by the instructor.",
 	"revisions": [
@@ -40,14 +55,29 @@
 			"_updated": "2018-08-07T14:48:49.602265+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.669125+00:00",
+			"clbid": 121494,
+			"crsid": 45,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 115"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,25 +1,33 @@
 {
-	"clbid": 80753,
+	"clbid": "0000080753",
 	"credits": 1.0,
-	"crsid": 376,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000376",
+	"department": "DANCE",
 	"description": [
 		"In this advanced analysis of principles and methods for creating dances, students survey current trends in dance performance as well as choreograph new works. Prerequisite: Dance 231. Offered alternate years in the spring semester."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Janice Roberts"
 	],
 	"level": 300,
-	"locations": [
-		"CAD Studio 1",
-		"CAD Studio 1"
-	],
 	"max": 12,
 	"name": "Advanced Choreography",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD Studio 1",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD Studio 1",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Dance 231. Offered alternate years in the spring semester.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

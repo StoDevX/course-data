@@ -1,23 +1,26 @@
 {
-	"clbid": 62732,
+	"clbid": "0000062732",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 25,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 25,
+	"groupid": "0000000194",
 	"grouptype": "2",
 	"instructors": [
 		"Neil Palosaari"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 27,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 350",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2008
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 109733,
+	"clbid": "0000109733",
 	"credits": 1.0,
-	"crsid": 1095,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001095",
+	"department": "PHYS",
 	"description": [
 		"How do macroscopic variables (e.g. energy, pressure) develop through the collision or interaction of microscopic objects? Why is the spread of disease in an orchard similar to a piece of iron becoming magnetized? Students study classical and quantum gases, followed by magnets and phase transitions (Ising Model, percolation, renormalization) and employ both analytical and computer methods (Monte-Carlo sampling, simulations, molecular dynamics). Offered alternate years. Prerequisite: PHYS 244."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 24,
 	"name": "Statistical Physics",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PHYS 244.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

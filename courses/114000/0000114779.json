@@ -1,24 +1,39 @@
 {
-	"clbid": 114779,
+	"clbid": "0000114779",
 	"credits": 1.0,
-	"crsid": 31205,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 0,
+	"crsid": "0000031205",
+	"department": "ENGL",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 2,
 	"name": "Test Course",
 	"notes": [
 		"This course is for testing purposes only."
 	],
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2016
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 3040,
+	"clbid": "0000003040",
 	"credits": 0.25,
-	"crsid": 363,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 13,
+	"crsid": "0000000363",
+	"department": "DNCTE",
+	"enrolled": 13,
 	"instructors": [
 		"Barbara Thatcher"
 	],
 	"level": 300,
-	"locations": [
-		"CAD STUDIO 1"
-	],
 	"max": 10,
 	"name": "Modern III",
 	"number": 311,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "CAD STUDIO 1",
+			"start": "15:30"
+		},
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "CAD STUDIO 1",
+			"start": "15:30"
+		},
+		{
+			"day": "Fr",
+			"end": "17:00",
+			"location": "CAD STUDIO 1",
+			"start": "15:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0330-0500PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 102013,
+	"clbid": "0000102013",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 20,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 20,
+	"groupid": "0000001074",
 	"instructors": [
 		"Amy Kolan"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 18,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:45",
+			"location": "RNS 292",
+			"start": "08:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -51,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"Th 0815-1045"
-	],
 	"type": "Lab",
 	"year": 2015
 }

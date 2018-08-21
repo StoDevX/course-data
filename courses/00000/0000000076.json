@@ -1,22 +1,42 @@
 {
-	"clbid": 76,
+	"clbid": "0000000076",
 	"credits": 1.0,
-	"crsid": 166,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 21,
+	"crsid": "0000000166",
+	"department": "BIO",
+	"enrolled": 21,
 	"instructors": [
 		"Theodore Johnson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 210"
-	],
 	"max": 12,
 	"name": "Immunology",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 274",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "14:20",
+			"location": "SC 210",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 1045-1140",
-		"T 0120-0220PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

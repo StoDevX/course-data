@@ -1,21 +1,30 @@
 {
-	"clbid": 18706,
+	"clbid": "0000018706",
 	"credits": 1.0,
-	"crsid": 1374,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 23,
+	"crsid": "0000001374",
+	"department": "THEAT",
+	"enrolled": 23,
 	"instructors": [
 		"Larry Schnoor"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 25,
 	"name": "Oral Interpretation",
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SPT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1995
 }

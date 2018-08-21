@@ -1,14 +1,12 @@
 {
-	"clbid": 86193,
+	"clbid": "0000086193",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"enroll": 3,
+	"enrolled": 3,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,41 @@
 		"Adam C. McDougall"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 999,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		},
+		{
+			"day": "Fr",
+			"end": "14:00",
+			"location": "RNS 204",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
 	"revisions": [
@@ -43,9 +70,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20114,
-	"times": [
-		"M-F 1230-0200PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

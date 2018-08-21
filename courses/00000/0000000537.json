@@ -1,21 +1,30 @@
 {
-	"clbid": 537,
+	"clbid": "0000000537",
 	"credits": 1.0,
-	"crsid": 1133,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 32,
+	"crsid": "0000001133",
+	"department": "PSCI",
+	"enrolled": 32,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 200,
-	"locations": [
-		"H 307"
-	],
 	"max": 15,
 	"name": "Family Values",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

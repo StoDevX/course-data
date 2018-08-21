@@ -1,14 +1,12 @@
 {
-	"clbid": 118709,
+	"clbid": "0000118709",
 	"credits": 1.0,
-	"crsid": 21528,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000021528",
+	"department": "ENGL",
 	"description": [
 		"In this course students read contemporary fiction and write intensively, exploring the writer's craft. Students peer-edit each others' writing. Prerequisites: FYW and at least sophomore status."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Jeremy Nagamatsu"
 	],
 	"level": 200,
-	"locations": [
-		"RML 421"
-	],
 	"max": 18,
 	"name": "Intermed Fiction Writing",
 	"number": 293,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RML 421",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RML 421",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RML 421",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: FYW and at least sophomore status.",
 	"revisions": [
@@ -53,14 +68,29 @@
 			"_updated": "2018-08-07T14:48:45.004631+00:00",
 			"enroll": "18",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.312026+00:00",
+			"clbid": 118709,
+			"crsid": 21528,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"RML 421"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Intermediate Fiction Writing",
 	"type": "Research",
 	"year": 2018

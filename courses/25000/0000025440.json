@@ -1,21 +1,36 @@
 {
-	"clbid": 25440,
+	"clbid": "0000025440",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 22,
+	"crsid": "0000000479",
+	"department": "FREN",
+	"enrolled": 22,
 	"instructors": [
 		"Herve Pensec"
 	],
 	"level": 200,
-	"locations": [
-		"M 2"
-	],
 	"max": 30,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:50",
+			"location": "M 2",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:50",
+			"location": "M 2",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:50",
+			"location": "M 2",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MWF 1045-1150"
-	],
 	"type": "Research",
 	"year": 1999
 }

@@ -1,23 +1,31 @@
 {
-	"clbid": 7441,
+	"clbid": "0000007441",
 	"credits": 1.0,
-	"crsid": 1379,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 19,
+	"crsid": "0000001379",
+	"department": "THEAT",
+	"enrolled": 19,
 	"instructors": [
 		"James McKeel",
 		"Dona W. Freeman"
 	],
 	"level": 100,
-	"locations": [
-		"CHM_URNESS",
-		"CHM_URNESS"
-	],
 	"max": 18,
 	"name": "Acting--Lyric Stage",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM_URNESS",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM_URNESS",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

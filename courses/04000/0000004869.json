@@ -1,21 +1,36 @@
 {
-	"clbid": 4869,
+	"clbid": "0000004869",
 	"credits": 1.0,
-	"crsid": 275,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 26,
+	"crsid": "0000000275",
+	"department": "ECON",
+	"enrolled": 26,
 	"instructors": [
 		"Edward David Emery"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301"
-	],
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2002
 }

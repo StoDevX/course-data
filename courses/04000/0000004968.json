@@ -1,21 +1,36 @@
 {
-	"clbid": 4968,
+	"clbid": "0000004968",
 	"credits": 1.0,
-	"crsid": 429,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 59,
+	"crsid": "0000000429",
+	"department": "ENGL",
+	"enrolled": 59,
 	"instructors": [
 		"Mark Allister"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525"
-	],
 	"max": 63,
 	"name": "Novel",
 	"number": 283,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

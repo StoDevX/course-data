@@ -1,14 +1,12 @@
 {
-	"clbid": 98678,
+	"clbid": "0000098678",
 	"credits": 1.0,
-	"crsid": 626,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000626",
+	"department": "HIST",
 	"description": [
 		"This course offers selected surveys in historical studies. Topics depend on instructor. Recent topics have included \"Women in Early America,\" \"U.S.-Latin American Relations,\" and \"Doing Public History.\" May be repeated if topics are different. Offered periodically."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Thomas Jundt"
 	],
 	"level": 200,
-	"locations": [
-		"RML 421",
-		"RML 421"
-	],
 	"max": 19,
 	"name": "U.S. Topics:Consumer Cul",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RML 421",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RML 421",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2014

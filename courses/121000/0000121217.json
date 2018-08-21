@@ -1,14 +1,12 @@
 {
-	"clbid": 121217,
+	"clbid": "0000121217",
 	"credits": 1.0,
-	"crsid": 78,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000000078",
+	"department": "ASIAN",
 	"description": [
 		"This course examines major cultures of Asia from interdisciplinary and comparative perspectives with attention to theories of human behavior. Themes vary from year to year."
 	],
-	"enroll": 7,
+	"enrolled": 7,
 	"gereqs": [
 		"MCG"
 	],
@@ -16,10 +14,6 @@
 		"Stephanie Montgomery"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 308",
-		"TOH 308"
-	],
 	"max": 20,
 	"name": "Asian Cultures",
 	"notes": [
@@ -27,6 +21,20 @@
 		"Japanese. Also counts for History."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 308",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 308",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -56,15 +64,31 @@
 			"_updated": "2018-08-07T14:48:45.363998+00:00",
 			"enroll": "7",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.203414+00:00",
+			"clbid": 121217,
+			"crsid": 78,
+			"department": null,
+			"departments": [
+				"ASIAN"
+			],
+			"enroll": 7,
+			"enrolled": null,
+			"locations": [
+				"TOH 308",
+				"TOH 308"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Asian Cultures in Comparative Perspectives",
 	"type": "Research",
 	"year": 2018

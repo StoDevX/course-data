@@ -1,25 +1,33 @@
 {
-	"clbid": 50985,
+	"clbid": "0000050985",
 	"credits": 0.75,
-	"crsid": 801,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000801",
+	"department": "MUSIC",
 	"description": [
 		"In this course, students explore the fundamentals of music, including the elements of pitch and rhythm, music notation, intervals, triads and inversions, seventh chords, scales, harmonic progression and basic principles of voice leading. With 111, this course forms the introductions to the music major. Offered Fall Semester."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Martin Hodel"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 18,
 	"name": "Theory I",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CHM 239",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 239",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

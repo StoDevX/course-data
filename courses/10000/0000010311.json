@@ -1,29 +1,44 @@
 {
-	"clbid": 10311,
+	"clbid": "0000010311",
 	"credits": 1.0,
-	"crsid": 158,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000158",
+	"department": "BIO",
 	"description": [
 		"The cell is the fundamental unit of life, capable of growth, motility, signal transduction and functional specialization. Students study features common to cells: metabolism, membrane transport, motility, signal mechanisms and intracellular trafficking, seeing how these are elaborated in cells with particular specializations. Research techniques suitable for cell physiology are emphasized. Students attend lectures plus one 3-hour laboratory per week. Taught annually. Prerequisites: Biology 125, 126, Chemistry 125, 126."
 	],
-	"enroll": 22,
-	"groupid": 158,
+	"enrolled": 22,
+	"groupid": "0000000158",
 	"grouptype": "A",
 	"instructors": [
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 32,
 	"name": "Cell Physiology",
 	"notes": [
 		"Students in Biology 341 must also register for one lab section 341AL or BL."
 	],
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, 126, Chemistry 125, 126.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

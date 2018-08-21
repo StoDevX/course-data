@@ -1,24 +1,39 @@
 {
-	"clbid": 56345,
+	"clbid": "0000056345",
 	"credits": 1.0,
-	"crsid": 734,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000734",
+	"department": "MATH",
 	"description": [
 		"This course covers the material in Mathematics 126 in greater depth and includes supplementary material. Prerequisite: Mathematics120, 121, or Mathematics Placement Recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered both semesters."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Paul Humke"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 19,
 	"name": "Honors Calculus II",
 	"number": 128,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics120, 121, or Mathematics Placement Recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered both semesters.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Honor Calculus II",
 	"type": "Research",
 	"year": 2007

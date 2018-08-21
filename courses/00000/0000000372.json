@@ -1,21 +1,30 @@
 {
-	"clbid": 372,
+	"clbid": "0000000372",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 10,
+	"crsid": "0000000747",
+	"department": "MATH",
+	"enrolled": 10,
 	"instructors": [
 		"Clifton Corzatt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 999,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

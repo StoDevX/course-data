@@ -1,22 +1,25 @@
 {
-	"clbid": 3854,
+	"clbid": "0000003854",
 	"credits": 0.0,
-	"crsid": 309,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 51,
+	"crsid": "0000000309",
+	"department": "EDUC",
+	"enrolled": 51,
 	"halfcredit": "1",
 	"instructors": [
 		"Mark Storry"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 50,
 	"name": "Drugs & Alcohol",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "CH 101",
+			"start": "19:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

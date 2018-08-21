@@ -1,22 +1,30 @@
 {
-	"clbid": 3917,
+	"clbid": "0000003917",
 	"credits": 1.0,
-	"crsid": 411,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 35,
+	"crsid": "0000000411",
+	"department": "ENGL",
+	"enrolled": 35,
 	"instructors": [
 		"Joseph L. Mbele"
 	],
 	"level": 200,
-	"locations": [
-		"L 515",
-		"L 515"
-	],
 	"max": 35,
 	"name": "Post-Colonial Lit",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "L 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "L 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20021,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

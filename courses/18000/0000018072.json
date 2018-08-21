@@ -1,21 +1,30 @@
 {
-	"clbid": 18072,
+	"clbid": "0000018072",
 	"credits": 1.0,
-	"crsid": 325,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 7,
+	"crsid": "0000000325",
+	"department": "EDUC",
+	"enrolled": 7,
 	"instructors": [
 		"Jim Holden"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 999,
 	"name": "Teaching of English",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 10",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 10",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

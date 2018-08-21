@@ -1,21 +1,30 @@
 {
-	"clbid": 17193,
+	"clbid": "0000017193",
 	"credits": 0.25,
-	"crsid": 1962,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 1,
+	"crsid": "0000001962",
+	"department": "MUSIC",
+	"enrolled": 1,
 	"instructors": [
 		"Theo Wee"
 	],
 	"level": 100,
-	"locations": [
-		"STUDIO A"
-	],
 	"max": 4,
 	"name": "Organ Class",
 	"number": 163,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "STUDIO A",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "STUDIO A",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 102030,
+	"clbid": "0000102030",
 	"credits": 1.0,
-	"crsid": 1176,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001176",
+	"department": "PSYCH",
 	"description": [
 		"Why are certain experiences or patterns of behavior considered psychologically \"abnormal?\" Students investigate a wide array of psychological disorders, including anxiety disorders, depression, eating disorders, and schizophrenia. Students examine models used to conceptualize abnormal behavior, as well as current evidence and theories regarding the etiology and treatment of these important and sometimes devastating disorders. Offered each semester. Counts toward exercise science major. Prerequisite: PSYCH 125."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Donna K. McMillan"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190",
-		"RNS 190"
-	],
 	"max": 25,
 	"name": "Psychopathology",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 190",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 190",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -68,10 +76,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

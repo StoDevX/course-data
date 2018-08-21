@@ -1,21 +1,36 @@
 {
-	"clbid": 2918,
+	"clbid": "0000002918",
 	"credits": 1.0,
-	"crsid": 194,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 57,
+	"crsid": "0000000194",
+	"department": "CHEM",
+	"enrolled": 57,
 	"instructors": [
 		"Gary Miessler"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378"
-	],
 	"max": 42,
 	"name": "Chemical Reactions",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 378",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

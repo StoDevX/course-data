@@ -1,21 +1,24 @@
 {
-	"clbid": 24828,
+	"clbid": "0000024828",
 	"credits": 0.25,
-	"crsid": 1083,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 8,
+	"crsid": "0000001083",
+	"department": "PHYS",
+	"enrolled": 8,
 	"instructors": [
 		"Robert Jacobel"
 	],
 	"level": 200,
-	"locations": [
-		"SC 151"
-	],
 	"max": 10,
 	"name": "Modern Phys Lab (244)",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "SC 151",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

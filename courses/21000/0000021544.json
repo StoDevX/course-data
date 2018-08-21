@@ -1,22 +1,48 @@
 {
-	"clbid": 21544,
+	"clbid": "0000021544",
 	"credits": 2.0,
-	"crsid": 953,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 18,
+	"crsid": "0000000953",
+	"department": "NURS",
+	"enrolled": 18,
 	"instructors": [
 		"Rita Glazebrook"
 	],
 	"level": 300,
-	"locations": [
-		"SC 18",
-		"SC 18"
-	],
 	"max": 20,
 	"name": "Family Health",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 18",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 18",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 18",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "SC 18",
+			"start": "07:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "SC 18",
+			"start": "07:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +60,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 1150-0255PM",
-		"TTh 0700-0330PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

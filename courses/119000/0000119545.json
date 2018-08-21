@@ -1,26 +1,46 @@
 {
-	"clbid": 119545,
+	"clbid": "0000119545",
 	"credits": 0.0,
-	"crsid": 18804,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 18803,
+	"crsid": "0000018804",
+	"department": "CH/BI",
+	"enrolled": 0,
+	"groupid": "0000018803",
 	"instructors": [
 		"Elodie Marlier"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 23,
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": [
 		"Open only to those students who have completed CH/BI 125."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 454",
+			"start": "12:30"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 454",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 454",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 454",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,15 +59,32 @@
 			"_updated": "2018-08-07T14:48:46.753142+00:00",
 			"enroll": "0",
 			"max": "23"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.692345+00:00",
+			"clbid": 119545,
+			"crsid": 18804,
+			"department": null,
+			"departments": [
+				"CHEM",
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 18803,
+			"locations": [
+				"RNS 454"
+			],
+			"offerings": null,
+			"times": [
+				"M-Th 1230-0300PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-Th 1230-0300PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

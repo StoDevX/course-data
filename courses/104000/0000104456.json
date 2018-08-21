@@ -1,25 +1,33 @@
 {
-	"clbid": 104456,
+	"clbid": "0000104456",
 	"credits": 1.0,
-	"crsid": 1060,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001060",
+	"department": "ESTH",
 	"description": [
 		"This course offers a basic study in motor skill acquisition and motor control. Topics include methods of assessment, evaluation and research in the areas of motor learning and control, the learning environment, and discussion of factors that influence the acquisition and performance of motor skills. Offered in alternate years. Prerequisite: Psychology 125."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Kevin M. Crisp"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 208",
-		"RNS 208"
-	],
 	"max": 20,
 	"name": "Motor Learning",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 208",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 208",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Psychology 125.",
 	"revisions": [
@@ -52,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2015
 }

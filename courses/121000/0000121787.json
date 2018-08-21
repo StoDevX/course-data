@@ -1,21 +1,16 @@
 {
-	"clbid": 121787,
+	"clbid": "0000121787",
 	"credits": 1.0,
-	"crsid": 281,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000281",
+	"department": "ECON",
 	"description": [
 		"This course offers the students an integrated approach of theory, policy, and enterprise to understand international trade and investment. The course focuses on the costs and benefits of global economic interdependence for students who plan to enter an international business career or to work for government and international organizations in activities affected by international economic relations. Offered annually. Prerequisites: ECON 261 and ECON 262, and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Sooyoung Lee"
 	],
 	"level": 300,
-	"locations": [
-		"OM 310"
-	],
 	"max": 15,
 	"name": "International Econ",
 	"notes": [
@@ -24,6 +19,26 @@
 		"permission of instructor."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 310",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 310",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 310",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 261 and ECON 262, and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -52,14 +67,29 @@
 			"_updated": "2018-08-07T14:48:45.533430+00:00",
 			"enroll": "16",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.623739+00:00",
+			"clbid": 121787,
+			"crsid": 281,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 16,
+			"enrolled": null,
+			"locations": [
+				"OM 310"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "International Economics",
 	"type": "Research",
 	"year": 2018

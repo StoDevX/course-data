@@ -1,21 +1,36 @@
 {
-	"clbid": 22569,
+	"clbid": "0000022569",
 	"credits": 1.0,
-	"crsid": 1944,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 28,
+	"crsid": "0000001944",
+	"department": "MATH",
+	"enrolled": 28,
 	"instructors": [
 		"Clifton Corzatt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186"
-	],
 	"max": 35,
 	"name": "Elem Linear Algebra",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 186",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

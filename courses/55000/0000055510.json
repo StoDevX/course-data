@@ -1,25 +1,33 @@
 {
-	"clbid": 55510,
+	"clbid": "0000055510",
 	"credits": 1.0,
-	"crsid": 17736,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000017736",
+	"department": "PHYS",
 	"description": [
 		"In 1945, humanity's relationship to science was forever changed by the atomic bombings of Hiroshima and Nagasaki. This course examines the scientific developments that led to these first atomic weapons, from the discovery of the nucleus to the manipulation of fission processes for the explosive release of nuclear energy. It also considers present- day weapons and nuclear power plants and discusses scientific developments in the human contexts that influenced them. Prerequisite: High School algebra"
 	],
-	"enroll": 36,
+	"enrolled": 36,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170",
-		"SC 170"
-	],
 	"max": 60,
 	"name": "Origin of Nuclear Weapons",
 	"number": 154,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 170",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 170",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "High School algebra",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2006
 }

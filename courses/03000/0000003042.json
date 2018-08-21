@@ -1,21 +1,36 @@
 {
-	"clbid": 3042,
+	"clbid": "0000003042",
 	"credits": 1.0,
-	"crsid": 370,
-	"departments": [
-		"DNCTH"
-	],
-	"enroll": 21,
+	"crsid": "0000000370",
+	"department": "DNCTH",
+	"enrolled": 21,
 	"instructors": [
 		"Susan Bauer"
 	],
 	"level": 200,
-	"locations": [
-		"CAD STUDIO 3"
-	],
 	"max": 20,
 	"name": "Movement Analysis",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CAD STUDIO 3",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CAD STUDIO 3",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CAD STUDIO 3",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2001
 }

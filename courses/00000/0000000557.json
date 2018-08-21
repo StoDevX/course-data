@@ -1,21 +1,36 @@
 {
-	"clbid": 557,
+	"clbid": "0000000557",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 30,
+	"crsid": "0000001168",
+	"department": "PSYCH",
+	"enrolled": 30,
 	"instructors": [
 		"Hussein J. Rajput"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 35,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 317",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2000
 }

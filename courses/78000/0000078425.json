@@ -1,21 +1,36 @@
 {
-	"clbid": 78425,
+	"clbid": "0000078425",
 	"credits": 1.0,
-	"crsid": 686,
-	"departments": [
-		"IS"
-	],
-	"enroll": 0,
+	"crsid": "0000000686",
+	"department": "IS",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 200"
-	],
 	"max": 999,
 	"name": "Academic Internship",
 	"number": 294,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:30",
+			"location": "TOH 200",
+			"start": "09:00"
+		},
+		{
+			"day": "We",
+			"end": "12:30",
+			"location": "TOH 200",
+			"start": "09:00"
+		},
+		{
+			"day": "Fr",
+			"end": "12:30",
+			"location": "TOH 200",
+			"start": "09:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 2,
 	"status": "C",
 	"term": 20112,
-	"times": [
-		"MWF 0900-1230PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

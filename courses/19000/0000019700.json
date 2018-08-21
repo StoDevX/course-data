@@ -1,21 +1,36 @@
 {
-	"clbid": 19700,
+	"clbid": "0000019700",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 19,
+	"crsid": "0000001375",
+	"department": "THEAT",
+	"enrolled": 19,
 	"instructors": [
 		"Brian Bjorklund"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 25,
 	"name": "Intro to Theater",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SPT 227",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SPT 227",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SPT 227",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

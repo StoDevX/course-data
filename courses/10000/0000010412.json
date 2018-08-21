@@ -1,21 +1,36 @@
 {
-	"clbid": 10412,
+	"clbid": "0000010412",
 	"credits": 1.0,
-	"crsid": 287,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 13,
+	"crsid": "0000000287",
+	"department": "CSCI",
+	"enrolled": 13,
 	"instructors": [
 		"Olaf A. Hall-Holt"
 	],
 	"level": 100,
-	"locations": [
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Principles Comp Sci",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 186",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

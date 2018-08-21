@@ -1,22 +1,30 @@
 {
-	"clbid": 7276,
+	"clbid": "0000007276",
 	"credits": 1.0,
-	"crsid": 1103,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 24,
+	"crsid": "0000001103",
+	"department": "PSCI",
+	"enrolled": 24,
 	"instructors": [
 		"Roudy W. Hildreth"
 	],
 	"level": 100,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 25,
 	"name": "American Politics",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 026",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 026",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

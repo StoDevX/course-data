@@ -1,22 +1,25 @@
 {
-	"clbid": 68555,
+	"clbid": "0000068555",
 	"credits": 0.0,
-	"crsid": 1262,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 12,
-	"groupid": 1261,
+	"crsid": "0000001262",
+	"department": "RUSSN",
+	"enrolled": 12,
+	"groupid": "0000001261",
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [
-		"OM 003"
-	],
 	"max": 22,
 	"name": "Beginning Russian II Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "OM 003",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

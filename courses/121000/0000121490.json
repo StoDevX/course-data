@@ -1,14 +1,12 @@
 {
-	"clbid": 121490,
+	"clbid": "0000121490",
 	"credits": 1.0,
-	"crsid": 20054,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000020054",
+	"department": "ART",
 	"description": [
 		"This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of two-dimensional art-making and the ways drawing informs the creation and understanding of art in cultural contexts. Students explore color, value, form, and space through a wide variety of materials. The course emphasizes strategies for idea generation and visual problem solving. Students engage in spirited investigation, critiques, and thoughtful creative expression. Materials fee. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,15 +14,32 @@
 		"Michon Weeks"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 216"
-	],
 	"max": 20,
 	"name": "Foundation 2-D Media",
 	"notes": [
 		"The materials fee for ART 102 A will be $100."
 	],
 	"number": 102,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 216",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 216",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 216",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,15 +58,30 @@
 			"_updated": "2018-08-07T14:48:49.598518+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.658713+00:00",
+			"clbid": 121490,
+			"crsid": 20054,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 216"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1245PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1245PM"
-	],
 	"title": "Foundation Two-Dimensional Media",
 	"type": "Research",
 	"year": 2018

@@ -1,22 +1,30 @@
 {
-	"clbid": 9398,
+	"clbid": "0000009398",
 	"credits": 1.0,
-	"crsid": 410,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 47,
+	"crsid": "0000000410",
+	"department": "ENGL",
+	"enrolled": 47,
 	"instructors": [
 		"Joan Hepburn"
 	],
 	"level": 200,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 60,
 	"name": "Amer Racial/Multi Lit",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 525",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 525",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

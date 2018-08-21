@@ -1,14 +1,12 @@
 {
-	"clbid": 120523,
+	"clbid": "0000120523",
 	"credits": 1.0,
-	"crsid": 1310,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000001310",
+	"department": "SOAN",
 	"description": [
 		"This course provides a social science understanding of the \"contemporary American family\" and analysis of marriage and family issues from a cross-cultural perspective. Students discuss issues of dating and mate selection, marital and parent-child relationships over the family life cycle, gender issues, work and family roles, and problem-related issues affecting families (divorce, violence and death) caused by rapid changes in society. Offered annually in the fall or spring semester. Counts toward American studies and women's and gender studies majors and family studies, management studies, and women's and gender studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Ryan R. Sheppard"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 308",
-		"TOH 308"
-	],
 	"max": 25,
 	"name": "Marriage & the Family",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 308",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 308",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:48.953964+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.078180+00:00",
+			"clbid": 120523,
+			"crsid": 1310,
+			"department": null,
+			"departments": [
+				"SOAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 308",
+				"TOH 308"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Marriage and the Family",
 	"type": "Research",
 	"year": 2018

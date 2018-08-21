@@ -1,14 +1,12 @@
 {
-	"clbid": 64689,
+	"clbid": "0000064689",
 	"credits": 1.0,
-	"crsid": 645,
-	"departments": [
-		"HSPST"
-	],
+	"crsid": "0000000645",
+	"department": "HSPST",
 	"description": [
 		"This seminar focuses on the implications of studying Latin America, or the way in which different conceptualizations of this region have helped to shape Latin America as an object of study. Possible topics for approaching this question include the history of Latin American studies in the United States and the relation between scholarship on Latin America and U.S. policy in the region; Latin American responses to U.S. representations of the region; the production of images of lo indigena according to Western expectations; and indigenous cultures and globalization. Offered in alternate years. FLAC option available."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,13 +14,23 @@
 		"Christopher L. Chiappari"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 20,
 	"name": "Contemp Latin Am Iss",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 514",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 514",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Contemporary Latin American Issues",
 	"type": "Research",
 	"year": 2008

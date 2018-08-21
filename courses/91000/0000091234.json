@@ -1,14 +1,12 @@
 {
-	"clbid": 91234,
+	"clbid": "0000091234",
 	"credits": 1.0,
-	"crsid": 1345,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001345",
+	"department": "SPAN",
 	"description": [
 		"Students explore one or more periods, genres, or topics of Spanish literature from its beginnings to the 21st century. Selected literary works are analyzed within their socio-historical and cultural contexts and in reference to pertinent critical or theoretical issues. Sample topics include: Sin and the Church in Medieval Literature, The Stage as Political Propaganda in Imperial Spain, and Federico García Lorca: Voices of the Oppressed. Students may register more than once provided a different topic is offered. Taught in Spanish. Prerequisite: Spanish 275."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Jonathan P. O'Conner"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 314",
-		"TOH 314"
-	],
 	"max": 16,
 	"name": "Lit/Soc/Sp:New Wrld/Spain",
 	"number": 313,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 314",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 314",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Spanish 275.",
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20131,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Literature and Society in Spain",
 	"type": "Topic",
 	"year": 2013

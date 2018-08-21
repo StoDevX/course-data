@@ -1,22 +1,25 @@
 {
-	"clbid": 108165,
+	"clbid": "0000108165",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 26,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 26,
+	"groupid": "0000000194",
 	"instructors": [
 		"Jeffrey J. Schwinefus"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 25,
 	"name": "Chem Reactions/Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 350",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

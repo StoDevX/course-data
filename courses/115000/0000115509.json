@@ -1,14 +1,12 @@
 {
-	"clbid": 115509,
+	"clbid": "0000115509",
 	"credits": 1.0,
-	"crsid": 1103,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001103",
+	"department": "PSCI",
 	"description": [
 		"The promise of American politics is the equal freedom of all. How does practice match principles? What roles do class and race play? Do interest groups and political parties foster democracy? This course is designed not only to help students understand American government and politics but also to motivate them to be active and informed participants. Offered annually. Counts toward American studies major."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"HBS",
 		"MCD"
@@ -17,12 +15,29 @@
 		"Daniel Hofrenning"
 	],
 	"level": 100,
-	"locations": [
-		"HH 502"
-	],
 	"max": 32,
 	"name": "American Politics",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 502",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 502",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 502",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -59,9 +74,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

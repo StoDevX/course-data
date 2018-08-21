@@ -1,21 +1,36 @@
 {
-	"clbid": 9403,
+	"clbid": "0000009403",
 	"credits": 1.0,
-	"crsid": 422,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 22,
+	"crsid": "0000000422",
+	"department": "ENGL",
+	"enrolled": 22,
 	"instructors": [
 		"Richard DuRocher"
 	],
 	"level": 200,
-	"locations": [
-		"RML 420"
-	],
 	"max": 25,
 	"name": "Utopias",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 420",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 420",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 420",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

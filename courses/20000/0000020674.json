@@ -1,21 +1,30 @@
 {
-	"clbid": 20674,
+	"clbid": "0000020674",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 44,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 44,
 	"instructors": [
 		"Konrad Talbot"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 40,
 	"name": "Principles of Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 307",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 307",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

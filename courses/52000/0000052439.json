@@ -1,24 +1,33 @@
 {
-	"clbid": 52439,
+	"clbid": "0000052439",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"PEAC"
-	],
+	"crsid": "0000001022",
+	"department": "PEAC",
 	"description": [
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Patrice Buresh"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 16,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "Tostrud Ctr",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2006
 }

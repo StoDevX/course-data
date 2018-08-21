@@ -1,21 +1,36 @@
 {
-	"clbid": 20707,
+	"clbid": "0000020707",
 	"credits": 1.0,
-	"crsid": 2308,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 21,
+	"crsid": "0000002308",
+	"department": "PSYCH",
+	"enrolled": 21,
 	"instructors": [
 		"Charles Huff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 129"
-	],
 	"max": 24,
 	"name": "Contemporary Systems",
 	"number": 389,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1996
 }

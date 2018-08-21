@@ -1,22 +1,30 @@
 {
-	"clbid": 6678,
+	"clbid": "0000006678",
 	"credits": 0.5,
-	"crsid": 21,
-	"departments": [
-		"ART"
-	],
-	"enroll": 22,
+	"crsid": "0000000021",
+	"department": "ART",
+	"enrolled": 22,
 	"instructors": [
 		"Jill Ewald"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 116",
-		"CAD 116"
-	],
 	"max": 24,
 	"name": "Found Color Design",
 	"number": 113,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 116",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 116",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

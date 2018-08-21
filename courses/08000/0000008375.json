@@ -1,22 +1,30 @@
 {
-	"clbid": 8375,
+	"clbid": "0000008375",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 22,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 22,
 	"instructors": [
 		"Shelly D. Dickinson"
 	],
 	"level": 300,
-	"locations": [
-		"SC 188",
-		"SC 188"
-	],
 	"max": 18,
 	"name": "Sem: Neurosc/Addiction",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 188",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "SC 188",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

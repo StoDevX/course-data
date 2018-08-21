@@ -1,22 +1,30 @@
 {
-	"clbid": 9817,
+	"clbid": "0000009817",
 	"credits": 1.0,
-	"crsid": 1133,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 20,
+	"crsid": "0000001133",
+	"department": "PSCI",
+	"enrolled": 20,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 200,
-	"locations": [
-		"OM 004",
-		"OM 004"
-	],
 	"max": 25,
 	"name": "Family Values",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 004",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 004",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

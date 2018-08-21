@@ -1,22 +1,30 @@
 {
-	"clbid": 5362,
+	"clbid": "0000005362",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 18,
 	"instructors": [
 		"Donna K. McMillan"
 	],
 	"level": 300,
-	"locations": [
-		"SH 02",
-		"SH 02"
-	],
 	"max": 18,
 	"name": "Sem: Positive Psych",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SH 02",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SH 02",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Seminar",
 	"year": 2002
 }

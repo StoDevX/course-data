@@ -1,11 +1,9 @@
 {
-	"clbid": 75412,
+	"clbid": "0000075412",
 	"credits": 1.0,
-	"crsid": 22795,
-	"departments": [
-		"ASIAN"
-	],
-	"enroll": 12,
+	"crsid": "0000022795",
+	"department": "ASIAN",
+	"enrolled": 12,
 	"gereqs": [
 		"ALS-L",
 		"MCG"
@@ -14,12 +12,29 @@
 		"Shannon Cannella"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 300"
-	],
 	"max": 30,
 	"name": "Top: Poetic Voice",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 300",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,9 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Topic",
 	"year": 2010
 }

@@ -1,22 +1,49 @@
 {
-	"clbid": 10146,
+	"clbid": "0000010146",
 	"credits": 1.0,
-	"crsid": 192,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 8,
-	"groupid": 192,
+	"crsid": "0000000192",
+	"department": "CHEM",
+	"enrolled": 8,
+	"groupid": "0000000192",
 	"instructors": [
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"SC 374"
-	],
 	"max": 999,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 374",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +61,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20044,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2004
 }

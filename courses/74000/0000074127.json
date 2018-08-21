@@ -1,14 +1,12 @@
 {
-	"clbid": 74127,
+	"clbid": "0000074127",
 	"credits": 1.0,
-	"crsid": 728,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000728",
+	"department": "MATH",
 	"description": [
 		"This course explores the nature of mathematics and its role in contemporary society. The content and format of the course vary depending on the instructor's interests. In particular, the course may focus on one or two mathematical topics in depth or survey a wider range of topics. Recent topics have included environmental modeling, social choice, routes and networks, scheduling, and symmetry. The course requires no prerequisites beyond high school algebra and geometry. Offered each semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,13 +14,23 @@
 		"Ryota Matsuura"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204",
-		"RNS 204"
-	],
 	"max": 22,
 	"name": "Gateways/Mathematics",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 204",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 204",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Gateways to Mathematics",
 	"type": "Research",
 	"year": 2010

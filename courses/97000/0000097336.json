@@ -1,14 +1,12 @@
 {
-	"clbid": 97336,
+	"clbid": "0000097336",
 	"credits": 1.0,
-	"crsid": 1207,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001207",
+	"department": "REL",
 	"description": [
 		"Students read Pauline letters carefully for their major issues, such as apocalyptic, gospel, apostleship, Jew and Gentile, faith, Torah, community. Considering Paul in the context of his times and Paul in the context of later Christianity, students discuss topics such as Jews and Christians, men and women, creation, grace in Paul, and present-day experience. Counts toward ancient studies major. Prerequisite: BTS-B."
 	],
-	"enroll": 35,
+	"enrolled": 35,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"James Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 010",
-		"OM 010"
-	],
 	"max": 30,
 	"name": "St. Paul/Letter/Gospel",
 	"number": 223,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 010",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 010",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -49,10 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Paul: His Letters, His Gospel",
 	"type": "Research",
 	"year": 2014

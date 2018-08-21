@@ -1,22 +1,30 @@
 {
-	"clbid": 121508,
+	"clbid": "0000121508",
 	"credits": 0.5,
-	"crsid": 28000,
-	"departments": [
-		"DANCE"
-	],
-	"enroll": 0,
+	"crsid": "0000028000",
+	"department": "DANCE",
+	"enrolled": 0,
 	"instructors": [
 		"Arneshia L. Williams"
 	],
 	"level": 0,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 5,
 	"name": "Placeholder Course",
 	"number": 1,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,16 +37,32 @@
 			"_updated": "2018-08-07T14:48:49.613912+00:00",
 			"enroll": "0",
 			"max": "5"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.694201+00:00",
+			"clbid": 121508,
+			"crsid": 28000,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 26498,
+	"clbid": "0000026498",
 	"credits": 1.0,
-	"crsid": 611,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 26,
+	"crsid": "0000000611",
+	"department": "HIST",
+	"enrolled": 26,
 	"instructors": [
 		"Robert Entenmann"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 35,
 	"name": "Modern Japan",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "M 15",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "M 15",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

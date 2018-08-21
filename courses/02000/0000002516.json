@@ -1,21 +1,36 @@
 {
-	"clbid": 2516,
+	"clbid": "0000002516",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001325",
+	"department": "SPAN",
+	"enrolled": 21,
 	"instructors": [
 		"Joan Odd"
 	],
 	"level": 100,
-	"locations": [
-		"M 20"
-	],
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 20",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2001
 }

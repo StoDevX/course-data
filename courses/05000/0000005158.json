@@ -1,23 +1,36 @@
 {
-	"clbid": 5158,
+	"clbid": "0000005158",
 	"credits": 1.0,
-	"crsid": 793,
-	"departments": [
-		"MEDIA"
-	],
-	"enroll": 19,
+	"crsid": "0000000793",
+	"department": "MEDIA",
+	"enrolled": 19,
 	"instructors": [
 		"Angelica Fenner"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278",
-		"SC 278",
-		"VIKING THTR"
-	],
 	"max": 25,
 	"name": "World Cinema",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 278",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 278",
+			"start": "09:30"
+		},
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "VIKING THTR",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,11 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050",
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

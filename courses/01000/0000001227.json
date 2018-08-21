@@ -1,21 +1,30 @@
 {
-	"clbid": 1227,
+	"clbid": "0000001227",
 	"credits": 1.0,
-	"crsid": 413,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 14,
+	"crsid": "0000000413",
+	"department": "ENGL",
+	"enrolled": 14,
 	"instructors": [
 		"James Heynen"
 	],
 	"level": 200,
-	"locations": [
-		"L 420"
-	],
 	"max": 16,
 	"name": "Creative Nonfiction",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 420",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

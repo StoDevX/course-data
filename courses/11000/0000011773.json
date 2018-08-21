@@ -1,25 +1,33 @@
 {
-	"clbid": 11773,
+	"clbid": "0000011773",
 	"credits": 1.0,
-	"crsid": 201,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000201",
+	"department": "CHEM",
 	"description": [
 		"Students not only investigate the theory of modern analytical chemistry, but also examine the statistical treatment of errors, equilibrium, activities, acid/base chemistry, spectroscopy, electrochemistry and separations. The accompanying lab course, Chemistry 256, illustrates the topics discussed in Chemistry 255. Students taking this course use computers for solving problems. Prerequisite: Chemistry 126. Concurrent registration in Chemistry 256 is required. Offered both semesters."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"instructors": [
 		"Douglas J. Beussman"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282",
-		"SC 282"
-	],
 	"max": 32,
 	"name": "Analytical Chem",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 282",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 282",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126. Concurrent registration in Chemistry 256 is required. Offered both semesters.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Analytical Chemistry",
 	"type": "Research",
 	"year": 2005

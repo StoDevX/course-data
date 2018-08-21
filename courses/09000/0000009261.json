@@ -1,22 +1,30 @@
 {
-	"clbid": 9261,
+	"clbid": "0000009261",
 	"credits": 1.0,
-	"crsid": 220,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 3,
+	"crsid": "0000000220",
+	"department": "CHEM",
+	"enrolled": 3,
 	"instructors": [
 		"Gary O. Spessard"
 	],
 	"level": 300,
-	"locations": [
-		"SC 374",
-		"SC 374"
-	],
 	"max": 10,
 	"name": "Adv Organic Chemistry",
 	"number": 388,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 374",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 374",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

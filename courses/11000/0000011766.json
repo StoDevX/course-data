@@ -1,24 +1,39 @@
 {
-	"clbid": 11766,
+	"clbid": "0000011766",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000197",
+	"department": "CHEM",
 	"description": [
 		"Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. The first semester focuses on structure, nomenclature and reactions of aliphatic hydrocarbons, including aspects of stereochemistry and spectroscopic identification of these compounds. The second semester delves into the chemistry of functional groups, especially those that play a role in the reactivity biomolecules such as carbohydrates, lipids, proteins and nucleic acids. Prerequisite: Chemistry 126. Offered Spring Semester."
 	],
-	"enroll": 42,
+	"enrolled": 42,
 	"instructors": [
 		"Gary O. Spessard"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501"
-	],
 	"max": 50,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126. Offered Spring Semester.",
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2005
 }

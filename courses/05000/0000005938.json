@@ -1,22 +1,30 @@
 {
-	"clbid": 5938,
+	"clbid": "0000005938",
 	"credits": 1.0,
-	"crsid": 554,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000000554",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"J. L. Carrington"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031",
-		"OM 031"
-	],
 	"max": 19,
 	"name": "Courtly Love Mid Ages",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 031",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 031",
+			"start": "14:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0205-0335PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 1119,
+	"clbid": "0000001119",
 	"credits": 1.0,
-	"crsid": 247,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 5,
+	"crsid": "0000000247",
+	"department": "CHIN",
+	"enrolled": 5,
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 200,
-	"locations": [
-		"M 36"
-	],
 	"max": 999,
 	"name": "Chinese Drama & Film",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 36",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 62502,
+	"clbid": "0000062502",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000747",
+	"department": "MATH",
 	"description": [
 		"Algebra is concerned with sets of objects and operations on these sets. In an axiomatic or abstract treatment one assumes basic properties and then deduces many other properties. Using this method we study structures known as groups, rings, and fields. Prerequisite: Mathematics 220. Offered both semesters."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Mike Weimerskirch"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 18,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 220. Offered both semesters.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

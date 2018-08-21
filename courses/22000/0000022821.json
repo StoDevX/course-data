@@ -1,21 +1,30 @@
 {
-	"clbid": 22821,
+	"clbid": "0000022821",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 7,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 7,
 	"instructors": [
 		"Richard Senese"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 999,
 	"name": "Sem: Research Seminar",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

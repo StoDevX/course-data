@@ -1,21 +1,30 @@
 {
-	"clbid": 22274,
+	"clbid": "0000022274",
 	"credits": 1.0,
-	"crsid": 201,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 28,
+	"crsid": "0000000201",
+	"department": "CHEM",
+	"enrolled": 28,
 	"instructors": [
 		"John Walters"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 32,
 	"name": "Analytical Chem",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 129",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 129",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,22 +1,42 @@
 {
-	"clbid": 3501,
+	"clbid": "0000003501",
 	"credits": 1.0,
-	"crsid": 1261,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 3,
+	"crsid": "0000001261",
+	"department": "RUSSN",
+	"enrolled": 3,
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [
-		"M 30",
-		"M 3"
-	],
 	"max": 999,
 	"name": "Beginning Russian II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 30",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 30",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 30",
+			"start": "14:00"
+		},
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0200-0255PM",
-		"T 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 59299,
+	"clbid": "0000059299",
 	"credits": 1.0,
-	"crsid": 1407,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 15,
+	"crsid": "0000001407",
+	"department": "STAT",
+	"enrolled": 15,
 	"instructors": [
 		"Kathryn Ziegler"
 	],
 	"level": 200,
-	"locations": [
-		"RML 477"
-	],
 	"max": 18,
 	"name": "Top: Biostatistics",
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 477",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 477",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 477",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Topics:",
 	"type": "Topic",
 	"year": 2007

@@ -1,23 +1,26 @@
 {
-	"clbid": 82854,
+	"clbid": "0000082854",
 	"credits": 0.0,
-	"crsid": 107,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
-	"groupid": 106,
+	"crsid": "0000000107",
+	"department": "BIO",
+	"enrolled": 23,
+	"groupid": "0000000106",
 	"grouptype": "1",
 	"instructors": [
 		"Roberto Zayas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 24,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "RNS 255",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"T 1145-0215PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

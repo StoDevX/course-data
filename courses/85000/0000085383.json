@@ -1,21 +1,36 @@
 {
-	"clbid": 85383,
+	"clbid": "0000085383",
 	"credits": 1.0,
-	"crsid": 25204,
-	"departments": [
-		"ALSO"
-	],
-	"enroll": 4,
+	"crsid": "0000025204",
+	"department": "ALSO",
+	"enrolled": 4,
 	"instructors": [
 		"Renata Debska-McWilliams"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 153"
-	],
 	"max": 10,
 	"name": "Top: Beginning Arabic II",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 153",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 153",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 153",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2011
 }

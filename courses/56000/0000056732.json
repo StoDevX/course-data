@@ -1,22 +1,25 @@
 {
-	"clbid": 56732,
+	"clbid": "0000056732",
 	"credits": 0.0,
-	"crsid": 1061,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 24,
-	"groupid": 1060,
+	"crsid": "0000001061",
+	"department": "ESTH",
+	"enrolled": 24,
+	"groupid": "0000001060",
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Motor Learning Lab",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC 103",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"Th 1245-0245PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

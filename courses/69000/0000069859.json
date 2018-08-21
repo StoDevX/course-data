@@ -1,14 +1,12 @@
 {
-	"clbid": 69859,
+	"clbid": "0000069859",
 	"credits": 1.0,
-	"crsid": 935,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000000935",
+	"department": "NORW",
 	"description": [
 		"Students analyze the plays of Henrik Ibsen in English translation using a variety of critical approaches. Students investigate ethical issues and themes in Ibsen's plays by examining the plays through the lens of ethics, using readings in ethical theory to better understand both the ethical issues and the plays themselves. Students also study Ibsen's dramatic technique and the historical and literary context of his work. Prerequisite: BTS-T. Offered annually or periodically."
 	],
-	"enroll": 25,
+	"enrolled": 25,
 	"gereqs": [
 		"EIN",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Solveig Zempel"
 	],
 	"level": 200,
-	"locations": [
-		"OM 015",
-		"OM 015"
-	],
 	"max": 24,
 	"name": "Ibsen",
 	"notes": [
 		"Open only to Seniors and Juniors during web registration."
 	],
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 015",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 015",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-T. Offered annually or periodically.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2009
 }

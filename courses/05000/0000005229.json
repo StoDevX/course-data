@@ -1,22 +1,30 @@
 {
-	"clbid": 5229,
+	"clbid": "0000005229",
 	"credits": 1.0,
-	"crsid": 974,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 40,
+	"crsid": "0000000974",
+	"department": "PHIL",
+	"enrolled": 40,
 	"instructors": [
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"SH 02",
-		"SH 02"
-	],
 	"max": 25,
 	"name": "Aesthetics",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SH 02",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SH 02",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 7906,
+	"clbid": "0000007906",
 	"credits": 1.0,
-	"crsid": 454,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 26,
+	"crsid": "0000000454",
+	"department": "ENVST",
+	"enrolled": 26,
 	"instructors": [
 		"Jason D. Hill"
 	],
 	"level": 100,
-	"locations": [
-		"SC 274"
-	],
 	"max": 26,
 	"name": "Conservation Biology",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MW 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

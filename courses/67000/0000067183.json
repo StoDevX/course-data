@@ -1,14 +1,12 @@
 {
-	"clbid": 67183,
+	"clbid": "0000067183",
 	"credits": 0.25,
-	"crsid": 350,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000350",
+	"department": "DANCE",
 	"description": [
 		"Why dance? What is fundamental about dance in the life of any culture? Students explore such questions by moving, by dancing, and by creating dances together. Fundamentals of body organization based in \"developmental movement patterning\" provide the movement foundation for this class."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,12 +15,23 @@
 		"Sheryl Saterstrom"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 16,
 	"name": "Fundamentally Dance",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD Studio 1",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20091,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2009
 }

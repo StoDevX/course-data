@@ -1,21 +1,30 @@
 {
-	"clbid": 26401,
+	"clbid": "0000026401",
 	"credits": 1.0,
-	"crsid": 418,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 18,
+	"crsid": "0000000418",
+	"department": "ENGL",
+	"enrolled": 18,
 	"instructors": [
 		"Jon Eric Nelson"
 	],
 	"level": 200,
-	"locations": [
-		"L 520"
-	],
 	"max": 18,
 	"name": "Creative Writing I",
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "L 520",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "L 520",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

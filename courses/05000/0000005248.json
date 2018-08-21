@@ -1,22 +1,30 @@
 {
-	"clbid": 5248,
+	"clbid": "0000005248",
 	"credits": 0.25,
-	"crsid": 1001,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 22,
+	"crsid": "0000001001",
+	"department": "PEAC",
+	"enrolled": 22,
 	"instructors": [
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"SAC CTR GYM",
-		"SACCTR GYM"
-	],
 	"max": 24,
 	"name": "Basketball",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC CTR GYM",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SACCTR GYM",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

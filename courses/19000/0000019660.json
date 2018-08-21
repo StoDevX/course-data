@@ -1,21 +1,30 @@
 {
-	"clbid": 19660,
+	"clbid": "0000019660",
 	"credits": 1.0,
-	"crsid": 1305,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 10,
+	"crsid": "0000001305",
+	"department": "SOAN",
+	"enrolled": 10,
 	"instructors": [
 		"Janet Contursi"
 	],
 	"level": 200,
-	"locations": [
-		"H 515"
-	],
 	"max": 25,
 	"name": "Social Movements",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

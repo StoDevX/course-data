@@ -1,14 +1,12 @@
 {
-	"clbid": 62158,
+	"clbid": "0000062158",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001017",
+	"department": "ESAC",
 	"description": [
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Jerry Olszewski"
 	],
 	"level": 100,
-	"locations": [
-		"MFH Wt Rm"
-	],
 	"max": 18,
 	"name": "Wt Training-Men",
 	"number": 141,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "MFH Wt Rm",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "MFH Wt Rm",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"title": "Weight Training Men",
 	"type": "Research",
 	"year": 2008

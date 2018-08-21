@@ -1,21 +1,30 @@
 {
-	"clbid": 15186,
+	"clbid": "0000015186",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 13,
+	"crsid": "0000001020",
+	"department": "PEAC",
+	"enrolled": 13,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"N GYM"
-	],
 	"max": 20,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:50",
+			"location": "N GYM",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "13:50",
+			"location": "N GYM",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

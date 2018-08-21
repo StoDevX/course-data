@@ -1,25 +1,33 @@
 {
-	"clbid": 61863,
+	"clbid": "0000061863",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000738",
+	"department": "MATH",
 	"description": [
 		"This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered both semesters."
 	],
-	"enroll": 29,
+	"enrolled": 29,
 	"instructors": [
 		"Mike Weimerskirch"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188",
-		"SC 188"
-	],
 	"max": 30,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 188",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 188",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Mathematics 126 or 128, and 220. Offered both semesters.",
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Multivariable Calculus",
 	"type": "Research",
 	"year": 2008

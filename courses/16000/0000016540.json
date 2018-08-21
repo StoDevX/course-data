@@ -1,21 +1,36 @@
 {
-	"clbid": 16540,
+	"clbid": "0000016540",
 	"credits": 1.0,
-	"crsid": 2472,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 9,
+	"crsid": "0000002472",
+	"department": "THEAT",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 25,
 	"name": "Theories of Commun",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SPT 216",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SPT 216",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SPT 216",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

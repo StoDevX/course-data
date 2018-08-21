@@ -1,21 +1,30 @@
 {
-	"clbid": 20644,
+	"clbid": "0000020644",
 	"credits": 1.0,
-	"crsid": 1093,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 17,
+	"crsid": "0000001093",
+	"department": "PHYS",
+	"enrolled": 17,
 	"instructors": [
 		"David A. Dahl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 129"
-	],
 	"max": 20,
 	"name": "Maxwell's Equations",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 129",
+			"start": "09:30"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 129",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0930-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

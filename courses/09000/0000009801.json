@@ -1,21 +1,24 @@
 {
-	"clbid": 9801,
+	"clbid": "0000009801",
 	"credits": 0.25,
-	"crsid": 1097,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 11,
+	"crsid": "0000001097",
+	"department": "PHYS",
+	"enrolled": 11,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 300,
-	"locations": [
-		"SC 151"
-	],
 	"max": 12,
 	"name": "Adv Physics Lab (375)",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "SC 151",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

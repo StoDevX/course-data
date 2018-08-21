@@ -1,14 +1,12 @@
 {
-	"clbid": 108678,
+	"clbid": "0000108678",
 	"credits": 1.0,
-	"crsid": 542,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000542",
+	"department": "GREEK",
 	"description": [
 		"The New Testament is the most famous and most widely translated Greek text from antiquity. Students have the opportunity to read one or more of the Gospels, the Acts of the Apostles, or selected Pauline letters in the original language. Questions about the transmission of the text and about its theological implications provoke lively discussions. Offered annually in the spring semester. Counts toward ancient studies major. Counts toward linguistic studies concentration. Prerequisite: GREEK 231 or equivalent."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"ALS-L",
 		"FOL-K"
@@ -17,12 +15,29 @@
 		"James May"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 200"
-	],
 	"max": 19,
 	"name": "New Testament Greek",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 200",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 200",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 200",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GREEK 231 or equivalent.",
 	"revisions": [
@@ -66,9 +81,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

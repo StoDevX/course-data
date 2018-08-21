@@ -1,25 +1,33 @@
 {
-	"clbid": 97578,
+	"clbid": "0000097578",
 	"credits": 1.0,
-	"crsid": 753,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000753",
+	"department": "MATH",
 	"description": [
 		"This course covers partial differential equations from an applied perspective and emphasizes simple models involving phenomena such as wave motion and diffusion. Topics and techniques such as separation of variables, boundary value problems, Fourier series, and orthogonal functions are developed carefully. Mathematical computing is used freely. Offered in alternate years. Counts toward neuroscience and mathematical biology concentrations. Prerequisite: MATH 230."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Rebecca M. Vandiver"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 186",
-		"TOH 186"
-	],
 	"max": 15,
 	"name": "Differential Equation II",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 186",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 230.",
 	"revisions": [
@@ -47,10 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Differential Equations II",
 	"type": "Research",
 	"year": 2014

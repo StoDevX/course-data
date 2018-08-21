@@ -1,22 +1,30 @@
 {
-	"clbid": 9965,
+	"clbid": "0000009965",
 	"credits": 1.0,
-	"crsid": 1356,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 17,
+	"crsid": "0000001356",
+	"department": "SPAN",
+	"enrolled": 17,
 	"instructors": [
 		"Sylvia Carullo"
 	],
 	"level": 300,
-	"locations": [
-		"OM 020",
-		"OM 020"
-	],
 	"max": 18,
 	"name": "Seminar in Literature",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 020",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 020",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

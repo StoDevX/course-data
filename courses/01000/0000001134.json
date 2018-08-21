@@ -1,21 +1,36 @@
 {
-	"clbid": 1134,
+	"clbid": "0000001134",
 	"credits": 1.0,
-	"crsid": 275,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 25,
+	"crsid": "0000000275",
+	"department": "ECON",
+	"enrolled": 25,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 200,
-	"locations": [
-		"H 302"
-	],
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 302",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 302",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 302",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

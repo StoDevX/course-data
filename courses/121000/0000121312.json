@@ -1,25 +1,40 @@
 {
-	"clbid": 121312,
+	"clbid": "0000121312",
 	"credits": 0.5,
-	"crsid": 862,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000862",
+	"department": "MUSIC",
 	"description": [
 		"Students examine scores and listen to a broad range of string etudes, solos, sonatas, concertos, and orchestral excerpts with attention to notable performers of the past and present. Through required readings, listening assignments, video viewing, discussion, and hands-on teaching, students engage with practical issues of teaching, repertoire selection for beginning and intermediate players, performance and basic studio management. Prerequisites: MUSIC 214, MUSIC 241, and MUSIC 242 or permission of instructor."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Charles Gray",
 		"David Carter"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 14,
 	"name": "String Lit & Pedagogy",
 	"number": 295,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CHM 224",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MUSIC 214, MUSIC 241, and MUSIC 242 or permission of instructor.",
 	"revisions": [
@@ -38,14 +53,29 @@
 			"_updated": "2018-08-07T14:48:45.386223+00:00",
 			"enroll": "11",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.252326+00:00",
+			"clbid": 121312,
+			"crsid": 862,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "String Literature and Pedagogy",
 	"type": "Research",
 	"year": 2018

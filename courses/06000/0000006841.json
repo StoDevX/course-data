@@ -1,22 +1,25 @@
 {
-	"clbid": 6841,
+	"clbid": "0000006841",
 	"credits": 0.0,
-	"crsid": 312,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 23,
+	"crsid": "0000000312",
+	"department": "EDUC",
+	"enrolled": 23,
 	"instructors": [
 		"Rosemary A. Pfarr-Baker",
 		"Heather Campbell"
 	],
 	"level": 200,
-	"locations": [
-		"HH 205"
-	],
 	"max": 24,
 	"name": "Standards/Technology",
 	"number": 291,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "18:00",
+			"location": "HH 205",
+			"start": "16:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"M 0400-0600PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

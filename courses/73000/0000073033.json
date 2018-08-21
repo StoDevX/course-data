@@ -1,24 +1,39 @@
 {
-	"clbid": 73033,
+	"clbid": "0000073033",
 	"credits": 1.0,
-	"crsid": 20160,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000020160",
+	"department": "MATH",
 	"description": [
 		"This course is designed for students who need additional preparation before taking calculus. The course emphasizes functions, including polynomial, exponential, logarithmic, and trigonometric. Enrollment requires permission of the Mathematics Placement Director. Offered annually in the fall semester."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Kaisa Taipale"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 25,
 	"name": "Preparation for Calculus",
 	"number": 109,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 190",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 190",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 190",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

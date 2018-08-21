@@ -1,21 +1,36 @@
 {
-	"clbid": 24387,
+	"clbid": "0000024387",
 	"credits": 1.0,
-	"crsid": 1615,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 37,
+	"crsid": "0000001615",
+	"department": "CSCI",
+	"enrolled": 37,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"SC 170"
-	],
 	"max": 48,
 	"name": "Software Design & Impl",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 170",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 119165,
+	"clbid": "0000119165",
 	"credits": 1.0,
-	"crsid": 383,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000383",
+	"department": "WRIT",
 	"description": [
 		"This course emphasizes critical reading, the writing process, and revision. Students write frequently, respond to one another's writing, and meet often with course faculty in conferences. WRIT 110 is required of students who place into it; it may not be substituted for WRIT 111. Students must pass the course with a grade of C or higher in order to enroll in WRIT 111. Offered in the fall semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Sean F. Ward"
 	],
 	"level": 100,
-	"locations": [
-		"RML 520"
-	],
 	"max": 12,
 	"name": "Skills in Composition",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RML 520",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RML 520",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RML 520",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -51,15 +66,30 @@
 			"_updated": "2018-08-07T14:48:45.290517+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.038296+00:00",
+			"clbid": 119165,
+			"crsid": 383,
+			"department": null,
+			"departments": [
+				"WRIT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RML 520"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Critical Skills in Composition",
 	"type": "Research",
 	"year": 2018

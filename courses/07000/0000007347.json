@@ -1,21 +1,36 @@
 {
-	"clbid": 7347,
+	"clbid": "0000007347",
 	"credits": 1.0,
-	"crsid": 1191,
-	"departments": [
-		"REL"
-	],
-	"enroll": 18,
+	"crsid": "0000001191",
+	"department": "REL",
+	"enrolled": 18,
 	"instructors": [
 		"Philip E. Stoltzfus"
 	],
 	"level": 100,
-	"locations": [
-		"BMC 110"
-	],
 	"max": 25,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "BMC 110",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "BMC 110",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "BMC 110",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2003
 }

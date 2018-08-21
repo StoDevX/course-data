@@ -1,14 +1,12 @@
 {
-	"clbid": 80993,
+	"clbid": "0000080993",
 	"credits": 0.25,
-	"crsid": 348,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000348",
+	"department": "DANCE",
 	"description": [
 		"This course presents dances derived from immigrant and native traditions and includes Cajun, clogging, contras, hula, squares and vintage dance forms such as Charleston, among others. Ticket/transportation fee required. Offered periodically."
 	],
-	"enroll": 31,
+	"enrolled": 31,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 30,
 	"name": "Am Dance: Nat/Immigr",
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"title": "American Dance: Native and Immigrant Traditions",
 	"type": "Research",
 	"year": 2011

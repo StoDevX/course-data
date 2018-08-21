@@ -1,21 +1,36 @@
 {
-	"clbid": 10808,
+	"clbid": "0000010808",
 	"credits": 1.0,
-	"crsid": 945,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 24,
+	"crsid": "0000000945",
+	"department": "NURS",
+	"enrolled": 24,
 	"instructors": [
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215"
-	],
 	"max": 24,
 	"name": "Nursing Concepts",
 	"number": 304,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 215",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "HH 215",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "HH 215",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2005
 }

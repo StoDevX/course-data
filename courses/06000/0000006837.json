@@ -1,22 +1,25 @@
 {
-	"clbid": 6837,
+	"clbid": "0000006837",
 	"credits": 0.0,
-	"crsid": 309,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 42,
+	"crsid": "0000000309",
+	"department": "EDUC",
+	"enrolled": 42,
 	"halfcredit": "1",
 	"instructors": [
 		"Mark Storry"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 50,
 	"name": "Drugs & Alcohol",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "21:00",
+			"location": "BMC 101",
+			"start": "19:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"Th 0700-0900PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

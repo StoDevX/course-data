@@ -1,21 +1,36 @@
 {
-	"clbid": 18614,
+	"clbid": "0000018614",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 16,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 16,
 	"instructors": [
 		"William Poehlmann"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Bib Sem: St Paul",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 109",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 1995
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 23192,
+	"clbid": "0000023192",
 	"credits": 0.5,
-	"crsid": 22,
-	"departments": [
-		"ART"
-	],
-	"enroll": 11,
+	"crsid": "0000000022",
+	"department": "ART",
+	"enrolled": 11,
 	"instructors": [
 		"Irve Dell"
 	],
 	"level": 100,
-	"locations": [
-		"FH 18"
-	],
 	"max": 18,
 	"name": "Foundation Sculpture",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:30",
+			"location": "FH 18",
+			"start": "15:05"
+		},
+		{
+			"day": "Th",
+			"end": "16:30",
+			"location": "FH 18",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 0305-0430PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 62789,
+	"clbid": "0000062789",
 	"credits": 1.0,
-	"crsid": 741,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000741",
+	"department": "MATH",
 	"description": [
 		"Discrete (noncontinuous) mathematics has become increasingly important as more phenomena are investigated, represented and solved using computers (essentially, discrete machines). Students explore finite graphs, recurrence relations, and combinatorial optimization using problem solving techniques and algorithm design strategies. Prerequisite: Mathematics 120 or 121, or permission of the instructor. Offered alternate years."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"instructors": [
 		"Martha Wallace"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 30,
 	"name": "Discrete Mathematics",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 204",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 120 or 121, or permission of the instructor. Offered alternate years.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2008
 }

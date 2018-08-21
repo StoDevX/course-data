@@ -1,21 +1,36 @@
 {
-	"clbid": 26810,
+	"clbid": "0000026810",
 	"credits": 1.0,
-	"crsid": 1250,
-	"departments": [
-		"REL"
-	],
-	"enroll": 10,
+	"crsid": "0000001250",
+	"department": "REL",
+	"enrolled": 10,
 	"instructors": [
 		"Margaret Odell"
 	],
 	"level": 300,
-	"locations": [
-		"CH 109"
-	],
 	"max": 15,
 	"name": "Bib Sem:",
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

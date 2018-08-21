@@ -1,22 +1,30 @@
 {
-	"clbid": 9816,
+	"clbid": "0000009816",
 	"credits": 1.0,
-	"crsid": 1130,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 27,
+	"crsid": "0000001130",
+	"department": "PSCI",
+	"enrolled": 27,
 	"instructors": [
 		"William A. Gorton"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130",
-		"SC 130"
-	],
 	"max": 25,
 	"name": "Hist Mod Pol Thought",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 130",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "SC 130",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 22376,
+	"clbid": "0000022376",
 	"credits": 0.25,
-	"crsid": 358,
-	"departments": [
-		"DNCTE"
-	],
-	"enroll": 15,
+	"crsid": "0000000358",
+	"department": "DNCTE",
+	"enrolled": 15,
 	"instructors": [
 		"Anthony Roberts"
 	],
 	"level": 200,
-	"locations": [
-		"SPT RHT"
-	],
 	"max": 16,
 	"name": "Modern Dance II",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "SPT RHT",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "SPT RHT",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

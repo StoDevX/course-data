@@ -1,22 +1,42 @@
 {
-	"clbid": 2874,
+	"clbid": "0000002874",
 	"credits": 1.0,
-	"crsid": 108,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 17,
+	"crsid": "0000000108",
+	"department": "BIO",
+	"enrolled": 17,
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 211"
-	],
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "17:30",
+			"location": "SC 211",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"MWF 0800-0855",
-		"T 0300-0530PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 14709,
+	"clbid": "0000014709",
 	"credits": 1.0,
-	"crsid": 128,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
+	"crsid": "0000000128",
+	"department": "BIO",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278"
-	],
 	"max": 36,
 	"name": "Animal Physiology",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

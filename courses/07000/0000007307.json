@@ -1,23 +1,36 @@
 {
-	"clbid": 7307,
+	"clbid": "0000007307",
 	"credits": 1.0,
-	"crsid": 1163,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 7,
+	"crsid": "0000001163",
+	"department": "PSYCH",
+	"enrolled": 7,
 	"instructors": [
 		"Howard Thorsheim"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307",
-		"HH 319"
-	],
 	"max": 14,
 	"name": "Cognit,Learn & Memory",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "17:00",
+			"location": "HH 319",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,11 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920",
-		"Th 0200-0500PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 9593,
+	"clbid": "0000009593",
 	"credits": 1.0,
-	"crsid": 747,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 16,
+	"crsid": "0000000747",
+	"department": "MATH",
+	"enrolled": 16,
 	"instructors": [
 		"Clifton Corzatt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188"
-	],
 	"max": 25,
 	"name": "Abstract Algebra I",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SC 188",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2004
 }

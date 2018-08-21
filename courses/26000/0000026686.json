@@ -1,21 +1,36 @@
 {
-	"clbid": 26686,
+	"clbid": "0000026686",
 	"credits": 1.0,
-	"crsid": 2210,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 17,
+	"crsid": "0000002210",
+	"department": "PETH",
+	"enrolled": 17,
 	"instructors": [
 		"Judith Tegtmeyer"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 30,
 	"name": "Dynamics of Wellness",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1999
 }

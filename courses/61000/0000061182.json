@@ -1,14 +1,12 @@
 {
-	"clbid": 61182,
+	"clbid": "0000061182",
 	"credits": 1.0,
-	"crsid": 666,
-	"departments": [
-		"JAPAN"
-	],
+	"crsid": "0000000666",
+	"department": "JAPAN",
 	"description": [
 		"This course, which is comprised of speaking, reading, and writing Japanese at the third-year level, is recommended for students seeking a concentration in Japanese language. Prerequisite: Japanese 232 or equivalent."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"gereqs": [
 		"FOL-J"
 	],
@@ -16,12 +14,29 @@
 		"Marnie K. Jorenby"
 	],
 	"level": 200,
-	"locations": [
-		"OM 002"
-	],
 	"max": 19,
 	"name": "Advanced Japanese I",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "OM 002",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "OM 002",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "OM 002",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Japanese 232 or equivalent.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2008
 }

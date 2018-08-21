@@ -1,14 +1,12 @@
 {
-	"clbid": 63198,
+	"clbid": "0000063198",
 	"credits": 0.25,
-	"crsid": 358,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000358",
+	"department": "DANCE",
 	"description": [
 		"Students expand their understanding of modern dance by building on the components of Level I, adding attention to movement qualities, elements of space, dance vocabulary and technique with an emphasis on phrasing and sequences. This section is open to majors and general students with instructor's permission. Prerequisite: Dance 111 and permission of instructor. Offered both semesters. 211 may be repeated with instructor's permission."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Heather J. Klopchin"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1",
-		"CAD Studio 1"
-	],
 	"max": 15,
 	"name": "Modern Dance II",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD Studio 1",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD Studio 1",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Dance 111 and permission of instructor. Offered both semesters. 211 may be repeated with instructor's permission.",
 	"revisions": [
@@ -53,10 +61,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

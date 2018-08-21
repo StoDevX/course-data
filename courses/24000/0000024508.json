@@ -1,21 +1,30 @@
 {
-	"clbid": 24508,
+	"clbid": "0000024508",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 20,
+	"crsid": "0000000468",
+	"department": "ENVST",
+	"enrolled": 20,
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 300,
-	"locations": [
-		"SC 210"
-	],
 	"max": 30,
 	"name": "Sem: Environ Studies",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 210",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 210",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1998
 }

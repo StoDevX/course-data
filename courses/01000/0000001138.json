@@ -1,21 +1,30 @@
 {
-	"clbid": 1138,
+	"clbid": "0000001138",
 	"credits": 1.0,
-	"crsid": 278,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 15,
+	"crsid": "0000000278",
+	"department": "ECON",
+	"enrolled": 15,
 	"instructors": [
 		"Rebecca Judge"
 	],
 	"level": 300,
-	"locations": [
-		"SC 182"
-	],
 	"max": 20,
 	"name": "Econ of Public Policy",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 182",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 2000
 }

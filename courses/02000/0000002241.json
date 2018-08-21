@@ -1,21 +1,36 @@
 {
-	"clbid": 2241,
+	"clbid": "0000002241",
 	"credits": 1.0,
-	"crsid": 745,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 19,
+	"crsid": "0000000745",
+	"department": "MATH",
+	"enrolled": 19,
 	"instructors": [
 		"Paul Humke"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 15,
 	"name": "Elem Real Analysis",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 182",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

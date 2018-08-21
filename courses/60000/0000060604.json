@@ -1,22 +1,25 @@
 {
-	"clbid": 60604,
+	"clbid": "0000060604",
 	"credits": 0.0,
-	"crsid": 160,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 4,
-	"groupid": 159,
+	"crsid": "0000000160",
+	"department": "BIO",
+	"enrolled": 4,
+	"groupid": "0000000159",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 211"
-	],
 	"max": 8,
 	"name": "Molecular Biology Lab",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 211",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

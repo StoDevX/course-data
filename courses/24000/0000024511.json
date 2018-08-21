@@ -1,21 +1,36 @@
 {
-	"clbid": 24511,
+	"clbid": "0000024511",
 	"credits": 1.0,
-	"crsid": 477,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 16,
+	"crsid": "0000000477",
+	"department": "FREN",
+	"enrolled": 16,
 	"instructors": [
 		"Herve Pensec"
 	],
 	"level": 100,
-	"locations": [
-		"M 26"
-	],
 	"max": 30,
 	"name": "Beginning French II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 26",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 26",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 26",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1998
 }

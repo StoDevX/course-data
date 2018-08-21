@@ -1,21 +1,36 @@
 {
-	"clbid": 7415,
+	"clbid": "0000007415",
 	"credits": 1.0,
-	"crsid": 1325,
-	"departments": [
-		"SPAN"
-	],
-	"enroll": 16,
+	"crsid": "0000001325",
+	"department": "SPAN",
+	"enrolled": 16,
 	"instructors": [
 		"Joseph McClanahan"
 	],
 	"level": 100,
-	"locations": [
-		"OM 020"
-	],
 	"max": 16,
 	"name": "Beginning Spanish II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "OM 020",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "OM 020",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "OM 020",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2003
 }

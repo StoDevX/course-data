@@ -1,21 +1,30 @@
 {
-	"clbid": 3115,
+	"clbid": "0000003115",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 20,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 20,
 	"instructors": [
 		"Richard Bodman"
 	],
 	"level": 100,
-	"locations": [
-		"L 421"
-	],
 	"max": 19,
 	"name": "First Year Writing",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "L 421",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "L 421",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

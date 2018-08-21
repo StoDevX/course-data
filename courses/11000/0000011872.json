@@ -1,24 +1,33 @@
 {
-	"clbid": 11872,
+	"clbid": "0000011872",
 	"credits": 0.25,
-	"crsid": 347,
-	"departments": [
-		"DNCTE"
-	],
+	"crsid": "0000000347",
+	"department": "DNCTE",
 	"description": [
 		"Ballroom classes are taught from a social/aesthetic perspective. In this course, students learn fundamental steps, rhythms and styling in foxtrot, slow waltz, Viennese waltz, east coast swing and cha cha or samba."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_1"
-	],
 	"max": 20,
 	"name": "Ballroom I (Men)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD _STUDIO_1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD _STUDIO_1",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"MW 0905-1000"
-	],
 	"title": "Ballroom I",
 	"type": "Research",
 	"year": 2005

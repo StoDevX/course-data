@@ -1,21 +1,30 @@
 {
-	"clbid": 17513,
+	"clbid": "0000017513",
 	"credits": 1.0,
-	"crsid": 2431,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 14,
+	"crsid": "0000002431",
+	"department": "SOAN",
+	"enrolled": 14,
 	"instructors": [
 		"Raymond DeVries"
 	],
 	"level": 200,
-	"locations": [
-		"H 516"
-	],
 	"max": 25,
 	"name": "Health Care/Medicine",
 	"number": 267,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 516",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 516",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

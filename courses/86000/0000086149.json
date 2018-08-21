@@ -1,14 +1,12 @@
 {
-	"clbid": 86149,
+	"clbid": "0000086149",
 	"credits": 1.0,
-	"crsid": 23953,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000023953",
+	"department": "HIST",
 	"description": [
 		"This course explores the rise and fall of English piracy in the Caribbean, from its origins during the reign of Elizabeth I to the emergence of the so-called \"Golden Age\" of piracy in the early 18th century. Students investigate the ways in which piracy advanced and then later threatened the imperial goals of the English state and examine the enduring appeal of pirates in the popular imagination. Offered annually."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Steven C. Hahn"
 	],
 	"level": 100,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 18,
 	"name": "Pirates of the Caribbean",
 	"notes": [
 		"Open to first-year students only."
 	],
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 515",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2012
 }

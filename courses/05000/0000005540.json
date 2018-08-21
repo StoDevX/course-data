@@ -1,22 +1,30 @@
 {
-	"clbid": 5540,
+	"clbid": "0000005540",
 	"credits": 1.0,
-	"crsid": 1483,
-	"departments": [
-		"ARMS"
-	],
-	"enroll": 30,
+	"crsid": "0000001483",
+	"department": "ARMS",
+	"enrolled": 30,
 	"instructors": [
 		"Michael Fitzgerald"
 	],
 	"level": 100,
-	"locations": [
-		"RML 577",
-		"RML 577"
-	],
 	"max": 24,
 	"name": "Intro to Arms",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RML 577",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RML 577",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

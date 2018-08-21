@@ -1,21 +1,36 @@
 {
-	"clbid": 21732,
+	"clbid": "0000021732",
 	"credits": 1.0,
-	"crsid": 1235,
-	"departments": [
-		"REL"
-	],
-	"enroll": 14,
+	"crsid": "0000001235",
+	"department": "REL",
+	"enrolled": 14,
 	"instructors": [
 		"John Barbour"
 	],
 	"level": 200,
-	"locations": [
-		"CH 109"
-	],
 	"max": 20,
 	"name": "Virtue",
 	"number": 293,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CH 109",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1997
 }

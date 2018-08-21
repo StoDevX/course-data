@@ -1,21 +1,30 @@
 {
-	"clbid": 21619,
+	"clbid": "0000021619",
 	"credits": 1.0,
-	"crsid": 1060,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 11,
+	"crsid": "0000001060",
+	"department": "PETH",
+	"enrolled": 11,
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 142"
-	],
 	"max": 24,
 	"name": "Motor Learning",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SAC 142",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC 142",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

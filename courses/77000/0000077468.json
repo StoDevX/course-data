@@ -1,23 +1,26 @@
 {
-	"clbid": 77468,
+	"clbid": "0000077468",
 	"credits": 0.0,
-	"crsid": 107,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 106,
+	"crsid": "0000000107",
+	"department": "BIO",
+	"enrolled": 20,
+	"groupid": "0000000106",
 	"grouptype": "4",
 	"instructors": [
 		"Tamar Resnick"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 21,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "20:30",
+			"location": "RNS 255",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"W 0600-0830PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

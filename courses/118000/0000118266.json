@@ -1,14 +1,12 @@
 {
-	"clbid": 118266,
+	"clbid": "0000118266",
 	"credits": 0.25,
-	"crsid": 1011,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001011",
+	"department": "ESAC",
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Kayla R. Hatting"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 25,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,15 +55,30 @@
 		{
 			"_updated": "2018-08-18T03:36:15.077892+00:00",
 			"enroll": 22
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.616005+00:00",
+			"clbid": 118266,
+			"crsid": 1011,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 23,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"TTh 0800-0855"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

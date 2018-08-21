@@ -1,22 +1,37 @@
 {
-	"clbid": 23717,
+	"clbid": "0000023717",
 	"credits": 0.5,
-	"crsid": 2213,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 4,
+	"crsid": "0000002213",
+	"department": "PETH",
+	"enrolled": 4,
 	"halfcredit": "2",
 	"instructors": [
 		"Dick Daymont"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 24,
 	"name": "Adapted Phys Educ",
 	"number": 265,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SAC 140",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1998
 }

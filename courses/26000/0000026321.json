@@ -1,21 +1,30 @@
 {
-	"clbid": 26321,
+	"clbid": "0000026321",
 	"credits": 1.0,
-	"crsid": 281,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 14,
+	"crsid": "0000000281",
+	"department": "ECON",
+	"enrolled": 14,
 	"instructors": [
 		"Xun Pomponio"
 	],
 	"level": 300,
-	"locations": [
-		"H 413"
-	],
 	"max": 20,
 	"name": "International Econ",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "H 413",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "H 413",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 1999
 }

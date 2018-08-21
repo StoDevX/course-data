@@ -1,22 +1,42 @@
 {
-	"clbid": 5685,
+	"clbid": "0000005685",
 	"credits": 1.0,
-	"crsid": 102,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 25,
+	"crsid": "0000000102",
+	"department": "BIO",
+	"enrolled": 25,
 	"instructors": [
 		"Young Yoo"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280",
-		"SC 253"
-	],
 	"max": 22,
 	"name": "Human Biology",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 253",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"MWF 0905-1000",
-		"W 0200-0400PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

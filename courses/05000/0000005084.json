@@ -1,21 +1,24 @@
 {
-	"clbid": 5084,
+	"clbid": "0000005084",
 	"credits": 0.5,
-	"crsid": 685,
-	"departments": [
-		"IS"
-	],
-	"enroll": 7,
+	"crsid": "0000000685",
+	"department": "IS",
+	"enrolled": 7,
 	"instructors": [
 		"W. Bruce Benson"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 109"
-	],
 	"max": 12,
 	"name": "Coll: Security",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "BMC 109",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

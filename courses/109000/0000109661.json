@@ -1,28 +1,36 @@
 {
-	"clbid": 109661,
+	"clbid": "0000109661",
 	"credits": 1.0,
-	"crsid": 290,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000290",
+	"department": "CSCI",
 	"description": [
 		"Students learn about formal languages, automata, and other topics concerned with the theoretical basis and limitations of computation. The course covers automata theory including regular languages and context-free languages, computability theory, complexity theory including classes P and NP, and cryptographic algorithms. Offered alternate years. Counts toward neuroscience and linguistic studies concentrations. Prerequisite: a proof writing course (such as MATH 244 or MATH 252) or permission of instructor."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"instructors": [
 		"Richard Allen"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 19,
 	"name": "Theory of Computation",
 	"notes": [
 		"Prerequisite: CSCI 251."
 	],
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 203",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 203",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "a proof writing course (such as MATH 244 or MATH 252) or permission of instructor.",
 	"revisions": [
@@ -60,10 +68,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2016
 }

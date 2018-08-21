@@ -1,21 +1,42 @@
 {
-	"clbid": 26090,
+	"clbid": "0000026090",
 	"credits": 1.0,
-	"crsid": 1107,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 25,
+	"crsid": "0000001107",
+	"department": "PSCI",
+	"enrolled": 25,
 	"instructors": [
 		"Daniel Hofrenning"
 	],
 	"level": 100,
-	"locations": [
-		"H 301"
-	],
 	"max": 27,
 	"name": "Politics of Religion",
 	"number": 115,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +54,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 19992,
-	"times": [
-		"MTThF 0800-1000"
-	],
 	"type": "Research",
 	"year": 1999
 }

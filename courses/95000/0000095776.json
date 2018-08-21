@@ -1,22 +1,25 @@
 {
-	"clbid": 95776,
+	"clbid": "0000095776",
 	"credits": 0.0,
-	"crsid": 143,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 9,
-	"groupid": 142,
+	"crsid": "0000000143",
+	"department": "BIO",
+	"enrolled": 9,
+	"groupid": "0000000142",
 	"instructors": [
 		"Michael Swift"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 16,
 	"name": "Comp Vertebrate Anat Lab",
 	"number": 266,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 254",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

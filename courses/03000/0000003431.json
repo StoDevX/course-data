@@ -1,21 +1,36 @@
 {
-	"clbid": 3431,
+	"clbid": "0000003431",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 15,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 15,
 	"instructors": [
 		"Donna K. McMillan"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 16,
 	"name": "Sem: Personality",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "H 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,9 +61,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

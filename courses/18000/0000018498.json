@@ -1,21 +1,36 @@
 {
-	"clbid": 18498,
+	"clbid": "0000018498",
 	"credits": 1.0,
-	"crsid": 2242,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 14,
+	"crsid": "0000002242",
+	"department": "PSCI",
+	"enrolled": 14,
 	"instructors": [
 		"Kristina Thalhammer"
 	],
 	"level": 100,
-	"locations": [
-		"H 413"
-	],
 	"max": 30,
 	"name": "Political Analysis",
 	"number": 118,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "H 413",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

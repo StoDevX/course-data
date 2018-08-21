@@ -1,21 +1,36 @@
 {
-	"clbid": 22525,
+	"clbid": "0000022525",
 	"credits": 1.0,
-	"crsid": 629,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 22,
+	"crsid": "0000000629",
+	"department": "HIST",
+	"enrolled": 22,
 	"instructors": [
 		"Richard A. Olson"
 	],
 	"level": 300,
-	"locations": [
-		"M 30"
-	],
 	"max": 20,
 	"name": "Roman Civilization",
 	"number": 303,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "M 30",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "M 30",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "M 30",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19973,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Seminar",
 	"year": 1997
 }

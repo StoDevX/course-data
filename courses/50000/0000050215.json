@@ -1,25 +1,33 @@
 {
-	"clbid": 50215,
+	"clbid": "0000050215",
 	"credits": 1.0,
-	"crsid": 1133,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001133",
+	"department": "PSCI",
 	"description": [
 		"Students examine ethical issues related to family life in the United States. Topics include the nature and purpose of the family; a history of family structures and values; the family as a school of justice; and the relationship between the family and the state. Students explore a variety of theological and philosophical traditions, on such issues as marriage and divorce, contraception and abortion, parenting practices, and public policy."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Jo M. Beld"
 	],
 	"level": 200,
-	"locations": [
-		"HH 307",
-		"HH 307"
-	],
 	"max": 25,
 	"name": "Family Values",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 307",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

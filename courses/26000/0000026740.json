@@ -1,21 +1,30 @@
 {
-	"clbid": 26740,
+	"clbid": "0000026740",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 48,
+	"crsid": "0000001154",
+	"department": "PSYCH",
+	"enrolled": 48,
 	"instructors": [
 		"Mark Sundby"
 	],
 	"level": 100,
-	"locations": [
-		"H 307"
-	],
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 307",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

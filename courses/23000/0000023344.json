@@ -1,21 +1,30 @@
 {
-	"clbid": 23344,
+	"clbid": "0000023344",
 	"credits": 1.0,
-	"crsid": 1617,
-	"departments": [
-		"CSCI"
-	],
-	"enroll": 30,
+	"crsid": "0000001617",
+	"department": "CSCI",
+	"enrolled": 30,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184"
-	],
 	"max": 999,
 	"name": "Computer Organization",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 184",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1998
 }

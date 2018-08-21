@@ -1,21 +1,30 @@
 {
-	"clbid": 3525,
+	"clbid": "0000003525",
 	"credits": 1.0,
-	"crsid": 1321,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 21,
+	"crsid": "0000001321",
+	"department": "SOAN",
+	"enrolled": 21,
 	"instructors": [
 		"Bruce Nordstrom-Loeb"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 999,
 	"name": "Soc/Anthro and Ethics",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 515",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20013,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

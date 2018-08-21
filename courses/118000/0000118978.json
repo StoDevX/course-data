@@ -1,14 +1,12 @@
 {
-	"clbid": 118978,
+	"clbid": "0000118978",
 	"credits": 0.5,
-	"crsid": 357,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000357",
+	"department": "DANCE",
 	"description": [
 		"Students expand their understanding of modern dance by building on the components of Modern Dance I, adding attention to movement qualities, elements of space, dance vocabulary and of technique with an emphasis on phrasing and sequencing movement. Some sections may also include a focus on performing skills. Open to majors and other students with instructor's permission. May require ticket/transportation fee. Offered each semester. Prerequisites: DANCE 111 and permission of instructor."
 	],
-	"enroll": 2,
+	"enrolled": 2,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,16 +15,26 @@
 		"Heather J. Klopchin"
 	],
 	"level": 200,
-	"locations": [
-		"CAD Studio 1",
-		"CAD Studio 1"
-	],
 	"max": 5,
 	"name": "Modern Dance II",
 	"notes": [
 		"Permission of instructor required."
 	],
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD Studio 1",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD Studio 1",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: DANCE 111 and permission of instructor.",
 	"revisions": [
@@ -50,16 +58,32 @@
 			"_updated": "2018-08-07T14:48:45.188673+00:00",
 			"enroll": "2",
 			"max": "5"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.791644+00:00",
+			"clbid": 118978,
+			"crsid": 357,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 2,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 1",
+				"CAD Studio 1"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

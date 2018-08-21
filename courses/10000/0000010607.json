@@ -1,22 +1,30 @@
 {
-	"clbid": 10607,
+	"clbid": "0000010607",
 	"credits": 1.0,
-	"crsid": 581,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 32,
+	"crsid": "0000000581",
+	"department": "HIST",
+	"enrolled": 32,
 	"instructors": [
 		"Timothy R. Howe"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501",
-		"HH 501"
-	],
 	"max": 35,
 	"name": "Ancient: Greece",
 	"number": 203,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2005
 }

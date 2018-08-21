@@ -1,21 +1,30 @@
 {
-	"clbid": 16099,
+	"clbid": "0000016099",
 	"credits": 0.0,
-	"crsid": 665,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 0,
+	"crsid": "0000000665",
+	"department": "JAPAN",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"M 3"
-	],
 	"max": 999,
 	"name": "Inter Japanese II/Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "M 3",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1150-1245PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

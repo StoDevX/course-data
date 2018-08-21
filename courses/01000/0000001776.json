@@ -1,21 +1,24 @@
 {
-	"clbid": 1776,
+	"clbid": "0000001776",
 	"credits": 1.0,
-	"crsid": 1476,
-	"departments": [
-		"WMNST"
-	],
-	"enroll": 33,
+	"crsid": "0000001476",
+	"department": "WMNST",
+	"enrolled": 33,
 	"instructors": [
 		"Olivia Frey"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 23,
 	"name": "Intro Women's Studies",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "L 515",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

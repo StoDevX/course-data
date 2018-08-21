@@ -1,22 +1,30 @@
 {
-	"clbid": 6331,
+	"clbid": "0000006331",
 	"credits": 1.0,
-	"crsid": 1384,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 14,
+	"crsid": "0000001384",
+	"department": "THEAT",
+	"enrolled": 14,
 	"instructors": [
 		"Dona W. Freeman"
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 16,
 	"name": "Intermediate Acting",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB Haugen",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB Haugen",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

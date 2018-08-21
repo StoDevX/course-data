@@ -1,21 +1,24 @@
 {
-	"clbid": 12019,
+	"clbid": "0000012019",
 	"credits": 0.25,
-	"crsid": 16222,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 10,
+	"crsid": "0000016222",
+	"department": "HIST",
+	"enrolled": 10,
 	"instructors": [
 		"Gwendolyn Barnes-Karol"
 	],
 	"level": 200,
-	"locations": [
-		"OM 020"
-	],
 	"max": 10,
 	"name": "FLC - Spanish",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "19:30",
+			"location": "OM 020",
+			"start": "18:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"W 0630-0730PM"
-	],
 	"type": "FLAC",
 	"year": 2005
 }

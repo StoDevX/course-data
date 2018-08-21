@@ -1,21 +1,24 @@
 {
-	"clbid": 7091,
+	"clbid": "0000007091",
 	"credits": 0.5,
-	"crsid": 750,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 9,
+	"crsid": "0000000750",
+	"department": "MATH",
+	"enrolled": 9,
 	"instructors": [
 		"David Molnar"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Top: Problem Solving",
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "TBA",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"type": "Topic",
 	"year": 2003
 }

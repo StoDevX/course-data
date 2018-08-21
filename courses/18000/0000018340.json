@@ -1,21 +1,36 @@
 {
-	"clbid": 18340,
+	"clbid": "0000018340",
 	"credits": 1.0,
-	"crsid": 922,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 22,
+	"crsid": "0000000922",
+	"department": "NORW",
+	"enrolled": 22,
 	"instructors": [
 		"Margaret H. O'Leary"
 	],
 	"level": 100,
-	"locations": [
-		"M 15"
-	],
 	"max": 25,
 	"name": "Begin Norwegian II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "M 15",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "M 15",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "M 15",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1995
 }

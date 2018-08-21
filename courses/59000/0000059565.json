@@ -1,23 +1,26 @@
 {
-	"clbid": 59565,
+	"clbid": "0000059565",
 	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 20,
-	"groupid": 122,
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 20,
+	"groupid": "0000000122",
 	"grouptype": "2",
 	"instructors": [
 		"Paul A. Rupp"
 	],
 	"level": 200,
-	"locations": [
-		"SC 263"
-	],
 	"max": 20,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "SC 263",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"Th 1245-0345PM"
-	],
 	"type": "Lab",
 	"year": 2007
 }

@@ -1,28 +1,43 @@
 {
-	"clbid": 79159,
+	"clbid": "0000079159",
 	"credits": 1.0,
-	"crsid": 1084,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001084",
+	"department": "PHYS",
 	"description": [
 		"Modern scientific work relies heavily on electronic circuitry and computation. This course examines the fundamentals of analog and digital electronics, explores the applications of discrete and integrated circuits, and introduces the broad topic of computer control of experiments. Students develop hands-on skills in circuit building, computer interfacing, and programming in LabView®. Students attend one laboratory period each week. Prerequisite: Physics 125 or 131. Offered alternate years."
 	],
-	"enroll": 15,
-	"groupid": 1084,
+	"enrolled": 15,
+	"groupid": "0000001084",
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 17,
 	"name": "Electronics",
 	"notes": [
 		"Student in Physics 246 must also register for lab Physics 246 L."
 	],
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 297",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physics 125 or 131. Offered alternate years.",
 	"revisions": [
@@ -44,9 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2011
 }

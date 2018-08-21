@@ -1,21 +1,36 @@
 {
-	"clbid": 2300,
+	"clbid": "0000002300",
 	"credits": 1.0,
-	"crsid": 857,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 27,
+	"crsid": "0000000857",
+	"department": "MUSIC",
+	"enrolled": 27,
 	"instructors": [
 		"Alice Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 30,
 	"name": "American Music",
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Topic",
 	"year": 2001
 }

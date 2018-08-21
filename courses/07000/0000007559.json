@@ -1,21 +1,48 @@
 {
-	"clbid": 7559,
+	"clbid": "0000007559",
 	"credits": 1.0,
-	"crsid": 317,
-	"departments": [
-		"EDUC"
-	],
-	"enroll": 11,
+	"crsid": "0000000317",
+	"department": "EDUC",
+	"enrolled": 11,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Science Hlth Living",
 	"number": 316,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:00",
+			"location": "FH 10L",
+			"start": "09:00"
+		},
+		{
+			"day": "Tu",
+			"end": "12:00",
+			"location": "FH 10L",
+			"start": "09:00"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "FH 10L",
+			"start": "09:00"
+		},
+		{
+			"day": "Th",
+			"end": "12:00",
+			"location": "FH 10L",
+			"start": "09:00"
+		},
+		{
+			"day": "Fr",
+			"end": "12:00",
+			"location": "FH 10L",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20035,
-	"times": [
-		"M-F 0900-1200PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

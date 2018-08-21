@@ -1,21 +1,30 @@
 {
-	"clbid": 1712,
+	"clbid": "0000001712",
 	"credits": 1.0,
-	"crsid": 792,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 32,
+	"crsid": "0000000792",
+	"department": "THEAT",
+	"enrolled": 32,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 100,
-	"locations": [
-		"CT 227"
-	],
 	"max": 32,
 	"name": "Mass Media",
 	"number": 160,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CT 227",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "CT 227",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0800-0925"
-	],
 	"type": "Research",
 	"year": 2000
 }

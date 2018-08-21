@@ -1,14 +1,12 @@
 {
-	"clbid": 121795,
+	"clbid": "0000121795",
 	"credits": 1.0,
-	"crsid": 286,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000286",
+	"department": "ECON",
 	"description": [
 		"Selected topics to be announced. May be repeated if topics are different. Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,10 +14,6 @@
 		"Bruce Wambheim"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 15,
 	"name": "Sem: Economic History",
 	"notes": [
@@ -28,6 +22,20 @@
 		"the instructor."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 261 and/or ECON 262 (at the discretion of the instructor) and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -44,16 +52,32 @@
 			"_updated": "2018-08-07T14:48:49.807390+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.924812+00:00",
+			"clbid": 121795,
+			"crsid": 286,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Seminar in Economics",
 	"type": "Seminar",
 	"year": 2018

@@ -1,21 +1,30 @@
 {
-	"clbid": 15263,
+	"clbid": "0000015263",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 4,
+	"crsid": "0000001148",
+	"department": "PSCI",
+	"enrolled": 4,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"H 302"
-	],
 	"max": 20,
 	"name": "Studies-Pol Thought",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

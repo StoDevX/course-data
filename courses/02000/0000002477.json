@@ -1,21 +1,36 @@
 {
-	"clbid": 2477,
+	"clbid": "0000002477",
 	"credits": 1.0,
-	"crsid": 1224,
-	"departments": [
-		"REL"
-	],
-	"enroll": 23,
+	"crsid": "0000001224",
+	"department": "REL",
+	"enrolled": 23,
 	"instructors": [
 		"Susan Lindley"
 	],
 	"level": 200,
-	"locations": [
-		"CH 110"
-	],
 	"max": 25,
 	"name": "Religion in America",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CH 110",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CH 110",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CH 110",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

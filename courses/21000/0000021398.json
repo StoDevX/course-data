@@ -1,21 +1,36 @@
 {
-	"clbid": 21398,
+	"clbid": "0000021398",
 	"credits": 1.0,
-	"crsid": 1769,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 18,
+	"crsid": "0000001769",
+	"department": "HIST",
+	"enrolled": 18,
 	"instructors": [
 		"Richard A. Olson"
 	],
 	"level": 100,
-	"locations": [
-		"H 501"
-	],
 	"max": 23,
 	"name": "Athens & Rome",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 501",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1997
 }

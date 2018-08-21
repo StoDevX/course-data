@@ -1,21 +1,30 @@
 {
-	"clbid": 25509,
+	"clbid": "0000025509",
 	"credits": 1.0,
-	"crsid": 641,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 15,
+	"crsid": "0000000641",
+	"department": "HIST",
+	"enrolled": 15,
 	"instructors": [
 		"Robert Entenmann"
 	],
 	"level": 300,
-	"locations": [
-		"H 514"
-	],
 	"max": 18,
 	"name": "Senior Thesis Seminar",
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 514",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 1999
 }

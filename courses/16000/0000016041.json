@@ -1,21 +1,30 @@
 {
-	"clbid": 16041,
+	"clbid": "0000016041",
 	"credits": 1.0,
-	"crsid": 524,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 9,
+	"crsid": "0000000524",
+	"department": "GERM",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"M 30"
-	],
 	"max": 15,
 	"name": "Sem: Weimar Bis Heute",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 30",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 30",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

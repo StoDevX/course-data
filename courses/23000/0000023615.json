@@ -1,22 +1,37 @@
 {
-	"clbid": 23615,
+	"clbid": "0000023615",
 	"credits": 0.5,
-	"crsid": 820,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 23,
+	"crsid": "0000000820",
+	"department": "MUSIC",
+	"enrolled": 23,
 	"halfcredit": "1",
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 999,
 	"name": "Instrumentation",
 	"number": 221,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CHM 138",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19981,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

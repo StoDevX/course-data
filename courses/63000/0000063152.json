@@ -1,14 +1,12 @@
 {
-	"clbid": 63152,
+	"clbid": "0000063152",
 	"credits": 1.0,
-	"crsid": 411,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000411",
+	"department": "ENGL",
 	"description": [
 		"Students encounter the literature from former British colonies and from other countries of Africa, Asia, and Latin America. Primary attention is given to literatures in English, but the readings may include some translations. The course examines diverse cultural expressions and the historical and cultural contexts of the works read, including the relationship between oral and written literature and between indigenous and foreign elements. Prerequisite: FYW or equivalent."
 	],
-	"enroll": 31,
+	"enrolled": 31,
 	"gereqs": [
 		"ALS-L",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Joseph L. Mbele"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Post Colonial Lit",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW or equivalent.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Post-Colonial Literatures",
 	"type": "Research",
 	"year": 2008

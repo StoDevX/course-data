@@ -1,22 +1,36 @@
 {
-	"clbid": 58,
+	"clbid": "0000000058",
 	"credits": 1.0,
-	"crsid": 128,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
+	"crsid": "0000000128",
+	"department": "BIO",
+	"enrolled": 11,
 	"instructors": [
 		"Eugene Bakko"
 	],
 	"level": 200,
-	"locations": [
-		"SC 278",
-		"SC 269"
-	],
 	"max": 12,
 	"name": "Animal Physiology",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 269",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"TTh 0800-0925",
-		"T 0120-0420PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

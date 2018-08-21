@@ -1,14 +1,12 @@
 {
-	"clbid": 120329,
+	"clbid": "0000120329",
 	"credits": 1.0,
-	"crsid": 927,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000000927",
+	"department": "NORW",
 	"description": [
 		"This course is a continuation of the approach of NORW 231, in which authentic cultural and literary texts provide the basis for writing and discussion on topics such as health, work, Norwegian history, society, politics, environmental issues, and minorities in Norway. Materials include a contemporary novel. Offered annually in the spring semester. Prerequisite: NORW 231 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-N"
 	],
@@ -16,12 +14,29 @@
 		"H. Piñero Christine"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 16,
 	"name": "Intermed Norwegian II",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 112",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 112",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 112",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "NORW 231 or equivalent.",
 	"revisions": [
@@ -50,14 +65,29 @@
 			"_updated": "2018-08-07T14:48:48.817860+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.731377+00:00",
+			"clbid": 120329,
+			"crsid": 927,
+			"department": null,
+			"departments": [
+				"NORW"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 112"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Intermediate Norwegian II",
 	"type": "Research",
 	"year": 2018

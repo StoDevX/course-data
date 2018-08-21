@@ -1,21 +1,30 @@
 {
-	"clbid": 15872,
+	"clbid": "0000015872",
 	"credits": 1.0,
-	"crsid": 266,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 16,
+	"crsid": "0000000266",
+	"department": "ECON",
+	"enrolled": 16,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274"
-	],
 	"max": 25,
 	"name": "Econ Develop of Japan",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 274",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 274",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

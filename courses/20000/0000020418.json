@@ -1,21 +1,36 @@
 {
-	"clbid": 20418,
+	"clbid": "0000020418",
 	"credits": 1.0,
-	"crsid": 667,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 4,
+	"crsid": "0000000667",
+	"department": "JAPAN",
+	"enrolled": 4,
 	"instructors": [
 		"Gia Someya"
 	],
 	"level": 200,
-	"locations": [
-		"M 1"
-	],
 	"max": 999,
 	"name": "Advanced Japanese II",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 1",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 1",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 1",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

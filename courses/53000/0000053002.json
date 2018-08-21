@@ -1,24 +1,39 @@
 {
-	"clbid": 53002,
+	"clbid": "0000053002",
 	"credits": 0.25,
-	"crsid": 814,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000814",
+	"department": "MUSIC",
 	"description": [
 		"Intended primarily for music majors, this course introduces basic techniques for performance on selected instruments in the woodwind family. Tone production and technical facility are highlighted. Discussion topics include posture, breathing, embouchure, history of the woodwind instruments, instrument families, reed adjustment, maintenance and basic repair, resource materials, method books, solo and ensemble editions, and similarities and differences in teaching the various woodwind instruments."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"Karrin D. Meffert-Nelson"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 15,
 	"name": "Woodwind Class",
 	"number": 169,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

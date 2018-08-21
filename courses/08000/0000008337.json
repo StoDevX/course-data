@@ -1,21 +1,36 @@
 {
-	"clbid": 8337,
+	"clbid": "0000008337",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 13,
+	"crsid": "0000001148",
+	"department": "PSCI",
+	"enrolled": 13,
 	"instructors": [
 		"D Christopher Brooks"
 	],
 	"level": 300,
-	"locations": [
-		"HH 516"
-	],
 	"max": 15,
 	"name": "Studies Pol Thought",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 516",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 516",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 516",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

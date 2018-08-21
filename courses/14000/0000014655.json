@@ -1,21 +1,30 @@
 {
-	"clbid": 14655,
+	"clbid": "0000014655",
 	"credits": 0.5,
-	"crsid": 26,
-	"departments": [
-		"ART"
-	],
-	"enroll": 9,
+	"crsid": "0000000026",
+	"department": "ART",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FH 19"
-	],
 	"max": 12,
 	"name": "Found Ceramics: Throw",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 19",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 19",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

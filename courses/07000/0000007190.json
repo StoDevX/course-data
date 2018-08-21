@@ -1,21 +1,36 @@
 {
-	"clbid": 7190,
+	"clbid": "0000007190",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 25,
+	"crsid": "0000000979",
+	"department": "PHIL",
+	"enrolled": 25,
 	"instructors": [
 		"Geoffrey Gorham"
 	],
 	"level": 200,
-	"locations": [
-		"HH 302"
-	],
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 302",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 302",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "HH 302",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2003
 }

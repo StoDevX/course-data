@@ -1,21 +1,30 @@
 {
-	"clbid": 16280,
+	"clbid": "0000016280",
 	"credits": 0.25,
-	"crsid": 1022,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 11,
+	"crsid": "0000001022",
+	"department": "PEAC",
+	"enrolled": 11,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"FLD HOUSE"
-	],
 	"max": 20,
 	"name": "Tennis",
 	"number": 157,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "FLD HOUSE",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:55",
+			"location": "FLD HOUSE",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

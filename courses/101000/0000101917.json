@@ -1,14 +1,12 @@
 {
-	"clbid": 101917,
+	"clbid": "0000101917",
 	"credits": 1.0,
-	"crsid": 591,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000591",
+	"department": "HIST",
 	"description": [
 		"This course offers a survey of modern Scandinavian history from the period of the Protestant Reformation to the present with special attention to recent developments. Foreign Language Across the Curriculum course available in Norwegian. Offered annually. Counts toward Norwegian major and management studies and Nordic studies concentrations."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Todd W. Nichol"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Modern Scandinavia",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -69,10 +77,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2015
 }

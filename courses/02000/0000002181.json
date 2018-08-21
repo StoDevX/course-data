@@ -1,21 +1,30 @@
 {
-	"clbid": 2181,
+	"clbid": "0000002181",
 	"credits": 1.0,
-	"crsid": 611,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 20,
+	"crsid": "0000000611",
+	"department": "HIST",
+	"enrolled": 20,
 	"instructors": [
 		"Gary Davison"
 	],
 	"level": 200,
-	"locations": [
-		"M 15"
-	],
 	"max": 30,
 	"name": "Modern Japan",
 	"number": 263,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 15",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "M 15",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

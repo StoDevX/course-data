@@ -1,21 +1,36 @@
 {
-	"clbid": 1407,
+	"clbid": "0000001407",
 	"credits": 1.0,
-	"crsid": 778,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 26,
+	"crsid": "0000000778",
+	"department": "MGMT",
+	"enrolled": 26,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [
-		"H 307"
-	],
 	"max": 25,
 	"name": "Management",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 307",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 307",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 307",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

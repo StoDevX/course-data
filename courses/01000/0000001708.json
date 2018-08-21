@@ -1,21 +1,36 @@
 {
-	"clbid": 1708,
+	"clbid": "0000001708",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 22,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 22,
 	"instructors": [
 		"Carl Isaacson"
 	],
 	"level": 100,
-	"locations": [
-		"CT 227"
-	],
 	"max": 22,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CT 227",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CT 227",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CT 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

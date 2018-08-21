@@ -1,22 +1,42 @@
 {
-	"clbid": 1931,
+	"clbid": "0000001931",
 	"credits": 1.0,
-	"crsid": 139,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 22,
+	"crsid": "0000000139",
+	"department": "BIO",
+	"enrolled": 22,
 	"instructors": [
 		"Louis Henry Kermott"
 	],
 	"level": 200,
-	"locations": [
-		"H 307",
-		"SC 248"
-	],
 	"max": 18,
 	"name": "Ecological Principles",
 	"number": 261,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 307",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 248",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 0800-0855",
-		"Th 0800-1100"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 94215,
+	"clbid": "0000094215",
 	"credits": 1.0,
-	"crsid": 944,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000944",
+	"department": "NURS",
 	"description": [
 		"This course focuses on critical issues in contemporary health care. Topics include principles of wellness, health promotion, sensory perception, interpersonal communication, cultural competency, and legal, political, and economic aspects of the health care system in the United States. Students have the opportunity to explore health care issues, such as genomics, bio-terrorism, and global health problems. Prerequisites: concurrent registration in NURS 304, NURS 306, and NURS 308. Offered annually in the fall semester. Counts toward biomedical studies concentration (for students through class of 2016)."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"HBS",
 		"WRI"
@@ -20,17 +18,32 @@
 		"Mary Kuehn"
 	],
 	"level": 300,
-	"locations": [
-		"HH 301",
-		"HH 301",
-		"HH 301"
-	],
 	"max": 24,
 	"name": "Healthcare Issues",
 	"notes": [
 		"Open to rising junior Nursing majors only."
 	],
 	"number": 302,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 301",
+			"start": "11:50"
+		},
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 301",
+			"start": "12:55"
+		},
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 301",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: concurrent registration in NURS 304, NURS 306, and NURS 308. Offered annually in the fall semester. Counts toward biomedical studies concentration (for students through class of 2016).",
 	"revisions": [
@@ -81,11 +94,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"M 1150-1245PM",
-		"M 1255-0150PM",
-		"M 0200-0255PM"
-	],
 	"title": "Health Care Issues",
 	"type": "Research",
 	"year": 2014

@@ -1,21 +1,36 @@
 {
-	"clbid": 25541,
+	"clbid": "0000025541",
 	"credits": 1.0,
-	"crsid": 732,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 17,
+	"crsid": "0000000732",
+	"department": "MATH",
+	"enrolled": 17,
 	"instructors": [
 		"Bruce Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 182"
-	],
 	"max": 30,
 	"name": "Math Analysis I",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "SC 182",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

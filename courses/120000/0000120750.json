@@ -1,28 +1,36 @@
 {
-	"clbid": 120750,
+	"clbid": "0000120750",
 	"credits": 1.0,
-	"crsid": 1371,
-	"departments": [
-		"SWRK"
-	],
+	"crsid": "0000001371",
+	"department": "SWRK",
 	"description": [
 		"This capstone course is for senior majors. Students begin a professional web presence to illustrate their readiness to begin practice as a generalist social worker. Classes emphasize auxiliary knowledge and skills in leadership. Students discuss emerging social work issues and provide peer assistance with professional development strategies. Evaluation includes oral presentation, ethics case analysis, professional development reflection assignments, and self-evaluation of achievement of program competencies. Counts toward management studies concentration. Prerequisite: SWRK 380."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Mary Carlsen"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 21,
 	"name": "Social Worker as Professional",
 	"notes": [
 		"This course is open to Senior Social Work majors only."
 	],
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SWRK 380.",
 	"revisions": [
@@ -55,15 +63,31 @@
 			"_updated": "2018-08-07T14:48:49.079258+00:00",
 			"enroll": "0",
 			"max": "21"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.382863+00:00",
+			"clbid": 120750,
+			"crsid": 1371,
+			"department": null,
+			"departments": [
+				"SWRK"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

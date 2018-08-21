@@ -1,21 +1,36 @@
 {
-	"clbid": 383,
+	"clbid": "0000000383",
 	"credits": 1.0,
-	"crsid": 774,
-	"departments": [
-		"MGMT"
-	],
-	"enroll": 27,
+	"crsid": "0000000774",
+	"department": "MGMT",
+	"enrolled": 27,
 	"instructors": [
 		"Richard Goedde"
 	],
 	"level": 200,
-	"locations": [
-		"H 403"
-	],
 	"max": 30,
 	"name": "Managerial/Cost Acct",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "H 403",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "H 403",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "H 403",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

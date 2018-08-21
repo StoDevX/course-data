@@ -1,24 +1,39 @@
 {
-	"clbid": 53395,
+	"clbid": "0000053395",
 	"credits": 1.0,
-	"crsid": 741,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000741",
+	"department": "MATH",
 	"description": [
 		"Discrete (noncontinuous) mathematics has become increasingly important as more situations are investigated, represented and solved using computers (essentially discrete machines). Students will explore finite graphs, recurrence relations and combinatorial optimization using problem solving techniques and algorithm design strategies. Prerequisite: Mathematics 119, 120, or 122, or permission of the instructor. Offered alternate years."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Kay E. Smith"
 	],
 	"level": 200,
-	"locations": [
-		"SC 130"
-	],
 	"max": 25,
 	"name": "Discrete Mathematics",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SC 130",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 119, 120, or 122, or permission of the instructor. Offered alternate years.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

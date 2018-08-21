@@ -1,21 +1,36 @@
 {
-	"clbid": 18929,
+	"clbid": "0000018929",
 	"credits": 1.0,
-	"crsid": 37,
-	"departments": [
-		"ART"
-	],
-	"enroll": 7,
+	"crsid": "0000000037",
+	"department": "ART",
+	"enrolled": 7,
 	"instructors": [
 		"Steven Edwins"
 	],
 	"level": 200,
-	"locations": [
-		"FH AB"
-	],
 	"max": 20,
 	"name": "Arch Drawing/Design I",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "FH AB",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1996
 }

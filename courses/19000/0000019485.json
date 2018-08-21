@@ -1,21 +1,36 @@
 {
-	"clbid": 19485,
+	"clbid": "0000019485",
 	"credits": 1.0,
-	"crsid": 1051,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 19,
+	"crsid": "0000001051",
+	"department": "PETH",
+	"enrolled": 19,
 	"instructors": [
 		"Daniel Hagen"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 18,
 	"name": "Care/Prev Sport Injur",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC 140",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC 140",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "SAC 140",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19961,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1996
 }

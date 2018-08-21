@@ -1,14 +1,12 @@
 {
-	"clbid": 115209,
+	"clbid": "0000115209",
 	"credits": 1.0,
-	"crsid": 29264,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000029264",
+	"department": "ENGL",
 	"description": [
 		"Focusing primarily on contemporary works, this course introduces students to Arab American literature and film by exploring different literary and film genres (the novel, memoir, poetry, documentary film, feature film). Students examine shared thematic concerns related to immigration, exile, displacement, gender, religion, and racism. Students also consider how this literature and film draws upon and responds to past and present sociopolitical conflicts. Counts toward and race and ethnic studies major and concentration and middle eastern studies concentration. Offered alternate years in the fall semester. Prerequisite: FYW."
 	],
-	"enroll": 32,
+	"enrolled": 32,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Linda Mokdad"
 	],
 	"level": 200,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 30,
 	"name": "Arab American Literature and Film",
 	"number": 209,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -56,10 +64,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2017
 }

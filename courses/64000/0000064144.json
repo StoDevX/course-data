@@ -1,14 +1,12 @@
 {
-	"clbid": 64144,
+	"clbid": "0000064144",
 	"credits": 1.0,
-	"crsid": 638,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000638",
+	"department": "HIST",
 	"description": [
 		"This seminar covers varying topics in American history, depending upon the instructor. Recent topics have included \"Women and Slavery,\" \"The American Revolution,\" and \"American Consumer Culture.\" Offered most years. May be repeated if topics are different."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Judy Kutulas"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302",
-		"HH 302"
-	],
 	"max": 18,
 	"name": "Sem: American 1970s",
 	"number": 370,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 302",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 302",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "American Seminar",
 	"type": "Seminar",
 	"year": 2008

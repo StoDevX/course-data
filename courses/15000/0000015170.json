@@ -1,22 +1,31 @@
 {
-	"clbid": 15170,
+	"clbid": "0000015170",
 	"credits": 0.25,
-	"crsid": 1007,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 15,
+	"crsid": "0000001007",
+	"department": "PEAC",
+	"enrolled": 15,
 	"halfcredit": "1",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"POOL"
-	],
 	"max": 20,
 	"name": "Canoeing",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "POOL",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "POOL",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

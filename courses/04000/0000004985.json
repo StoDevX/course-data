@@ -1,21 +1,36 @@
 {
-	"clbid": 4985,
+	"clbid": "0000004985",
 	"credits": 1.0,
-	"crsid": 456,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 21,
+	"crsid": "0000000456",
+	"department": "ENVST",
+	"enrolled": 21,
 	"instructors": [
 		"Kurt Burch"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 28,
 	"name": "Global Env Politics",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 129",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

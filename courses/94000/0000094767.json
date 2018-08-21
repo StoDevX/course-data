@@ -1,14 +1,12 @@
 {
-	"clbid": 94767,
+	"clbid": "0000094767",
 	"credits": 0.25,
-	"crsid": 1024,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001024",
+	"department": "ESAC",
 	"description": [
 		"Students learn a variety of practical measures to repel a physical attack, basic throws, kicks, falls, submission holds, and choke releases."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,17 @@
 		"Sebastian N. Burset"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Wr Rm"
-	],
 	"max": 18,
 	"name": "Self-Defense",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC Wr Rm",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20141,
-	"times": [
-		"F 0800-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

@@ -1,21 +1,36 @@
 {
-	"clbid": 24355,
+	"clbid": "0000024355",
 	"credits": 1.0,
-	"crsid": 239,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 9,
+	"crsid": "0000000239",
+	"department": "CHIN",
+	"enrolled": 9,
 	"instructors": [
 		"Pin Pin Wan"
 	],
 	"level": 100,
-	"locations": [
-		"M 30"
-	],
 	"max": 999,
 	"name": "Beginning Chinese II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "M 30",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1998
 }

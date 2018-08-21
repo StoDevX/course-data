@@ -1,21 +1,30 @@
 {
-	"clbid": 1603,
+	"clbid": "0000001603",
 	"credits": 1.0,
-	"crsid": 1186,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 8,
+	"crsid": "0000001186",
+	"department": "PSYCH",
+	"enrolled": 8,
 	"instructors": [
 		"T. William Altermatt"
 	],
 	"level": 300,
-	"locations": [
-		"H 301"
-	],
 	"max": 18,
 	"name": "Sem: Jr Research",
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "H 301",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "H 301",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

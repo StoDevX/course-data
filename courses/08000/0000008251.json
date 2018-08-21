@@ -1,22 +1,31 @@
 {
-	"clbid": 8251,
+	"clbid": "0000008251",
 	"credits": 0.25,
-	"crsid": 997,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 11,
+	"crsid": "0000000997",
+	"department": "PEAC",
+	"enrolled": 11,
 	"halfcredit": "1",
 	"instructors": [
 		"Kenneth Pratt"
 	],
 	"level": 100,
-	"locations": [
-		"SAC_FH"
-	],
 	"max": 14,
 	"name": "Golf",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "SAC_FH",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "SAC_FH",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +44,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

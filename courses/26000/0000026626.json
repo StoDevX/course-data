@@ -1,21 +1,30 @@
 {
-	"clbid": 26626,
+	"clbid": "0000026626",
 	"credits": 1.0,
-	"crsid": 2106,
-	"departments": [
-		"PARA"
-	],
-	"enroll": 18,
+	"crsid": "0000002106",
+	"department": "PARA",
+	"enrolled": 18,
 	"instructors": [
 		"Irve Dell"
 	],
 	"level": 200,
-	"locations": [
-		"FH SEM"
-	],
 	"max": 15,
 	"name": "Public Space/Art",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "FH SEM",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "FH SEM",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19993,
-	"times": [
-		"TTh 1145-0110PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

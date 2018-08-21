@@ -1,21 +1,36 @@
 {
-	"clbid": 17324,
+	"clbid": "0000017324",
 	"credits": 0.5,
-	"crsid": 2202,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 17,
+	"crsid": "0000002202",
+	"department": "PETH",
+	"enrolled": 17,
 	"instructors": [
 		"Todd R. Carroll"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 02"
-	],
 	"max": 24,
 	"name": "Skills/Tech Spt Act",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SAC 02",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SAC 02",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SAC 02",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

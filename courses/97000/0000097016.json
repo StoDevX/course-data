@@ -1,14 +1,12 @@
 {
-	"clbid": 97016,
+	"clbid": "0000097016",
 	"credits": 1.0,
-	"crsid": 1302,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000001302",
+	"department": "SOAN",
 	"description": [
 		"This course explores the forces that shape contemporary Latin American society, including material and cultural interactions with Europe, Africa, and the U.S. Emphasis is placed on understanding the formation of the region in terms of the responses of key groups of actors (indigenous peoples, women, peasants, workers, the poor, migrants, revolutionaries) to the actions of outside and/or more powerful forces and institutions (foreign invaders, the state, the military, missionaries, multinational corporations). Offered annually in the fall or spring semester. Counts toward Latin American studies concentration."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"HBS",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Christopher L. Chiappari"
 	],
 	"level": 200,
-	"locations": [
-		"OM 340",
-		"OM 340"
-	],
 	"max": 18,
 	"name": "Latin Am Culture",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 340",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 340",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -51,10 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Forging a Latin American Culture",
 	"type": "Research",
 	"year": 2014

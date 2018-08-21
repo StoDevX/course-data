@@ -1,21 +1,30 @@
 {
-	"clbid": 16283,
+	"clbid": "0000016283",
 	"credits": 0.25,
-	"crsid": 1024,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 19,
+	"crsid": "0000001024",
+	"department": "PEAC",
+	"enrolled": 19,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"WR ROOM"
-	],
 	"max": 20,
 	"name": "Self Defense",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "WR ROOM",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "WR ROOM",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 94208,
+	"clbid": "0000094208",
 	"credits": 1.0,
-	"crsid": 291,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000291",
+	"department": "CSCI",
 	"description": [
 		"This course explores modern computer hardware, emphasizing trade-offs among architectural choices and examining representative examples. Programming exercises explore how these topics relate to five high-level programming languages. Topics include virtual machines, overview of computer organization, forms of parallelism, machine-level implementation of programming language features, memory organization, digital logic, microprogrammed and RISC architectures, multi-core architectures, performance enhancements, assembly programming, and architecture of networks and their protocols. Prerequisite: CSCI 121 or CSCI 125 or consent of the instructor. Offered annually."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 30,
 	"name": "Hardware Design",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RNS 203",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RNS 203",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RNS 203",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CSCI 121 or CSCI 125 or consent of the instructor. Offered annually.",
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20141,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

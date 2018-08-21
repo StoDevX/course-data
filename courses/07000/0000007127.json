@@ -1,22 +1,30 @@
 {
-	"clbid": 7127,
+	"clbid": "0000007127",
 	"credits": 0.25,
-	"crsid": 808,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 7,
+	"crsid": "0000000808",
+	"department": "MUSIC",
+	"enrolled": 7,
 	"instructors": [
 		"Theo Wee"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "CHM 222",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CHM 222",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 1145-1240PM",
-		"Th 1245-0140PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 8011,
+	"clbid": "0000008011",
 	"credits": 1.0,
-	"crsid": 611,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 15,
+	"crsid": "0000000611",
+	"department": "HIST",
+	"enrolled": 15,
 	"instructors": [
 		"Robert Entenmann"
 	],
 	"level": 200,
-	"locations": [
-		"HH 301",
-		"HH 301"
-	],
 	"max": 35,
 	"name": "Modern Japan",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 301",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20041,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2004
 }

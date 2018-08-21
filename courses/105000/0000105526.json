@@ -1,22 +1,25 @@
 {
-	"clbid": 105526,
+	"clbid": "0000105526",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 24,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 24,
+	"groupid": "0000000187",
 	"instructors": [
 		"Robert Hanson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 24,
 	"name": "Gen Chemistry/Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 350",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -51,9 +54,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20161,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

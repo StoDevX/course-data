@@ -1,21 +1,48 @@
 {
-	"clbid": 7554,
+	"clbid": "0000007554",
 	"credits": 1.0,
-	"crsid": 197,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 38,
+	"crsid": "0000000197",
+	"department": "CHEM",
+	"enrolled": 38,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 378"
-	],
 	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "09:30",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "09:30",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:30",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:30",
+			"location": "SC 378",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "09:30",
+			"location": "SC 378",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +60,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20035,
-	"times": [
-		"M-F 0800-0930"
-	],
 	"type": "Research",
 	"year": 2003
 }

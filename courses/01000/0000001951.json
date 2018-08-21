@@ -1,21 +1,36 @@
 {
-	"clbid": 1951,
+	"clbid": "0000001951",
 	"credits": 1.0,
-	"crsid": 176,
-	"departments": [
-		"AMCON"
-	],
-	"enroll": 15,
+	"crsid": "0000000176",
+	"department": "AMCON",
+	"enrolled": 15,
 	"instructors": [
 		"Carol Holly"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 999,
 	"name": "Freedoms: 1620-1865",
 	"number": 101,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 515",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

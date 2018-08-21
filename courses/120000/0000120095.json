@@ -1,25 +1,33 @@
 {
-	"clbid": 120095,
+	"clbid": "0000120095",
 	"credits": 0.5,
-	"crsid": 833,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000833",
+	"department": "MUSIC",
 	"description": [
 		"Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Offered annually in the spring semester. Prerequisite: MUSIC 114 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Steven Amundson"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 25,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 140",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 114 or permission of instructor.",
 	"revisions": [
@@ -36,16 +44,32 @@
 			"_updated": "2018-08-07T14:48:48.694047+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.386377+00:00",
+			"clbid": 120095,
+			"crsid": 833,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 140",
+				"CHM 140"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

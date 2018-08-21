@@ -1,14 +1,12 @@
 {
-	"clbid": 108120,
+	"clbid": "0000108120",
 	"credits": 1.0,
-	"crsid": 1165,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001165",
+	"department": "PSYCH",
 	"description": [
 		"How do biological factors influence fundamental aspects of psychology and behavior? In this course, students learn about relationships between the brain and behavior and use neuroanatomical, physiological, and biochemical levels of analysis to understand basic behavioral processes and systems, including sensation, movement, emotion, sleep and arousal, hunger, motivation, learning, and psychopathology. Offered each semester. Counts toward biology major and neuroscience concentration. Prerequisite: PSYCH 125 or BIO 123, BIO 227 or CH/BI 227."
 	],
-	"enroll": 30,
+	"enrolled": 30,
 	"gereqs": [
 		"IST"
 	],
@@ -16,15 +14,32 @@
 		"Anna E. Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290"
-	],
 	"max": 28,
 	"name": "Biopsychology",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 290",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 290",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 290",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125 or BIO 123, BIO 227 or CH/BI 227.",
 	"revisions": [
@@ -63,9 +78,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2016
 }

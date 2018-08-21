@@ -1,21 +1,30 @@
 {
-	"clbid": 20868,
+	"clbid": "0000020868",
 	"credits": 1.0,
-	"crsid": 2472,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 10,
+	"crsid": "0000002472",
+	"department": "THEAT",
+	"enrolled": 10,
 	"instructors": [
 		"Kathleen Edelmayer"
 	],
 	"level": 200,
-	"locations": [
-		"SPT 227"
-	],
 	"max": 25,
 	"name": "Theories of Commun",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SPT 227",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SPT 227",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19963,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1996
 }

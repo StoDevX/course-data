@@ -1,25 +1,33 @@
 {
-	"clbid": 120096,
+	"clbid": "0000120096",
 	"credits": 0.5,
-	"crsid": 833,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000833",
+	"department": "MUSIC",
 	"description": [
 		"Students learn basic conducting gestures (with and without baton) through exercises in meter patterns, preparatory beats and cut-offs, cueing, dynamics, fermata, articulations, phrasing, left hand independence, and face/eye usage. Offered annually in the spring semester. Prerequisite: MUSIC 114 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Anton Armstrong"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 114 or permission of instructor.",
 	"revisions": [
@@ -50,16 +58,32 @@
 			"_updated": "2018-08-07T14:48:48.694933+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.389390+00:00",
+			"clbid": 120096,
+			"crsid": 833,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

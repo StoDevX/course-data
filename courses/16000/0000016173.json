@@ -1,21 +1,36 @@
 {
-	"clbid": 16173,
+	"clbid": "0000016173",
 	"credits": 0.75,
-	"crsid": 818,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 25,
+	"crsid": "0000000818",
+	"department": "MUSIC",
+	"enrolled": 25,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 25,
 	"name": "Theory IV",
 	"number": 214,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 1994
 }

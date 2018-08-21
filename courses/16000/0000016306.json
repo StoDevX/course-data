@@ -1,21 +1,36 @@
 {
-	"clbid": 16306,
+	"clbid": "0000016306",
 	"credits": 1.0,
-	"crsid": 2210,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 24,
+	"crsid": "0000002210",
+	"department": "PETH",
+	"enrolled": 24,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 1"
-	],
 	"max": 24,
 	"name": "Pers Health/Wellness",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 1",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 1",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 1",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 5954,
+	"clbid": "0000005954",
 	"credits": 1.0,
-	"crsid": 1862,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 17,
+	"crsid": "0000001862",
+	"department": "HIST",
+	"enrolled": 17,
 	"instructors": [
 		"Dolores Peters"
 	],
 	"level": 300,
-	"locations": [
-		"HH 514",
-		"HH 514"
-	],
 	"max": 18,
 	"name": "Eur Sem: Holocaust",
 	"number": 314,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 514",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 514",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Seminar",
 	"year": 2003
 }

@@ -1,22 +1,25 @@
 {
-	"clbid": 90698,
+	"clbid": "0000090698",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 28,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 28,
+	"groupid": "0000001074",
 	"instructors": [
 		"Stanley Trout"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 22,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "15:25",
+			"location": "RNS 292",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"F 1255-0325PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

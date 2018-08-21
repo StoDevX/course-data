@@ -1,28 +1,43 @@
 {
-	"clbid": 89002,
+	"clbid": "0000089002",
 	"credits": 1.0,
-	"crsid": 196,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000196",
+	"department": "CHEM",
 	"description": [
 		"Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of these compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in Chemistry 248. Prerequisite: Chemistry 126, or Chemistry/Biology 227, or permission of instructor. Offered annually in the fall semester."
 	],
-	"enroll": 30,
-	"groupid": 196,
+	"enrolled": 30,
+	"groupid": "0000000196",
 	"instructors": [
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310"
-	],
 	"max": 50,
 	"name": "Organic Chemistry I",
 	"notes": [
 		"Students in Chem 247 must also register for one Chem 253 lab."
 	],
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126, or Chemistry/Biology 227, or permission of instructor. Offered annually in the fall semester.",
 	"revisions": [
@@ -45,9 +60,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20131,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2013
 }

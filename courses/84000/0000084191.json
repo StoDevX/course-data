@@ -1,21 +1,36 @@
 {
-	"clbid": 84191,
+	"clbid": "0000084191",
 	"credits": 0.0,
-	"crsid": 24192,
-	"departments": [
-		"IS"
-	],
-	"enroll": 6,
+	"crsid": "0000024192",
+	"department": "IS",
+	"enrolled": 6,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 9,
 	"name": "Pwr Comptg Lab",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:40",
+			"location": "RNS 202",
+			"start": "14:56"
+		},
+		{
+			"day": "We",
+			"end": "15:40",
+			"location": "RNS 202",
+			"start": "14:56"
+		},
+		{
+			"day": "Fr",
+			"end": "15:40",
+			"location": "RNS 202",
+			"start": "14:56"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"MWF 0256-0340PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

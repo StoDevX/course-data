@@ -1,24 +1,39 @@
 {
-	"clbid": 61257,
+	"clbid": "0000061257",
 	"credits": 1.0,
-	"crsid": 921,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000000921",
+	"department": "NORW",
 	"description": [
 		"Proficiency in a second language opens the door to another culture and another way of viewing the world. This course starts students on the road to achieving such a proficiency. Students begin learning to speak, understand, read, and write Norwegian and learn about Norwegian culture through the language. Fall Semester only."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"instructors": [
 		"Kari L. Dorer"
 	],
 	"level": 100,
-	"locations": [
-		"OM 011"
-	],
 	"max": 19,
 	"name": "Beginning Norwegian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "OM 011",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "OM 011",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "OM 011",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2008
 }

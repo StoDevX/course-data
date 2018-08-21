@@ -1,21 +1,36 @@
 {
-	"clbid": 14934,
+	"clbid": "0000014934",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"GE"
-	],
-	"enroll": 19,
+	"crsid": "0000000498",
+	"department": "GE",
+	"enrolled": 19,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"L 515"
-	],
 	"max": 18,
 	"name": "First Year Seminar",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "L 515",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "L 515",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "L 515",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19941,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

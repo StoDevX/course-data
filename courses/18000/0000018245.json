@@ -1,21 +1,30 @@
 {
-	"clbid": 18245,
+	"clbid": "0000018245",
 	"credits": 1.0,
-	"crsid": 1881,
-	"departments": [
-		"FAMST"
-	],
-	"enroll": 46,
+	"crsid": "0000001881",
+	"department": "FAMST",
+	"enrolled": 46,
 	"instructors": [
 		"Rebecca A. Benedict"
 	],
 	"level": 200,
-	"locations": [
-		"H 317"
-	],
 	"max": 40,
 	"name": "Human Nutrition",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "H 317",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "H 317",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

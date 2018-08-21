@@ -1,15 +1,12 @@
 {
-	"clbid": 115891,
+	"clbid": "0000115891",
 	"credits": 1.0,
-	"crsid": 1220,
-	"departments": [
-		"ASIAN",
-		"REL"
-	],
+	"crsid": "0000001220",
+	"department": "AS/RE",
 	"description": [
 		"This course, surveying the general nature and assumptions of Hindu thought, focuses on the diversity of doctrines and practices within some of its major traditions. Students analyze selections from authoritative Sanskrit texts like the Upanishads and Bhagavad-gita, directing special attention to the central issues and developments in Hindu-Christian dialogue."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,13 +14,23 @@
 		"Anantanand Rambachan"
 	],
 	"level": 200,
-	"locations": [
-		"OM 210",
-		"OM 210"
-	],
 	"max": 24,
 	"name": "Hinduism",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 210",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 210",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,10 +59,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

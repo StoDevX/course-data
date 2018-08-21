@@ -1,24 +1,51 @@
 {
-	"clbid": 58872,
+	"clbid": "0000058872",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001142",
+	"department": "PSCI",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"instructors": [
 		"Jonathan Peterson"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 101"
-	],
 	"max": 30,
 	"name": "Top: Political Psychology",
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "BMC 101",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "BMC 101",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "BMC 101",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "BMC 101",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "BMC 101",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +63,6 @@
 	"semester": 2,
 	"status": "O",
 	"term": 20072,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"title": "Topics in Political Science",
 	"type": "Topic",
 	"year": 2007

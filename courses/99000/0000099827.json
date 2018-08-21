@@ -1,22 +1,25 @@
 {
-	"clbid": 99827,
+	"clbid": "0000099827",
 	"credits": 0.0,
-	"crsid": 188,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 21,
-	"groupid": 187,
+	"crsid": "0000000188",
+	"department": "CHEM",
+	"enrolled": 21,
+	"groupid": "0000000187",
 	"instructors": [
 		"Adam Dittmer"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 26,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "RNS 350",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"F 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

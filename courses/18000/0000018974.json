@@ -1,21 +1,24 @@
 {
-	"clbid": 18974,
+	"clbid": "0000018974",
 	"credits": 0.0,
-	"crsid": 1536,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000001536",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 227"
-	],
 	"max": 20,
 	"name": "Cell Physiology/Lab",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "SC 227",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

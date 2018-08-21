@@ -1,21 +1,36 @@
 {
-	"clbid": 5106,
+	"clbid": "0000005106",
 	"credits": 1.0,
-	"crsid": 715,
-	"departments": [
-		"LATIN"
-	],
-	"enroll": 11,
+	"crsid": "0000000715",
+	"department": "LATIN",
+	"enrolled": 11,
 	"instructors": [
 		"Jon Bruss"
 	],
 	"level": 200,
-	"locations": [
-		"OM 003"
-	],
 	"max": 999,
 	"name": "Vergil & Latin Epic",
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 003",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 003",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 003",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

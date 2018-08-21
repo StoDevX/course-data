@@ -1,21 +1,36 @@
 {
-	"clbid": 5219,
+	"clbid": "0000005219",
 	"credits": 1.0,
-	"crsid": 934,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 2,
+	"crsid": "0000000934",
+	"department": "NORW",
+	"enrolled": 2,
 	"instructors": [
 		"Anne G. Sabo"
 	],
 	"level": 300,
-	"locations": [
-		"OM 011"
-	],
 	"max": 999,
 	"name": "Norsk Lit Etter 1890",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "OM 011",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "OM 011",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "OM 011",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 1490,
+	"clbid": "0000001490",
 	"credits": 1.0,
-	"crsid": 994,
-	"departments": [
-		"PHIL"
-	],
-	"enroll": 15,
+	"crsid": "0000000994",
+	"department": "PHIL",
+	"enrolled": 15,
 	"instructors": [
 		"Charles Taliaferro"
 	],
 	"level": 300,
-	"locations": [
-		"H 515"
-	],
 	"max": 15,
 	"name": "Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 515",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2000
 }

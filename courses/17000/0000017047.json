@@ -1,21 +1,30 @@
 {
-	"clbid": 17047,
+	"clbid": "0000017047",
 	"credits": 1.0,
-	"crsid": 1745,
-	"departments": [
-		"FREN"
-	],
-	"enroll": 8,
+	"crsid": "0000001745",
+	"department": "FREN",
+	"enrolled": 8,
 	"instructors": [
 		"Mary Cisar"
 	],
 	"level": 300,
-	"locations": [
-		"M 26"
-	],
 	"max": 999,
 	"name": "Fr Lit 18th Century",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "M 26",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "M 26",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 120566,
+	"clbid": "0000120566",
 	"credits": 1.0,
-	"crsid": 738,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000738",
+	"department": "MATH",
 	"description": [
 		"This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Offered each semester. Prerequisites: MATH 126 or MATH 128, and MATH 220."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Chassidy S. Bozeman"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 20,
 	"name": "Multivariable Calc",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 126 or MATH 128, and MATH 220.",
 	"revisions": [
@@ -55,15 +70,30 @@
 			"_updated": "2018-08-07T14:48:48.981781+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.146284+00:00",
+			"clbid": 120566,
+			"crsid": 738,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Multivariable Calculus",
 	"type": "Research",
 	"year": 2018

@@ -1,21 +1,36 @@
 {
-	"clbid": 3469,
+	"clbid": "0000003469",
 	"credits": 1.0,
-	"crsid": 1196,
-	"departments": [
-		"REL"
-	],
-	"enroll": 28,
+	"crsid": "0000001196",
+	"department": "REL",
+	"enrolled": 28,
 	"instructors": [
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [
-		"CH 101"
-	],
 	"max": 25,
 	"name": "Chr Theol/Human Exist",
 	"number": 208,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CH 101",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2001
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 3988,
+	"clbid": "0000003988",
 	"credits": 1.0,
-	"crsid": 527,
-	"departments": [
-		"GERM"
-	],
-	"enroll": 11,
+	"crsid": "0000000527",
+	"department": "GERM",
+	"enrolled": 11,
 	"instructors": [
 		"Frederike Von Schwerin-High"
 	],
 	"level": 300,
-	"locations": [
-		"M 35",
-		"M 35"
-	],
 	"max": 999,
 	"name": "German Short Story",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "M 35",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "M 35",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

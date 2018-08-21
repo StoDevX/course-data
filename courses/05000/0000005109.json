@@ -1,22 +1,30 @@
 {
-	"clbid": 5109,
+	"clbid": "0000005109",
 	"credits": 1.0,
-	"crsid": 728,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 29,
+	"crsid": "0000000728",
+	"department": "MATH",
+	"enrolled": 29,
 	"instructors": [
 		"James Halverson"
 	],
 	"level": 100,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 30,
 	"name": "Gateways/Mathematics",
 	"number": 117,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

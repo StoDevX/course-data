@@ -1,21 +1,36 @@
 {
-	"clbid": 9931,
+	"clbid": "0000009931",
 	"credits": 1.0,
-	"crsid": 1309,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 11,
+	"crsid": "0000001309",
+	"department": "SOAN",
+	"enrolled": 11,
 	"instructors": [
 		"Carolyn Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"OM 011"
-	],
 	"max": 25,
 	"name": "Indigenous Peoples",
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "OM 011",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2004
 }

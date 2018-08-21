@@ -1,22 +1,25 @@
 {
-	"clbid": 75009,
+	"clbid": "0000075009",
 	"credits": 0.0,
-	"crsid": 1162,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 18,
-	"groupid": 1161,
+	"crsid": "0000001162",
+	"department": "PSYCH",
+	"enrolled": 18,
+	"groupid": "0000001161",
 	"instructors": [
 		"Shelly D. Dickinson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 16,
 	"name": "Condition & Learning Lab",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "13:45",
+			"location": "RNS 123",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"W 1145-0145PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

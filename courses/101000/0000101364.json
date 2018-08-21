@@ -1,14 +1,12 @@
 {
-	"clbid": 101364,
+	"clbid": "0000101364",
 	"credits": 1.0,
-	"crsid": 731,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000731",
+	"department": "MATH",
 	"description": [
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester. Prerequisite: mathematics placement recommendation."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Matthew Richey"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 204"
-	],
 	"max": 24,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 204",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation.",
 	"revisions": [
@@ -60,9 +75,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2015
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 63203,
+	"clbid": "0000063203",
 	"credits": 1.0,
-	"crsid": 971,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000971",
+	"department": "PHIL",
 	"description": [
 		"This course examines the development of Western philosophy in the 17th and 18th centuries. Students explore the historical foundations of central issues in metaphysics and epistemology in the works of such thinkers as Descartes, Pascal, Hobbes, Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant. Topics may include conceptions of God, freedom, knowledge and skepticism, the nature of ideas, and the foundations of modern science. Prerequisite: One course in philosophy or consent of instructor. Offered every year."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"HWC",
 		"WRI"
@@ -17,13 +15,23 @@
 		"Jeanine Grenberg"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
 	"max": 17,
 	"name": "Modern Philosophy",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "One course in philosophy or consent of instructor. Offered every year.",
 	"revisions": [
@@ -45,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20083,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "History of Modern Philosophy",
 	"type": "Research",
 	"year": 2008

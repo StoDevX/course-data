@@ -1,27 +1,42 @@
 {
-	"clbid": 115906,
+	"clbid": "0000115906",
 	"credits": 1.0,
-	"crsid": 296,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000296",
+	"department": "CSCI",
 	"description": [
 		"This course examines the features of modern operating systems, including detailed consideration of Linux and other example systems. Projects range from system-level programming and multithreaded network programming to kernel modifications. Topics include operating system principles, implementation as system calls, process scheduling and dispatch, concurrency, inter-process communication, programming with threads and sockets, low-level memory management, device management, file systems, security and protection mechanisms, virtual machines, and kernel programming. Offered alternate years. Counts toward management studies concentration. Prerequisites: completion of or concurrent enrollment in CSCI 241 and CSCI 251, or permission of instructor."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"instructors": [
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 202"
-	],
 	"max": 25,
 	"name": "Operating Systems",
 	"notes": [
 		"Prerequisite: CSCI 251; Corequisite: CSCI 241."
 	],
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 202",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 202",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 202",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: completion of or concurrent enrollment in CSCI 241 and CSCI 251, or permission of instructor.",
 	"revisions": [
@@ -53,9 +68,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -1,22 +1,42 @@
 {
-	"clbid": 39,
+	"clbid": "0000000039",
 	"credits": 1.0,
-	"crsid": 102,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 24,
+	"crsid": "0000000102",
+	"department": "BIO",
+	"enrolled": 24,
 	"instructors": [
 		"Daniel Meinhardt"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280",
-		"SC 253"
-	],
 	"max": 24,
 	"name": "Human Biology",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SC 253",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20001,
-	"times": [
-		"MWF 0905-1000",
-		"Th 0800-1000"
-	],
 	"type": "Research",
 	"year": 2000
 }

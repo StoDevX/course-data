@@ -1,14 +1,12 @@
 {
-	"clbid": 115219,
+	"clbid": "0000115219",
 	"credits": 1.0,
-	"crsid": 441,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000441",
+	"department": "ENGL",
 	"description": [
 		"Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: completion of ENGL 293 or permission of the instructor."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Jeremy Nagamatsu"
 	],
 	"level": 300,
-	"locations": [
-		"RML 520",
-		"RML 520"
-	],
 	"max": 15,
 	"name": "Advanced Fiction Wrtg",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 520",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 520",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: completion of ENGL 293 or permission of the instructor.",
 	"revisions": [
@@ -48,10 +56,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Advanced Fiction Writing Workshop",
 	"type": "Research",
 	"year": 2017

@@ -1,22 +1,31 @@
 {
-	"clbid": 25690,
+	"clbid": "0000025690",
 	"credits": 0.5,
-	"crsid": 1053,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 9,
+	"crsid": "0000001053",
+	"department": "PETH",
+	"enrolled": 9,
 	"halfcredit": "2",
 	"instructors": [
 		"William Sean Goldsworthy"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 140"
-	],
 	"max": 30,
 	"name": "Biomechanics in Coach",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC 140",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SAC 140",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1999
 }

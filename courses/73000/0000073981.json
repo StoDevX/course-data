@@ -1,22 +1,25 @@
 {
-	"clbid": 73981,
+	"clbid": "0000073981",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 22,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 22,
+	"groupid": "0000000194",
 	"instructors": [
 		"Gary Miessler"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 22,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "18:00",
+			"location": "RNS 355",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"Th 0300-0600PM"
-	],
 	"type": "Lab",
 	"year": 2010
 }

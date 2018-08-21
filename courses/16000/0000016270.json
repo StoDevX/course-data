@@ -1,21 +1,30 @@
 {
-	"clbid": 16270,
+	"clbid": "0000016270",
 	"credits": 0.25,
-	"crsid": 1021,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 6,
+	"crsid": "0000001021",
+	"department": "PEAC",
+	"enrolled": 6,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"COURTS"
-	],
 	"max": 8,
 	"name": "Racquetball (Men)",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "COURTS",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "COURTS",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

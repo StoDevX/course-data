@@ -1,14 +1,12 @@
 {
-	"clbid": 96313,
+	"clbid": "0000096313",
 	"credits": 1.0,
-	"crsid": 975,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000975",
+	"department": "PHIL",
 	"description": [
 		"Using examples from the natural sciences, this course examines fundamental concepts of science, including scientific method, the nature of scientific theories and hypotheses, objectivity in data collection and analysis, the use of technology in making observations, confirmation versus falsification, and explanation versus prediction. To illustrate why non-scientists need to understand scientific practice the course also considers controversies such as global warming and intelligent design. Offered annually."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"IST",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Arthur Cunningham"
 	],
 	"level": 200,
-	"locations": [
-		"HH 516"
-	],
 	"max": 18,
 	"name": "Philosophy of Science",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 516",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 516",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 516",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,9 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

@@ -1,21 +1,30 @@
 {
-	"clbid": 1889,
+	"clbid": "0000001889",
 	"credits": 1.0,
-	"crsid": 42,
-	"departments": [
-		"ART"
-	],
-	"enroll": 8,
+	"crsid": "0000000042",
+	"department": "ART",
+	"enrolled": 8,
 	"instructors": [
 		"Patrick T. Kelley"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 100"
-	],
 	"max": 15,
 	"name": "Motion Graphics",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 100",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "CAD 100",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20011,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

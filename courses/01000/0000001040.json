@@ -1,22 +1,36 @@
 {
-	"clbid": 1040,
+	"clbid": "0000001040",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 15,
+	"crsid": "0000000122",
+	"department": "BIO",
+	"enrolled": 15,
 	"instructors": [
 		"Heidi Chial"
 	],
 	"level": 200,
-	"locations": [
-		"SC 280",
-		"SC 229"
-	],
 	"max": 17,
 	"name": "Intermediate Genetics",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 280",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 280",
+			"start": "11:45"
+		},
+		{
+			"day": "We",
+			"end": "13:45",
+			"location": "SC 229",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"TTh 1145-0110PM",
-		"W 1045-0145PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 4719,
+	"clbid": "0000004719",
 	"credits": 0.5,
-	"crsid": 22,
-	"departments": [
-		"ART"
-	],
-	"enroll": 16,
+	"crsid": "0000000022",
+	"department": "ART",
+	"enrolled": 16,
 	"instructors": [
 		"Irve Dell"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 106",
-		"CAD 106"
-	],
 	"max": 18,
 	"name": "Foundation Sculpture",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 106",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 106",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

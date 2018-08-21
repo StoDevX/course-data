@@ -1,21 +1,36 @@
 {
-	"clbid": 16135,
+	"clbid": "0000016135",
 	"credits": 1.0,
-	"crsid": 1945,
-	"departments": [
-		"MATH"
-	],
-	"enroll": 12,
+	"crsid": "0000001945",
+	"department": "MATH",
+	"enrolled": 12,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 20,
 	"name": "Multivariable Analy",
 	"number": 228,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "SC 182",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

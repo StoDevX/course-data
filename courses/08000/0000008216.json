@@ -1,23 +1,49 @@
 {
-	"clbid": 8216,
+	"clbid": "0000008216",
 	"credits": 1.0,
-	"crsid": 949,
-	"departments": [
-		"NURS"
-	],
-	"enroll": 20,
+	"crsid": "0000000949",
+	"department": "NURS",
+	"enrolled": 20,
 	"instructors": [
 		"Carol H. Austin",
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"HH 215",
-		"HH 215"
-	],
 	"max": 20,
 	"name": "Application/Nurs Conc",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "HH 215",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "HH 215",
+			"start": "07:30"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "HH 215",
+			"start": "07:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +61,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"MWF 1045-1140",
-		"TTh 0730-0100PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

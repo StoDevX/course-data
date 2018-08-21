@@ -1,21 +1,36 @@
 {
-	"clbid": 18712,
+	"clbid": "0000018712",
 	"credits": 1.0,
-	"crsid": 1377,
-	"departments": [
-		"THEAT"
-	],
-	"enroll": 13,
+	"crsid": "0000001377",
+	"department": "THEAT",
+	"enrolled": 13,
 	"instructors": [
 		"Michael Maguire"
 	],
 	"level": 100,
-	"locations": [
-		"SPT 216"
-	],
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SPT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SPT 216",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SPT 216",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1995
 }

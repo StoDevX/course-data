@@ -1,25 +1,33 @@
 {
-	"clbid": 49269,
+	"clbid": "0000049269",
 	"credits": 1.0,
-	"crsid": 1153,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001153",
+	"department": "PSCI",
 	"description": [
 		"Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Katherine S. Tegtmeyer Pak"
 	],
 	"level": 300,
-	"locations": [
-		"OM 011",
-		"OM 011"
-	],
 	"max": 0,
 	"name": "Sem: Immigrat & Citizen",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 011",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 011",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Seminar",
 	"type": "Seminar",
 	"year": 2005

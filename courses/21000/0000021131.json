@@ -1,22 +1,42 @@
 {
-	"clbid": 21131,
+	"clbid": "0000021131",
 	"credits": 1.0,
-	"crsid": 106,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 23,
+	"crsid": "0000000106",
+	"department": "BIO",
+	"enrolled": 23,
 	"instructors": [
 		"Kristen Pritchard"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 278",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "17:30",
+			"location": "SC 273",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"MWF 0905-1000",
-		"Th 0300-0530PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 122140,
+	"clbid": "0000122140",
 	"credits": 1.0,
-	"crsid": 21510,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000021510",
+	"department": "ENGL",
 	"description": [
 		"In addition to the traditional practices of literary study, cross-disciplinary courses include materials from at least one other academic discipline, requiring students to compare and combine disciplinary perspectives in literary analysis. Examples of courses taught under this heading might include Literature and Politics; Religion and the Novel; Philosophical Approaches to Literature. May be repeated if topic is different. Click on course title in the class and lab for more information about the course for that term. Prerequisite: FYW."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Sean F. Ward"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 19,
 	"name": "Top: Lit and Capitalism",
 	"number": 260,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:49.837112+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.997865+00:00",
+			"clbid": 122140,
+			"crsid": 21510,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Topics in Cross-Disciplinary Literary Study",
 	"type": "Topic",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 102576,
+	"clbid": "0000102576",
 	"credits": 1.0,
-	"crsid": 23461,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000023461",
+	"department": "ASIAN",
 	"description": [
 		"The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Prerequisites to be determined by instructor."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"gereqs": [
 		"MCG"
 	],
@@ -17,12 +15,41 @@
 		"Ying Zhou"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 310"
-	],
 	"max": 999,
 	"name": "Top: E Asian Lang/Teach/Le",
 	"number": 200,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "TOH 310",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "TOH 310",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "TOH 310",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "TOH 310",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "TOH 310",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites to be determined by instructor.",
 	"revisions": [
@@ -44,9 +71,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20144,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"title": "Topics in Asian Studies",
 	"type": "Topic",
 	"year": 2014

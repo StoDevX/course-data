@@ -1,14 +1,12 @@
 {
-	"clbid": 72698,
+	"clbid": "0000072698",
 	"credits": 1.0,
-	"crsid": 541,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000541",
+	"department": "GREEK",
 	"description": [
 		"Third-semester Greek students read selections from Plato's dialogues (Apology, Crito, Phaedo) in uncut, original versions, reviewing basic vocabulary, grammar, and syntax while translating the Greek texts. The class discusses the life and death of Socrates and the significance of the dialogues as works of literature. Prerequisite: Greek 112 or equivalent. Offered annually in the fall semester."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"FOL-K"
 	],
@@ -16,12 +14,29 @@
 		"Lawrence J. Myer"
 	],
 	"level": 200,
-	"locations": [
-		"OM 003"
-	],
 	"max": 18,
 	"name": "Intermediate Greek",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "OM 003",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "OM 003",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "OM 003",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Greek 112 or equivalent. Offered annually in the fall semester.",
 	"revisions": [
@@ -43,9 +58,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20101,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

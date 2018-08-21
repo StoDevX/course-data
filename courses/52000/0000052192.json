@@ -1,25 +1,33 @@
 {
-	"clbid": 52192,
+	"clbid": "0000052192",
 	"credits": 1.0,
-	"crsid": 16235,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000016235",
+	"department": "MATH",
 	"description": [
 		"Modern mathematics is characterized by the interaction of theoretical and computational techniques. In this course, students study topics from pure and applied mathematics with the aid of computation, utilizing symbolical, graphical, and numerical computational techniques. Students develop computational skills sufficient to investigate mathematical questions independently. No previous programming experience is required. Prerequisite: Linear Algebra."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"instructors": [
 		"Matthew Richey"
 	],
 	"level": 200,
-	"locations": [
-		"SC 186",
-		"SC 186"
-	],
 	"max": 25,
 	"name": "Modern Computational Math",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 186",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Linear Algebra.",
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Modern Computational Mathematics",
 	"type": "Research",
 	"year": 2006

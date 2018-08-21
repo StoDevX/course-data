@@ -1,21 +1,30 @@
 {
-	"clbid": 18321,
+	"clbid": "0000018321",
 	"credits": 1.0,
-	"crsid": 1976,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 31,
+	"crsid": "0000001976",
+	"department": "MUSIC",
+	"enrolled": 31,
 	"instructors": [
 		"Gloria J. Kiester"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233"
-	],
 	"max": 999,
 	"name": "Asian Music",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"TTh 0935-1100"
-	],
 	"type": "Research",
 	"year": 1995
 }

@@ -1,22 +1,30 @@
 {
-	"clbid": 9302,
+	"clbid": "0000009302",
 	"credits": 1.0,
-	"crsid": 279,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 9,
+	"crsid": "0000000279",
+	"department": "ECON",
+	"enrolled": 9,
 	"instructors": [
 		"Terry J. Fitzgerald"
 	],
 	"level": 300,
-	"locations": [
-		"HH 515",
-		"HH 515"
-	],
 	"max": 20,
 	"name": "Money and Banking",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 515",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 515",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2004
 }

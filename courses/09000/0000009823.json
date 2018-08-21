@@ -1,21 +1,24 @@
 {
-	"clbid": 9823,
+	"clbid": "0000009823",
 	"credits": 1.0,
-	"crsid": 1143,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 18,
+	"crsid": "0000001143",
+	"department": "PSCI",
+	"enrolled": 18,
 	"instructors": [
 		"Roudy W. Hildreth"
 	],
 	"level": 300,
-	"locations": [
-		"HH 302"
-	],
 	"max": 15,
 	"name": "Sem: American Politics",
 	"number": 311,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 302",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +36,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"type": "Seminar",
 	"year": 2004
 }

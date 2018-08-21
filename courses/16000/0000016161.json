@@ -1,21 +1,30 @@
 {
-	"clbid": 16161,
+	"clbid": "0000016161",
 	"credits": 0.25,
-	"crsid": 808,
-	"departments": [
-		"MUSIC"
-	],
-	"enroll": 9,
+	"crsid": "0000000808",
+	"department": "MUSIC",
+	"enrolled": 9,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 222",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 222",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

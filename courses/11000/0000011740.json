@@ -1,26 +1,34 @@
 {
-	"clbid": 11740,
+	"clbid": "0000011740",
 	"credits": 1.0,
-	"crsid": 159,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000159",
+	"department": "BIO",
 	"description": [
 		"Molecular biology techniques are bringing about a revolution in understanding living organisms. Students study the structure and function of macromolecules, methods currently used to clone and analyze genes and new insights into basic biological processes which these methods provide. The course uses lecture and discussion topics with one project-oriented 3-hour laboratory per week. Taught annually. Prerequisites: Biology 125 126 and 233."
 	],
-	"enroll": 15,
-	"groupid": 159,
+	"enrolled": 15,
+	"groupid": "0000000159",
 	"instructors": [
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 274"
-	],
 	"max": 12,
 	"name": "Molecular Biology",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 274",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 126 and 233.",
 	"revisions": [
@@ -38,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2005
 }

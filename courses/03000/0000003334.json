@@ -1,21 +1,36 @@
 {
-	"clbid": 3334,
+	"clbid": "0000003334",
 	"credits": 0.5,
-	"crsid": 1016,
-	"departments": [
-		"PEAC"
-	],
-	"enroll": 26,
+	"crsid": "0000001016",
+	"department": "PEAC",
+	"enrolled": 26,
 	"instructors": [
 		"Kenneth Pratt"
 	],
 	"level": 100,
-	"locations": [
-		"MFH WT RM"
-	],
 	"max": 24,
 	"name": "Wt Training Co-Ed .50",
 	"number": 140,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "MFH WT RM",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "MFH WT RM",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "MFH WT RM",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

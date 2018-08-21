@@ -1,24 +1,33 @@
 {
-	"clbid": 56667,
+	"clbid": "0000056667",
 	"credits": 0.25,
-	"crsid": 1014,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001014",
+	"department": "ESAC",
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in running and jogging to enhance personal fitness and training knowledge."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"instructors": [
 		"Craig D. Stern"
 	],
 	"level": 100,
-	"locations": [
-		"TC"
-	],
 	"max": 19,
 	"name": "Jogging/Running",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "TC",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:30",
+			"location": "TC",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,9 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20071,
-	"times": [
-		"TTh 0935-1030"
-	],
 	"type": "Research",
 	"year": 2007
 }

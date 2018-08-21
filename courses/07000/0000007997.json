@@ -1,22 +1,30 @@
 {
-	"clbid": 7997,
+	"clbid": "0000007997",
 	"credits": 1.0,
-	"crsid": 572,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 19,
+	"crsid": "0000000572",
+	"department": "HIST",
+	"enrolled": 19,
 	"instructors": [
 		"Dennis R. Hidalgo"
 	],
 	"level": 100,
-	"locations": [
-		"OM 031",
-		"OM 031"
-	],
 	"max": 19,
 	"name": "Top: Caribbean History",
 	"number": 189,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 031",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 031",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Topic",
 	"year": 2004
 }

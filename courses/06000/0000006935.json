@@ -1,22 +1,30 @@
 {
-	"clbid": 6935,
+	"clbid": "0000006935",
 	"credits": 1.0,
-	"crsid": 463,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 28,
+	"crsid": "0000000463",
+	"department": "ENVST",
+	"enrolled": 28,
 	"instructors": [
 		"Heather M. Brooks-Shirey"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Nature & Am Landscape",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "CAD 305",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CAD 305",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

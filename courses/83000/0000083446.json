@@ -1,14 +1,12 @@
 {
-	"clbid": 83446,
+	"clbid": "0000083446",
 	"credits": 1.0,
-	"crsid": 1374,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001374",
+	"department": "THEAT",
 	"description": [
 		"This performance course is designed to develop a student's understanding, analysis, and presentation of poetry, drama, and prose. Offered annually."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"gereqs": [
 		"ALS-A",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Karen Wilson"
 	],
 	"level": 100,
-	"locations": [
-		"TB 227"
-	],
 	"max": 18,
 	"name": "Oral Interpretation",
 	"number": 100,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TB 227",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

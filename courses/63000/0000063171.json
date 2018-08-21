@@ -1,14 +1,12 @@
 {
-	"clbid": 63171,
+	"clbid": "0000063171",
 	"credits": 1.0,
-	"crsid": 289,
-	"departments": [
-		"CSCI"
-	],
+	"crsid": "0000000289",
+	"department": "CSCI",
 	"description": [
 		"Students learn mathematical topics that form an essential background for the study of computer science, including functions, relations, basic logic, predicate calculus and formal reasoning, verification of programs, proof techniques, basics of counting, graphs and trees, discrete probability, and introduction to computability. Prerequisites: Computer Science 121 or 225 or permission of instructor. Students with especially weak or especially strong mathematics backgrounds should consult with the program director."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,12 +14,29 @@
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203"
-	],
 	"max": 30,
 	"name": "Math Found Computing",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 203",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Computer Science 121 or 225 or permission of instructor. Students with especially weak or especially strong mathematics backgrounds should consult with the program director.",
 	"revisions": [
@@ -39,9 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Mathematical Foundations of Computing",
 	"type": "Research",
 	"year": 2008

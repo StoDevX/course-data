@@ -1,15 +1,12 @@
 {
-	"clbid": 115468,
+	"clbid": "0000115468",
 	"credits": 1.0,
-	"crsid": 1135,
-	"departments": [
-		"ENVST",
-		"PSCI"
-	],
+	"crsid": "0000001135",
+	"department": "ES/PS",
 	"description": [
 		"Analysis of environmental policy includes the politics of agenda setting, policy selection and program implementation, and the effects of policy outcomes. Offered annually. Counts toward American studies major and management studies concentration."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"HBS"
 	],
@@ -17,13 +14,23 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"HH 433",
-		"HH 433"
-	],
 	"max": 25,
 	"name": "Environmental Politics",
 	"number": 276,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 433",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 433",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,10 +61,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -1,21 +1,24 @@
 {
-	"clbid": 16814,
+	"clbid": "0000016814",
 	"credits": 0.0,
-	"crsid": 129,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000000129",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SC 269"
-	],
 	"max": 12,
 	"name": "Animal Physiology/Lab",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 269",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +37,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19951,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 1995
 }

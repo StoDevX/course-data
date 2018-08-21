@@ -1,21 +1,36 @@
 {
-	"clbid": 26318,
+	"clbid": "0000026318",
 	"credits": 1.0,
-	"crsid": 278,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 16,
+	"crsid": "0000000278",
+	"department": "ECON",
+	"enrolled": 16,
 	"instructors": [
 		"Rebecca Judge"
 	],
 	"level": 300,
-	"locations": [
-		"M 31"
-	],
 	"max": 20,
 	"name": "Econ of Public Policy",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 31",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 31",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 31",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +48,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

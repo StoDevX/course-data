@@ -1,14 +1,12 @@
 {
-	"clbid": 121696,
+	"clbid": "0000121696",
 	"credits": 1.0,
-	"crsid": 542,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000542",
+	"department": "GREEK",
 	"description": [
 		"The New Testament is the most famous and most widely translated Greek text from antiquity. Students have the opportunity to read one or more of the Gospels, the Acts of the Apostles, or selected Pauline letters in the original language. Questions about the transmission of the text and about its theological implications provoke lively discussions. Offered annually in the spring semester. Counts toward ancient studies major. Counts toward linguistic studies concentration. Prerequisite: GREEK 231 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"FOL-K"
@@ -17,12 +15,29 @@
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 10,
 	"name": "New Testament Greek",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GREEK 231 or equivalent.",
 	"revisions": [
@@ -35,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:49.767929+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.828087+00:00",
+			"clbid": 121696,
+			"crsid": 542,
+			"department": null,
+			"departments": [
+				"GREEK"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

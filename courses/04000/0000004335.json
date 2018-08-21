@@ -1,22 +1,42 @@
 {
-	"clbid": 4335,
+	"clbid": "0000004335",
 	"credits": 1.0,
-	"crsid": 1259,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 9,
+	"crsid": "0000001259",
+	"department": "RUSSN",
+	"enrolled": 9,
 	"instructors": [
 		"Irina Walter"
 	],
 	"level": 100,
-	"locations": [
-		"M 2",
-		"M 1"
-	],
 	"max": 999,
 	"name": "Beginning Russian I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "M 2",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "M 2",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "M 2",
+			"start": "14:00"
+		},
+		{
+			"day": "Tu",
+			"end": "14:55",
+			"location": "M 1",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20021,
-	"times": [
-		"MWF 0200-0255PM",
-		"T 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

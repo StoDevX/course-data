@@ -1,23 +1,32 @@
 {
-	"clbid": 97422,
+	"clbid": "0000097422",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 7,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 7,
+	"groupid": "0000026649",
 	"grouptype": "R",
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 999,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +44,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20134,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

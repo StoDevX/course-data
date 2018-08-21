@@ -1,22 +1,42 @@
 {
-	"clbid": 9779,
+	"clbid": "0000009779",
 	"credits": 1.0,
-	"crsid": 1060,
-	"departments": [
-		"PETH"
-	],
-	"enroll": 12,
+	"crsid": "0000001060",
+	"department": "PETH",
+	"enrolled": 12,
 	"instructors": [
 		"Gary Wicks"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103",
-		"SAC 103"
-	],
 	"max": 24,
 	"name": "Motor Learning",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SAC 103",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20043,
-	"times": [
-		"MWF 1255-0150PM",
-		"Th 1245-0245PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

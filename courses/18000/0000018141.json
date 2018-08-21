@@ -1,21 +1,36 @@
 {
-	"clbid": 18141,
+	"clbid": "0000018141",
 	"credits": 1.0,
-	"crsid": 413,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 14,
+	"crsid": "0000000413",
+	"department": "ENGL",
+	"enrolled": 14,
 	"instructors": [
 		"Mark Allister"
 	],
 	"level": 200,
-	"locations": [
-		"L 520"
-	],
 	"max": 18,
 	"name": "Expository Writing",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "L 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19953,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 1995
 }

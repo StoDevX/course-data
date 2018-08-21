@@ -1,22 +1,30 @@
 {
-	"clbid": 9389,
+	"clbid": "0000009389",
 	"credits": 1.0,
-	"crsid": 392,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 27,
+	"crsid": "0000000392",
+	"department": "ENGL",
+	"enrolled": 27,
 	"instructors": [
 		"Eliot K. Wilson"
 	],
 	"level": 100,
-	"locations": [
-		"RML 421",
-		"RML 421"
-	],
 	"max": 21,
 	"name": "Literary Studies",
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 421",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 421",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

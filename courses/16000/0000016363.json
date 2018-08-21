@@ -1,21 +1,30 @@
 {
-	"clbid": 16363,
+	"clbid": "0000016363",
 	"credits": 1.0,
-	"crsid": 1147,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 28,
+	"crsid": "0000001147",
+	"department": "PSCI",
+	"enrolled": 28,
 	"instructors": [
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"H 302"
-	],
 	"max": 25,
 	"name": "Am Const Law/Limitat",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 302",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

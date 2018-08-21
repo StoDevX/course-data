@@ -1,22 +1,30 @@
 {
-	"clbid": 4987,
+	"clbid": "0000004987",
 	"credits": 1.0,
-	"crsid": 462,
-	"departments": [
-		"ENVST"
-	],
-	"enroll": 30,
+	"crsid": "0000000462",
+	"department": "ENVST",
+	"enrolled": 30,
 	"instructors": [
 		"Rachel Shaw"
 	],
 	"level": 200,
-	"locations": [
-		"SC 188",
-		"SC 188"
-	],
 	"max": 28,
 	"name": "Saving Wild Places",
 	"number": 259,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 188",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 188",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

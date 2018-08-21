@@ -1,21 +1,30 @@
 {
-	"clbid": 26454,
+	"clbid": "0000026454",
 	"credits": 1.0,
-	"crsid": 499,
-	"departments": [
-		"GEOG"
-	],
-	"enroll": 23,
+	"crsid": "0000000499",
+	"department": "GEOG",
+	"enrolled": 23,
 	"instructors": [
 		"Richard Dunning"
 	],
 	"level": 200,
-	"locations": [
-		"SC 182"
-	],
 	"max": 35,
 	"name": "Human Geography",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 182",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "SC 182",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19993,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

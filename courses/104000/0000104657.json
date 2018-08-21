@@ -1,22 +1,25 @@
 {
-	"clbid": 104657,
+	"clbid": "0000104657",
 	"credits": 0.0,
-	"crsid": 17307,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 27,
-	"groupid": 181,
+	"crsid": "0000017307",
+	"department": "CHEM",
+	"enrolled": 27,
+	"groupid": "0000000181",
 	"instructors": [
 		"William P. Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 24,
 	"name": "Forensic Science Lab",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 355",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +41,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 1145-0245PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

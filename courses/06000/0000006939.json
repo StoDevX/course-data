@@ -1,22 +1,30 @@
 {
-	"clbid": 6939,
+	"clbid": "0000006939",
 	"credits": 1.0,
-	"crsid": 470,
-	"departments": [
-		"IDFA"
-	],
-	"enroll": 8,
+	"crsid": "0000000470",
+	"department": "IDFA",
+	"enrolled": 8,
 	"instructors": [
 		"Susan Bauer"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 233",
-		"CHM 233"
-	],
 	"max": 10,
 	"name": "Perspective-The Arts",
 	"number": 274,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 233",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 233",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2003
 }

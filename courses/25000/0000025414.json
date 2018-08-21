@@ -1,22 +1,36 @@
 {
-	"clbid": 25414,
+	"clbid": "0000025414",
 	"credits": 1.0,
-	"crsid": 424,
-	"departments": [
-		"ENGL"
-	],
-	"enroll": 31,
+	"crsid": "0000000424",
+	"department": "ENGL",
+	"enrolled": 31,
 	"instructors": [
 		"Diana Postlethwaite"
 	],
 	"level": 200,
-	"locations": [
-		"L 525",
-		"FH 01"
-	],
 	"max": 32,
 	"name": "Literature & Film",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "L 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "L 525",
+			"start": "11:45"
+		},
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "FH 01",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +48,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19991,
-	"times": [
-		"TTh 1145-0110PM",
-		"M 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 1999
 }

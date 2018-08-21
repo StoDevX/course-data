@@ -1,22 +1,60 @@
 {
-	"clbid": 3639,
+	"clbid": "0000003639",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 8,
+	"crsid": "0000001072",
+	"department": "PHYS",
+	"enrolled": 8,
 	"instructors": [
 		"Richard Thomas"
 	],
 	"level": 100,
-	"locations": [
-		"SC 170",
-		"SC 111"
-	],
 	"max": 999,
 	"name": "Principles Physics I",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "SC 170",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "SC 170",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "SC 170",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "SC 170",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "SC 170",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 111",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "SC 111",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +72,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20014,
-	"times": [
-		"M-F 1000-1130",
-		"WTh 0100-0400PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

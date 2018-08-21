@@ -1,22 +1,30 @@
 {
-	"clbid": 5047,
+	"clbid": "0000005047",
 	"credits": 1.0,
-	"crsid": 582,
-	"departments": [
-		"HIST"
-	],
-	"enroll": 30,
+	"crsid": "0000000582",
+	"department": "HIST",
+	"enrolled": 30,
 	"instructors": [
 		"Rosemary Moore"
 	],
 	"level": 200,
-	"locations": [
-		"HH 501",
-		"HH 501"
-	],
 	"max": 35,
 	"name": "Ancient Rome",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 501",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2002
 }

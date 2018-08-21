@@ -1,22 +1,30 @@
 {
-	"clbid": 4862,
+	"clbid": "0000004862",
 	"credits": 1.0,
-	"crsid": 267,
-	"departments": [
-		"ECON"
-	],
-	"enroll": 7,
+	"crsid": "0000000267",
+	"department": "ECON",
+	"enrolled": 7,
 	"instructors": [
 		"Rebecca Judge"
 	],
 	"level": 200,
-	"locations": [
-		"OM 004",
-		"OM 004"
-	],
 	"max": 30,
 	"name": "Environmental Econ",
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 004",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 004",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }
