@@ -12,16 +12,26 @@
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 32,
 	"name": "Analytical Chem",
 	"notes": [
 		"Students in Chem 255 must also register for Chem 256 AL or BL."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 310",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 310",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126 or Chemistry/Biology 127 or permission of the instructor. Concurrent registration in Chemistry 256 is required. Offered each semester.",
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Analytical Chemistry",
 	"type": "Research",
 	"year": 2009

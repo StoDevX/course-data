@@ -15,16 +15,26 @@
 		"Jessica R. Petok"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190",
-		"RNS 190"
-	],
 	"max": 28,
 	"name": "Cognitive Psychology",
 	"notes": [
 		"Students in Psych 237 must also register for Psych 237 AL or BL."
 	],
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 190",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 190",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -67,10 +77,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

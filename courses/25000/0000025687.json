@@ -8,12 +8,17 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"SAC TR RM"
-	],
 	"max": 15,
 	"name": "Prev/Care Sport/Lab",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SAC TR RM",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19991,
-	"times": [
-		"M 0200-0300PM"
-	],
 	"type": "Lab",
 	"year": 1999
 }

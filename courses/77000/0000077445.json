@@ -14,13 +14,23 @@
 		"Jill Dietz"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 26,
 	"name": "Calculus I",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 290",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 290",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation. Offered each semester.",
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20111,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

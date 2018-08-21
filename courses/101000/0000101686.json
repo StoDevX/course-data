@@ -11,16 +11,26 @@
 		"David R. Koenig"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 410",
-		"RNS 410"
-	],
 	"max": 30,
 	"name": "Investments",
 	"notes": [
 		"Open only to Seniors and Juniors."
 	],
 	"number": 380,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 410",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 410",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MGMT 281 and a statistics course, or permission of instructor.",
 	"revisions": [
@@ -59,10 +69,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

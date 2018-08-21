@@ -8,13 +8,29 @@
 		"Bruce B. Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"H 307",
-		"SC 280"
-	],
 	"max": 60,
 	"name": "Principles of Psych",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "H 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "H 307",
+			"start": "11:45"
+		},
+		{
+			"day": "Mo",
+			"end": "20:00",
+			"location": "SC 280",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +49,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19951,
-	"times": [
-		"TTh 1145-1240PM",
-		"M 0700-0800PM"
-	],
 	"type": "Research",
 	"year": 1995
 }

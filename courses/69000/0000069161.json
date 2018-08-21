@@ -14,13 +14,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 112",
-		"SAC 112"
-	],
 	"max": 30,
 	"name": "Nutrition & Wellness",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC 112",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC 112",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "High school biology and chemistry strongly recommended. Offered annually during Interim and in the Spring Semester.",
 	"revisions": [
@@ -42,10 +52,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Nutrition and Wellness",
 	"type": "Research",
 	"year": 2009

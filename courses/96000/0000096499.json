@@ -14,13 +14,23 @@
 		"Paul J. Roback"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Modeling",
 	"number": 272,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 182",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 182",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "STAT 110, STAT 212, or STAT 214, or ECON 263, or equivalent preparation, or permission of instructor.",
 	"revisions": [
@@ -48,10 +58,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2014
 }

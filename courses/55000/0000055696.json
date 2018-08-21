@@ -9,12 +9,29 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 204"
-	],
 	"max": 999,
 	"name": "Test Course 1",
 	"number": 301,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CAD 204",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CAD 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CAD 204",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2006
 }

@@ -8,14 +8,29 @@
 		"Daniel Hagen"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 112",
-		"SAC 112",
-		"SAC_TR_RM"
-	],
 	"max": 12,
 	"name": "Prev/Care Sport Injur",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC_TR_RM",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,11 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920",
-		"W 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

@@ -11,13 +11,23 @@
 		"Paul Zorn"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 20,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 220, and MATH 226 or MATH 244.",
 	"revisions": [
@@ -40,10 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

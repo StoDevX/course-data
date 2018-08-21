@@ -11,12 +11,23 @@
 		"Oleksandr Gakh"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 12,
 	"name": "Biochemistry II",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "09:30",
+			"location": "RNS 435",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:30",
+			"location": "RNS 435",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 379.",
 	"revisions": [
@@ -62,9 +73,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MW 0800-0930"
-	],
 	"type": "Research",
 	"year": 2017
 }

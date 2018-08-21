@@ -11,16 +11,26 @@
 		"Ryota Matsuura"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 212",
-		"TOH 212"
-	],
 	"max": 10,
 	"name": "Teaching of Mathematics, 5-12",
 	"notes": [
 		"Open to Juniors and Seniors only. Prerequisite: EDUC 330."
 	],
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 212",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 212",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -50,10 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2017
 }

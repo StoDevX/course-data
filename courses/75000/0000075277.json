@@ -12,16 +12,26 @@
 		"Peter J. Gittins"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 50,
 	"name": "Organic Chemistry II",
 	"notes": [
 		"Students in Chem 248 must also register for one Chem 254 lab."
 	],
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 310",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 310",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 247 or permission of instructor. Offered annually in the spring semester.",
 	"revisions": [
@@ -44,10 +54,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

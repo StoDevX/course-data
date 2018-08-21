@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"FH 18"
-	],
 	"max": 6,
 	"name": "Advanced Sculpture",
 	"number": 333,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "FH 18",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "FH 18",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1145-0245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

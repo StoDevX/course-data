@@ -8,13 +8,23 @@
 		"Monica Rudquist"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 115C",
-		"CAD 115C"
-	],
 	"max": 10,
 	"name": "Ceramics",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 115C",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 115C",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0335PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

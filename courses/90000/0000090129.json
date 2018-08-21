@@ -11,13 +11,23 @@
 		"Steven Amundson"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 140",
-		"CHM 140"
-	],
 	"max": 25,
 	"name": "Conducting",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 140",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 114 or permission of instructor. Offered annually in the spring semester.",
 	"revisions": [
@@ -40,10 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2013
 }

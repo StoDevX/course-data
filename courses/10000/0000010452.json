@@ -11,13 +11,23 @@
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_1",
-		"CAD _STUDIO_1"
-	],
 	"max": 15,
 	"name": "Ballroom I (Women)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD _STUDIO_1",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD _STUDIO_1",
+			"start": "09:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"title": "Ballroom I",
 	"type": "Research",
 	"year": 2005

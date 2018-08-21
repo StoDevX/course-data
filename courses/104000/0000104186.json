@@ -14,15 +14,32 @@
 		"Cynthia Book"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 14,
 	"name": "Exercise Science Seminar",
 	"notes": [
 		"Open only to seniors."
 	],
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 103",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "senior standing.",
 	"revisions": [
@@ -49,9 +66,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2015
 }

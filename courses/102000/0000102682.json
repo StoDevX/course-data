@@ -12,13 +12,23 @@
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 426",
-		"RNS 426"
-	],
 	"max": 10,
 	"name": "Suppl Inst Cell Biol",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:00",
+			"location": "RNS 426",
+			"start": "16:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 426",
+			"start": "09:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: concurrent enrollment in BIO 150 and permission of instructor.",
 	"revisions": [
@@ -47,10 +57,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"T 0400-0500PM",
-		"F 0905-1000"
-	],
 	"title": "Supplemental Biology",
 	"type": "Research",
 	"year": 2014

@@ -9,12 +9,23 @@
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 24,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 355",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 355",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,9 +56,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20174,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

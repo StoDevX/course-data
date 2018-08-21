@@ -9,12 +9,23 @@
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 999,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "16:00",
+			"location": "RNS 255",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20084,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2008
 }

@@ -8,13 +8,23 @@
 		"John Saurer"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 212",
-		"CAD 212"
-	],
 	"max": 16,
 	"name": "Printmkg: Relief/Litho",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 212",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 212",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

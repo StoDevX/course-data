@@ -13,15 +13,32 @@
 		"Brian Borovsky"
 	],
 	"level": 200,
-	"locations": [
-		"SC 129"
-	],
 	"max": 16,
 	"name": "Electronics",
 	"notes": [
 		"Students in Physics 246 must also register for lab Physics 246 L."
 	],
 	"number": 246,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 129",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Physics 125 or 228. Offered alternate years.",
 	"revisions": [
@@ -43,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -8,12 +8,29 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"L 420"
-	],
 	"max": 9,
 	"name": "Welfare Reform",
 	"number": 225,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "L 420",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "L 420",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "L 420",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +48,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19941,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 1994
 }

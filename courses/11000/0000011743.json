@@ -11,12 +11,23 @@
 		"Kevin M. Crisp"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 18,
 	"name": "Neuroscience Seminar",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and progress towards a major in any of the natural sciences. GE: ORC.",
 	"revisions": [
@@ -34,9 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MW 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

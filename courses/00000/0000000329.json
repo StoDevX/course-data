@@ -8,13 +8,35 @@
 		"Gia Someya"
 	],
 	"level": 100,
-	"locations": [
-		"M 4",
-		"M 2"
-	],
 	"max": 12,
 	"name": "Beginning Japanese I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 4",
+			"start": "11:50"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "M 2",
+			"start": "15:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +55,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20001,
-	"times": [
-		"MWF 1150-1245PM",
-		"T 0305-0400PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

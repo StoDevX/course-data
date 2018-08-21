@@ -14,12 +14,29 @@
 		"Gregory W. Muth"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 310"
-	],
 	"max": 50,
 	"name": "Biochemistry I",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 310",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 310",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 310",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 248.",
 	"revisions": [
@@ -46,9 +63,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20143,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

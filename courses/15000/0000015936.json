@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 16,
 	"name": "Modern Dance II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 140",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 140",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

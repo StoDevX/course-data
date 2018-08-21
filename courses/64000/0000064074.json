@@ -15,13 +15,23 @@
 		"Anantanand Rambachan"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110",
-		"BMC 110"
-	],
 	"max": 24,
 	"name": "Hinduism",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 110",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 110",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20081,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

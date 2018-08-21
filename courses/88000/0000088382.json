@@ -15,12 +15,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 19,
 	"name": "Canoeing",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ability to swim. Lab fee.",
 	"revisions": [
@@ -42,9 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"MW 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2013
 }

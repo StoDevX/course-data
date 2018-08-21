@@ -11,13 +11,23 @@
 		"Linda Berger"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 222",
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class IV",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 222",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 222",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 261, completion of Piano Proficiency 3, or audition placement; concurrent registration in MUSIC 214 recommended.",
 	"revisions": [
@@ -53,10 +63,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -12,13 +12,41 @@
 		"Sarah S. McDonald"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10",
-		"FH 10"
-	],
 	"max": 25,
 	"name": "Tchg of Soc Studies",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "Th",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "FH 10",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,10 +64,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MTh 0600-0730PM",
-		"MWF 0800-0855"
-	],
 	"title": "Teaching of Social Studies, 5-12",
 	"type": "Research",
 	"year": 2005

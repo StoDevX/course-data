@@ -8,12 +8,23 @@
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 999,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 19984,
-	"times": [
-		"MT 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

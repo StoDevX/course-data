@@ -11,13 +11,23 @@
 		"Donna K. McMillan"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 124",
-		"RNS 124"
-	],
 	"max": 15,
 	"name": "Personality Assessment",
 	"number": 344,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 124",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 124",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 230 and PSYCH 244 or permission of instructor.",
 	"revisions": [
@@ -56,10 +66,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2014
 }

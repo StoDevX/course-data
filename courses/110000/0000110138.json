@@ -12,12 +12,23 @@
 		"Michael S. Hemenway"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 24,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:30",
+			"location": "RNS 340",
+			"start": "12:30"
+		},
+		{
+			"day": "Th",
+			"end": "15:30",
+			"location": "RNS 340",
+			"start": "12:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
 	"revisions": [
@@ -53,9 +64,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20155,
-	"times": [
-		"TTh 1230-0330PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2015

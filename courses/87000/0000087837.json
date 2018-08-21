@@ -14,12 +14,23 @@
 		"David A. Stromme"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Gym North"
-	],
 	"max": 16,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SAC Gym North",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SAC Gym North",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2012
 }

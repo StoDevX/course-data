@@ -14,13 +14,23 @@
 		"Carlo O. Veltri"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190",
-		"RNS 190"
-	],
 	"max": 30,
 	"name": "Psychopathology",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 190",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 190",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Psychology 125. Offered each semester.",
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20123,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

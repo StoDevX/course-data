@@ -12,15 +12,32 @@
 		"Alan F. Ernst"
 	],
 	"level": 100,
-	"locations": [
-		"SC 280"
-	],
 	"max": 72,
 	"name": "Human Biology",
 	"notes": [
 		"Students in Biology 123 must also register for one lab section 123AL, BL or CL."
 	],
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 280",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

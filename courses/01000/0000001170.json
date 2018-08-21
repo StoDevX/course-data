@@ -9,12 +9,23 @@
 		"Larry Fowler"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10"
-	],
 	"max": 999,
 	"name": "Tchg of Soc Studies",
 	"number": 365,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		},
+		{
+			"day": "We",
+			"end": "19:30",
+			"location": "FH 10",
+			"start": "18:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MW 0600-0730PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

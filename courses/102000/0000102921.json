@@ -9,13 +9,23 @@
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 393",
-		"RNS 393"
-	],
 	"max": 12,
 	"name": "Molecular Biology Lab",
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 393",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 393",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -57,10 +67,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

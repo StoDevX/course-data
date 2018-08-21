@@ -11,12 +11,23 @@
 		"Peter J. Gittins"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 20,
 	"name": "Synthesis Lab I",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247. Offered annually in the Fall Semester.",
 	"revisions": [
@@ -35,9 +46,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20094,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",
 	"year": 2009

@@ -11,13 +11,23 @@
 		"Dona W. Freeman"
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 16,
 	"name": "Intermediate Acting",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB Haugen",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB Haugen",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Theatre 110, and 130 or 131. Offered Fall Semester.",
 	"revisions": [
@@ -35,10 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20081,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

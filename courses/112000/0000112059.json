@@ -12,12 +12,17 @@
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 446"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:00",
+			"location": "RNS 446",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "concurrent registration in CHEM 255.",
 	"revisions": [
@@ -44,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"M 0100-0500PM"
-	],
 	"title": "Analytical Laboratory",
 	"type": "Lab",
 	"year": 2017

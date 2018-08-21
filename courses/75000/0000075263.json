@@ -9,12 +9,17 @@
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 23,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "RNS 454",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"Th 0900-1100"
-	],
 	"type": "Lab",
 	"year": 2010
 }

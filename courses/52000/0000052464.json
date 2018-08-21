@@ -11,13 +11,23 @@
 		"Charles Forsberg"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 33,
 	"name": "Theory IV",
 	"number": 214,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Music 211 and 213.",
 	"revisions": [
@@ -36,10 +46,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2006
 }

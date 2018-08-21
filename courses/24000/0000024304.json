@@ -8,13 +8,29 @@
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 269"
-	],
 	"max": 12,
 	"name": "Developmental Biology",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "We",
+			"end": "15:55",
+			"location": "SC 269",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"TTh 1145-0110PM",
-		"W 1255-0355PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

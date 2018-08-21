@@ -11,16 +11,26 @@
 		"Carol Holly"
 	],
 	"level": 100,
-	"locations": [
-		"RML 525",
-		"RML 525"
-	],
 	"max": 24,
 	"name": "Literary Studies",
 	"notes": [
 		"Open to first-year students and sophomores only."
 	],
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RML 525",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RML 525",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW or equivalent.",
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2007
 }

@@ -12,12 +12,23 @@
 		"Mary Walczak"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 446"
-	],
 	"max": 999,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:30",
+			"location": "RNS 446",
+			"start": "12:30"
+		},
+		{
+			"day": "We",
+			"end": "16:30",
+			"location": "RNS 446",
+			"start": "12:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "concurrent registration in Chemistry 255. Offered each semester. Counts toward environmental studies major (all tracks) and concentration.",
 	"revisions": [
@@ -39,9 +50,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20114,
-	"times": [
-		"MW 1230-0430PM"
-	],
 	"title": "Analytical Laboratory",
 	"type": "Lab",
 	"year": 2011

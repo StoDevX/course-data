@@ -15,16 +15,26 @@
 		"Karen R. Achberger"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 108",
-		"TOH 108"
-	],
 	"max": 30,
 	"name": "German Cinema",
 	"notes": [
 		"Film screenings Monday evenings from 7-9 p.m."
 	],
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 108",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 108",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,10 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20121,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

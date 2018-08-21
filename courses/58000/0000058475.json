@@ -9,12 +9,17 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"YH Conf Rm"
-	],
 	"max": 999,
 	"name": "Test Course Disc",
 	"number": 301,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:00",
+			"location": "YH Conf Rm",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20073,
-	"times": [
-		"T 0800-0900"
-	],
 	"type": "Discussion",
 	"year": 2007
 }

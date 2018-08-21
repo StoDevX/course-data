@@ -11,16 +11,26 @@
 		"Catherine Ramirez"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 19,
 	"name": "Theory II",
 	"notes": [
 		"Students in 114B must also register for 112B."
 	],
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 224",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Music 111/113. Co-requisites: Music 112, 162 (or completion of Piano Proficiency Level 2). Offered annually in the spring semester.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

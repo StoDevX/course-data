@@ -9,12 +9,23 @@
 		"Elizabeth Rodgers"
 	],
 	"level": 200,
-	"locations": [
-		"HH 215"
-	],
 	"max": 24,
 	"name": "Holistic Health Lab",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "HH 215",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "HH 215",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +53,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20151,
-	"times": [
-		"TTh 0800-0300PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

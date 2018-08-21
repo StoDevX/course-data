@@ -14,15 +14,26 @@
 		"Cynthia Book"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Gym South"
-	],
 	"max": 24,
 	"name": "Aerobics",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "SAC Gym South",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "SAC Gym South",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -65,9 +76,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2016
 }

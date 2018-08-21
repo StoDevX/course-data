@@ -11,16 +11,26 @@
 		"Douglas J. Beussman"
 	],
 	"level": 200,
-	"locations": [
-		"SC 282",
-		"SC 282"
-	],
 	"max": 31,
 	"name": "Analytical Chem",
 	"notes": [
 		"Students in Chem 255 must also register for lab Chem 255 L."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 282",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 282",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 126. Concurrent registration in Chemistry 256 is required. Offered both semesters.",
 	"revisions": [
@@ -42,10 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Analytical Chemistry",
 	"type": "Research",
 	"year": 2006

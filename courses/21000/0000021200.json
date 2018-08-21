@@ -8,13 +8,23 @@
 		"John Walters"
 	],
 	"level": 300,
-	"locations": [
-		"SC 321/326",
-		"SC 310"
-	],
 	"max": 4,
 	"name": "Instrum Analysis Lab",
 	"number": 378,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "17:20",
+			"location": "SC 321/326",
+			"start": "13:20"
+		},
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 310",
+			"start": "15:05"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +43,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19971,
-	"times": [
-		"T 0120-0520PM",
-		"M 0305-0400PM"
-	],
 	"type": "Lab",
 	"year": 1997
 }

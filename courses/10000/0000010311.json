@@ -13,15 +13,32 @@
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 32,
 	"name": "Cell Physiology",
 	"notes": [
 		"Students in Biology 341 must also register for one lab section 341AL or BL."
 	],
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SC 274",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, 126, Chemistry 125, 126.",
 	"revisions": [
@@ -39,9 +56,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

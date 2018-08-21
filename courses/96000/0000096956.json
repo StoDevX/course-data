@@ -9,12 +9,23 @@
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 999,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 355",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 355",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20135,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2013
 }

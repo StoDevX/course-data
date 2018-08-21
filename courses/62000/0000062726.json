@@ -11,13 +11,23 @@
 		"Kathryne Fisher"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 115",
-		"CAD 115"
-	],
 	"max": 18,
 	"name": "Intermediate Ceramics",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 115",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 115",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Art 103 or Art 207, or 116, 119, or 121. Previous studio experience in ceramics is accepted when approved by the instructor. Materials fee. Offered annually.",
 	"revisions": [
@@ -42,10 +52,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

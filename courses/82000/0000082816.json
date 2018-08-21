@@ -14,13 +14,23 @@
 		"Nicholas D. Davenport"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208",
-		"RNS 208"
-	],
 	"max": 30,
 	"name": "Biopsychology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 208",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 208",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Psychology 125 or Biology 123 or 125. Offered each semester. Counts toward biomedical studies concentration.",
 	"revisions": [
@@ -42,10 +52,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20121,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2012
 }

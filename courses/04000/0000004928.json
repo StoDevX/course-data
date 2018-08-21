@@ -8,13 +8,23 @@
 		"Heather J. Klopchin"
 	],
 	"level": 100,
-	"locations": [
-		"CAD STUDIO 2",
-		"CAD STUDIO 2"
-	],
 	"max": 25,
 	"name": "Ballet I",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD STUDIO 2",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD STUDIO 2",
+			"start": "09:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,10 +57,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2002
 }

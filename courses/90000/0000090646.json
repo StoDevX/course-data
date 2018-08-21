@@ -12,15 +12,32 @@
 		"Wesley Pearson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310"
-	],
 	"max": 50,
 	"name": "Organic Chemistry II",
 	"notes": [
 		"Students in Chem 248 must also register for one Chem 254 lab."
 	],
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 310",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 247 or permission of instructor. Offered annually in the spring semester. Counts toward environmental studies major (natural science track).",
 	"revisions": [
@@ -43,9 +60,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2013
 }

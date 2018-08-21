@@ -8,12 +8,23 @@
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"SAC"
-	],
 	"max": 20,
 	"name": "Ballroom I (Men)",
 	"number": 106,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20003,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2000
 }

@@ -20,16 +20,26 @@
 		"Robert Entenmann"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 210",
-		"TOH 210"
-	],
 	"max": 38,
 	"name": "AsiaCon3:InterpretJourney",
 	"notes": [
 		"Registration restricted to students in the Asian Con program."
 	],
 	"number": 220,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 210",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 210",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHIN 231 or JAPAN 231 and ASIAN 215 or ASIAN 216.",
 	"revisions": [
@@ -146,10 +156,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Asian Conversations III: Interpreting Journeys",
 	"type": "Research",
 	"year": 2015

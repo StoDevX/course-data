@@ -8,13 +8,23 @@
 		"Ron Gallas"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 115C",
-		"CAD 115C"
-	],
 	"max": 10,
 	"name": "Ceramics",
 	"number": 234,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 115C",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 115C",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

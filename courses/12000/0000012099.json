@@ -11,12 +11,29 @@
 		"Kathy C. Thomforde"
 	],
 	"level": 200,
-	"locations": [
-		"HH 413"
-	],
 	"max": 30,
 	"name": "Marketing",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 413",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-122 or consent of instructor.",
 	"revisions": [
@@ -38,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20053,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2005
 }

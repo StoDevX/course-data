@@ -11,13 +11,23 @@
 		"Leon Narvaez"
 	],
 	"level": 300,
-	"locations": [
-		"OM 021",
-		"OM 021"
-	],
 	"max": 17,
 	"name": "Seminar in Literature",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 021",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 021",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Spanish 250 and at least two courses at the 270 or 300 level.",
 	"revisions": [
@@ -35,10 +45,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Seminar",
 	"type": "Research",
 	"year": 2006

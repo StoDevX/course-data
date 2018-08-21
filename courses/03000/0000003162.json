@@ -8,12 +8,23 @@
 		"Robert Entenmann"
 	],
 	"level": 300,
-	"locations": [
-		"H 516"
-	],
 	"max": 18,
 	"name": "East Asian Seminar",
 	"number": 360,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "H 516",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "H 516",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20013,
-	"times": [
-		"TTh 0120-0245PM"
-	],
 	"type": "Seminar",
 	"year": 2001
 }

@@ -12,17 +12,32 @@
 		"Carol H. Austin"
 	],
 	"level": 300,
-	"locations": [
-		"HH 301",
-		"HH 301",
-		"HH 301"
-	],
 	"max": 24,
 	"name": "Health Assessment",
 	"notes": [
 		"Students in Nursing 306 must also register for lab Nursing 306L."
 	],
 	"number": 306,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "HH 301",
+			"start": "08:00"
+		},
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 301",
+			"start": "09:05"
+		},
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "HH 301",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,11 +55,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"M 0800-0855",
-		"M 0905-1000",
-		"M 1045-1140"
-	],
 	"type": "Research",
 	"year": 2010
 }

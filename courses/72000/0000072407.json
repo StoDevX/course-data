@@ -10,12 +10,17 @@
 		"John Giannini"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 22,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:30",
+			"location": "RNS 255",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +39,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20101,
-	"times": [
-		"T 0800-1030"
-	],
 	"type": "Lab",
 	"year": 2010
 }

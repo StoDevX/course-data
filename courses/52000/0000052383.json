@@ -11,13 +11,23 @@
 		"Mary Carlsen"
 	],
 	"level": 300,
-	"locations": [
-		"BMC 109",
-		"BMC 109"
-	],
 	"max": 20,
 	"name": "Social Worker as Prof",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "BMC 109",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "BMC 109",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Social work majors who have satisfactorily completed Social Work 380. Offered Spring Semester.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Social Worker as Professional",
 	"type": "Research",
 	"year": 2006

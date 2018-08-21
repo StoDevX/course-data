@@ -14,15 +14,32 @@
 		"Thomas St. George"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 20,
 	"name": "Calculus I",
 	"notes": [
 		"This section is closed during web registration."
 	],
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 435",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "mathematics placement recommendation. Offered each semester.",
 	"revisions": [
@@ -45,9 +62,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2013
 }

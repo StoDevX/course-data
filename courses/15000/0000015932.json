@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CTR STUDIO"
-	],
 	"max": 18,
 	"name": "Int'l Dance I",
 	"number": 109,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CTR STUDIO",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CTR STUDIO",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"MW 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

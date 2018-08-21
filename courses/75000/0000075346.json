@@ -11,13 +11,23 @@
 		"John Ferguson"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239",
-		"CHM 239"
-	],
 	"max": 19,
 	"name": "Church Music Pract II",
 	"number": 392,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CHM 239",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CHM 239",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Music 391. Offered spring semester 2010-11 and alternate years.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20103,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Church Music Practicum II",
 	"type": "Research",
 	"year": 2010

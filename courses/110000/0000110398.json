@@ -9,12 +9,17 @@
 		"Kevin B. Potts"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"max": 18,
 	"name": "Animal Physiology Lab",
 	"number": 247,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 254",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20163,
-	"times": [
-		"M 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

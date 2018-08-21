@@ -14,13 +14,23 @@
 		"Daniel Kosmoski"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Ctr Gym",
-		"SAC Ctr Gym"
-	],
 	"max": 24,
 	"name": "Basketball",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SAC Ctr Gym",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SAC Ctr Gym",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

@@ -9,12 +9,17 @@
 		"Adam Dittmer"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 26,
 	"name": "General Chemistry Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "RNS 350",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +38,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20151,
-	"times": [
-		"F 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

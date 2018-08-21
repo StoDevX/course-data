@@ -14,16 +14,26 @@
 		"Cynthia Book"
 	],
 	"level": 100,
-	"locations": [
-		"SAC 112",
-		"SAC 112"
-	],
 	"max": 19,
 	"name": "First-Year Writing",
 	"notes": [
 		"Section Topic: Exploring Health and Wellness"
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "SAC 112",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "SAC 112",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,10 +72,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -8,13 +8,23 @@
 		"Donna K. McMillan"
 	],
 	"level": 200,
-	"locations": [
-		"OM 035",
-		"OM 035"
-	],
 	"max": 30,
 	"name": "Abnormal Psych",
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 035",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 035",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,10 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20043,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2004
 }

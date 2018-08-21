@@ -8,12 +8,17 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"H 204"
-	],
 	"max": 15,
 	"name": "Physio Psych/Lab",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:00",
+			"location": "H 204",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"T 0200-0400PM"
-	],
 	"type": "Lab",
 	"year": 1994
 }

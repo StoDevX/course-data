@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 999,
 	"name": "Basic Instr Technique",
 	"number": 165,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "CHM 140",
+			"start": "10:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1005-1100"
-	],
 	"type": "Research",
 	"year": 1994
 }

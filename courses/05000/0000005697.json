@@ -8,14 +8,29 @@
 		"Robert Rutherford"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278",
-		"SC 278",
-		"SC 273"
-	],
 	"max": 24,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 278",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 278",
+			"start": "09:30"
+		},
+		{
+			"day": "We",
+			"end": "14:20",
+			"location": "SC 273",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,11 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20031,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050",
-		"W 1150-0220PM"
-	],
 	"type": "Research",
 	"year": 2003
 }

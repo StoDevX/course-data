@@ -11,13 +11,23 @@
 		"Bruce Hanson"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435",
-		"RNS 435"
-	],
 	"max": 25,
 	"name": "Complex Analysis",
 	"number": 340,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 435",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 435",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Mathematics 220. Recommended: Mathematics 226.",
 	"revisions": [
@@ -40,10 +50,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20093,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2009
 }

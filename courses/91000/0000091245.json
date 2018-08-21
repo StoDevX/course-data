@@ -11,13 +11,23 @@
 		"Richard Brown"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 203",
-		"RNS 203"
-	],
 	"max": 18,
 	"name": "Operating Systems",
 	"number": 273,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 203",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 203",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: completion of or concurrent enrollment in Computer Science 241 and Computer Science 251, or permission of instructor. Offered alternate years.",
 	"revisions": [
@@ -36,10 +46,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20131,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2013
 }

@@ -11,12 +11,29 @@
 		"Karen R. Achberger"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 312"
-	],
 	"max": 15,
 	"name": "Beginning German I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TOH 312",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "TOH 312",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "TOH 312",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,9 +52,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20131,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2013
 }

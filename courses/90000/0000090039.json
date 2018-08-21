@@ -9,12 +9,17 @@
 		"Alyson Center"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 454"
-	],
 	"max": 19,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 454",
+			"start": "08:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +38,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20133,
-	"times": [
-		"Th 0850-1050"
-	],
 	"type": "Lab",
 	"year": 2013
 }

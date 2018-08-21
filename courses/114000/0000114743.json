@@ -11,12 +11,23 @@
 		"Therees Hibbard"
 	],
 	"level": 100,
-	"locations": [
-		"Studio A"
-	],
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "Studio A",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "Studio A",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

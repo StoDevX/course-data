@@ -11,13 +11,23 @@
 		"David Schodt"
 	],
 	"level": 200,
-	"locations": [
-		"SC 184",
-		"SC 184"
-	],
 	"max": 25,
 	"name": "Economic Development",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "SC 184",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "SC 184",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one of Economics 110-122 or permission of instructor.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2006
 }

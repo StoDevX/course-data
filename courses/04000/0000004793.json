@@ -8,12 +8,23 @@
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274"
-	],
 	"max": 18,
 	"name": "Neuroscience Seminar",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "SC 274",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"MW 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

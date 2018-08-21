@@ -9,12 +9,17 @@
 		"Lisa M. Bowers"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 22,
 	"name": "Microbiology Lab",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 398",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,9 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"M 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2015
 }

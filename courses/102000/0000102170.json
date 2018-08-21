@@ -11,16 +11,26 @@
 		"Ryota Matsuura"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 206",
-		"RNS 206"
-	],
 	"max": 18,
 	"name": "Teaching of Mathematics, 5-12",
 	"notes": [
 		"Open to Juniors and Seniors only. Prerequisite: EDUC 330."
 	],
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 206",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 206",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -58,10 +68,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

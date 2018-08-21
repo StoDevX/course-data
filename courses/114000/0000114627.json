@@ -14,12 +14,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Pool"
-	],
 	"max": 24,
 	"name": "Swim Fitness",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SAC Pool",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SAC Pool",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "be able to swim 300 yards.",
 	"revisions": [
@@ -57,9 +68,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MW 1045-1140"
-	],
 	"type": "Research",
 	"year": 2017
 }

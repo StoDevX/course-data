@@ -11,12 +11,29 @@
 		"Gregory W. Muth"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 18,
 	"name": "Biochemistry II",
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 435",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Chemistry 379. Offered Spring Semester.",
 	"revisions": [
@@ -38,9 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2008
 }

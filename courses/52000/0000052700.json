@@ -11,13 +11,23 @@
 		"John Barbour"
 	],
 	"level": 200,
-	"locations": [
-		"BMC 110",
-		"BMC 110"
-	],
 	"max": 24,
 	"name": "Religion & Literature",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "BMC 110",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "BMC 110",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +45,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20061,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Religion and Literature",
 	"type": "Research",
 	"year": 2006

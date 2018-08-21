@@ -8,13 +8,41 @@
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"H 215",
-		"H 215"
-	],
 	"max": 20,
 	"name": "Application/Nurs Conc",
 	"number": 320,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "H 215",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "H 215",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "H 215",
+			"start": "08:00"
+		},
+		{
+			"day": "Tu",
+			"end": "13:00",
+			"location": "H 215",
+			"start": "07:30"
+		},
+		{
+			"day": "Th",
+			"end": "13:00",
+			"location": "H 215",
+			"start": "07:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,10 +60,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 19971,
-	"times": [
-		"MWF 0800-0855",
-		"TTh 0730-0100PM"
-	],
 	"type": "Research",
 	"year": 1997
 }

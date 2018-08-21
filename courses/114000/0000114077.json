@@ -9,12 +9,17 @@
 		"Susie Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"YTT 050B"
-	],
 	"max": 10,
 	"name": "Holistic Health Lab",
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "YTT 050B",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,9 +54,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"Th 0800-1000"
-	],
 	"type": "Lab",
 	"year": 2017
 }

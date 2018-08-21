@@ -8,12 +8,17 @@
 		"John Walters"
 	],
 	"level": 200,
-	"locations": [
-		"SC 321"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 321",
+			"start": "12:55"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +37,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19983,
-	"times": [
-		"W 1255-0500PM"
-	],
 	"type": "Lab",
 	"year": 1998
 }

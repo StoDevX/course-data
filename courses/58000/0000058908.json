@@ -11,16 +11,26 @@
 		"Kevin M. Crisp"
 	],
 	"level": 300,
-	"locations": [
-		"SC 274",
-		"SC 274"
-	],
 	"max": 12,
 	"name": "Neuroscience Seminar",
 	"notes": [
 		"Open to Juniors and Seniors only."
 	],
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 274",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 274",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, or Chemistry/Biology 125-127, and progress towards a major in any of the natural sciences.",
 	"revisions": [
@@ -38,10 +48,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2007
 }

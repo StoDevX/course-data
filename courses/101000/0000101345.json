@@ -14,13 +14,23 @@
 		"Dorea Ruggles"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 28,
 	"name": "Biopsychology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 290",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 290",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125 or BIO 123, BIO 227 or CH/BI 227.",
 	"revisions": [
@@ -64,10 +74,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20153,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2015
 }

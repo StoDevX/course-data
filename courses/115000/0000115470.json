@@ -14,17 +14,32 @@
 		"Linda Mokdad"
 	],
 	"level": 200,
-	"locations": [
-		"OM 240",
-		"OM 240",
-		"HH 501"
-	],
 	"max": 19,
 	"name": "Film History",
 	"notes": [
 		"Film screenings will be on Thursday evenings."
 	],
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 240",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 240",
+			"start": "14:15"
+		},
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "HH 501",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Film 101 or permission of instructor. Counts toward the film studies concentration. Offered annually in the spring semester.",
 	"revisions": [
@@ -74,11 +89,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM",
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

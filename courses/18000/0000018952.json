@@ -8,12 +8,17 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"SC 253"
-	],
 	"max": 24,
 	"name": "Human Biology/Lab",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:00",
+			"location": "SC 253",
+			"start": "12:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +37,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 19961,
-	"times": [
-		"Th 1200-0200PM"
-	],
 	"type": "Lab",
 	"year": 1996
 }

@@ -10,13 +10,23 @@
 		"Matthew Richey"
 	],
 	"level": 100,
-	"locations": [
-		"SC 282",
-		"SC 282"
-	],
 	"max": 20,
 	"name": "Calculus I Lab",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "SC 282",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "SC 282",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +45,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

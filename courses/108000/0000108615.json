@@ -15,16 +15,26 @@
 		"Carol Holly"
 	],
 	"level": 100,
-	"locations": [
-		"RML 515",
-		"RML 515"
-	],
 	"max": 18,
 	"name": "Literary Studies",
 	"notes": [
 		"Open to first-year students and sophomores only."
 	],
 	"number": 185,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 515",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 515",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -62,10 +72,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

@@ -10,12 +10,17 @@
 		"John Giannini"
 	],
 	"level": 100,
-	"locations": [
-		"SC 273"
-	],
 	"max": 30,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "17:30",
+			"location": "SC 273",
+			"start": "15:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,9 +39,6 @@
 	"semester": 1,
 	"status": "O",
 	"term": 20051,
-	"times": [
-		"M 0300-0530PM"
-	],
 	"type": "Lab",
 	"year": 2005
 }

@@ -9,13 +9,29 @@
 		"David Booth"
 	],
 	"level": 200,
-	"locations": [
-		"SC 273",
-		"CAD 204"
-	],
 	"max": 16,
 	"name": "Life: Biol & Theol",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 273",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CAD 204",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CAD 204",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +56,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20033,
-	"times": [
-		"M 0100-0400PM",
-		"WF 0200-0255PM"
-	],
 	"type": "Topic",
 	"year": 2003
 }

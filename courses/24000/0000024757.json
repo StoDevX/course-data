@@ -8,12 +8,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC POOL"
-	],
 	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:50",
+			"location": "SAC POOL",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "14:50",
+			"location": "SAC POOL",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19983,
-	"times": [
-		"TTh 0120-0250PM"
-	],
 	"type": "Research",
 	"year": 1998
 }

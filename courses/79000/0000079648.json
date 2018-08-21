@@ -9,12 +9,17 @@
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 455"
-	],
 	"max": 16,
 	"name": "Plant Physiology Lab",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "16:20",
+			"location": "RNS 455",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,9 +38,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20113,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2011
 }

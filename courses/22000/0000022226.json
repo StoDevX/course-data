@@ -8,13 +8,35 @@
 		"Anne Walter"
 	],
 	"level": 200,
-	"locations": [
-		"SC 274",
-		"SC 227"
-	],
 	"max": 16,
 	"name": "Cell Physiology",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 274",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SC 227",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,10 +55,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19973,
-	"times": [
-		"MWF 0800-0855",
-		"Th 0800-1100"
-	],
 	"type": "Research",
 	"year": 1997
 }

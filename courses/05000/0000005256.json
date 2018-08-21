@@ -8,12 +8,23 @@
 		"Lori Cooling"
 	],
 	"level": 100,
-	"locations": [
-		"SAC S GYM"
-	],
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "SAC S GYM",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:00",
+			"location": "SAC S GYM",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20023,
-	"times": [
-		"TTh 0905-1000"
-	],
 	"type": "Research",
 	"year": 2002
 }

@@ -11,12 +11,23 @@
 		"Peter J. Gittins"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 340"
-	],
 	"max": 20,
 	"name": "Synthesis Lab II",
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 340",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: Chemistry 253 and previous or concurrent registration in Chemistry 248. Offered annually in the Spring Semester.",
 	"revisions": [
@@ -35,9 +46,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20095,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2009

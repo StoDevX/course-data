@@ -9,13 +9,23 @@
 		"Steven P. Day"
 	],
 	"level": 200,
-	"locations": [
-		"OM 002",
-		"OM 002"
-	],
 	"max": 23,
 	"name": "Intermed Chinese II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "OM 002",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "OM 002",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,10 +44,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20083,
-	"times": [
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"type": "Lab",
 	"year": 2008
 }

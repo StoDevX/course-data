@@ -11,12 +11,17 @@
 		"Brian Borovsky"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 24,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "RNS 297",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: PHYS 374, PHYS 375, and PHYS 376.",
 	"revisions": [
@@ -38,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20153,
-	"times": [
-		"F 0200-0300PM"
-	],
 	"type": "Seminar",
 	"year": 2015
 }

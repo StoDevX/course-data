@@ -11,13 +11,23 @@
 		"Marc A. Klingshirn"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378",
-		"SC 378"
-	],
 	"max": 26,
 	"name": "Chemistry & the World",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 378",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 378",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,10 +45,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Fundamentals of Chemistry",
 	"type": "Research",
 	"year": 2005

@@ -8,13 +8,23 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"CAD _STUDIO_1",
-		"CAD _STUDIO_1"
-	],
 	"max": 25,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:00",
+			"location": "CAD _STUDIO_1",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "09:55",
+			"location": "CAD _STUDIO_1",
+			"start": "09:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -40,10 +50,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20033,
-	"times": [
-		"T 0905-1000",
-		"Th 0900-0955"
-	],
 	"type": "Research",
 	"year": 2003
 }

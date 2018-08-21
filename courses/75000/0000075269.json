@@ -12,16 +12,26 @@
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190",
-		"RNS 190"
-	],
 	"max": 30,
 	"name": "Biology of Reproduction",
 	"notes": [
 		"Students in Bio 275 must register for Bio 275 lab AL or BL."
 	],
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 190",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 190",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125 and 126, or Chemistry/Biology 125-127 and Biology 126, or permission of instructor.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20103,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2010
 }

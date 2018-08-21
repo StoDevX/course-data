@@ -15,17 +15,32 @@
 		"Amy E. Borden"
 	],
 	"level": 300,
-	"locations": [
-		"HH 403",
-		"CAD 204",
-		"CAD 204"
-	],
 	"max": 19,
 	"name": "Filmmakers/Film Theorists",
 	"notes": [
 		"Film screenings Monday evenings from 7-10 p.m."
 	],
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 403",
+			"start": "19:00"
+		},
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 204",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 204",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Film 101 or permission of instructor.",
 	"revisions": [
@@ -55,11 +70,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20113,
-	"times": [
-		"M 0700-1000PM",
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2011
 }

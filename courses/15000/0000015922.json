@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 140"
-	],
 	"max": 16,
 	"name": "Ballet I",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "12:45",
+			"location": "CHM 140",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 1994
 }

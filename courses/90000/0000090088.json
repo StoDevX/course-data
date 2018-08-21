@@ -16,16 +16,26 @@
 		"Cassidy R. Terrell"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 390",
-		"RNS 390"
-	],
 	"max": 24,
 	"name": "Chemistry & the World",
 	"notes": [
 		"Students in Chem 111 must also register for lab Chem 111 L."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 390",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 390",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,10 +53,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20133,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Chemistry and the World",
 	"type": "Research",
 	"year": 2013

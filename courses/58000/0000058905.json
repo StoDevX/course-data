@@ -12,15 +12,32 @@
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 100,
-	"locations": [
-		"SC 278"
-	],
 	"max": 32,
 	"name": "Biological Science",
 	"notes": [
 		"Students in Bio 121 must also register for one lab Bio 121 AL or BL."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "SC 278",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +55,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Biological Science: Issues in Biology",
 	"type": "Research",
 	"year": 2007

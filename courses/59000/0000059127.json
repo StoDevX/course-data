@@ -12,15 +12,32 @@
 		"Kimberly A. Kandl"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 24,
 	"name": "Molecular Biology",
 	"notes": [
 		"Students in Bio 364 must also register for one lab Bio 364 AL or BL."
 	],
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Biology 125, 126, or Chemistry/Biology 125-127 and Biology 126, and Biology 233.",
 	"revisions": [
@@ -44,9 +61,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20071,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2007
 }

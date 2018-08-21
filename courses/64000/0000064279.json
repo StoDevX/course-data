@@ -11,12 +11,23 @@
 		"Sally Kessler"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 999,
 	"name": "Synthesis Lab I",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247. P/N only. Offered Fall Semester.",
 	"revisions": [
@@ -35,9 +46,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20074,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory I",
 	"type": "Lab",
 	"year": 2007

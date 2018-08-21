@@ -11,12 +11,23 @@
 		"Anthony T. Watson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 311"
-	],
 	"max": 999,
 	"name": "Synthesis Lab",
 	"number": 253,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "SC 311",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: previous or concurrent registration in Chemistry 247 for 253, and 248 for 254. P/N only. Offered Fall Semester.",
 	"revisions": [
@@ -35,9 +46,6 @@
 	"semester": 4,
 	"status": "O",
 	"term": 20064,
-	"times": [
-		"MW 0100-0400PM"
-	],
 	"title": "Synthesis Laboratory",
 	"type": "Lab",
 	"year": 2006

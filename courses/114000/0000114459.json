@@ -11,12 +11,23 @@
 		"Christopher Atzinger"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 222"
-	],
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 222",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CHM 222",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 161, completion of Piano Proficiency Level 1, or audition placement. Concurrent registration in MUSIC 114.",
 	"revisions": [
@@ -61,9 +72,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 2017
 }

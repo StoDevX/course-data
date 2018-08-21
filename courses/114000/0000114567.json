@@ -11,12 +11,29 @@
 		"Mary Kuehn"
 	],
 	"level": 300,
-	"locations": [
-		"YTT 050B"
-	],
 	"max": 24,
 	"name": "Senior Nursing Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "YTT 050B",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "YTT 050B",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "YTT 050B",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to senior nursing majors only; NURS 315 and NURS 316; concurrent registration in NURS 317, NURS 318, and NURS 319.",
 	"revisions": [
@@ -34,9 +51,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20173,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2017
 }

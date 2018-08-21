@@ -9,12 +9,17 @@
 		"Anne Walter"
 	],
 	"level": 300,
-	"locations": [
-		"SC 227"
-	],
 	"max": 16,
 	"name": "Cell Physiology Lab",
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:20",
+			"location": "SC 227",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +37,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20063,
-	"times": [
-		"Th 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

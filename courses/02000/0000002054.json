@@ -8,12 +8,23 @@
 		"Barbara Thatcher"
 	],
 	"level": 200,
-	"locations": [
-		"DANCE ST 2"
-	],
 	"max": 4,
 	"name": "Modern Dance II",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "DANCE ST 2",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "DANCE ST 2",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,9 +49,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20011,
-	"times": [
-		"MW 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2001
 }

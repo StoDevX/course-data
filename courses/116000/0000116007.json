@@ -11,16 +11,26 @@
 		"Kate E. Casanova"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 103",
-		"CAD 103"
-	],
 	"max": 15,
 	"name": "Top: Soft Sculpture",
 	"notes": [
 		"The materials fee for ART 240 will be $150."
 	],
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 103",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 103",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -67,10 +77,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20171,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"title": "Topics in the Fine Arts",
 	"type": "Topic",
 	"year": 2017

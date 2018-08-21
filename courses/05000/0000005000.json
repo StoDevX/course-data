@@ -8,13 +8,23 @@
 		"Herve Pensec"
 	],
 	"level": 300,
-	"locations": [
-		"OM 026",
-		"OM 026"
-	],
 	"max": 999,
 	"name": "Genre: Theat Du Gr Sie",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "OM 026",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "OM 026",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,10 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20023,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2002
 }

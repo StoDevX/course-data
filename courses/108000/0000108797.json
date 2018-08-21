@@ -10,12 +10,17 @@
 		"Grace E. Cho"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 123"
-	],
 	"max": 18,
 	"name": "Research Methods Lab",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:30",
+			"location": "RNS 123",
+			"start": "12:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,9 +47,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20163,
-	"times": [
-		"M 1230-0230PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

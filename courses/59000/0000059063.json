@@ -9,12 +9,23 @@
 		"Patrick N. Riley"
 	],
 	"level": 100,
-	"locations": [
-		"SC 371"
-	],
 	"max": 999,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:00",
+			"location": "SC 371",
+			"start": "09:00"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "SC 371",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 5,
 	"status": "O",
 	"term": 20065,
-	"times": [
-		"MW 0900-1200PM"
-	],
 	"type": "Lab",
 	"year": 2006
 }

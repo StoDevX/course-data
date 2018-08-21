@@ -12,15 +12,32 @@
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 190"
-	],
 	"max": 32,
 	"name": "Plant Physiology",
 	"notes": [
 		"Students in Bio 251 must also register for one lab Bio 251 AL or BL."
 	],
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: Bio 150 or BIO 126, CHEM 125 and CHEM 126,and BIO 227 or CH/BI227 recommended.",
 	"revisions": [
@@ -43,9 +60,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20143,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2014
 }

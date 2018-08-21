@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"FH 10L"
-	],
 	"max": 999,
 	"name": "Tchg of Mathematics",
 	"number": 350,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "FH 10L",
+			"start": "07:30"
+		},
+		{
+			"day": "Th",
+			"end": "09:25",
+			"location": "FH 10L",
+			"start": "07:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +42,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"TTh 0730-0925"
-	],
 	"type": "Research",
 	"year": 1994
 }

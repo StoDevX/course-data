@@ -8,12 +8,17 @@
 		"Staff"
 	],
 	"level": 300,
-	"locations": [
-		"SC 114"
-	],
 	"max": 999,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:15",
+			"location": "SC 114",
+			"start": "15:15"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +36,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 19943,
-	"times": [
-		"W 0315-0415PM"
-	],
 	"type": "Seminar",
 	"year": 1994
 }

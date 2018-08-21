@@ -11,12 +11,17 @@
 		"Robert Jacobel"
 	],
 	"level": 300,
-	"locations": [
-		"SC 110"
-	],
 	"max": 20,
 	"name": "Senior Seminar",
 	"number": 399,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:30",
+			"location": "SC 110",
+			"start": "15:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: Physics 374, 375 and 376. P/N only. Available on request.",
 	"revisions": [
@@ -34,9 +39,6 @@
 	"semester": 3,
 	"status": "O",
 	"term": 20063,
-	"times": [
-		"W 0330-0430PM"
-	],
 	"type": "Seminar",
 	"year": 2006
 }

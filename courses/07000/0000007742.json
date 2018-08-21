@@ -8,12 +8,17 @@
 		"Paul T. Jackson"
 	],
 	"level": 200,
-	"locations": [
-		"SC 321"
-	],
 	"max": 16,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "SC 321",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -31,9 +36,6 @@
 	"semester": 1,
 	"status": "C",
 	"term": 20041,
-	"times": [
-		"W 0100-0500PM"
-	],
 	"type": "Lab",
 	"year": 2004
 }

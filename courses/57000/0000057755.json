@@ -12,16 +12,26 @@
 		"Gregory W. Muth"
 	],
 	"level": 100,
-	"locations": [
-		"SC 378",
-		"SC 378"
-	],
 	"max": 28,
 	"name": "Chemistry & the World",
 	"notes": [
 		"Students in Chem 111 must also register for lab Chem 111 L."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 378",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 378",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20073,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Chemistry and the World",
 	"type": "Research",
 	"year": 2007

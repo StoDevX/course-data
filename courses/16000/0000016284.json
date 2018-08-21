@@ -8,12 +8,23 @@
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"WR ROOM"
-	],
 	"max": 20,
 	"name": "Self Defense",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "WR ROOM",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "WR ROOM",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,9 +43,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 19943,
-	"times": [
-		"MW 0905-1000"
-	],
 	"type": "Research",
 	"year": 1994
 }

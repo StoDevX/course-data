@@ -11,13 +11,23 @@
 		"Mark Sundby"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 124",
-		"RNS 124"
-	],
 	"max": 15,
 	"name": "Clinical/Counseling Psych",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 124",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 124",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: junior or senior standing and PSYCH 230, plus PSYCH 244 or PSYCH 247.",
 	"revisions": [
@@ -39,10 +49,6 @@
 	"semester": 3,
 	"status": "C",
 	"term": 20173,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Clinical and Counseling Psychology",
 	"type": "Research",
 	"year": 2017
