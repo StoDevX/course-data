@@ -1,14 +1,12 @@
 {
-	"clbid": 121688,
+	"clbid": "0000121688",
 	"credits": 1.0,
-	"crsid": 453,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000453",
+	"department": "ENVST",
 	"description": [
 		"This American environmental history course explores the social construction of nature in the 21st century, looking at the roots (both natural and cultural) of contemporary environmental issues. To figure out what nature means to us now, students study the history of stuff, the culture of grasslands and lawns, the changing character of the city and the country, the nature of the suburbs, the conservation and preservation movements, different energy ecologies, the nature of TV, the contemporary environmental movement, and alternative ecological practices. They also use the St. Olaf campus as a case study of environmental design. Offered annually. Counts toward American studies major."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"Kiara Jorgenson"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Culture of Nature",
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +49,31 @@
 			"_updated": "2018-08-07T14:48:49.760847+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.813035+00:00",
+			"clbid": 121688,
+			"crsid": 453,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "The Culture of Nature",
 	"type": "Research",
 	"year": 2018

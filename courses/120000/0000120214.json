@@ -1,22 +1,25 @@
 {
-	"clbid": 120214,
+	"clbid": "0000120214",
 	"credits": 0.0,
-	"crsid": 17307,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
-	"groupid": 181,
+	"crsid": "0000017307",
+	"department": "CHEM",
+	"enrolled": 0,
+	"groupid": "0000000181",
 	"instructors": [
 		"Adam Dittmer"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 24,
 	"name": "Forensic Science Lab",
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "TBA",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,14 +50,30 @@
 			"_updated": "2018-08-07T14:48:48.753636+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.571089+00:00",
+			"clbid": 120214,
+			"crsid": 17307,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 181,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1250-0350PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

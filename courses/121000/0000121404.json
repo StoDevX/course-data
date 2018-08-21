@@ -1,22 +1,25 @@
 {
-	"clbid": 121404,
+	"clbid": "0000121404",
 	"credits": 0.0,
-	"crsid": 131,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 10,
-	"groupid": 130,
+	"crsid": "0000000131",
+	"department": "BIO",
+	"enrolled": 10,
+	"groupid": "0000000130",
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 246"
-	],
 	"max": 14,
 	"name": "Invertebrate Biology Lab",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 246",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,14 +50,30 @@
 		{
 			"_updated": "2018-08-18T03:36:15.480456+00:00",
 			"enroll": 9
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.282453+00:00",
+			"clbid": 121404,
+			"crsid": 131,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"groupid": 130,
+			"locations": [
+				"RNS 246"
+			],
+			"offerings": null,
+			"times": [
+				"W 0200-0500PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

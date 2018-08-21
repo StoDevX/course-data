@@ -1,14 +1,12 @@
 {
-	"clbid": 120805,
+	"clbid": "0000120805",
 	"credits": 1.0,
-	"crsid": 333,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000333",
+	"department": "EDUC",
 	"description": [
 		"Prospective science teachers learn strategies for the practical application of learning theory to secondary school science classrooms. Topics include: the national science standards movement and No Child Left Behind; inquiry learning in the science classroom; lesson planning; teaching in the classroom and in the laboratory; technology: managing a science laboratory: and continuing professional development. Required field experience component. Offered annually in the spring semester. Prerequisite: EDUC 330."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,16 +14,26 @@
 		"Emily Mohl"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 426",
-		"RNS 426"
-	],
 	"max": 10,
 	"name": "Teaching of Science, 5-12",
 	"notes": [
 		"Open to Juniors and Seniors only. Prerequisite: EDUC 330."
 	],
 	"number": 364,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 426",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 426",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -42,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:49.113428+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.497282+00:00",
+			"clbid": 120805,
+			"crsid": 333,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 426",
+				"RNS 426"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

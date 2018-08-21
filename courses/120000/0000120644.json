@@ -1,22 +1,25 @@
 {
-	"clbid": 120644,
+	"clbid": "0000120644",
 	"credits": 0.0,
-	"crsid": 1052,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 0,
-	"groupid": 1051,
+	"crsid": "0000001052",
+	"department": "ESTH",
+	"enrolled": 0,
+	"groupid": "0000001051",
 	"instructors": [
 		"Bridget M. Spooner"
 	],
 	"level": 200,
-	"locations": [
-		"SAC Tr Rm"
-	],
 	"max": 6,
 	"name": "Prevention/Care Athletic Injur Lab",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC Tr Rm",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:49.010848+00:00",
 			"enroll": "0",
 			"max": "6"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.216057+00:00",
+			"clbid": 120644,
+			"crsid": 1052,
+			"department": null,
+			"departments": [
+				"ESTH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1051,
+			"locations": [
+				"SAC Tr Rm"
+			],
+			"offerings": null,
+			"times": [
+				"W 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"W 1255-0150PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

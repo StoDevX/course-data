@@ -1,22 +1,25 @@
 {
-	"clbid": 118537,
+	"clbid": "0000118537",
 	"credits": 0.0,
-	"crsid": 163,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 12,
-	"groupid": 161,
+	"crsid": "0000000163",
+	"department": "BIO",
+	"enrolled": 12,
+	"groupid": "0000000161",
 	"instructors": [
 		"Kathleen L. Shea"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 426"
-	],
 	"max": 14,
 	"name": "Field Ecology Disc",
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "16:05",
+			"location": "RNS 426",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,14 +36,30 @@
 			"_updated": "2018-08-07T14:48:44.770350+00:00",
 			"enroll": "12",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.019194+00:00",
+			"clbid": 118537,
+			"crsid": 163,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 12,
+			"enrolled": null,
+			"groupid": 161,
+			"locations": [
+				"RNS 426"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0215-0405PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"Th 0215-0405PM"
-	],
 	"type": "Discussion",
 	"year": 2018
 }

@@ -1,28 +1,43 @@
 {
-	"clbid": 118970,
+	"clbid": "0000118970",
 	"credits": 1.0,
-	"crsid": 30312,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000030312",
+	"department": "NURS",
 	"description": [
 		"Building on the interplay between pathophysiology, pharmacology and the nursing process in NURS 314, this course will expand upon the holistic nursing care for ill patients of various ages. Students will utilize diverse roles of the nurse to manage the care of children and adults with complex abnormalities in the clinical setting. Counts toward nursing major. Offered annually in the fall semester. Prerequisites: open to senior nursing majors only; NURS 314; concurrent registration in NURS 316."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Ketty Holt",
 		"Diana Neal"
 	],
 	"level": 300,
-	"locations": [
-		"YTT 050A"
-	],
 	"max": 24,
 	"name": "Medical-Surgical Nursing II",
 	"notes": [
 		"Open to rising Senior Nursing majors only. Will also meet T/Th 7:00 a.m. -3 p.m."
 	],
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "YTT 050A",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "YTT 050A",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "YTT 050A",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to senior nursing majors only; NURS 314; concurrent registration in NURS 316.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.184630+00:00",
 			"enroll": "18",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.780938+00:00",
+			"clbid": 118970,
+			"crsid": 30312,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"YTT 050A"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

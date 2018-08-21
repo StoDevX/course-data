@@ -1,23 +1,26 @@
 {
-	"clbid": 120689,
+	"clbid": "0000120689",
 	"credits": 0.0,
-	"crsid": 26692,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 0,
-	"groupid": 1158,
+	"crsid": "0000026692",
+	"department": "PSYCH",
+	"enrolled": 0,
+	"groupid": "0000001158",
 	"grouptype": "2",
 	"instructors": [
 		"Grace E. Cho"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Research Methods Lab",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -48,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:49.050282+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.306107+00:00",
+			"clbid": 120689,
+			"crsid": 26692,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1158,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1245-0245PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

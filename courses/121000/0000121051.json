@@ -1,14 +1,12 @@
 {
-	"clbid": 121051,
+	"clbid": "0000121051",
 	"credits": 1.0,
-	"crsid": 939,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000939",
+	"department": "NURS",
 	"description": [
 		"This course explores the sources, chemical composition, and metabolic behavior of nutrients. Nutritional requirements for a balanced diet are examined as well as the consequences of excesses and deficiencies. Students use nutrition tools and guidelines to make sound food choices, learn how to read food labels, and consider factors affecting food consumption. Class activities increase students' awareness of a healthy diet, help students evaluate nutrition behaviors, and facilitate a nutritionally sound lifestyle. Offered annually. This is an elective course."
 	],
-	"enroll": 31,
+	"enrolled": 31,
 	"gereqs": [
 		"IST"
 	],
@@ -16,13 +14,23 @@
 		"Susan Huehn"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
 	"max": 30,
 	"name": "Nutrition and Wellness",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RNS 290",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RNS 290",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -53,16 +61,32 @@
 			"_updated": "2018-08-07T14:48:45.360910+00:00",
 			"enroll": "31",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.196003+00:00",
+			"clbid": 121051,
+			"crsid": 939,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 31,
+			"enrolled": null,
+			"locations": [
+				"RNS 290",
+				"RNS 290"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

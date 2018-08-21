@@ -1,22 +1,17 @@
 {
-	"clbid": 120345,
+	"clbid": "0000120345",
 	"credits": 1.0,
-	"crsid": 122,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000122",
+	"department": "BIO",
 	"description": [
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures in this core course cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week. Offered each semester. Counts as \"genetics\" core category. Counts toward mathematical biology, neuroscience, and biomolecular studies concentrations. Prerequisites: BIO 150 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125."
 	],
-	"enroll": 0,
-	"groupid": 122,
+	"enrolled": 0,
+	"groupid": "0000000122",
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 40,
 	"name": "Intermediate Genetics",
 	"notes": [
@@ -24,6 +19,26 @@
 		"This course is open to a limited number of first-year students."
 	],
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: BIO 150 and CHEM 125 or CHEM 121/CHEM 123 or CH/BI 125.",
 	"revisions": [
@@ -53,15 +68,31 @@
 			"_updated": "2018-08-07T14:48:48.833727+00:00",
 			"enroll": "0",
 			"max": "40"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.775489+00:00",
+			"clbid": 120345,
+			"crsid": 122,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 122,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

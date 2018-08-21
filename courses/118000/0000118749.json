@@ -1,14 +1,12 @@
 {
-	"clbid": 118749,
+	"clbid": "0000118749",
 	"credits": 1.0,
-	"crsid": 541,
-	"departments": [
-		"GREEK"
-	],
+	"crsid": "0000000541",
+	"department": "GREEK",
 	"description": [
 		"Third-semester Greek students translate selections from Plato's dialogues (Apology, Crito, Phaedo) while reviewing vocabulary, grammar, and syntax. Topics for class discussion include the life and death of Socrates and the significance of the dialogues as works of literature. Offered annually in the fall semester. Counts toward linguistic studies concentration. Prerequisite: GREEK 112 or equivalent."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"FOL-K"
 	],
@@ -16,12 +14,29 @@
 		"Kyle Helms"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 200"
-	],
 	"max": 19,
 	"name": "Intermediate Greek",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 200",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 200",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 200",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "GREEK 112 or equivalent.",
 	"revisions": [
@@ -62,14 +77,29 @@
 			"_updated": "2018-08-07T14:48:45.048187+00:00",
 			"enroll": "8",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.417324+00:00",
+			"clbid": 118749,
+			"crsid": 541,
+			"department": null,
+			"departments": [
+				"GREEK"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"TOH 200"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,25 +1,45 @@
 {
-	"clbid": 120639,
+	"clbid": "0000120639",
 	"credits": 1.0,
-	"crsid": 818,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000818",
+	"department": "MUSIC",
 	"description": [
 		"Fourth-semester music majors continue formal musicianship studies. Students analyze and compose Western art music in styles from 1875 to the present, including late-nineteenth-century chromaticism, serialism and set theory, impressionism and neoclassicism, and blues and jazz styles. Performance and dictation studies follow these topics closely, including an introduction to jazz improvisation. Offered annually in the spring semester. Prerequisite: MUSIC 212."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"David R. Castro"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 35,
 	"name": "Post-Tonal Musicianship",
 	"number": 214,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 212.",
 	"revisions": [
@@ -55,15 +75,31 @@
 			"_updated": "2018-08-07T14:48:49.008098+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.210405+00:00",
+			"clbid": 120639,
+			"crsid": 818,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

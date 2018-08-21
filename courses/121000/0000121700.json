@@ -1,28 +1,36 @@
 {
-	"clbid": 121700,
+	"clbid": "0000121700",
 	"credits": 1.0,
-	"crsid": 19733,
-	"departments": [
-		"MEDIA"
-	],
+	"crsid": "0000019733",
+	"department": "MEDIA",
 	"description": [
 		"This course provides a capstone to the concentration. Taught as a seminar, it investigates critical and specialized issues in media from multiple and often competing perspectives. Topics change regularly and address a wide range of media-related concerns. Sample topics include Media and the Environment, Media and Religion, Media and Globalization. Offered alternate years. Prerequisite: MEDIA 160 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"William Sonnega"
 	],
 	"level": 300,
-	"locations": [
-		"TB 216",
-		"TB 216"
-	],
 	"max": 18,
 	"name": "Top: Media and the Environment",
 	"notes": [
 		"This course includes an academic civic engagement (ACE) component."
 	],
 	"number": 360,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB 216",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB 216",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MEDIA 160 or permission of instructor.",
 	"revisions": [
@@ -46,15 +54,31 @@
 			"_updated": "2018-08-07T14:48:49.771935+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.836557+00:00",
+			"clbid": 121700,
+			"crsid": 19733,
+			"department": null,
+			"departments": [
+				"MEDIA"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB 216",
+				"TB 216"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Media",
 	"type": "Topic",
 	"year": 2018

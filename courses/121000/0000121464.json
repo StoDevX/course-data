@@ -1,24 +1,51 @@
 {
-	"clbid": 121464,
+	"clbid": "0000121464",
 	"credits": 1.0,
-	"crsid": 28963,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000028963",
+	"department": "BIO",
 	"description": [
 		"Students study topics in biology. Topics vary from year to year at the discretion of the department. Class work depends on the topics and instructor, but is consistent with the amount and level of work in other 200-level biology courses. May be repeated if topics are different. Prerequisites vary. Counts as an elective toward biology major. May count toward other majors or concentrations if approved by the chair of that major/concentration. Offered periodically."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jean C. Porterfield"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 14,
 	"name": "Top: Topics in Biology",
 	"number": 292,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites vary. Counts as an elective toward biology major. May count toward other majors or concentrations if approved by the chair of that major/concentration. Offered periodically.",
 	"revisions": [
@@ -31,14 +58,29 @@
 			"_updated": "2018-08-07T14:48:46.890221+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.079017+00:00",
+			"clbid": 121464,
+			"crsid": 28963,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"title": "Topics in Biology",
 	"type": "Topic",
 	"year": 2018

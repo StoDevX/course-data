@@ -1,26 +1,28 @@
 {
-	"clbid": 120294,
+	"clbid": "0000120294",
 	"credits": 0.0,
-	"crsid": 18827,
-	"departments": [
-		"CHEM",
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 18802,
+	"crsid": "0000018827",
+	"department": "CH/BI",
+	"enrolled": 0,
+	"groupid": "0000018802",
 	"instructors": [
 		"Laura Listenberger"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 23,
 	"name": "Integr Chem/Bio III Lab",
 	"notes": [
 		"Open only to those students who have completed CH/BI 126."
 	],
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -60,15 +62,32 @@
 			"_updated": "2018-08-07T14:48:48.784928+00:00",
 			"enroll": "0",
 			"max": "23"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.649768+00:00",
+			"clbid": 120294,
+			"crsid": 18827,
+			"department": null,
+			"departments": [
+				"CHEM",
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 18802,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-1100"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

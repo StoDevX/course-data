@@ -1,26 +1,45 @@
 {
-	"clbid": 120570,
+	"clbid": "0000120570",
 	"credits": 1.0,
-	"crsid": 802,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000802",
+	"department": "MUSIC",
 	"description": [
 		"Second-semester music majors continue formal musicianship studies. Students perform rhythms and melodies at sight. Students also analyze and compose Western tonal music that employs non-dominant seventh chords, applied chords, sequences, modulations, and small forms. These topics are closely integrated into melodic and harmonic dictations. Offered annually in the spring semester. Prerequisite: MUSIC 112. Concurrent registration in MUSIC 162 (or placement into a higher level of keyboard proficiency)."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"James K. Palmer"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224",
-		"CHM 224",
-		"CHM 224"
-	],
 	"max": 24,
 	"name": "Musicianship: Tonality",
 	"number": 114,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CHM 224",
+			"start": "09:05"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CHM 224",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CHM 224",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 112. Concurrent registration in MUSIC 162 (or placement into a higher level of keyboard proficiency).",
 	"revisions": [
@@ -52,17 +71,34 @@
 			"_updated": "2018-08-07T14:48:48.983790+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.151556+00:00",
+			"clbid": 120570,
+			"crsid": 802,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 224",
+				"CHM 224",
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"MF 0905-1000",
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MF 0905-1000",
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

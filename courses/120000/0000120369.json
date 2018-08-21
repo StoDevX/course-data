@@ -1,14 +1,12 @@
 {
-	"clbid": 120369,
+	"clbid": "0000120369",
 	"credits": 1.0,
-	"crsid": 648,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000648",
+	"department": "FAMST",
 	"description": [
 		"Students examine American families through the life cycle in relation to personal and professional life, with the major emphasis on communication and commitment in interpersonal relationships. Students study courtship, marriage, adjustment to parenthood, and aging.They examine stressors that affect families such as family violence, divorce, grief and loss, and socioeconomic challenges. This course takes an interdisciplinary approach; students have opportunity for a broad range of individualized study. Offered each semester. Counts toward American studies major and family studies and management studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,16 +14,26 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 22,
 	"name": "Intro: Family Studies",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,15 +58,31 @@
 			"_updated": "2018-08-07T14:48:48.853315+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.825591+00:00",
+			"clbid": 120369,
+			"crsid": 648,
+			"department": null,
+			"departments": [
+				"FAMST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Introduction to Family Studies",
 	"type": "Research",
 	"year": 2018

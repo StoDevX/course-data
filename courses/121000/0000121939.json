@@ -1,14 +1,12 @@
 {
-	"clbid": 121939,
+	"clbid": "0000121939",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001327",
+	"department": "SPAN",
 	"description": [
 		"Students explore the diverse histories, circumstances, and contributions of Latinos in the U.S. by reading essays, news accounts, short fiction and autobiographies, and by viewing videos and TV broadcasts. They consolidate their language skills and continue to develop their ability to analyze and communicate in Spanish by writing compositions, making oral presentations, and engaging in interactive group activities. They also review Spanish structures difficult for speakers of English. Offered each semester. Prerequisite: SPAN 231or placement."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-S",
 		"MCD"
@@ -17,13 +15,23 @@
 		"Leon Narvaez"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 15,
 	"name": "Latinx Experiences in United States",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 231or placement.",
 	"revisions": [
@@ -40,16 +48,32 @@
 		{
 			"_updated": "2018-08-11T03:33:43.943457+00:00",
 			"name": "Intermed Spanish II"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.957078+00:00",
+			"clbid": 121939,
+			"crsid": 1327,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "I",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Intermediate Spanish II",
 	"type": "Research",
 	"year": 2018

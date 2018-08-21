@@ -1,24 +1,39 @@
 {
-	"clbid": 121325,
+	"clbid": "0000121325",
 	"credits": 1.0,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000800",
+	"department": "MUSIC",
 	"description": [
 		"First-semester music majors begin formal musicianship studies. Students perform basic melodies and rhythms at sight, and notate dictations of basic rhythms, melodies and harmonic progressions. Students also analyze and compose Western tonal music employing the rubrics of rhythm and meter, pitch, intervals, scales, tertian chords, inversions, harmonic progression, and SATB voice leading. Offered annually in the fall semester. Prerequisite: concurrent registration in MUSIC 161 (or placement into a higher level of keyboard proficiency)."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 25,
 	"name": "Introduction to Musicianship",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 224",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in MUSIC 161 (or placement into a higher level of keyboard proficiency).",
 	"revisions": [
@@ -43,14 +58,29 @@
 			"_updated": "2018-08-07T14:48:49.588933+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.637042+00:00",
+			"clbid": 121325,
+			"crsid": 800,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

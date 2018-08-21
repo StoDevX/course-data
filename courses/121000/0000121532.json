@@ -1,24 +1,39 @@
 {
-	"clbid": 121532,
+	"clbid": "0000121532",
 	"credits": 1.0,
-	"crsid": 757,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000757",
+	"department": "MATH",
 	"description": [
 		"This course is a continuation of the study of the theory of groups, rings, and fields. Topics include group actions, Sylow theory, and Galois theory. Other topics may include representation theory, module theory, and others. Offered alternate years. Prerequisite: MATH 252."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jill Dietz"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 20,
 	"name": "Abstract Algebra II",
 	"number": 352,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 252.",
 	"revisions": [
@@ -31,14 +46,29 @@
 			"_updated": "2018-08-07T14:48:49.634333+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.741404+00:00",
+			"clbid": 121532,
+			"crsid": 757,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

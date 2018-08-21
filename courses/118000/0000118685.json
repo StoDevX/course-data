@@ -1,14 +1,12 @@
 {
-	"clbid": 118685,
+	"clbid": "0000118685",
 	"credits": 0.5,
-	"crsid": 1012,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001012",
+	"department": "ESTH",
 	"description": [
 		"This course provides students with an opportunity to develop an in-depth understanding of the principles of strength training and conditioning, including anatomical and physiological considerations, lifting techniques, equipment selection, program development/evaluation, and weightlifting safety; thus enabling them to teach and train others. This course is for exercise science majors only."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"gereqs": [
 		"ORC",
 		"SPM"
@@ -17,9 +15,6 @@
 		"Jennifer M. Holbein"
 	],
 	"level": 200,
-	"locations": [
-		"SAC 112"
-	],
 	"max": 24,
 	"name": "Prin of Strength & Fitness Training",
 	"notes": [
@@ -28,6 +23,26 @@
 		"This course recently changed from ESTH 133"
 	],
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "SAC 112",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -65,14 +80,29 @@
 			"_updated": "2018-08-07T14:48:44.982972+00:00",
 			"enroll": "11",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.258532+00:00",
+			"clbid": 118685,
+			"crsid": 1012,
+			"department": null,
+			"departments": [
+				"ESTH"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"SAC 112"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Principles of Strength and Fitness Training",
 	"type": "Research",
 	"year": 2018

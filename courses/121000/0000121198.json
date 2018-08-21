@@ -1,25 +1,33 @@
 {
-	"clbid": 121198,
+	"clbid": "0000121198",
 	"credits": 1.0,
-	"crsid": 26169,
-	"departments": [
-		"WMGST"
-	],
+	"crsid": "0000026169",
+	"department": "WMGST",
 	"description": [
 		"Required for the women's and gender studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts toward American studies major and educational studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Joanne Quimby"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 22,
 	"name": "Intro Womens/Gender St",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,15 +40,31 @@
 			"_updated": "2018-08-07T14:48:49.485498+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.574971+00:00",
+			"clbid": 121198,
+			"crsid": 26169,
+			"department": null,
+			"departments": [
+				"WMGST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Introduction to Women's and Gender Studies",
 	"type": "Research",
 	"year": 2018

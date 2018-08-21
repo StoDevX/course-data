@@ -1,14 +1,12 @@
 {
-	"clbid": 118985,
+	"clbid": "0000118985",
 	"credits": 1.0,
-	"crsid": 279,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000279",
+	"department": "ECON",
 	"description": [
 		"This course addresses the institutions that comprise modern monetary systems and the influence that these systems have on levels of income, output, employment, and prices in market economies. Monetary theory and monetary policy, including both the nature of our central bank and the role that it plays in our monetary system, are also addressed in some detail. Offered annually. Counts toward American studies major. Prerequisite: ECON 261 and either ECON 263 or STAT 272, or permission of instructor."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,9 +14,6 @@
 		"Paul Wojick"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 435"
-	],
 	"max": 15,
 	"name": "Money and Banking",
 	"notes": [
@@ -26,6 +21,26 @@
 		"space-available basis during drop/add period with permission of instructor."
 	],
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 435",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ECON 261 and either ECON 263 or STAT 272, or permission of instructor.",
 	"revisions": [
@@ -61,15 +76,30 @@
 			"_updated": "2018-08-07T14:48:45.195961+00:00",
 			"enroll": "20",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.809391+00:00",
+			"clbid": 118985,
+			"crsid": 279,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"locations": [
+				"RNS 435"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

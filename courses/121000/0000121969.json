@@ -1,14 +1,12 @@
 {
-	"clbid": 121969,
+	"clbid": "0000121969",
 	"credits": 1.0,
-	"crsid": 1137,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001137",
+	"department": "PSCI",
 	"description": [
 		"The course examines continuity and change in Russian political culture. The institutions and politics between the Soviet and Post-Soviet periods under the leadership of Yeltsin and Putin are explored. The course considers Russia as an energy-exporting state. The varied political developments of former Soviet republics in Europe, the Caucasus and Central Asia are compared and contrasted. Counts toward Russian area studies major and management studies concentration."
 	],
-	"enroll": 14,
+	"enrolled": 14,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Navruz Nekbakhtshoev"
 	],
 	"level": 200,
-	"locations": [
-		"HH 522"
-	],
 	"max": 21,
 	"name": "Russian/Eurasian Politics",
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "HH 522",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "HH 522",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "HH 522",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,14 +65,29 @@
 		{
 			"_updated": "2018-08-18T03:36:15.576353+00:00",
 			"enroll": 13
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.658770+00:00",
+			"clbid": 121969,
+			"crsid": 1137,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 14,
+			"enrolled": null,
+			"locations": [
+				"HH 522"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Russian and Eurasian Politics",
 	"type": "Research",
 	"year": 2018

@@ -1,26 +1,21 @@
 {
-	"clbid": 119691,
+	"clbid": "0000119691",
 	"credits": 1.0,
-	"crsid": 1086,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001086",
+	"department": "PHYS",
 	"description": [
 		"This course offers an introduction to the physics of sound waves, the biological, physical and psychological origins of sound perception, and the synthesis of sounds and sound production in different instruments. Students explore these topics, as well as sound recording and reproduction systems, through lectures, discussions, laboratory experiments, and student presentations. Offered during Interim. Counts toward media studies concentration. Prerequisite: proficiency in algebra and geometry. Musical experience is helpful but not required."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 1086,
+	"groupid": "0000001086",
 	"instructors": [
 		"David Nitz"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 28,
 	"name": "Musical Acoustics",
 	"notes": [
@@ -28,6 +23,38 @@
 		"Not open to first-year students during web registration."
 	],
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:10",
+			"location": "RNS 210",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:10",
+			"location": "RNS 210",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:10",
+			"location": "RNS 210",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:10",
+			"location": "RNS 210",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:10",
+			"location": "RNS 210",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "proficiency in algebra and geometry. Musical experience is helpful but not required.",
 	"revisions": [
@@ -44,14 +71,30 @@
 			"_updated": "2018-08-07T14:48:46.845354+00:00",
 			"enroll": "0",
 			"max": "28"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.958699+00:00",
+			"clbid": 119691,
+			"crsid": 1086,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1086,
+			"locations": [
+				"RNS 210"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1210PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1210PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

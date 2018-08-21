@@ -1,25 +1,33 @@
 {
-	"clbid": 120343,
+	"clbid": "0000120343",
 	"credits": 1.0,
-	"crsid": 1396,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001396",
+	"department": "THEAT",
 	"description": [
 		"A studio course focusing on the artistic decision-making process of stage direction, script analysis, directorial concepts, production designs and hands-on directing experience building on the skills developed in THEAT 232: Stage Direction. Students direct a one-act play as the final project for the course. Offered annually in the spring semester. Counts toward management studies concentration. Prerequisite: THEAT 232 and THEAT 240 or THEAT 250. THEAT 270 or THEAT 271 recommended."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Randy F. Reyes"
 	],
 	"level": 300,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 12,
 	"name": "Intermed Stage Direction",
 	"number": 338,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TB Haugen",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TB Haugen",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "THEAT 232 and THEAT 240 or THEAT 250. THEAT 270 or THEAT 271 recommended.",
 	"revisions": [
@@ -36,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:48.831760+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.768297+00:00",
+			"clbid": 120343,
+			"crsid": 1396,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB Haugen",
+				"TB Haugen"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Intermediate Stage Direction",
 	"type": "Research",
 	"year": 2018

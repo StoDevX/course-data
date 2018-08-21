@@ -1,22 +1,25 @@
 {
-	"clbid": 119209,
+	"clbid": "0000119209",
 	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 3,
-	"groupid": 192,
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 3,
+	"groupid": "0000000192",
 	"instructors": [
 		"Denis Drolet"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
 	"max": 16,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 355",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:45.319004+00:00",
 			"enroll": "3",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.101933+00:00",
+			"clbid": 119209,
+			"crsid": 193,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 3,
+			"enrolled": null,
+			"groupid": 192,
+			"locations": [
+				"RNS 355"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1250-0350PM"
+			]
 		}
 	],
 	"section": "G",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

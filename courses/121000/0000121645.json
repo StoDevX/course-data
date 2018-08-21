@@ -1,14 +1,12 @@
 {
-	"clbid": 121645,
+	"clbid": "0000121645",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000498",
+	"department": "WRIT",
 	"description": [
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections that explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing. This course is limited to first-year students and sophomores."
 	],
-	"enroll": 9,
+	"enrolled": 9,
 	"gereqs": [
 		"FYW"
 	],
@@ -16,16 +14,26 @@
 		"Mark Allister"
 	],
 	"level": 100,
-	"locations": [
-		"RML 421",
-		"RML 421"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"notes": [
 		"Section topic: Gender and Sports."
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 421",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 421",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -61,16 +69,32 @@
 		{
 			"_updated": "2018-08-15T03:35:00.405710+00:00",
 			"enroll": 10
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.588358+00:00",
+			"clbid": 121645,
+			"crsid": 498,
+			"department": null,
+			"departments": [
+				"WRIT"
+			],
+			"enroll": 9,
+			"enrolled": null,
+			"locations": [
+				"RML 421",
+				"RML 421"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "M",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

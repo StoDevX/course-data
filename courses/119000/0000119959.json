@@ -1,28 +1,43 @@
 {
-	"clbid": 119959,
+	"clbid": "0000119959",
 	"credits": 1.0,
-	"crsid": 1261,
-	"departments": [
-		"RUSSN"
-	],
+	"crsid": "0000001261",
+	"department": "RUSSN",
 	"description": [
 		"This course offers an introduction to grammar and reading through oral and written work, supplemented by reading of graded Russian prose. Offered annually in the spring semester. Prerequisite: RUSSN 111 or equivalent."
 	],
-	"enroll": 0,
-	"groupid": 1261,
+	"enrolled": 0,
+	"groupid": "0000001261",
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 20,
 	"name": "Beginning Russian II",
 	"notes": [
 		"Students in Russian 112 must also register for one lab Russian 112 AL or BL."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "RUSSN 111 or equivalent.",
 	"revisions": [
@@ -48,15 +63,31 @@
 			"_updated": "2018-08-07T14:48:48.617312+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.164995+00:00",
+			"clbid": 119959,
+			"crsid": 1261,
+			"department": null,
+			"departments": [
+				"RUSSN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1261,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

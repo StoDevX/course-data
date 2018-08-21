@@ -1,24 +1,39 @@
 {
-	"clbid": 121434,
+	"clbid": "0000121434",
 	"credits": 1.0,
-	"crsid": 435,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000435",
+	"department": "ENGL",
 	"description": [
 		"Students explore specific periods in British literature and examine the relationship between literary texts and movements and their particular cultural, political, and historical contexts. Each offering of this course examines a different literary era and emphasizes specific literary and historical issues. Click on course title in the class and lab for more information about the course for that term. Prerequisites: ENGL 185 plus at least two English courses at level II, or permission of the instructor."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Jonathan T. Naito"
 	],
 	"level": 300,
-	"locations": [
-		"RML 421"
-	],
 	"max": 15,
 	"name": "Top: Modern Irish Lit",
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 421",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ENGL 185 plus at least two English courses at level II, or permission of the instructor.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:45.417890+00:00",
 			"enroll": "11",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.338195+00:00",
+			"clbid": 121434,
+			"crsid": 435,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"RML 421"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Advanced Studies in Literary Eras: British",
 	"type": "Topic",
 	"year": 2018

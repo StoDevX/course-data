@@ -1,14 +1,12 @@
 {
-	"clbid": 120370,
+	"clbid": "0000120370",
 	"credits": 1.0,
-	"crsid": 32292,
-	"departments": [
-		"MSCS"
-	],
+	"crsid": "0000032292",
+	"department": "MSCS",
 	"description": [
 		"Data is the currency of the modern world, and data science is a field that sits at the intersection between statistics and computer science. At its heart, data science is about gleaning information and making decisions from data; this course provides a solid foundation to the most important data science tools. Students develop a common language for creating visualizations, wrangling with data, programming in a literate manner, producing reproducible research, and communicating results. Counts toward statistics concentration. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,16 +14,26 @@
 		"Robert D. Eisinger"
 	],
 	"level": 200,
-	"locations": [
-		"HH 201",
-		"HH 201"
-	],
 	"max": 30,
 	"name": "Introduction to Data Science",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 264,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "HH 201",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "HH 201",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -71,15 +79,31 @@
 			"_updated": "2018-08-07T14:48:48.854302+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.827925+00:00",
+			"clbid": 120370,
+			"crsid": 32292,
+			"department": null,
+			"departments": [
+				"MSCS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 201",
+				"HH 201"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120845,
+	"clbid": "0000120845",
 	"credits": 1.0,
-	"crsid": 20072,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000020072",
+	"department": "WRIT",
 	"description": [
 		"Blending the reading seminar and writing workshop, this course offers advanced practice in critical reading and writing with emphasis on a particular discipline or topic. Students will read and respond critically to a range of writing that may include textbook chapters, popular feature stories, and creative literature. The course emphasizes how writers make and support claims, integrate research, and narrate to communicate effectively in a variety of genres for multiple audiences. Click on course title in the class and lab for more information about the course for that term. Prequisite: successful completion of FYW."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Diane C. LeBlanc"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 316"
-	],
 	"max": 15,
 	"name": "Top: Sci in World & Word",
 	"notes": [
 		"Prerequisite: completion of FYW requirement."
 	],
 	"number": 211,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 316",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 316",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 316",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "completion of FYW requirement.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:49.130136+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.535681+00:00",
+			"clbid": 120845,
+			"crsid": 20072,
+			"department": null,
+			"departments": [
+				"WRIT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 316"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Topics in Writing",
 	"type": "Topic",
 	"year": 2018

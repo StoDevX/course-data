@@ -1,14 +1,12 @@
 {
-	"clbid": 120118,
+	"clbid": "0000120118",
 	"credits": 1.0,
-	"crsid": 1168,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001168",
+	"department": "PSYCH",
 	"description": [
 		"This course helps students better understand human development from the moment of conception and across the life span. The course focuses on biological and environmental factors that shape human development. Major changes in physical, cognitive, personality and social development are discussed. Offered each semester. Counts toward exercise science, nursing, social work, and women's and gender studies majors and educational studies, family studies, and women's and gender studies concentrations. Prerequisite: PSYCH 125."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,29 @@
 		"Anna E. Johnson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 25,
 	"name": "Developmental Psych",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 208",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125.",
 	"revisions": [
@@ -38,15 +53,30 @@
 			"_updated": "2018-08-07T14:48:48.706464+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.421950+00:00",
+			"clbid": 120118,
+			"crsid": 1168,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 208"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Developmental Psychology",
 	"type": "Research",
 	"year": 2018

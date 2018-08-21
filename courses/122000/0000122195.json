@@ -1,14 +1,12 @@
 {
-	"clbid": 122195,
+	"clbid": "0000122195",
 	"credits": 1.0,
-	"crsid": 21399,
-	"departments": [
-		"NORW"
-	],
+	"crsid": "0000021399",
+	"department": "NORW",
 	"description": [
 		"This interdisciplinary course explores the Sámi, an indigenous people living mainly in the northern parts of Norway, Sweden, Finland, and Russia. Students first place the Sámi in a historical-cultural context by examining the Sámi's social and economic systems, religion, customs, and values. The major portion of the course examines the Sámi primarily from within: the Sámi will present themselves through their literature, film, music, and art. Taught in English. Offered periodically. Counts toward linguistic studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS",
 		"MCG",
@@ -18,13 +16,23 @@
 		"Kari L. Dorer"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 22,
 	"name": "Sami:Tradition/Transition",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,15 +45,31 @@
 			"_updated": "2018-08-07T14:48:49.843594+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.013839+00:00",
+			"clbid": 122195,
+			"crsid": 21399,
+			"department": null,
+			"departments": [
+				"NORW"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "The Sámi: Traditions in Transition",
 	"type": "Research",
 	"year": 2018

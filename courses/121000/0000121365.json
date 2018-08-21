@@ -1,14 +1,12 @@
 {
-	"clbid": 121365,
+	"clbid": "0000121365",
 	"credits": 1.0,
-	"crsid": 25601,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000025601",
+	"department": "ART",
 	"description": [
 		"This course explores in depth the issues most crucial to artists working today in an increasingly globalized art scene. Students investigate the complexities of new media, new methods of production and exhibition, and theoretical models through readings and a required field trip to a contemporary art museum. Students analyze both journalistic criticism and theoretical texts, encompassing a wide variety of perspectives, and respond through short writing assignments and classroom discussion. Fee for field trip may be required. Offered alternate years. Prerequisite: at least one art history or studio art course, or permission of the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,41 @@
 		"Christopher Tradowsky"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 202"
-	],
 	"max": 20,
 	"name": "Art Now",
 	"number": 280,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "CAD 202",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "CAD 202",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "CAD 202",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "CAD 202",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "CAD 202",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "at least one art history or studio art course, or permission of the instructor.",
 	"revisions": [
@@ -41,14 +68,29 @@
 			"_updated": "2018-08-07T14:48:46.884523+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.063277+00:00",
+			"clbid": 121365,
+			"crsid": 25601,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 202"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"title": "Art Now: Critical Issues in Contemporary Art",
 	"type": "Research",
 	"year": 2018

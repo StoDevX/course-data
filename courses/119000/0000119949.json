@@ -1,28 +1,43 @@
 {
-	"clbid": 119949,
+	"clbid": "0000119949",
 	"credits": 1.0,
-	"crsid": 660,
-	"departments": [
-		"JAPAN"
-	],
+	"crsid": "0000000660",
+	"department": "JAPAN",
 	"description": [
 		"This course is an introduction to speaking, reading, and writing Japanese; writing includes the learning of all syllabic letters (Hiragana and Katakana) and basic Kanji (Chinese characters). Class meets four times weekly. Individual language laboratory visits are also required. Offered annually in the spring semester. Prerequisite: JAPAN 111 or equivalent."
 	],
-	"enroll": 0,
-	"groupid": 660,
+	"enrolled": 0,
+	"groupid": "0000000660",
 	"instructors": [
 		"Joanne Quimby"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 310"
-	],
 	"max": 14,
 	"name": "Beginning Japanese II",
 	"notes": [
 		"Students in Japanese 112B must also register for one lab Japanese 112 AL or BL."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 310",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 310",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 310",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "JAPAN 111 or equivalent.",
 	"revisions": [
@@ -39,15 +54,31 @@
 			"_updated": "2018-08-07T14:48:48.607555+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.120952+00:00",
+			"clbid": 119949,
+			"crsid": 660,
+			"department": null,
+			"departments": [
+				"JAPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 660,
+			"locations": [
+				"TOH 310"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

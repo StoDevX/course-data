@@ -1,21 +1,16 @@
 {
-	"clbid": 121465,
+	"clbid": "0000121465",
 	"credits": 1.0,
-	"crsid": 20158,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000020158",
+	"department": "BIO",
 	"description": [
 		"This course introduces computer programming to biologists and allows for the creative application of this skill to an array of biological questions, with an emphasis on advanced genetics topics. From mining large genetic sequence databases to simulating population dynamics, we explore how computational tools are becoming essential to the study of a broad range of biological systems. Students participate in a semester-long project that allows them to sequence and publish their own DNA and analyze their evolutionary history. Counts toward biomolecular science and mathematical biology concentrations. Prerequisite: BIO 233."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 16,
 	"name": "Principles of Bioinformatics",
 	"notes": [
@@ -24,6 +19,38 @@
 		"Sophomores may register by permission of instructor."
 	],
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BIO 233.",
 	"revisions": [
@@ -36,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:46.891188+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.081327+00:00",
+			"clbid": 121465,
+			"crsid": 20158,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

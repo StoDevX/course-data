@@ -1,22 +1,30 @@
 {
-	"clbid": 121704,
+	"clbid": "0000121704",
 	"credits": 1.0,
-	"crsid": 30298,
-	"departments": [
-		"PSCI"
-	],
-	"enroll": 0,
+	"crsid": "0000030298",
+	"department": "PSCI",
+	"enrolled": 0,
 	"instructors": [
 		"Menevis Cilizoglu"
 	],
 	"level": 0,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Placeholder Course",
 	"number": 1,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,16 +43,32 @@
 			"_updated": "2018-08-07T14:48:49.774898+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.844086+00:00",
+			"clbid": 121704,
+			"crsid": 30298,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

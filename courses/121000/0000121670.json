@@ -1,14 +1,12 @@
 {
-	"clbid": 121670,
+	"clbid": "0000121670",
 	"credits": 1.0,
-	"crsid": 229,
-	"departments": [
-		"CLASS"
-	],
+	"crsid": "0000000229",
+	"department": "CLASS",
 	"description": [
 		"For the Greeks and Romans myth was a cultural reality, just as it is for us. Students in this course read the famous tales told by the poets Homer, Hesiod, Aeschylus, Sophocles, Euripides, Vergil, and Ovid, and ponder the deeper truths contained in their works of fiction. The class also explores the use of classical myth in later literature and its manifestations in art, music, and drama from ancient to modern times. Offered annually. Counts toward ancient studies, classics, Greek, and Latin majors."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Steve T. Reece"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 30,
 	"name": "Greek & Roman Myth-Tr",
 	"number": 241,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +43,31 @@
 			"_updated": "2018-08-07T14:48:49.746866+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.777767+00:00",
+			"clbid": 121670,
+			"crsid": 229,
+			"department": null,
+			"departments": [
+				"CLASS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Greek and Roman Myth",
 	"type": "Research",
 	"year": 2018

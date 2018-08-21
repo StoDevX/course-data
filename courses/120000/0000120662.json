@@ -1,22 +1,25 @@
 {
-	"clbid": 120662,
+	"clbid": "0000120662",
 	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 0,
-	"groupid": 1074,
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 0,
+	"groupid": "0000001074",
 	"instructors": [
 		"Amy Larsen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 17,
 	"name": "Principles Physics II Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 292",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:49.027171+00:00",
 			"enroll": "0",
 			"max": "17"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.253723+00:00",
+			"clbid": 120662,
+			"crsid": 1075,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1074,
+			"locations": [
+				"RNS 292"
+			],
+			"offerings": null,
+			"times": [
+				"T 0830-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0830-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

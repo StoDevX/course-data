@@ -1,21 +1,48 @@
 {
-	"clbid": 121462,
+	"clbid": "0000121462",
 	"credits": 0.0,
-	"crsid": 19223,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000019223",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Diane K. Angell"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 16,
 	"name": "Biology of Reproduction Lab",
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,14 +59,29 @@
 		{
 			"_updated": "2018-08-10T03:33:25.858063+00:00",
 			"section": "A"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.074259+00:00",
+			"clbid": 121462,
+			"crsid": 19223,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

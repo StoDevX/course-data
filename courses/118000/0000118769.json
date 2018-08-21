@@ -1,14 +1,12 @@
 {
-	"clbid": 118769,
+	"clbid": "0000118769",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001375",
+	"department": "THEAT",
 	"description": [
 		"A broad-based introduction to the art and craft of theater, this course focuses on the roles of actor, director, playwright, and designer, as well as aspects of theater history, performance, and literature. Students examine theater as a culturally diverse art form, with emphasis on the ways ethnicity, gender, race, religion, and sexual orientation inform theater in the United States. Students attend performances on campus and in the Twin Cities and integrate them with readings, lectures, and discussions. A ticket fee is required. Offered each semester."
 	],
-	"enroll": 37,
+	"enrolled": 37,
 	"gereqs": [
 		"ALS-A",
 		"MCD",
@@ -18,15 +16,32 @@
 		"Karen Wilson"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 50,
 	"name": "Intro to Theater",
 	"notes": [
 		"Course fee $62.00"
 	],
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "CAD 305",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -70,14 +85,29 @@
 			"_updated": "2018-08-07T14:48:45.066675+00:00",
 			"enroll": "37",
 			"max": "50"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.484162+00:00",
+			"clbid": 118769,
+			"crsid": 1375,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 37,
+			"enrolled": null,
+			"locations": [
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Introduction to Theater",
 	"type": "Research",
 	"year": 2018

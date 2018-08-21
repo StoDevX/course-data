@@ -1,22 +1,16 @@
 {
-	"clbid": 118496,
+	"clbid": "0000118496",
 	"credits": 1.0,
-	"crsid": 753,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000753",
+	"department": "MATH",
 	"description": [
 		"This course covers partial differential equations from an applied perspective and emphasizes simple models involving phenomena such as wave motion and diffusion. Topics and techniques such as separation of variables, boundary value problems, Fourier series, and orthogonal functions are developed carefully. Mathematical computing is used freely. Offered alternate years. Counts toward neuroscience and mathematical biology concentrations. Prerequisite: MATH 230."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"instructors": [
 		"Matthew Wright"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 18,
 	"name": "Differential Equations II",
 	"notes": [
@@ -24,6 +18,20 @@
 		"This course has class-year limits."
 	],
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 184",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 184",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 230.",
 	"revisions": [
@@ -62,15 +70,31 @@
 			"_updated": "2018-08-07T14:48:44.746262+00:00",
 			"enroll": "24",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.965128+00:00",
+			"clbid": 118496,
+			"crsid": 753,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 24,
+			"enrolled": null,
+			"locations": [
+				"TOH 184",
+				"TOH 184"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

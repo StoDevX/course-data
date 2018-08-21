@@ -1,22 +1,25 @@
 {
-	"clbid": 120276,
+	"clbid": "0000120276",
 	"credits": 0.0,
-	"crsid": 127,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 126,
+	"crsid": "0000000127",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000000126",
 	"instructors": [
 		"Sarah Amugongo"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 22,
 	"name": "Human Anatomy & Physiology Lab",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +41,31 @@
 			"_updated": "2018-08-07T14:48:48.771986+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.619521+00:00",
+			"clbid": 120276,
+			"crsid": 127,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 126,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-1100"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

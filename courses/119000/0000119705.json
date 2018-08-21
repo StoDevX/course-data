@@ -1,14 +1,12 @@
 {
-	"clbid": 119705,
+	"clbid": "0000119705",
 	"credits": 1.0,
-	"crsid": 939,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000939",
+	"department": "NURS",
 	"description": [
 		"This course explores the sources, chemical composition, and metabolic behavior of nutrients. Nutritional requirements for a balanced diet are examined as well as the consequences of excesses and deficiencies. Students use nutrition tools and guidelines to make sound food choices, learn how to read food labels, and consider factors affecting food consumption. Class activities increase students' awareness of a healthy diet, help students evaluate nutrition behaviors, and facilitate a nutritionally sound lifestyle. Offered annually. This is an elective course."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,41 @@
 		"Susan Huehn"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 280"
-	],
 	"max": 30,
 	"name": "Nutrition and Wellness",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TOH 280",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TOH 280",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TOH 280",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TOH 280",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TOH 280",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,15 +61,30 @@
 			"_updated": "2018-08-07T14:48:46.849098+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.967782+00:00",
+			"clbid": 119705,
+			"crsid": 939,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 280"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

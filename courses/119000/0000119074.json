@@ -1,14 +1,12 @@
 {
-	"clbid": 119074,
+	"clbid": "0000119074",
 	"credits": 1.0,
-	"crsid": 321,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000321",
+	"department": "EDUC",
 	"description": [
 		"This course is designed to assist students in developing their own teacher style as they prepare to become full-time teachers. Topics include the roles and responsibilities of teachers, methods of instruction, planning, classroom management, assessment and reporting and other current educational issues. Through micro-teaching and school-based field experiences, they also practice instructional skills and techniques. Required 20-hour field experience. Offered each semester. Prerequisite: EDUC 290 and acceptance into the teacher education program."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,9 +14,6 @@
 		"Courtney A. Humm"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 18,
 	"name": "Principles of Education, K-12",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Prerequisite: EDUC 290 and acceptance into the teacher education program."
 	],
 	"number": 330,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 214",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 214",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 214",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 290 and acceptance into the teacher education program.",
 	"revisions": [
@@ -46,15 +61,30 @@
 		{
 			"_updated": "2018-08-09T03:33:25.645183+00:00",
 			"enroll": 16
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.917378+00:00",
+			"clbid": 119074,
+			"crsid": 321,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

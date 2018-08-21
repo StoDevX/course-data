@@ -1,34 +1,59 @@
 {
-	"clbid": 118277,
+	"clbid": "0000118277",
 	"credits": 1.0,
-	"crsid": 1076,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001076",
+	"department": "PHYS",
 	"description": [
 		"This three-semester calculus-based sequence leads the student through the basic principles that account for the processes involved in baseballs, car engines, electrical power distribution systems, stereos, and black holes. It is the starting point for a major in physics and is also appropriate for majors in fields such as chemistry or mathematics who desire more mathematical depth than would be used in the two-semester PHYS 124 - PHYS 125 sequence. Physics 130 is a study of Newtonian mechanics --- motion, forces, energy, gravity, and rotation. There is one 2.5 -hour laboratory meeting per week. Offered annually in the fall semester. Counts toward computer science major. Prerequisite: concurrent registration in (or previous completion of) MATH 119 or MATH 120 or equivalent."
 	],
-	"enroll": 2,
+	"enrolled": 2,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 1076,
+	"groupid": "0000001076",
 	"instructors": [
 		"Anne M. Gothmann"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210",
-		"RNS 210",
-		"RNS 210"
-	],
 	"max": 25,
 	"name": "Analytical I",
 	"notes": [
 		"Students in Physics 130B must also register for one Physics 130 lab."
 	],
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 210",
+			"start": "10:45"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 210",
+			"start": "10:05"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 210",
+			"start": "09:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in (or previous completion of) MATH 119 or MATH 120 or equivalent.",
 	"revisions": [
@@ -51,17 +76,35 @@
 			"_updated": "2018-08-07T14:48:44.617148+00:00",
 			"enroll": "1",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.636849+00:00",
+			"clbid": 118277,
+			"crsid": 1076,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 2,
+			"enrolled": null,
+			"groupid": 1076,
+			"locations": [
+				"RNS 210",
+				"RNS 210",
+				"RNS 210"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140",
+				"T 1005-1100",
+				"Th 0955-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140",
-		"T 1005-1100",
-		"Th 0955-1050"
-	],
 	"title": "Analytical Physics I",
 	"type": "Research",
 	"year": 2018

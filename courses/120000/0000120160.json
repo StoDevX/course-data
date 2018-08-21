@@ -1,14 +1,12 @@
 {
-	"clbid": 120160,
+	"clbid": "0000120160",
 	"credits": 1.0,
-	"crsid": 979,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000979",
+	"department": "PHIL",
 	"description": [
 		"This course examines the main Western ethical theories and their application to contemporary moral concerns. Theoretical issues may include rights, duties, virtue, hedonism, egoism, the relation between ethics and theology, the fact-value distinction, relativism, and pluralism. Students discuss current topics such as global economic justice, euthanasia, the death penalty, animal rights, censorship, racism, privacy rights versus public safety, reproductive ethics, and environmental ethics. Offered annually. Counts toward management studies concentration. Prerequisite: completion of BTS-T or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN",
 		"WRI"
@@ -17,10 +15,6 @@
 		"Corliss Swain"
 	],
 	"level": 200,
-	"locations": [
-		"HH 502",
-		"HH 502"
-	],
 	"max": 25,
 	"name": "Ethics and the Good Life",
 	"notes": [
@@ -28,6 +22,20 @@
 		"open to all except first-year students."
 	],
 	"number": 252,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 502",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 502",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "completion of BTS-T or permission of instructor.",
 	"revisions": [
@@ -44,15 +52,31 @@
 			"_updated": "2018-08-07T14:48:48.734914+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.521333+00:00",
+			"clbid": 120160,
+			"crsid": 979,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 502",
+				"HH 502"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

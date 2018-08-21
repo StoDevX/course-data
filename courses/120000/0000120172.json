@@ -1,14 +1,12 @@
 {
-	"clbid": 120172,
+	"clbid": "0000120172",
 	"credits": 1.0,
-	"crsid": 1066,
-	"departments": [
-		"ESTH"
-	],
+	"crsid": "0000001066",
+	"department": "ESTH",
 	"description": [
 		"Students may be co-registered for the capstone course and their final core courses in the major. Students conduct semester-long research on a topic and present their findings in the form of a research paper. Offered annually. Prerequisite: senior standing."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,15 +14,32 @@
 		"Cynthia Book"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 14,
 	"name": "Exercise Science Seminar",
 	"notes": [
 		"Open only to seniors."
 	],
 	"number": 390,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "SAC 103",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "senior standing.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:48.741580+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.541698+00:00",
+			"clbid": 120172,
+			"crsid": 1066,
+			"department": null,
+			"departments": [
+				"ESTH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"SAC 103"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

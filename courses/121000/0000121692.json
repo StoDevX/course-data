@@ -1,25 +1,33 @@
 {
-	"clbid": 121692,
+	"clbid": "0000121692",
 	"credits": 1.0,
-	"crsid": 18778,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000018778",
+	"department": "ENVST",
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Topics may include Environment and Theology, Environmental Justice, Ecotourism, and Literature of the Poles. Class is largely discussion-based but may include a lab/fieldwork component depending on the topic. May be repeated if topic is different. Offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Kiara Jorgenson"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Top: Biophilia",
 	"number": 281,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,15 +54,31 @@
 			"_updated": "2018-08-07T14:48:49.764108+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.818985+00:00",
+			"clbid": 121692,
+			"crsid": 18778,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Environmental Studies",
 	"type": "Topic",
 	"year": 2018

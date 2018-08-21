@@ -1,24 +1,39 @@
 {
-	"clbid": 120527,
+	"clbid": "0000120527",
 	"credits": 1.0,
-	"crsid": 1093,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001093",
+	"department": "PHYS",
 	"description": [
 		"This course utilizes integral and vector calculus in a thorough and analytic examination of classical electromagnetic theory and the physical laws on which it is based. Topics include electric and magnetic fields, macroscopic interaction of electromagnetism with matter, and the propagation of electromagnetic waves in various media. Students in this course are normally registered for PHYS 385 as well, in order to complete the requirements for the physics major. Offered annually in the spring semester. Prerequisites: PHYS 232, MATH 230, and one of the following: MATH 226, MATH 330, CSCI 251, or similar course upon approval of the department chair."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jason J. Engbrecht"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 8,
 	"name": "Maxwell's Equations",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 297",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PHYS 232, MATH 230, and one of the following: MATH 226, MATH 330, CSCI 251, or similar course upon approval of the department chair.",
 	"revisions": [
@@ -35,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:48.956778+00:00",
 			"enroll": "0",
 			"max": "8"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.085249+00:00",
+			"clbid": 120527,
+			"crsid": 1093,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 297"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

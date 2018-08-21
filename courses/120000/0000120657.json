@@ -1,22 +1,25 @@
 {
-	"clbid": 120657,
+	"clbid": "0000120657",
 	"credits": 0.0,
-	"crsid": 22827,
-	"departments": [
-		"STAT"
-	],
-	"enroll": 0,
-	"groupid": 1402,
+	"crsid": "0000022827",
+	"department": "STAT",
+	"enrolled": 0,
+	"groupid": "0000001402",
 	"instructors": [
 		"Robert D. Eisinger"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 27,
 	"name": "Principles of Statistics Lab",
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 115",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:49.022434+00:00",
 			"enroll": "0",
 			"max": "27"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.244568+00:00",
+			"clbid": 120657,
+			"crsid": 22827,
+			"department": null,
+			"departments": [
+				"STAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1402,
+			"locations": [
+				"RML 115"
+			],
+			"offerings": null,
+			"times": [
+				"F 0905-1000"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"F 0905-1000"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,27 +1,30 @@
 {
-	"clbid": 118530,
+	"clbid": "0000118530",
 	"credits": 0.5,
-	"crsid": 336,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000336",
+	"department": "EDUC",
 	"description": [
 		"Future teachers identify and acquire skills to serve exceptional students more effectively in the regular classroom. Students read and discuss to expand their knowledge of the broad spectrum of resources available for students with disabilities, second language learners, and those labeled \"at-risk.\" Historical perspectives as well as inclusion, collaboration, curriculum development, and other current topics are included. Offered each semester. Prerequisite: EDUC 290 or permission of instructor."
 	],
-	"enroll": 16,
+	"enrolled": 16,
 	"instructors": [
 		"Heather Campbell"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 24,
 	"name": "Exceptional Learners",
 	"notes": [
 		"Open to rising Seniors and Juniors only."
 	],
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 214",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 290 or permission of instructor.",
 	"revisions": [
@@ -38,14 +41,29 @@
 			"_updated": "2018-08-07T14:48:44.763771+00:00",
 			"enroll": "16",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.002492+00:00",
+			"clbid": 118530,
+			"crsid": 336,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 16,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"Th 1245-0205PM"
-	],
 	"title": "Differentiated Instruction for Exceptional Learners",
 	"type": "Research",
 	"year": 2018

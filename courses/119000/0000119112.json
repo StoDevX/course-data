@@ -1,26 +1,21 @@
 {
-	"clbid": 119112,
+	"clbid": "0000119112",
 	"credits": 1.0,
-	"crsid": 1158,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001158",
+	"department": "PSYCH",
 	"description": [
 		"This course prepares the student with tools for understanding how research studies in psychology are conceptualized, designed, carried out, interpreted, and disseminated to the public. Use of library and Internet resources, ethical guidelines in the conduct of research and the skills of good scientific writing are emphasized. Students work independently and in small groups to design and conduct their own research projects. The course includes lecture and laboratory work. Offered each semester. Counts toward environmental studies major (social science emphasis), exercise science major, and statistics concentration. Prerequisites: PSYCH 125, and STAT 110 or STAT 212 or STAT 214 or ECON 263."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
-	"groupid": 1158,
+	"groupid": "0000001158",
 	"grouptype": "2",
 	"instructors": [
 		"Jessica M. Benson"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 131"
-	],
 	"max": 18,
 	"name": "Research Methods",
 	"notes": [
@@ -28,6 +23,26 @@
 		"Prerequisite: completion of STAT 110, STAT 212, STAT 214, or STAT 263."
 	],
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 131",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 131",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 131",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PSYCH 125, and STAT 110 or STAT 212 or STAT 214 or ECON 263.",
 	"revisions": [
@@ -70,15 +85,31 @@
 			"_updated": "2018-08-07T14:48:45.263934+00:00",
 			"enroll": "19",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.977176+00:00",
+			"clbid": 119112,
+			"crsid": 1158,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 19,
+			"enrolled": null,
+			"groupid": 1158,
+			"locations": [
+				"RNS 131"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Research Methods in Psychology",
 	"type": "Research",
 	"year": 2018

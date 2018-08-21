@@ -1,14 +1,12 @@
 {
-	"clbid": 120107,
+	"clbid": "0000120107",
 	"credits": 1.0,
-	"crsid": 21602,
-	"departments": [
-		"SCICN"
-	],
+	"crsid": "0000021602",
+	"department": "SCICN",
 	"description": [
 		"This course examines the mutual influences of science and society while exploring the historical, political, economic, and religious aspects of these influences. It concerns the institutional settings that shape the practices of science and the vocation of scientists. It analyzes SCICN 213 and SCICN 215. Offered annually in the spring semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T",
 		"HBS",
@@ -19,15 +17,32 @@
 		"Joshua Anderson"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 24,
 	"name": "Cultural Context",
 	"notes": [
 		"Open to Science Conversation students only."
 	],
 	"number": 217,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -61,14 +76,29 @@
 			"_updated": "2018-08-07T14:48:48.700105+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.404488+00:00",
+			"clbid": 120107,
+			"crsid": 21602,
+			"department": null,
+			"departments": [
+				"SCICN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "The Cultural Context: Science and Society",
 	"type": "Research",
 	"year": 2018

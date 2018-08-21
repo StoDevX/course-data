@@ -1,14 +1,12 @@
 {
-	"clbid": 120357,
+	"clbid": "0000120357",
 	"credits": 1.0,
-	"crsid": 27940,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000027940",
+	"department": "ART",
 	"description": [
 		"This course introduces students to the working methods of Art History. Students learn to analyze works of art visually, to understand the relationships between works of art and their cultural contexts, to consider the practices and politics of museum display, and to think critically about the role of art in their own lives and in society. The theme of the course varies by instructor; see the department website for current offerings. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"ORC"
@@ -17,12 +15,29 @@
 		"Nancy M. Thompson"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "Intro to Art History",
 	"number": 153,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +50,30 @@
 			"_updated": "2018-08-07T14:48:48.842497+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.797680+00:00",
+			"clbid": 120357,
+			"crsid": 27940,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Introduction to Art History",
 	"type": "Research",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 119102,
+	"clbid": "0000119102",
 	"credits": 0.5,
-	"crsid": 1019,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001019",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction in basic strokes, history, rules, etiquette, and terminology of racquet sports (tennis, racquetball, badminton, pickleball, table tennis). Students participate in a wide range of assessments designed to enhance physical fitness (strength, endurance, nutrition, flexibility, body composition, stress)."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"Scott Nesbit"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 16,
 	"name": "Racquet Sports .50",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "Tostrud Ctr",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,14 +53,29 @@
 			"_updated": "2018-08-07T14:48:45.256568+00:00",
 			"enroll": "15",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.961176+00:00",
+			"clbid": 119102,
+			"crsid": 1019,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 15,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Racquet Sports",
 	"type": "Research",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 121713,
+	"clbid": "0000121713",
 	"credits": 1.0,
-	"crsid": 27326,
-	"departments": [
-		"RACE"
-	],
+	"crsid": "0000027326",
+	"department": "RACE",
 	"description": [
 		"Students apply interdisciplinary theories and methods to selected topics in race and ethnic studies. The course employs a discussion format, focusing on critical reading and analytical essays. Offered in alternate years. May be repeated if topic is different."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,12 +15,29 @@
 		"Jennifer Kwon Dobbs"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Sem: Topical",
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:49.783197+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.863874+00:00",
+			"clbid": 121713,
+			"crsid": 27326,
+			"department": null,
+			"departments": [
+				"RACE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Topical Seminar",
 	"type": "Seminar",
 	"year": 2018

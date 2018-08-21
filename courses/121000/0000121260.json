@@ -1,25 +1,33 @@
 {
-	"clbid": 121260,
+	"clbid": "0000121260",
 	"credits": 1.0,
-	"crsid": 493,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000493",
+	"department": "FREN",
 	"description": [
 		"Students study a particular genre or medium (e.g., novel, play, poetry, short story, film) from a variety of periods and authors, with particular emphasis on form. Coursework includes close reading, discussion, in-depth analysis and interpretation of works. Sample topics: \"The Short Story,\" \"Autobiography,\" and \"The African Novel.\" May be repeated if genre is different. Taught in French. Prerequisite: minimum of one 270-level course."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jolene Barjasteh"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Sem: Genre:",
 	"number": 373,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "minimum of one 270-level course.",
 	"revisions": [
@@ -32,15 +40,31 @@
 			"_updated": "2018-08-07T14:48:49.509099+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.624393+00:00",
+			"clbid": 121260,
+			"crsid": 493,
+			"department": null,
+			"departments": [
+				"FREN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Genre Studies",
 	"type": "Seminar",
 	"year": 2018

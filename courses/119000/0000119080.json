@@ -1,25 +1,20 @@
 {
-	"clbid": 119080,
+	"clbid": "0000119080",
 	"credits": 1.0,
-	"crsid": 1072,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000001072",
+	"department": "PHYS",
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. One laboratory per week. Offered annually in the fall semester. Prerequisite: MATH 119 or MATH 120 or equivalent."
 	],
-	"enroll": 56,
+	"enrolled": 56,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 1072,
+	"groupid": "0000001072",
 	"instructors": [
 		"James Demas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 210"
-	],
 	"max": 50,
 	"name": "Principles Physics I",
 	"notes": [
@@ -27,6 +22,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "RNS 210",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "RNS 210",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "RNS 210",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent.",
 	"revisions": [
@@ -74,15 +89,31 @@
 			"_updated": "2018-08-07T14:48:45.245049+00:00",
 			"enroll": "56",
 			"max": "50"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.930206+00:00",
+			"clbid": 119080,
+			"crsid": 1072,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 56,
+			"enrolled": null,
+			"groupid": 1072,
+			"locations": [
+				"RNS 210"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Principles of Physics I",
 	"type": "Research",
 	"year": 2018

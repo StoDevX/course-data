@@ -1,32 +1,40 @@
 {
-	"clbid": 120870,
+	"clbid": "0000120870",
 	"credits": 1.0,
-	"crsid": 124,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000000124",
+	"department": "BIO",
 	"description": [
 		"Students focus on the natural history of Upper Midwest vertebrates and phylogenetic, morphological, and functional relationships of these animals. Laboratories include identification,and morphology. During field trips, students document bird migrations, amphibian chorusing, and other animal activities. Independent projects explore topics ranging from blue bird nesting behavior to thermal conductivity and insulation in animals. Students attend lectures plus one three-hour laboratory per week. Counts as \"comparative organismal biology\" core category. Prerequisites: BIO 150."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"SED"
 	],
-	"groupid": 124,
+	"groupid": "0000000124",
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 32,
 	"name": "Vertebrate Biology",
 	"notes": [
 		"Students in Bio 242 must also register for one lab Bio 242 AL or BL."
 	],
 	"number": 242,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "RNS 310",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "RNS 310",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: BIO 150.",
 	"revisions": [
@@ -39,15 +47,32 @@
 			"_updated": "2018-08-07T14:48:49.472600+00:00",
 			"enroll": "0",
 			"max": "32"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.544901+00:00",
+			"clbid": 120870,
+			"crsid": 124,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 124,
+			"locations": [
+				"RNS 310",
+				"RNS 310"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"type": "Research",
 	"year": 2018
 }

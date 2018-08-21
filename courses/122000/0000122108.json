@@ -1,27 +1,42 @@
 {
-	"clbid": 122108,
+	"clbid": "0000122108",
 	"credits": 1.0,
-	"crsid": 468,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000468",
+	"department": "ENVST",
 	"description": [
 		"A capstone seminar for seniors in the major and concentration, this course involves intensive study of special topics utilizing student research projects and presentations. An academic civic engagement project relies on the expertise gained from their environmental studies courses and work in other majors as applicable. Topics relate to a local or regional environmental issues, providing participants with opportunities to interact with government and regulatory agencies and community groups. Offered spring semester. Prerequisites: ENVST 137, senior status, or permission of the environmental studies chair and instructor."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Ben Kopec"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 400"
-	],
 	"max": 18,
 	"name": "Sem: Env Studies",
 	"notes": [
 		"Open only to seniors. Juniors must have permission of the chair to register."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 400",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 400",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 400",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ENVST 137, senior status, or permission of the environmental studies chair and instructor.",
 	"revisions": [
@@ -54,15 +69,30 @@
 			"_updated": "2018-08-07T14:48:45.569391+00:00",
 			"enroll": "17",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.698986+00:00",
+			"clbid": 122108,
+			"crsid": 468,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"RNS 400"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Seminar in Environmental Studies",
 	"type": "Seminar",
 	"year": 2018

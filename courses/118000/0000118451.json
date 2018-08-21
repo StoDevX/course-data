@@ -1,25 +1,45 @@
 {
-	"clbid": 118451,
+	"clbid": "0000118451",
 	"credits": 1.0,
-	"crsid": 816,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000816",
+	"department": "MUSIC",
 	"description": [
 		"Third-semester music majors continue formal musicianship studies. Students perform advanced rhythms and increasingly chromatic melodies at sight. Students analyze and compose Western tonal music that employs modal mixture, Neapolitan chords, augmented-sixth chords, and remote modulations, all of which are closely integrated into melodic and harmonic dictations. Students analyze the principle movement-length forms. Offered annually in the fall semester. Prerequisite: MUSIC 114."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Catherine R. Rodland"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232",
-		"CHM 232"
-	],
 	"max": 19,
 	"name": "Chromatic Musicianship and Form",
 	"number": 212,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 232",
+			"start": "10:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 232",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 114.",
 	"revisions": [
@@ -67,16 +87,32 @@
 			"_updated": "2018-08-07T14:48:44.722075+00:00",
 			"enroll": "18",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.885952+00:00",
+			"clbid": 118451,
+			"crsid": 816,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"CHM 232",
+				"CHM 232"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

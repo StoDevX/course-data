@@ -1,14 +1,12 @@
 {
-	"clbid": 119928,
+	"clbid": "0000119928",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001020",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Kurt Anderson"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,15 +43,30 @@
 			"_updated": "2018-08-07T14:48:48.593404+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.077940+00:00",
+			"clbid": 119928,
+			"crsid": 1020,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1150-1245PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MW 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

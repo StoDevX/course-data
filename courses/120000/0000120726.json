@@ -1,14 +1,12 @@
 {
-	"clbid": 120726,
+	"clbid": "0000120726",
 	"credits": 1.0,
-	"crsid": 26503,
-	"departments": [
-		"WMGST"
-	],
+	"crsid": "0000026503",
+	"department": "WMGST",
 	"description": [
 		"The course provides a capstone to the major. Taught as a seminar, it offers an opportunity for students to integrate their studies of women and gender across disciplines and to become more aware of the intricate web of gender, race, culture, and class that informs women's experiences. Offered annually in the spring semester. Prerequisite: WMGST 121."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,9 +14,6 @@
 		"Diane C. LeBlanc"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 13,
 	"name": "Sem: Feminisms & Masculinities",
 	"notes": [
@@ -26,6 +21,26 @@
 		"or by permission of instructor. Prerequisite: Women's and Gender Studies 121."
 	],
 	"number": 399,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "WMGST 121.",
 	"revisions": [
@@ -55,14 +70,29 @@
 			"_updated": "2018-08-07T14:48:49.067885+00:00",
 			"enroll": "0",
 			"max": "13"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.353086+00:00",
+			"clbid": 120726,
+			"crsid": 26503,
+			"department": null,
+			"departments": [
+				"WMGST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Advanced Topics in Women's and Gender Studies",
 	"type": "Research",
 	"year": 2018

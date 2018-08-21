@@ -1,14 +1,12 @@
 {
-	"clbid": 121327,
+	"clbid": "0000121327",
 	"credits": 1.0,
-	"crsid": 28971,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000028971",
+	"department": "MUSIC",
 	"description": [
 		"This course explores the relationship between concert music and popular music of the 20th century. Students learn the basic elements of music and critical listening skills, apply those skills to a variety of music from concert and popular styles, and analyze the relationship between the styles. Students use a variety of activities, including group work and individual presentations, to achieve these goals. Generally offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"ORC"
@@ -17,12 +15,29 @@
 		"David Carter"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 25,
 	"name": "Mahler to Madonna",
 	"number": 135,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CHM 232",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:49.590866+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.640990+00:00",
+			"clbid": 121327,
+			"crsid": 28971,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 232"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "From Mahler to Madonna: 20th Century Music",
 	"type": "Research",
 	"year": 2018

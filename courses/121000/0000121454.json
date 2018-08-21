@@ -1,14 +1,12 @@
 {
-	"clbid": 121454,
+	"clbid": "0000121454",
 	"credits": 1.0,
-	"crsid": 32295,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000032295",
+	"department": "SOAN",
 	"description": [
 		"This course examines the sociology of colonialism and the colonialism of sociology. The readings in this course use sociological concepts to understand the colonial legacy irrespective of geographical or temporal parameters and reflect on how sociology itself is implicated in the colonial legacy. The objective is to assay whether sociology can meaningfully render colonialism intelligible without being an instance of it and determine whether colonialism can be conceived outside of specific national instances. Offered periodically."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"HBS",
 		"HWC"
@@ -17,16 +15,26 @@
 		"Ibtesam Al Atiyat"
 	],
 	"level": 200,
-	"locations": [
-		"HH 502",
-		"HH 502"
-	],
 	"max": 25,
 	"name": "Soc of Colonialism/Postcolonialism",
 	"notes": [
 		"Not open to first-year students."
 	],
 	"number": 233,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 502",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 502",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -66,16 +74,32 @@
 		{
 			"_updated": "2018-08-15T03:35:00.341360+00:00",
 			"enroll": 18
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.372755+00:00",
+			"clbid": 121454,
+			"crsid": 32295,
+			"department": null,
+			"departments": [
+				"SOAN"
+			],
+			"enroll": 19,
+			"enrolled": null,
+			"locations": [
+				"HH 502",
+				"HH 502"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "A Sociology of Colonialism and Postcolonialism",
 	"type": "Research",
 	"year": 2018

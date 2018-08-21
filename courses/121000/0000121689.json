@@ -1,14 +1,12 @@
 {
-	"clbid": 121689,
+	"clbid": "0000121689",
 	"credits": 1.0,
-	"crsid": 29314,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000029314",
+	"department": "ENVST",
 	"description": [
 		"In this course, students examine the ethical underpinnings of the sustainable development concept; explore the interdependence of society and environment in a variety of contexts (primarily but not exclusively in \"developing\" countries); learn about the social factors that have led economic growth to be particularly unsustainable, especially with respect to the environment. Counts toward environmental studies major and concentration. Offered annually in the spring semester. Prerequisite: ENVST 137."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN"
 	],
@@ -16,12 +14,29 @@
 		"Seth Binder"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 20,
 	"name": "Sustainable Development",
 	"number": 235,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ENVST 137.",
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.762294+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.814809+00:00",
+			"clbid": 121689,
+			"crsid": 29314,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

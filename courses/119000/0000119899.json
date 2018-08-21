@@ -1,29 +1,37 @@
 {
-	"clbid": 119899,
+	"clbid": "0000119899",
 	"credits": 1.0,
-	"crsid": 201,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000201",
+	"department": "CHEM",
 	"description": [
 		"Students not only investigate the theory of modern analytical chemistry, but also examine the statistical treatment of errors, equilibrium, activities, acid/base chemistry, spectroscopy, electrochemistry, and separations. The accompanying lab course, CHEM 256, illustrates the topics discussed in CHEM 255. Students taking this course use computers for solving problems. Offered each semester. Counts toward environmental studies major (all emphases) and concentration. Prerequisites: CHEM 126 or CH/BI 227 or permission of the instructor, and concurrent registration in CHEM 256."
 	],
-	"enroll": 0,
-	"groupid": 201,
+	"enrolled": 0,
+	"groupid": "0000000201",
 	"instructors": [
 		"Mary Walczak"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 30,
 	"name": "Analytical Chemistry",
 	"notes": [
 		"Students in Chem 255 must also register for Chem 256 AL or BL."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 310",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 310",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM 126 or CH/BI 227 or permission of the instructor, and concurrent registration in CHEM 256.",
 	"revisions": [
@@ -42,15 +50,32 @@
 			"_updated": "2018-08-07T14:48:48.577051+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.026030+00:00",
+			"clbid": 119899,
+			"crsid": 201,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 201,
+			"locations": [
+				"RNS 310",
+				"RNS 310"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

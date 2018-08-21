@@ -1,14 +1,12 @@
 {
-	"clbid": 118421,
+	"clbid": "0000118421",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000733",
+	"department": "MATH",
 	"description": [
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"AQR"
 	],
@@ -16,9 +14,6 @@
 		"Jasper O. Weinburd"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 186"
-	],
 	"max": 20,
 	"name": "Calculus II",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 186",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 186",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 186",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
 	"revisions": [
@@ -71,15 +86,30 @@
 			"_updated": "2018-08-07T14:48:44.706490+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.851030+00:00",
+			"clbid": 118421,
+			"crsid": 733,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 186"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

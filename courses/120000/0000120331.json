@@ -1,22 +1,25 @@
 {
-	"clbid": 120331,
+	"clbid": "0000120331",
 	"credits": 0.0,
-	"crsid": 1267,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 0,
-	"groupid": 1266,
+	"crsid": "0000001267",
+	"department": "RUSSN",
+	"enrolled": 0,
+	"groupid": "0000001266",
 	"instructors": [
 		"Margarita Safariants"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 212"
-	],
 	"max": 18,
 	"name": "Intermed Russian II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "TOH 212",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,14 +32,30 @@
 			"_updated": "2018-08-07T14:48:48.819774+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.735936+00:00",
+			"clbid": 120331,
+			"crsid": 1267,
+			"department": null,
+			"departments": [
+				"RUSSN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1266,
+			"locations": [
+				"TOH 212"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0215PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0215PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

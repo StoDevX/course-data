@@ -1,14 +1,12 @@
 {
-	"clbid": 118982,
+	"clbid": "0000118982",
 	"credits": 0.5,
-	"crsid": 362,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000362",
+	"department": "DANCE",
 	"description": [
 		"This course builds on the concepts and components of Modern Dance I and II. Offered each semester. Prerequisite: DANCE 210/DANCE 211 or DANCE 250/DANCE 251 (at least twice) and/or permission of the instructor. Open to dance majors and other students with instructor's permission."
 	],
-	"enroll": 1,
+	"enrolled": 1,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,15 +15,32 @@
 		"Janice Roberts"
 	],
 	"level": 300,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 5,
 	"name": "Modern III",
 	"notes": [
 		"Permission of instructor required."
 	],
 	"number": 310,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:30",
+			"location": "CAD Studio 1",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "DANCE 210/DANCE 211 or DANCE 250/DANCE 251 (at least twice) and/or permission of the instructor. Open to dance majors and other students with instructor's permission.",
 	"revisions": [
@@ -48,14 +63,29 @@
 			"_updated": "2018-08-07T14:48:45.192770+00:00",
 			"enroll": "1",
 			"max": "5"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.801233+00:00",
+			"clbid": 118982,
+			"crsid": 362,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 1,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 1"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0330PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0330PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

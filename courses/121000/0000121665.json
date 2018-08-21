@@ -1,14 +1,12 @@
 {
-	"clbid": 121665,
+	"clbid": "0000121665",
 	"credits": 1.0,
-	"crsid": 20060,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000020060",
+	"department": "REL",
 	"description": [
 		"Nordic sagas and modern fantastic works pose important theological questions such as the nature of reality in fantasy, the Eucharist, honor, gift, the grotesque, evil, salvation in Christ, and life as a quest and pilgrimage. They also raise valuable problems about the relationship of Christian beliefs to cultural narratives. Students may read J.R.R. Tolkien's Lord of the Rings, G.K. Chesterton, and selected sagas, alongside theological writings. Offered periodically during Interim. Prerequisite: BTS-B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,12 +14,41 @@
 		"Gregory A. Walter"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 35,
 	"name": "Tolkien and Theology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -34,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:46.917277+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.177494+00:00",
+			"clbid": 121665,
+			"crsid": 20060,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

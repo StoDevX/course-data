@@ -1,24 +1,39 @@
 {
-	"clbid": 120543,
+	"clbid": "0000120543",
 	"credits": 1.0,
-	"crsid": 275,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000275",
+	"department": "ECON",
 	"description": [
 		"Microeconomics is the study of the resource allocation decisions by households, producers, and government and the resource allocation process in various types of market structures. Students are trained in the use of economic models and optimizing techniques to address a variety of real-world problems, including case studies from business and public policy. Offered each semester. Prerequisites: MATH 119 or MATH 120, and one of Economics 110-121 or permission of instructor. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MATH 119 or MATH 120, and one of Economics 110-121 or permission of instructor. Offered each semester.",
 	"revisions": [
@@ -49,15 +64,30 @@
 			"_updated": "2018-08-07T14:48:48.966580+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.109170+00:00",
+			"clbid": 120543,
+			"crsid": 275,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Intermediate Microeconomic Theory",
 	"type": "Research",
 	"year": 2018

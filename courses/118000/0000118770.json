@@ -1,27 +1,42 @@
 {
-	"clbid": 118770,
+	"clbid": "0000118770",
 	"credits": 1.0,
-	"crsid": 26169,
-	"departments": [
-		"WMGST"
-	],
+	"crsid": "0000026169",
+	"department": "WMGST",
 	"description": [
 		"Required for the women's and gender studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts toward American studies major and educational studies concentration."
 	],
-	"enroll": 21,
+	"enrolled": 21,
 	"instructors": [
 		"Anna Kuxhausen"
 	],
 	"level": 100,
-	"locations": [
-		"HH 434"
-	],
 	"max": 22,
 	"name": "Intro Womens/Gender St",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 434",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 434",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 434",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,15 +77,30 @@
 		{
 			"_updated": "2018-08-11T03:33:41.171615+00:00",
 			"enroll": 22
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.487119+00:00",
+			"clbid": 118770,
+			"crsid": 26169,
+			"department": null,
+			"departments": [
+				"WMGST"
+			],
+			"enroll": 21,
+			"enrolled": null,
+			"locations": [
+				"HH 434"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Introduction to Women's and Gender Studies",
 	"type": "Research",
 	"year": 2018

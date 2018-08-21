@@ -1,14 +1,12 @@
 {
-	"clbid": 120367,
+	"clbid": "0000120367",
 	"credits": 1.0,
-	"crsid": 1375,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001375",
+	"department": "THEAT",
 	"description": [
 		"A broad-based introduction to the art and craft of theater, this course focuses on the roles of actor, director, playwright, and designer, as well as aspects of theater history, performance, and literature. Students examine theater as a culturally diverse art form, with emphasis on the ways ethnicity, gender, race, religion, and sexual orientation inform theater in the United States. Students attend performances on campus and in the Twin Cities and integrate them with readings, lectures, and discussions. A ticket fee is required. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"MCD",
@@ -18,15 +16,32 @@
 		"Michelle C. Gibbs"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305"
-	],
 	"max": 50,
 	"name": "Intro to Theater",
 	"notes": [
 		"Course Fee $62.00"
 	],
 	"number": 110,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "CAD 305",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -49,14 +64,29 @@
 			"_updated": "2018-08-07T14:48:48.851360+00:00",
 			"enroll": "0",
 			"max": "50"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.820327+00:00",
+			"clbid": 120367,
+			"crsid": 1375,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Introduction to Theater",
 	"type": "Research",
 	"year": 2018

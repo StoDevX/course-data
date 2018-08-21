@@ -1,21 +1,48 @@
 {
-	"clbid": 121466,
+	"clbid": "0000121466",
 	"credits": 0.0,
-	"crsid": 20822,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
+	"crsid": "0000020822",
+	"department": "BIO",
+	"enrolled": 0,
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 16,
 	"name": "Principles of Bioinformatics Lab",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -28,14 +55,29 @@
 			"_updated": "2018-08-07T14:48:46.892041+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.083884+00:00",
+			"clbid": 121466,
+			"crsid": 20822,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

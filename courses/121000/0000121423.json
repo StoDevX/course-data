@@ -1,14 +1,12 @@
 {
-	"clbid": 121423,
+	"clbid": "0000121423",
 	"credits": 0.25,
-	"crsid": 349,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000000349",
+	"department": "DANCE",
 	"description": [
 		"International dance classes emphasize dance in its varied cultural contexts. This course surveys dance from around the world with emphasis on European and Near Eastern forms. P/N only. Ticket/transportation fee required. Offered annually."
 	],
-	"enroll": 10,
+	"enrolled": 10,
 	"gereqs": [
 		"ALS-A",
 		"SPM"
@@ -17,13 +15,23 @@
 		"Anne von Bibra"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 3",
-		"CAD Studio 3"
-	],
 	"max": 18,
 	"name": "International Dance I",
 	"number": 109,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:45",
+			"location": "CAD Studio 3",
+			"start": "11:50"
+		},
+		{
+			"day": "Th",
+			"end": "13:40",
+			"location": "CAD Studio 3",
+			"start": "12:45"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +55,31 @@
 			"_updated": "2018-08-07T14:48:45.409867+00:00",
 			"enroll": "10",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.311535+00:00",
+			"clbid": 121423,
+			"crsid": 349,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 10,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 3",
+				"CAD Studio 3"
+			],
+			"offerings": null,
+			"times": [
+				"T 1150-1245PM",
+				"Th 1245-0140PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1150-1245PM",
-		"Th 1245-0140PM"
-	],
 	"title": "International Dance I: A Survey",
 	"type": "Research",
 	"year": 2018

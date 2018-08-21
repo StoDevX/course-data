@@ -1,22 +1,25 @@
 {
-	"clbid": 119941,
+	"clbid": "0000119941",
 	"credits": 0.0,
-	"crsid": 240,
-	"departments": [
-		"CHIN"
-	],
-	"enroll": 0,
-	"groupid": 239,
+	"crsid": "0000000240",
+	"department": "CHIN",
+	"enrolled": 0,
+	"groupid": "0000000239",
 	"instructors": [
 		"Staff"
 	],
 	"level": 100,
-	"locations": [
-		"RML 115"
-	],
 	"max": 14,
 	"name": "Beginning Chinese II Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 115",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.601782+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.104458+00:00",
+			"clbid": 119941,
+			"crsid": 240,
+			"department": null,
+			"departments": [
+				"CHIN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 239,
+			"locations": [
+				"RML 115"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

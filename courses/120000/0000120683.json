@@ -1,28 +1,36 @@
 {
-	"clbid": 120683,
+	"clbid": "0000120683",
 	"credits": 1.0,
-	"crsid": 19414,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000019414",
+	"department": "PSYCH",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Jessica M. Benson"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 6,
 	"name": "Research:",
 	"notes": [
 		"Permission of instructor required to register. Closed during web registration."
 	],
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -66,15 +74,31 @@
 			"_updated": "2018-08-07T14:48:49.046376+00:00",
 			"enroll": "0",
 			"max": "6"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.296715+00:00",
+			"clbid": 120683,
+			"crsid": 19414,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Directed Undergraduate Research",
 	"type": "Research",
 	"year": 2018

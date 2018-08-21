@@ -1,14 +1,12 @@
 {
-	"clbid": 118352,
+	"clbid": "0000118352",
 	"credits": 0.25,
-	"crsid": 1004,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001004",
+	"department": "ESAC",
 	"description": [
 		"This course is for the non-swimming and the novice swimmer only."
 	],
-	"enroll": 15,
+	"enrolled": 15,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Robert Hauck"
 	],
 	"level": 100,
-	"locations": [
-		"SAC Pool"
-	],
 	"max": 16,
 	"name": "Beginning Swimming",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "08:55",
+			"location": "SAC Pool",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "08:55",
+			"location": "SAC Pool",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +47,30 @@
 			"_updated": "2018-08-07T14:48:44.677115+00:00",
 			"enroll": "15",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.779754+00:00",
+			"clbid": 118352,
+			"crsid": 1004,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 15,
+			"enrolled": null,
+			"locations": [
+				"SAC Pool"
+			],
+			"offerings": null,
+			"times": [
+				"TTh 0800-0855"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"TTh 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

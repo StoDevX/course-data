@@ -1,24 +1,27 @@
 {
-	"clbid": 120174,
+	"clbid": "0000120174",
 	"credits": 0.25,
-	"crsid": 224,
-	"departments": [
-		"BMOLS"
-	],
+	"crsid": "0000000224",
+	"department": "BMOLS",
 	"description": [
 		"A quarter-credit course devoted to a broad study of the field of biomolecular science through the reading and discussion of primary and secondary literature across the field. Through exploration of the breadth of the field, biomolecular science concentrators plan their own level III course structure. While required of all biomolecular science concentrators, this course is open to all interested students. Offered annually in the spring semester. P/N only. Prerequisite: BIO 150, CHEM 125, or CH/BI 125, or the equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 400"
-	],
 	"max": 30,
 	"name": "Expl Biomolecular Sci",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "21:00",
+			"location": "RNS 400",
+			"start": "19:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "BIO 150, CHEM 125, or CH/BI 125, or the equivalent.",
 	"revisions": [
@@ -35,14 +38,29 @@
 			"_updated": "2018-08-07T14:48:48.743414+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.546160+00:00",
+			"clbid": 120174,
+			"crsid": 224,
+			"department": null,
+			"departments": [
+				"BMOLS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RNS 400"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0700-0900PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0700-0900PM"
-	],
 	"title": "Explorations in Biomolecular Science",
 	"type": "Research",
 	"year": 2018

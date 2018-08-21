@@ -1,14 +1,12 @@
 {
-	"clbid": 118476,
+	"clbid": "0000118476",
 	"credits": 1.0,
-	"crsid": 1269,
-	"departments": [
-		"RUSSN"
-	],
+	"crsid": "0000001269",
+	"department": "RUSSN",
 	"description": [
 		"This course facilitates oral and written use of the language through conversation and composition, English to Russian translation, selections from Russian literature, and original themes. Offered annually in the fall semester. Counts toward management studies concentration. Prerequisite: RUSSN 232 or permission of instructor."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"FOL-R"
 	],
@@ -16,12 +14,29 @@
 		"Margarita Safariants"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 308"
-	],
 	"max": 18,
 	"name": "Conversation & Composition",
 	"number": 251,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TOH 308",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TOH 308",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TOH 308",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "RUSSN 232 or permission of instructor.",
 	"revisions": [
@@ -44,14 +59,29 @@
 			"_updated": "2018-08-07T14:48:44.731123+00:00",
 			"enroll": "8",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.930689+00:00",
+			"clbid": 118476,
+			"crsid": 1269,
+			"department": null,
+			"departments": [
+				"RUSSN"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"TOH 308"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Conversation and Composition",
 	"type": "Research",
 	"year": 2018

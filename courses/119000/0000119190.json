@@ -1,24 +1,39 @@
 {
-	"clbid": 119190,
+	"clbid": "0000119190",
 	"credits": 1.0,
-	"crsid": 1412,
-	"departments": [
-		"STAT"
-	],
+	"crsid": "0000001412",
+	"department": "STAT",
 	"description": [
 		"This course is an investigation of modern statistical theory along with classical mathematical statistics topics such as properties of estimators, likelihood ratio tests, and distribution theory. Additional topics include Bayesian analysis, bootstrapping, Markov Chain Monte Carlo, and other computationally intensive methods. Offered annually in the fall semester. Counts toward neuroscience concentration. Prerequisite: STAT 272 and MATH 262."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Kathryn Ziegler"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 182"
-	],
 	"max": 24,
 	"name": "Statistical Theory",
 	"number": 322,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TOH 182",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "STAT 272 and MATH 262.",
 	"revisions": [
@@ -39,14 +54,29 @@
 			"_updated": "2018-08-07T14:48:45.304358+00:00",
 			"enroll": "18",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.069346+00:00",
+			"clbid": 119190,
+			"crsid": 1412,
+			"department": null,
+			"departments": [
+				"STAT"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"TOH 182"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

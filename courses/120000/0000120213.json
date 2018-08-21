@@ -1,33 +1,41 @@
 {
-	"clbid": 120213,
+	"clbid": "0000120213",
 	"credits": 1.0,
-	"crsid": 181,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000181",
+	"department": "CHEM",
 	"description": [
 		"In addition to the in-class experience shared with Chemistry 106 and described above, this course offers a laboratory component with experiments that feature the use of forensic techniques to collect and analyze evidence including fingerprinting, drug analysis, alcohol investigation, DNA fingerprinting, and fiber analysis. Students attend three classes and one three-hour laboratory per week. Offered alternate years in the spring semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 181,
+	"groupid": "0000000181",
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 150",
-		"RNS 150"
-	],
 	"max": 24,
 	"name": "Forensic Sci With Lab",
 	"notes": [
 		"Students in CHEM 107 must also register for CHEM 107 lab."
 	],
 	"number": 107,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "RNS 150",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "RNS 150",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,15 +60,32 @@
 			"_updated": "2018-08-07T14:48:48.752595+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.568875+00:00",
+			"clbid": 120213,
+			"crsid": 181,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 181,
+			"locations": [
+				"RNS 150",
+				"RNS 150"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Forensic Science with Lab",
 	"type": "Research",
 	"year": 2018

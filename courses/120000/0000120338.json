@@ -1,14 +1,12 @@
 {
-	"clbid": 120338,
+	"clbid": "0000120338",
 	"credits": 1.0,
-	"crsid": 1327,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001327",
+	"department": "SPAN",
 	"description": [
 		"Students explore the diverse histories, circumstances, and contributions of Latinos in the U.S. by reading essays, news accounts, short fiction and autobiographies, and by viewing videos and TV broadcasts. They consolidate their language skills and continue to develop their ability to analyze and communicate in Spanish by writing compositions, making oral presentations, and engaging in interactive group activities. They also review Spanish structures difficult for speakers of English. Offered each semester. Prerequisite: SPAN 231or placement."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-S",
 		"MCD"
@@ -17,15 +15,32 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 112"
-	],
 	"max": 15,
 	"name": "Latinx Experiences in United States",
 	"notes": [
 		"Prerequisite: completion of Spanish placement test or preceding course."
 	],
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 112",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 112",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 112",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 231or placement.",
 	"revisions": [
@@ -52,15 +67,30 @@
 		{
 			"_updated": "2018-08-11T03:33:43.611464+00:00",
 			"name": "Intermed Spanish II"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.754947+00:00",
+			"clbid": 120338,
+			"crsid": 1327,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 112"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"title": "Intermediate Spanish II",
 	"type": "Research",
 	"year": 2018

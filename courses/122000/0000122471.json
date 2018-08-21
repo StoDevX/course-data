@@ -1,14 +1,12 @@
 {
-	"clbid": 122471,
+	"clbid": "0000122471",
 	"credits": 1.0,
-	"crsid": 572,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000572",
+	"department": "HIST",
 	"description": [
 		"Fascination with Napoleon has produced myriad interpretations of him and his historical significance. Was he a genius or did he \"blunder to glory\"? Was he the savior of the French Revolution or the first modern dictator? Did he reorganize the Continent as a conqueror or as the first modern European? Students use speeches, letters, and memoirs (his own, his supporters', his critics'); paintings and caricature (including his own propaganda); literature; state documents; and films to investigate the historical and the mythical Napoleon and explore how later generations (re)invent interpretations of the man."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,16 +14,26 @@
 		"Dolores Peters"
 	],
 	"level": 100,
-	"locations": [
-		"HH 429",
-		"HH 429"
-	],
 	"max": 15,
 	"name": "Top: Napoleon: Man/Myth/History",
 	"notes": [
 		"Open to first-year students only."
 	],
 	"number": 188,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 429",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 429",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +46,31 @@
 			"_updated": "2018-08-07T14:48:45.586939+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.738378+00:00",
+			"clbid": 122471,
+			"crsid": 572,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 429",
+				"HH 429"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topical Seminar",
 	"type": "Topic",
 	"year": 2018

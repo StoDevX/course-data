@@ -1,14 +1,12 @@
 {
-	"clbid": 120674,
+	"clbid": "0000120674",
 	"credits": 1.0,
-	"crsid": 745,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000745",
+	"department": "MATH",
 	"description": [
 		"Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Counts toward computer science mjaor. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Paul Zorn"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 18,
 	"name": "Real Analysis I",
 	"number": 244,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students.",
 	"revisions": [
@@ -48,16 +56,32 @@
 			"_updated": "2018-08-07T14:48:49.039191+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.281169+00:00",
+			"clbid": 120674,
+			"crsid": 745,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

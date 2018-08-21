@@ -1,14 +1,12 @@
 {
-	"clbid": 122115,
+	"clbid": "0000122115",
 	"credits": 1.0,
-	"crsid": 1211,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001211",
+	"department": "REL",
 	"description": [
 		"This course explores the interaction between Jews, Christians, and their respective religions in historical and theological perspective. Students consider basic features of Jewish belief and practice, past and present views of Jews and Christians about each other's beliefs, impact of Christian attitudes toward the Jews on the formation and development of Christian doctrines, relation between Christian theology and anti-Semitism, and the possibilities for a new relationship between Christians and Jews. Prerequisite: BTS-B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"James Hanson"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 35,
 	"name": "Moses and Jesus",
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS-B.",
 	"revisions": [
@@ -35,15 +43,31 @@
 			"_updated": "2018-08-07T14:48:49.834509+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.991986+00:00",
+			"clbid": 122115,
+			"crsid": 1211,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Moses and Jesus: Jews and Christians in Dialogue",
 	"type": "Research",
 	"year": 2018

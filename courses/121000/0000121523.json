@@ -1,14 +1,12 @@
 {
-	"clbid": 121523,
+	"clbid": "0000121523",
 	"credits": 1.0,
-	"crsid": 593,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000593",
+	"department": "HIST",
 	"description": [
 		"This course surveys the history of France since 1815 and considers, across the arc of five republics, two monarchies, two Napoleonic empires, and one authoritarian regime, what it means to be French. Organizing themes include the revolutionary tradition and the notion of republicanism, industrialization's impact on society, the transformation of France in response to two catastrophic world wars, and contemporary challenges such as austerity and immigration. Foreign Language Across the Curriculum course available in French. Offered alternate years. Counts toward French major and management studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,12 +14,29 @@
 		"Dolores Peters"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Modern France",
 	"number": 226,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +49,29 @@
 			"_updated": "2018-08-07T14:48:49.626898+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.724482+00:00",
+			"clbid": 121523,
+			"crsid": 593,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 121491,
+	"clbid": "0000121491",
 	"credits": 1.0,
-	"crsid": 59,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000059",
+	"department": "ART",
 	"description": [
 		"This course examines architectural monuments and their symbolic forms combined with evidence of earthly and divine concepts. From cave dwellings to geodesic domes, from Eastern to Western systems, students review sacred and profane structures from a variety of cultures. Each student investigates a living reality of space, function, and form found in human-built environments. Offered periodically."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Karil J. Kucera"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 30,
 	"name": "World Architecture",
 	"number": 161,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 305",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 305",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -43,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:49.599444+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.661413+00:00",
+			"clbid": 121491,
+			"crsid": 59,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 305",
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "History of World Architecture",
 	"type": "Research",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 121634,
+	"clbid": "0000121634",
 	"credits": 1.0,
-	"crsid": 498,
-	"departments": [
-		"WRIT"
-	],
+	"crsid": "0000000498",
+	"department": "WRIT",
 	"description": [
 		"First-Year Writing, taken during the first year, equips students for effective writing in the liberal arts and introduces writing as a means of learning. The course is taught in multiple sections that explore a variety of topics. In all sections, students write frequently in a variety of genres, with emphasis in writing expository essays. One or more assignments require research. As part of the writing process, students revise their writing and meet individually with course faculty to discuss their writing. This course is limited to first-year students and sophomores."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"FYW"
 	],
@@ -16,15 +14,32 @@
 		"Nicolette Bucciaglia"
 	],
 	"level": 100,
-	"locations": [
-		"RML 525"
-	],
 	"max": 18,
 	"name": "First-Year Writing",
 	"notes": [
 		"Section topic: Heroes and Villains"
 	],
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 525",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,15 +67,30 @@
 			"_updated": "2018-08-07T14:48:45.504689+00:00",
 			"enroll": "18",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.562240+00:00",
+			"clbid": 121634,
+			"crsid": 498,
+			"department": null,
+			"departments": [
+				"WRIT"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"RML 525"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

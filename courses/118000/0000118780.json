@@ -1,21 +1,16 @@
 {
-	"clbid": 118780,
+	"clbid": "0000118780",
 	"credits": 1.0,
-	"crsid": 800,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000800",
+	"department": "MUSIC",
 	"description": [
 		"First-semester music majors begin formal musicianship studies. Students perform basic melodies and rhythms at sight, and notate dictations of basic rhythms, melodies and harmonic progressions. Students also analyze and compose Western tonal music employing the rubrics of rhythm and meter, pitch, intervals, scales, tertian chords, inversions, harmonic progression, and SATB voice leading. Offered annually in the fall semester. Prerequisite: concurrent registration in MUSIC 161 (or placement into a higher level of keyboard proficiency)."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"David R. Castro"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 22,
 	"name": "Introduction to Musicianship",
 	"notes": [
@@ -24,6 +19,26 @@
 		"This course is closed until new student registration."
 	],
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "CHM 224",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "concurrent registration in MUSIC 161 (or placement into a higher level of keyboard proficiency).",
 	"revisions": [
@@ -56,15 +71,30 @@
 			"_updated": "2018-08-07T14:48:45.075600+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.505017+00:00",
+			"clbid": 118780,
+			"crsid": 800,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

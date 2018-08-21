@@ -1,14 +1,12 @@
 {
-	"clbid": 121707,
+	"clbid": "0000121707",
 	"credits": 1.0,
-	"crsid": 1110,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001110",
+	"department": "PSCI",
 	"description": [
 		"War and peace, justice and power -- these are age-old topics of the politics among nations. This course examines them by emphasizing certain problem areas in the world and evaluating the principal theories for understanding international politics. Offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,16 +14,26 @@
 		"Menevis Cilizoglu"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 32,
 	"name": "International Relations",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,16 +52,32 @@
 			"_updated": "2018-08-07T14:48:49.777722+00:00",
 			"enroll": "0",
 			"max": "32"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.850282+00:00",
+			"clbid": 121707,
+			"crsid": 1110,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

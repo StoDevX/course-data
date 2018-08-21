@@ -1,28 +1,43 @@
 {
-	"clbid": 118691,
+	"clbid": "0000118691",
 	"credits": 1.0,
-	"crsid": 217,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000217",
+	"department": "CHEM",
 	"description": [
 		"Students study how an instrument functions mechanically, mathematically, optically, and electronically, and then how its parts are linked together. Topics covered include basic electronics and computer interfacing, spectrophotometric instruments, mass spectrometers, electrochemical instrumentation, and various separation methods. Offered annually in the fall semester. Counts toward management studies concentration. Prerequisites: CHEM 255 and CHEM 256; previous or concurrent enrollment in PHYS 125 or PHYS 131 is recommended; concurrent registration in CHEM 378 is required."
 	],
-	"enroll": 7,
-	"groupid": 217,
+	"enrolled": 7,
+	"groupid": "0000000217",
 	"instructors": [
 		"Douglas J. Beussman"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 426"
-	],
 	"max": 12,
 	"name": "Instrumental Analysis",
 	"notes": [
 		"Students in Chem 382 must also register for Chem 378 AL, BL or CL."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 426",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 426",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 426",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM 255 and CHEM 256; previous or concurrent enrollment in PHYS 125 or PHYS 131 is recommended; concurrent registration in CHEM 378 is required.",
 	"revisions": [
@@ -47,14 +62,30 @@
 			"_updated": "2018-08-07T14:48:44.988211+00:00",
 			"enroll": "7",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.271777+00:00",
+			"clbid": 118691,
+			"crsid": 217,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 7,
+			"enrolled": null,
+			"groupid": 217,
+			"locations": [
+				"RNS 426"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

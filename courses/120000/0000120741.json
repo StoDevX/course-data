@@ -1,27 +1,30 @@
 {
-	"clbid": 120741,
+	"clbid": "0000120741",
 	"credits": 1.0,
-	"crsid": 655,
-	"departments": [
-		"FAMST"
-	],
+	"crsid": "0000000655",
+	"department": "FAMST",
 	"description": [
 		"This required capstone seminar explores current research and the integration of key foundation disciplines in the study of families. Students explore special topics through readings assignments and lecture material. Prerequisites: FAMST 232 and FAMST 242. Students can take FAMST 242 and FAMST 391 concurrently with permission of department chair or FAMST 391 instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Lisa L. Moore"
 	],
 	"level": 300,
-	"locations": [
-		"HH 205"
-	],
 	"max": 18,
 	"name": "Sem: Senior Seminar: Sp Top",
 	"notes": [
 		"Open to senior Family Studies concentrators only."
 	],
 	"number": 391,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "22:00",
+			"location": "HH 205",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: FAMST 232 and FAMST 242. Students can take FAMST 242 and FAMST 391 concurrently with permission of department chair or FAMST 391 instructor.",
 	"revisions": [
@@ -44,14 +47,29 @@
 			"_updated": "2018-08-07T14:48:49.074485+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.370342+00:00",
+			"clbid": 120741,
+			"crsid": 655,
+			"department": null,
+			"departments": [
+				"FAMST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 205"
+			],
+			"offerings": null,
+			"times": [
+				"M 0700-1000PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0700-1000PM"
-	],
 	"title": "Senior Seminar: Special Topics",
 	"type": "Seminar",
 	"year": 2018

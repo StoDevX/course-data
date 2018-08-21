@@ -1,14 +1,12 @@
 {
-	"clbid": 119241,
+	"clbid": "0000119241",
 	"credits": 1.0,
-	"crsid": 1383,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001383",
+	"department": "THEAT",
 	"description": [
 		"Play texts are the raw material for our classes in acting, directing, design, and historical studies. This introductory course for theater majors introduces students to canonical texts and performances that have helped to define our field. Primary emphasis is on the text as a blueprint for production focusing on analysis, variety of interpretation, the changing nature of theater space, and our growing awareness of the changing nature of performance. Students are expected to communicate clarity of understanding both orally and in writing. Non-majors are invited to take this course, though its primary focus is a comprehensive preparation for further theater studies. Offered each semester."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"ALS-L",
 		"WRI"
@@ -17,12 +15,29 @@
 		"Michelle C. Gibbs"
 	],
 	"level": 100,
-	"locations": [
-		"TB 216"
-	],
 	"max": 20,
 	"name": "Text and Performance",
 	"number": 180,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TB 216",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TB 216",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TB 216",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -68,14 +83,29 @@
 			"notes": [
 				"Course Fee $32.00"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.145838+00:00",
+			"clbid": 119241,
+			"crsid": 1383,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"locations": [
+				"TB 216"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

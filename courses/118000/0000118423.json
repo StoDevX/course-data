@@ -1,22 +1,17 @@
 {
-	"clbid": 118423,
+	"clbid": "0000118423",
 	"credits": 1.0,
-	"crsid": 26714,
-	"departments": [
-		"BIO"
-	],
+	"crsid": "0000026714",
+	"department": "BIO",
 	"description": [
 		"This course provides a comprehensive overview of cellular structure and function including cellular compartments, macromolecular structures, and life processes such as energy and material flux, cell division, and control mechanisms. Students learn current and/or historical evidence and methodology (e.g., microscopy, isolation procedures, and probes). Laboratory experiences provide opportunities for qualitative and quantitative observations of cellular structure and function. Students place their work in the context of current research through examination of relevant literature and formal presentations. Offered each semester. Counts toward \"cell biology\" core category. Counts toward biomolecular science and neuroscience concentrations. Prerequisites: CHEM125 or CHEM 121/CHEM 123 or CH/BI 125; BIO 150 is strongly preferred."
 	],
-	"enroll": 53,
-	"groupid": 26714,
+	"enrolled": 53,
+	"groupid": "0000026714",
 	"instructors": [
 		"John Giannini"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 410"
-	],
 	"max": 54,
 	"name": "Cell Biology",
 	"notes": [
@@ -24,6 +19,26 @@
 		"Not open to first year students."
 	],
 	"number": 227,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RNS 410",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: CHEM125 or CHEM 121/CHEM 123 or CH/BI 125; BIO 150 is strongly preferred.",
 	"revisions": [
@@ -50,14 +65,30 @@
 			"_updated": "2018-08-07T14:48:44.708742+00:00",
 			"enroll": "53",
 			"max": "54"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.855884+00:00",
+			"clbid": 118423,
+			"crsid": 26714,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 53,
+			"enrolled": null,
+			"groupid": 26714,
+			"locations": [
+				"RNS 410"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120362,
+	"clbid": "0000120362",
 	"credits": 1.0,
-	"crsid": 27324,
-	"departments": [
-		"RACE"
-	],
+	"crsid": "0000027324",
+	"department": "RACE",
 	"description": [
 		"This course provides an introduction to the cultural and historical background of four groups in the United States: African Americans, Native Americans, Latinos, and Asian Americans. Emphasis is on race relations and the distinguishing characteristics of these cultures as reflected in the academic disciplines of the creative and performing arts, the humanities, the social and behavioral sciences, and the general area of popular culture. Contributions to cultural pluralism are accentuated as well as the special issues of identity faced by these Americans. This course emphasizes literary texts. Counts toward American studies Latin American studies majors and Africa and the Americas and Latin American studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,16 +15,26 @@
 		"Arneshia L. Williams"
 	],
 	"level": 100,
-	"locations": [
-		"RML 421",
-		"RML 421"
-	],
 	"max": 24,
 	"name": "Intro to Race & Ethnic St",
 	"notes": [
 		"RACE majors and concentrators may pre-register by contacting Deb Clark."
 	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "RML 421",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "RML 421",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -54,15 +62,31 @@
 			"_updated": "2018-08-07T14:48:48.847447+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.810120+00:00",
+			"clbid": 120362,
+			"crsid": 27324,
+			"department": null,
+			"departments": [
+				"RACE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RML 421",
+				"RML 421"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Introduction to Race and Ethnic Studies",
 	"type": "Research",
 	"year": 2018

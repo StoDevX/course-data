@@ -1,24 +1,33 @@
 {
-	"clbid": 122134,
+	"clbid": "0000122134",
 	"credits": 1.0,
-	"crsid": 18784,
-	"departments": [
-		"PHYS"
-	],
+	"crsid": "0000018784",
+	"department": "PHYS",
 	"description": [
 		"In-depth study of particular topics done in a half-semester format. Topics are based on student interest and available staff. Generally offered as a pair of half-courses in one semester but students may enroll in only one. Recently topics include general relativity and cosmology. Prerequisite: PHYS 244 and MATH 230."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Prabal Adhikari"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Top: Field Theory",
 	"number": 392,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PHYS 244 and MATH 230.",
 	"revisions": [
@@ -31,14 +40,29 @@
 			"_updated": "2018-08-07T14:48:49.835356+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.994258+00:00",
+			"clbid": 122134,
+			"crsid": 18784,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1045-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MW 1045-1245PM"
-	],
 	"title": "Short Topics in Physics",
 	"type": "Topic",
 	"year": 2018

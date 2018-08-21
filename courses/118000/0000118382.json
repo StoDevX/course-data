@@ -1,23 +1,26 @@
 {
-	"clbid": 118382,
+	"clbid": "0000118382",
 	"credits": 0.0,
-	"crsid": 26650,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 11,
-	"groupid": 26649,
+	"crsid": "0000026650",
+	"department": "BIO",
+	"enrolled": 11,
+	"groupid": "0000026649",
 	"grouptype": "3",
 	"instructors": [
 		"Diane K. Angell"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 255"
-	],
 	"max": 16,
 	"name": "Biodiversity Found Lab",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "RNS 255",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,15 +55,31 @@
 		{
 			"_updated": "2018-08-16T03:35:09.832533+00:00",
 			"enroll": 12
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.801910+00:00",
+			"clbid": 118382,
+			"crsid": 26650,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"groupid": 26649,
+			"locations": [
+				"RNS 255"
+			],
+			"offerings": null,
+			"times": [
+				"W 0200-0500PM"
+			]
 		}
 	],
 	"section": "E",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"W 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

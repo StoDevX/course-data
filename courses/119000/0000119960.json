@@ -1,22 +1,25 @@
 {
-	"clbid": 119960,
+	"clbid": "0000119960",
 	"credits": 0.0,
-	"crsid": 1262,
-	"departments": [
-		"RUSSN"
-	],
-	"enroll": 0,
-	"groupid": 1261,
+	"crsid": "0000001262",
+	"department": "RUSSN",
+	"enrolled": 0,
+	"groupid": "0000001261",
 	"instructors": [
 		"Marc Robinson"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 20,
 	"name": "Beginning Russian II Lab",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TOH 114",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:48.618390+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.176601+00:00",
+			"clbid": 119960,
+			"crsid": 1262,
+			"department": null,
+			"departments": [
+				"RUSSN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1261,
+			"locations": [
+				"TOH 114"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-1240PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-1240PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

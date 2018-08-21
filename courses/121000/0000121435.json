@@ -1,24 +1,39 @@
 {
-	"clbid": 121435,
+	"clbid": "0000121435",
 	"credits": 1.0,
-	"crsid": 439,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000439",
+	"department": "ENGL",
 	"description": [
 		"This class focuses on defining, classifying, analyzing, interpreting, evaluating, and understanding literature. Students study both practical criticism (discussion of particular works or writers) and theoretical criticism (principles and criteria appropriate to literature generally). The course introduces a broad range of critical theories and provides an historical overview of the subject. Prerequisites: ENGL 185 plus at least two English courses at level II, or permission of the instructor."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Carlos Gallego"
 	],
 	"level": 300,
-	"locations": [
-		"RML 420"
-	],
 	"max": 15,
 	"name": "Literary Crit/Theory",
 	"number": 360,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "RML 420",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ENGL 185 plus at least two English courses at level II, or permission of the instructor.",
 	"revisions": [
@@ -41,14 +56,29 @@
 			"_updated": "2018-08-07T14:48:45.418845+00:00",
 			"enroll": "17",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.340556+00:00",
+			"clbid": 121435,
+			"crsid": 439,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"RML 420"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0200-0255PM"
-	],
 	"title": "Literary Criticism and Theory",
 	"type": "Research",
 	"year": 2018

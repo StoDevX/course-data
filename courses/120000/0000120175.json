@@ -1,24 +1,27 @@
 {
-	"clbid": 120175,
+	"clbid": "0000120175",
 	"credits": 0.25,
-	"crsid": 32290,
-	"departments": [
-		"MABIO"
-	],
+	"crsid": "0000032290",
+	"department": "MABIO",
 	"description": [
 		"Students spend one evening each week exploring topics at the interface of mathematics and biology. Faculty introduce topics supported by a reading assignment to be done prior to class. Class time is spent exploring the problem and developing the mathematical approach to solving it. Topics may include invasive species, sex-ratio evolution, neural networks, feedback control, graph theory, statistical ecology, and population genetics. P/N only. Offered annually in the spring semester. Prerequisite: MATH 120 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Steven Freedberg"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 50,
 	"name": "Exploring Biomathematics (.25)",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "16:00",
+			"location": "TBA",
+			"start": "14:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "MATH 120 or equivalent.",
 	"revisions": [
@@ -35,14 +38,29 @@
 			"_updated": "2018-08-07T14:48:48.744319+00:00",
 			"enroll": "0",
 			"max": "50"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.548316+00:00",
+			"clbid": 120175,
+			"crsid": 32290,
+			"department": null,
+			"departments": [
+				"MABIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"F 0200-0400PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"F 0200-0400PM"
-	],
 	"title": "Exploring Biomathematics",
 	"type": "Research",
 	"year": 2018

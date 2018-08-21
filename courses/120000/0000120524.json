@@ -1,26 +1,21 @@
 {
-	"clbid": 120524,
+	"clbid": "0000120524",
 	"credits": 1.0,
-	"crsid": 743,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000743",
+	"department": "MATH",
 	"description": [
 		"This course introduces students to the essential modeling techniques of formulation, implentation, validation, and analysis. Students engage in these areas by combining experiment, mathematical theory, statistics, and computation to better understand a wide variety of biological systems. Offered annually in the spring semester. Counts toward neuroscience and mathematical biology concentrations. Prerequisite: MATH 126 or MATH 128, and MATH 220."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 743,
+	"groupid": "0000000743",
 	"instructors": [
 		"Bruce E. Pell"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 20,
 	"name": "Math of Biology",
 	"notes": [
@@ -28,6 +23,20 @@
 		"This course is open to a limited number of seniors."
 	],
 	"number": 236,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 126 or MATH 128, and MATH 220.",
 	"revisions": [
@@ -56,14 +65,30 @@
 			"_updated": "2018-08-07T14:48:48.954900+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.080924+00:00",
+			"clbid": 120524,
+			"crsid": 743,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 743,
+			"locations": [
+				"RNS 297"
+			],
+			"offerings": null,
+			"times": [
+				"WF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"WF 1255-0150PM"
-	],
 	"title": "Mathematics of Biology",
 	"type": "Research",
 	"year": 2018

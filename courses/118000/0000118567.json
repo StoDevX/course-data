@@ -1,14 +1,12 @@
 {
-	"clbid": 118567,
+	"clbid": "0000118567",
 	"credits": 1.0,
-	"crsid": 1317,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000001317",
+	"department": "SOAN",
 	"description": [
 		"Students gain the skills necessary to conduct and critically evaluate quantitative research. Students learn the underlying theoretical assumptions and orientations of quantitative research, including research design, sampling techniques, strategies for data collection, and approaches to analysis. Students gain practice in data analysis by conducting are search project and using the Statistical Package for the Social Sciences (SPSS), a standard in sociology. Open to sociology/anthropology majors only. Offered annually in the fall semester. Counts toward environmental studies major (social science emphasis) and management studies concentration. Prerequisite: STAT 110 or STAT 212."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"gereqs": [
 		"ORC",
 		"WRI"
@@ -17,9 +15,6 @@
 		"Ryan R. Sheppard"
 	],
 	"level": 300,
-	"locations": [
-		"HH 111"
-	],
 	"max": 16,
 	"name": "Found Soc Sci Resrch",
 	"notes": [
@@ -27,6 +22,26 @@
 		"Prerequisite: Statistics 110 or 212."
 	],
 	"number": 371,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 111",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 111",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 111",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "STAT 110 or STAT 212.",
 	"revisions": [
@@ -49,15 +64,30 @@
 			"locations": [
 				"HH 201"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.036627+00:00",
+			"clbid": 118567,
+			"crsid": 1317,
+			"department": null,
+			"departments": [
+				"SOAN"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"HH 111"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "Foundations of Social Science Research: Quantitative Methods",
 	"type": "Research",
 	"year": 2018

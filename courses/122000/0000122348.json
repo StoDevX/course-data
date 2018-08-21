@@ -1,14 +1,12 @@
 {
-	"clbid": 122348,
+	"clbid": "0000122348",
 	"credits": 1.0,
-	"crsid": 570,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000570",
+	"department": "HIST",
 	"description": [
 		"This seminar examines American society since 1945. The main focus is social history. Topics include the impact of the Cold War, migration to the suburbs, post-industrial society, the culture of the 1950s, civil rights, the Vietnam War, the student movement, the sexual revolution, and Watergate. Sources include novels, essays, magazine stories, films, and documentaries. Offered annually. Counts toward American studies major, women's and gender studies major and concentration, and media studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC",
 		"MCD"
@@ -17,15 +15,32 @@
 		"Judy Kutulas"
 	],
 	"level": 100,
-	"locations": [
-		"RML 520"
-	],
 	"max": 15,
 	"name": "America Since 1945",
 	"notes": [
 		"Open to First-year students only."
 	],
 	"number": 182,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "RML 520",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +53,30 @@
 			"_updated": "2018-08-07T14:48:45.584954+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.733856+00:00",
+			"clbid": 122348,
+			"crsid": 570,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"RML 520"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

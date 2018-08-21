@@ -1,14 +1,12 @@
 {
-	"clbid": 120609,
+	"clbid": "0000120609",
 	"credits": 1.0,
-	"crsid": 29,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000029",
+	"department": "ART",
 	"description": [
 		"This course introduces students to analog and digital photographic processes as means for creating works of art. Students learn terminology and critical approaches to photography. The course includes presentations on concepts and photographers' works, discussions of articles, and regular critiques. Students are introduced to the history of the medium through presentations, readings, and hands-on work such as constructing a camera obscura. Students develop critical skills and the ability to analyze and interpret photographic work. Materials fee. Offered each semester. Counts toward media studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,9 +14,6 @@
 		"Miranda Brandon"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 16,
 	"name": "Photography",
 	"notes": [
@@ -26,6 +21,26 @@
 		"The materials fee for ART 205 will be $130."
 	],
 	"number": 205,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,14 +77,29 @@
 			"_updated": "2018-08-07T14:48:48.995273+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.179497+00:00",
+			"clbid": 120609,
+			"crsid": 29,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

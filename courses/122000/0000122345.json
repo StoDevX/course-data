@@ -1,25 +1,81 @@
 {
-	"clbid": 122345,
+	"clbid": "0000122345",
 	"credits": 1.0,
-	"crsid": 17673,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000017673",
+	"department": "ART",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Irve Dell"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 18,
 	"name": "Top: Topics in the Fine Arts",
 	"number": 240,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,15 +88,31 @@
 			"_updated": "2018-08-07T14:48:46.942492+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.249638+00:00",
+			"clbid": 122345,
+			"crsid": 17673,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM",
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM",
-		"M-F 1040-1240PM"
-	],
 	"title": "Topics in the Fine Arts",
 	"type": "Topic",
 	"year": 2018

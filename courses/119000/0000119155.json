@@ -1,14 +1,12 @@
 {
-	"clbid": 119155,
+	"clbid": "0000119155",
 	"credits": 1.0,
-	"crsid": 1148,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001148",
+	"department": "PSCI",
 	"description": [
 		"This is an advanced course in the area of political thought. The topic, a detailed study of either major works or themes in political philosophy, varies with each offering. Prerequisites: PSCI 220 and one course in the subfield or permission of instructor."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,9 +14,6 @@
 		"Douglas J. Casson"
 	],
 	"level": 300,
-	"locations": [
-		"HH 502"
-	],
 	"max": 17,
 	"name": "Sem: Studies Pol Thought",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Rising juniors may add on a space available basis during the drop/add period."
 	],
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "HH 502",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "HH 502",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "HH 502",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PSCI 220 and one course in the subfield or permission of instructor.",
 	"revisions": [
@@ -62,14 +77,29 @@
 			"_updated": "2018-08-07T14:48:45.284244+00:00",
 			"enroll": "18",
 			"max": "17"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.024567+00:00",
+			"clbid": 119155,
+			"crsid": 1148,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"HH 502"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Seminar in Political Theory",
 	"type": "Seminar",
 	"year": 2018

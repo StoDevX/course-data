@@ -1,14 +1,12 @@
 {
-	"clbid": 119286,
+	"clbid": "0000119286",
 	"credits": 1.0,
-	"crsid": 31158,
-	"departments": [
-		"SOAN"
-	],
+	"crsid": "0000031158",
+	"department": "SOAN",
 	"description": [
 		"Urban sociology investigates the complex interactions of human beings in cities and beyond. Topics include the changing relationship between people and place; social stratification along the lines of race/ethnicity, gender/sexuality, and class; and urbanism's importance in global political power and economics. Chicago will serve as an important case study for considering these social, political, and economic dynamics. Offered annually."
 	],
-	"enroll": 22,
+	"enrolled": 22,
 	"gereqs": [
 		"HBS",
 		"MCD"
@@ -17,12 +15,29 @@
 		"David C. Schalliol"
 	],
 	"level": 200,
-	"locations": [
-		"OM 020"
-	],
 	"max": 20,
 	"name": "Urban Sociology",
 	"number": 269,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "OM 020",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "OM 020",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "OM 020",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -58,14 +73,29 @@
 			"_updated": "2018-08-07T14:48:45.349854+00:00",
 			"enroll": "22",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.174214+00:00",
+			"clbid": 119286,
+			"crsid": 31158,
+			"department": null,
+			"departments": [
+				"SOAN"
+			],
+			"enroll": 22,
+			"enrolled": null,
+			"locations": [
+				"OM 020"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120233,
+	"clbid": "0000120233",
 	"credits": 1.0,
-	"crsid": 1330,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001330",
+	"department": "SPAN",
 	"description": [
 		"Students explore the topic of family and society in the Spanish-speaking world and develop critical reading skills by analyzing cultural documents (literary and non-literary texts, including at least one substantive literary work). This cultural analysis provides for extensive writing (e.g., description, narration, exposition, and argumentation). Taught in Spanish. Offered each semester. Counts toward women's and gender studies and Latin American studies majors and family studies, management studies, and women's and gender studies concentrations. Prerequisite: SPAN 232 or placement into SPAN 250."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-S",
 		"WRI"
@@ -17,16 +15,26 @@
 		"Jonathan P. O'Conner"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 114",
-		"TOH 114"
-	],
 	"max": 15,
 	"name": "Family/Gender Roles in Spain",
 	"notes": [
 		"Prerequisite: completion of Spanish placement test or preceding course."
 	],
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 114",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 114",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 232 or placement into SPAN 250.",
 	"revisions": [
@@ -61,16 +69,32 @@
 		{
 			"_updated": "2018-08-11T03:33:43.566405+00:00",
 			"name": "Gateway Spanish-Speaking World"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.586119+00:00",
+			"clbid": 120233,
+			"crsid": 1330,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 114",
+				"TOH 114"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Gateway to the Spanish-Speaking World",
 	"type": "Research",
 	"year": 2018

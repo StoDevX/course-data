@@ -1,14 +1,12 @@
 {
-	"clbid": 120634,
+	"clbid": "0000120634",
 	"credits": 1.0,
-	"crsid": 1203,
-	"departments": [
-		"REL"
-	],
+	"crsid": "0000001203",
+	"department": "REL",
 	"description": [
 		"This course examines the rise of political and liberation theology movements, the situations and issues to which they respond, theological formulations of political/liberation theologies, and the relationship of these theologies to traditional Christian doctrines. Special focus on the relationship between the theological and political, nature of christology and redemption, images and role of God, and understandings of human nature. Prerequisite: BTS:B."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"BTS-T"
 	],
@@ -16,13 +14,23 @@
 		"Michael Gottsegen"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 24,
 	"name": "Political & Liberation Theology",
 	"number": 218,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BTS:B.",
 	"revisions": [
@@ -79,16 +87,32 @@
 			"_updated": "2018-08-07T14:48:49.006989+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.207891+00:00",
+			"clbid": 120634,
+			"crsid": 1203,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Political and Liberation Theology",
 	"type": "Research",
 	"year": 2018

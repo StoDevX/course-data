@@ -1,14 +1,12 @@
 {
-	"clbid": 118661,
+	"clbid": "0000118661",
 	"credits": 1.0,
-	"crsid": 1361,
-	"departments": [
-		"SWRK"
-	],
+	"crsid": "0000001361",
+	"department": "SWRK",
 	"description": [
 		"Social work majors study the methods and skills of social work practice, particularly intercultural communication. They describe strengths and problems of diverse individuals and families; frame goals and plans for change utilizing the planned change process and the systems perspective; and use ethical decision-making, informed by the scientific method, grounded in the liberal arts, and concerned with social justice. Students demonstrate learning in recorded role playing and have an academic civic engagement experience. Offered annually in the fall semester. Prerequisites: SWRK 221 and concurrent enrollment in SWRK 246."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,10 +14,6 @@
 		"Melissa A. Mendez"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 316",
-		"TOH 316"
-	],
 	"max": 22,
 	"name": "Inclusive Practice: Individ/Family",
 	"notes": [
@@ -27,6 +21,20 @@
 		"This course includes an academic civic engagement (ACE) component."
 	],
 	"number": 254,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TOH 316",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TOH 316",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: SWRK 221 and concurrent enrollment in SWRK 246.",
 	"revisions": [
@@ -62,15 +70,31 @@
 			"_updated": "2018-08-07T14:48:44.965822+00:00",
 			"enroll": "13",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.221713+00:00",
+			"clbid": 118661,
+			"crsid": 1361,
+			"department": null,
+			"departments": [
+				"SWRK"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"TOH 316",
+				"TOH 316"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Inclusive Practice: Individuals and Families",
 	"type": "Research",
 	"year": 2018

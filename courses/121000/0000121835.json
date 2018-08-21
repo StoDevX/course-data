@@ -1,14 +1,12 @@
 {
-	"clbid": 121835,
+	"clbid": "0000121835",
 	"credits": 1.0,
-	"crsid": 591,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000591",
+	"department": "HIST",
 	"description": [
 		"This course offers a survey of modern Scandinavian history from the period of the Protestant Reformation to the present with special attention to recent developments. Foreign Language Across the Curriculum course available in Norwegian. Offered annually. Counts toward Norwegian major and management studies and Nordic studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HWC"
 	],
@@ -16,13 +14,23 @@
 		"David E. Jessup"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Modern Scandinavia",
 	"number": 222,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +43,31 @@
 			"_updated": "2018-08-07T14:48:49.810027+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.931695+00:00",
+			"clbid": 121835,
+			"crsid": 591,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

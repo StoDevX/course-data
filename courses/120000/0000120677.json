@@ -1,32 +1,47 @@
 {
-	"clbid": 120677,
+	"clbid": "0000120677",
 	"credits": 1.0,
-	"crsid": 461,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000461",
+	"department": "ENVST",
 	"description": [
 		"Remote sensing and GIS are increasingly used to address basic and applied questions in the environmental sciences and a host of other disciplines. Students survey available remote sensing image types and learn to process (ground-truthing, GPS, scanning, digitizing) and interpret remotely sensed images. They also learn theory and practice of geographic information systems (basic cartography and spatial statistics). A weekly three-hour laboratory is required. Offered annually. Prerequisites: ENVST 137 or a level I course in biology, chemistry, or physics."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"SED"
 	],
-	"groupid": 461,
+	"groupid": "0000000461",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 400"
-	],
 	"max": 25,
 	"name": "Remote Sensing & GIS",
 	"notes": [
 		"Students in ENVST 255 must also register for ENVST 225 AL or BL."
 	],
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "RNS 400",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "RNS 400",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "RNS 400",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ENVST 137 or a level I course in biology, chemistry, or physics.",
 	"revisions": [
@@ -39,14 +54,30 @@
 			"_updated": "2018-08-07T14:48:49.041428+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.285910+00:00",
+			"clbid": 120677,
+			"crsid": 461,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 461,
+			"locations": [
+				"RNS 400"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Remote Sensing and Geographic Information Systems",
 	"type": "Research",
 	"year": 2018

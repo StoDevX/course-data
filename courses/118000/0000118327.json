@@ -1,24 +1,39 @@
 {
-	"clbid": 118327,
+	"clbid": "0000118327",
 	"credits": 1.0,
-	"crsid": 504,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000504",
+	"department": "GERM",
 	"description": [
 		"Students begin to learn German through listening, speaking, reading, and writing about situations familiar to them including their personal biographies, families, daily life, studies, travels, and hobbies. Regular writing assignments help students learn vocabulary, check spelling, and form thoughts with German sentence structure. Regular speaking activities aid in acquiring good pronunciation and listening skills. Offered annually in the fall semester."
 	],
-	"enroll": 4,
+	"enrolled": 4,
 	"instructors": [
 		"Karen R. Achberger"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 212"
-	],
 	"max": 20,
 	"name": "Beginning German I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TOH 212",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TOH 212",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TOH 212",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -37,15 +52,30 @@
 			"_updated": "2018-08-07T14:48:44.652245+00:00",
 			"enroll": "4",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.720987+00:00",
+			"clbid": 118327,
+			"crsid": 504,
+			"department": null,
+			"departments": [
+				"GERM"
+			],
+			"enroll": 4,
+			"enrolled": null,
+			"locations": [
+				"TOH 212"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

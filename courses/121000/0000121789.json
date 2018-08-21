@@ -1,28 +1,36 @@
 {
-	"clbid": 121789,
+	"clbid": "0000121789",
 	"credits": 1.0,
-	"crsid": 19399,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000019399",
+	"department": "ECON",
 	"description": [
 		"This course provides a comprehensive research opportunity, including an introduction to relevant background material, technical instruction, identification of a meaningful project, and data collection. The topic is determined by the faculty member in charge of the course and may relate to his/her research interests. Offered based on department decision. May be offered as a 1.00 credit course or .50 credit course. Prerequisite: determined by individual instructor."
 	],
-	"enroll": 8,
+	"enrolled": 8,
 	"instructors": [
 		"Thomas Bernardin"
 	],
 	"level": 300,
-	"locations": [
-		"HH 201",
-		"HH 201"
-	],
 	"max": 8,
 	"name": "Directed Undergraduate Research",
 	"notes": [
 		"Registration by permission of the instructor only"
 	],
 	"number": 396,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "HH 201",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "HH 201",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "determined by individual instructor.",
 	"revisions": [
@@ -51,15 +59,31 @@
 			"_updated": "2018-08-07T14:48:45.535669+00:00",
 			"enroll": "8",
 			"max": "8"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.627437+00:00",
+			"clbid": 121789,
+			"crsid": 19399,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 8,
+			"enrolled": null,
+			"locations": [
+				"HH 201",
+				"HH 201"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

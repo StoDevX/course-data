@@ -1,14 +1,12 @@
 {
-	"clbid": 118660,
+	"clbid": "0000118660",
 	"credits": 0.25,
-	"crsid": 999,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000000999",
+	"department": "ESAC",
 	"description": [
 		"Students learn basic skills and techniques of in-line skating. Equipment is required for participation."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"SPM"
 	],
@@ -17,15 +15,32 @@
 		"John A. Bazzachini"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "In-Line Skating",
 	"notes": [
 		"This is a first-half of semester course."
 	],
 	"number": 108,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "Tostrud Ctr",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -46,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:44.964772+00:00",
 			"enroll": "13",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.218249+00:00",
+			"clbid": 118660,
+			"crsid": 999,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 119953,
+	"clbid": "0000119953",
 	"credits": 1.0,
-	"crsid": 712,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000712",
+	"department": "LATIN",
 	"description": [
 		"In this two-course sequence students learn the basics of classical Latin. By studying the language's vocabulary, grammar, and syntax, they not only gain appreciation for its intricacies and nuances but also learn more about their own language and about language in general. Completion of both semesters equips students to translate almost any classical Latin text with the aid of a dictionary. Offered annually in the spring semester. Prerequisite: LATIN 111 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Kyle Helms"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Beginning Latin II",
 	"number": 112,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 111 or equivalent.",
 	"revisions": [
@@ -53,15 +68,30 @@
 			"_updated": "2018-08-07T14:48:48.611277+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.131175+00:00",
+			"clbid": 119953,
+			"crsid": 712,
+			"department": null,
+			"departments": [
+				"LATIN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

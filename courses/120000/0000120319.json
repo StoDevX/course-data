@@ -1,24 +1,39 @@
 {
-	"clbid": 120319,
+	"clbid": "0000120319",
 	"credits": 1.0,
-	"crsid": 479,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000479",
+	"department": "FREN",
 	"description": [
 		"Through study, discussion and analysis of a wide variety of texts, students explore specific social and cultural topics relevant to French culture yesterday and today (e.g., stereotypes, the family, education, immigration) and develop and expand their ability to listen, speak, read and write in French while also learning specific listening and reading strategies. Explicit focus on cross-cultural comparison/contrast and analysis. Offered each semester. Prerequisite: FREN 112 or placement."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Mary Cisar"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 314"
-	],
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TOH 314",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TOH 314",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TOH 314",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FREN 112 or placement.",
 	"revisions": [
@@ -35,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:48.808603+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.705803+00:00",
+			"clbid": 120319,
+			"crsid": 479,
+			"department": null,
+			"departments": [
+				"FREN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 314"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Intermediate French I",
 	"type": "Research",
 	"year": 2018

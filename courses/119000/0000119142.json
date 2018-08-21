@@ -1,22 +1,16 @@
 {
-	"clbid": 119142,
+	"clbid": "0000119142",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
-	],
+	"crsid": "0000000762",
+	"department": "MATH",
 	"description": [
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topic is different. Offered annually."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Adam H. Berliner"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 184",
-		"TOH 184"
-	],
 	"max": 18,
 	"name": "Sem: Graph Theory",
 	"notes": [
@@ -24,6 +18,20 @@
 		"This course has class-year limits."
 	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 184",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 184",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MATH 244 or MATH 252.",
 	"revisions": [
@@ -79,15 +87,31 @@
 			"_updated": "2018-08-07T14:48:45.276955+00:00",
 			"enroll": "18",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.007658+00:00",
+			"clbid": 119142,
+			"crsid": 762,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"TOH 184",
+				"TOH 184"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Topics in Mathematics",
 	"type": "Seminar",
 	"year": 2018

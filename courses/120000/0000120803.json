@@ -1,28 +1,36 @@
 {
-	"clbid": 120803,
+	"clbid": "0000120803",
 	"credits": 1.0,
-	"crsid": 325,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000325",
+	"department": "EDUC",
 	"description": [
 		"This course prepares pre-service communication arts/literature teachers to share their love of the English language with secondary students. Attention is given to the theory and techniques of teaching writing, literature, reading, speech, listening, and media literacy. In addition, students explore topics including multicultural literature, adolescent literature, responding to and evaluating writing, unit planning in the language arts, and the Common Core State Standards for Literacy. Required field experience component. Offered annually in the spring semester. Counts toward linguistic studies concentration. Prerequisite: EDUC 330."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Elizabeth A. Leer"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 214",
-		"TOH 214"
-	],
 	"max": 10,
 	"name": "Teaching of Comm Arts/Lit, 5-12",
 	"notes": [
 		"Open to Juniors and Seniors only. Prerequisite: EDUC 330."
 	],
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TOH 214",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TOH 214",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -45,15 +53,31 @@
 			"_updated": "2018-08-07T14:48:49.111444+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.492020+00:00",
+			"clbid": 120803,
+			"crsid": 325,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 214",
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Teaching of Communication Arts/Literature, 5-12",
 	"type": "Research",
 	"year": 2018

@@ -1,21 +1,16 @@
 {
-	"clbid": 119097,
+	"clbid": "0000119097",
 	"credits": 1.0,
-	"crsid": 30313,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000030313",
+	"department": "NURS",
 	"description": [
 		"Public health nursing is informed by community needs and environmental factors focusing on health promotion and disease prevention. Through project management, students address the health needs of groups and communities utilizing group communication processes, teamwork, and collaboration. Students focus on utilizing community resources, identifying risk factors, and evaluating the impact on population health as related to current epidemiological trends. Counts toward the nursing major. Offered annually in the fall semester. Prerequisites: open to senior nursing majors only; NURS 314; concurrent registration in NURS 315."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Mary Kuehn"
 	],
 	"level": 300,
-	"locations": [
-		"YTT 050A"
-	],
 	"max": 24,
 	"name": "Public Health Nursing",
 	"notes": [
@@ -23,6 +18,26 @@
 		"This course includes an academic civic engagement (ACE) component."
 	],
 	"number": 316,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "YTT 050A",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "YTT 050A",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "YTT 050A",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to senior nursing majors only; NURS 314; concurrent registration in NURS 315.",
 	"revisions": [
@@ -55,14 +70,29 @@
 			"_updated": "2018-08-07T14:48:45.254602+00:00",
 			"enroll": "18",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.956067+00:00",
+			"clbid": 119097,
+			"crsid": 30313,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"YTT 050A"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

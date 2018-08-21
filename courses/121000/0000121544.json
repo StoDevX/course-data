@@ -1,14 +1,12 @@
 {
-	"clbid": 121544,
+	"clbid": "0000121544",
 	"credits": 1.0,
-	"crsid": 26711,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000026711",
+	"department": "PSYCH",
 	"description": [
 		"Cognitive neuroscience investigates the biological bases of higher order cognition and complex human behavior (or more simply put, how the brain enables the mind). Discussion topics include the methodologies of cognitive neuroscience, perception, attention, learning, memory, language, executive function, emotion, development, social cognition, and consciousness. Offered annually. Counts toward neuroscience and linguistics concentrations. Prerequisites: PSYCH 230, or PSYCH 238 and NEURO 239."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST",
 		"ORC"
@@ -17,13 +15,23 @@
 		"Jeremy Loebach"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 15,
 	"name": "Cognitive Neuroscience",
 	"number": 339,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: PSYCH 230, or PSYCH 238 and NEURO 239.",
 	"revisions": [
@@ -36,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:49.640468+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.756185+00:00",
+			"clbid": 121544,
+			"crsid": 26711,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

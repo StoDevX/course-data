@@ -1,25 +1,28 @@
 {
-	"clbid": 120116,
+	"clbid": "0000120116",
 	"credits": 0.0,
-	"crsid": 165,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 164,
+	"crsid": "0000000165",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000000164",
 	"instructors": [
 		"Eric Cole"
 	],
 	"level": 300,
-	"locations": [
-		"RNS 246"
-	],
 	"max": 10,
 	"name": "Developmental Biology Lab",
 	"notes": [
 		"Open to seniors and juniors only."
 	],
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "17:15",
+			"location": "RNS 246",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -32,15 +35,31 @@
 			"_updated": "2018-08-07T14:48:48.704678+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.417006+00:00",
+			"clbid": 120116,
+			"crsid": 165,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 164,
+			"locations": [
+				"RNS 246"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0215-0515PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0215-0515PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

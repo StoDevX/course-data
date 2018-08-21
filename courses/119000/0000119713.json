@@ -1,14 +1,12 @@
 {
-	"clbid": 119713,
+	"clbid": "0000119713",
 	"credits": 1.0,
-	"crsid": 976,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000976",
+	"department": "PHIL",
 	"description": [
 		"Students examine feminist critiques of aspects of contemporary culture that shape women's lives, such as conventional morality, science, education, art, medicine, law, religion, and marriage. Students critically examine philosophical views that underlie these institutions, including views of human nature, gender, rationality, knowledge, morality, justice, and the value of autonomy. Alternative feminist views that promote feminist aims are explored and evaluated. Offered periodically. Counts toward women's and gender studies major and concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"MCD"
 	],
@@ -16,12 +14,41 @@
 		"Corliss Swain"
 	],
 	"level": 200,
-	"locations": [
-		"HH 205"
-	],
 	"max": 30,
 	"name": "Philosophy & Feminism",
 	"number": 245,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "HH 205",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "HH 205",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "HH 205",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "HH 205",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "HH 205",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -34,14 +61,29 @@
 			"_updated": "2018-08-07T14:48:46.852941+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.976945+00:00",
+			"clbid": 119713,
+			"crsid": 976,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 205"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"title": "Philosophy and Feminism",
 	"type": "Research",
 	"year": 2018

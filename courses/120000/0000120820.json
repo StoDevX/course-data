@@ -1,25 +1,33 @@
 {
-	"clbid": 120820,
+	"clbid": "0000120820",
 	"credits": 1.0,
-	"crsid": 1398,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001398",
+	"department": "THEAT",
 	"description": [
 		"An in-depth investigation of a selected topic through readings, bibliography, reports and projects. May be repeated if topic is different. Offered annually. Prerequisite: THEAT 110 or THEAT 180. Some topics courses may require additional prerequisites. Please inquire in the Theater Department office before registering."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Brian Bjorklund"
 	],
 	"level": 300,
-	"locations": [
-		"TB 227",
-		"TB 227"
-	],
 	"max": 18,
 	"name": "Top: Theater Architecture",
 	"number": 379,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TB 227",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TB 227",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "THEAT 110 or THEAT 180. Some topics courses may require additional prerequisites. Please inquire in the Theater Department office before registering.",
 	"revisions": [
@@ -54,15 +62,31 @@
 			"_updated": "2018-08-07T14:48:49.124044+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.521646+00:00",
+			"clbid": 120820,
+			"crsid": 1398,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB 227",
+				"TB 227"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in Interpretation and Theater",
 	"type": "Topic",
 	"year": 2018

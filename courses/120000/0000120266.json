@@ -1,14 +1,12 @@
 {
-	"clbid": 120266,
+	"clbid": "0000120266",
 	"credits": 1.0,
-	"crsid": 1392,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001392",
+	"department": "THEAT",
 	"description": [
 		"Examines theatrical activities in the period 1700 to the present, from three interrelated perspectives: 1) theater as social history; 2) theater as dramatic literature; and 3) theater as performance (the result of creative decisions made by playwrights, actors, directors, and designers). The schedule of when this course will be offered is located in \"Student Resources >Theater Curriculum\" at the Theater Department website. Prerequisite: THEAT 110 or THEAT 180 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L",
 		"HWC",
@@ -18,12 +16,29 @@
 		"Bryan Schmidt"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 22,
 	"name": "Hist Theat-Since 1700",
 	"number": 271,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "THEAT 110 or THEAT 180 or permission of instructor.",
 	"revisions": [
@@ -60,14 +75,29 @@
 			"_updated": "2018-08-07T14:48:48.765583+00:00",
 			"enroll": "0",
 			"max": "22"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.600558+00:00",
+			"clbid": 120266,
+			"crsid": 1392,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"title": "History of Theater since 1700",
 	"type": "Research",
 	"year": 2018

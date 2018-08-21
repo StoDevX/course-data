@@ -1,22 +1,25 @@
 {
-	"clbid": 120328,
+	"clbid": "0000120328",
 	"credits": 0.0,
-	"crsid": 665,
-	"departments": [
-		"JAPAN"
-	],
-	"enroll": 0,
-	"groupid": 664,
+	"crsid": "0000000665",
+	"department": "JAPAN",
+	"enrolled": 0,
+	"groupid": "0000000664",
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 175"
-	],
 	"max": 15,
 	"name": "Intermed Japanese II Lab",
 	"number": 232,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "TOH 175",
+			"start": "13:20"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.816940+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.727473+00:00",
+			"clbid": 120328,
+			"crsid": 665,
+			"department": null,
+			"departments": [
+				"JAPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 664,
+			"locations": [
+				"TOH 175"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0215PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0215PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

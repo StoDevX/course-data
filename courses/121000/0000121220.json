@@ -1,14 +1,12 @@
 {
-	"clbid": 121220,
+	"clbid": "0000121220",
 	"credits": 1.0,
-	"crsid": 91,
-	"departments": [
-		"ASIAN"
-	],
+	"crsid": "0000000091",
+	"department": "ASIAN",
 	"description": [
 		"This course highlights major visual arts movements within China over the last century, from the end of the imperial era to current times. Students look at a variety of issues: class and gender; China in the world art market, Chinese art past and present, and a variety of \"isms\" now seen as defining Chinese art. A major theme is to define \"visual culture\" in all its nuances. Counts toward media studies concentration."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"ALS-A",
 		"MCG"
@@ -17,13 +15,23 @@
 		"Karil J. Kucera"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 305",
-		"CAD 305"
-	],
 	"max": 20,
 	"name": "Vis Cult/Modern China",
 	"number": 270,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "CAD 305",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "CAD 305",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,15 +70,31 @@
 			"_updated": "2018-08-07T14:48:45.365122+00:00",
 			"enroll": "20",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.205906+00:00",
+			"clbid": 121220,
+			"crsid": 91,
+			"department": null,
+			"departments": [
+				"ASIAN"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"locations": [
+				"CAD 305",
+				"CAD 305"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Visual Culture of Modern China",
 	"type": "Research",
 	"year": 2018

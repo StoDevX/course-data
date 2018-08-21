@@ -1,14 +1,12 @@
 {
-	"clbid": 121577,
+	"clbid": "0000121577",
 	"credits": 1.0,
-	"crsid": 723,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000723",
+	"department": "LATIN",
 	"description": [
 		"Strange things happened on the ancient Roman stage; this course gives students firsthand proof of that. The comedies of Plautus and Terence and the tragedies of Seneca make entertaining reading. Students translate selected plays and discuss the evolution of the Roman theater, staging, and modern interpretations. Offered periodically. Counts toward ancient studies and medieval studies majors. Prerequisite: LATIN 231 or equivalent."
 	],
-	"enroll": 5,
+	"enrolled": 5,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,13 +14,23 @@
 		"Anne Groton"
 	],
 	"level": 300,
-	"locations": [
-		"TOH 300",
-		"TOH 300"
-	],
 	"max": 19,
 	"name": "Latin Drama",
 	"number": 375,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TOH 300",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TOH 300",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 231 or equivalent.",
 	"revisions": [
@@ -42,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:45.455557+00:00",
 			"enroll": "5",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.456340+00:00",
+			"clbid": 121577,
+			"crsid": 723,
+			"department": null,
+			"departments": [
+				"LATIN"
+			],
+			"enroll": 5,
+			"enrolled": null,
+			"locations": [
+				"TOH 300",
+				"TOH 300"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

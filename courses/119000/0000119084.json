@@ -1,22 +1,25 @@
 {
-	"clbid": 119084,
+	"clbid": "0000119084",
 	"credits": 0.0,
-	"crsid": 1073,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 18,
-	"groupid": 1072,
+	"crsid": "0000001073",
+	"department": "PHYS",
+	"enrolled": 18,
+	"groupid": "0000001072",
 	"instructors": [
 		"James Demas"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"max": 18,
 	"name": "Principles Physics I Lab",
 	"number": 124,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:15",
+			"location": "RNS 292",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -40,15 +43,31 @@
 			"_updated": "2018-08-15T03:35:00.201548+00:00",
 			"enroll": 17,
 			"status": "O"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.939824+00:00",
+			"clbid": 119084,
+			"crsid": 1073,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"groupid": 1072,
+			"locations": [
+				"RNS 292"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1245-0315PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"Th 1245-0315PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

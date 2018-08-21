@@ -1,14 +1,12 @@
 {
-	"clbid": 122148,
+	"clbid": "0000122148",
 	"credits": 1.0,
-	"crsid": 977,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000977",
+	"department": "PHIL",
 	"description": [
 		"This course clarifies central concepts and distinctions developed in the literature of moral philosophy and applications of those concepts and distinctions to concrete moral problems that arise in the practice of medicine. Issues may include euthanasia, abortion, medical paternalism, allocation of scarce medical resources, culturally sensitive medical care, pandemics, and conflicts of loyalty in managed care. Readings are drawn from both philosophical and medical discussions. Offered annually. Counts toward neuroscience concentration. Prerequisite: completion of BTS-T or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN"
 	],
@@ -16,10 +14,6 @@
 		"Charles Taliaferro"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 25,
 	"name": "Biomedical Ethics",
 	"notes": [
@@ -27,6 +21,20 @@
 		"Open only to seniors and juniors during web registration."
 	],
 	"number": 250,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "completion of BTS-T or permission of instructor.",
 	"revisions": [
@@ -39,15 +47,31 @@
 			"_updated": "2018-08-07T14:48:49.839943+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.005123+00:00",
+			"clbid": 122148,
+			"crsid": 977,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

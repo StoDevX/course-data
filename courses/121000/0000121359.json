@@ -1,14 +1,12 @@
 {
-	"clbid": 121359,
+	"clbid": "0000121359",
 	"credits": 1.0,
-	"crsid": 67,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000067",
+	"department": "ART",
 	"description": [
 		"This course explores the roles of women as creators, subjects, and patrons of art. It helps students lean about how gender permeates culture and art. Specific topics vary. Each topic introduces a time period and place that has revealed much about gender and visual culture. Students work seminar-style yet at an introductory level for those new to art history or women's studies. Offered periodically. Counts toward women's and gender studies and art and art history majors and women's and gender studies concentration."
 	],
-	"enroll": 12,
+	"enrolled": 12,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,13 +14,23 @@
 		"Christopher Tradowsky"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 202",
-		"CAD 202"
-	],
 	"max": 19,
 	"name": "Gender and Visual Culture",
 	"number": 277,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 202",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "CAD 202",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:45.390185+00:00",
 			"enroll": "12",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.264195+00:00",
+			"clbid": 121359,
+			"crsid": 67,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 12,
+			"enrolled": null,
+			"locations": [
+				"CAD 202",
+				"CAD 202"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

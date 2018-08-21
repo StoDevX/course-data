@@ -1,22 +1,25 @@
 {
-	"clbid": 120058,
+	"clbid": "0000120058",
 	"credits": 0.0,
-	"crsid": 195,
-	"departments": [
-		"CHEM"
-	],
-	"enroll": 0,
-	"groupid": 194,
+	"crsid": "0000000195",
+	"department": "CHEM",
+	"enrolled": 0,
+	"groupid": "0000000194",
 	"instructors": [
 		"Paul T. Jackson"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 350"
-	],
 	"max": 20,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "15:50",
+			"location": "RNS 350",
+			"start": "12:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -47,15 +50,31 @@
 			"_updated": "2018-08-07T14:48:48.681935+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.352176+00:00",
+			"clbid": 120058,
+			"crsid": 195,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 194,
+			"locations": [
+				"RNS 350"
+			],
+			"offerings": null,
+			"times": [
+				"Th 1250-0350PM"
+			]
 		}
 	],
 	"section": "G",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 1250-0350PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

@@ -1,14 +1,12 @@
 {
-	"clbid": 120837,
+	"clbid": "0000120837",
 	"credits": 1.0,
-	"crsid": 1345,
-	"departments": [
-		"SPAN"
-	],
+	"crsid": "0000001345",
+	"department": "SPAN",
 	"description": [
 		"Students explore one or more periods, genres, or topics of Spanish literature from its beginnings to the 21st century. Selected literary works are analyzed within their socio-historical and cultural contexts and in reference to pertinent critical or theoretical issues. Sample topics include: Sin and the Church in Medieval Literature, The Stage as Political Propaganda in Imperial Spain, and Federico García Lorca: Voices of the Oppressed. May be repeated if topic is different. Taught in Spanish. Prerequisite: SPAN 275."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,13 +14,23 @@
 		"Leon Narvaez"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 15,
 	"name": "Top: Lit/Soc/Sp: Turbulent Times",
 	"number": 313,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "TBA",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "SPAN 275.",
 	"revisions": [
@@ -53,15 +61,31 @@
 			"_updated": "2018-08-07T14:48:49.126910+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.528983+00:00",
+			"clbid": 120837,
+			"crsid": 1345,
+			"department": null,
+			"departments": [
+				"SPAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Literature and Society in Spain",
 	"type": "Topic",
 	"year": 2018

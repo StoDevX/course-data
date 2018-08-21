@@ -1,24 +1,39 @@
 {
-	"clbid": 118324,
+	"clbid": "0000118324",
 	"credits": 1.0,
-	"crsid": 476,
-	"departments": [
-		"FREN"
-	],
+	"crsid": "0000000476",
+	"department": "FREN",
 	"description": [
 		"Students begin to learn French through listening, speaking, reading and writing about topics familiar to them. They study social and cultural notions inherent in the daily life of peoples in diverse Francophone communities and learn to think critically and make interdisciplinary connections and informed cross-cultural comparisons. Open to students with no prior background in French or placement."
 	],
-	"enroll": 6,
+	"enrolled": 6,
 	"instructors": [
 		"Maria Vendetti"
 	],
 	"level": 100,
-	"locations": [
-		"TOH 114"
-	],
 	"max": 25,
 	"name": "Beginning French I",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TOH 114",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +56,30 @@
 			"_updated": "2018-08-07T14:48:44.649368+00:00",
 			"enroll": "6",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.713793+00:00",
+			"clbid": 118324,
+			"crsid": 476,
+			"department": null,
+			"departments": [
+				"FREN"
+			],
+			"enroll": 6,
+			"enrolled": null,
+			"locations": [
+				"TOH 114"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

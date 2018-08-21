@@ -1,14 +1,12 @@
 {
-	"clbid": 121330,
+	"clbid": "0000121330",
 	"credits": 1.0,
-	"crsid": 849,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000849",
+	"department": "MUSIC",
 	"description": [
 		"Analysis is a course of discovery, using advanced tools of music theory to examine the ways in which great works of music are put together. Students examine principles of form and style and, using a range of analytical techniques, come to a deeper understanding of tonal music. The course focuses on Classical and Romantic literature, with some work in 20th-century tonality. Offered spring semester 2016-2017 and alternate years. Prerequisite: MUSIC 214."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ORC"
 	],
@@ -16,13 +14,35 @@
 		"David R. Castro"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"CHM 224"
-	],
 	"max": 19,
 	"name": "Analysis/Tonal Music",
 	"number": 313,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "TBA",
+			"start": "14:00"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "CHM 224",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 214.",
 	"revisions": [
@@ -57,15 +77,31 @@
 				"T 1145-0110PM",
 				"Th 1245-0205PM"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.647677+00:00",
+			"clbid": 121330,
+			"crsid": 849,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0200-0255PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0200-0255PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Analysis of Tonal Music",
 	"type": "Research",
 	"year": 2018

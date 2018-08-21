@@ -1,21 +1,48 @@
 {
-	"clbid": 122919,
+	"clbid": "0000122919",
 	"credits": 1.0,
-	"crsid": 21536,
-	"departments": [
-		"REL"
-	],
-	"enroll": 0,
+	"crsid": "0000021536",
+	"department": "REL",
+	"enrolled": 0,
 	"instructors": [
 		"Kelly W. Figuerora-Ray"
 	],
 	"level": 0,
-	"locations": [
-		"TBA"
-	],
 	"max": 35,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TBA",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -23,14 +50,29 @@
 			"_updated": "2018-08-07T14:48:46.943766+00:00",
 			"enroll": "0",
 			"max": "35"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.252057+00:00",
+			"clbid": 122919,
+			"crsid": 21536,
+			"department": null,
+			"departments": [
+				"REL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,24 +1,39 @@
 {
-	"clbid": 121784,
+	"clbid": "0000121784",
 	"credits": 1.0,
-	"crsid": 19728,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000019728",
+	"department": "ECON",
 	"description": [
 		"In this course students apply the models, insights, and analytical techniques of economics to a specific topic or economic problem. Topics vary from year to year. May be repeated if topic is different. Offered periodically. Prerequisites: one of Economics 110-121 or permission of instructor."
 	],
-	"enroll": 17,
+	"enrolled": 17,
 	"instructors": [
 		"Anthony Becker"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 297"
-	],
 	"max": 25,
 	"name": "Top: Public Finance",
 	"number": 200,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RNS 297",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: one of Economics 110-121 or permission of instructor.",
 	"revisions": [
@@ -47,15 +62,30 @@
 			"_updated": "2018-08-07T14:48:45.530065+00:00",
 			"enroll": "17",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.616324+00:00",
+			"clbid": 121784,
+			"crsid": 19728,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 17,
+			"enrolled": null,
+			"locations": [
+				"RNS 297"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Topics in Economic Analysis",
 	"type": "Topic",
 	"year": 2018

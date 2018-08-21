@@ -1,14 +1,12 @@
 {
-	"clbid": 122165,
+	"clbid": "0000122165",
 	"credits": 1.0,
-	"crsid": 940,
-	"departments": [
-		"NURS"
-	],
+	"crsid": "0000000940",
+	"department": "NURS",
 	"description": [
 		"This course examines how contemporary culture influences present-day wellness perspectives. Values, lifestyle, daily stresses, and corresponding coping mechanisms affecting one's well-being are explored. Students study health behaviors as a function of social influences and, conversely, the impact of unhealthy coping behaviors on the social enterprise. This course also includes an exploration of wellness from the perspective of non-western cultures. Offered annually during Interim, spring semester, or fall semester. Counts toward American studies major and media studies and film studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS"
 	],
@@ -16,12 +14,17 @@
 		"Diana Neal"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 30,
 	"name": "Images of Wellness",
 	"number": 120,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "TBA",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,14 +42,29 @@
 			"_updated": "2018-08-07T14:48:49.841759+00:00",
 			"enroll": "0",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.010006+00:00",
+			"clbid": 122165,
+			"crsid": 940,
+			"department": null,
+			"departments": [
+				"NURS"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0700-1000PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,28 +1,36 @@
 {
-	"clbid": 120344,
+	"clbid": "0000120344",
 	"credits": 1.0,
-	"crsid": 1384,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001384",
+	"department": "THEAT",
 	"description": [
 		"A studio course for the student with previous acting experience. Through scene and monologue work students explore text and character analysis as well as the requirements of major theatrical period styles. Students perform regularly throughout the semester. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. Offered annually in the spring semester. Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Michelle C. Gibbs"
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen",
-		"TB Haugen"
-	],
 	"max": 18,
 	"name": "Intermediate Acting",
 	"notes": [
 		"Course Fee $32.00"
 	],
 	"number": 230,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "TB Haugen",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "TB Haugen",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131.",
 	"revisions": [
@@ -58,15 +66,31 @@
 			"_updated": "2018-08-07T14:48:48.832695+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.771191+00:00",
+			"clbid": 120344,
+			"crsid": 1384,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TB Haugen",
+				"TB Haugen"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

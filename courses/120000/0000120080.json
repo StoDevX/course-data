@@ -1,22 +1,25 @@
 {
-	"clbid": 120080,
+	"clbid": "0000120080",
 	"credits": 0.0,
-	"crsid": 1164,
-	"departments": [
-		"PSYCH"
-	],
-	"enroll": 0,
-	"groupid": 1163,
+	"crsid": "0000001164",
+	"department": "PSYCH",
+	"enrolled": 0,
+	"groupid": "0000001163",
 	"instructors": [
 		"Jessica R. Petok"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 15,
 	"name": "Cognitive Psychology Lab",
 	"number": 237,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -41,15 +44,31 @@
 			"_updated": "2018-08-07T14:48:48.691285+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.379018+00:00",
+			"clbid": 120080,
+			"crsid": 1164,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1163,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M 0100-0300PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"M 0100-0300PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

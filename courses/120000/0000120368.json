@@ -1,14 +1,12 @@
 {
-	"clbid": 120368,
+	"clbid": "0000120368",
 	"credits": 1.0,
-	"crsid": 455,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000000455",
+	"department": "ENVST",
 	"description": [
 		"This interdisciplinary course uses basic concepts of environmental science to explore global environmental issues. Topics are drawn from recent texts and current periodic literature, and participants will recognize many of the themes from coverage in the media. Because most environmental problems involve issues beyond the sciences, the class examines the economic, political, and ethical dimensions of environmental questions and environmental decision-making. Offered each semester."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"IST"
 	],
@@ -16,12 +14,29 @@
 		"Meredith Holgerson"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 38,
 	"name": "Intro: Env Studies",
 	"number": 137,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -52,14 +67,29 @@
 			"_updated": "2018-08-07T14:48:48.852325+00:00",
 			"enroll": "0",
 			"max": "38"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.823038+00:00",
+			"clbid": 120368,
+			"crsid": 455,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Introduction to Environmental Studies",
 	"type": "Research",
 	"year": 2018

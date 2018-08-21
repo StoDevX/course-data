@@ -1,14 +1,12 @@
 {
-	"clbid": 121512,
+	"clbid": "0000121512",
 	"credits": 0.25,
-	"crsid": 30306,
-	"departments": [
-		"DANCE"
-	],
+	"crsid": "0000030306",
+	"department": "DANCE",
 	"description": [
 		"Students engage in the physical practice and theory of the Pilates mat conditioning system. Students increase strength, flexibility, stamina, coordination and body/mind awareness through mindful practice of dynamic alignment, correct body usage, breath control, and anatomical study. The course utilizes rhythmic repetition and flowing movement. Additional exercise props will be used. This course includes repertoire developed to help improve key dance specified areas and is appropriate for all populations and levels of fitness. Offered annually."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,29 @@
 		"Anthony Roberts"
 	],
 	"level": 100,
-	"locations": [
-		"CAD Studio 1"
-	],
 	"max": 24,
 	"name": "Conditioning: Pract/Princ",
 	"number": 160,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD Studio 1",
+			"start": "11:50"
+		}
+	],
 	"pn": true,
 	"prerequisites": false,
 	"revisions": [
@@ -40,14 +55,29 @@
 			"_updated": "2018-08-07T14:48:49.617494+00:00",
 			"enroll": "0",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.703614+00:00",
+			"clbid": 121512,
+			"crsid": 30306,
+			"department": null,
+			"departments": [
+				"DANCE"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD Studio 1"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Conditioning: Practice and Principles",
 	"type": "Research",
 	"year": 2018

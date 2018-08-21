@@ -1,22 +1,25 @@
 {
-	"clbid": 119999,
+	"clbid": "0000119999",
 	"credits": 0.0,
-	"crsid": 101,
-	"departments": [
-		"BIO"
-	],
-	"enroll": 0,
-	"groupid": 100,
+	"crsid": "0000000101",
+	"department": "BIO",
+	"enrolled": 0,
+	"groupid": "0000000100",
 	"instructors": [
 		"Sara E. Fruehling"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 398"
-	],
 	"max": 18,
 	"name": "Biological Science Lab",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "16:00",
+			"location": "RNS 398",
+			"start": "14:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,15 +38,31 @@
 			"_updated": "2018-08-07T14:48:48.653880+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.276236+00:00",
+			"clbid": 119999,
+			"crsid": 101,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 100,
+			"locations": [
+				"RNS 398"
+			],
+			"offerings": null,
+			"times": [
+				"W 0200-0400PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"W 0200-0400PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

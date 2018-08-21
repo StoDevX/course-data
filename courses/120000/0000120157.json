@@ -1,14 +1,12 @@
 {
-	"clbid": 120157,
+	"clbid": "0000120157",
 	"credits": 1.0,
-	"crsid": 982,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000000982",
+	"department": "PHIL",
 	"description": [
 		"Valuing nature raises significant philosophical and ethical issues. This course considers the nature of animal life, the character and control of pollution, the conflict between preservationism and conservationism, corporate and governmental responsibility for the eco-crisis, the use of economic categories to assess wilderness areas and endangered species, the conflict between eco-holism and individualism, and the philosophy of wilderness management. Offered annually. Counts toward environmental studies major (all emphases) and concentration and management studies concentration. Prerequisite: completion of BTS-T or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN"
 	],
@@ -16,10 +14,6 @@
 		"Michael Fuerstein"
 	],
 	"level": 200,
-	"locations": [
-		"OM 010",
-		"OM 010"
-	],
 	"max": 25,
 	"name": "Environmental Ethics",
 	"notes": [
@@ -27,6 +21,20 @@
 		"Open only to seniors and juniors during web registration."
 	],
 	"number": 257,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "OM 010",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "OM 010",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "completion of BTS-T or permission of instructor.",
 	"revisions": [
@@ -43,16 +51,32 @@
 			"_updated": "2018-08-07T14:48:48.733006+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.516756+00:00",
+			"clbid": 120157,
+			"crsid": 982,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"OM 010",
+				"OM 010"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

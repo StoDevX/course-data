@@ -1,27 +1,42 @@
 {
-	"clbid": 121331,
+	"clbid": "0000121331",
 	"credits": 1.0,
-	"crsid": 857,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000000857",
+	"department": "MUSIC",
 	"description": [
 		"Students encounter in-depth studies in a specific topic or area of music history. The content and nature of this course are determined by the instructor and the music department. Sample topics include American music, studies in classical music, opera, and folk and pop influences in art music. May be repeated if topic is different. Offered each semester. Prerequisites: MUSIC 241 and MUSIC 242."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Rehanna L. Kheshgi"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 239"
-	],
 	"max": 19,
 	"name": "Top: Music and Gender",
 	"notes": [
 		"WRI is pending approval."
 	],
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "08:55",
+			"location": "CHM 239",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: MUSIC 241 and MUSIC 242.",
 	"revisions": [
@@ -44,14 +59,29 @@
 			"_updated": "2018-08-07T14:48:49.594695+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.650063+00:00",
+			"clbid": 121331,
+			"crsid": 857,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 239"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Advanced Study in Music History",
 	"type": "Topic",
 	"year": 2018

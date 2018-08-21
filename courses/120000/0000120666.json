@@ -1,14 +1,12 @@
 {
-	"clbid": 120666,
+	"clbid": "0000120666",
 	"credits": 1.0,
-	"crsid": 1154,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001154",
+	"department": "PSYCH",
 	"description": [
 		"This course examines the basic principles and methods of psychological science from an evolutionary and cultural perspective. Students use critical thinking skills to examine fascinating topics: dreaming, cultural influences, identity, learning, thinking, and the biology of behavior. Applying basic research methods, students act as skeptical scientists. This course applies to almost any career choice in today's world and provides insight into self and others. Offered each semester. Counts toward exercise science major and educational studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS",
 		"IST"
@@ -17,13 +15,23 @@
 		"Jeremy Loebach"
 	],
 	"level": 100,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 100,
 	"name": "Principles: Psych",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -51,16 +59,32 @@
 			"_updated": "2018-08-07T14:48:49.031405+00:00",
 			"enroll": "0",
 			"max": "100"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.264979+00:00",
+			"clbid": 120666,
+			"crsid": 1154,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Principles of Psychology",
 	"type": "Research",
 	"year": 2018

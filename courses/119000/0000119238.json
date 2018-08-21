@@ -1,27 +1,30 @@
 {
-	"clbid": 119238,
+	"clbid": "0000119238",
 	"credits": 0.5,
-	"crsid": 331,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000331",
+	"department": "EDUC",
 	"description": [
 		"This course focuses on the many aspects involved in coordinating and teaching a secondary choral program. It includes discussions on extra-curricular activities, grading and record keeping, curriculum, repertoire and program planning, professional development, and other pertinent and related topics. Students gain practical knowledge and skills necessary to successfully manage a vocal music program. Offered annually in the fall semester. Prerequisite: EDUC 330."
 	],
-	"enroll": 11,
+	"enrolled": 11,
 	"instructors": [
 		"Nancy A. Lee"
 	],
 	"level": 300,
-	"locations": [
-		"CHM 224"
-	],
 	"max": 18,
 	"name": "Teaching Vocal Music-Sec Schools",
 	"notes": [
 		"Open to rising Seniors and Juniors only."
 	],
 	"number": 358,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "21:00",
+			"location": "CHM 224",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -38,14 +41,29 @@
 			"_updated": "2018-08-07T14:48:45.334956+00:00",
 			"enroll": "11",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.140211+00:00",
+			"clbid": 119238,
+			"crsid": 331,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 11,
+			"enrolled": null,
+			"locations": [
+				"CHM 224"
+			],
+			"offerings": null,
+			"times": [
+				"M 0700-0900PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"M 0700-0900PM"
-	],
 	"title": "Teaching of Vocal Music in the Secondary School",
 	"type": "Research",
 	"year": 2018

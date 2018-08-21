@@ -1,14 +1,12 @@
 {
-	"clbid": 121699,
+	"clbid": "0000121699",
 	"credits": 1.0,
-	"crsid": 722,
-	"departments": [
-		"LATIN"
-	],
+	"crsid": "0000000722",
+	"department": "LATIN",
 	"description": [
 		"Rome's greatest orator, Cicero, was also its greatest prose stylist and the author most responsible for supplying Latin with philosophical vocabulary. Selections from his philosophical, rhetorical, and oratorical works show the range of his talents and help demonstrate the development of Latin prose style. Offered periodically. Counts toward ancient studies and medieval studies majors. Prerequisite: LATIN 231 or equivalent."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"FOL-L"
 	],
@@ -16,13 +14,23 @@
 		"Kyle Helms"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 19,
 	"name": "Cicero & Latin Prose",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": "LATIN 231 or equivalent.",
 	"revisions": [
@@ -41,15 +49,31 @@
 			"_updated": "2018-08-07T14:48:49.770985+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.834363+00:00",
+			"clbid": 121699,
+			"crsid": 722,
+			"department": null,
+			"departments": [
+				"LATIN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Cicero and Latin Prose",
 	"type": "Research",
 	"year": 2018

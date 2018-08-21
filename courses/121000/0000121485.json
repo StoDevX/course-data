@@ -1,21 +1,48 @@
 {
-	"clbid": 121485,
+	"clbid": "0000121485",
 	"credits": 1.0,
-	"crsid": 21543,
-	"departments": [
-		"SOAN"
-	],
-	"enroll": 0,
+	"crsid": "0000021543",
+	"department": "SOAN",
+	"enrolled": 0,
 	"instructors": [
 		"David C. Schalliol"
 	],
 	"level": 0,
-	"locations": [
-		"TBA"
-	],
 	"max": 20,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		},
+		{
+			"day": "Fr",
+			"end": "15:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -28,14 +55,29 @@
 			"_updated": "2018-08-07T14:48:46.904168+00:00",
 			"enroll": "0",
 			"max": "20"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.122230+00:00",
+			"clbid": 121485,
+			"crsid": 21543,
+			"department": null,
+			"departments": [
+				"SOAN"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 0100-0300PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

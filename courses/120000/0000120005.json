@@ -1,22 +1,25 @@
 {
-	"clbid": 120005,
+	"clbid": "0000120005",
 	"credits": 0.0,
-	"crsid": 1063,
-	"departments": [
-		"ESTH"
-	],
-	"enroll": 0,
-	"groupid": 1062,
+	"crsid": "0000001063",
+	"department": "ESTH",
+	"enrolled": 0,
+	"groupid": "0000001062",
 	"instructors": [
 		"Jennifer M. Holbein"
 	],
 	"level": 300,
-	"locations": [
-		"SAC 103"
-	],
 	"max": 12,
 	"name": "Biomechanics Lab",
 	"number": 374,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "SAC 103",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:48.656639+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.284072+00:00",
+			"clbid": 120005,
+			"crsid": 1063,
+			"department": null,
+			"departments": [
+				"ESTH"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 1062,
+			"locations": [
+				"SAC 103"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0800-1100"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"Th 0800-1100"
-	],
 	"type": "Lab",
 	"year": 2018
 }

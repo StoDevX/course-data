@@ -1,14 +1,12 @@
 {
-	"clbid": 119880,
+	"clbid": "0000119880",
 	"credits": 1.0,
-	"crsid": 441,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000441",
+	"department": "ENGL",
 	"description": [
 		"Students develop and complete individual projects in fiction, deepening and polishing their work. Class sessions are devoted to discussion of craft, examination of literary models, and workshopping of student writing. Prerequisites: completion of any 200 level fiction writing course such as ENGL 293 or ENGL 282 or permission of the instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,12 +14,29 @@
 		"Jeremy Nagamatsu"
 	],
 	"level": 300,
-	"locations": [
-		"TBA"
-	],
 	"max": 15,
 	"name": "Advanced Fiction Wrtg",
 	"number": 372,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: completion of any 200 level fiction writing course such as ENGL 293 or ENGL 282 or permission of the instructor.",
 	"revisions": [
@@ -45,14 +60,29 @@
 			"_updated": "2018-08-07T14:48:48.570128+00:00",
 			"enroll": "0",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.006473+00:00",
+			"clbid": 119880,
+			"crsid": 441,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Advanced Fiction Writing Workshop",
 	"type": "Research",
 	"year": 2018

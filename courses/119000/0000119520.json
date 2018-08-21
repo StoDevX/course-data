@@ -1,14 +1,12 @@
 {
-	"clbid": 119520,
+	"clbid": "0000119520",
 	"credits": 1.0,
-	"crsid": 513,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000513",
+	"department": "GERM",
 	"description": [
 		"A survey of German films from Caligari (1919) to The Counterfeiters (2008), this course examines 20th-century German history through the lens of Germany's most renowned films. Students develop analytical and critical skills in \"reading\" films as cultural products and as cinematic works of art. The course focuses on the increasing social and political importance of mass media for understanding the past. Counts toward German major and film studies, German studies, and media studies concentrations."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"HWC"
@@ -17,15 +15,44 @@
 		"Karen R. Achberger"
 	],
 	"level": 200,
-	"locations": [
-		"TOH 214"
-	],
 	"max": 40,
 	"name": "German Cinema",
 	"notes": [
 		"This course has required film screenings WF from 7-9:00 pm."
 	],
 	"number": 249,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:40",
+			"location": "TOH 214",
+			"start": "10:40"
+		},
+		{
+			"day": "Tu",
+			"end": "12:40",
+			"location": "TOH 214",
+			"start": "10:40"
+		},
+		{
+			"day": "We",
+			"end": "12:40",
+			"location": "TOH 214",
+			"start": "10:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "TOH 214",
+			"start": "10:40"
+		},
+		{
+			"day": "Fr",
+			"end": "12:40",
+			"location": "TOH 214",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -42,14 +69,29 @@
 			"_updated": "2018-08-07T14:48:46.747527+00:00",
 			"enroll": "0",
 			"max": "40"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.678141+00:00",
+			"clbid": 119520,
+			"crsid": 513,
+			"department": null,
+			"departments": [
+				"GERM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TOH 214"
+			],
+			"offerings": null,
+			"times": [
+				"M-F 1040-1240PM"
+			]
 		}
 	],
 	"semester": 2,
 	"status": "O",
 	"term": 20182,
-	"times": [
-		"M-F 1040-1240PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

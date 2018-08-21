@@ -1,14 +1,12 @@
 {
-	"clbid": 118391,
+	"clbid": "0000118391",
 	"credits": 1.0,
-	"crsid": 1165,
-	"departments": [
-		"PSYCH"
-	],
+	"crsid": "0000001165",
+	"department": "PSYCH",
 	"description": [
 		"How do biological factors influence fundamental aspects of psychology and behavior? In this course, students learn about relationships between the brain and behavior and use neuroanatomical, physiological, and biochemical levels of analysis to understand basic behavioral processes and systems, including sensation, movement, emotion, sleep and arousal, hunger, motivation, learning, and psychopathology. Offered each semester. Counts toward biology major and neuroscience concentration. Prerequisite: PSYCH 125 or BIO 123, BIO 227 or CH/BI 227."
 	],
-	"enroll": 26,
+	"enrolled": 26,
 	"gereqs": [
 		"IST"
 	],
@@ -16,15 +14,32 @@
 		"Gary M. Muir"
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208"
-	],
 	"max": 25,
 	"name": "Biopsychology",
 	"notes": [
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 238,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "RNS 208",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "PSYCH 125 or BIO 123, BIO 227 or CH/BI 227.",
 	"revisions": [
@@ -63,15 +78,30 @@
 			"_updated": "2018-08-07T14:48:44.692657+00:00",
 			"enroll": "26",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.820471+00:00",
+			"clbid": 118391,
+			"crsid": 1165,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"enroll": 26,
+			"enrolled": null,
+			"locations": [
+				"RNS 208"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

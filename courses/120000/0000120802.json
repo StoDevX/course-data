@@ -1,21 +1,16 @@
 {
-	"clbid": 120802,
+	"clbid": "0000120802",
 	"credits": 1.0,
-	"crsid": 323,
-	"departments": [
-		"EDUC"
-	],
+	"crsid": "0000000323",
+	"department": "EDUC",
 	"description": [
 		"This course provides practical information specifically relevant to the field of visual arts and art education. Students learn basic concepts about child growth, developmental stages, learning styles, and varied classroom approaches. They participate in classroom observations and practical applications of classroom activities, prepare units of instruction, and microteach. Topics include arts advocacy, interdisciplinary instruction, assessment, and teaching art history. Required field experience component. Offered periodically in the spring semester. Prerequisite: EDUC 330."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Paul S. Briggs"
 	],
 	"level": 300,
-	"locations": [
-		"CAD 202"
-	],
 	"max": 10,
 	"name": "Teaching of Art, K-12",
 	"notes": [
@@ -23,6 +18,26 @@
 		"instructor)"
 	],
 	"number": 341,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "CAD 202",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "CAD 202",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "CAD 202",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "EDUC 330.",
 	"revisions": [
@@ -39,14 +54,29 @@
 			"_updated": "2018-08-07T14:48:49.110493+00:00",
 			"enroll": "0",
 			"max": "10"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.489275+00:00",
+			"clbid": 120802,
+			"crsid": 323,
+			"department": null,
+			"departments": [
+				"EDUC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 202"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Teaching of Visual Art, K-12",
 	"type": "Research",
 	"year": 2018

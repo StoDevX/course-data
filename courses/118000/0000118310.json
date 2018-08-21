@@ -1,14 +1,12 @@
 {
-	"clbid": 118310,
+	"clbid": "0000118310",
 	"credits": 0.25,
-	"crsid": 1020,
-	"departments": [
-		"ESAC"
-	],
+	"crsid": "0000001020",
+	"department": "ESAC",
 	"description": [
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing."
 	],
-	"enroll": 23,
+	"enrolled": 23,
 	"gereqs": [
 		"SPM"
 	],
@@ -16,12 +14,23 @@
 		"Matthew C. McDonald"
 	],
 	"level": 100,
-	"locations": [
-		"Tostrud Ctr"
-	],
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "08:55",
+			"location": "Tostrud Ctr",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -38,15 +47,30 @@
 			"_updated": "2018-08-07T14:48:44.636641+00:00",
 			"enroll": "23",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.682867+00:00",
+			"clbid": 118310,
+			"crsid": 1020,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"enroll": 23,
+			"enrolled": null,
+			"locations": [
+				"Tostrud Ctr"
+			],
+			"offerings": null,
+			"times": [
+				"MW 0800-0855"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MW 0800-0855"
-	],
 	"type": "Research",
 	"year": 2018
 }

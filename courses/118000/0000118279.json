@@ -1,22 +1,25 @@
 {
-	"clbid": 118279,
+	"clbid": "0000118279",
 	"credits": 0.0,
-	"crsid": 1077,
-	"departments": [
-		"PHYS"
-	],
-	"enroll": 2,
-	"groupid": 1076,
+	"crsid": "0000001077",
+	"department": "PHYS",
+	"enrolled": 2,
+	"groupid": "0000001076",
 	"instructors": [
 		"Amy Larsen"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 293"
-	],
 	"max": 13,
 	"name": "Analytical I Lab",
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:15",
+			"location": "RNS 293",
+			"start": "11:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -29,15 +32,31 @@
 			"_updated": "2018-08-07T14:48:44.619165+00:00",
 			"enroll": "2",
 			"max": "13"
+		},
+		{
+			"_updated": "2018-08-21T03:27:36.641583+00:00",
+			"clbid": 118279,
+			"crsid": 1077,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"enroll": 2,
+			"enrolled": null,
+			"groupid": 1076,
+			"locations": [
+				"RNS 293"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0215PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "O",
 	"term": 20181,
-	"times": [
-		"T 1145-0215PM"
-	],
 	"type": "Lab",
 	"year": 2018
 }

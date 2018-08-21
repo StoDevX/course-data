@@ -1,14 +1,12 @@
 {
-	"clbid": 121439,
+	"clbid": "0000121439",
 	"credits": 1.0,
-	"crsid": 506,
-	"departments": [
-		"GERM"
-	],
+	"crsid": "0000000506",
+	"department": "GERM",
 	"description": [
 		"This course provides an introduction to the study of folklore and presents a spectrum of approaches to the interpretation of fairy tales. Students read and discuss writings stemming from oral traditions such as the Nibelungenlied, and chapbooks including Till Eulenspiegel, and Faust; eighteenth-century fables created on models from antiquity; fairy tales collected by the Brothers Grimm; and Kunstmärchen (literary fairy tales by known writers). Students explore the literary aspects of the works and their historical contexts. Counts toward German studies concentration."
 	],
-	"enroll": 38,
+	"enrolled": 38,
 	"gereqs": [
 		"ALS-L",
 		"HWC"
@@ -17,13 +15,23 @@
 		"Seth E. Peabody"
 	],
 	"level": 100,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
-	],
 	"max": 38,
 	"name": "Fairy Tales and Folklore",
 	"number": 147,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "RNS 310",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "RNS 310",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -64,15 +72,31 @@
 			"_updated": "2018-08-07T14:48:45.422148+00:00",
 			"enroll": "38",
 			"max": "38"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.347860+00:00",
+			"clbid": 121439,
+			"crsid": 506,
+			"department": null,
+			"departments": [
+				"GERM"
+			],
+			"enroll": 38,
+			"enrolled": null,
+			"locations": [
+				"RNS 310",
+				"RNS 310"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

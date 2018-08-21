@@ -1,14 +1,12 @@
 {
-	"clbid": 120851,
+	"clbid": "0000120851",
 	"credits": 1.0,
-	"crsid": 21529,
-	"departments": [
-		"MEST"
-	],
+	"crsid": "0000021529",
+	"department": "MEST",
 	"description": [
 		"This course introduces students to different topics within the cultures and traditions of the modern Middle East. Students gain familiarity with significant moments, movements, voices, and trends in society, politics, architecture, and literature, and their interdependence. The course also acquaints students with intellectual debates and conflicts in and about the Middle East, and enables them to better think through those debates for themselves. Counts toward Middle East studies concentration. Can be taken more than once, insofar as topics change."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"MCG",
 		"WRI"
@@ -17,11 +15,6 @@
 		"Linda Mokdad"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA",
-		"TBA"
-	],
 	"max": 34,
 	"name": "Topics in Modern Mid East Studies",
 	"notes": [
@@ -29,6 +22,26 @@
 		"Course Topic: Middle East Film"
 	],
 	"number": 202,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "22:00",
+			"location": "TBA",
+			"start": "19:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "None",
 	"revisions": [
@@ -82,16 +95,33 @@
 			"_updated": "2018-08-07T14:48:49.132143+00:00",
 			"enroll": "0",
 			"max": "34"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.540827+00:00",
+			"clbid": 120851,
+			"crsid": 21529,
+			"department": null,
+			"departments": [
+				"MEST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0700-1000PM",
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0700-1000PM",
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Topics in Modern Middle Eastern Studies",
 	"type": "Research",
 	"year": 2018

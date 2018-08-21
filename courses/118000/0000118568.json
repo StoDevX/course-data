@@ -1,14 +1,12 @@
 {
-	"clbid": 118568,
+	"clbid": "0000118568",
 	"credits": 1.0,
-	"crsid": 20055,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000020055",
+	"department": "ART",
 	"description": [
 		"This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of new media art-making. Students explore creative approaches to digital, time-based, and interactive art processes; examples include digital photo-montage, 3D printing, video art, and web-based art. Idea generation and development is central to the course, with an emphasis on experimentation and divergent thinking. Students engage in dynamic activity, spirited investigation, and thoughtful creative expression. Materials fee. Offered each semester. Counts toward film studies and media studies concentrations."
 	],
-	"enroll": 13,
+	"enrolled": 13,
 	"gereqs": [
 		"ALS-A"
 	],
@@ -16,12 +14,29 @@
 		"Peter B. Nelson"
 	],
 	"level": 100,
-	"locations": [
-		"CAD 116"
-	],
 	"max": 12,
 	"name": "Foundation New Media",
 	"number": 104,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "14:55",
+			"location": "CAD 116",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -44,15 +59,30 @@
 			"_updated": "2018-08-07T14:48:44.779260+00:00",
 			"enroll": "13",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.039375+00:00",
+			"clbid": 118568,
+			"crsid": 20055,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 13,
+			"enrolled": null,
+			"locations": [
+				"CAD 116"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0255PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0255PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

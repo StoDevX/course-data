@@ -1,15 +1,12 @@
 {
-	"clbid": 122112,
+	"clbid": "0000122112",
 	"credits": 1.0,
-	"crsid": 22776,
-	"departments": [
-		"ASIAN",
-		"PSCI"
-	],
+	"crsid": "0000022776",
+	"department": "AS/PS",
 	"description": [
 		"How do people in Asia understand citizenship? Students learn how membership in cultural, social, and political communities shapes rights, responsibilities, and identities in Asian countries. Reading historical and social science research, students consider and compare citizenship in Asian countries, including China, Japan, Korea, Taiwan, and Vietnam. Offered periodically. Prerequisite: one previous course in Asian studies or political science is recommended."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"HBS",
 		"MCG",
@@ -19,12 +16,29 @@
 		"Navruz Nekbakhtshoev"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 25,
 	"name": "Politics in Asia",
 	"number": 255,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "one previous course in Asian studies or political science is recommended.",
 	"revisions": [
@@ -37,14 +51,30 @@
 			"_updated": "2018-08-07T14:48:49.831915+00:00",
 			"enroll": "0",
 			"max": "25"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.984798+00:00",
+			"clbid": 122112,
+			"crsid": 22776,
+			"department": null,
+			"departments": [
+				"ASIAN",
+				"PSCI"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

@@ -1,27 +1,30 @@
 {
-	"clbid": 118627,
+	"clbid": "0000118627",
 	"credits": 0.25,
-	"crsid": 31168,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000031168",
+	"department": "MUSIC",
 	"description": [
 		"Students learn the basics of guitar playing as well as how to teach guitar classes. Course topics include: learning to play guitar at a basic level; tuning and maintaining a guitar; common performance issues and possible solutions; best practices for teaching class guitar; materials, methods and assessments for teaching guitar classes; the guitar as a tool for composition; technology for teaching, learning or composing for guitar. Required for BM music education majors. Others may register if space allows. Offered annually in fall semester."
 	],
-	"enroll": 18,
+	"enrolled": 18,
 	"instructors": [
 		"Christopher Kachian"
 	],
 	"level": 100,
-	"locations": [
-		"CHM 138"
-	],
 	"max": 15,
 	"name": "Guitar Techniques",
 	"notes": [
 		"Course closed during web registration."
 	],
 	"number": 165,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "22:00",
+			"location": "CHM 138",
+			"start": "19:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -50,14 +53,29 @@
 			"_updated": "2018-08-07T14:48:44.821076+00:00",
 			"enroll": "18",
 			"max": "15"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.139741+00:00",
+			"clbid": 118627,
+			"crsid": 31168,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 18,
+			"enrolled": null,
+			"locations": [
+				"CHM 138"
+			],
+			"offerings": null,
+			"times": [
+				"Th 0700-1000PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"Th 0700-1000PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

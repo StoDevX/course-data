@@ -1,25 +1,33 @@
 {
-	"clbid": 122197,
+	"clbid": "0000122197",
 	"credits": 0.25,
-	"crsid": 18783,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000018783",
+	"department": "MUSIC",
 	"description": [
 		"This continuation of 261 emphasizes sight playing, score reading, harmonization and transposition, more advanced improvisation and harmonic usage, performance preparation, and leadership from the keyboard. A grade of B- or higher satisfies Piano Proficiency Level 4 requirements. Offered annually in the spring semester. Prerequisite: MUSIC 261, completion of Piano Proficiency 3, or audition placement; concurrent registration in MUSIC 214 recommended."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"April R. Kim"
 	],
 	"level": 200,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 12,
 	"name": "Piano Class IV",
 	"number": 262,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "TBA",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 261, completion of Piano Proficiency 3, or audition placement; concurrent registration in MUSIC 214 recommended.",
 	"revisions": [
@@ -32,16 +40,32 @@
 			"_updated": "2018-08-07T14:48:49.844465+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:39.015897+00:00",
+			"clbid": 122197,
+			"crsid": 18783,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"type": "Research",
 	"year": 2018
 }

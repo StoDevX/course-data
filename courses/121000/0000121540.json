@@ -1,21 +1,36 @@
 {
-	"clbid": 121540,
+	"clbid": "0000121540",
 	"credits": 1.0,
-	"crsid": 21541,
-	"departments": [
-		"NORW"
-	],
-	"enroll": 0,
+	"crsid": "0000021541",
+	"department": "NORW",
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 0,
-	"locations": [
-		"TBA"
-	],
 	"max": 16,
 	"name": "Placeholder Course",
 	"number": 0,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
+			"end": "11:40",
+			"location": "TBA",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -39,15 +54,30 @@
 			"_updated": "2018-08-07T14:48:49.636915+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.746704+00:00",
+			"clbid": 121540,
+			"crsid": 21541,
+			"department": null,
+			"departments": [
+				"NORW"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2018
 }

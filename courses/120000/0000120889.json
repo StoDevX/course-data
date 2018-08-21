@@ -1,24 +1,33 @@
 {
-	"clbid": 120889,
+	"clbid": "0000120889",
 	"credits": 0.25,
-	"crsid": 31180,
-	"departments": [
-		"MUSIC"
-	],
+	"crsid": "0000031180",
+	"department": "MUSIC",
 	"description": [
 		"This course focuses on applying the foundations of vocal production learned in MUSIC 291 - Vocal Development and Pedagogy to the practice of teaching voice in a solo setting. Students in this course take on a private voice student for the semester and develop a systematic, personalized curriculum for this student. Topics include developing a pedagogical approach to warm-ups and vocalizations, choosing repertoire, vocal registration, vocal acoustics and format training, training different voice types, musical theater belting technique, and the aging voice. Counts toward BA music major and all BM majors. Required for BM vocal music education and BM vocal performance majors. Offered annually in spring semester. Prerequisite: MUSIC 291."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Alison J. Feldt"
 	],
 	"level": 200,
-	"locations": [
-		"CHM 232"
-	],
 	"max": 17,
 	"name": "Vocal Pedagogy II",
 	"number": 292,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "CHM 232",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": "MUSIC 291.",
 	"revisions": [
@@ -53,14 +62,29 @@
 			"_updated": "2018-08-07T14:48:49.475289+00:00",
 			"enroll": "0",
 			"max": "17"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.550510+00:00",
+			"clbid": 120889,
+			"crsid": 31180,
+			"department": null,
+			"departments": [
+				"MUSIC"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CHM 232"
+			],
+			"offerings": null,
+			"times": [
+				"MW 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2018
 }

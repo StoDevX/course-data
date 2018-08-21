@@ -1,14 +1,12 @@
 {
-	"clbid": 121278,
+	"clbid": "0000121278",
 	"credits": 1.0,
-	"crsid": 27324,
-	"departments": [
-		"RACE"
-	],
+	"crsid": "0000027324",
+	"department": "RACE",
 	"description": [
 		"This course provides an introduction to the cultural and historical background of four groups in the United States: African Americans, Native Americans, Latinos, and Asian Americans. Emphasis is on race relations and the distinguishing characteristics of these cultures as reflected in the academic disciplines of the creative and performing arts, the humanities, the social and behavioral sciences, and the general area of popular culture. Contributions to cultural pluralism are accentuated as well as the special issues of identity faced by these Americans. This course emphasizes literary texts. Counts toward American studies Latin American studies majors and Africa and the Americas and Latin American studies concentrations."
 	],
-	"enroll": 24,
+	"enrolled": 24,
 	"gereqs": [
 		"ALS-L",
 		"MCD"
@@ -17,12 +15,29 @@
 		"Jennifer Kwon Dobbs"
 	],
 	"level": 100,
-	"locations": [
-		"RML 525"
-	],
 	"max": 24,
 	"name": "Intro to Race & Ethnic St",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "RML 525",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -53,14 +68,29 @@
 			"_updated": "2018-08-07T14:48:45.378910+00:00",
 			"enroll": "24",
 			"max": "24"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.236568+00:00",
+			"clbid": 121278,
+			"crsid": 27324,
+			"department": null,
+			"departments": [
+				"RACE"
+			],
+			"enroll": 24,
+			"enrolled": null,
+			"locations": [
+				"RML 525"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Introduction to Race and Ethnic Studies",
 	"type": "Research",
 	"year": 2018

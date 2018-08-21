@@ -1,25 +1,33 @@
 {
-	"clbid": 121694,
+	"clbid": "0000121694",
 	"credits": 1.0,
-	"crsid": 18782,
-	"departments": [
-		"ENVST"
-	],
+	"crsid": "0000018782",
+	"department": "ENVST",
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Recent topics offered include Ecosystem Research, Landscape Art, Imaging Environmentalism, and Landscape and Regional Change in the Arctic."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Matthew Rohn"
 	],
 	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
-	],
 	"max": 12,
 	"name": "Top: Race, Environment, and Art",
 	"number": 381,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,16 +44,32 @@
 			"_updated": "2018-08-07T14:48:49.765930+00:00",
 			"enroll": "0",
 			"max": "12"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.823095+00:00",
+			"clbid": 121694,
+			"crsid": 18782,
+			"department": null,
+			"departments": [
+				"ENVST"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Advanced Research Topics in Environmental Studies",
 	"type": "Topic",
 	"year": 2018

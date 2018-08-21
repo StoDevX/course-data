@@ -1,14 +1,12 @@
 {
-	"clbid": 118955,
+	"clbid": "0000118955",
 	"credits": 1.0,
-	"crsid": 424,
-	"departments": [
-		"ENGL"
-	],
+	"crsid": "0000000424",
+	"department": "ENGL",
 	"description": [
 		"Students explore the complex relationships between literature and film. How do we translate the verbal into the visual? What can novels do that films cannot and vice versa? Subject matter includes both classic and contemporary fiction and film. Counts toward media studies concentration. Prerequisite: FYW."
 	],
-	"enroll": 28,
+	"enrolled": 28,
 	"gereqs": [
 		"ALS-L"
 	],
@@ -16,15 +14,32 @@
 		"Bjorn Nordfjord"
 	],
 	"level": 200,
-	"locations": [
-		"HH 434"
-	],
 	"max": 30,
 	"name": "Literature & Film",
 	"notes": [
 		"Course topic: Filming the Great American Novel"
 	],
 	"number": 275,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "12:45",
+			"location": "HH 434",
+			"start": "11:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "HH 434",
+			"start": "11:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "HH 434",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
 	"prerequisites": "FYW.",
 	"revisions": [
@@ -85,14 +100,29 @@
 			"_updated": "2018-08-07T14:48:45.172772+00:00",
 			"enroll": "28",
 			"max": "30"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.749405+00:00",
+			"clbid": 118955,
+			"crsid": 424,
+			"department": null,
+			"departments": [
+				"ENGL"
+			],
+			"enroll": 28,
+			"enrolled": null,
+			"locations": [
+				"HH 434"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"title": "Literature and Film",
 	"type": "Research",
 	"year": 2018

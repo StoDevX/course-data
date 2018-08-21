@@ -1,28 +1,36 @@
 {
-	"clbid": 119912,
+	"clbid": "0000119912",
 	"credits": 1.0,
-	"crsid": 37,
-	"departments": [
-		"ART"
-	],
+	"crsid": "0000000037",
+	"department": "ART",
 	"description": [
 		"Through a sequence of architectural design projects, students learn drawing (hand drafting and computer-aided drawing and design) and architectural design processes that require the integration of social, artistic, technical, and environmental issues typical of real projects. Visiting architects are involved. Field trips to experience spaces/places augment the studio work. Materials fee. Offered alternate years. Prerequisite: ART 102 and ART 103 or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"instructors": [
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"CAD 116",
-		"CAD 116"
-	],
 	"max": 16,
 	"name": "Architectural Drawing and Design I",
 	"notes": [
 		"The materials fee for ART 225 will be $150."
 	],
 	"number": 225,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "CAD 116",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "15:45",
+			"location": "CAD 116",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "ART 102 and ART 103 or permission of instructor.",
 	"revisions": [
@@ -48,15 +56,31 @@
 			"_updated": "2018-08-07T14:48:48.587806+00:00",
 			"enroll": "0",
 			"max": "16"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.057918+00:00",
+			"clbid": 119912,
+			"crsid": 37,
+			"department": null,
+			"departments": [
+				"ART"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"CAD 116",
+				"CAD 116"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0245PM",
+				"Th 1245-0345PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"T 1145-0245PM",
-		"Th 1245-0345PM"
-	],
 	"title": "Architectural Design I",
 	"type": "Research",
 	"year": 2018

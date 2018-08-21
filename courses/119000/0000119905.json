@@ -1,25 +1,28 @@
 {
-	"clbid": 119905,
+	"clbid": "0000119905",
 	"credits": 0.25,
-	"crsid": 202,
-	"departments": [
-		"CHEM"
-	],
+	"crsid": "0000000202",
+	"department": "CHEM",
 	"description": [
 		"Students enrolled in this lab course practice techniques of modern analytical chemistry using state-of-the-art instrumentation, including pH meters, liquid chromatographs, and a variety of spectrophotometers. Data acquisition via computer-interfaced instrumentation and electronic record-keeping is emphasized. Students practice and develop group skills by working in \"companies\" throughout the semester. P/N only. Offered each semester. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: concurrent registration in CHEM 255."
 	],
-	"enroll": 0,
-	"groupid": 201,
+	"enrolled": 0,
+	"groupid": "0000000201",
 	"instructors": [
 		"Douglas J. Beussman"
 	],
 	"level": 200,
-	"locations": [
-		"TBA"
-	],
 	"max": 14,
 	"name": "Analytical Lab",
 	"number": 256,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "17:00",
+			"location": "TBA",
+			"start": "13:00"
+		}
+	],
 	"pn": true,
 	"prerequisites": "concurrent registration in CHEM 255.",
 	"revisions": [
@@ -48,15 +51,31 @@
 			"_updated": "2018-08-07T14:48:48.582627+00:00",
 			"enroll": "0",
 			"max": "14"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.043451+00:00",
+			"clbid": 119905,
+			"crsid": 202,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"groupid": 201,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"W 0100-0500PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"W 0100-0500PM"
-	],
 	"title": "Analytical Laboratory",
 	"type": "Lab",
 	"year": 2018

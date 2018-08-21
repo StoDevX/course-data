@@ -1,14 +1,12 @@
 {
-	"clbid": 119149,
+	"clbid": "0000119149",
 	"credits": 1.0,
-	"crsid": 629,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000629",
+	"department": "HIST",
 	"description": [
 		"This seminar covers the emergence and development of Roman civilization from the founding of Rome to the end of the Western Empire. Students explore such topics as the Greek and Etruscan legacy, evolution from republic to autocracy, the Augustan Age, Pax Romana, social and intellectual trends, the triumph of Christianity and Rome's final transformation. May be repeated if topic is different. Offered periodically. Counts toward ancient studies, classics, and Latin majors. Prerequisite: HIST 190 or HIST 204 or permission of instructor."
 	],
-	"enroll": 20,
+	"enrolled": 20,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,13 +14,23 @@
 		"Timothy R. Howe"
 	],
 	"level": 300,
-	"locations": [
-		"HH 433",
-		"HH 433"
-	],
 	"max": 18,
 	"name": "Sem: Julio-Claudian Rome",
 	"number": 303,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "13:10",
+			"location": "HH 433",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "14:05",
+			"location": "HH 433",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "HIST 190 or HIST 204 or permission of instructor.",
 	"revisions": [
@@ -54,15 +62,31 @@
 			"_updated": "2018-08-07T14:48:45.280154+00:00",
 			"enroll": "20",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.015199+00:00",
+			"clbid": 119149,
+			"crsid": 629,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": 20,
+			"enrolled": null,
+			"locations": [
+				"HH 433",
+				"HH 433"
+			],
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Roman Civilization",
 	"type": "Seminar",
 	"year": 2018

@@ -1,14 +1,12 @@
 {
-	"clbid": 121788,
+	"clbid": "0000121788",
 	"credits": 1.0,
-	"crsid": 282,
-	"departments": [
-		"ECON"
-	],
+	"crsid": "0000000282",
+	"department": "ECON",
 	"description": [
 		"Ideal for students interested in applying statistical models to economic problems, this course emphasizes theoretical foundations, mathematical structure and applications of major econometric techniques, including ordinary least squares, generalized least squares, dummy variables, non-linear transformations, instrumental variables, simultaneous equation modeling, and time series models. Students in the class complete a sophisticated economic research project of their choice. Offered annually. Prerequisites: ECON 261 and either ECON 263 or STAT 272 or permission of instructor."
 	],
-	"enroll": 19,
+	"enrolled": 19,
 	"gereqs": [
 		"WRI"
 	],
@@ -16,9 +14,6 @@
 		"Anthony Becker"
 	],
 	"level": 300,
-	"locations": [
-		"HH 201"
-	],
 	"max": 23,
 	"name": "Econometrics",
 	"notes": [
@@ -27,6 +22,26 @@
 		"permission of instructor."
 	],
 	"number": 385,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 201",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 201",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 201",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: ECON 261 and either ECON 263 or STAT 272 or permission of instructor.",
 	"revisions": [
@@ -69,14 +84,29 @@
 			"locations": [
 				"TBA"
 			]
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.625435+00:00",
+			"clbid": 121788,
+			"crsid": 282,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"enroll": 19,
+			"enrolled": null,
+			"locations": [
+				"HH 201"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 1,
 	"status": "C",
 	"term": 20181,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }

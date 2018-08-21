@@ -1,14 +1,12 @@
 {
-	"clbid": 120356,
+	"clbid": "0000120356",
 	"credits": 1.0,
-	"crsid": 1378,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001378",
+	"department": "THEAT",
 	"description": [
 		"This studio course is centered on training the actor's instrument and developing basic acting skills including characterization, vocal production, physical and emotional connection, motivation and ensemble work. Students learn history of actor training from Stanislavski to present. Exercises, improvisation, monologue and scene work are all explored. This course requires trips to professional theaters in the Twin Cities. A ticket fee is required. Offered each semester. Counts toward film studies concentration."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"ALS-A",
 		"ORC"
@@ -17,15 +15,32 @@
 		"Bryan Schmidt"
 	],
 	"level": 100,
-	"locations": [
-		"TBA"
-	],
 	"max": 18,
 	"name": "Intro to Acting",
 	"notes": [
 		"Course Fee $32.00"
 	],
 	"number": 130,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "We",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		},
+		{
+			"day": "Fr",
+			"end": "13:50",
+			"location": "TBA",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -62,14 +77,29 @@
 			"_updated": "2018-08-07T14:48:48.841499+00:00",
 			"enroll": "0",
 			"max": "18"
+		},
+		{
+			"_updated": "2018-08-21T03:27:37.795092+00:00",
+			"clbid": 120356,
+			"crsid": 1378,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"TBA"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 1255-0150PM"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 1255-0150PM"
-	],
 	"title": "Introduction to Acting",
 	"type": "Research",
 	"year": 2018

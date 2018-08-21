@@ -1,14 +1,12 @@
 {
-	"clbid": 120561,
+	"clbid": "0000120561",
 	"credits": 1.0,
-	"crsid": 18522,
-	"departments": [
-		"PHIL"
-	],
+	"crsid": "0000018522",
+	"department": "PHIL",
 	"description": [
 		"An advanced introduction to moral philosophy emphasizing normative theories, the foundations of morality (metaethics), and moral reasoning. Normative theories (e.g. virtue ethics, deontologica lethics, theological ethics, and utilitarianism) explore the nature of the good and the difference between right and wrong. Metaethics concerns the origins and objectivity of moral judgments, studying moral relativism, moral subjectivism, divine command theory, and ideal observe rtheories. Students explore moral reasoning in theory and practice using contemporary moral issues as examples. Offered periodically. Prerequisites: one course in philosophy and completion of BTS-T or permission of instructor."
 	],
-	"enroll": 0,
+	"enrolled": 0,
 	"gereqs": [
 		"EIN"
 	],
@@ -16,9 +14,6 @@
 		"Staff"
 	],
 	"level": 200,
-	"locations": [
-		"HH 205"
-	],
 	"max": 19,
 	"name": "Moral Theory",
 	"notes": [
@@ -26,6 +21,26 @@
 		"Open only to seniors and juniors during web registration."
 	],
 	"number": 278,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 205",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 205",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 205",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: one course in philosophy and completion of BTS-T or permission of instructor.",
 	"revisions": [
@@ -44,14 +59,29 @@
 			"_updated": "2018-08-07T14:48:48.978871+00:00",
 			"enroll": "0",
 			"max": "19"
+		},
+		{
+			"_updated": "2018-08-21T03:27:38.140226+00:00",
+			"clbid": 120561,
+			"crsid": 18522,
+			"department": null,
+			"departments": [
+				"PHIL"
+			],
+			"enroll": 0,
+			"enrolled": null,
+			"locations": [
+				"HH 205"
+			],
+			"offerings": null,
+			"times": [
+				"MWF 0905-1000"
+			]
 		}
 	],
 	"semester": 3,
 	"status": "O",
 	"term": 20183,
-	"times": [
-		"MWF 0905-1000"
-	],
 	"type": "Research",
 	"year": 2018
 }
