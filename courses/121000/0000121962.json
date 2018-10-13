@@ -8,34 +8,31 @@
 	],
 	"enrolled": 0,
 	"instructors": [
-		"William Grodzicki"
+		"Steven McKelvey"
 	],
 	"level": 300,
-	"max": 0,
-	"name": "Sem: Pure Mathematics",
+	"max": 20,
+	"name": "Sem: Financial Mathematics",
+	"notes": [
+		"Prerequisites: MATH 220 and one of MATH 244 or MATH 252."
+	],
 	"number": 384,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
+			"day": "Tu",
+			"end": "11:00",
 			"location": "TBA",
-			"start": "11:50"
+			"start": "09:35"
 		},
 		{
-			"day": "We",
-			"end": "12:45",
+			"day": "Th",
+			"end": "10:50",
 			"location": "TBA",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
-			"location": "TBA",
-			"start": "11:50"
+			"start": "09:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequisites: MATH 220 and one of MATH 244 or MATH 252.",
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:58.318516+00:00",
@@ -64,6 +61,36 @@
 			"times": [
 				"MWF 1150-1245PM"
 			]
+		},
+		{
+			"_updated": "2018-10-13T04:11:40.330452+00:00",
+			"instructors": [
+				"William Grodzicki"
+			],
+			"max": 0,
+			"name": "Sem: Pure Mathematics",
+			"notes": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false
 		}
 	],
 	"semester": 3,
