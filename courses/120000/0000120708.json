@@ -13,6 +13,9 @@
 	"level": 300,
 	"max": 20,
 	"name": "Sem: Pure Mathematics",
+	"notes": [
+		"Prerequisite: MATH 244"
+	],
 	"number": 382,
 	"offerings": [
 		{
@@ -35,7 +38,7 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "MATH 244",
 	"revisions": [
 		{
 			"_updated": "2018-02-14T02:20:36.333674+00:00",
@@ -114,6 +117,11 @@
 				}
 			],
 			"prerequisites": "Prerequisites: MATH 220 and one of MATH 244 or MATH 252."
+		},
+		{
+			"_updated": "2018-10-14T04:10:29.957819+00:00",
+			"notes": null,
+			"prerequisites": false
 		}
 	],
 	"semester": 3,
