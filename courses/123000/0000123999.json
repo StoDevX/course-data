@@ -14,11 +14,54 @@
 		"Staff"
 	],
 	"level": 100,
-	"max": 999,
+	"max": 24,
 	"name": "Chemical Reactions",
+	"notes": [
+		"Students registering for Chem 126 must also register for Chem 126 lab."
+	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:30",
+			"location": "RNS 340",
+			"start": "10:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:30",
+			"location": "RNS 340",
+			"start": "10:00"
+		},
+		{
+			"day": "We",
+			"end": "11:30",
+			"location": "RNS 340",
+			"start": "10:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:30",
+			"location": "RNS 340",
+			"start": "10:00"
+		},
+		{
+			"day": "Fr",
+			"end": "11:30",
+			"location": "RNS 340",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "CHEM 125, or CHEM 121 and CHEM 123, and concurrent or previous MATH 119 or MATH 120, or permission of instructor.",
+	"revisions": [
+		{
+			"_updated": "2019-01-16T04:54:16.027304+00:00",
+			"max": 999,
+			"notes": null,
+			"offerings": null
+		}
+	],
 	"semester": 5,
 	"status": "O",
 	"term": 20185,
