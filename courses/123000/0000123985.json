@@ -14,13 +14,47 @@
 	"level": 200,
 	"max": 999,
 	"name": "Human Anatomy & Physiology",
+	"notes": [
+		"Students registering for BIO 243 must also register for BIO 243 Lab"
+	],
 	"number": 243,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:00"
+		},
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:00"
+		},
+		{
+			"day": "We",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:00"
+		},
+		{
+			"day": "Th",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "BIO 143, or BIO 150 and BIO 227 or CH/BI 227.",
 	"revisions": [
 		{
 			"_updated": "2019-02-01T05:01:23.189387+00:00",
 			"groupid": null
+		},
+		{
+			"_updated": "2019-02-02T05:02:20.375676+00:00",
+			"notes": null,
+			"offerings": null
 		}
 	],
 	"semester": 4,
