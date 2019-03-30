@@ -11,7 +11,7 @@ If you are interested in using the course data in another tool, it's hosted thro
 You can download it however you'd like, such as via `curl`. Assuming you want the 2016-Fall data in `csv` format (aka the file `20161.csv`), you'd do:
 
 ```console
-curl https://stodevx.github.io/course-data/terms/20161.csv
+curl https://stolaf.dev/course-data/terms/20161.csv
 ```
 
 We have data from 1994-Fall through this year, whetever this year is, automatically updated from the SIS's [Class & Lab page](https://www.stolaf.edu/sis/public-aclasslab.cfm) once a day.
