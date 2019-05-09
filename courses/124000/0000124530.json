@@ -3,7 +3,7 @@
 	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
-	"enrolled": 9,
+	"enrolled": 6,
 	"firstyear": "0/0",
 	"groupid": "0000000126",
 	"instructors": [
@@ -12,12 +12,15 @@
 	"level": 200,
 	"max": 22,
 	"name": "Human Anatomy & Physiology Lab",
+	"notes": [
+		"This lab has been canceled."
+	],
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Tu",
 			"end": "16:20",
-			"location": "RNS 254",
+			"location": "TBA",
 			"start": "13:20"
 		}
 	],
@@ -31,11 +34,25 @@
 		{
 			"_updated": "2019-04-27T05:47:14.472125+00:00",
 			"enrolled": 8
+		},
+		{
+			"_updated": "2019-05-09T05:52:48.079561+00:00",
+			"enrolled": 9,
+			"notes": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 254",
+					"start": "13:20"
+				}
+			],
+			"status": "O"
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20191,
 	"type": "Lab",
 	"year": 2019
