@@ -3,7 +3,7 @@
 	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
-	"enrolled": 17,
+	"enrolled": 18,
 	"firstyear": "0/0",
 	"groupid": "0000026714",
 	"instructors": [
@@ -13,14 +13,6 @@
 	"max": 18,
 	"name": "Cell Biology Lab",
 	"number": 227,
-	"offerings": [
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "RNS 394",
-			"start": "13:00"
-		}
-	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -33,11 +25,24 @@
 			"_updated": "2020-06-23T14:12:19.912977+00:00",
 			"enrolled": 18,
 			"status": "C"
+		},
+		{
+			"_updated": "2020-06-25T14:14:15.000435+00:00",
+			"enrolled": 17,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 394",
+					"start": "13:00"
+				}
+			],
+			"status": "O"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20201,
 	"type": "Lab",
 	"year": 2020
