@@ -9,23 +9,9 @@
 		"Eric Cole"
 	],
 	"level": 100,
-	"max": 8,
+	"max": 16,
 	"name": "Biological Science Lab",
 	"number": 121,
-	"offerings": [
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "RNS 250",
-			"start": "13:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "RNS 250",
-			"start": "13:30"
-		}
-	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -127,6 +113,24 @@
 				},
 				{
 					"day": "Fr",
+					"end": "15:30",
+					"location": "RNS 250",
+					"start": "13:30"
+				}
+			]
+		},
+		{
+			"_updated": "2020-10-08T15:21:37.148777+00:00",
+			"max": 8,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "RNS 250",
+					"start": "13:30"
+				},
+				{
+					"day": "Th",
 					"end": "15:30",
 					"location": "RNS 250",
 					"start": "13:30"
