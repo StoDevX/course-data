@@ -17,7 +17,8 @@
 	"max": 25,
 	"name": "Top: Artificial Intelligence",
 	"notes": [
-		"Open to CS majors only. This course has class-year limits."
+		"Open to CS majors only. This course has class-year limits.",
+		"Prerequisite: CSCI 241 and CSCI 251."
 	],
 	"number": 300,
 	"offerings": [
@@ -35,7 +36,7 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "CSCI 241 and CSCI 251.",
 	"revisions": [
 		{
 			"_updated": "2021-03-04T17:14:52.712312+00:00",
@@ -44,6 +45,13 @@
 		{
 			"_updated": "2021-03-11T16:48:57.739096+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2021-03-23T16:56:11.754751+00:00",
+			"notes": [
+				"Open to CS majors only. This course has class-year limits."
+			],
+			"prerequisites": false
 		}
 	],
 	"semester": 1,
