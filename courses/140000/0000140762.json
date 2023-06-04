@@ -3,7 +3,9 @@
 	"credits": 0.0,
 	"crsid": "0000017303",
 	"department": "BIO",
-	"enrolled": 0,
+	"enrolled": 20,
+	"firstyear": "0/0",
+	"groupid": "0000000171",
 	"instructors": [
 		"Norman Lee"
 	],
@@ -11,13 +13,50 @@
 	"level": 300,
 	"max": 24,
 	"name": "Animal Behavior Lab",
-	"notes": [
-		"Students registering for BIO 386 must also register for BIO 386 Lab."
-	],
 	"number": 386,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "15:00",
+			"location": "RNS 240",
+			"start": "13:00"
+		},
+		{
+			"day": "Tu",
+			"end": "15:00",
+			"location": "RNS 240",
+			"start": "13:00"
+		},
+		{
+			"day": "We",
+			"end": "15:00",
+			"location": "RNS 240",
+			"start": "13:00"
+		},
+		{
+			"day": "Th",
+			"end": "15:00",
+			"location": "RNS 240",
+			"start": "13:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2023-06-04T03:09:08.426811+00:00",
+			"enrolled": 0,
+			"firstyear": null,
+			"groupid": null,
+			"notes": [
+				"Students registering for BIO 386 must also register for BIO 386 Lab."
+			],
+			"offerings": null,
+			"sophomore": null
+		}
+	],
 	"semester": 2,
+	"sophomore": "0/0",
 	"status": "O",
 	"term": 20212,
 	"type": "Lab",

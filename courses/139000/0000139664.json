@@ -6,7 +6,8 @@
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Recent topics offered include Ecosystem Research, Landscape Art, Imaging Environmentalism, and Landscape and Regional Change in the Arctic."
 	],
-	"enrolled": 0,
+	"enrolled": 3,
+	"firstyear": "0/0",
 	"gereqs": [
 		"EIN"
 	],
@@ -18,25 +19,27 @@
 	"max": 15,
 	"name": "Top: Theo-Ethics of Climate Change",
 	"notes": [
-		"This course includes an academic civic engagement (ACE) component."
+		"This course includes an academic civic engagement (ACE) component.",
+		"This course is open only to juniors and seniors.",
+		"Prerequisite: completion of BTS-T or permission of instructor."
 	],
 	"number": 381,
 	"offerings": [
 		{
 			"day": "Tu",
 			"end": "13:10",
-			"location": "TBA",
+			"location": "OM 110",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
 			"end": "14:05",
-			"location": "TBA",
+			"location": "OM 110",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "completion of BTS-T or permission of instructor.",
 	"revisions": [
 		{
 			"_updated": "2021-02-19T16:42:39.506904+00:00",
@@ -77,9 +80,34 @@
 		{
 			"_updated": "2021-04-03T16:55:48.976381+00:00",
 			"notes": null
+		},
+		{
+			"_updated": "2023-06-04T03:09:40.605239+00:00",
+			"enrolled": 0,
+			"firstyear": null,
+			"notes": [
+				"This course includes an academic civic engagement (ACE) component."
+			],
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TBA",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TBA",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": null
 		}
 	],
 	"semester": 3,
+	"sophomore": "0/0",
 	"status": "O",
 	"term": 20213,
 	"title": "Advanced Research Topics in Environmental Studies",
