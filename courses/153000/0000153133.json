@@ -4,6 +4,7 @@
 	"crsid": "0000038752",
 	"department": "BI/ES",
 	"enrolled": 0,
+	"firstyear": "0/0",
 	"instructors": [
 		"Charles Jr. Umbanhowar"
 	],
@@ -12,15 +13,39 @@
 	"max": 10,
 	"name": "Placeholder Course",
 	"notes": [
-		"Prequisites: any level II biology, chemistry, or physics course or permission of",
-		"instructor.",
+		"Open to Juniors and Seniors only",
+		"Prerequisites: any level II biology, chemistry, or physics course or permission",
+		"of instructor.",
 		"Students registering for BI/ES 350 must also register for BI/ES 350 lab AL."
 	],
 	"number": 1,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "08:55",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "Prerequisites: any level II biology, chemistry, or physics course or permission",
+	"revisions": [
+		{
+			"_updated": "2023-10-04T02:21:28.124311+00:00",
+			"firstyear": null,
+			"notes": [
+				"Prequisites: any level II biology, chemistry, or physics course or permission of",
+				"instructor.",
+				"Students registering for BI/ES 350 must also register for BI/ES 350 lab AL."
+			],
+			"offerings": null,
+			"prerequisites": false,
+			"sophomore": null
+		}
+	],
 	"section": "A",
 	"semester": 3,
+	"sophomore": "0/0",
 	"status": "O",
 	"term": 20233,
 	"type": "Research",
