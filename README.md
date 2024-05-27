@@ -8,11 +8,14 @@ This repository holds the data for Gobbldygook in both raw (XML) and proccessed 
 
 If you are interested in using the course data in another tool, it's hosted through Github on the [`gh-pages` branch](https://github.com/stodevx/course-data/tree/gh-pages).
 
-You can download it however you'd like, such as via `curl`. Assuming you want the 2016-Fall data in `csv` format (aka the file `20161.csv`), you'd do:
+You can download it however you'd like, such as via `curl`. Assuming you want the 2016-Fall data in `json`, `csv`, or `xml` format (aka the file `20161.csv`), you'd do:
 
-```console
-curl https://stolaf.dev/course-data/terms/20161.json
-```
+Format | curl
+--|--
+json | `curl https://stolaf.dev/course-data/terms/20161.json`
+csv | `curl https://stolaf.dev/course-data/terms/20161.csv`
+xml | `curl https://stolaf.dev/course-data/terms/20161.xml`
+
 
 We have data from 1994-Fall through this year, whetever this year is, automatically updated from the SIS's [Class & Lab page](https://www.stolaf.edu/sis/public-aclasslab.cfm) once a day.
 
