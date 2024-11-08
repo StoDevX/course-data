@@ -6,7 +6,7 @@
 	"description": [
 		"This course introduces differential equations and analytical, numerical, and graphical techniques for the analysis of their solutions. First- and second-order differential equations and linear systems are studied. Applications are selected from areas such as biology, chemistry, economics, ecology, and physics. Laplace transforms or nonlinear systems may be covered as time permits. Students use computers extensively to calculate and visualize results. Offered each semester. Also counts toward neuroscience, business and management studies, and mathematical biology concentrations. Prerequisite: MATH 126 or MATH 128 and MATH 220."
 	],
-	"enrolled": 23,
+	"enrolled": 24,
 	"instructors": [
 		"Erin M. Ellefsen"
 	],
@@ -17,12 +17,6 @@
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "08:55",
-			"location": "RNS 204",
-			"start": "08:00"
-		},
-		{
 			"day": "Mo",
 			"end": "08:55",
 			"location": "RNS 204",
@@ -30,6 +24,12 @@
 		},
 		{
 			"day": "We",
+			"end": "08:55",
+			"location": "RNS 204",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
 			"end": "08:55",
 			"location": "RNS 204",
 			"start": "08:00"
@@ -115,10 +115,35 @@
 			"_updated": "2024-11-07T02:49:34.524126+00:00",
 			"enrolled": 24,
 			"status": "C"
+		},
+		{
+			"_updated": "2024-11-08T02:50:06.825645+00:00",
+			"enrolled": 23,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "RNS 204",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "RNS 204",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "RNS 204",
+					"start": "08:00"
+				}
+			],
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20243,
 	"type": "Research",
 	"year": 2024

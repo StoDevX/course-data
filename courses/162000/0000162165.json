@@ -6,7 +6,7 @@
 	"description": [
 		"This seminar-style course focuses on a specific art-historical topic, and students learn how to pursue art-historical practice beyond the introductory level. Topics change with each offering. Offered periodically."
 	],
-	"enrolled": 30,
+	"enrolled": 29,
 	"gereqs": [
 		"ALS-A",
 		"HWC",
@@ -22,12 +22,6 @@
 	"number": 278,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
 			"day": "Mo",
 			"end": "11:40",
 			"location": "CAD 305",
@@ -35,6 +29,12 @@
 		},
 		{
 			"day": "We",
+			"end": "11:40",
+			"location": "CAD 305",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
 			"end": "11:40",
 			"location": "CAD 305",
 			"start": "10:45"
@@ -81,11 +81,36 @@
 			"enrolled": 29,
 			"offerings": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2024-11-08T02:50:07.142451+00:00",
+			"enrolled": 30,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				}
+			],
+			"status": "C"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20243,
 	"title": "Topics:",
 	"type": "Topic",
