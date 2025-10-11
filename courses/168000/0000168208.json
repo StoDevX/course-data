@@ -8,7 +8,6 @@
 	],
 	"enrolled": 0,
 	"gereqs": [
-		"IST",
 		"NTS"
 	],
 	"instructors": [
@@ -19,6 +18,20 @@
 	"max": 30,
 	"name": "Introduction to Public Health",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "14:45",
+			"location": "TBA",
+			"start": "13:20"
+		},
+		{
+			"day": "Th",
+			"end": "15:35",
+			"location": "TBA",
+			"start": "14:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -27,6 +40,14 @@
 			"instructors": [
 				"Ericka Welsh"
 			]
+		},
+		{
+			"_updated": "2025-10-11T21:37:10.994792+00:00",
+			"gereqs": [
+				"IST",
+				"NTS"
+			],
+			"offerings": null
 		}
 	],
 	"semester": 3,

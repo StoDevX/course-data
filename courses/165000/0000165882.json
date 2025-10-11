@@ -13,8 +13,11 @@
 	],
 	"learningmode": "S",
 	"level": 200,
-	"max": 18,
-	"name": "Top: Topics in Statistics",
+	"max": 24,
+	"name": "Top: Survey Design and Analysis",
+	"notes": [
+		"Prerequisite: SDS 172 and SDS 164 or permission of instructor."
+	],
 	"number": 282,
 	"offerings": [
 		{
@@ -49,13 +52,20 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"prerequisites": "SDS 172 and SDS 164 or permission of instructor.",
 	"revisions": [
 		{
 			"_updated": "2025-05-14T03:09:21.309431+00:00",
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2025-10-11T21:37:07.272473+00:00",
+			"max": 18,
+			"name": "Top: Topics in Statistics",
+			"notes": null,
+			"prerequisites": false
 		}
 	],
 	"semester": 2,

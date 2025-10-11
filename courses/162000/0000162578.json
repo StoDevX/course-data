@@ -6,7 +6,7 @@
 	"description": [
 		"This course offers an introduction to grammar and reading through oral and written work. Offered annually in the fall semester."
 	],
-	"enrolled": 12,
+	"enrolled": 13,
 	"instructors": [
 		"Giulia Dossi"
 	],
@@ -17,21 +17,21 @@
 	"number": 111,
 	"offerings": [
 		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "HH 205",
+			"start": "09:05"
+		},
+		{
 			"day": "Mo",
 			"end": "10:00",
-			"location": "OM 140",
+			"location": "HH 205",
 			"start": "09:05"
 		},
 		{
 			"day": "We",
 			"end": "10:00",
-			"location": "OM 140",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "OM 140",
+			"location": "HH 205",
 			"start": "09:05"
 		}
 	],
@@ -135,6 +135,30 @@
 		{
 			"_updated": "2025-07-17T03:38:23.818494+00:00",
 			"enrolled": 13
+		},
+		{
+			"_updated": "2025-10-11T21:36:51.673539+00:00",
+			"enrolled": 12,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 140",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 140",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "OM 140",
+					"start": "09:05"
+				}
+			]
 		}
 	],
 	"semester": 1,
