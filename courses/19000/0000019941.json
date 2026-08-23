@@ -26,22 +26,34 @@
 	"number": 230,
 	"offerings": [
 		{
-			"day": "MTh",
+			"day": "Mo",
 			"end": "10:00",
 			"location": "L 177",
 			"start": "08:00"
 		},
 		{
-			"day": "MTh",
-			"end": "1240PM",
+			"day": "Th",
+			"end": "10:00",
+			"location": "L 177",
+			"start": "08:00"
+		},
+		{
+			"day": "Mo",
+			"end": "12:40",
 			"location": "",
-			"start": "10:40"
+			"start": "22:40"
+		},
+		{
+			"day": "Th",
+			"end": "12:40",
+			"location": "",
+			"start": "22:40"
 		},
 		{
 			"day": "Tu",
-			"end": "0300PM",
+			"end": "15:00",
 			"location": "",
-			"start": "01:00"
+			"start": "13:00"
 		}
 	],
 	"pn": false,
@@ -110,6 +122,36 @@
 				}
 			],
 			"prerequisites": false,
+			"section": null,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:00.652308+00:00",
+			"description": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "MTh",
+					"end": "10:00",
+					"location": "L 177",
+					"start": "08:00"
+				},
+				{
+					"day": "MTh",
+					"end": "1240PM",
+					"location": "",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "0300PM",
+					"location": "",
+					"start": "01:00"
+				}
+			],
 			"section": null,
 			"title": null
 		}

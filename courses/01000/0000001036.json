@@ -23,14 +23,26 @@
 	"number": 231,
 	"offerings": [
 		{
-			"day": "MWF",
+			"day": "Mo",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "We",
+			"end": "11:40",
+			"location": "SC 280",
+			"start": "10:45"
+		},
+		{
+			"day": "Fr",
 			"end": "11:40",
 			"location": "SC 280",
 			"start": "10:45"
 		},
 		{
 			"day": "Tu",
-			"end": "0300PM",
+			"end": "15:00",
 			"location": "SC 263",
 			"start": "12:00"
 		}
@@ -94,6 +106,29 @@
 				}
 			],
 			"prerequisites": false,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:18.032900+00:00",
+			"description": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "MWF",
+					"end": "11:40",
+					"location": "SC 280",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "0300PM",
+					"location": "SC 263",
+					"start": "12:00"
+				}
+			],
 			"title": null
 		}
 	],

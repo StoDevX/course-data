@@ -28,12 +28,24 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "1245PM",
+			"end": "12:45",
 			"location": "HH 204",
-			"start": "10:45"
+			"start": "22:45"
 		},
 		{
-			"day": "MWF",
+			"day": "Mo",
+			"end": "10:00",
+			"location": "HH 516",
+			"start": "09:05"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "HH 516",
+			"start": "09:05"
+		},
+		{
+			"day": "Fr",
 			"end": "10:00",
 			"location": "HH 516",
 			"start": "09:05"
@@ -99,6 +111,29 @@
 				}
 			],
 			"prerequisites": false,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:28.168544+00:00",
+			"description": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "1245PM",
+					"location": "HH 204",
+					"start": "10:45"
+				},
+				{
+					"day": "MWF",
+					"end": "10:00",
+					"location": "HH 516",
+					"start": "09:05"
+				}
+			],
 			"title": null
 		}
 	],

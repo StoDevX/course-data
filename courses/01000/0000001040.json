@@ -23,16 +23,22 @@
 	"number": 233,
 	"offerings": [
 		{
-			"day": "TTh",
-			"end": "0110PM",
+			"day": "Tu",
+			"end": "13:10",
 			"location": "SC 280",
-			"start": "11:45"
+			"start": "23:45"
+		},
+		{
+			"day": "Th",
+			"end": "13:10",
+			"location": "SC 280",
+			"start": "23:45"
 		},
 		{
 			"day": "We",
-			"end": "0145PM",
+			"end": "13:45",
 			"location": "SC 229",
-			"start": "10:45"
+			"start": "22:45"
 		}
 	],
 	"pn": false,
@@ -88,6 +94,29 @@
 				}
 			],
 			"prerequisites": false,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:18.034158+00:00",
+			"description": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "TTh",
+					"end": "0110PM",
+					"location": "SC 280",
+					"start": "11:45"
+				},
+				{
+					"day": "We",
+					"end": "0145PM",
+					"location": "SC 229",
+					"start": "10:45"
+				}
+			],
 			"title": null
 		}
 	],

@@ -27,16 +27,64 @@
 	"number": 222,
 	"offerings": [
 		{
-			"day": "M-F",
+			"day": "Mo",
 			"end": "09:00",
 			"location": "HH 501",
 			"start": "08:00"
 		},
 		{
-			"day": "M-F",
-			"end": "1200PM",
+			"day": "Tu",
+			"end": "09:00",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "09:00",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:00",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Fr",
+			"end": "09:00",
+			"location": "HH 501",
+			"start": "08:00"
+		},
+		{
+			"day": "Mo",
+			"end": "12:00",
 			"location": "BMC 111",
-			"start": "11:00"
+			"start": "23:00"
+		},
+		{
+			"day": "Tu",
+			"end": "12:00",
+			"location": "BMC 111",
+			"start": "23:00"
+		},
+		{
+			"day": "We",
+			"end": "12:00",
+			"location": "BMC 111",
+			"start": "23:00"
+		},
+		{
+			"day": "Th",
+			"end": "12:00",
+			"location": "BMC 111",
+			"start": "23:00"
+		},
+		{
+			"day": "Fr",
+			"end": "12:00",
+			"location": "BMC 111",
+			"start": "23:00"
 		}
 	],
 	"pn": false,
@@ -140,6 +188,28 @@
 				}
 			],
 			"prerequisites": false,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:28.844130+00:00",
+			"description": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "M-F",
+					"end": "09:00",
+					"location": "HH 501",
+					"start": "08:00"
+				},
+				{
+					"day": "M-F",
+					"end": "1200PM",
+					"location": "BMC 111",
+					"start": "11:00"
+				}
+			],
 			"title": null
 		}
 	],

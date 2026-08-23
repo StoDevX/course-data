@@ -28,12 +28,24 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "0900PM",
+			"end": "21:00",
 			"location": "H 403",
-			"start": "07:00"
+			"start": "19:00"
 		},
 		{
-			"day": "MWTh",
+			"day": "Mo",
+			"end": "10:00",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "H 403",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
 			"end": "10:00",
 			"location": "H 403",
 			"start": "08:00"
@@ -109,6 +121,29 @@
 				}
 			],
 			"prerequisites": false,
+			"section": null,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:16.943763+00:00",
+			"description": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "0900PM",
+					"location": "H 403",
+					"start": "07:00"
+				},
+				{
+					"day": "MWTh",
+					"end": "10:00",
+					"location": "H 403",
+					"start": "08:00"
+				}
+			],
 			"section": null,
 			"title": null
 		}

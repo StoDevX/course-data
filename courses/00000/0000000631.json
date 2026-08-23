@@ -22,16 +22,28 @@
 	"number": 111,
 	"offerings": [
 		{
-			"day": "MWF",
-			"end": "1245PM",
+			"day": "Mo",
+			"end": "12:45",
 			"location": "M 2",
-			"start": "11:50"
+			"start": "23:50"
+		},
+		{
+			"day": "We",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "23:50"
+		},
+		{
+			"day": "Fr",
+			"end": "12:45",
+			"location": "M 2",
+			"start": "23:50"
 		},
 		{
 			"day": "Tu",
-			"end": "0255PM",
+			"end": "14:55",
 			"location": "M 1",
-			"start": "02:00"
+			"start": "14:00"
 		}
 	],
 	"pn": false,
@@ -94,6 +106,30 @@
 				}
 			],
 			"prerequisites": false,
+			"title": null
+		},
+		{
+			"_updated": "2026-08-23T17:02:16.319563+00:00",
+			"description": null,
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "MWF",
+					"end": "1245PM",
+					"location": "M 2",
+					"start": "11:50"
+				},
+				{
+					"day": "Tu",
+					"end": "0255PM",
+					"location": "M 1",
+					"start": "02:00"
+				}
+			],
 			"title": null
 		}
 	],
