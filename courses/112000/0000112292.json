@@ -1,14 +1,21 @@
 {
 	"clbid": "0000112292",
-	"credits": 0.0,
 	"crsid": "0000001085",
 	"department": "PHYS",
 	"enrolled": 12,
-	"groupid": "0000001084",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Electronic Circuits Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:45",
+			"end": "0445PM",
 			"location": "RNS 297",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:44.219849+00:00",
@@ -37,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:24:03.284888+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:16.283431+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001084",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:45",
+					"location": "RNS 297",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

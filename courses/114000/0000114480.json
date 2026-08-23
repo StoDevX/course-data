@@ -7,34 +7,36 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers, and its applications to other disciplines. Students explore fundamental concepts, including iteration, recursion, object-oriented software design, algorithm efficiency, levels of naming, parallel computing, and computing ethics. Students apply these concepts daily in hands-on homework exercises relevant to fields in the arts, humanities (including digital humanities computations), social sciences, and natural sciences. Includes a team project applying CS to a chosen discipline. No prior experience with programming is expected or required. Offered each semester. One of CSCI 121, CSCI 125, or CSCI 251 counts toward linguistic studies concentration."
 	],
 	"enrolled": 26,
-	"instructors": [
-		"Shahid Noor"
+	"enrollment_fy": 17,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"junior": "3/2",
-	"learningmode": "S",
+	"instructors": [
+		"Noor, Shahid"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "29208",
+			"name": "Noor, Shahid"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 2,
+	"max_sr": 3,
 	"name": "Principles Comp Sci",
 	"notes": [
-		"Supplemental Instruction (SI) is available for this course.",
+		"Supplemental Instruction (SI) is available for this course.                     ",
 		"This course has class-year limits."
 	],
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 203",
 			"start": "10:45"
@@ -114,10 +116,53 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.235229+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Shahid Noor"
+			],
+			"instructors_full": null,
+			"junior": "3/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Supplemental Instruction (SI) is available for this course.",
+				"This course has class-year limits."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "1/3"
 		}
 	],
 	"semester": 3,
-	"senior": "1/3",
 	"status": "C",
 	"term": 20173,
 	"title": "Principles of Computer Science",

@@ -7,39 +7,38 @@
 		"Data is the currency of the modern world. At the intersection between statistics and computer science, data science is about gleaning information and making decisions from data. Using data from a variety of contexts and disciplines, students learn to summarize and extract insight from data, create compelling data visualizations, wrangle data, practice literate programming, and explore ethical issues in data science. No prior experience with programming is expected. This course cannot be taken after MSCS 264."
 	],
 	"enrolled": 28,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 9,
+	"enrollment_sr": 5,
 	"gereqs": [
+		"AQR",
 		"QCR"
 	],
 	"instructors": [
-		"Laura F. Boehm"
+		"Boehm, Laura F."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16855",
+			"name": "Boehm, Laura F."
+		}
+	],
 	"level": 100,
 	"max": 27,
+	"max_fy": 0,
+	"max_sr": 5,
 	"name": "Data Science I",
 	"notes": [
-		"Beginning Fall 2023, students looking for a first course in data science should",
-		"register for MSCS 164 rather than MSCS 264. This course is open to a limited-",
+		"Beginning Fall 2023, students looking for a first course in data science should ",
+		"register for MSCS 164 rather than MSCS 264. This course is open to a limited-   ",
 		"number of rising seniors. Not open to incoming first-year students."
 	],
 	"number": 164,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 160R",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 160R",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 160R",
 			"start": "11:50"
 		}
@@ -63,11 +62,56 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:14.302679+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Laura F. Boehm"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Beginning Fall 2023, students looking for a first course in data science should",
+				"register for MSCS 164 rather than MSCS 264. This course is open to a limited-",
+				"number of rising seniors. Not open to incoming first-year students."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 160R",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 160R",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 160R",
+					"start": "11:50"
+				}
+			],
+			"senior": "5/5"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "5/5",
 	"status": "C",
 	"term": 20231,
 	"title": "Data Science 1",

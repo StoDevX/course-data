@@ -4,37 +4,39 @@
 	"crsid": "0000000061",
 	"department": "ART",
 	"enrolled": 50,
-	"instructors": [
-		"A. Malcolm Gimse"
+	"enrollment_fy": 6,
+	"enrollment_jr": 7,
+	"enrollment_so": 12,
+	"enrollment_sr": 25,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"junior": "7/20",
-	"learningmode": "S",
+	"instructors": [
+		"Gimse, A. Malcolm"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2641",
+			"name": "Gimse, A. Malcolm"
+		}
+	],
 	"level": 200,
 	"max": 50,
+	"max_jr": 20,
+	"max_so": 35,
+	"max_sr": 10,
 	"name": "Art of India/SE Asia",
 	"number": 265,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "FH 01",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "FH 01",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "FH 01",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.489725+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:22:54.791830+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:07.408473+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"A. Malcolm Gimse"
+			],
+			"instructors_full": null,
+			"junior": "7/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "25/10",
+			"sophomore": "12/35",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "25/10",
-	"sophomore": "12/35",
 	"status": "C",
 	"term": 19963,
 	"type": "Research",

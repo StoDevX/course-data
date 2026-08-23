@@ -7,12 +7,23 @@
 		"This course is the gateway for the biology major, guiding students as they develop the context, skills, and modern framework on which to continue their study of biology. Students explore the history, evolution, and diversity of life in the context of genetics and comparative genomics. The laboratory emphasizes question-asking, problem-solving, and exploring biodiversity, and students have multiple opportunities to practice and communicate their science. Students attend lectures plus one 3-hour laboratory/discussion per week. Offered each semester."
 	],
 	"enrolled": 47,
-	"groupid": "0000026649",
-	"grouptype": "2",
-	"instructors": [
-		"Steven Freedberg"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 46,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"IST",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Freedberg, Steven"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 100,
 	"max": 44,
 	"name": "Biodiversity Foundations",
@@ -22,20 +33,8 @@
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 410",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 410",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 410",
 			"start": "11:50"
 		}
@@ -70,6 +69,45 @@
 			"gereqs": [
 				"IST",
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:18.011389+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000026649",
+			"grouptype": "2",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				}
 			]
 		}
 	],

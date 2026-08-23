@@ -4,78 +4,37 @@
 	"crsid": "0000000316",
 	"department": "EDUC",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Reading Comm Literacy",
 	"number": 315,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "FH 10L",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "FH 10L",
 			"start": "09:00"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "FH 10L",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "FH 10L",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "FH 10L",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "FH 10L",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "FH 10L",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "FH 10L",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "FH 10L",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "FH 10L",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "FH 10L",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:05.085969+00:00",
@@ -90,6 +49,86 @@
 		{
 			"_updated": "2020-10-15T15:23:15.431085+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.973576+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "FH 10L",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "FH 10L",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "FH 10L",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "FH 10L",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "FH 10L",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "FH 10L",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "FH 10L",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "FH 10L",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "FH 10L",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "FH 10L",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

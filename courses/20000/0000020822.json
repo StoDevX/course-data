@@ -4,30 +4,31 @@
 	"crsid": "0000001321",
 	"department": "SOAN",
 	"enrolled": 25,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 24,
 	"instructors": [
-		"Samiha Peterson"
+		"Peterson, Samiha"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6309",
+			"name": "Peterson, Samiha"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Senior Seminar",
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 277",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 277",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.927343+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:22:55.082582+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:39.275682+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Samiha Peterson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 277",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 277",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,18 +1,24 @@
 {
 	"clbid": "0000150038",
-	"credits": 0.0,
 	"crsid": "0000036590",
 	"department": "FYS",
 	"description": [
 		"St. Olaf Orientation to Academics and Resources (SOAR) is a required course that provides tools and resources for student success at the college level. SOAR meets five Thursdays in the fall: Sept. 14, 28, Oct. 12, 26 and Nov 9."
 	],
 	"enrolled": 17,
-	"groupid": "0000036173",
-	"grouptype": "L",
+	"enrollment_fy": 16,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "SOAR Discussion",
@@ -23,7 +29,7 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "TOH 316",
 			"start": "11:30"
 		}
@@ -58,6 +64,31 @@
 		{
 			"_updated": "2023-10-26T02:19:21.463506+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:13.932522+00:00",
+			"credits": 0.0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000036173",
+			"grouptype": "L",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "TOH 316",
+					"start": "11:30"
+				}
+			],
+			"title": null
 		}
 	],
 	"section": "L",

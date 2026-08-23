@@ -4,30 +4,34 @@
 	"crsid": "0000000720",
 	"department": "LATIN",
 	"enrolled": 9,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"FOL-L"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Roman Historians",
 	"number": 372,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 36",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 36",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:17.170178+00:00",
@@ -42,6 +46,39 @@
 		{
 			"_updated": "2020-10-15T15:22:48.098868+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.831610+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 36",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 36",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

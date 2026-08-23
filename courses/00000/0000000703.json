@@ -4,36 +4,32 @@
 	"crsid": "0000001389",
 	"department": "THEAT",
 	"enrolled": 9,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Brian Bjorklund"
+		"Bjorklund, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "611",
+			"name": "Bjorklund, Brian"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Drawing & Paintng",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CT GREEN RM",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CT GREEN RM",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CT GREEN RM",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.757869+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:23:05.111600+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:20.367360+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Brian Bjorklund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

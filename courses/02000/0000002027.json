@@ -4,36 +4,35 @@
 	"crsid": "0000000311",
 	"department": "EDUC",
 	"enrolled": 26,
-	"instructors": [
-		"John Welckle"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 4,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Welckle, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8971",
+			"name": "Welckle, John"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Educ Psychology",
 	"number": 290,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH 10",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH 10",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH 10",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.419203+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:07.636669+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.206455+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Welckle"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

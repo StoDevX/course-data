@@ -7,14 +7,25 @@
 		"This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Offered periodically. Prerequisite: BTS-B."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"gereqs": [
+		"BTS-T",
 		"CTD",
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Charles Wilson"
+		"Wilson, Charles"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9090",
+			"name": "Wilson, Charles"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Classics and Moderns",
@@ -22,21 +33,21 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 210",
 			"start": "11:45"
 		},
 		{
-			"day": "We",
-			"end": "21:00",
-			"location": "CAD 305",
-			"start": "19:00"
-		},
-		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 210",
 			"start": "12:45"
+		},
+		{
+			"day": "We",
+			"end": "0900PM",
+			"location": "CAD 305",
+			"start": "07:00"
 		}
 	],
 	"pn": false,
@@ -157,6 +168,46 @@
 				"WRI",
 				"CTD",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.952661+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CTD",
+				"WAC"
+			],
+			"instructors": [
+				"Charles Wilson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 210",
+					"start": "11:45"
+				},
+				{
+					"day": "We",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 210",
+					"start": "12:45"
+				}
 			]
 		}
 	],

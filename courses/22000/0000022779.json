@@ -4,30 +4,32 @@
 	"crsid": "0000001146",
 	"department": "PSCI",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Jo M. Beld"
+		"Beld, Jo M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2334",
+			"name": "Beld, Jo M."
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Methods: Pub Opinion",
 	"number": 371,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 514",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 514",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.624499+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:57.937102+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:41.552703+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jo M. Beld"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 514",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 514",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

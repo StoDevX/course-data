@@ -4,30 +4,32 @@
 	"crsid": "0000000861",
 	"department": "MUSIC",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Cora Scholz"
+		"Scholz, Cora"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7184",
+			"name": "Scholz, Cora"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Child & Adolesc Voice",
 	"number": 365,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CHM 239",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "CHM 239",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.893097+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:50.948760+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:00.626828+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Cora Scholz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CHM 239",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CHM 239",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

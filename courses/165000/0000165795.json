@@ -6,34 +6,34 @@
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enrolled": 23,
+	"enrolled": 20,
+	"enrollment_fy": 14,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HBS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Vivian Choi"
+		"Choi, Vivian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28078",
+			"name": "Choi, Vivian"
+		}
+	],
 	"level": 200,
 	"max": 23,
 	"name": "Top: Environmental Anthropology",
 	"number": 297,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 522",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 522",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 522",
 			"start": "12:55"
 		}
@@ -128,10 +128,52 @@
 			"_updated": "2025-12-14T03:22:48.008146+00:00",
 			"enrolled": 22,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:06:05.566747+00:00",
+			"enrolled": 23,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Vivian Choi"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 522",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 522",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 522",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"status": "C"
 		}
 	],
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20253,
 	"title": "Topics in Sociology and Anthropology",
 	"type": "Research",

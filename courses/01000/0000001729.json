@@ -4,30 +4,32 @@
 	"crsid": "0000002484",
 	"department": "THEAT",
 	"enrolled": 15,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 8,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Linda Devenish"
+		"Devenish, Linda"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10495",
+			"name": "Devenish, Linda"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Persuasion",
 	"number": 384,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CT 227",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CT 227",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.177165+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:06.414370+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:27.172279+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Linda Devenish"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CT 227",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CT 227",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,54 +1,38 @@
 {
 	"clbid": "0000089782",
-	"credits": 0.0,
 	"crsid": "0000000115",
 	"department": "BIO",
 	"enrolled": 24,
-	"firstyear": "7/6",
-	"groupid": "0000000114",
+	"enrollment_fy": 7,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 8,
 	"instructors": [
-		"John Giannini"
+		"Giannini, John"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Thinking & Doing Bio Lab",
 	"number": 135,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:00",
-			"location": "RNS 150",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "13:00",
-			"location": "RNS 150",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "13:00",
-			"location": "RNS 150",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
-			"location": "RNS 150",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "13:00",
+			"day": "M-F",
+			"end": "0100PM",
 			"location": "RNS 150",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:13.669925+00:00",
@@ -77,11 +61,67 @@
 		{
 			"_updated": "2020-10-15T15:23:49.589221+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:21.605012+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/6",
+			"groupid": "0000000114",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:00",
+					"location": "RNS 150",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "13:00",
+					"location": "RNS 150",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "13:00",
+					"location": "RNS 150",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "RNS 150",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "13:00",
+					"location": "RNS 150",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/6",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "8/6",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 20132,
 	"type": "Lab",

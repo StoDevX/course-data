@@ -7,33 +7,34 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers, and its applications to other disciplines. Students explore fundamental concepts, including iteration, recursion, object-oriented software design, algorithm efficiency, levels of naming, parallel computing, and computing ethics. Students apply these concepts daily in hands-on homework exercises relevant to fields in the arts, humanities (including digital humanities computations), social sciences, and natural sciences. Includes a team project applying CS to a chosen discipline. No prior experience with programming is expected or required. Offered each semester. One of CSCI 121, CSCI 125, or CSCI 251 counts toward applied linguistics concentration."
 	],
 	"enrolled": 28,
+	"enrollment_fy": 20,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Kimberly Mandery"
+		"Mandery, Kim"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34040",
+			"name": "Mandery, Kim"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 0,
+	"max_so": 9,
+	"max_sr": 0,
 	"name": "Principles Comp Sci",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 208",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 208",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 208",
 			"start": "09:05"
@@ -232,12 +233,52 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.477692+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Kimberly Mandery"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				}
+			],
+			"senior": "1/0",
+			"sophomore": "6/9"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "6/9",
 	"status": "O",
 	"term": 20241,
 	"title": "Principles of Computer Science",

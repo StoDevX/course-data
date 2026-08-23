@@ -4,37 +4,39 @@
 	"crsid": "0000000574",
 	"department": "HIST",
 	"enrolled": 34,
-	"instructors": [
-		"Dolores Peters"
+	"enrollment_fy": 8,
+	"enrollment_jr": 10,
+	"enrollment_so": 10,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"junior": "10/14",
-	"learningmode": "S",
+	"instructors": [
+		"Peters, Dolores"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6245",
+			"name": "Peters, Dolores"
+		}
+	],
 	"level": 100,
 	"max": 36,
+	"max_jr": 14,
+	"max_so": 17,
+	"max_sr": 9,
 	"name": "Europe,1500-Present",
 	"number": 191,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "H 317",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "H 317",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "H 317",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.458770+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:22:57.827232+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:27.494217+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Dolores Peters"
+			],
+			"instructors_full": null,
+			"junior": "10/14",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "H 317",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "H 317",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "H 317",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/9",
+			"sophomore": "10/17",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "6/9",
-	"sophomore": "10/17",
 	"status": "O",
 	"term": 19973,
 	"type": "Research",

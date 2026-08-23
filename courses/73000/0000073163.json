@@ -1,15 +1,21 @@
 {
 	"clbid": "0000073163",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 30,
-	"groupid": "0000000192",
-	"grouptype": "2",
+	"enrollment_fy": 23,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jennifer C. Klein"
+		"Klein, Jennifer C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21990",
+			"name": "Klein, Jennifer C."
+		}
+	],
 	"level": 100,
 	"max": 28,
 	"name": "Struct Chem & Equilib Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:49.437705+00:00",
@@ -38,6 +43,28 @@
 		{
 			"_updated": "2020-10-15T15:23:37.988765+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:25.578670+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"grouptype": "2",
+			"instructors": [
+				"Jennifer C. Klein"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

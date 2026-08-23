@@ -7,26 +7,37 @@
 		"This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Prerequisites: Mathematics 126 or 128, and 220. Offered each semester."
 	],
 	"enrolled": 21,
-	"firstyear": "0/22",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 15,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Bruce Hanson"
+		"Hanson, Bruce"
 	],
-	"junior": "4/22",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3033",
+			"name": "Hanson, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 22,
+	"max_jr": 22,
+	"max_so": 22,
+	"max_sr": 22,
 	"name": "Multivariable Calc",
 	"number": 226,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RNS 204",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 204",
 			"start": "12:45"
 		}
@@ -69,12 +80,44 @@
 		{
 			"_updated": "2021-03-02T16:51:23.270135+00:00",
 			"max": 26
+		},
+		{
+			"_updated": "2026-08-23T03:03:01.742106+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/22",
+			"instructors": [
+				"Bruce Hanson"
+			],
+			"instructors_full": null,
+			"junior": "4/22",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RNS 204",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 204",
+					"start": "12:45"
+				}
+			],
+			"senior": "2/22",
+			"sophomore": "15/22"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/22",
-	"sophomore": "15/22",
 	"status": "C",
 	"term": 20121,
 	"title": "Multivariable Calculus",

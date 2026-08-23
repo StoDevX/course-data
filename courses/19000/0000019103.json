@@ -4,37 +4,37 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 21,
-	"instructors": [
-		"Larry Zimmerman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"ORC"
 	],
-	"junior": "4/5",
-	"learningmode": "S",
+	"instructors": [
+		"Zimmerman, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9169",
+			"name": "Zimmerman, Larry"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_jr": 5,
+	"max_sr": 15,
 	"name": "Prin Secondary Educ",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "FH 10",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "FH 10",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "FH 10",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.290640+00:00",
@@ -61,11 +61,52 @@
 		{
 			"_updated": "2020-10-15T15:22:52.905923+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:34.318285+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Larry Zimmerman"
+			],
+			"instructors_full": null,
+			"junior": "4/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "17/15",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "17/15",
 	"status": "C",
 	"term": 19961,
 	"type": "Research",

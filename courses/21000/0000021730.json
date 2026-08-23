@@ -4,36 +4,36 @@
 	"crsid": "0000001233",
 	"department": "REL",
 	"enrolled": 16,
-	"instructors": [
-		"John Barbour"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Barbour, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "329",
+			"name": "Barbour, John"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Religion & Literature",
 	"number": 280,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CH 110",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.289657+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:22:56.579010+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:11.012138+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Barbour"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -7,13 +7,23 @@
 		"This practical course provides information needed for informed decision making in major areas of personal finance, including budgeting, basic tax planning, insurance, investments, major purchases and retirement planning. Offered during Interim. Does not count toward the finance or management area of emphasis within economics major, or the management studies concentration. Prerequisite: sophomore standing or above."
 	],
 	"enrolled": 34,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 2,
+	"enrollment_sr": 20,
 	"instructors": [
-		"Vernon Pollard"
+		"Pollard, Vernon"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30207",
+			"name": "Pollard, Vernon"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Personal Finance",
 	"notes": [
 		"Open only to juniors and seniors."
@@ -21,40 +31,16 @@
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "MWF",
+			"end": "0300PM",
+			"location": "HH 501",
+			"start": "01:00"
+		},
+		{
+			"day": "MWF",
+			"end": "1200PM",
 			"location": "HH 501",
 			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "HH 501",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "HH 501",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "HH 501",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "HH 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "HH 501",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
@@ -63,10 +49,66 @@
 		{
 			"_updated": "2024-04-27T02:21:07.255967+00:00",
 			"sophomore": "1/0"
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.777404+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Vernon Pollard"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "HH 501",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "HH 501",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "HH 501",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "HH 501",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "HH 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "HH 501",
+					"start": "13:00"
+				}
+			],
+			"section": null,
+			"sophomore": "2/0"
 		}
 	],
 	"semester": 2,
-	"sophomore": "2/0",
 	"status": "O",
 	"term": 20222,
 	"type": "Research",

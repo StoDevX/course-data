@@ -4,30 +4,32 @@
 	"crsid": "0000001168",
 	"department": "PSYCH",
 	"enrolled": 34,
+	"enrollment_fy": 3,
+	"enrollment_jr": 6,
+	"enrollment_so": 20,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Dana Gross"
+		"Gross, Dana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2768",
+			"name": "Gross, Dana"
+		}
+	],
 	"level": 200,
 	"max": 50,
 	"name": "Developmental Psych",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 282",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 282",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.926349+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:49.706589+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:22.693601+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dana Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 282",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 282",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

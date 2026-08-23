@@ -4,30 +4,36 @@
 	"crsid": "0000001294",
 	"department": "SOAN",
 	"enrolled": 23,
-	"instructors": [
-		"Walter T. Hoops"
+	"enrollment_fy": 11,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hoops, Walter T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3471",
+			"name": "Hoops, Walter T."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 4",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 4",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.689060+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:53.762227+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:55.123929+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Walter T. Hoops"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 4",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 4",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

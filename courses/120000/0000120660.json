@@ -8,35 +8,36 @@
 		"Physics 125 explores the character of electric and magnetic forces and fields, then takes up the extended description of matter (vibrations, waves - sound and light). Finally, both particle and wave descriptions are shown to be necessary for discussing quantum mechanics and its application to atomic physics. One laboratory meeting per week. Offered annually in the spring semester. Prerequisites: MATH 119 or MATH 120 or equivalent and PHYS 124."
 	],
 	"enrolled": 56,
-	"firstyear": "1/0",
-	"groupid": "0000001074",
-	"instructors": [
-		"Brian Borovsky"
+	"enrollment_fy": 1,
+	"enrollment_jr": 37,
+	"enrollment_so": 2,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Borovsky, Brian"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 100,
 	"max": 43,
+	"max_fy": 0,
 	"name": "Principles Physics II",
 	"notes": [
-		"Students in Physics 125 must also register for one Physics 125 lab.",
+		"Students in Physics 125 must also register for one Physics 125 lab.             ",
 		"Closed to first-year students."
 	],
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 210",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 210",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 210",
 			"start": "10:45"
@@ -148,6 +149,49 @@
 			"_updated": "2025-10-11T21:36:30.224783+00:00",
 			"gereqs": [
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.994549+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Physics 125 must also register for one Physics 125 lab.",
+				"Closed to first-year students."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 210",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 210",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 210",
+					"start": "10:45"
+				}
 			]
 		}
 	],

@@ -1,29 +1,36 @@
 {
 	"clbid": "0000062724",
-	"credits": 0.0,
 	"crsid": "0000016384",
 	"department": "BIO",
 	"enrolled": 6,
-	"firstyear": "0/0",
-	"groupid": "0000000158",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 300,
 	"max": 16,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Cell Physiology Lab",
 	"number": 341,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "RNS 393",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:37.671694+00:00",
@@ -43,10 +50,41 @@
 		{
 			"_updated": "2020-10-15T15:23:32.340315+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.630622+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000158",
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:15",
+					"location": "RNS 393",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20083,
 	"type": "Lab",

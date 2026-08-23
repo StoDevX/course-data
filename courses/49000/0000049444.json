@@ -4,18 +4,28 @@
 	"crsid": "0000001487",
 	"department": "ARMS",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Christopher L. Chiappari"
+		"Chiappari, Chris L."
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10036",
+			"name": "Chiappari, Chris L."
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "IS/Contemp Chicanas",
 	"number": 298,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:14.794620+00:00",
@@ -37,11 +47,33 @@
 		{
 			"_updated": "2020-10-15T15:23:20.802432+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:02.479089+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "0/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "0/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20052,
 	"type": "Research",

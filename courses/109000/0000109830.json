@@ -1,22 +1,35 @@
 {
-	"clbid": 109830,
-	"credits": 0.0,
-	"crsid": 131,
-	"departments": [
-		"BIO"
-	],
-	"groupid": 130,
+	"clbid": "0000109830",
+	"crsid": "0000000131",
+	"department": "BIO",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"level": 200,
-	"locations": [
-		"TBA"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 200,
+	"max": 0,
+	"max_fy": 0,
 	"name": "Invertebrate Biology Lab",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0420PM",
+			"location": "TBA",
+			"start": "01:20"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:47.239780+00:00",
@@ -28,15 +41,44 @@
 				"RNS 246"
 			],
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:03.293478+00:00",
+			"clbid": 109830,
+			"credits": 0.0,
+			"crsid": 131,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 130,
+			"instructors_full": null,
+			"locations": [
+				"TBA"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"times": [
+				"T 0120-0420PM"
+			],
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
 	"status": "X",
 	"term": 20161,
-	"times": [
-		"T 0120-0420PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

@@ -4,10 +4,19 @@
 	"crsid": "0000000209",
 	"department": "CHEM",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Jeffrey Dahlseid"
+		"Dahlseid, Jeffrey"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1390",
+			"name": "Dahlseid, Jeffrey"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Experimental Biochem",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "17:20",
+			"end": "0520PM",
 			"location": "SC 310/371",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.094673+00:00",
@@ -40,6 +48,33 @@
 		{
 			"_updated": "2025-02-08T02:41:21.588784+00:00",
 			"type": "Research"
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.469173+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jeffrey Dahlseid"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:20",
+					"location": "SC 310/371",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

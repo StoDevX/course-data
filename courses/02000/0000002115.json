@@ -4,36 +4,32 @@
 	"crsid": "0000000479",
 	"department": "FREN",
 	"enrolled": 16,
+	"enrollment_fy": 12,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Herve Pensec"
+		"Pensec, Herve"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6184",
+			"name": "Pensec, Herve"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "M 26",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "M 26",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "M 26",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.481331+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:07.677273+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.536253+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Herve Pensec"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "M 26",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "M 26",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "M 26",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

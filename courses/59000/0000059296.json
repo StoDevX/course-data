@@ -4,17 +4,28 @@
 	"crsid": "0000000847",
 	"department": "MUSIC",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Janis Hardy",
-		"James McKeel"
+		"McKeel, James",
+		"Hardy, Janis"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5210",
+			"name": "McKeel, James"
+		},
+		{
+			"fsnum": "3105",
+			"name": "Hardy, Janis"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "IS/Directing Opera",
 	"number": 298,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:23.540477+00:00",
@@ -29,6 +40,26 @@
 		{
 			"_updated": "2020-10-15T15:23:25.462908+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:23.124507+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Janis Hardy",
+				"James McKeel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "A",

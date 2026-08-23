@@ -4,16 +4,28 @@
 	"crsid": "0000001519",
 	"department": "ASIAN",
 	"enrolled": 18,
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-L",
+		"MCS-G"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Contem China-Lit-Tr",
 	"number": 123,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.621665+00:00",
@@ -28,6 +40,24 @@
 		{
 			"_updated": "2020-10-15T15:22:47.242297+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:45.301371+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

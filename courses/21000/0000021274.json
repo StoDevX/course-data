@@ -4,30 +4,36 @@
 	"crsid": "0000000349",
 	"department": "DNCTE",
 	"enrolled": 12,
-	"instructors": [
-		"Anne von Bibra"
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"von Bibra, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Int'l Dance I",
 	"number": 109,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:55",
+			"day": "TTh",
+			"end": "0255PM",
 			"location": "CTR ST",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "14:55",
-			"location": "CTR ST",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.014289+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:56.385679+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:49.780571+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "CTR ST",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:55",
+					"location": "CTR ST",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

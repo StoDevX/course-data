@@ -4,26 +4,37 @@
 	"crsid": "0000000339",
 	"department": "EDUC",
 	"enrolled": 37,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 20,
+	"enrollment_so": 2,
+	"enrollment_sr": 15,
 	"gereqs": [
+		"MCD",
+		"MCS-D",
 		"OEP",
 		"PAR"
 	],
 	"instructors": [
-		"Nancy Veverka"
+		"Veverka, Nancy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34051",
+			"name": "Veverka, Nancy"
+		}
+	],
 	"level": 300,
 	"max": 38,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Urban Education Practicum & Seminar",
 	"notes": [
-		"Admission by application.",
-		"Open to Juniors and Seniors only.",
+		"Admission by application.                                                       ",
+		"Open to Juniors and Seniors only.                                               ",
 		"Prerequisite: EDUC 330"
 	],
 	"number": 379,
 	"pn": true,
-	"prerequisites": "EDUC 330",
 	"revisions": [
 		{
 			"_updated": "2024-04-10T02:19:11.834473+00:00",
@@ -40,10 +51,40 @@
 				"OEP",
 				"PAR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.431508+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"OEP",
+				"PAR"
+			],
+			"instructors": [
+				"Nancy Veverka"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Admission by application.",
+				"Open to Juniors and Seniors only.",
+				"Prerequisite: EDUC 330"
+			],
+			"prerequisites": "EDUC 330",
+			"section": null,
+			"sophomore": "2/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "2/0",
 	"status": "C",
 	"term": 20222,
 	"type": "Research",

@@ -4,37 +4,39 @@
 	"crsid": "0000000031",
 	"department": "ART",
 	"enrolled": 34,
-	"instructors": [
-		"Perette Michelli"
+	"enrollment_fy": 8,
+	"enrollment_jr": 9,
+	"enrollment_so": 9,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"junior": "9/7",
-	"learningmode": "S",
+	"instructors": [
+		"Michelli, Perette"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5286",
+			"name": "Michelli, Perette"
+		}
+	],
 	"level": 100,
 	"max": 40,
+	"max_jr": 7,
+	"max_so": 8,
+	"max_sr": 5,
 	"name": "Ancient--Medieval",
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH 01",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH 01",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "FH 01",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.291500+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:01.993269+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.077035+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Perette Michelli"
+			],
+			"instructors_full": null,
+			"junior": "9/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/5",
+			"sophomore": "9/8",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "8/5",
-	"sophomore": "9/8",
 	"status": "O",
 	"term": 19991,
 	"type": "Research",

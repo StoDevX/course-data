@@ -1,15 +1,21 @@
 {
 	"clbid": "0000056142",
-	"credits": 0.0,
 	"crsid": "0000000107",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000000106",
-	"grouptype": "4",
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 15,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Kevin M. Crisp"
+		"Crisp, Kevin M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Cell Bio & Genetics Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "SC 273",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:25.870899+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:26.882109+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:27.961916+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000106",
+			"grouptype": "4",
+			"instructors": [
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "SC 273",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "I",

@@ -4,30 +4,34 @@
 	"crsid": "0000000548",
 	"department": "GREEK",
 	"enrolled": 3,
-	"instructors": [
-		"James May"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-K"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"May, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5130",
+			"name": "May, James"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Greek Drama",
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 36",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 36",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.222932+00:00",
@@ -42,6 +46,42 @@
 		{
 			"_updated": "2020-10-15T15:22:59.329875+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:54.006540+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James May"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 36",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 36",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

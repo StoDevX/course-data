@@ -4,38 +4,39 @@
 	"crsid": "0000000029",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "3/3",
-	"instructors": [
-		"Margaret Ojala"
+	"enrollment_fy": 3,
+	"enrollment_jr": 6,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "6/2",
-	"learningmode": "S",
+	"instructors": [
+		"Ojala, Margaret"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5816",
+			"name": "Ojala, Margaret"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 3,
+	"max_jr": 2,
+	"max_so": 3,
+	"max_sr": 0,
 	"name": "Found Photography",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
+			"day": "MWF",
+			"end": "0400PM",
 			"location": "CAD 102",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "CAD 102",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "16:00",
-			"location": "CAD 102",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:42.955087+00:00",
@@ -73,12 +74,54 @@
 		{
 			"_updated": "2020-10-15T15:23:13.422961+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.113300+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/3",
+			"gereqs": null,
+			"instructors": [
+				"Margaret Ojala"
+			],
+			"instructors_full": null,
+			"junior": "6/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "CAD 102",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "CAD 102",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "16:00",
+					"location": "CAD 102",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/0",
+			"sophomore": "5/3",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/0",
-	"sophomore": "5/3",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

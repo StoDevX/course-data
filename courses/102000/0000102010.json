@@ -1,14 +1,21 @@
 {
 	"clbid": "0000102010",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 20,
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Amy Kolan"
+		"Kolan, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4480",
+			"name": "Kolan, Amy"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Prin Physics II/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:30",
+			"end": "0430PM",
 			"location": "RNS 292",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-11-12T00:01:25.149028+00:00",
@@ -49,6 +55,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.435422+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.120148+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Amy Kolan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:30",
+					"location": "RNS 292",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

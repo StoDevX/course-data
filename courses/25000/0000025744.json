@@ -4,30 +4,32 @@
 	"crsid": "0000001168",
 	"department": "PSYCH",
 	"enrolled": 38,
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 26,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Richard Senese"
+		"Senese, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7388",
+			"name": "Senese, Richard"
+		}
+	],
 	"level": 200,
 	"max": 40,
 	"name": "Developmental Psych",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 278",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 278",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.266906+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:23:02.237324+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.320930+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Senese"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 278",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 278",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

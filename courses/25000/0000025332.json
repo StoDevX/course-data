@@ -4,30 +4,32 @@
 	"crsid": "0000000264",
 	"department": "ECON",
 	"enrolled": 29,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 20,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Edward David Emery"
+		"Emery, Edward David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1741",
+			"name": "Emery, Edward David"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Economic Methods",
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 31",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 31",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.440113+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:02.054997+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.120170+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Edward David Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

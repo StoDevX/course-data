@@ -4,37 +4,38 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 11,
-	"instructors": [
-		"Rodney G. Grubb"
+	"enrollment_fy": 4,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "0/20",
-	"learningmode": "S",
+	"instructors": [
+		"Grubb, Rodney G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2776",
+			"name": "Grubb, Rodney G."
+		}
+	],
 	"level": 100,
 	"max": 45,
+	"max_jr": 20,
+	"max_so": 28,
+	"max_sr": 10,
 	"name": "Int'l Relations",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "H 501",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "H 501",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "H 501",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.910493+00:00",
@@ -62,12 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:22:49.695776+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:22.069922+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Rodney G. Grubb"
+			],
+			"instructors_full": null,
+			"junior": "0/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/10",
+			"sophomore": "3/28",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/10",
-	"sophomore": "3/28",
 	"status": "O",
 	"term": 19951,
 	"type": "Research",

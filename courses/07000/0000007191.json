@@ -4,10 +4,22 @@
 	"crsid": "0000000980",
 	"department": "PHIL",
 	"enrolled": 24,
-	"instructors": [
-		"Paola L. Kindred"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 7,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kindred, Paola L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15851",
+			"name": "Kindred, Paola L."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Law,Politics,Morality",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RML 577",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RML 577",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.466467+00:00",
@@ -42,6 +53,40 @@
 		{
 			"_updated": "2020-10-15T15:23:15.021096+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.426341+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paola L. Kindred"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RML 577",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RML 577",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -4,36 +4,37 @@
 	"crsid": "0000027993",
 	"department": "ASIAN",
 	"enrolled": 19,
-	"instructors": [
-		"Karil J. Kucera"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 3,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A",
+		"MCG",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kucera, Karil J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Top: Sacred Sites of Asia",
 	"number": 202,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CAD 204",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CAD 204",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CAD 204",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T16:47:47.779144+00:00",
@@ -70,6 +71,47 @@
 				"MCG",
 				"WRI"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:30.017218+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 204",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 204",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 204",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

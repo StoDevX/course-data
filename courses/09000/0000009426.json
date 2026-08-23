@@ -4,32 +4,45 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 23,
-	"firstyear": "9/9",
-	"instructors": [
-		"Rickard J. Pettersson"
+	"enrollment_fy": 9,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "7/10",
-	"learningmode": "S",
+	"instructors": [
+		"Pettersson, Rickard J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16644",
+			"name": "Pettersson, Rickard J."
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_fy": 9,
+	"max_jr": 10,
+	"max_so": 10,
+	"max_sr": 7,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "SC 129",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "SC 129",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.224899+00:00",
@@ -58,12 +71,48 @@
 		{
 			"_updated": "2020-10-15T15:23:18.171054+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.668790+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "9/9",
+			"gereqs": null,
+			"instructors": [
+				"Rickard J. Pettersson"
+			],
+			"instructors_full": null,
+			"junior": "7/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 129",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "SC 129",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/7",
+			"sophomore": "5/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "2/7",
-	"sophomore": "5/10",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

@@ -1,24 +1,49 @@
 {
-	"clbid": 96421,
+	"clbid": "0000096421",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
+	"crsid": "0000000762",
+	"department": "MATH",
+	"description": [
+		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 	],
-	"description": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"level": 300,
-	"locations": [
-		"TBA",
-		"TBA"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 300,
+	"max": 20,
+	"max_sr": 18,
 	"name": "Sem: Algebraic Combinator",
-	"notes": "Prerequisite: Completion of Math 252.",
+	"notes": [
+		"Prerequisite: Completion of Math 252."
+	],
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
-	"prerequisites": "Prerequisite: Completion of Math 252.",
+	"prerequisites": "Completion of Math 252.",
 	"revisions": [
 		{
 			"_updated": "2015-03-10T21:59:57.886567+00:00",
@@ -26,16 +51,44 @@
 				"RNS 206",
 				"RNS 206"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:38.282762+00:00",
+			"clbid": 96421,
+			"crsid": 762,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"locations": [
+				"TBA",
+				"TBA"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "Prerequisite: Completion of Math 252.",
+			"offerings": null,
+			"prerequisites": "Prerequisite: Completion of Math 252.",
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 3,
 	"status": "X",
 	"term": 20143,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Mathematics",
 	"type": "Seminar",
 	"year": 2014

@@ -4,30 +4,36 @@
 	"crsid": "0000000259",
 	"department": "ECON",
 	"enrolled": 22,
-	"instructors": [
-		"Mary Ann Emery"
+	"enrollment_fy": 21,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HBS",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Emery, Mary Ann"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1746",
+			"name": "Emery, Mary Ann"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Principles of Econ",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 301",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 301",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.270306+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:52.822664+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:32.765090+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Ann Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 301",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 301",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

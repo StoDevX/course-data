@@ -4,30 +4,36 @@
 	"crsid": "0000000483",
 	"department": "FREN",
 	"enrolled": 19,
-	"instructors": [
-		"Jolene Barjasteh"
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"FOL-F",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Barjasteh, Jolene"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "337",
+			"name": "Barjasteh, Jolene"
+		}
+	],
 	"level": 200,
 	"max": 32,
 	"name": "Writing French",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 26",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 26",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.194730+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:59.311071+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.370886+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jolene Barjasteh"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

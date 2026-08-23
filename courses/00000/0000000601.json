@@ -4,36 +4,36 @@
 	"crsid": "0000001192",
 	"department": "REL",
 	"enrolled": 27,
-	"instructors": [
-		"Bruce Marshall"
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marshall, Bruce"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "545",
+			"name": "Marshall, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 27,
 	"name": "Essentials Chr Theol",
 	"number": 201,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CH 110",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.691803+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:05.067316+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.720755+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bruce Marshall"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

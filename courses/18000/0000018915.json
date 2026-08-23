@@ -4,38 +4,39 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 19,
-	"firstyear": "8/15",
-	"instructors": [
-		"Jan Shoger"
+	"enrollment_fy": 8,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors": [
+		"Shoger, Jan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7486",
+			"name": "Shoger, Jan"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 15,
+	"max_jr": 6,
+	"max_so": 11,
+	"max_sr": 2,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH 42",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH 42",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "FH 42",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.169413+00:00",
@@ -64,11 +65,54 @@
 		{
 			"_updated": "2020-10-15T15:22:52.657644+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:29.624260+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/15",
+			"gereqs": null,
+			"instructors": [
+				"Jan Shoger"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH 42",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH 42",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH 42",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/2",
+			"sophomore": "4/11",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "4/11",
 	"status": "O",
 	"term": 19961,
 	"type": "Research",

@@ -4,36 +4,35 @@
 	"crsid": "0000001375",
 	"department": "THEAT",
 	"enrolled": 45,
-	"instructors": [
-		"Brian Bjorklund"
+	"enrollment_fy": 11,
+	"enrollment_jr": 5,
+	"enrollment_so": 15,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bjorklund, Brian"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "611",
+			"name": "Bjorklund, Brian"
+		}
+	],
 	"level": 100,
 	"max": 50,
 	"name": "Intro to Theater",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "TB Kelsey",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "TB Kelsey",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "TB Kelsey",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.819339+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:16.784401+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.747258+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Brian Bjorklund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "TB Kelsey",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "TB Kelsey",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "TB Kelsey",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,49 +4,34 @@
 	"crsid": "0000001173",
 	"department": "PSYCH",
 	"enrolled": 21,
-	"firstyear": "1/8",
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 11,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Donna K. McMillan"
+		"McMillan, Donna K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5220",
+			"name": "McMillan, Donna K."
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 8,
+	"max_sr": 9,
 	"name": "Environmental Psych",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 307",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:15:17.496373+00:00",
@@ -83,10 +68,63 @@
 		{
 			"_updated": "2020-10-15T15:23:08.301475+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:31.234991+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/8",
+			"instructors": [
+				"Donna K. McMillan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/9",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "6/9",
 	"status": "C",
 	"term": 20012,
 	"type": "Research",

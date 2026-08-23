@@ -4,17 +4,32 @@
 	"crsid": "0000000703",
 	"department": "ID",
 	"enrolled": 25,
-	"instructors": [
-		"Helena Pohlandt-McCormick",
-		"Eric Lund"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lund, Eric",
+		"Pohlandt-McCormick, Helena"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4838",
+			"name": "Lund, Eric"
+		},
+		{
+			"fsnum": "10553",
+			"name": "Pohlandt-McCormick, Helena"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Hist/Rel S Africa",
 	"number": 252,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:14.687530+00:00",
@@ -29,6 +44,28 @@
 		{
 			"_updated": "2020-10-15T15:23:20.736296+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:02.844946+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Helena Pohlandt-McCormick",
+				"Eric Lund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

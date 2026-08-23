@@ -4,31 +4,41 @@
 	"crsid": "0000001482",
 	"department": "ARMS",
 	"enrolled": 25,
-	"instructors": [
-		"Michael Fitzgerald",
-		"Joan Hepburn"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hepburn, Joan",
+		"Fitzgerald, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3322",
+			"name": "Hepburn, Joan"
+		},
+		{
+			"fsnum": "2113",
+			"name": "Fitzgerald, Michael"
+		}
+	],
 	"level": 100,
 	"max": 50,
 	"name": "Intro to Arms",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 4",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 4",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.735793+00:00",
@@ -43,6 +53,42 @@
 		{
 			"_updated": "2020-10-15T15:22:53.793164+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:29.623032+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Fitzgerald",
+				"Joan Hepburn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 4",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 4",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

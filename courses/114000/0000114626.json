@@ -7,23 +7,30 @@
 		"This is an aerobic-based course utilizing swimming and water exercises. Prerequisite: be able to swim 300 yards."
 	],
 	"enrolled": 18,
-	"instructors": [
-		"Kurt Anderson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Anderson, Kurt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "228",
+			"name": "Anderson, Kurt"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Swim Fitness",
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SAC Pool",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "SAC Pool",
 			"start": "09:05"
@@ -69,6 +76,37 @@
 			"_updated": "2025-10-11T21:36:26.923981+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.281597+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kurt Anderson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SAC Pool",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SAC Pool",
+					"start": "09:05"
+				}
 			]
 		}
 	],

@@ -4,31 +4,39 @@
 	"crsid": "0000000576",
 	"department": "HIST",
 	"enrolled": 20,
-	"instructors": [
-		"Robert Entenmann"
+	"enrollment_fy": 5,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"MCS-G",
+		"WRI"
 	],
-	"junior": "3/16",
-	"learningmode": "S",
+	"instructors": [
+		"Entenmann, Robert"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1821",
+			"name": "Entenmann, Robert"
+		}
+	],
 	"level": 100,
 	"max": 36,
+	"max_jr": 16,
+	"max_so": 29,
+	"max_sr": 9,
 	"name": "Global,1500-Present",
 	"number": 196,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 307",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 307",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.459400+00:00",
@@ -56,11 +64,47 @@
 		{
 			"_updated": "2020-10-15T15:22:57.827673+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:27.494513+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Robert Entenmann"
+			],
+			"instructors_full": null,
+			"junior": "3/16",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 307",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 307",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/9",
+			"sophomore": "4/29",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "8/9",
-	"sophomore": "4/29",
 	"status": "O",
 	"term": 19973,
 	"type": "Research",

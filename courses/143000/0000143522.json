@@ -7,39 +7,38 @@
 		"This course introduces students to a wide range of lifetime sports and games. Students learn the history and origin of these activities along with the basic rules, etiquette, and strategies."
 	],
 	"enrolled": 17,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"Scott Nesbit"
+		"Nesbit, Scott"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5580",
+			"name": "Nesbit, Scott"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Lifetime Sports and Games",
 	"notes": [
-		"Open only to rising seniors and juniors.",
+		"Open only to rising seniors and juniors.                                        ",
 		"First half of semester course."
 	],
 	"number": 118,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "Tostrud Ctr",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "Tostrud Ctr",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "Tostrud Ctr",
 			"start": "12:55"
 		}
@@ -53,11 +52,56 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.406764+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"Scott Nesbit"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Open only to rising seniors and juniors.",
+				"First half of semester course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				}
+			],
+			"sophomore": "0/0"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20221,
 	"type": "Research",

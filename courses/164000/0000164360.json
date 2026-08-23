@@ -1,14 +1,21 @@
 {
 	"clbid": "0000164360",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
-	"enrolled": 24,
-	"groupid": "0000000194",
+	"enrolled": 23,
+	"enrollment_fy": 10,
+	"enrollment_jr": 3,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Cassie M. Joiner"
+		"Joiner, Cassie M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32114",
+			"name": "Joiner, Cassie M."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:37:10.274768+00:00",
@@ -52,6 +58,36 @@
 		{
 			"_updated": "2025-11-19T03:08:03.819980+00:00",
 			"enrolled": 25
+		},
+		{
+			"_updated": "2026-08-23T03:05:37.997797+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 24,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Cassie M. Joiner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

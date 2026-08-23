@@ -4,10 +4,23 @@
 	"crsid": "0000000231",
 	"department": "CLASS",
 	"enrolled": 29,
-	"instructors": [
-		"Paul P. Moran"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 12,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-L",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Moran, Paul P."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10096",
+			"name": "Moran, Paul P."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Golden Age of Rome-Tr",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 031",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 031",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.116845+00:00",
@@ -42,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:18.103305+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.629656+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul P. Moran"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 031",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 031",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

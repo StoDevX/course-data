@@ -4,44 +4,39 @@
 	"crsid": "0000000427",
 	"department": "ENGL",
 	"enrolled": 18,
-	"firstyear": "4/3",
-	"instructors": [
-		"James Heynen"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "3/6",
-	"learningmode": "S",
+	"instructors": [
+		"Heynen, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3333",
+			"name": "Heynen, James"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 3,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 3,
 	"name": "Studies in Poetry",
 	"number": 281,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-Th",
+			"end": "0300PM",
 			"location": "L 421",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "L 421",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "L 421",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "L 421",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.103126+00:00",
@@ -70,11 +65,60 @@
 		{
 			"_updated": "2020-10-15T15:22:59.883567+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:12.740145+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/3",
+			"gereqs": null,
+			"instructors": [
+				"James Heynen"
+			],
+			"instructors_full": null,
+			"junior": "3/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "L 421",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "L 421",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "L 421",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "L 421",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/3",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "6/3",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 19982,
 	"type": "Research",

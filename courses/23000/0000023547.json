@@ -4,36 +4,34 @@
 	"crsid": "0000001936",
 	"department": "MATH",
 	"enrolled": 27,
-	"instructors": [
-		"Matthew Richey"
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Richey, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6658",
+			"name": "Richey, Matthew"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Elementary Statistics",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 184",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 184",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 184",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.252690+00:00",
@@ -48,6 +46,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.348654+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:54.017539+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matthew Richey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 184",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 184",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 184",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

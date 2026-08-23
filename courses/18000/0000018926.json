@@ -4,38 +4,41 @@
 	"crsid": "0000000031",
 	"department": "ART",
 	"enrolled": 33,
-	"firstyear": "7/30",
-	"instructors": [
-		"Perette Michelli"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A",
+		"HWC",
+		"WRI"
 	],
-	"junior": "3/17",
-	"learningmode": "S",
+	"instructors": [
+		"Michelli, Perette"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5286",
+			"name": "Michelli, Perette"
+		}
+	],
 	"level": 100,
 	"max": 60,
+	"max_fy": 30,
+	"max_jr": 17,
+	"max_so": 24,
+	"max_sr": 10,
 	"name": "Ancient--Medieval",
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH 01",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH 01",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "FH 01",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.178715+00:00",
@@ -64,11 +67,54 @@
 		{
 			"_updated": "2020-10-15T15:22:52.667000+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:29.627480+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/30",
+			"gereqs": null,
+			"instructors": [
+				"Perette Michelli"
+			],
+			"instructors_full": null,
+			"junior": "3/17",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH 01",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/10",
+			"sophomore": "13/24",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "10/10",
-	"sophomore": "13/24",
 	"status": "O",
 	"term": 19961,
 	"type": "Research",

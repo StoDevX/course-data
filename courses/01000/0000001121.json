@@ -4,36 +4,35 @@
 	"crsid": "0000000259",
 	"department": "ECON",
 	"enrolled": 19,
-	"instructors": [
-		"Xun Pomponio"
+	"enrollment_fy": 11,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pomponio, Xun"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6399",
+			"name": "Pomponio, Xun"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Principles of Econ",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 301",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 301",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 301",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.766025+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:06.159728+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.700546+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Xun Pomponio"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 301",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 301",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 301",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

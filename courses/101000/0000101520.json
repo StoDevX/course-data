@@ -7,23 +7,30 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 23,
-	"instructors": [
-		"Kathryn L. Bretscher"
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bretscher, Kathryn L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "27241",
+			"name": "Bretscher, Kathryn L."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:30",
-			"location": "Tostrud Ctr",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:30",
 			"location": "Tostrud Ctr",
 			"start": "09:35"
@@ -72,6 +79,37 @@
 			"_updated": "2025-10-11T21:36:20.448091+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:55.756555+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kathryn L. Bretscher"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				}
 			]
 		}
 	],

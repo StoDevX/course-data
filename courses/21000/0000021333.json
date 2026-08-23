@@ -4,30 +4,37 @@
 	"crsid": "0000000431",
 	"department": "ENGL",
 	"enrolled": 30,
-	"instructors": [
-		"Abby Werlock"
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 3,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"ALS-L",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Women and Literature",
 	"number": 286,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 515",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 515",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.049731+00:00",
@@ -42,6 +49,41 @@
 		{
 			"_updated": "2020-10-15T15:22:56.410012+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.219398+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

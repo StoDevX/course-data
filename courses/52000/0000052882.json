@@ -7,15 +7,28 @@
 		"This study of chemical stoichiometry, equilibrium, coordination chemistry and atomic and molecular structure supplies the fundamental background on which all later chemistry courses depend. It includes applications of equilibrium principles to acid-base chemistry. Students attend three classes and one 3-hour laboratory each week. Prerequisites: high school chemistry and physics and concurrent registration in calculus (Mathematics 120 or 122). The course cannot be taken in conjunction with or after credit in Chemistry 121."
 	],
 	"enrolled": 55,
-	"groupid": "0000000192",
-	"grouptype": "1",
-	"instructors": [
-		"Anthony T. Watson"
+	"enrollment_fy": 40,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "2/8",
-	"learningmode": "S",
+	"instructors": [
+		"Watson, Anthony T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16643",
+			"name": "Watson, Anthony T."
+		}
+	],
 	"level": 100,
 	"max": 52,
+	"max_jr": 8,
+	"max_so": 18,
+	"max_sr": 8,
 	"name": "Struct Chem & Equilib",
 	"notes": [
 		"Students in Chem 125A must also register for one lab Chem 125EL, FL, GL, or HL"
@@ -23,19 +36,7 @@
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 378",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 378",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 378",
 			"start": "08:00"
@@ -70,12 +71,52 @@
 		{
 			"_updated": "2020-10-15T15:23:23.706424+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:14.430018+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000000192",
+			"grouptype": "1",
+			"instructors": [
+				"Anthony T. Watson"
+			],
+			"instructors_full": null,
+			"junior": "2/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				}
+			],
+			"senior": "5/8",
+			"sophomore": "8/18"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "5/8",
-	"sophomore": "8/18",
 	"status": "C",
 	"term": 20061,
 	"title": "Structural Chemistry and Equilibrium",

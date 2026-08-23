@@ -4,32 +4,45 @@
 	"crsid": "0000000022",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "4/5",
-	"instructors": [
-		"Mollie Rabiner"
+	"enrollment_fy": 4,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors": [
+		"Rabiner, Mollie"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15835",
+			"name": "Rabiner, Mollie"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 5,
+	"max_jr": 3,
+	"max_so": 3,
+	"max_sr": 1,
 	"name": "Foundation Sculpture",
 	"number": 114,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 106",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 106",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.471865+00:00",
@@ -65,11 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:14.789377+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.655167+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/5",
+			"gereqs": null,
+			"instructors": [
+				"Mollie Rabiner"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 106",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 106",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/1",
+			"sophomore": "7/3",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "4/1",
-	"sophomore": "7/3",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

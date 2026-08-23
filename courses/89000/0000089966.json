@@ -7,11 +7,23 @@
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in games playing."
 	],
 	"enrolled": 21,
-	"halfcredit": "1",
-	"instructors": [
-		"David A. Stromme"
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Stromme, David A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19528",
+			"name": "Stromme, David A."
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Badminton",
@@ -21,19 +33,7 @@
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "Tostrud Ctr",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "Tostrud Ctr",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "Tostrud Ctr",
 			"start": "08:00"
@@ -60,6 +60,44 @@
 			"_updated": "2025-10-11T21:36:13.949321+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:24.383368+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"David A. Stromme"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				}
 			]
 		}
 	],

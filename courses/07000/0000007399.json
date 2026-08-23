@@ -4,36 +4,36 @@
 	"crsid": "0000001303",
 	"department": "SOAN",
 	"enrolled": 24,
-	"instructors": [
-		"Thomas A. Williamson"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Williamson, Thomas A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14223",
+			"name": "Williamson, Thomas A."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Contemp Issue/SE Asia",
 	"number": 239,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 317",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 317",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 317",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.610211+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:15.113490+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.467401+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Thomas A. Williamson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,27 +1,78 @@
 {
-	"clbid": 10192,
+	"clbid": "0000010192",
 	"credits": 1.0,
-	"crsid": 368,
-	"departments": [
-		"DNCTH"
+	"crsid": "0000000368",
+	"department": "DNCTH",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
 	"instructors": [
-		"Anthony Roberts"
+		"Roberts, Anthony"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6691",
+			"name": "Roberts, Anthony"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"DC Studio 1"
-	],
 	"name": "Dancing With Computer",
 	"number": 150,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "11:30",
+			"location": "CAD Studio 1",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:00:56.558353+00:00",
+			"clbid": 10192,
+			"crsid": 368,
+			"department": null,
+			"departments": [
+				"DNCTH"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony Roberts"
+			],
+			"instructors_full": null,
+			"locations": [
+				"DC Studio 1"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": null
+		}
+	],
 	"semester": 5,
 	"status": "X",
 	"term": 20045,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2004
 }

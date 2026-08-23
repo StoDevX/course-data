@@ -1,32 +1,92 @@
 {
-	"clbid": 69881,
+	"clbid": "0000069881",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
+	"crsid": "0000001142",
+	"department": "PSCI",
+	"description": [
+		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"description": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"MCS-D"
+	],
 	"instructors": [
-		"Nanaho Hanada"
+		"Hanada, Nanaho"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21147",
+			"name": "Hanada, Nanaho"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"RNS 290",
-		"RNS 290"
-	],
+	"max": 25,
 	"name": "Top: Citizen Activism",
-	"notes": "This course has been cancelled.",
+	"notes": [
+		"This course has been cancelled."
+	],
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "RNS 290",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "RNS 290",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:19.420688+00:00",
+			"clbid": 69881,
+			"crsid": 1142,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"description": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Nanaho Hanada"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 290",
+				"RNS 290"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been cancelled.",
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "X",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Political Science",
 	"type": "Topic",
 	"year": 2009

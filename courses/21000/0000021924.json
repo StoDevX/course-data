@@ -4,110 +4,51 @@
 	"crsid": "0000000106",
 	"department": "BIO",
 	"enrolled": 27,
-	"firstyear": "16/1",
-	"instructors": [
-		"Anne Walter"
+	"enrollment_fy": 16,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "3/2",
-	"learningmode": "S",
+	"instructors": [
+		"Walter, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 100,
 	"max": 28,
+	"max_fy": 1,
+	"max_jr": 2,
+	"max_sr": 2,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 274",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 273",
 			"start": "08:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 273",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 273",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 273",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 273",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "SC 273",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 273",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "SC 273",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 273",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 273",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 274",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 274",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 274",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 274",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 274",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.036842+00:00",
@@ -135,10 +76,125 @@
 		{
 			"_updated": "2020-10-15T15:22:57.012758+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:14.791947+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "16/1",
+			"gereqs": null,
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"junior": "3/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 273",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 273",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 273",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 273",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 273",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 273",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 273",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "SC 273",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 273",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 273",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 274",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 274",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 274",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 274",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 274",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/2",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "2/2",
 	"status": "C",
 	"term": 19972,
 	"type": "Research",

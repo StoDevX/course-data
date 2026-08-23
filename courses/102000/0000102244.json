@@ -1,14 +1,21 @@
 {
 	"clbid": "0000102244",
-	"credits": 0.0,
 	"crsid": "0000000125",
 	"department": "BIO",
 	"enrolled": 15,
-	"groupid": "0000000124",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Steven Freedberg"
+		"Freedberg, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 200,
 	"max": 14,
 	"name": "Vertebrate Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 250",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-09-29T23:01:24.019024+00:00",
@@ -55,6 +61,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.509061+00:00",
 			"max": 16
+		},
+		{
+			"_updated": "2026-08-23T03:03:53.807131+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000124",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 250",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -1,40 +1,35 @@
 {
 	"clbid": "0000080855",
-	"credits": 0.0,
 	"crsid": "0000024192",
 	"department": "IS",
 	"enrolled": 5,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Richard Brown"
+		"Brown, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "806",
+			"name": "Brown, Richard"
+		}
+	],
 	"level": 200,
 	"max": 9,
+	"max_fy": 0,
 	"name": "Pwr Comptg Lab",
 	"number": 201,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:00",
+			"day": "MWF",
+			"end": "0200PM",
 			"location": "RNS 202",
-			"start": "13:15"
-		},
-		{
-			"day": "We",
-			"end": "14:00",
-			"location": "RNS 202",
-			"start": "13:15"
-		},
-		{
-			"day": "Fr",
-			"end": "14:00",
-			"location": "RNS 202",
-			"start": "13:15"
+			"start": "01:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.519336+00:00",
@@ -53,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:43.382763+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:50.694307+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Richard Brown"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:00",
+					"location": "RNS 202",
+					"start": "13:15"
+				},
+				{
+					"day": "We",
+					"end": "14:00",
+					"location": "RNS 202",
+					"start": "13:15"
+				},
+				{
+					"day": "Fr",
+					"end": "14:00",
+					"location": "RNS 202",
+					"start": "13:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000056047",
-	"credits": 0.0,
 	"crsid": "0000000238",
 	"department": "CHIN",
 	"enrolled": 20,
-	"groupid": "0000000237",
-	"grouptype": "1",
+	"enrollment_fy": 11,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Luying Chen"
+		"Chen, Luying"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19296",
+			"name": "Chen, Luying"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Beginning Chinese I Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:25.824243+00:00",
@@ -38,6 +43,28 @@
 		{
 			"_updated": "2020-10-15T15:23:26.850021+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.299121+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000237",
+			"grouptype": "1",
+			"instructors": [
+				"Luying Chen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

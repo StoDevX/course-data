@@ -7,17 +7,36 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 9,
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Kayla R. Hatting"
+		"Hatting, Kayla R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28128",
+			"name": "Hatting, Kayla R."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0400PM",
+			"location": "VRTL Online",
+			"start": "02:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -27,6 +46,26 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:49.226428+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Kayla R. Hatting"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null
 		}
 	],
 	"section": "B",

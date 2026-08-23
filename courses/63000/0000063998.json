@@ -7,14 +7,31 @@
 		"Faculty offer integrative seminars in the Center for Integrative Studies (CIS) on selected topics, open to students of at least sophomore standing, that model the integration of tools and resources from various disciplines in new approaches to interesting subjects. Each seminar is normally offered twice, in successive academic years, then is either retired or adopted into another department or interdisciplinary program's offerings."
 	],
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"instructors": [
-		"Robert W. McClure",
-		"John Welckle"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Welckle, John",
+		"McClure, Robert W."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8971",
+			"name": "Welckle, John"
+		},
+		{
+			"fsnum": "16582",
+			"name": "McClure, Robert W."
+		}
+	],
 	"level": 200,
 	"max": 19,
+	"max_fy": 0,
 	"name": "Top: Humans & Environment",
 	"notes": [
 		"Not open to first-year students."
@@ -23,13 +40,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "Mod 3",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "Mod 3",
 			"start": "12:45"
 		}
@@ -61,6 +78,40 @@
 				"HBS",
 				"WRI"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:01:47.963812+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Robert W. McClure",
+				"John Welckle"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "Mod 3",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "Mod 3",
+					"start": "12:45"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

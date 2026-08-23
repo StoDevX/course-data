@@ -4,16 +4,24 @@
 	"crsid": "0000002156",
 	"department": "PHIL",
 	"enrolled": 22,
+	"enrollment_fy": 6,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 7,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Rel Phil/C.S. Lewis",
 	"number": 127,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.708024+00:00",
@@ -28,6 +36,23 @@
 		{
 			"_updated": "2020-10-15T15:22:47.294066+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:45.646920+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

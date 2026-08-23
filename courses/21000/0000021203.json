@@ -4,36 +4,31 @@
 	"crsid": "0000000214",
 	"department": "CHEM",
 	"enrolled": 48,
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 0,
+	"enrollment_sr": 32,
 	"instructors": [
-		"Gail Carlson"
+		"Carlson, Gail"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "944",
+			"name": "Carlson, Gail"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Biochemistry",
 	"number": 379,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 280",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 280",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 280",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.973218+00:00",
@@ -48,6 +43,47 @@
 		{
 			"_updated": "2020-10-15T15:22:56.355553+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:49.775254+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gail Carlson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 280",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 280",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 280",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

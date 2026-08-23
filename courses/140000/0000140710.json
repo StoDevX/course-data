@@ -7,12 +7,22 @@
 		"This course surveys standard topics in the study of algorithms, with an emphasis on complexity analysis and implementation experience. Topics include asymptotic analysis, searching and sorting, divide and conquer, basic graph algorithms, greedy algorithms, dynamic programming, and NP-complete problems. Offered annually in spring semester. Counts toward computer science major and concentration in neuroscience."
 	],
 	"enrolled": 21,
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Olaf A. Hall-Holt"
+		"Hall-Holt, Olaf A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 300,
 	"max": 17,
+	"max_sr": 10,
 	"name": "Analysis of Algorithms",
 	"notes": [
 		"Prerequisite: CSCI 251 and a mathematics proof course. Open only to CS majors."
@@ -20,19 +30,7 @@
 	"number": 353,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 202",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 202",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 202",
 			"start": "10:45"
@@ -71,10 +69,47 @@
 			"prerequisites": "CSCI 251 and a mathematics proof course.",
 			"senior": "0/10",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.650230+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "5/10"
 		}
 	],
 	"semester": 3,
-	"senior": "5/10",
 	"status": "C",
 	"term": 20213,
 	"type": "Research",

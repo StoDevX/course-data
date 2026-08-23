@@ -4,38 +4,39 @@
 	"crsid": "0000001639",
 	"department": "DNCTE",
 	"enrolled": 21,
-	"firstyear": "0/0",
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"PHA"
 	],
-	"junior": "7/8",
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 0,
+	"max_jr": 8,
+	"max_so": 8,
+	"max_sr": 6,
 	"name": "The Body Movable",
 	"number": 101,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "10:00",
-			"location": "CAD STUDIO 3",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD STUDIO 3",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "CAD STUDIO 3",
+			"location": "CAD  STUDIO 3",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:16.990345+00:00",
@@ -79,11 +80,54 @@
 		{
 			"_updated": "2020-10-15T15:23:12.007749+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.635779+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"junior": "7/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD STUDIO 3",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD STUDIO 3",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD STUDIO 3",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/6",
+			"sophomore": "10/8",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "4/6",
-	"sophomore": "10/8",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

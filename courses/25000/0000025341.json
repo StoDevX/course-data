@@ -4,30 +4,35 @@
 	"crsid": "0000000262",
 	"department": "ECON",
 	"enrolled": 20,
-	"instructors": [
-		"Mark Pernecky"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pernecky, Mark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6199",
+			"name": "Pernecky, Mark"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Economic Justice",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 516",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 516",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.453351+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:02.059012+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.119906+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mark Pernecky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 516",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 516",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

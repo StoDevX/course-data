@@ -4,32 +4,46 @@
 	"crsid": "0000001293",
 	"department": "SOAN",
 	"enrolled": 31,
-	"firstyear": "13/6",
-	"instructors": [
-		"Phyllis G. Myers"
+	"enrollment_fy": 13,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors": [
+		"Myers, Phyllis G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5438",
+			"name": "Myers, Phyllis G."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 6,
+	"max_jr": 0,
+	"max_so": 8,
+	"max_sr": 0,
 	"name": "Soc Prob/Soc Change",
 	"number": 126,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "H 403",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "H 403",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.846741+00:00",
@@ -61,11 +75,48 @@
 		{
 			"_updated": "2020-10-15T15:23:10.734490+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.541649+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/6",
+			"gereqs": null,
+			"instructors": [
+				"Phyllis G. Myers"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 403",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "H 403",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/0",
+			"sophomore": "9/8",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "7/0",
-	"sophomore": "9/8",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

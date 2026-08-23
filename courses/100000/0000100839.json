@@ -1,17 +1,26 @@
 {
 	"clbid": "0000100839",
-	"credits": 0.0,
 	"crsid": "0000018804",
 	"department": "CH/BI",
 	"enrolled": 18,
-	"groupid": "0000018803",
+	"enrollment_fy": 17,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"William C. Solomon"
+		"Solomon, William C."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27187",
+			"name": "Solomon, William C."
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Integrate Chem/Bio II Lab",
 	"notes": [
 		"Open only to those students who have completed CH/BI 125."
@@ -19,32 +28,13 @@
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "RNS 350",
-			"start": "12:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 350",
-			"start": "12:30"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RNS 350",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
+			"day": "M-Th",
+			"end": "0300PM",
 			"location": "RNS 350",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-07T21:54:30.855029+00:00",
@@ -87,12 +77,60 @@
 		{
 			"_updated": "2020-10-15T15:23:56.846198+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:51.455749+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000018803",
+			"instructors": [
+				"William C. Solomon"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 350",
+					"start": "12:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 350",
+					"start": "12:30"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 350",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 350",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 2,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20152,
 	"type": "Lab",

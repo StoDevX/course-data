@@ -4,13 +4,26 @@
 	"crsid": "0000001729",
 	"department": "ENVST",
 	"enrolled": 19,
-	"instructors": [
-		"Gary Deason"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 7,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "7/5",
-	"learningmode": "S",
+	"instructors": [
+		"Deason, Gary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1355",
+			"name": "Deason, Gary"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_jr": 5,
+	"max_sr": 5,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
 	"offerings": [
@@ -22,13 +35,12 @@
 		},
 		{
 			"day": "Th",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "SC 110",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.187322+00:00",
@@ -55,11 +67,46 @@
 		{
 			"_updated": "2020-10-15T15:22:59.306459+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.366951+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary Deason"
+			],
+			"instructors_full": null,
+			"junior": "7/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 280 PLEN",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "SC 110",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/5",
+			"title": null
 		}
 	],
 	"section": "F",
 	"semester": 1,
-	"senior": "5/5",
 	"status": "C",
 	"term": 19981,
 	"type": "Research",

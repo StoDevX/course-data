@@ -1,34 +1,33 @@
 {
 	"clbid": "0000080445",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 6,
-	"groupid": "0000000194",
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Patrick N. Riley"
+		"Riley, Patrick N."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14194",
+			"name": "Riley, Patrick N."
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Chemical Reactions Lab",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
+			"day": "MW",
+			"end": "0400PM",
 			"location": "RNS 350",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "RNS 350",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:55.081339+00:00",
@@ -51,6 +50,43 @@
 		{
 			"_updated": "2021-03-02T16:51:18.719129+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:02:37.108597+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Patrick N. Riley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 350",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 350",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

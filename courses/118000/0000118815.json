@@ -4,16 +4,23 @@
 	"crsid": "0000001101",
 	"department": "PHYS",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Anne M. Gothmann"
+		"Gothmann, Anne M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29141",
+			"name": "Gothmann, Anne M."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Aragonite Alteration",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-04-24T02:57:05.345939+00:00",
@@ -54,6 +61,26 @@
 		{
 			"_updated": "2021-03-02T16:51:44.113176+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.958580+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anne M. Gothmann"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

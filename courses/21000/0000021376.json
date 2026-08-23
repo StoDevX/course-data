@@ -4,36 +4,32 @@
 	"crsid": "0000000504",
 	"department": "GERM",
 	"enrolled": 15,
+	"enrollment_fy": 8,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Norman M. Watt"
+		"Watt, Norman M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8896",
+			"name": "Watt, Norman M."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Beginning German I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "M 35",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "M 35",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "M 35",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.077085+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:56.428284+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.233516+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Norman M. Watt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "M 35",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "M 35",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "M 35",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

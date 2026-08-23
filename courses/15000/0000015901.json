@@ -1,14 +1,21 @@
 {
 	"clbid": "0000015901",
-	"credits": 0.0,
 	"crsid": "0000000309",
 	"department": "EDUC",
 	"enrolled": 82,
-	"halfcredit": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 26,
+	"enrollment_so": 11,
+	"enrollment_sr": 45,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 80,
 	"name": "Drugs & Alcohol",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "FH 01",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:16.917323+00:00",
@@ -37,6 +43,33 @@
 		{
 			"_updated": "2020-10-15T15:22:48.010438+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.779483+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "2",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "21:00",
+					"location": "FH 01",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

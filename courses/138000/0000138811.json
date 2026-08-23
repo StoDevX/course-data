@@ -1,14 +1,21 @@
 {
 	"clbid": "0000138811",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 11,
-	"groupid": "0000026714",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kim A. Kandl"
+		"Kandl, Kim A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Cell Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 398",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-04T17:14:54.067879+00:00",
@@ -47,6 +53,35 @@
 			"instructors": [
 				"Kimberly A. Kandl"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.597239+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026714",
+			"instructors": [
+				"Kim A. Kandl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 398",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

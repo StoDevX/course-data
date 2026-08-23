@@ -1,28 +1,35 @@
 {
 	"clbid": "0000056350",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000000126",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_so": 0,
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "SC 253",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:25.959398+00:00",
@@ -41,11 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:23:26.943053+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.273129+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000126",
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:55",
+					"location": "SC 253",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "3/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "3/0",
 	"status": "C",
 	"term": 20071,
 	"type": "Lab",

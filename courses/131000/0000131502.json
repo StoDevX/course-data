@@ -6,12 +6,23 @@
 	"description": [
 		"Students learn basic rock climbing skills, techniques, and safety procedures."
 	],
-	"enrolled": 6,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"PHA",
 		"SPM"
 	],
 	"instructors": [
-		"Judith Tegtmeyer"
+		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 100,
 	"max": 0,
@@ -19,15 +30,9 @@
 	"number": 106,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MW",
 			"end": "11:40",
-			"location": "Tostrud Ctr",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "Tostrud Ctr",
+			"location": "TBA",
 			"start": "10:45"
 		}
 	],
@@ -60,11 +65,45 @@
 		{
 			"_updated": "2020-06-30T14:15:35.589451+00:00",
 			"enrolled": 9
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.521243+00:00",
+			"enrolled": 6,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SPM"
+			],
+			"instructors": [
+				"Judith Tegtmeyer"
+			],
+			"instructors_full": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				}
+			],
+			"status": "C"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20201,
 	"type": "Research",
 	"year": 2020

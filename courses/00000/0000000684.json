@@ -4,30 +4,35 @@
 	"crsid": "0000001361",
 	"department": "SWRK",
 	"enrolled": 14,
-	"instructors": [
-		"Mary Carlsen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carlsen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Social Work Methods I",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 515",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 515",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.745495+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:05.103417+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:20.052618+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 515",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 515",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

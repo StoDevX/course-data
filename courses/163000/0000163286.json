@@ -1,41 +1,36 @@
 {
 	"clbid": "0000163286",
-	"credits": 0.0,
 	"crsid": "0000001065",
 	"department": "KINES",
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"groupid": "0000001064",
+	"enrollment_fy": 0,
+	"enrollment_jr": 17,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Jennifer M. Miller"
+		"Miller, Jenny M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28146",
+			"name": "Miller, Jenny M."
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Physiology/Exercise Lab",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SAC 112",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SAC 112",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SAC 112",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-04-13T04:07:59.888214+00:00",
@@ -77,10 +72,53 @@
 			"instructors": [
 				"Jennifer M. Holbein"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.173090+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001064",
+			"instructors": [
+				"Jennifer M. Miller"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SAC 112",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SAC 112",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SAC 112",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20251,
 	"type": "Lab",

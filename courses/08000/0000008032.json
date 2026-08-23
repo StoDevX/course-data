@@ -4,32 +4,42 @@
 	"crsid": "0000000651",
 	"department": "FAMST",
 	"enrolled": 34,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 3,
+	"enrollment_sr": 18,
 	"instructors": [
-		"C. George Holt"
+		"Holt, C. George"
 	],
-	"junior": "13/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3431",
+			"name": "Holt, C. George"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 0,
+	"max_sr": 10,
 	"name": "Human Sexuality",
 	"number": 253,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 501",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 501",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.520312+00:00",
@@ -61,12 +71,47 @@
 		{
 			"_updated": "2020-10-15T15:23:16.576183+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.739990+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"C. George Holt"
+			],
+			"instructors_full": null,
+			"junior": "13/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 501",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 501",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "18/10",
+			"sophomore": "3/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "18/10",
-	"sophomore": "3/0",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

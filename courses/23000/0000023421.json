@@ -4,37 +4,38 @@
 	"crsid": "0000000409",
 	"department": "ENGL",
 	"enrolled": 21,
-	"instructors": [
-		"Richard Buckstead"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-L"
 	],
-	"junior": "7/20",
-	"learningmode": "S",
+	"instructors": [
+		"Buckstead, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "821",
+			"name": "Buckstead, Richard"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_jr": 20,
+	"max_so": 23,
+	"max_sr": 12,
 	"name": "Amer Lit 1915-1945",
 	"number": 240,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 515",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 515",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 515",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.169862+00:00",
@@ -62,11 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:22:59.294991+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.359884+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Buckstead"
+			],
+			"instructors_full": null,
+			"junior": "7/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 515",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 515",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 515",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "12/12",
+			"sophomore": "0/23",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "12/12",
-	"sophomore": "0/23",
 	"status": "O",
 	"term": 19981,
 	"type": "Research",

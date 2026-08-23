@@ -4,36 +4,32 @@
 	"crsid": "0000001168",
 	"department": "PSYCH",
 	"enrolled": 38,
+	"enrollment_fy": 5,
+	"enrollment_jr": 6,
+	"enrollment_so": 20,
+	"enrollment_sr": 7,
 	"instructors": [
-		"J Wesley Brown"
+		"Brown, J Wesley"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "529",
+			"name": "Brown, J Wesley"
+		}
+	],
 	"level": 200,
 	"max": 50,
 	"name": "Developmental Psych",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "H 317",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "H 317",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "H 317",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.925698+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:49.706152+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:22.693300+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"J Wesley Brown"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "H 317",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "H 317",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "H 317",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

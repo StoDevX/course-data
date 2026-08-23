@@ -1,14 +1,21 @@
 {
 	"clbid": "0000056732",
-	"credits": 0.0,
 	"crsid": "0000001061",
 	"department": "ESTH",
 	"enrolled": 24,
-	"groupid": "0000001060",
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Gary Wicks"
+		"Wicks, Gary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9030",
+			"name": "Wicks, Gary"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Motor Learning Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "SAC 103",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:26.145873+00:00",
@@ -37,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:27.066436+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.664943+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001060",
+			"instructors": [
+				"Gary Wicks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "SAC 103",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

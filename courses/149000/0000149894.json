@@ -7,16 +7,26 @@
 		"This course is a philosophical inquiry into the core commitments of Christian theism in the context of other world religions and naturalism. Central themes include beliefs about the existence and nature of God, the doctrines of the trinity and incarnation, redemption and ritual, human free will and responsibility, revelation and reason, religious experience, the problem of evil, different views of life after death, miracles and historical inquiry, and religious pluralism. Offered annually."
 	],
 	"enrolled": 25,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 14,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"BTS-T",
 		"CTD"
 	],
 	"instructors": [
-		"Brian Söderquist"
+		"Söderquist, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34006",
+			"name": "Söderquist, Brian"
+		}
+	],
 	"level": 200,
 	"max": 26,
+	"max_fy": 0,
 	"name": "Philosophical Theology",
 	"notes": [
 		"Not open to incoming first-year students."
@@ -25,15 +35,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 433",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 433",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -73,6 +83,40 @@
 			"gereqs": [
 				"BTS-T",
 				"CTD"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:15.574632+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"CTD"
+			],
+			"instructors": [
+				"Brian Söderquist"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 433",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 433",
+					"start": "14:15"
+				}
 			]
 		}
 	],

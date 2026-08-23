@@ -7,14 +7,25 @@
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 	],
 	"enrolled": 9,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Kaisa Taipale"
+		"Taipale, Kaisa"
 	],
-	"junior": "2/9",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21937",
+			"name": "Taipale, Kaisa"
+		}
+	],
 	"level": 300,
 	"max": 24,
+	"max_fy": 0,
+	"max_jr": 9,
+	"max_so": 5,
+	"max_sr": 10,
 	"name": "Sem: Algebraic Geometry",
 	"notes": [
 		"Seniors must be pre-approved by MSCS chair for this course."
@@ -23,13 +34,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 186",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TOH 186",
 			"start": "12:45"
 		}
@@ -67,12 +78,44 @@
 		{
 			"_updated": "2020-10-15T15:23:43.286181+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:50.713720+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Kaisa Taipale"
+			],
+			"instructors_full": null,
+			"junior": "2/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 186",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TOH 186",
+					"start": "12:45"
+				}
+			],
+			"senior": "4/10",
+			"sophomore": "3/5"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "4/10",
-	"sophomore": "3/5",
 	"status": "O",
 	"term": 20113,
 	"title": "Topics in Mathematics",

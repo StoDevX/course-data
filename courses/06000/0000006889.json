@@ -4,10 +4,19 @@
 	"crsid": "0000000376",
 	"department": "DNCTH",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Janice Roberts"
+		"Roberts, Janice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3206",
+			"name": "Roberts, Janice"
+		}
+	],
 	"level": 300,
 	"max": 16,
 	"name": "Advanced Choreography",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD _STUDIO_3",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD _STUDIO_3",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.575290+00:00",
@@ -49,6 +57,40 @@
 		{
 			"_updated": "2020-10-15T15:23:14.886581+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.695982+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Janice Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD _STUDIO_3",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD _STUDIO_3",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

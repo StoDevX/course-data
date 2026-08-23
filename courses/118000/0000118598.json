@@ -1,14 +1,21 @@
 {
 	"clbid": "0000118598",
-	"credits": 0.0,
 	"crsid": "0000000188",
 	"department": "CHEM",
 	"enrolled": 20,
-	"groupid": "0000000187",
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Greg W. Muth"
+		"Muth, Greg W."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14961",
+			"name": "Muth, Greg W."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "General Chemistry Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-05-08T02:58:52.082634+00:00",
@@ -93,6 +99,35 @@
 			"instructors": [
 				"Gregory W. Muth"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.767534+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000187",
+			"instructors": [
+				"Greg W. Muth"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

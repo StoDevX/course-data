@@ -4,30 +4,36 @@
 	"crsid": "0000000230",
 	"department": "CLASS",
 	"enrolled": 26,
-	"instructors": [
-		"Steve T. Reece"
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 3,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-L",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Reece, Steve T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6626",
+			"name": "Reece, Steve T."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Golden Age Greece-Tr",
 	"number": 243,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 11",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 11",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.767603+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:08.965231+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.959623+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Steve T. Reece"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 11",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 11",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

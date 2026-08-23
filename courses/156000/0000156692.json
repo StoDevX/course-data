@@ -1,14 +1,21 @@
 {
 	"clbid": "0000156692",
-	"credits": 0.0,
 	"crsid": "0000000120",
 	"department": "BIO",
 	"enrolled": 17,
-	"groupid": "0000000119",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Will E. Matchett"
+		"Matchett, Will E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35072",
+			"name": "Matchett, Will E."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Microbiology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 398",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-14T02:19:20.892107+00:00",
@@ -123,6 +129,35 @@
 		{
 			"_updated": "2024-11-06T02:47:44.276380+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.433376+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000119",
+			"instructors": [
+				"Will E. Matchett"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 398",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

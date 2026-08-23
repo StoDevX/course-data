@@ -4,36 +4,35 @@
 	"crsid": "0000000732",
 	"department": "MATH",
 	"enrolled": 26,
-	"instructors": [
-		"Kay E. Smith"
+	"enrollment_fy": 22,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Smith, Kay E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Math Analysis I",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 188",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 188",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 188",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.127994+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:22:56.463446+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:55.120391+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 188",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 188",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 188",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

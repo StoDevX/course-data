@@ -4,17 +4,25 @@
 	"crsid": "0000000313",
 	"department": "EDUC",
 	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
-	"max": 999,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:32.023789+00:00",
@@ -34,11 +42,28 @@
 		{
 			"_updated": "2020-10-15T15:23:30.457578+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:46.957746+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "0/0"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20081,
 	"type": "Research",

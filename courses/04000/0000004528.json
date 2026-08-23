@@ -4,48 +4,36 @@
 	"crsid": "0000000428",
 	"department": "ENGL",
 	"enrolled": 21,
-	"instructors": [
-		"Karen E. Marsalek"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 15,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marsalek, Karen E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10015",
+			"name": "Marsalek, Karen E."
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Studies in Drama",
 	"number": 282,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "RML 515",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "RML 515",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "RML 515",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "RML 515",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "RML 515",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:57.595400+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:23:11.257421+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:37.201024+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen E. Marsalek"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "RML 515",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "RML 515",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "RML 515",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "RML 515",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "RML 515",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

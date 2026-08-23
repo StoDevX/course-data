@@ -4,14 +4,25 @@
 	"crsid": "0000000648",
 	"department": "FAMST",
 	"enrolled": 36,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 18,
+	"enrollment_sr": 3,
 	"instructors": [
-		"C. George Holt"
+		"Holt, C. George"
 	],
-	"junior": "15/20",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3431",
+			"name": "Holt, C. George"
+		}
+	],
 	"level": 200,
 	"max": 37,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 14,
+	"max_sr": 0,
 	"name": "Intro: Family Studies",
 	"number": 232,
 	"offerings": [
@@ -29,7 +40,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.847156+00:00",
@@ -59,11 +69,33 @@
 		{
 			"_updated": "2020-10-15T15:23:13.562554+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.481181+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"C. George Holt"
+			],
+			"instructors_full": null,
+			"junior": "15/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"sophomore": "18/14",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/0",
-	"sophomore": "18/14",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

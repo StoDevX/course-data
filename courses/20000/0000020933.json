@@ -4,30 +4,35 @@
 	"crsid": "0000001476",
 	"department": "WMNST",
 	"enrolled": 18,
-	"instructors": [
-		"Mary Titus"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Titus, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8415",
+			"name": "Titus, Mary"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Intro Women's Studies",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 31",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 31",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.962532+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:55.107500+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:43.320702+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Titus"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

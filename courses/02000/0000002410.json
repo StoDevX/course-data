@@ -4,30 +4,36 @@
 	"crsid": "0000001122",
 	"department": "PSCI",
 	"enrolled": 24,
-	"instructors": [
-		"Kris Thalhammer"
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 5,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thalhammer, Kris"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8281",
+			"name": "Thalhammer, Kris"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Politics & Developmnt",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 516",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 516",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.685385+00:00",
@@ -48,6 +54,41 @@
 			"instructors": [
 				"Kristina Thalhammer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.616808+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kris Thalhammer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 516",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 516",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

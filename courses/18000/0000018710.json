@@ -4,30 +4,37 @@
 	"crsid": "0000001377",
 	"department": "THEAT",
 	"enrolled": 20,
-	"instructors": [
-		"Kathleen Edelmayer"
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"ORC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Edelmayer, Kathleen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1558",
+			"name": "Edelmayer, Kathleen"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "TB 216",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "TB 216",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:22.099135+00:00",
@@ -59,6 +66,40 @@
 		{
 			"_updated": "2020-10-15T15:22:51.079666+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:24.449569+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kathleen Edelmayer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "TB 216",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "TB 216",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

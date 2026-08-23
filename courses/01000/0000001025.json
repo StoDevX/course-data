@@ -4,42 +4,42 @@
 	"crsid": "0000000100",
 	"department": "BIO",
 	"enrolled": 26,
-	"instructors": [
-		"Daniel Meinhardt"
+	"enrollment_fy": 8,
+	"enrollment_jr": 3,
+	"enrollment_so": 11,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Meinhardt, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10508",
+			"name": "Meinhardt, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Biological Science",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 280",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 280",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 280",
 			"start": "09:05"
 		},
 		{
 			"day": "Tu",
-			"end": "13:45",
+			"end": "0145PM",
 			"location": "SC 273",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.698890+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:06.117004+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.663510+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Meinhardt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "13:45",
+					"location": "SC 273",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

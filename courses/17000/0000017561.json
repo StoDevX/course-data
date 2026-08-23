@@ -4,30 +4,35 @@
 	"crsid": "0000000792",
 	"department": "THEAT",
 	"enrolled": 23,
-	"instructors": [
-		"Adrienne H. Daniels"
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 1,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Daniels, Adrienne H."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1373",
+			"name": "Daniels, Adrienne H."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Mass Media",
 	"number": 160,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "TB 227",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "TB 227",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:20.002515+00:00",
@@ -59,6 +64,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.757599+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:30.132568+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Adrienne H. Daniels"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "TB 227",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "TB 227",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

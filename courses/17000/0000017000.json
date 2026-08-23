@@ -4,31 +4,40 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 24,
-	"instructors": [
-		"Jonathan Hill",
-		"Abby Werlock"
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby",
+		"Hill, Jonathan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		},
+		{
+			"fsnum": "3341",
+			"name": "Hill, Jonathan"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "L 515",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "L 515",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.698130+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:49.555812+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:58.559048+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jonathan Hill",
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

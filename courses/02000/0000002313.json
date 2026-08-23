@@ -4,36 +4,35 @@
 	"crsid": "0000000926",
 	"department": "NORW",
 	"enrolled": 26,
-	"instructors": [
-		"Nancy Aarsvold"
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 15,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-N"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Aarsvold, Nancy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19",
+			"name": "Aarsvold, Nancy"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed Norwegian I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "M 15",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "M 15",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "M 15",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.618201+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:07.771924+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.589664+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Nancy Aarsvold"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "M 15",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "M 15",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "M 15",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

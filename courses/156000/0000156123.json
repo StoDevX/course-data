@@ -1,30 +1,35 @@
 {
 	"clbid": "0000156123",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000026714",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 9,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Laura Listenberger"
+		"Listenberger, Laura"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21061",
+			"name": "Listenberger, Laura"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Cell Biology Lab",
 	"number": 227,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 394",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-14T02:19:20.763475+00:00",
@@ -116,6 +121,37 @@
 		{
 			"_updated": "2024-09-17T07:00:23.341608+00:00",
 			"enrolled": 13
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.432451+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000026714",
+			"grouptype": "2",
+			"instructors": [
+				"Laura Listenberger"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 394",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

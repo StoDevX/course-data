@@ -1,39 +1,34 @@
 {
 	"clbid": "0000110215",
-	"credits": 0.0,
 	"crsid": "0000030475",
 	"department": "PSCI",
 	"enrolled": 12,
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Anthony Pahnke"
+		"Pahnke, Anthony"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25362",
+			"name": "Pahnke, Anthony"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "FLC - Spanish",
 	"number": 264,
 	"offerings": [
 		{
-			"day": "We",
-			"end": "13:00",
-			"location": "RNS 300",
-			"start": "12:00"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
-			"location": "RNS 300",
-			"start": "12:00"
-		},
-		{
-			"day": "Fr",
-			"end": "13:00",
+			"day": "WThF",
+			"end": "0100PM",
 			"location": "RNS 300",
 			"start": "12:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-12-09T22:34:02.720372+00:00",
@@ -58,6 +53,47 @@
 		{
 			"_updated": "2020-10-15T15:24:00.625751+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:08.490063+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anthony Pahnke"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "13:00",
+					"location": "RNS 300",
+					"start": "12:00"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "RNS 300",
+					"start": "12:00"
+				},
+				{
+					"day": "Fr",
+					"end": "13:00",
+					"location": "RNS 300",
+					"start": "12:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

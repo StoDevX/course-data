@@ -7,14 +7,28 @@
 		"This introductory course employs wheel throwing techniques in clay. Students are introduced to historical and contemporary approaches to clay. Course includes clay mixing, kiln loading, various firing procedures, and glaze and surface embellishment. Materials fee. Offered each semester."
 	],
 	"enrolled": 20,
-	"firstyear": "6/6",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 6,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/3",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 6,
+	"max_jr": 3,
+	"max_so": 6,
+	"max_sr": 0,
 	"name": "Found Ceramics: Wheel",
 	"notes": [
 		"This course has class year limits."
@@ -23,15 +37,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 115",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 115",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -74,11 +88,45 @@
 		{
 			"_updated": "2020-10-15T15:23:28.731718+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:34.653760+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/6",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "5/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 115",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 115",
+					"start": "14:15"
+				}
+			],
+			"section": null,
+			"senior": "6/0",
+			"sophomore": "3/6"
 		}
 	],
 	"semester": 3,
-	"senior": "6/0",
-	"sophomore": "3/6",
 	"status": "C",
 	"term": 20073,
 	"title": "Foundation Ceramics -- Wheel Throwing",

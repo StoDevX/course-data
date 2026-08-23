@@ -1,18 +1,27 @@
 {
 	"clbid": "0000049229",
-	"credits": 0.0,
 	"crsid": "0000000140",
 	"department": "BIO",
 	"enrolled": 14,
-	"firstyear": "1/0",
-	"groupid": "0000000139",
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Daniel L. Hernandez"
+		"Hernandez, Daniel L."
 	],
-	"junior": "7/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17524",
+			"name": "Hernandez, Daniel L."
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Ecological Principles Lab",
 	"number": 261,
 	"offerings": [
@@ -24,7 +33,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.578205+00:00",
@@ -46,12 +54,35 @@
 		{
 			"_updated": "2020-10-15T15:23:21.870455+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.942086+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"groupid": "0000000139",
+			"instructors": [
+				"Daniel L. Hernandez"
+			],
+			"instructors_full": null,
+			"junior": "7/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "3/0",
+			"sophomore": "3/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "3/0",
-	"sophomore": "3/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

@@ -1,16 +1,26 @@
 {
 	"clbid": "0000025316",
-	"credits": 0.0,
 	"crsid": "0000000238",
 	"department": "CHIN",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Richard Bodman"
+		"Bodman, Richard"
 	],
-	"junior": "0/9",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "656",
+			"name": "Bodman, Richard"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_jr": 9,
+	"max_so": 8,
+	"max_sr": 9,
 	"name": "Begin Chinese I/Lab",
 	"number": 111,
 	"offerings": [
@@ -22,7 +32,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.414848+00:00",
@@ -50,12 +59,33 @@
 		{
 			"_updated": "2020-10-15T15:23:02.047567+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.108661+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Bodman"
+			],
+			"instructors_full": null,
+			"junior": "0/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "0/9",
+			"sophomore": "0/8",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "0/9",
-	"sophomore": "0/8",
 	"status": "C",
 	"term": 19991,
 	"type": "Lab",

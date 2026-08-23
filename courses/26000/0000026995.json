@@ -4,48 +4,36 @@
 	"crsid": "0000000407",
 	"department": "ENGL",
 	"enrolled": 16,
-	"instructors": [
-		"Melanie Richards"
+	"enrollment_fy": 4,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-L",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Richards, Melanie"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10436",
+			"name": "Richards, Melanie"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "50's Beat Generation",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:00",
-			"location": "L 520",
-			"start": "12:30"
-		},
-		{
-			"day": "Tu",
-			"end": "14:00",
-			"location": "L 520",
-			"start": "12:30"
-		},
-		{
-			"day": "We",
-			"end": "14:00",
-			"location": "L 520",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "14:00",
-			"location": "L 520",
-			"start": "12:30"
-		},
-		{
-			"day": "Fr",
-			"end": "14:00",
+			"day": "M-F",
+			"end": "0200PM",
 			"location": "L 520",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:45.220019+00:00",
@@ -60,6 +48,60 @@
 		{
 			"_updated": "2020-10-15T15:23:04.225117+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:15.636679+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Melanie Richards"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:00",
+					"location": "L 520",
+					"start": "12:30"
+				},
+				{
+					"day": "Tu",
+					"end": "14:00",
+					"location": "L 520",
+					"start": "12:30"
+				},
+				{
+					"day": "We",
+					"end": "14:00",
+					"location": "L 520",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "14:00",
+					"location": "L 520",
+					"start": "12:30"
+				},
+				{
+					"day": "Fr",
+					"end": "14:00",
+					"location": "L 520",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

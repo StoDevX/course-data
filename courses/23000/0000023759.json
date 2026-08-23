@@ -4,30 +4,32 @@
 	"crsid": "0000001134",
 	"department": "PSCI",
 	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Charles E. Umbanhowar Sr"
+		"Umbanhowar Sr, Charles E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8656",
+			"name": "Umbanhowar Sr, Charles E."
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Amer Const: Law/Power",
 	"number": 372,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 184",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 184",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.386854+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:59.434794+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:04.626973+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 184",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 184",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

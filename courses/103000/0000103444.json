@@ -1,14 +1,21 @@
 {
 	"clbid": "0000103444",
-	"credits": 0.0,
 	"crsid": "0000000140",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000000139",
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Alyson Center"
+		"Center, Alyson"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26207",
+			"name": "Center, Alyson"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Ecological Principles Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 440",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-08-26T23:00:28.205265+00:00",
@@ -54,6 +60,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.575969+00:00",
 			"max": 22
+		},
+		{
+			"_updated": "2026-08-23T03:03:53.810248+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000139",
+			"instructors": [
+				"Alyson Center"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 440",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

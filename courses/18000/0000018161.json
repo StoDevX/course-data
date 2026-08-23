@@ -4,31 +4,37 @@
 	"crsid": "0000001729",
 	"department": "ENVST",
 	"enrolled": 22,
-	"instructors": [
-		"Donald A. Tarr"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 18,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "1/20",
-	"learningmode": "S",
+	"instructors": [
+		"Tarr, Donald A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8241",
+			"name": "Tarr, Donald A."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 20,
+	"max_sr": 4,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 130",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 130",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.800303+00:00",
@@ -55,11 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.882756+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:50.400856+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Donald A. Tarr"
+			],
+			"instructors_full": null,
+			"junior": "1/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 130",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 130",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/4",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "3/4",
 	"status": "C",
 	"term": 19953,
 	"type": "Research",

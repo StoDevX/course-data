@@ -4,48 +4,35 @@
 	"crsid": "0000002295",
 	"department": "PSYCH",
 	"enrolled": 26,
-	"instructors": [
-		"T. William Altermatt"
+	"enrollment_fy": 1,
+	"enrollment_jr": 8,
+	"enrollment_so": 12,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Altermatt, T. William"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13197",
+			"name": "Altermatt, T. William"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Altruism/Prosocial",
 	"number": 266,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "H 501",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.556442+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:23:05.506226+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.621770+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"T. William Altermatt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "H 501",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

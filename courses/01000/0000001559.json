@@ -4,36 +4,36 @@
 	"crsid": "0000001105",
 	"department": "PSCI",
 	"enrolled": 28,
-	"instructors": [
-		"Andrew Seligsohn"
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HWC",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Seligsohn, Andrew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10025",
+			"name": "Seligsohn, Andrew"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Political Thought",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "H 403",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 403",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 403",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.064158+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:06.344611+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:26.820848+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Andrew Seligsohn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 403",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 403",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 403",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

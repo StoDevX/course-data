@@ -4,16 +4,24 @@
 	"crsid": "0000000211",
 	"department": "CHEM",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Mary Walczak"
+		"Walczak, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8868",
+			"name": "Walczak, Mary"
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "Advanced Lab",
 	"number": 375,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.164026+00:00",
@@ -28,6 +36,26 @@
 		{
 			"_updated": "2020-10-15T15:23:16.453579+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.694772+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Walczak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,42 +4,38 @@
 	"crsid": "0000000126",
 	"department": "BIO",
 	"enrolled": 25,
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 4,
+	"enrollment_sr": 12,
 	"instructors": [
-		"Nathan Hellyer"
+		"Hellyer, Nathan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14177",
+			"name": "Hellyer, Nathan"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Human Anatomy & Physiol",
 	"number": 243,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 280",
 			"start": "08:00"
 		},
 		{
 			"day": "We",
-			"end": "08:55",
-			"location": "SC 280",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "08:55",
-			"location": "SC 280",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "SC 253",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.725876+00:00",
@@ -54,6 +50,51 @@
 		{
 			"_updated": "2020-10-15T15:23:08.937897+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.941806+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Nathan Hellyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "15:55",
+					"location": "SC 253",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -7,13 +7,23 @@
 		"This course is an analytical and computational study of Newtonian mechanics, including the harmonic oscillator, central force motion, non-linear oscillators, chaos, and an introduction to the Lagrangian formulation. Students use computers extensively. Offered annually in the fall semester. Prerequisites: PHYS 232 and MATH 230."
 	],
 	"enrolled": 8,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Amy Kolan"
+		"Kolan, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4480",
+			"name": "Kolan, Amy"
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Classical Mechanics",
 	"notes": [
 		"Open only to rising seniors and juniors."
@@ -21,19 +31,7 @@
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 297",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 297",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 297",
 			"start": "09:05"
@@ -76,11 +74,48 @@
 		{
 			"_updated": "2020-10-15T15:24:11.331375+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:28.236427+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Amy Kolan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 297",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 297",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 297",
+					"start": "09:05"
+				}
+			],
+			"sophomore": "0/0"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20191,
 	"type": "Research",

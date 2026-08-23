@@ -4,30 +4,34 @@
 	"crsid": "0000000524",
 	"department": "GERM",
 	"enrolled": 6,
-	"instructors": [
-		"Michael Wala"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wala, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13106",
+			"name": "Wala, Michael"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Sem: German Studies",
 	"number": 340,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 35",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 35",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.884393+00:00",
@@ -42,6 +46,42 @@
 		{
 			"_updated": "2020-10-15T15:23:06.233914+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:23.662488+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Wala"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 35",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 35",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

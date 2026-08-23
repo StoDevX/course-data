@@ -4,31 +4,36 @@
 	"crsid": "0000000858",
 	"department": "MUSIC",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Steven Amundson",
-		"Timothy Mahr"
+		"Amundson, Steven",
+		"Mahr, Timothy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "140",
+			"name": "Amundson, Steven"
+		},
+		{
+			"fsnum": "5013",
+			"name": "Mahr, Timothy"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Advanced Conducting",
 	"number": 354,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CHM 224",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CHM 224",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.168080+00:00",
@@ -43,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:56.491041+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:55.756263+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Steven Amundson",
+				"Timothy Mahr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CHM 224",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CHM 224",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

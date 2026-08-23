@@ -7,16 +7,29 @@
 		"This course teaches introductory programming with a focus on handling data. Emphases include programming concepts and structures, writing computer code to solve quantitative problems, and the use of programming to analyze data. The primary tool is the Python programming language. Students work individually and in teams to apply basic principles and explore real-world datasets with a sustainability theme. Offered annually. Also counts toward statistics and mathematical biology concentrations; one of CSCI 121, CSCI 125, or CSCI 251 counts toward linguistic studies concentration. Prerequisite: calculus or permission of the instructor."
 	],
 	"enrolled": 26,
+	"enrollment_fy": 10,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"T.J. Reinartz"
+		"Reinartz, T.J."
 	],
-	"junior": "6/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35075",
+			"name": "Reinartz, T.J."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 3,
+	"max_so": 6,
+	"max_sr": 3,
 	"name": "Comp Sci for Science/Math",
 	"notes": [
 		"This course has class-year limits."
@@ -24,19 +37,7 @@
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 208",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 208",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 208",
 			"start": "09:05"
@@ -183,11 +184,52 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.854496+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"T.J. Reinartz"
+			],
+			"instructors_full": null,
+			"junior": "6/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 208",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "4/3",
+			"sophomore": "6/6"
 		}
 	],
 	"semester": 3,
-	"senior": "4/3",
-	"sophomore": "6/6",
 	"status": "C",
 	"term": 20233,
 	"title": "Computer Science for Scientists and Mathematicians",

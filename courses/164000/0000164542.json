@@ -1,30 +1,37 @@
 {
 	"clbid": "0000164542",
-	"credits": 0.0,
 	"crsid": "0000029283",
 	"department": "NURS",
-	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000029265",
+	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Anna Graefe"
+		"Graefe, Anna"
 	],
-	"junior": "1/1",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9005102",
+			"name": "Graefe, Anna"
+		}
+	],
 	"level": 200,
-	"max": 12,
+	"max": 8,
+	"max_fy": 0,
+	"max_jr": 1,
+	"max_sr": 0,
 	"name": "Holistic Health Lab",
 	"number": 211,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 160D",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-08-02T02:54:16.960319+00:00",
@@ -80,11 +87,44 @@
 			"_updated": "2025-11-07T03:06:25.148361+00:00",
 			"enrolled": 11,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:56.803382+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 12,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000029265",
+			"instructors": [
+				"Anna Graefe"
+			],
+			"instructors_full": null,
+			"junior": "1/1",
+			"learningmode": "S",
+			"max": 12,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 160D",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "0/0",
 	"status": "C",
 	"term": 20253,
 	"type": "Lab",

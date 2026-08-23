@@ -4,38 +4,39 @@
 	"crsid": "0000000027",
 	"department": "ART",
 	"enrolled": 11,
-	"firstyear": "10/17",
-	"instructors": [
-		"Jil Evans"
+	"enrollment_fy": 10,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Evans, Jil"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14958",
+			"name": "Evans, Jil"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 17,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Honors Found Drawing",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 216",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 216",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 216",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.165148+00:00",
@@ -71,11 +72,54 @@
 		{
 			"_updated": "2020-10-15T15:23:10.417342+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.748264+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/17",
+			"gereqs": null,
+			"instructors": [
+				"Jil Evans"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

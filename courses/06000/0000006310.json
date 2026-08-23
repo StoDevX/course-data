@@ -4,10 +4,23 @@
 	"crsid": "0000001327",
 	"department": "SPAN",
 	"enrolled": 22,
-	"instructors": [
-		"Ariel Strichartz"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 17,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"FOL-S",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Strichartz, Ariel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14955",
+			"name": "Strichartz, Ariel"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermed Spanish II",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 020",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 020",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.092959+00:00",
@@ -42,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:13.723350+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.595209+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ariel Strichartz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 020",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 020",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

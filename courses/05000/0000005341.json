@@ -4,37 +4,37 @@
 	"crsid": "0000001158",
 	"department": "PSYCH",
 	"enrolled": 43,
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 22,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Pamela Bacon",
-		"Dana Gross"
+		"Gross, Dana",
+		"Bacon, Pamela"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2768",
+			"name": "Gross, Dana"
+		},
+		{
+			"fsnum": "14169",
+			"name": "Bacon, Pamela"
+		}
+	],
 	"level": 200,
 	"max": 40,
 	"name": "Research Methods",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "HH 307",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "HH 307",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "HH 307",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.253328+00:00",
@@ -49,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:12.191955+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.071862+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Pamela Bacon",
+				"Dana Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "HH 307",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "HH 307",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "HH 307",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

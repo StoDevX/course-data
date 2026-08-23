@@ -1,40 +1,34 @@
 {
 	"clbid": "0000103342",
-	"credits": 0.0,
 	"crsid": "0000029358",
 	"department": "ID",
 	"enrolled": 10,
-	"groupid": "0000029357",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Richard Brown"
+		"Brown, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "806",
+			"name": "Brown, Richard"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "HiPerCiC Collaborative Web Apps Lab",
 	"number": 259,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:40",
+			"day": "MWF",
+			"end": "0340PM",
 			"location": "RNS 202",
-			"start": "14:56"
-		},
-		{
-			"day": "We",
-			"end": "15:40",
-			"location": "RNS 202",
-			"start": "14:56"
-		},
-		{
-			"day": "Fr",
-			"end": "15:40",
-			"location": "RNS 202",
-			"start": "14:56"
+			"start": "02:56"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-05-08T23:00:23.868191+00:00",
@@ -53,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:56.312355+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:49.555565+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000029357",
+			"instructors": [
+				"Richard Brown"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:40",
+					"location": "RNS 202",
+					"start": "14:56"
+				},
+				{
+					"day": "We",
+					"end": "15:40",
+					"location": "RNS 202",
+					"start": "14:56"
+				},
+				{
+					"day": "Fr",
+					"end": "15:40",
+					"location": "RNS 202",
+					"start": "14:56"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

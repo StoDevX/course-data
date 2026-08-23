@@ -4,48 +4,37 @@
 	"crsid": "0000000949",
 	"department": "NURS",
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 17,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Diana Neal"
+		"Neal, Diana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5499",
+			"name": "Neal, Diana"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Application/Nurs Conc",
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "H 215",
 			"start": "08:00"
 		},
 		{
-			"day": "We",
-			"end": "08:55",
-			"location": "H 215",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "08:55",
-			"location": "H 215",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "13:00",
-			"location": "H 215",
-			"start": "07:30"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
+			"day": "TTh",
+			"end": "0100PM",
 			"location": "H 215",
 			"start": "07:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.313930+00:00",
@@ -60,6 +49,59 @@
 		{
 			"_updated": "2020-10-15T15:22:59.388660+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:57.153939+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Diana Neal"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "H 215",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "H 215",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "H 215",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "13:00",
+					"location": "H 215",
+					"start": "07:30"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "H 215",
+					"start": "07:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

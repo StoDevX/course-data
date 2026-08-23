@@ -7,13 +7,23 @@
 		"Selected topics in historical studies, depending on instructor. Offered periodically."
 	],
 	"enrolled": 16,
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Sara Halpern"
+		"Halpern, Sara"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33043",
+			"name": "Halpern, Sara"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Top: Sisters under the Swastika",
@@ -21,13 +31,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 433",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 433",
 			"start": "12:45"
 		}
@@ -73,6 +83,39 @@
 			"gereqs": [
 				"HWC",
 				"GHS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.540703+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Sara Halpern"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 433",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 433",
+					"start": "12:45"
+				}
 			]
 		}
 	],

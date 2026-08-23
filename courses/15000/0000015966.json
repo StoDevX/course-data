@@ -4,30 +4,36 @@
 	"crsid": "0000001696",
 	"department": "ENGL",
 	"enrolled": 27,
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 7,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 33,
 	"name": "Amer Lit 1865-1915",
 	"number": 242,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 525",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 525",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:16.994701+00:00",
@@ -42,6 +48,37 @@
 		{
 			"_updated": "2020-10-15T15:22:48.038048+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.791259+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 525",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 525",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

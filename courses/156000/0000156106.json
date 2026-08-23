@@ -1,29 +1,37 @@
 {
 	"clbid": "0000156106",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 26,
-	"groupid": "0000027943",
+	"enrollment_fy": 25,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Paula A. Mercurio"
+		"Mercurio, Paula A."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34033",
+			"name": "Mercurio, Paula A."
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_jr": 0,
+	"max_so": 2,
+	"max_sr": 0,
 	"name": "Introduction to Calculus Lab",
 	"number": 119,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 204",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-04-10T02:19:23.593547+00:00",
@@ -53,12 +61,42 @@
 		{
 			"_updated": "2024-09-17T07:00:23.333507+00:00",
 			"sophomore": "2/2"
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.569201+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"Paula A. Mercurio"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 204",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "1/2",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "1/2",
 	"status": "C",
 	"term": 20241,
 	"type": "Lab",

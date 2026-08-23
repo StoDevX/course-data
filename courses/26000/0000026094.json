@@ -4,50 +4,36 @@
 	"crsid": "0000002280",
 	"department": "PSYCH",
 	"enrolled": 27,
-	"firstyear": "4/12",
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Donna K. McMillan"
+		"McMillan, Donna K."
 	],
-	"junior": "6/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5220",
+			"name": "McMillan, Donna K."
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 12,
+	"max_jr": 6,
+	"max_so": 2,
+	"max_sr": 5,
 	"name": "Sleep and Dreaming",
 	"number": 224,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 307",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:14:29.390914+00:00",
@@ -88,11 +74,65 @@
 		{
 			"_updated": "2020-10-15T15:23:02.693686+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:00.085927+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/12",
+			"instructors": [
+				"Donna K. McMillan"
+			],
+			"instructors_full": null,
+			"junior": "6/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 307",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "11/5",
+			"sophomore": "6/2",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "11/5",
-	"sophomore": "6/2",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

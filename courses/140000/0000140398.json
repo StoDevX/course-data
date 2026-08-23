@@ -4,43 +4,42 @@
 	"crsid": "0000022795",
 	"department": "ASIAN",
 	"enrolled": 21,
+	"enrollment_fy": 2,
+	"enrollment_jr": 3,
+	"enrollment_so": 10,
+	"enrollment_sr": 6,
 	"gereqs": [
-		"GHS"
+		"ALS-L",
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Joanne Quimby"
+		"Quimby, Joanne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28070",
+			"name": "Quimby, Joanne"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Divers Ident Japanese Lit/Film",
 	"notes": [
-		"Full topic title: Diverse Identities in Japanese Literature and Film",
+		"Full topic title: Diverse Identities in Japanese Literature & Film              ",
 		"This course is open to first-year students."
 	],
 	"number": 201,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "TOH 316",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "TOH 316",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "TOH 316",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-02T16:51:57.090501+00:00",
@@ -130,6 +129,52 @@
 				"MCG",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.766402+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Joanne Quimby"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Full topic title: Diverse Identities in Japanese Literature and Film",
+				"This course is open to first-year students."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "TOH 316",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "TOH 316",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "TOH 316",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

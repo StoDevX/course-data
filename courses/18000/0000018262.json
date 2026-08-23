@@ -4,36 +4,31 @@
 	"crsid": "0000000712",
 	"department": "LATIN",
 	"enrolled": 18,
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Anne Groton"
+		"Groton, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2771",
+			"name": "Groton, Anne"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Beginning Latin II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "M 31",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "M 31",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "M 31",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.856882+00:00",
@@ -48,6 +43,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.923003+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:55.043485+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anne Groton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "M 31",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "M 31",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "M 31",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

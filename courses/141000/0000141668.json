@@ -4,19 +4,36 @@
 	"crsid": "0000020060",
 	"department": "REL",
 	"enrolled": 35,
+	"enrollment_fy": 30,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"BTS-T",
 		"CTD"
 	],
 	"instructors": [
-		"Benjamin E. Heidgerken"
+		"Heidgerken, Benjamin E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16245",
+			"name": "Heidgerken, Benjamin E."
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Tolkien and Theology",
 	"number": 238,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "10:00",
+			"location": "VRTL Online",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:39.366804+00:00",
@@ -24,6 +41,30 @@
 				"BTS-T",
 				"CTD"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:45.212292+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CTD"
+			],
+			"instructors": [
+				"Benjamin E. Heidgerken"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

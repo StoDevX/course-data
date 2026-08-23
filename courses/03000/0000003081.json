@@ -4,31 +4,37 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 25,
-	"instructors": [
-		"Louis Henry Kermott"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 13,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors": [
+		"Kermott, Louis Henry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_jr": 6,
+	"max_sr": 6,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 130",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 130",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.857595+00:00",
@@ -55,11 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:23:09.026142+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.299396+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 130",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 130",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "7/6",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "7/6",
 	"status": "C",
 	"term": 20013,
 	"type": "Research",

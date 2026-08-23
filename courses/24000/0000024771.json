@@ -4,30 +4,35 @@
 	"crsid": "0000001018",
 	"department": "PEAC",
 	"enrolled": 25,
-	"instructors": [
-		"Matt McDonald"
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"McDonald, Matt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5195",
+			"name": "McDonald, Matt"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Wt Training-Women",
 	"number": 142,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "MFH WT RM",
-			"start": "09:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:00",
 			"location": "MFH WT RM",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.853804+00:00",
@@ -48,6 +53,40 @@
 			"instructors": [
 				"Matthew C. McDonald"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:59:34.049316+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matt McDonald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "MFH WT RM",
+					"start": "09:05"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "MFH WT RM",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

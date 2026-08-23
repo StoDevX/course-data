@@ -1,14 +1,21 @@
 {
 	"clbid": "0000105658",
-	"credits": 0.0,
 	"crsid": "0000000663",
 	"department": "JAPAN",
 	"enrolled": 13,
-	"groupid": "0000000662",
+	"enrollment_fy": 6,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Hiroe Akimoto"
+		"Akimoto, Hiroe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21197",
+			"name": "Akimoto, Hiroe"
+		}
+	],
 	"level": 200,
 	"max": 14,
 	"name": "Intermed Japanese I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "TOH 153",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.346279+00:00",
@@ -53,6 +59,35 @@
 		{
 			"_updated": "2021-03-02T16:51:37.121775+00:00",
 			"max": 17
+		},
+		{
+			"_updated": "2026-08-23T03:04:05.607993+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000662",
+			"instructors": [
+				"Hiroe Akimoto"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "TOH 153",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

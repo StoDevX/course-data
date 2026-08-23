@@ -4,36 +4,32 @@
 	"crsid": "0000000921",
 	"department": "NORW",
 	"enrolled": 26,
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Solveig Zempel"
+		"Zempel, Solveig"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9184",
+			"name": "Zempel, Solveig"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Beginning Norwegian I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 1",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 1",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "M 1",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.304681+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:59.382591+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:57.150257+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Solveig Zempel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 1",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 1",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 1",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

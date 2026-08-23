@@ -4,48 +4,34 @@
 	"crsid": "0000001205",
 	"department": "REL",
 	"enrolled": 9,
-	"instructors": [
-		"James Hanson"
+	"enrollment_fy": 2,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"BTS-T"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hanson, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3061",
+			"name": "Hanson, James"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Jesus in Script/Trad",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "L 420",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "L 420",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "L 420",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "L 420",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "L 420",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:55.335796+00:00",
@@ -60,6 +46,60 @@
 		{
 			"_updated": "2020-10-15T15:23:09.838748+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:34.733676+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "L 420",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "L 420",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "L 420",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "L 420",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "L 420",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

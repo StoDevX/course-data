@@ -7,13 +7,23 @@
 		"Selected topics in historical studies, depending on instructor. Offered periodically."
 	],
 	"enrolled": 23,
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 13,
+	"enrollment_sr": 3,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Sara Halpern"
+		"Halpern, Sara"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33043",
+			"name": "Halpern, Sara"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Top: Race & Ethnicity in Europe",
@@ -23,32 +33,8 @@
 	"number": 188,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "MTWThF",
+			"end": "1240PM",
 			"location": "HH 433",
 			"start": "10:40"
 		}
@@ -199,6 +185,58 @@
 				"HWC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:22.305761+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Sara Halpern"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

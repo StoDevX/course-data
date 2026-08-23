@@ -4,31 +4,32 @@
 	"crsid": "0000002223",
 	"department": "PETH",
 	"enrolled": 11,
-	"halfcredit": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Patrice Buresh"
+		"Buresh, Patrice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "865",
+			"name": "Buresh, Patrice"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Sport in Amer Society",
 	"number": 384,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SAC 140",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SAC 140",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.225132+00:00",
@@ -43,6 +44,41 @@
 		{
 			"_updated": "2020-10-15T15:22:56.531724+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:06.643247+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Patrice Buresh"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SAC 140",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SAC 140",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

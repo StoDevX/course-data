@@ -4,30 +4,35 @@
 	"crsid": "0000001002",
 	"department": "PEAC",
 	"enrolled": 20,
-	"instructors": [
-		"Patrice Buresh"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 7,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Buresh, Patrice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "865",
+			"name": "Buresh, Patrice"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Volleyball",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC CTR GYM",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SAC CTR GYM",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.048648+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:02.196498+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.295420+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Patrice Buresh"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC CTR GYM",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC CTR GYM",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,10 +4,23 @@
 	"crsid": "0000000349",
 	"department": "DNCTE",
 	"enrolled": 22,
-	"instructors": [
-		"Anne von Bibra"
+	"enrollment_fy": 4,
+	"enrollment_jr": 7,
+	"enrollment_so": 4,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"von Bibra, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Int'l Dance I",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:55",
-			"location": "CAD STUDIO 1",
-			"start": "14:00"
+			"end": "0255PM",
+			"location": "CAD  STUDIO 1",
+			"start": "02:00"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
-			"location": "CAD STUDIO 1",
-			"start": "14:40"
+			"end": "0335PM",
+			"location": "CAD  STUDIO 1",
+			"start": "02:40"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:10.737838+00:00",
@@ -56,6 +68,41 @@
 		{
 			"_updated": "2020-10-15T15:23:10.499299+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.785427+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "CAD STUDIO 1",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD STUDIO 1",
+					"start": "14:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

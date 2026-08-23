@@ -1,14 +1,21 @@
 {
 	"clbid": "0000157986",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 18,
-	"groupid": "0000000126",
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Takashi Maie"
+		"Maie, Takashi"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35028",
+			"name": "Maie, Takashi"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Human Anatomy & Physiology II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 254",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-10-24T02:51:40.466314+00:00",
@@ -70,6 +76,35 @@
 		{
 			"_updated": "2025-02-12T02:47:56.637056+00:00",
 			"enrolled": 19
+		},
+		{
+			"_updated": "2026-08-23T03:05:23.890250+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000126",
+			"instructors": [
+				"Takashi Maie"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 254",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

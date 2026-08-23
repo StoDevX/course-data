@@ -1,29 +1,35 @@
 {
 	"clbid": "0000149143",
-	"credits": 0.0,
 	"crsid": "0000000129",
 	"department": "BIO",
 	"enrolled": 17,
-	"firstyear": "0/0",
-	"groupid": "0000000128",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Takashi Maie"
+		"Maie, Takashi"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35028",
+			"name": "Maie, Takashi"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Animal Physiology Lab",
 	"number": 247,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 250",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-07-16T03:11:46.612593+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2023-09-21T02:18:54.726713+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.887681+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000128",
+			"instructors": [
+				"Takashi Maie"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 250",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

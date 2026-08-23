@@ -4,30 +4,35 @@
 	"crsid": "0000001801",
 	"department": "HIST",
 	"enrolled": 11,
-	"instructors": [
-		"James Farrell"
+	"enrollment_fy": 7,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Farrell, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2030",
+			"name": "Farrell, James"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Amer Culture/Nature",
 	"number": 137,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 515",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 515",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.831101+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.905111+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:52.875191+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Farrell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 515",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 515",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

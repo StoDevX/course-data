@@ -7,16 +7,25 @@
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one three-hour laboratory per week. Prerequisites: Biology 125 and one semester of chemistry or concurrent registration, or Chemistry/Biology 125-127. Offered both semesters."
 	],
 	"enrolled": 43,
-	"firstyear": "1/0",
-	"groupid": "0000000122",
-	"grouptype": "1",
+	"enrollment_fy": 1,
+	"enrollment_jr": 19,
+	"enrollment_so": 13,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Steven Freedberg"
+		"Freedberg, Steven"
 	],
-	"junior": "19/15",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 200,
 	"max": 44,
+	"max_fy": 0,
+	"max_jr": 15,
+	"max_so": 13,
+	"max_sr": 7,
 	"name": "Intermediate Genetics",
 	"notes": [
 		"Students in Bio 233 must also register for one lab Bio 233 AL or BL."
@@ -24,20 +33,8 @@
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 278",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 278",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 278",
 			"start": "11:50"
 		}
@@ -75,12 +72,52 @@
 		{
 			"_updated": "2020-10-15T15:23:26.979470+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.270717+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"groupid": "0000000122",
+			"grouptype": "1",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"junior": "19/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 278",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 278",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 278",
+					"start": "11:50"
+				}
+			],
+			"senior": "10/7",
+			"sophomore": "13/13"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "10/7",
-	"sophomore": "13/13",
 	"status": "C",
 	"term": 20071,
 	"type": "Research",

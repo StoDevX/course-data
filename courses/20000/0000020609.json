@@ -4,31 +4,32 @@
 	"crsid": "0000002211",
 	"department": "PETH",
 	"enrolled": 29,
-	"halfcredit": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 13,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Daniel Hagen"
+		"Hagen, Daniel"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2890",
+			"name": "Hagen, Daniel"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intro Athletic Train",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SAC 140",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SAC 140",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.815097+00:00",
@@ -43,6 +44,41 @@
 		{
 			"_updated": "2020-10-15T15:22:55.006825+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:33.016661+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "2",
+			"instructors": [
+				"Daniel Hagen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SAC 140",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SAC 140",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

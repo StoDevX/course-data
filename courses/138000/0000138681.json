@@ -7,13 +7,22 @@
 		"This course introduces students to the subject of machine learning. The primary focus is the development and application of powerful machine learning algorithms applied to complex, real-world data. Topics covered include linear regression, nearest neighbor models, k-means clustering, shrinkage methods, decision trees and forests, boosting, bagging, support vector machines, and hierarchical clustering. Applications are taken from a wide variety of disciplines, including biology, economics, public policy, public health, and sports. Familiarity with a programming language such as R or Python is highly recommended. Offered on a regular basis. Counts toward computer science and mathematics majors and statistics and data science concentration. Prerequisite: MATH 220, CSCI 251, or STAT 272 or permission of the instructor."
 	],
 	"enrolled": 24,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 2,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Jaime I. Davila"
+		"Davila, Jaime I."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32115",
+			"name": "Davila, Jaime I."
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_fy": 0,
 	"name": "Algorithms for Decision Making",
 	"notes": [
 		"Not open to first-year students."
@@ -22,13 +31,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 182",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TOH 182",
 			"start": "12:45"
 		}
@@ -72,6 +81,37 @@
 					"day": "Th",
 					"end": "14:05",
 					"location": "RNS 160R",
+					"start": "12:45"
+				}
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:47.388166+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jaime I. Davila"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 182",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TOH 182",
 					"start": "12:45"
 				}
 			]

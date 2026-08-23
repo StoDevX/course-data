@@ -4,48 +4,35 @@
 	"crsid": "0000001156",
 	"department": "PSYCH",
 	"enrolled": 23,
-	"instructors": [
-		"Marit Westergaard"
+	"enrollment_fy": 3,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Westergaard, Marit"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13030",
+			"name": "Westergaard, Marit"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Issues 1st & 2nd Lang",
 	"number": 222,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.554362+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:23:05.504776+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.620673+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Marit Westergaard"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

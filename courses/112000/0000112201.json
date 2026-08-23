@@ -1,14 +1,21 @@
 {
 	"clbid": "0000112201",
-	"credits": 0.0,
 	"crsid": "0000026713",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000026712",
+	"enrollment_fy": 14,
+	"enrollment_jr": 0,
+	"enrollment_so": 9,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Sarah Amugongo"
+		"Amugongo, Sarah"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27158",
+			"name": "Amugongo, Sarah"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Cells and Tissues Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 398",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-04-20T23:41:50.162865+00:00",
@@ -53,6 +59,35 @@
 		{
 			"_updated": "2023-06-04T03:07:55.254352+00:00",
 			"enrolled": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.468690+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026712",
+			"instructors": [
+				"Sarah Amugongo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 398",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

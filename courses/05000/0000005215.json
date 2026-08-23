@@ -4,36 +4,32 @@
 	"crsid": "0000000922",
 	"department": "NORW",
 	"enrolled": 21,
+	"enrollment_fy": 14,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Kari L. Dorer"
+		"Dorer, Kari L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14082",
+			"name": "Dorer, Kari L."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Begin Norwegian II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "OM 011",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "OM 011",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "OM 011",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.061468+00:00",
@@ -66,6 +62,45 @@
 			"instructors": [
 				"Kari Lie Dorer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.038274+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kari L. Dorer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "OM 011",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "OM 011",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "OM 011",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,36 +4,36 @@
 	"crsid": "0000002051",
 	"department": "PARA",
 	"enrolled": 8,
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 6,
 	"name": "Gender in the 90's",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 322",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 322",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 322",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.867933+00:00",
@@ -48,6 +48,44 @@
 		{
 			"_updated": "2020-10-15T15:22:46.745559+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.337499+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 322",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 322",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 322",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

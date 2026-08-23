@@ -4,50 +4,39 @@
 	"crsid": "0000000939",
 	"department": "NURS",
 	"enrolled": 46,
-	"firstyear": "18/2",
-	"instructors": [
-		"Mary Beth Kuehn"
+	"enrollment_fy": 18,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "7/2",
-	"learningmode": "S",
+	"instructors": [
+		"Kuehn, Mary Beth"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4577",
+			"name": "Kuehn, Mary Beth"
+		}
+	],
 	"level": 100,
 	"max": 40,
+	"max_fy": 2,
+	"max_jr": 2,
+	"max_so": 0,
+	"max_sr": 2,
 	"name": "Nutrition & Wellness",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 403",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:52.550394+00:00",
@@ -85,12 +74,66 @@
 			"instructors": [
 				"Mary Kuehn"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:31.228978+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "18/2",
+			"gereqs": null,
+			"instructors": [
+				"Mary Beth Kuehn"
+			],
+			"instructors_full": null,
+			"junior": "7/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 403",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"senior": "15/2",
+			"sophomore": "6/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 2,
-	"senior": "15/2",
-	"sophomore": "6/0",
 	"status": "C",
 	"term": 20012,
 	"type": "Research",

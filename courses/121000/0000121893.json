@@ -1,26 +1,41 @@
 {
-	"clbid": 121893,
+	"clbid": "0000121893",
 	"credits": 1.0,
-	"crsid": 1103,
-	"departments": [
-		"PSCI"
-	],
+	"crsid": "0000001103",
+	"department": "PSCI",
 	"description": [
 		"The promise of American politics is the equal freedom of all. How does practice match principles? What roles do class and race play? Do interest groups and political parties foster democracy? This course is designed not only to help students understand American government and politics but also to motivate them to be active and informed participants. Offered annually. Counts toward American studies major."
 	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"HBS",
-		"MCD"
+		"MCD",
+		"MCS-D"
 	],
 	"instructors": [
-		"Timothy P. Collins"
+		"Collins, Timothy P."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "26241",
+			"name": "Collins, Timothy P."
+		}
 	],
 	"level": 100,
-	"locations": [
-		"HH 429"
-	],
 	"name": "American Politics",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "11:30",
+			"location": "HH 429",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -35,14 +50,47 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.958979+00:00",
+			"clbid": 121893,
+			"crsid": 1103,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"HBS",
+				"MCD"
+			],
+			"instructors": [
+				"Timothy P. Collins"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 429"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"status": "O",
+			"times": [
+				"M-F 1000-1130"
+			]
 		}
 	],
 	"semester": 4,
-	"status": "O",
+	"status": "X",
 	"term": 20174,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2017
 }

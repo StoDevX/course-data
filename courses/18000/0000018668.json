@@ -4,36 +4,36 @@
 	"crsid": "0000001306",
 	"department": "SOAN",
 	"enrolled": 34,
-	"instructors": [
-		"Bruce Nordstrom-Loeb"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 14,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nordstrom-Loeb, Bruce"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5728",
+			"name": "Nordstrom-Loeb, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Race/Class/Amer Cult",
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "H 403",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "H 403",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "H 403",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:22.079112+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:51.066514+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:20.730224+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bruce Nordstrom-Loeb"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 403",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "H 403",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "H 403",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,38 +4,39 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 19,
-	"firstyear": "5/10",
-	"instructors": [
-		"John Saurer"
+	"enrollment_fy": 5,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/3",
-	"learningmode": "S",
+	"instructors": [
+		"Saurer, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 10,
+	"max_jr": 3,
+	"max_so": 8,
+	"max_sr": 2,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 216",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 216",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CAD 216",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.723655+00:00",
@@ -70,12 +71,54 @@
 		{
 			"_updated": "2020-10-15T15:23:16.390531+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.658235+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/10",
+			"gereqs": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "5/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 216",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 216",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 216",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/2",
+			"sophomore": "5/8",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "4/2",
-	"sophomore": "5/8",
 	"status": "O",
 	"term": 20041,
 	"type": "Research",

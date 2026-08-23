@@ -4,38 +4,39 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 20,
-	"firstyear": "6/6",
-	"instructors": [
-		"Jil Evans"
+	"enrollment_fy": 6,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "4/3",
-	"learningmode": "S",
+	"instructors": [
+		"Evans, Jil"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14958",
+			"name": "Evans, Jil"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 6,
+	"max_jr": 3,
+	"max_so": 2,
+	"max_sr": 2,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CAD 216",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CAD 216",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CAD 216",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.149893+00:00",
@@ -70,11 +71,54 @@
 		{
 			"_updated": "2020-10-15T15:23:10.412351+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.745559+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/6",
+			"gereqs": null,
+			"instructors": [
+				"Jil Evans"
+			],
+			"instructors_full": null,
+			"junior": "4/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 216",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 216",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 216",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/2",
+			"sophomore": "8/2",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "8/2",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

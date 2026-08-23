@@ -1,31 +1,38 @@
 {
 	"clbid": "0000049223",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"groupid": "0000000122",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 16,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Sara E. Fruehling"
+		"Fruehling, Sara E."
 	],
-	"junior": "3/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17588",
+			"name": "Fruehling, Sara E."
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 211",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.574556+00:00",
@@ -47,12 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:21.868229+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.939858+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000122",
+			"grouptype": "2",
+			"instructors": [
+				"Sara E. Fruehling"
+			],
+			"instructors_full": null,
+			"junior": "3/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 211",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/0",
+			"sophomore": "16/0",
+			"title": null
 		}
 	],
 	"section": "D",
 	"semester": 3,
-	"senior": "3/0",
-	"sophomore": "16/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

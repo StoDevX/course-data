@@ -4,31 +4,33 @@
 	"crsid": "0000000327",
 	"department": "EDUC",
 	"enrolled": 7,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Martha Wallace"
+		"Wallace, Martha"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8879",
+			"name": "Wallace, Martha"
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Tchg of Mathematics",
 	"number": 350,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "SC 188",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "SC 188",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.628597+00:00",
@@ -48,10 +50,46 @@
 		{
 			"_updated": "2020-10-15T15:23:00.577914+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.083185+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Martha Wallace"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "SC 188",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "SC 188",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 19983,
 	"type": "Research",

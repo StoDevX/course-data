@@ -1,14 +1,21 @@
 {
 	"clbid": "0000164344",
-	"credits": 0.0,
 	"crsid": "0000022826",
 	"department": "NEURO",
-	"enrolled": 10,
-	"groupid": "0000022782",
+	"enrolled": 11,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jay Demas"
+		"Demas, Jay"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21211",
+			"name": "Demas, Jay"
+		}
+	],
 	"level": 200,
 	"max": 11,
 	"name": "Cell/Molec Neuro Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 240",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-03-02T02:56:42.032511+00:00",
@@ -57,11 +63,42 @@
 			"_updated": "2025-12-14T03:22:47.780240+00:00",
 			"enrolled": 11,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:56.176207+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 10,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000022782",
+			"instructors": [
+				"Jay Demas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:00",
+					"location": "RNS 240",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"status": "O",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"status": "O",
+	"status": "C",
 	"term": 20253,
 	"type": "Lab",
 	"year": 2025

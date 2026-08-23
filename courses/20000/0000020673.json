@@ -4,30 +4,36 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 48,
-	"instructors": [
-		"Konrad Talbot"
+	"enrollment_fy": 26,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Talbot, Konrad"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8227",
+			"name": "Talbot, Konrad"
+		}
+	],
 	"level": 100,
 	"max": 40,
 	"name": "Principles of Psych",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CH 102",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CH 102",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.852765+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:55.031333+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:37.070071+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Konrad Talbot"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CH 102",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CH 102",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -1,15 +1,14 @@
 {
 	"clbid": "0000130904",
-	"credits": 0.0,
 	"crsid": "0000000188",
 	"department": "CHEM",
-	"enrolled": 14,
-	"groupid": "0000000187",
-	"instructors": [
-		"Jeffrey J. Schwinefus"
-	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"level": 100,
-	"max": 20,
+	"max": 0,
 	"name": "General Chemistry Lab",
 	"notes": [
 		"This course has been cancelled."
@@ -18,13 +17,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-08T08:20:23.432469+00:00",
@@ -88,11 +86,41 @@
 			"_updated": "2020-07-21T14:28:47.794122+00:00",
 			"notes": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.439214+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 14,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000187",
+			"instructors": [
+				"Jeffrey J. Schwinefus"
+			],
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"status": "C",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20201,
 	"type": "Lab",
 	"year": 2020

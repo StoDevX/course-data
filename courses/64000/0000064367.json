@@ -1,29 +1,35 @@
 {
 	"clbid": "0000064367",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 18,
-	"firstyear": "2/1",
-	"groupid": "0000000126",
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Kevin M. Crisp"
+		"Crisp, Kevin M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 1,
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 254",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:39.514898+00:00",
@@ -55,6 +61,36 @@
 		{
 			"_updated": "2021-03-02T16:51:11.273301+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.621517+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/1",
+			"groupid": "0000000126",
+			"instructors": [
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:00",
+					"location": "RNS 254",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

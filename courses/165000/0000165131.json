@@ -6,35 +6,33 @@
 	"description": [
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and structured collaborative software-development methodology. Concepts and skills are applied in a substantial multi-week team project. Topics include object-oriented programming, specification, programmed memory management, indirect addressing, tools including team software process, software design strategies, and elementary ethical analysis of software systems. Offered each semester. Prerequisite: CSCI 221 or permission of instructor."
 	],
-	"enrolled": 9,
+	"enrolled": 11,
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Olaf A. Hall-Holt"
+		"Hall-Holt, Olaf A."
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 4,
+	"max_sr": 0,
 	"name": "Software Design",
 	"notes": [
-		"Prerequisite: CSCI 221.",
+		"Prerequisite:  CSCI 221.                                                        ",
 		"This course is not open to seniors and is open to a limited number of juniors."
 	],
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 203",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 203",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 203",
 			"start": "09:05"
@@ -157,10 +155,53 @@
 		{
 			"_updated": "2025-12-03T03:12:42.504637+00:00",
 			"enrolled": 10
+		},
+		{
+			"_updated": "2026-08-23T03:05:40.201180+00:00",
+			"enrolled": 9,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: CSCI 221.",
+				"This course is not open to seniors and is open to a limited number of juniors."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "0/0"
 		}
 	],
 	"semester": 3,
-	"senior": "0/0",
 	"status": "O",
 	"term": 20253,
 	"title": "Software Design and Implementation",

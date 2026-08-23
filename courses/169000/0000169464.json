@@ -6,17 +6,26 @@
 	"description": [
 		"This course is for students who have successfully completed CHIN 112 or students who have had at least one year of Chinese learning experience. It aims to enhance students' proficiency in all four language skills (speaking, listening, reading, and writing) as well as knowledge of various Chinese communities and cross-cultural communications. Students should achieve the Intermediate Low/Medium level on the ACTFL proficiency scale. Students attend three classes and one laboratory weekly. Offered annually in the fall semester. Prerequisite: CHIN 112 or placement."
 	],
-	"enrolled": 0,
+	"enrolled": 20,
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 14,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"FOL-C",
 		"WLC"
 	],
-	"groupid": "0000000241",
 	"instructors": [
-		"Hui Bi"
+		"Bi, Hui"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25359",
+			"name": "Bi, Hui"
+		}
+	],
 	"level": 200,
-	"max": 21,
+	"max": 18,
 	"name": "Intermed Chinese I",
 	"notes": [
 		"Students in Chinese 231B must also register for Chinese 231 lab."
@@ -24,29 +33,62 @@
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "13:50",
-			"location": "TOH 316",
-			"start": "12:55"
-		},
-		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 316",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "TOH 316",
+			"day": "MWF",
+			"end": "0150PM",
+			"location": "TOH 310",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
 	"prerequisites": "CHIN 112 or placement.",
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:06:47.882783+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"WLC"
+			],
+			"groupid": "0000000241",
+			"instructors": [
+				"Hui Bi"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 21,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 316",
+					"start": "12:55"
+				},
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 316",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "TOH 316",
+					"start": "12:55"
+				}
+			],
+			"status": "O"
+		}
+	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"title": "Intermediate Chinese I",
 	"type": "Research",

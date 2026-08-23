@@ -1,30 +1,41 @@
 {
 	"clbid": "0000057741",
-	"credits": 0.0,
 	"crsid": "0000016384",
 	"department": "BIO",
 	"enrolled": 7,
-	"firstyear": "0/0",
-	"groupid": "0000000158",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Mara E. Robu",
-		"Anne Walter"
+		"Walter, Anne",
+		"Robu, Mara E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		},
+		{
+			"fsnum": "19480",
+			"name": "Robu, Mara E."
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Cell Physiology Lab",
 	"number": 341,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "SC 211",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:28.884433+00:00",
@@ -44,11 +55,42 @@
 		{
 			"_updated": "2020-10-15T15:23:28.672881+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:34.680746+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000158",
+			"instructors": [
+				"Mara E. Robu",
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:15",
+					"location": "SC 211",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20073,
 	"type": "Lab",

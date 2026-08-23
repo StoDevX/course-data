@@ -7,31 +7,34 @@
 		"This course considers a variety of topics in earth and environmental science. Beginning with the origin of the earth and planetary system, the course examines crustal evolution and plate tectonics, geologic resources and hazards, and the relationship of these surface phenomena to processes occurring in the earth's interior. It concludes with a study of the oceans, the atmosphere, the earth's climate system, and environmental change. Offered annually. Counts toward environmental studies major (all emphases) and concentration. Prerequisite: proficiency in algebra and geometry."
 	],
 	"enrolled": 27,
-	"firstyear": "3/3",
-	"instructors": [
-		"Ben Kopec"
+	"enrollment_fy": 3,
+	"enrollment_jr": 10,
+	"enrollment_so": 7,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"IST",
+		"NSC"
 	],
-	"junior": "10/9",
-	"learningmode": "S",
+	"instructors": [
+		"Kopec, Ben"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "29090",
+			"name": "Kopec, Ben"
+		}
+	],
 	"level": 100,
 	"max": 28,
+	"max_fy": 3,
+	"max_jr": 9,
+	"max_so": 6,
+	"max_sr": 9,
 	"name": "Geophysics",
 	"number": 123,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "RNS 208",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "RNS 208",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "RNS 208",
 			"start": "08:00"
@@ -101,11 +104,51 @@
 			"gereqs": [
 				"IST"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.550140+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/3",
+			"gereqs": null,
+			"instructors": [
+				"Ben Kopec"
+			],
+			"instructors_full": null,
+			"junior": "10/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "RNS 208",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "RNS 208",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "RNS 208",
+					"start": "08:00"
+				}
+			],
+			"section": null,
+			"senior": "7/9",
+			"sophomore": "7/6"
 		}
 	],
 	"semester": 1,
-	"senior": "7/9",
-	"sophomore": "7/6",
 	"status": "C",
 	"term": 20171,
 	"title": "Geophysics: Perspectives on the Dynamic Earth",

@@ -4,30 +4,36 @@
 	"crsid": "0000000576",
 	"department": "HIST",
 	"enrolled": 32,
-	"instructors": [
-		"Aaron Michaelson"
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 9,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Michaelson, Aaron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13999",
+			"name": "Michaelson, Aaron"
+		}
+	],
 	"level": 100,
 	"max": 35,
 	"name": "Global,1500-Present",
 	"number": 196,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 31",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 31",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.901983+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.055746+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.317452+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Aaron Michaelson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 31",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000099559",
-	"credits": 0.0,
 	"crsid": "0000000238",
 	"department": "CHIN",
 	"enrolled": 13,
-	"groupid": "0000000237",
+	"enrollment_fy": 10,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Ying Zhou"
+		"Zhou, Ying"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26220",
+			"name": "Zhou, Ying"
+		}
+	],
 	"level": 100,
 	"max": 17,
 	"name": "Beginning Chinese I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 175",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-09-23T04:33:09.705608+00:00",
@@ -41,6 +47,35 @@
 		{
 			"_updated": "2020-10-15T15:23:55.921173+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:48.539282+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000237",
+			"instructors": [
+				"Ying Zhou"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 175",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

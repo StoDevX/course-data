@@ -4,42 +4,35 @@
 	"crsid": "0000000353",
 	"department": "DNCTE",
 	"enrolled": 4,
-	"instructors": [
-		"Jennifer Bader"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bader, Jennifer"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "311",
+			"name": "Bader, Jennifer"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Ballet I",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:00",
-			"location": "CAD _STUDIO_2",
-			"start": "12:30"
-		},
-		{
-			"day": "Tu",
-			"end": "14:00",
-			"location": "CAD _STUDIO_2",
-			"start": "12:30"
-		},
-		{
-			"day": "We",
-			"end": "14:00",
-			"location": "CAD _STUDIO_2",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "14:00",
+			"day": "M-Th",
+			"end": "0200PM",
 			"location": "CAD _STUDIO_2",
 			"start": "12:30"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:23:16.220357+00:00",
@@ -60,6 +53,54 @@
 		{
 			"_updated": "2020-10-15T15:23:12.532735+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.607582+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jennifer Bader"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:00",
+					"location": "CAD _STUDIO_2",
+					"start": "12:30"
+				},
+				{
+					"day": "Tu",
+					"end": "14:00",
+					"location": "CAD _STUDIO_2",
+					"start": "12:30"
+				},
+				{
+					"day": "We",
+					"end": "14:00",
+					"location": "CAD _STUDIO_2",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "14:00",
+					"location": "CAD _STUDIO_2",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

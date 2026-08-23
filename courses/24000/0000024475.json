@@ -4,31 +4,40 @@
 	"crsid": "0000000407",
 	"department": "ENGL",
 	"enrolled": 30,
-	"instructors": [
-		"Abby Werlock"
+	"enrollment_fy": 2,
+	"enrollment_jr": 8,
+	"enrollment_so": 8,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-L",
+		"HWC",
+		"WRI"
 	],
-	"junior": "8/8",
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_jr": 8,
+	"max_so": 10,
+	"max_sr": 10,
 	"name": "50's Beat Generation",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 515",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 515",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.672161+00:00",
@@ -56,11 +65,47 @@
 		{
 			"_updated": "2020-10-15T15:23:00.606335+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.093531+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"junior": "8/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "12/10",
+			"sophomore": "8/10",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "12/10",
-	"sophomore": "8/10",
 	"status": "C",
 	"term": 19983,
 	"type": "Topic",

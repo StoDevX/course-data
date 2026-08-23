@@ -4,37 +4,39 @@
 	"crsid": "0000000192",
 	"department": "CHEM",
 	"enrolled": 40,
+	"enrollment_fy": 19,
+	"enrollment_jr": 1,
+	"enrollment_so": 18,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC",
+		"NSL"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "1/15",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 55,
+	"max_jr": 15,
+	"max_so": 13,
+	"max_sr": 15,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 378",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.624073+00:00",
@@ -62,12 +64,50 @@
 		{
 			"_updated": "2020-10-15T15:22:46.574743+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.241449+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "1/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/15",
+			"sophomore": "18/13",
+			"title": null
 		}
 	],
 	"section": "D",
 	"semester": 1,
-	"senior": "2/15",
-	"sophomore": "18/13",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

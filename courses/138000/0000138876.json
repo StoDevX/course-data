@@ -7,17 +7,29 @@
 		"This course introduces the craft of creative writing through contemporary readings and writing exercises in three genres: poetry, fiction, and creative nonfiction. Students learn to read and to write literature with attention to how a literary work is made. Emphasis on the elements of craft and revision provide preparation for students who want to continue into intermediate and advanced creative writing workshops. Offered annually. Prerequisite: prior or concurrent enrollment in FYW."
 	],
 	"enrolled": 16,
-	"firstyear": "6/8",
+	"enrollment_fy": 6,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"CRE"
+		"CRE",
+		"WRI"
 	],
 	"instructors": [
-		"Juliet Patterson"
+		"Patterson, Juliet"
 	],
-	"junior": "3/2",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25348",
+			"name": "Patterson, Juliet"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 8,
+	"max_jr": 2,
+	"max_so": 7,
+	"max_sr": 1,
 	"name": "Craft of Creative Writing",
 	"notes": [
 		"This course has class-year limits."
@@ -25,22 +37,10 @@
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RML 421",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RML 421",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RML 421",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -120,12 +120,53 @@
 				"WRI",
 				"CRE"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.679224+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/8",
+			"gereqs": [
+				"CRE"
+			],
+			"instructors": [
+				"Juliet Patterson"
+			],
+			"instructors_full": null,
+			"junior": "3/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RML 421",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RML 421",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RML 421",
+					"start": "14:00"
+				}
+			],
+			"senior": "1/1",
+			"sophomore": "6/7"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "1/1",
-	"sophomore": "6/7",
 	"status": "O",
 	"term": 20213,
 	"title": "The Craft of Creative Writing",

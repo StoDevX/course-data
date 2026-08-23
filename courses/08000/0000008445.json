@@ -4,36 +4,35 @@
 	"crsid": "0000001274",
 	"department": "RUSSN",
 	"enrolled": 16,
-	"instructors": [
-		"Marc Robinson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Robinson, Marc"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6710",
+			"name": "Robinson, Marc"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intro Russian Film-Tr",
 	"number": 265,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 011",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 011",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 011",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.778928+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:16.755610+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.726938+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Marc Robinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 011",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 011",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 011",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

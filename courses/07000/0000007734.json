@@ -4,36 +4,32 @@
 	"crsid": "0000000196",
 	"department": "CHEM",
 	"enrolled": 58,
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 38,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Robert Hanson"
+		"Hanson, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3090",
+			"name": "Hanson, Robert"
+		}
+	],
 	"level": 200,
 	"max": 65,
 	"name": "Organic Chemistry",
 	"number": 247,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 378",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 378",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 378",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.151024+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:16.446743+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.690561+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

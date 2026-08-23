@@ -7,19 +7,29 @@
 		"Enrollment is by permission of the instructor. Students attend the Education 375 class and do additional research in a specific area and work directly with an exceptional learner. Students tutor or assist special students, do library research and discuss or present their experiences with the class. Prerequisite: Education 290 and permission. Required for licensure in some states, not Minnesota."
 	],
 	"enrolled": 3,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Ann A. Leming"
+		"Leming, Ann A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4755",
+			"name": "Leming, Ann A."
+		}
+	],
 	"level": 300,
 	"max": 3,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "The Exceptional Child",
 	"number": 376,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "FH 10",
 			"start": "12:45"
 		}
@@ -49,11 +59,36 @@
 		{
 			"_updated": "2020-10-15T15:23:19.858020+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.480335+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Ann A. Leming"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "FH 10",
+					"start": "12:45"
+				}
+			],
+			"sophomore": "0/0"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20051,
 	"type": "Research",

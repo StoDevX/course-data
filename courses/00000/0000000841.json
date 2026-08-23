@@ -4,110 +4,50 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 12,
-	"firstyear": "5/6",
-	"instructors": [
-		"Michael Swift"
+	"enrollment_fy": 5,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "3/6",
-	"learningmode": "S",
+	"instructors": [
+		"Swift, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8210",
+			"name": "Swift, Michael"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_sr": 6,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 211",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 211",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 211",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 211",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 211",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 211",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "SC 211",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.503856+00:00",
@@ -135,11 +75,125 @@
 		{
 			"_updated": "2020-10-15T15:23:05.470552+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.287914+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/6",
+			"gereqs": null,
+			"instructors": [
+				"Michael Swift"
+			],
+			"instructors_full": null,
+			"junior": "3/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 211",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 211",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 211",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 211",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 211",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/6",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 2,
-	"senior": "3/6",
 	"status": "O",
 	"term": 20002,
 	"type": "Research",

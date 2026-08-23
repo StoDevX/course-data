@@ -4,79 +4,42 @@
 	"crsid": "0000001836",
 	"department": "HIST",
 	"enrolled": 32,
-	"firstyear": "8/10",
-	"instructors": [
-		"Deborah Alexander"
+	"enrollment_fy": 8,
+	"enrollment_jr": 4,
+	"enrollment_so": 14,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Alexander, Deborah"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16535",
+			"name": "Alexander, Deborah"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 10,
 	"name": "Top: Film and History",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "HH 317",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 282",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 282",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 282",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 282",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 282",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "HH 317",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "HH 317",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "HH 317",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "HH 317",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "HH 317",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.759381+00:00",
@@ -100,6 +63,89 @@
 		{
 			"_updated": "2020-10-15T15:23:14.133080+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.263733+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/10",
+			"gereqs": null,
+			"instructors": [
+				"Deborah Alexander"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 282",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 282",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 282",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 282",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 282",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "HH 317",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "HH 317",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "HH 317",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "HH 317",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "HH 317",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,37 +4,39 @@
 	"crsid": "0000000057",
 	"department": "ART",
 	"enrolled": 41,
-	"instructors": [
-		"A. Malcolm Gimse"
+	"enrollment_fy": 2,
+	"enrollment_jr": 15,
+	"enrollment_so": 11,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"junior": "15/19",
-	"learningmode": "S",
+	"instructors": [
+		"Gimse, A. Malcolm"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2641",
+			"name": "Gimse, A. Malcolm"
+		}
+	],
 	"level": 200,
 	"max": 50,
+	"max_jr": 19,
+	"max_so": 36,
+	"max_sr": 10,
 	"name": "Art of China/Japan",
 	"number": 259,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "FH 01",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "FH 01",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "FH 01",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.913284+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:22:56.314636+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.817237+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"A. Malcolm Gimse"
+			],
+			"instructors_full": null,
+			"junior": "15/19",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "FH 01",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "13/10",
+			"sophomore": "11/36",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "13/10",
-	"sophomore": "11/36",
 	"status": "O",
 	"term": 19971,
 	"type": "Research",

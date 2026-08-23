@@ -4,36 +4,35 @@
 	"crsid": "0000001375",
 	"department": "THEAT",
 	"enrolled": 58,
-	"instructors": [
-		"Bill Sonnega"
+	"enrollment_fy": 26,
+	"enrollment_jr": 2,
+	"enrollment_so": 16,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sonnega, Bill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 100,
 	"max": 55,
 	"name": "Intro to Theater",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "CAD 305",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "CAD 305",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "CAD 305",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:43.254751+00:00",
@@ -60,6 +59,47 @@
 			"instructors": [
 				"William Sonnega"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.601548+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "CAD 305",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "CAD 305",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "CAD 305",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

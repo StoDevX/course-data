@@ -4,16 +4,23 @@
 	"crsid": "0000001101",
 	"department": "PHYS",
 	"enrolled": 2,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jason J. Engbrecht"
+		"Engbrecht, Jason J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14912",
+			"name": "Engbrecht, Jason J."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Robotic Monitoring",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:12.124765+00:00",
@@ -28,6 +35,26 @@
 		{
 			"_updated": "2020-10-15T15:23:48.778910+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:20.385659+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

@@ -4,11 +4,19 @@
 	"crsid": "0000033288",
 	"department": "BIO",
 	"enrolled": 7,
-	"groupid": "0000033288",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 300,
 	"max": 16,
 	"name": "Biochemistry of Adaptation",
@@ -18,26 +26,13 @@
 	"number": 347,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 435",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 435",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 435",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-10-07T04:06:48.555034+00:00",
@@ -84,6 +79,46 @@
 		{
 			"_updated": "2020-10-15T15:24:09.461479+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.791137+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033288",
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

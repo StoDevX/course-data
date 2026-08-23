@@ -7,14 +7,24 @@
 		"This course surveys standard algorithms and data structures with emphasis on implementation experience and complexity analysis. Topics include algorithmic strategies, fundamental computer algorithms, stacks, queues, lists, trees, hash tables, heaps and priority queues, compression, and decompression. Prerequisites: Computer Science 231 (or Math 232 or Math 252) and Computer Science 251, or consent of the instructor. Math 220 is strongly recommended. Offered annually. Counts toward neuroscience concentration."
 	],
 	"enrolled": 23,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 2,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Olaf A. Hall-Holt"
+		"Hall-Holt, Olaf A."
 	],
-	"junior": "10/7",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 200,
 	"max": 19,
+	"max_fy": 0,
+	"max_jr": 7,
+	"max_so": 2,
 	"name": "Algorithms/Data Struc",
 	"notes": [
 		"This course is open only to Computer Science majors."
@@ -22,20 +32,8 @@
 	"number": 253,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "RNS 203",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "RNS 203",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "RNS 203",
 			"start": "12:55"
 		}
@@ -70,10 +68,49 @@
 		{
 			"_updated": "2020-10-15T15:23:50.797821+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:23.708523+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"junior": "10/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "RNS 203",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "RNS 203",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "RNS 203",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"sophomore": "2/2"
 		}
 	],
 	"semester": 3,
-	"sophomore": "2/2",
 	"status": "C",
 	"term": 20133,
 	"title": "Algorithms and Data Structures",

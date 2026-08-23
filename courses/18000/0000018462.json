@@ -4,37 +4,31 @@
 	"crsid": "0000002222",
 	"department": "PETH",
 	"enrolled": 26,
-	"halfcredit": "1",
+	"enrollment_fy": 3,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Matthew Haugen"
+		"Haugen, Matthew"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3178",
+			"name": "Haugen, Matthew"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Psychology of Sport",
 	"number": 380,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SAC 1",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "SAC 1",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "SAC 1",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.976867+00:00",
@@ -49,6 +43,48 @@
 		{
 			"_updated": "2020-10-15T15:22:51.002122+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:11.437616+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Matthew Haugen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SAC 1",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SAC 1",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "SAC 1",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

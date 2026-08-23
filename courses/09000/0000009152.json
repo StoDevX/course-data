@@ -4,36 +4,36 @@
 	"crsid": "0000000058",
 	"department": "ART",
 	"enrolled": 30,
-	"instructors": [
-		"Karil J. Kucera"
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 5,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kucera, Karil J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Arts of Japan",
 	"number": 260,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD 305",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CAD 305",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CAD 305",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.630198+00:00",
@@ -54,6 +54,47 @@
 		{
 			"_updated": "2020-10-15T15:23:18.051651+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.597134+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

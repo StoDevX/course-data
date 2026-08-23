@@ -7,28 +7,39 @@
 		"This course explores key concepts of ecology, focusing explicitly on the ideal of ecological sustainability for the St. Olaf campus. Students attend both to contemporary environmental issues and to the ideas and institutions that shape human resource use. Working groups research topics such as curriculum, clothes, cars, water, waste, food, energy, procurement, and landscape in the context of American religious and environmental values."
 	],
 	"enrolled": 29,
-	"firstyear": "5/3",
+	"enrollment_fy": 5,
+	"enrollment_jr": 6,
+	"enrollment_so": 7,
+	"enrollment_sr": 11,
 	"instructors": [
-		"James Farrell"
+		"Farrell, James"
 	],
-	"junior": "6/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2030",
+			"name": "Farrell, James"
+		}
+	],
 	"level": 200,
 	"max": 28,
+	"max_fy": 3,
+	"max_jr": 4,
+	"max_so": 5,
+	"max_sr": 3,
 	"name": "Campus Ecology",
 	"number": 222,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 413",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 413",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -61,11 +72,44 @@
 		{
 			"_updated": "2020-10-15T15:23:25.111089+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:22.428554+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/3",
+			"instructors": [
+				"James Farrell"
+			],
+			"instructors_full": null,
+			"junior": "6/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 413",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 413",
+					"start": "14:15"
+				}
+			],
+			"section": null,
+			"senior": "11/3",
+			"sophomore": "7/5"
 		}
 	],
 	"semester": 3,
-	"senior": "11/3",
-	"sophomore": "7/5",
 	"status": "C",
 	"term": 20063,
 	"type": "Research",

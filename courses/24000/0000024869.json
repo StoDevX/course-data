@@ -4,26 +4,39 @@
 	"crsid": "0000001172",
 	"department": "PSYCH",
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
 	"instructors": [
-		"William Scott Gregory",
-		"Harold Brull"
+		"Brull, Harold",
+		"Gregory, William Scott"
 	],
-	"junior": "6/18",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "809",
+			"name": "Brull, Harold"
+		},
+		{
+			"fsnum": "2740",
+			"name": "Gregory, William Scott"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_jr": 18,
+	"max_sr": 15,
 	"name": "Indust/Organizations",
 	"number": 250,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "H 403",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.916874+00:00",
@@ -50,10 +63,40 @@
 		{
 			"_updated": "2020-10-15T15:23:00.763711+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:35.924296+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"William Scott Gregory",
+				"Harold Brull"
+			],
+			"instructors_full": null,
+			"junior": "6/18",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "22:00",
+					"location": "H 403",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/15",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "8/15",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

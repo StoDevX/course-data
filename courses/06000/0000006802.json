@@ -4,32 +4,46 @@
 	"crsid": "0000000230",
 	"department": "CLASS",
 	"enrolled": 41,
-	"firstyear": "12/33",
-	"instructors": [
-		"Christopher M. Brunelle"
+	"enrollment_fy": 12,
+	"enrollment_jr": 6,
+	"enrollment_so": 12,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ALS-L",
+		"HWC"
 	],
-	"junior": "6/25",
-	"learningmode": "S",
+	"instructors": [
+		"Brunelle, Christopher M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14999",
+			"name": "Brunelle, Christopher M."
+		}
+	],
 	"level": 200,
 	"max": 60,
+	"max_fy": 33,
+	"max_jr": 25,
+	"max_so": 30,
+	"max_sr": 15,
 	"name": "Golden Age Greece-Tr",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 501",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 501",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.127180+00:00",
@@ -58,11 +72,48 @@
 		{
 			"_updated": "2020-10-15T15:23:14.846448+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.688181+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "12/33",
+			"gereqs": null,
+			"instructors": [
+				"Christopher M. Brunelle"
+			],
+			"instructors_full": null,
+			"junior": "6/25",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 501",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 501",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "11/15",
+			"sophomore": "12/30",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "11/15",
-	"sophomore": "12/30",
 	"status": "O",
 	"term": 20033,
 	"type": "Research",

@@ -7,13 +7,23 @@
 		"Algebra is concerned with sets of objects and operations that satisfy a few basic properties. Using the properties we study axiomatic systems such as groups, rings, and fields, covering topics such as homomorphisms, cosets, quotient structures, polynomial rings,and finite fields. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Also counts toward computer science major. Prerequisite: MATH 220. Permission of instructor required for first-year students."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
 	"gereqs": [
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Ryota Matsuura"
+		"Matsuura, Ryota"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21867",
+			"name": "Matsuura, Ryota"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Abstract Algebra I",
@@ -23,20 +33,8 @@
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TOH 186",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TOH 186",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TOH 186",
 			"start": "11:50"
 		}
@@ -130,6 +128,45 @@
 			"gereqs": [
 				"WRI",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.571787+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Ryota Matsuura"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TOH 186",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TOH 186",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TOH 186",
+					"start": "11:50"
+				}
 			]
 		}
 	],

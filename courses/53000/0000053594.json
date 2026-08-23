@@ -1,14 +1,21 @@
 {
 	"clbid": "0000053594",
-	"credits": 0.0,
 	"crsid": "0000017687",
 	"department": "ART",
 	"enrolled": 12,
-	"groupid": "0000000031",
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Christine O'Malley"
+		"O'Malley, Christine"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18422",
+			"name": "O'Malley, Christine"
+		}
+	],
 	"level": 100,
 	"max": 13,
 	"name": "Intro/Art Hist Discussion",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "13:50",
+			"end": "0150PM",
 			"location": "CAD 210",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:48.540542+00:00",
@@ -43,6 +49,35 @@
 		{
 			"_updated": "2020-10-15T15:23:23.740277+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:14.089249+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000031",
+			"instructors": [
+				"Christine O'Malley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "CAD 210",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

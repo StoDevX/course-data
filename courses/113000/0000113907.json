@@ -1,14 +1,21 @@
 {
 	"clbid": "0000113907",
-	"credits": 0.0,
 	"crsid": "0000001164",
 	"department": "PSYCH",
 	"enrolled": 14,
-	"groupid": "0000001163",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Kimberly B. Weldon"
+		"Weldon, Kimberly B."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29177",
+			"name": "Weldon, Kimberly B."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Cognitive Psychology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 240",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-16T23:57:23.963606+00:00",
@@ -66,6 +72,35 @@
 		{
 			"_updated": "2020-10-15T15:24:05.055170+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.410290+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001163",
+			"instructors": [
+				"Kimberly B. Weldon"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 240",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

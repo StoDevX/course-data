@@ -4,72 +4,44 @@
 	"crsid": "0000001582",
 	"department": "ECON",
 	"enrolled": 27,
+	"enrollment_fy": 10,
+	"enrollment_jr": 8,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Edward David Emery"
+		"Emery, Edward David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1741",
+			"name": "Emery, Edward David"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Personal Finance",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
+			"end": "0230PM",
+			"location": "H 302",
+			"start": "01:15"
+		},
+		{
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 302",
 			"start": "09:00"
 		},
 		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 302",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "H 302",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:45",
 			"location": "H 302",
 			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:45",
-			"location": "H 302",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:45",
-			"location": "H 302",
-			"start": "10:45"
-		},
-		{
-			"day": "Mo",
-			"end": "14:30",
-			"location": "H 302",
-			"start": "13:15"
-		},
-		{
-			"day": "We",
-			"end": "14:30",
-			"location": "H 302",
-			"start": "13:15"
-		},
-		{
-			"day": "Fr",
-			"end": "14:30",
-			"location": "H 302",
-			"start": "13:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.270127+00:00",
@@ -84,6 +56,82 @@
 		{
 			"_updated": "2020-10-15T15:23:02.646964+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.127446+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Edward David Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 302",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 302",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 302",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "11:45",
+					"location": "H 302",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:45",
+					"location": "H 302",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:45",
+					"location": "H 302",
+					"start": "10:45"
+				},
+				{
+					"day": "Mo",
+					"end": "14:30",
+					"location": "H 302",
+					"start": "13:15"
+				},
+				{
+					"day": "We",
+					"end": "14:30",
+					"location": "H 302",
+					"start": "13:15"
+				},
+				{
+					"day": "Fr",
+					"end": "14:30",
+					"location": "H 302",
+					"start": "13:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

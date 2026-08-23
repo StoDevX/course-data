@@ -4,17 +4,28 @@
 	"crsid": "0000000710",
 	"department": "ID",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Timothy R. Howe",
-		"Richard Brown"
+		"Brown, Richard",
+		"Howe, Tim R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "806",
+			"name": "Brown, Richard"
+		},
+		{
+			"fsnum": "15815",
+			"name": "Howe, Tim R."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/3D Modeling Archaeological Data",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-01-12T16:00:41.569000+00:00",
@@ -36,6 +47,27 @@
 		{
 			"_updated": "2020-10-15T15:23:56.853889+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:51.496417+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Timothy R. Howe",
+				"Richard Brown"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 2,

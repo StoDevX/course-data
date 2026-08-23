@@ -4,36 +4,36 @@
 	"crsid": "0000000370",
 	"department": "DNCTH",
 	"enrolled": 23,
-	"instructors": [
-		"Susan Bauer"
+	"enrollment_fy": 5,
+	"enrollment_jr": 7,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bauer, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "338",
+			"name": "Bauer, Susan"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Movement Analysis",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
+			"location": "CAD  STUDIO 1",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:17.024866+00:00",
@@ -60,6 +60,47 @@
 		{
 			"_updated": "2020-10-15T15:23:12.018497+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.642009+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan Bauer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

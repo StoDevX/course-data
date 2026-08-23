@@ -4,30 +4,31 @@
 	"crsid": "0000001361",
 	"department": "SWRK",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Social Work Methods I",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "YH 132",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "YH 132",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.043959+00:00",
@@ -42,6 +43,38 @@
 		{
 			"_updated": "2020-10-15T15:22:46.864472+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.498366+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "YH 132",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "YH 132",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

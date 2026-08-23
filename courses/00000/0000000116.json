@@ -4,10 +4,19 @@
 	"crsid": "0000000202",
 	"department": "CHEM",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Mary Walczak"
+		"Walczak, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8868",
+			"name": "Walczak, Mary"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Analytical Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 321",
 			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.363710+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:23:04.848899+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:17.107988+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Walczak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "SC 321",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

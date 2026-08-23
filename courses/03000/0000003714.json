@@ -4,32 +4,45 @@
 	"crsid": "0000000067",
 	"department": "ART",
 	"enrolled": 15,
-	"firstyear": "0/0",
-	"instructors": [
-		"Nancy M. Thompson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/3",
-	"learningmode": "S",
+	"instructors": [
+		"Thompson, Nancy M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 3,
+	"max_so": 4,
+	"max_sr": 3,
 	"name": "Women in Art",
 	"number": 277,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 204",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 204",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.181081+00:00",
@@ -68,11 +81,48 @@
 		{
 			"_updated": "2020-10-15T15:23:10.424285+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.752349+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Nancy M. Thompson"
+			],
+			"instructors_full": null,
+			"junior": "3/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 204",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 204",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/3",
+			"sophomore": "5/4",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "7/3",
-	"sophomore": "5/4",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

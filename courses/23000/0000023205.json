@@ -4,31 +4,35 @@
 	"crsid": "0000000046",
 	"department": "ART",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Margaret Ojala"
+		"Ojala, Margaret"
 	],
-	"junior": "3/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5816",
+			"name": "Ojala, Margaret"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_jr": 6,
+	"max_so": 3,
+	"max_sr": 6,
 	"name": "Photography",
 	"number": 248,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
-			"location": "FH 2",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH 2",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.010239+00:00",
@@ -56,11 +60,46 @@
 		{
 			"_updated": "2020-10-15T15:22:59.201422+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.129556+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Margaret Ojala"
+			],
+			"instructors_full": null,
+			"junior": "3/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH 2",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH 2",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/6",
+			"sophomore": "2/3",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "6/6",
-	"sophomore": "2/3",
 	"status": "O",
 	"term": 19981,
 	"type": "Research",

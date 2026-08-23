@@ -1,15 +1,21 @@
 {
 	"clbid": "0000125942",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 20,
-	"groupid": "0000026714",
-	"grouptype": "2",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 16,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Jay Demas"
+		"Demas, Jay"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21211",
+			"name": "Demas, Jay"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Cell Biology Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 454",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-11-07T07:32:38.736215+00:00",
@@ -63,6 +68,36 @@
 			"instructors": [
 				"James Demas"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.513952+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026714",
+			"grouptype": "2",
+			"instructors": [
+				"Jay Demas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 454",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

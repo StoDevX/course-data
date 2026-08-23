@@ -1,30 +1,89 @@
 {
-	"clbid": 51446,
+	"clbid": "0000051446",
 	"credits": 1.0,
-	"crsid": 735,
-	"departments": [
-		"MATH"
+	"crsid": "0000000735",
+	"department": "MATH",
+	"description": [
+		"This course is intended for non-majors. Students encounter selected mathematical topics demonstrating the scope of mathematical inquiry, its \"unreasonable effectiveness,\" and its connections with other disciplines. Not open to first-year students. Offered Interim only."
 	],
-	"description": "This course is intended for non-majors. Students encounter selected mathematical topics demonstrating the scope of mathematical inquiry, its \"unreasonable effectiveness,\" and its connections with other disciplines. Not open to first-year students. Offered Interim only.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"MAR"
+	],
 	"instructors": [
-		"Peder Bolstad"
+		"Bolstad, Peder"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "661",
+			"name": "Bolstad, Peder"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"SC 129",
-		"SC 129"
-	],
+	"max": 25,
+	"max_fy": 0,
 	"name": "Principles of Math",
 	"number": 210,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0200PM",
+			"location": "SC 129",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "10:00",
+			"location": "SC 129",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:19.855925+00:00",
+			"clbid": 51446,
+			"crsid": 735,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "This course is intended for non-majors. Students encounter selected mathematical topics demonstrating the scope of mathematical inquiry, its \"unreasonable effectiveness,\" and its connections with other disciplines. Not open to first-year students. Offered Interim only.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Peder Bolstad"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SC 129",
+				"SC 129"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"times": [
+				"M-F 0830-1000",
+				"M-F 0100-0200PM"
+			]
+		}
+	],
 	"semester": 2,
 	"status": "X",
 	"term": 20062,
-	"times": [
-		"M-F 0830-1000",
-		"M-F 0100-0200PM"
-	],
 	"title": "Principles of Mathematics",
 	"type": "Research",
 	"year": 2006

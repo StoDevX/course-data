@@ -4,31 +4,37 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 17,
-	"instructors": [
-		"Myron L. Solid"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ORC"
 	],
-	"junior": "8/15",
-	"learningmode": "S",
+	"instructors": [
+		"Solid, Myron L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7667",
+			"name": "Solid, Myron L."
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_jr": 15,
+	"max_sr": 15,
 	"name": "Prin Secondary Educ",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 10",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 10",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.586945+00:00",
@@ -55,11 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:22:54.857545+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:13.069985+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Myron L. Solid"
+			],
+			"instructors_full": null,
+			"junior": "8/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/15",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "9/15",
 	"status": "C",
 	"term": 19963,
 	"type": "Research",

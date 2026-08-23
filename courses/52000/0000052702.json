@@ -4,10 +4,19 @@
 	"crsid": "0000001255",
 	"department": "REL",
 	"enrolled": 15,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 15,
 	"instructors": [
-		"David Booth"
+		"Booth, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "712",
+			"name": "Booth, David"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Sem: Christian Discourse",
@@ -27,7 +36,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:20.333586+00:00",
@@ -42,6 +50,25 @@
 		{
 			"_updated": "2020-10-15T15:23:23.678587+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:17.446214+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David Booth"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

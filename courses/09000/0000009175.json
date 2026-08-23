@@ -4,10 +4,23 @@
 	"crsid": "0000000095",
 	"department": "ASIAN",
 	"enrolled": 14,
-	"instructors": [
-		"Karil J. Kucera"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kucera, Karil J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Buddhism: Text-Image",
@@ -15,13 +28,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "CAD 204",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.641415+00:00",
@@ -42,6 +54,35 @@
 		{
 			"_updated": "2020-10-15T15:23:18.060873+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.603210+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "CAD 204",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

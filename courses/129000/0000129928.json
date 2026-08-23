@@ -1,36 +1,73 @@
 {
 	"clbid": "0000129928",
-	"credits": 0.0,
 	"crsid": "0000000242",
 	"department": "CHIN",
 	"enrolled": 0,
-	"groupid": "0000000241",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Chinese I Lab",
+	"notes": [
+		"This lab has been canceled."
+	],
 	"number": 231,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:30",
+			"end": "0230PM",
 			"location": "TOH 310",
-			"start": "13:10"
+			"start": "01:10"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-09-06T06:58:29.635942+00:00",
 			"enrolled": 1
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.758199+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000241",
+			"instructors_full": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:30",
+					"location": "TOH 310",
+					"start": "13:10"
+				}
+			],
+			"prerequisites": false,
+			"status": "O",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20191,
 	"type": "Lab",
 	"year": 2019

@@ -4,36 +4,34 @@
 	"crsid": "0000000664",
 	"department": "JAPAN",
 	"enrolled": 9,
-	"instructors": [
-		"Phyllis Hyland Larson"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FOL-J"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Larson, Phyllis Hyland"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4624",
+			"name": "Larson, Phyllis Hyland"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Intermed Japanese II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "M 1",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "M 1",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "M 1",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.851377+00:00",
@@ -48,6 +46,48 @@
 		{
 			"_updated": "2020-10-15T15:22:50.919314+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:55.042215+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Phyllis Hyland Larson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "M 1",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "M 1",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "M 1",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

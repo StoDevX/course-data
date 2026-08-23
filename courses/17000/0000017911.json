@@ -4,36 +4,36 @@
 	"crsid": "0000000100",
 	"department": "BIO",
 	"enrolled": 52,
-	"instructors": [
-		"David Van Wylen"
+	"enrollment_fy": 3,
+	"enrollment_jr": 14,
+	"enrollment_so": 18,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Van Wylen, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8768",
+			"name": "Van Wylen, David"
+		}
+	],
 	"level": 100,
 	"max": 72,
 	"name": "Biological Science",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 282",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 282",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 282",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.638955+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.774761+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:43.264197+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David Van Wylen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 282",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 282",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 282",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

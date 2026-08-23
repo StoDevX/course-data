@@ -6,52 +6,40 @@
 	"description": [
 		"This course offers an introduction to the physics of sound waves, the biological, physical and psychological origins of sound perception, and the synthesis of sounds and sound production in different instruments. Students explore these topics, as well as sound recording and reproduction systems, through lectures, discussions, laboratory experiments, and student presentations. Offered during January Term. Prerequisite: proficiency in algebra and geometry. Musical experience is helpful but not required."
 	],
-	"enrolled": 30,
-	"firstyear": "1/0",
+	"enrolled": 33,
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 18,
+	"enrollment_sr": 3,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NSC",
+		"NSL",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000001086",
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 200,
 	"max": 36,
+	"max_fy": 0,
 	"name": "Musical Acoustics",
 	"notes": [
-		"Students in Physics 252 must also register for lab Physics 252 L.",
+		"Students in Physics 252 must also register for lab Physics 252 L.               ",
 		"First-year students must complete a capacity override request to register."
 	],
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:10",
-			"location": "RNS 210",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:10",
-			"location": "RNS 210",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:10",
-			"location": "RNS 210",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:10",
-			"location": "RNS 210",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:10",
+			"day": "M-F",
+			"end": "1210PM",
 			"location": "RNS 210",
 			"start": "10:40"
 		}
@@ -105,6 +93,65 @@
 		{
 			"_updated": "2025-12-13T06:11:19.956675+00:00",
 			"enrolled": 31
+		},
+		{
+			"_updated": "2026-08-23T03:05:30.434361+00:00",
+			"enrolled": 30,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000001086",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Physics 252 must also register for lab Physics 252 L.",
+				"First-year students must complete a capacity override request to register."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:10",
+					"location": "RNS 210",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:10",
+					"location": "RNS 210",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:10",
+					"location": "RNS 210",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:10",
+					"location": "RNS 210",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:10",
+					"location": "RNS 210",
+					"start": "10:40"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

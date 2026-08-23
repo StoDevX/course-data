@@ -4,10 +4,22 @@
 	"crsid": "0000000991",
 	"department": "PHIL",
 	"enrolled": 13,
-	"instructors": [
-		"Paola L. Kindred"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kindred, Paola L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15851",
+			"name": "Kindred, Paola L."
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Top: American Philosop",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "SH 002",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "SH 002",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.423169+00:00",
@@ -59,6 +70,41 @@
 		{
 			"_updated": "2020-10-15T15:23:18.292801+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.312433+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paola L. Kindred"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SH 002",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "SH 002",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

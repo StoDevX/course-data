@@ -4,16 +4,23 @@
 	"crsid": "0000000068",
 	"department": "ART",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Michon Weeks"
+		"Weeks, Michon"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23761",
+			"name": "Weeks, Michon"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-10-31T01:27:31.837940+00:00",
@@ -39,6 +46,26 @@
 		{
 			"_updated": "2020-10-15T15:24:04.952493+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.177036+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Michon Weeks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

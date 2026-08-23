@@ -4,78 +4,38 @@
 	"crsid": "0000000479",
 	"department": "FREN",
 	"enrolled": 13,
+	"enrollment_fy": 7,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Mary Cisar"
+		"Cisar, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1191",
+			"name": "Cisar, Mary"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Intermed French I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "M 2",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "M 26 & 02",
 			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "M 26 & 02",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 26 & 02",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "M 26 & 02",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "M 26 & 02",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "M 2",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "M 2",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "M 2",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "M 2",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "M 2",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.305824+00:00",
@@ -90,6 +50,88 @@
 		{
 			"_updated": "2020-10-15T15:22:54.161131+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:00.406385+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Cisar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 26 & 02",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "M 26 & 02",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 26 & 02",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "M 26 & 02",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 26 & 02",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "M 2",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "M 2",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "M 2",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "M 2",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "M 2",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

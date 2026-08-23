@@ -4,60 +4,106 @@
 	"crsid": "0000026657",
 	"department": "SWRK",
 	"enrolled": 28,
-	"instructors": [
-		"Susan E. Smalling"
+	"enrollment_fy": 4,
+	"enrollment_jr": 8,
+	"enrollment_so": 12,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Smalling, Susan E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "23550",
+			"name": "Smalling, Susan E."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Global Challenges",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Tu",
+			"day": "M-Th",
+			"end": "1240PM",
+			"location": "HH 523",
+			"start": "10:40"
+		},
+		{
+			"day": "TW",
 			"end": "10:00",
 			"location": "HH 523",
 			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 523",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "HH 523",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "HH 523",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "HH 523",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "HH 523",
-			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:42.550022+00:00",
 			"gereqs": [
 				"ORC"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:05.122478+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan E. Smalling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "HH 523",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 523",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "HH 523",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "HH 523",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "HH 523",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "HH 523",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

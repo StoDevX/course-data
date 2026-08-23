@@ -4,36 +4,35 @@
 	"crsid": "0000000667",
 	"department": "JAPAN",
 	"enrolled": 3,
-	"instructors": [
-		"Rika Ito"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FOL-J"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Ito, Rika"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14203",
+			"name": "Ito, Rika"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Advanced Japanese II",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "M 36",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "M 36",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "M 36",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.924896+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:09.070917+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.327559+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Rika Ito"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "M 36",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "M 36",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "M 36",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

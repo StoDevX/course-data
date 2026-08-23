@@ -7,26 +7,34 @@
 		"This course introduces students to the lifetime sport of fly-fishing and fly-tying. Equipment available. Lab fee."
 	],
 	"enrolled": 17,
-	"firstyear": "1/0",
-	"instructors": [
-		"Scott Nesbit"
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "1/2",
-	"learningmode": "S",
+	"instructors": [
+		"Nesbit, Scott"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5580",
+			"name": "Nesbit, Scott"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 2,
+	"max_so": 2,
 	"name": "Fly Fishing",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "SAC 112",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "SAC 112",
 			"start": "12:55"
 		}
@@ -62,10 +70,44 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.633951+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Scott Nesbit"
+			],
+			"instructors_full": null,
+			"junior": "1/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "SAC 112",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "SAC 112",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"sophomore": "1/2"
 		}
 	],
 	"semester": 3,
-	"sophomore": "1/2",
 	"status": "C",
 	"term": 20123,
 	"title": "Fly-Fishing/Fly-Tying",

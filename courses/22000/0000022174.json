@@ -4,37 +4,38 @@
 	"crsid": "0000000021",
 	"department": "ART",
 	"enrolled": 25,
-	"instructors": [
-		"Wendell Arneson"
+	"enrollment_fy": 11,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Arneson, Wendell"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 4,
+	"max_so": 8,
+	"max_sr": 2,
 	"name": "Found Color Design",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH AB",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH AB",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH AB",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.259766+00:00",
@@ -62,12 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:22:57.692889+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:19.951284+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH AB",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH AB",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH AB",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "6/2",
+			"sophomore": "6/8",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "6/2",
-	"sophomore": "6/8",
 	"status": "C",
 	"term": 19973,
 	"type": "Research",

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000106678",
-	"credits": 0.0,
 	"crsid": "0000000216",
 	"department": "CHEM",
 	"enrolled": 6,
-	"groupid": "0000000215",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Robert Hanson"
+		"Hanson, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3090",
+			"name": "Hanson, Robert"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Organic Analys/Theory Lab",
@@ -18,38 +25,13 @@
 	"number": 280,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:30",
-			"location": "RNS 351",
-			"start": "10:30"
-		},
-		{
-			"day": "Tu",
-			"end": "14:30",
-			"location": "RNS 351",
-			"start": "10:30"
-		},
-		{
-			"day": "We",
-			"end": "14:30",
-			"location": "RNS 351",
-			"start": "10:30"
-		},
-		{
-			"day": "Th",
-			"end": "14:30",
-			"location": "RNS 351",
-			"start": "10:30"
-		},
-		{
-			"day": "Fr",
-			"end": "14:30",
+			"day": "M-F",
+			"end": "0230PM",
 			"location": "RNS 351",
 			"start": "10:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:36.428738+00:00",
@@ -83,6 +65,60 @@
 		{
 			"_updated": "2020-10-15T15:24:00.557706+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:07.798594+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000215",
+			"instructors": [
+				"Robert Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:30",
+					"location": "RNS 351",
+					"start": "10:30"
+				},
+				{
+					"day": "Tu",
+					"end": "14:30",
+					"location": "RNS 351",
+					"start": "10:30"
+				},
+				{
+					"day": "We",
+					"end": "14:30",
+					"location": "RNS 351",
+					"start": "10:30"
+				},
+				{
+					"day": "Th",
+					"end": "14:30",
+					"location": "RNS 351",
+					"start": "10:30"
+				},
+				{
+					"day": "Fr",
+					"end": "14:30",
+					"location": "RNS 351",
+					"start": "10:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

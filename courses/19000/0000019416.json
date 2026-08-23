@@ -4,30 +4,36 @@
 	"crsid": "0000000964",
 	"department": "PHIL",
 	"enrolled": 26,
-	"instructors": [
-		"John Poling"
+	"enrollment_fy": 9,
+	"enrollment_jr": 4,
+	"enrollment_so": 11,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Poling, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6392",
+			"name": "Poling, John"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Making of Modern Mind",
 	"number": 118,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 182",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 182",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.487817+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:53.298825+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:50.154471+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Poling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 182",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 182",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

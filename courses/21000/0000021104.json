@@ -4,37 +4,35 @@
 	"crsid": "0000000037",
 	"department": "ART",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Steven Edwins"
+		"Edwins, Steven"
 	],
-	"junior": "6/15",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1564",
+			"name": "Edwins, Steven"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_jr": 15,
+	"max_so": 10,
+	"max_sr": 6,
 	"name": "Arch Drawing/Design I",
 	"number": 235,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "FH AB",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH AB",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH AB",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.910679+00:00",
@@ -62,11 +60,52 @@
 		{
 			"_updated": "2020-10-15T15:22:56.312678+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.500408+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Steven Edwins"
+			],
+			"instructors_full": null,
+			"junior": "6/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/6",
+			"sophomore": "7/10",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/6",
-	"sophomore": "7/10",
 	"status": "O",
 	"term": 19971,
 	"type": "Research",

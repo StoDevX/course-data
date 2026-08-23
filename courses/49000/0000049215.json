@@ -1,31 +1,38 @@
 {
 	"clbid": "0000049215",
-	"credits": 0.0,
 	"crsid": "0000000109",
 	"department": "BIO",
 	"enrolled": 26,
-	"firstyear": "10/0",
-	"groupid": "0000000108",
-	"grouptype": "3",
+	"enrollment_fy": 10,
+	"enrollment_jr": 0,
+	"enrollment_so": 14,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Diane K. Angell"
+		"Angell, Diane K."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "256",
+			"name": "Angell, Diane K."
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Evolution & Diversity Lab",
 	"number": 126,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "SC 273",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.569485+00:00",
@@ -47,12 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:21.865130+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.937126+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/0",
+			"groupid": "0000000108",
+			"grouptype": "3",
+			"instructors": [
+				"Diane K. Angell"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "SC 273",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "14/0",
+			"title": null
 		}
 	],
 	"section": "I",
 	"semester": 3,
-	"senior": "2/0",
-	"sophomore": "14/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

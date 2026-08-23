@@ -4,30 +4,36 @@
 	"crsid": "0000001352",
 	"department": "SPAN",
 	"enrolled": 17,
-	"instructors": [
-		"Sylvia Carullo"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-L",
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carullo, Sylvia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "977",
+			"name": "Carullo, Sylvia"
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Lat Am Lit to 1940",
 	"number": 387,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 20",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 20",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.174886+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.233696+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.733947+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sylvia Carullo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 20",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 20",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

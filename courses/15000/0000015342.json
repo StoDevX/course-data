@@ -4,30 +4,32 @@
 	"crsid": "0000001254",
 	"department": "REL",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Ethics Sem: Vocation",
 	"number": 395,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CH 102",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CH 102",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.006534+00:00",
@@ -42,6 +44,37 @@
 		{
 			"_updated": "2020-10-15T15:22:46.839917+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.482515+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CH 102",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CH 102",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -1,28 +1,79 @@
 {
-	"clbid": 69723,
+	"clbid": "0000069723",
 	"credits": 0.25,
-	"crsid": 997,
-	"departments": [
-		"ESAC"
+	"crsid": "0000000997",
+	"department": "ESAC",
+	"description": [
+		"This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee."
 	],
-	"description": "This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"PHA",
 		"SPM"
 	],
 	"instructors": [
-		"Luke Benoit"
+		"Benoit, Luke"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "18529",
+			"name": "Benoit, Luke"
+		}
 	],
 	"level": 100,
 	"name": "Golf",
 	"number": 103,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0500PM",
+			"location": "",
+			"start": "03:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:02.705183+00:00",
+			"clbid": 69723,
+			"crsid": 997,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"description": "This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SPM"
+			],
+			"instructors": [
+				"Luke Benoit"
+			],
+			"instructors_full": null,
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"times": [
+				"M-F 0300-0500PM"
+			]
+		}
+	],
 	"semester": 5,
 	"status": "X",
 	"term": 20085,
-	"times": [
-		"M-F 0300-0500PM"
-	],
 	"type": "Research",
 	"year": 2008
 }

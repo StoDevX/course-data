@@ -4,24 +4,34 @@
 	"crsid": "0000000232",
 	"department": "CLASS",
 	"enrolled": 30,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 17,
 	"gereqs": [
+		"ALS-A",
 		"CRE",
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Anne Groton"
+		"Groton, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2771",
+			"name": "Groton, Anne"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Classical Studies Greece",
 	"notes": [
-		"This is an off-campus course. You will find this course listed in Studio Abroad",
+		"This is an off-campus course. You will find this course listed in Studio Abroad ",
 		"under its course title."
 	],
 	"number": 251,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:42.496465+00:00",
@@ -31,6 +41,34 @@
 				"CRE",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.424012+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CRE",
+				"GHS"
+			],
+			"instructors": [
+				"Anne Groton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This is an off-campus course. You will find this course listed in Studio Abroad",
+				"under its course title."
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

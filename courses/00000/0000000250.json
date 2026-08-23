@@ -4,36 +4,32 @@
 	"crsid": "0000000476",
 	"department": "FREN",
 	"enrolled": 29,
+	"enrollment_fy": 15,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Mary Cisar"
+		"Cisar, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1191",
+			"name": "Cisar, Mary"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Beginning French I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "M 26",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "M 26",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "M 26",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.452937+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:23:04.909688+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:18.079676+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Cisar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "M 26",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "M 26",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "M 26",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

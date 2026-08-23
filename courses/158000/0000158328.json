@@ -7,17 +7,30 @@
 		"This studio course focuses on the techniques of acting and singing for the musical theater. Students learn the basics of voice, movement, improvisation, and characterization in class exercises, prepared scenes, solos and duets. Course culminates in a public showcase of students' work. Offered periodically. Also counts toward musical theater concentration."
 	],
 	"enrolled": 19,
+	"enrollment_fy": 5,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
 	"gereqs": [
 		"ACB",
-		"CRE"
+		"ALS-A",
+		"CRE",
+		"SPM"
 	],
 	"instructors": [
-		"Sara Pillatzki-Warzeha"
+		"Pillatzki-Warzeha, Sara"
 	],
-	"junior": "4/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32968",
+			"name": "Pillatzki-Warzeha, Sara"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_jr": 4,
+	"max_so": 6,
+	"max_sr": 2,
 	"name": "Musical Theater",
 	"notes": [
 		"This course has class-year limits."
@@ -26,13 +39,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TB Haugen",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TB Haugen",
 			"start": "12:45"
 		}
@@ -101,11 +114,47 @@
 				"ACB",
 				"CRE"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.756820+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB",
+				"CRE"
+			],
+			"instructors": [
+				"Sara Pillatzki-Warzeha"
+			],
+			"instructors_full": null,
+			"junior": "4/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TB Haugen",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TB Haugen",
+					"start": "12:45"
+				}
+			],
+			"section": null,
+			"senior": "3/2",
+			"sophomore": "7/6"
 		}
 	],
 	"semester": 3,
-	"senior": "3/2",
-	"sophomore": "7/6",
 	"status": "C",
 	"term": 20243,
 	"type": "Research",

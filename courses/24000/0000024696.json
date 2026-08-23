@@ -4,30 +4,31 @@
 	"crsid": "0000000843",
 	"department": "MUSIC",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Alison J. Feldt"
+		"Feldt, Alison J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2059",
+			"name": "Feldt, Alison J."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Vocal Solo Lit II",
 	"number": 282,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "CHM 233",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CHM 233",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:28:23.920477+00:00",
@@ -48,6 +49,41 @@
 		{
 			"_updated": "2020-10-15T15:23:00.693100+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:26.635043+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Alison J. Feldt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CHM 233",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CHM 233",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

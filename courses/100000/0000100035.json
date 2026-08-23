@@ -4,17 +4,31 @@
 	"crsid": "0000000467",
 	"department": "ENVST",
 	"enrolled": 1,
-	"instructors": [
-		"Diane K. Angell",
-		"Kathleen L. Shea"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Angell, Diane K.",
+		"Shea, Kathleen L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "256",
+			"name": "Angell, Diane K."
+		},
+		{
+			"fsnum": "7450",
+			"name": "Shea, Kathleen L."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Sustainable Corn Agric",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-09-23T04:33:14.437412+00:00",
@@ -43,6 +57,28 @@
 			"gereqs": [
 				"WRI"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:48.582299+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Diane K. Angell",
+				"Kathleen L. Shea"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

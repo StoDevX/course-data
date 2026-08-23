@@ -4,36 +4,42 @@
 	"crsid": "0000001506",
 	"department": "ART",
 	"enrolled": 50,
+	"enrollment_fy": 7,
+	"enrollment_jr": 7,
+	"enrollment_so": 12,
+	"enrollment_sr": 24,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Cinema 1950-Present",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 01",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "FH 01",
-			"start": "09:35"
-		},
-		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "FH 01",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "TTh",
+			"end": "11:00",
+			"location": "FH 01",
+			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.569045+00:00",
@@ -48,6 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:22:46.539742+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.220126+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 01",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 01",
+					"start": "09:35"
+				},
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "FH 01",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

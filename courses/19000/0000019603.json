@@ -4,36 +4,37 @@
 	"crsid": "0000001230",
 	"department": "REL",
 	"enrolled": 16,
-	"instructors": [
-		"Margaret Odell"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Odell, Margaret"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5800",
+			"name": "Odell, Margaret"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_sr": 15,
 	"name": "Wisdom Literature",
 	"number": 274,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CH 110",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CH 110",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CH 110",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.665411+00:00",
@@ -57,10 +58,51 @@
 		{
 			"_updated": "2020-10-15T15:22:53.750232+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:54.808348+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Margaret Odell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CH 110",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CH 110",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CH 110",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/15",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "10/15",
 	"status": "O",
 	"term": 19961,
 	"type": "Research",

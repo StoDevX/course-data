@@ -4,30 +4,35 @@
 	"crsid": "0000001563",
 	"department": "CHIN",
 	"enrolled": 18,
-	"instructors": [
-		"Pin Pin Wan"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wan, Pin Pin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8890",
+			"name": "Wan, Pin Pin"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Contemp China/Film",
 	"number": 156,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 1",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 1",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.419152+00:00",
@@ -42,6 +47,42 @@
 		{
 			"_updated": "2020-10-15T15:23:02.048903+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.109260+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Pin Pin Wan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

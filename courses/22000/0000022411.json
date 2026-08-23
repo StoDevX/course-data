@@ -4,31 +4,40 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 28,
-	"instructors": [
-		"Mark Allister",
-		"Diana Postlethwaite"
+	"enrollment_fy": 0,
+	"enrollment_jr": 18,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Postlethwaite, Diana",
+		"Allister, Mark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6403",
+			"name": "Postlethwaite, Diana"
+		},
+		{
+			"fsnum": "110",
+			"name": "Allister, Mark"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 515",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MF",
+			"end": "0150PM",
 			"location": "L 515",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.402572+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:57.788260+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:24.981267+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mark Allister",
+				"Diana Postlethwaite"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 515",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 515",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

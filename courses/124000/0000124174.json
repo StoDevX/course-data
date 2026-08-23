@@ -1,14 +1,21 @@
 {
 	"clbid": "0000124174",
-	"credits": 0.0,
 	"crsid": "0000001077",
 	"department": "PHYS",
 	"enrolled": 11,
-	"groupid": "0000001076",
+	"enrollment_fy": 11,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Amy Larsen"
+		"Larsen, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4619",
+			"name": "Larsen, Amy"
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Analytical I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:55",
+			"end": "0455PM",
 			"location": "RNS 293",
-			"start": "14:25"
+			"start": "02:25"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-14T05:09:38.115701+00:00",
@@ -71,6 +77,35 @@
 		{
 			"_updated": "2021-03-02T16:51:47.671201+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:28.233796+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001076",
+			"instructors": [
+				"Amy Larsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:55",
+					"location": "RNS 293",
+					"start": "14:25"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

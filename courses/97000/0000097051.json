@@ -1,39 +1,38 @@
 {
 	"clbid": "0000097051",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 7,
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Stanley Trout"
+		"Trout, Stanley"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26213",
+			"name": "Trout, Stanley"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Principles Physics I Lab",
 	"notes": [
-		"Physics term dates and times are to be announced.",
-		"Physics 124/125 will be taught consecutively.",
+		"Physics term dates and times are to be announced.                               ",
+		"Physics 124/125 will be taught consecutively.                                   ",
 		"These courses will not meet regular term dates."
 	],
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "MW",
+			"end": "0330PM",
 			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:16.474286+00:00",
@@ -56,6 +55,48 @@
 		{
 			"_updated": "2021-03-02T16:51:28.875678+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:03:26.945997+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"Stanley Trout"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Physics term dates and times are to be announced.",
+				"Physics 124/125 will be taught consecutively.",
+				"These courses will not meet regular term dates."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

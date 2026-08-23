@@ -4,36 +4,36 @@
 	"crsid": "0000001198",
 	"department": "REL",
 	"enrolled": 27,
-	"instructors": [
-		"Eric Lund"
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 20,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lund, Eric"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4838",
+			"name": "Lund, Eric"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Chr Theol in History",
 	"number": 212,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "BMC 110",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "BMC 110",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "BMC 110",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.289818+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:12.214942+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.085900+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Eric Lund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

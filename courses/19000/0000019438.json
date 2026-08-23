@@ -4,10 +4,22 @@
 	"crsid": "0000002176",
 	"department": "PEAC",
 	"enrolled": 22,
-	"instructors": [
-		"Matt McDonald"
+	"enrollment_fy": 5,
+	"enrollment_jr": 8,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"McDonald, Matt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5195",
+			"name": "McDonald, Matt"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Bowling",
@@ -15,13 +27,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "NFLD BOWL",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.501811+00:00",
@@ -42,6 +53,35 @@
 			"instructors": [
 				"Matthew C. McDonald"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:56:50.139547+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matt McDonald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "NFLD BOWL",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

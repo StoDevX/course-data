@@ -4,30 +4,36 @@
 	"crsid": "0000001759",
 	"department": "GERM",
 	"enrolled": 16,
-	"instructors": [
-		"Lavern Rippley"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"FOL-G",
+		"HWC",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Rippley, Lavern"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6671",
+			"name": "Rippley, Lavern"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "German History",
 	"number": 265,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 35",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 35",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.504320+00:00",
@@ -42,6 +48,42 @@
 		{
 			"_updated": "2020-10-15T15:23:07.696145+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.547002+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lavern Rippley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 35",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 35",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

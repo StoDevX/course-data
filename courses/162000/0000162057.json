@@ -7,14 +7,24 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 26,
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 12,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Bob Hauck"
+		"Hauck, Bob"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Fitness Walking",
@@ -24,22 +34,10 @@
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "Tostrud Ctr",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "Tostrud Ctr",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "Tostrud Ctr",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -137,6 +135,46 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.016298+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "Tostrud Ctr",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "Tostrud Ctr",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "Tostrud Ctr",
+					"start": "14:00"
+				}
 			]
 		}
 	],

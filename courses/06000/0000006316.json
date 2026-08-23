@@ -4,36 +4,35 @@
 	"crsid": "0000001332",
 	"department": "SPAN",
 	"enrolled": 20,
-	"instructors": [
-		"Ariel Strichartz"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 15,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Strichartz, Ariel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14955",
+			"name": "Strichartz, Ariel"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Cult & Civ of Lat Am",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "OM 035",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "OM 035",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "OM 035",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.097339+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:13.726176+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.596829+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ariel Strichartz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "OM 035",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "OM 035",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "OM 035",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,51 +4,45 @@
 	"crsid": "0000000185",
 	"department": "CHEM",
 	"enrolled": 14,
-	"firstyear": "7/4",
-	"instructors": [
-		"Susan Green",
-		"George L. Hardgrove"
+	"enrollment_fy": 7,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NSC",
+		"NSL",
+		"WRI"
 	],
-	"junior": "1/4",
-	"learningmode": "S",
+	"instructors": [
+		"Hardgrove, George L.",
+		"Green, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3101",
+			"name": "Hardgrove, George L."
+		},
+		{
+			"fsnum": "2722",
+			"name": "Green, Susan"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 4,
+	"max_jr": 4,
+	"max_sr": 4,
 	"name": "Chem-Life's Beginning",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 374",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "11:40",
-			"location": "SC 374",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 374",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "11:40",
-			"location": "SC 374",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:40",
 			"location": "SC 374",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.079929+00:00",
@@ -76,10 +70,66 @@
 		{
 			"_updated": "2020-10-15T15:22:59.868868+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:12.731771+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/4",
+			"gereqs": null,
+			"instructors": [
+				"Susan Green",
+				"George L. Hardgrove"
+			],
+			"instructors_full": null,
+			"junior": "1/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 374",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "11:40",
+					"location": "SC 374",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 374",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "11:40",
+					"location": "SC 374",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 374",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/4",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "5/4",
 	"status": "O",
 	"term": 19982,
 	"type": "Research",

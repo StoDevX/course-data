@@ -4,30 +4,32 @@
 	"crsid": "0000000462",
 	"department": "ENVST",
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Gary Deason"
+		"Deason, Gary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1355",
+			"name": "Deason, Gary"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Saving Wild Places",
 	"number": 259,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 110",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 110",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.801586+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:50.883709+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:50.401378+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gary Deason"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 110",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 110",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

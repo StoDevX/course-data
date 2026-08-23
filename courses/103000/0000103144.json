@@ -4,10 +4,19 @@
 	"crsid": "0000029260",
 	"department": "MUSIC",
 	"enrolled": 6,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Louis K. Epstein"
+		"Epstein, Louis K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26252",
+			"name": "Epstein, Louis K."
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "FLC - French",
@@ -15,8 +24,15 @@
 		"This course will meet in HOM 213."
 	],
 	"number": 345,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "10:00",
+			"location": "",
+			"start": "09:05"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-26T04:19:11.846104+00:00",
@@ -46,6 +62,27 @@
 		{
 			"_updated": "2020-10-15T15:23:56.296680+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:50.219066+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Louis K. Epstein"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

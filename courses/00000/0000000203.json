@@ -4,30 +4,36 @@
 	"crsid": "0000000364",
 	"department": "DNCTE",
 	"enrolled": 1,
-	"instructors": [
-		"Heather J. Klopchin"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Klopchin, Heather J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10044",
+			"name": "Klopchin, Heather J."
+		}
+	],
 	"level": 300,
 	"max": 3,
 	"name": "Ballet III",
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "17:00",
+			"day": "TTh",
+			"end": "0500PM",
 			"location": "CT RHT",
-			"start": "15:30"
-		},
-		{
-			"day": "Th",
-			"end": "17:00",
-			"location": "CT RHT",
-			"start": "15:30"
+			"start": "03:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.420961+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:04.888373+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:17.119324+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather J. Klopchin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:00",
+					"location": "CT RHT",
+					"start": "15:30"
+				},
+				{
+					"day": "Th",
+					"end": "17:00",
+					"location": "CT RHT",
+					"start": "15:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

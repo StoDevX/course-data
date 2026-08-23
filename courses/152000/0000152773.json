@@ -7,14 +7,24 @@
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"Joseph R. Kronzer"
+		"Kronzer, Joseph R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "24184",
+			"name": "Kronzer, Joseph R."
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Tennis",
@@ -24,20 +34,8 @@
 	"number": 157,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "Tostrud Ctr",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "Tostrud Ctr",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "Tostrud Ctr",
 			"start": "11:50"
 		}
@@ -92,6 +90,46 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:14.276760+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"Joseph R. Kronzer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "Tostrud Ctr",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "Tostrud Ctr",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "Tostrud Ctr",
+					"start": "11:50"
+				}
 			]
 		}
 	],

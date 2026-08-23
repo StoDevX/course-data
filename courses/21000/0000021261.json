@@ -4,32 +4,36 @@
 	"crsid": "0000000333",
 	"department": "EDUC",
 	"enrolled": 5,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Char Anne Bezanson"
+		"Bezanson, Char Anne"
 	],
-	"junior": "0/20",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "557",
+			"name": "Bezanson, Char Anne"
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 0,
+	"max_sr": 15,
 	"name": "Tchg of Science",
 	"number": 364,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 210",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 210",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.006655+00:00",
@@ -61,11 +65,47 @@
 		{
 			"_updated": "2020-10-15T15:22:56.380217+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:52.281012+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Char Anne Bezanson"
+			],
+			"instructors_full": null,
+			"junior": "0/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 210",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 210",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/15",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "5/15",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19971,
 	"type": "Research",

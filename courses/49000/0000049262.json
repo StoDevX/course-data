@@ -7,25 +7,33 @@
 		"This course offers an introduction/review of fundamental skills and rules of volleyball. Students focus on basic strategy in games playing."
 	],
 	"enrolled": 23,
-	"firstyear": "1/0",
-	"instructors": [
-		"Patrice Buresh"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"PHA"
 	],
-	"junior": "6/0",
-	"learningmode": "S",
+	"instructors": [
+		"Buresh, Patrice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "865",
+			"name": "Buresh, Patrice"
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Volleyball",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SAC Ctr Gym",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "SAC Ctr Gym",
 			"start": "10:45"
@@ -54,11 +62,45 @@
 		{
 			"_updated": "2020-10-15T15:23:21.885906+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:08.283284+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Patrice Buresh"
+			],
+			"instructors_full": null,
+			"junior": "6/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SAC Ctr Gym",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SAC Ctr Gym",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "10/0",
+			"sophomore": "6/0"
 		}
 	],
 	"semester": 3,
-	"senior": "10/0",
-	"sophomore": "6/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Research",

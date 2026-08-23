@@ -4,38 +4,39 @@
 	"crsid": "0000000023",
 	"department": "ART",
 	"enrolled": 16,
-	"firstyear": "5/3",
-	"instructors": [
-		"Justin Newhall"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors": [
+		"Newhall, Justin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15064",
+			"name": "Newhall, Justin"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 3,
+	"max_jr": 2,
+	"max_so": 2,
+	"max_sr": 3,
 	"name": "Found Photography",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 102",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 102",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 102",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:56.827828+00:00",
@@ -68,12 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:23:11.919553+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.599331+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/3",
+			"gereqs": null,
+			"instructors": [
+				"Justin Newhall"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 102",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 102",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 102",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/3",
+			"sophomore": "4/2",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "5/3",
-	"sophomore": "4/2",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

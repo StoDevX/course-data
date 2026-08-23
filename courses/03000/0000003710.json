@@ -4,32 +4,46 @@
 	"crsid": "0000000052",
 	"department": "ART",
 	"enrolled": 39,
-	"firstyear": "6/7",
-	"instructors": [
-		"Randall Van Schepen"
+	"enrollment_fy": 6,
+	"enrollment_jr": 12,
+	"enrollment_so": 12,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"junior": "12/8",
-	"learningmode": "S",
+	"instructors": [
+		"Van Schepen, Randall"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14183",
+			"name": "Van Schepen, Randall"
+		}
+	],
 	"level": 200,
 	"max": 40,
+	"max_fy": 7,
+	"max_jr": 8,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Art Since 1950",
 	"number": 253,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD 305",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD 305",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.176483+00:00",
@@ -65,11 +79,48 @@
 		{
 			"_updated": "2020-10-15T15:23:10.422303+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.751184+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/7",
+			"gereqs": null,
+			"instructors": [
+				"Randall Van Schepen"
+			],
+			"instructors_full": null,
+			"junior": "12/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 305",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD 305",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/6",
+			"sophomore": "12/6",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "9/6",
-	"sophomore": "12/6",
 	"status": "O",
 	"term": 20021,
 	"type": "Research",

@@ -7,12 +7,22 @@
 		"This course extends important ideas of single-variable calculus (derivatives, integrals, graphs, approximation, optimization, fundamental theorems, etc.) to higher-dimensional settings. These extensions make calculus tools far more powerful in modeling the (multi-dimensional) real world. Topics include partial derivatives, multiple integrals, transformations, Jacobians, line and surface integrals, and the fundamental theorems of Green, Stokes, and Gauss. Offered each semester. Prerequisites: MATH 126 or MATH 128, and MATH 220."
 	],
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Bruce E. Pell"
+		"Pell, Bruce E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28155",
+			"name": "Pell, Bruce E."
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_sr": 3,
 	"name": "Multivariable Calc",
 	"notes": [
 		"Open to first-year students with permission of department chair."
@@ -20,20 +30,8 @@
 	"number": 226,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 206",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 206",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 206",
 			"start": "11:50"
 		}
@@ -85,11 +83,47 @@
 		{
 			"_updated": "2021-03-02T16:51:37.204273+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:05.620345+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Bruce E. Pell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 206",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 206",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 206",
+					"start": "11:50"
+				}
+			],
+			"senior": "3/3"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/3",
 	"status": "C",
 	"term": 20161,
 	"title": "Multivariable Calculus",

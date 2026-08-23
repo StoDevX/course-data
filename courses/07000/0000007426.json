@@ -4,10 +4,23 @@
 	"crsid": "0000001327",
 	"department": "SPAN",
 	"enrolled": 24,
-	"instructors": [
-		"Joseph McClanahan"
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-S",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"McClanahan, Joseph"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15807",
+			"name": "McClanahan, Joseph"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermed Spanish II",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 021",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 021",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.628895+00:00",
@@ -42,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:15.125797+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.474716+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joseph McClanahan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 021",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 021",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

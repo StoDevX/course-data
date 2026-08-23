@@ -1,15 +1,21 @@
 {
 	"clbid": "0000156467",
-	"credits": 0.0,
 	"crsid": "0000033747",
 	"department": "CHEM",
 	"enrolled": 16,
-	"groupid": "0000033733",
-	"grouptype": "3",
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brice Erickson"
+		"Erickson, Brice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33087",
+			"name": "Erickson, Brice"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Introductory Chemistry Discussion",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:40",
+			"end": "1240PM",
 			"location": "RNS 204",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-14T02:19:20.845606+00:00",
@@ -78,6 +83,36 @@
 			"_updated": "2024-06-26T02:30:06.960416+00:00",
 			"enrolled": 4,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.455112+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033733",
+			"grouptype": "3",
+			"instructors": [
+				"Brice Erickson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "RNS 204",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

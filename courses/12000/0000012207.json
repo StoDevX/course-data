@@ -1,29 +1,80 @@
 {
-	"clbid": 12207,
+	"clbid": "0000012207",
 	"credits": 0.25,
-	"crsid": 1005,
-	"departments": [
-		"PEAC"
+	"crsid": "0000001005",
+	"department": "PEAC",
+	"description": [
+		"Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard."
 	],
-	"description": "Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"PHA"
+	],
 	"instructors": [
-		"Robert Hauck"
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
+	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
+	"offerings": [
+		{
+			"day": "TTh",
+			"end": "0150PM",
+			"location": "SAC_POOL",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:08.601420+00:00",
+			"clbid": 12207,
+			"crsid": 1005,
+			"department": null,
+			"departments": [
+				"PEAC"
+			],
+			"description": "Current first aid/CPR certification is necessary to qualify for Red Cross certification to lifeguard.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Robert Hauck"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SAC_POOL"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"times": [
+				"TTh 1255-0150PM"
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "X",
 	"term": 20053,
-	"times": [
-		"TTh 1255-0150PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

@@ -4,42 +4,43 @@
 	"crsid": "0000001651",
 	"department": "DNCTH",
 	"enrolled": 9,
-	"instructors": [
-		"Ann (wagner) Wagner"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MCS-D",
+		"PHA",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wagner, Ann (wagner)"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "860",
+			"name": "Wagner, Ann (wagner)"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Dance/Big Band Era",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
+			"day": "MW",
+			"end": "1245PM",
 			"location": "TB Green Rm",
 			"start": "11:50"
 		},
 		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TB Green Rm",
-			"start": "11:50"
-		},
-		{
-			"day": "Tu",
-			"end": "12:45",
-			"location": "CTR ST",
-			"start": "11:50"
-		},
-		{
-			"day": "Th",
-			"end": "12:45",
+			"day": "TTh",
+			"end": "1245PM",
 			"location": "CTR ST",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.024777+00:00",
@@ -83,6 +84,52 @@
 		{
 			"_updated": "2020-10-15T15:22:56.392920+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:50.404551+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ann (wagner) Wagner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TB Green Rm",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TB Green Rm",
+					"start": "11:50"
+				},
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "CTR ST",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "12:45",
+					"location": "CTR ST",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

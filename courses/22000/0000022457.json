@@ -4,36 +4,36 @@
 	"crsid": "0000000480",
 	"department": "FREN",
 	"enrolled": 22,
-	"instructors": [
-		"Mary Cisar"
+	"enrollment_fy": 18,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-F",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cisar, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1191",
+			"name": "Cisar, Mary"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Intermed French II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "M 26",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "M 26",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "M 26",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.429783+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:57.807047+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:25.928325+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Cisar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "M 26",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "M 26",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "M 26",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

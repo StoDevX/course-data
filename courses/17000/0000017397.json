@@ -4,30 +4,32 @@
 	"crsid": "0000001176",
 	"department": "PSYCH",
 	"enrolled": 37,
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 3,
+	"enrollment_sr": 18,
 	"instructors": [
-		"Donna K. McMillan"
+		"McMillan, Donna K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5220",
+			"name": "McMillan, Donna K."
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Abnormal Psych",
 	"number": 264,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 1",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 1",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:12:47.225887+00:00",
@@ -54,6 +56,40 @@
 		{
 			"_updated": "2020-10-15T15:22:49.707870+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:23.001022+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Donna K. McMillan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

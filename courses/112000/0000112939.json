@@ -7,35 +7,45 @@
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topic is different. Offered annually."
 	],
 	"enrolled": 8,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Kosmas Diveris"
+		"Diveris, Kosmas"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23820",
+			"name": "Diveris, Kosmas"
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_so": 3,
 	"name": "Sem: Commutative Algebra",
 	"notes": [
-		"Prerequisite: MATH 252",
+		"Prerequisite: MATH 252                                                          ",
 		"This course has class-year limits."
 	],
 	"number": 382,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 184",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TOH 184",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": "MATH 252",
+	"prerequisites": "MATH 252                                                          ",
 	"revisions": [
 		{
 			"_updated": "2018-02-03T00:03:29.086797+00:00",
@@ -67,10 +77,47 @@
 		{
 			"_updated": "2020-10-15T15:24:03.474119+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.613512+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Kosmas Diveris"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: MATH 252",
+				"This course has class-year limits."
+			],
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 184",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TOH 184",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": "MATH 252",
+			"section": null,
+			"sophomore": "0/3"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/3",
 	"status": "O",
 	"term": 20171,
 	"title": "Topics in Mathematics",

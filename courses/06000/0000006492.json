@@ -4,110 +4,51 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 11,
-	"firstyear": "6/5",
-	"instructors": [
-		"Eugene Bakko"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "1/8",
-	"learningmode": "S",
+	"instructors": [
+		"Bakko, Eugene"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "325",
+			"name": "Bakko, Eugene"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 5,
+	"max_jr": 8,
+	"max_so": 14,
+	"max_sr": 6,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 129",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 129",
 			"start": "08:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 129",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.741238+00:00",
@@ -136,11 +77,126 @@
 		{
 			"_updated": "2020-10-15T15:23:14.122097+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.255619+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/5",
+			"gereqs": null,
+			"instructors": [
+				"Eugene Bakko"
+			],
+			"instructors_full": null,
+			"junior": "1/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/6",
+			"sophomore": "3/14",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "1/6",
-	"sophomore": "3/14",
 	"status": "O",
 	"term": 20032,
 	"type": "Research",

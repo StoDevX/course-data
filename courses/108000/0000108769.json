@@ -1,14 +1,21 @@
 {
 	"clbid": "0000108769",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 18,
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brianna S. Thomas"
+		"Thomas, Brianna S."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28157",
+			"name": "Thomas, Brianna S."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Principles Physics II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "RNS 292",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.944490+00:00",
@@ -77,6 +83,35 @@
 		{
 			"_updated": "2021-03-02T16:51:38.958214+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:12.187583+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Brianna S. Thomas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "RNS 292",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

@@ -7,14 +7,27 @@
 		"Organic chemistry is the study of compounds containing carbon, emphasizing the structures and mechanisms of reaction of these molecules. This course focuses on structure, nomenclature, and reactions of aliphatic and alicyclic compounds, including aspects of stereochemistry and spectroscopic identification of organic compounds. A full treatment of introductory organic chemistry requires subsequent enrollment in CHEM 248. Offered annually during Fall semester. Prerequisite: CHEM 126 or permission of instructor."
 	],
 	"enrolled": 30,
-	"firstyear": "0/0",
-	"instructors": [
-		"Maetzin Cruz Reyes"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 25,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC"
 	],
-	"junior": "3/8",
-	"learningmode": "S",
+	"instructors": [
+		"Cruz-Reyes, Maetzin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "35099",
+			"name": "Cruz-Reyes, Maetzin"
+		}
+	],
 	"level": 200,
 	"max": 38,
+	"max_fy": 0,
+	"max_jr": 8,
+	"max_sr": 2,
 	"name": "Organic Chemistry I",
 	"notes": [
 		"Students in Chem 247 must also register for a Chem 253 lab."
@@ -22,19 +35,7 @@
 	"number": 247,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 290",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 290",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 290",
 			"start": "10:45"
@@ -168,11 +169,50 @@
 		{
 			"_updated": "2025-10-11T21:36:51.814623+00:00",
 			"enrolled": 33
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.067092+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Maetzin Cruz Reyes"
+			],
+			"instructors_full": null,
+			"junior": "3/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 290",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 290",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 290",
+					"start": "10:45"
+				}
+			],
+			"senior": "2/2"
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"senior": "2/2",
 	"status": "O",
 	"term": 20251,
 	"type": "Research",

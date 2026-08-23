@@ -4,31 +4,35 @@
 	"crsid": "0000000036",
 	"department": "ART",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Irve Dell"
+		"Dell, Irve"
 	],
-	"junior": "3/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1369",
+			"name": "Dell, Irve"
+		}
+	],
 	"level": 200,
 	"max": 10,
+	"max_jr": 4,
+	"max_so": 5,
+	"max_sr": 2,
 	"name": "Sculpt: Direct Metal",
 	"number": 234,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
-			"location": "FH 18",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH 18",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.485824+00:00",
@@ -56,11 +60,46 @@
 		{
 			"_updated": "2020-10-15T15:22:54.788986+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:06.784296+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Irve Dell"
+			],
+			"instructors_full": null,
+			"junior": "3/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH 18",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH 18",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/2",
+			"sophomore": "6/5",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/2",
-	"sophomore": "6/5",
 	"status": "C",
 	"term": 19963,
 	"type": "Research",

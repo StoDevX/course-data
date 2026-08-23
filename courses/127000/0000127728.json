@@ -1,14 +1,21 @@
 {
 	"clbid": "0000127728",
-	"credits": 0.0,
 	"crsid": "0000000131",
 	"department": "BIO",
 	"enrolled": 19,
-	"groupid": "0000000130",
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Emily Mohl"
+		"Mohl, Emily"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25351",
+			"name": "Mohl, Emily"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Invertebrate Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 246",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-10-04T07:12:53.904526+00:00",
@@ -73,6 +79,36 @@
 		{
 			"_updated": "2021-03-02T16:51:49.947777+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.518308+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000130",
+			"instructors": [
+				"Emily Mohl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 246",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

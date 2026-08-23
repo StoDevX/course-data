@@ -4,30 +4,32 @@
 	"crsid": "0000001093",
 	"department": "PHYS",
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Maxwell's Equations",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 129",
-			"start": "09:30"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 129",
 			"start": "09:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:13:08.639655+00:00",
@@ -54,6 +56,40 @@
 		{
 			"_updated": "2020-10-15T15:22:55.020673+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:35.821161+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 129",
+					"start": "09:30"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 129",
+					"start": "09:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

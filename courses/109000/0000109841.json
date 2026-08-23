@@ -1,36 +1,90 @@
 {
-	"clbid": 109841,
-	"credits": 0.0,
-	"crsid": 123,
-	"departments": [
-		"BIO"
-	],
-	"groupid": 122,
+	"clbid": "0000109841",
+	"crsid": "0000000123",
+	"department": "BIO",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kimberly A. Kandl",
-		"Jean C. Porterfield",
-		"Sara E. Fruehling"
+		"Porterfield, Jean C.",
+		"Kandl, Kim A.",
+		"Fruehling, Sara E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		},
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		},
+		{
+			"fsnum": "17588",
+			"name": "Fruehling, Sara E."
+		}
 	],
 	"level": 200,
-	"locations": [
-		"RNS 394"
-	],
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
+	"offerings": [
+		{
+			"day": "TTh",
+			"end": "11:30",
+			"location": "RNS 394",
+			"start": "08:30"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-06-25T06:18:30.822741+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:03:58.938151+00:00",
+			"clbid": 109841,
+			"credits": 0.0,
+			"crsid": 123,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 122,
+			"instructors": [
+				"Kimberly A. Kandl",
+				"Jean C. Porterfield",
+				"Sara E. Fruehling"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 394"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"TTh 0830-1130"
+			],
+			"title": null
 		}
 	],
 	"semester": 4,
 	"status": "X",
 	"term": 20154,
-	"times": [
-		"TTh 0830-1130"
-	],
 	"type": "Lab",
 	"year": 2015
 }

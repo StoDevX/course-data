@@ -4,38 +4,39 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 4,
-	"firstyear": "1/16",
-	"instructors": [
-		"Mary Griep"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors": [
+		"Griep, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2757",
+			"name": "Griep, Mary"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 16,
+	"max_jr": 3,
+	"max_so": 9,
+	"max_sr": 2,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH 42",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH 42",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH 42",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.620875+00:00",
@@ -64,12 +65,54 @@
 		{
 			"_updated": "2020-10-15T15:22:50.761095+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:42.016995+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/16",
+			"gereqs": null,
+			"instructors": [
+				"Mary Griep"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH 42",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH 42",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH 42",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/2",
+			"sophomore": "1/9",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "0/2",
-	"sophomore": "1/9",
 	"status": "O",
 	"term": 19953,
 	"type": "Research",

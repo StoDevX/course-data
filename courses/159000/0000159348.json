@@ -1,15 +1,26 @@
 {
 	"clbid": "0000159348",
-	"credits": 0.0,
 	"crsid": "0000027684",
 	"department": "MATH",
 	"enrolled": 15,
-	"groupid": "0000000743",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Norman Lee",
-		"Anna K. Kraut"
+		"Kraut, Anna K.",
+		"Lee, Norman"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002458",
+			"name": "Kraut, Anna K."
+		},
+		{
+			"fsnum": "29095",
+			"name": "Lee, Norman"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Math of Biology Lab",
@@ -17,13 +28,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 394",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-04-25T02:22:27.771649+00:00",
@@ -89,6 +99,37 @@
 		{
 			"_updated": "2024-12-29T02:56:22.135409+00:00",
 			"enrolled": 14
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.039574+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000743",
+			"instructors": [
+				"Norman Lee",
+				"Anna K. Kraut"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

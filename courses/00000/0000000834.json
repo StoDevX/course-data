@@ -4,48 +4,36 @@
 	"crsid": "0000000422",
 	"department": "ENGL",
 	"enrolled": 10,
-	"instructors": [
-		"Richard DuRocher"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-L"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"DuRocher, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1548",
+			"name": "DuRocher, Richard"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_sr": 10,
 	"name": "Utopias",
 	"number": 272,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "L 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "L 420",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "L 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "L 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "L 420",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.499139+00:00",
@@ -69,10 +57,63 @@
 		{
 			"_updated": "2020-10-15T15:23:05.467358+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.285829+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard DuRocher"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "L 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "L 420",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "L 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "L 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "L 420",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/10",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "3/10",
 	"status": "O",
 	"term": 20002,
 	"type": "Research",

@@ -4,48 +4,36 @@
 	"crsid": "0000001194",
 	"department": "REL",
 	"enrolled": 21,
-	"instructors": [
-		"Mark A. Granquist"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 10,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Granquist, Mark A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2683",
+			"name": "Granquist, Mark A."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "The Greats",
 	"number": 203,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "CH 110",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "CH 110",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.174387+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:22:59.930617+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:14.934431+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mark A. Granquist"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CH 110",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

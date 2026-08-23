@@ -4,30 +4,35 @@
 	"crsid": "0000001002",
 	"department": "PEAC",
 	"enrolled": 25,
-	"instructors": [
-		"Lori Cooling"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 4,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cooling, Lori"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4816",
+			"name": "Cooling, Lori"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Volleyball",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC CTR GYM",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SAC CTR GYM",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.601801+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:05.009373+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.681405+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lori Cooling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC CTR GYM",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC CTR GYM",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

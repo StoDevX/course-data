@@ -4,36 +4,31 @@
 	"crsid": "0000000712",
 	"department": "LATIN",
 	"enrolled": 20,
+	"enrollment_fy": 12,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Gwendolyn Compton-Engle"
+		"Compton-Engle, Gwendolyn"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1216",
+			"name": "Compton-Engle, Gwendolyn"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Beginning Latin II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "M 31",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "M 31",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "M 31",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.754831+00:00",
@@ -48,6 +43,46 @@
 		{
 			"_updated": "2020-10-15T15:23:00.660518+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:23.527797+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gwendolyn Compton-Engle"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "M 31",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "M 31",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "M 31",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

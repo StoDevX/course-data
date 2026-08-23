@@ -4,10 +4,19 @@
 	"crsid": "0000000333",
 	"department": "EDUC",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Char Anne Bezanson"
+		"Bezanson, Char Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "557",
+			"name": "Bezanson, Char Anne"
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "Tchg of Science",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "FH 10L",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.193698+00:00",
@@ -36,6 +44,34 @@
 		{
 			"_updated": "2020-10-15T15:23:14.871248+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.707648+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Char Anne Bezanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "22:00",
+					"location": "FH 10L",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

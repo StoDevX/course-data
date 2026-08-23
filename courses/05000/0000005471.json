@@ -4,11 +4,27 @@
 	"crsid": "0000001379",
 	"department": "THEAT",
 	"enrolled": 21,
-	"instructors": [
-		"James McKeel",
-		"Dona W. Freeman"
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 3,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Freeman, Dona W.",
+		"McKeel, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8982",
+			"name": "Freeman, Dona W."
+		},
+		{
+			"fsnum": "5210",
+			"name": "McKeel, James"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Acting--Lyric Stage",
@@ -16,19 +32,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CHM URNESS",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CHM URNESS",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.368419+00:00",
@@ -43,6 +58,42 @@
 		{
 			"_updated": "2020-10-15T15:23:12.248902+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.109044+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James McKeel",
+				"Dona W. Freeman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CHM URNESS",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CHM URNESS",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

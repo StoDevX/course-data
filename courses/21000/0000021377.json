@@ -4,36 +4,31 @@
 	"crsid": "0000000505",
 	"department": "GERM",
 	"enrolled": 22,
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Norman M. Watt"
+		"Watt, Norman M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8896",
+			"name": "Watt, Norman M."
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Beginning German II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 30",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 30",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "M 30",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.077717+00:00",
@@ -48,6 +43,47 @@
 		{
 			"_updated": "2020-10-15T15:22:56.428721+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.233774+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Norman M. Watt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 30",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 30",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 30",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

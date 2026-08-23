@@ -4,30 +4,31 @@
 	"crsid": "0000000749",
 	"department": "MATH",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Arnold Ostebee"
+		"Ostebee, Arnold"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5963",
+			"name": "Ostebee, Arnold"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Operations Research",
 	"number": 266,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 184",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 184",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.502808+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:22:57.857175+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:27.820390+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Arnold Ostebee"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

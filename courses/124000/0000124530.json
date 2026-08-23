@@ -1,16 +1,15 @@
 {
 	"clbid": "0000124530",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
-	"enrolled": 6,
-	"firstyear": "0/0",
-	"groupid": "0000000126",
-	"instructors": [
-		"Sarah Amugongo"
-	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"level": 200,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Human Anatomy & Physiology Lab",
 	"notes": [
 		"This lab has been canceled."
@@ -19,13 +18,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
-			"location": "RNS 254",
-			"start": "13:20"
+			"end": "0420PM",
+			"location": "TBA",
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-04-18T05:38:38.475974+00:00",
@@ -59,11 +57,41 @@
 					"start": "13:20"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.712314+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 6,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000126",
+			"instructors": [
+				"Sarah Amugongo"
+			],
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 254",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"status": "C",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20191,
 	"type": "Lab",
 	"year": 2019

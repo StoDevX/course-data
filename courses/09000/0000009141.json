@@ -4,32 +4,45 @@
 	"crsid": "0000000025",
 	"department": "ART",
 	"enrolled": 14,
-	"firstyear": "2/1",
-	"instructors": [
-		"Patrick T. Kelley"
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/0",
-	"learningmode": "S",
+	"instructors": [
+		"Kelley, Patrick T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14002",
+			"name": "Kelley, Patrick T."
+		}
+	],
 	"level": 100,
 	"max": 11,
+	"max_fy": 1,
+	"max_jr": 0,
+	"max_so": 4,
+	"max_sr": 0,
 	"name": "Found Digital Media",
 	"number": 117,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD 100",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD 100",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.623001+00:00",
@@ -68,11 +81,48 @@
 		{
 			"_updated": "2020-10-15T15:23:18.046334+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.594124+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/1",
+			"gereqs": null,
+			"instructors": [
+				"Patrick T. Kelley"
+			],
+			"instructors_full": null,
+			"junior": "5/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 100",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD 100",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"sophomore": "4/4",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/0",
-	"sophomore": "4/4",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

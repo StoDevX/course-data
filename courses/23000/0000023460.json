@@ -4,30 +4,35 @@
 	"crsid": "0000000486",
 	"department": "FREN",
 	"enrolled": 9,
-	"instructors": [
-		"M. Clare Mather"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"FOL-F"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Mather, M. Clare"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5116",
+			"name": "Mather, M. Clare"
+		}
+	],
 	"level": 200,
 	"max": 32,
 	"name": "Fr World: Quebec",
 	"number": 271,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 26",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 26",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.196052+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:59.311993+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.371403+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"M. Clare Mather"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 26",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 26",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

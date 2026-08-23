@@ -4,60 +4,38 @@
 	"crsid": "0000002156",
 	"department": "PHIL",
 	"enrolled": 18,
+	"enrollment_fy": 11,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
-		"William Narum"
+		"Narum, William"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "446",
+			"name": "Narum, William"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Phil of C.S. Lewis",
 	"number": 127,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 317",
 			"start": "10:40"
 		},
 		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "L 520",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
+			"day": "TTh",
+			"end": "1240PM",
 			"location": "L 520",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.335368+00:00",
@@ -72,6 +50,70 @@
 		{
 			"_updated": "2020-10-15T15:22:54.180190+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:03.516320+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"William Narum"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "L 520",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "L 520",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -4,36 +4,32 @@
 	"crsid": "0000000815",
 	"department": "MUSIC",
 	"enrolled": 22,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 18,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Catherine R. Rodland"
+		"Rodland, Catherine R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13173",
+			"name": "Rodland, Catherine R."
+		}
+	],
 	"level": 200,
 	"max": 23,
 	"name": "Ear/Keyboard III",
 	"number": 211,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CHM 232",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CHM 232",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CHM 232",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.599969+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:16.630679+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:47.112440+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Catherine R. Rodland"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 232",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 232",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CHM 232",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,49 +4,36 @@
 	"crsid": "0000000769",
 	"department": "MGMT",
 	"enrolled": 24,
-	"firstyear": "5/4",
-	"instructors": [
-		"Gary C. Gisselman"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gisselman, Gary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10426",
+			"name": "Gisselman, Gary C."
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 4,
 	"name": "Arts Management",
 	"number": 229,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Tu",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "We",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Th",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Fr",
-			"end": "12:30",
+			"day": "M-F",
+			"end": "1230PM",
 			"location": "H 413",
 			"start": "10:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.529798+00:00",
@@ -70,6 +57,60 @@
 		{
 			"_updated": "2020-10-15T15:23:05.487932+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.299144+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/4",
+			"gereqs": null,
+			"instructors": [
+				"Gary C. Gisselman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Tu",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "We",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Fr",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

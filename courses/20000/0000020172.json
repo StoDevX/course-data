@@ -4,36 +4,32 @@
 	"crsid": "0000001573",
 	"department": "ECON",
 	"enrolled": 25,
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 12,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Mary Ann Emery"
+		"Emery, Mary Ann"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1746",
+			"name": "Emery, Mary Ann"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Principles of Acct",
 	"number": 225,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "H 301",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "H 301",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "H 301",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.564452+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:54.842253+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:09.947081+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Ann Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "H 301",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "H 301",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "H 301",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

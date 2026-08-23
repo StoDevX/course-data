@@ -7,23 +7,30 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 26,
-	"instructors": [
-		"Philip Lundin"
+	"enrollment_fy": 3,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lundin, Philip"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "20235",
+			"name": "Lundin, Philip"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC Gym South",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC Gym South",
 			"start": "08:00"
@@ -66,6 +73,37 @@
 			"_updated": "2025-10-11T21:36:20.361943+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:55.754371+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Philip Lundin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC Gym South",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC Gym South",
+					"start": "08:00"
+				}
 			]
 		}
 	],

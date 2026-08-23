@@ -1,14 +1,21 @@
 {
 	"clbid": "0000130731",
-	"credits": 0.0,
 	"crsid": "0000026713",
 	"department": "BIO",
 	"enrolled": 22,
-	"groupid": "0000026712",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 19,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Steven Cole"
+		"Cole, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26217",
+			"name": "Cole, Steven"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Human Anatomy & Physiology I Lab",
@@ -19,13 +26,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "19:00",
+			"end": "0700PM",
 			"location": "RNS 398",
-			"start": "16:00"
+			"start": "04:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-13T08:22:53.517940+00:00",
@@ -159,6 +165,35 @@
 		{
 			"_updated": "2021-03-02T16:51:51.455131+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.416593+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026712",
+			"instructors": [
+				"Steven Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "19:00",
+					"location": "RNS 398",
+					"start": "16:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

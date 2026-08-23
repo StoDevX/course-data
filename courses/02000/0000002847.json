@@ -4,30 +4,35 @@
 	"crsid": "0000000047",
 	"department": "ART",
 	"enrolled": 12,
-	"instructors": [
-		"David E. Ryan"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Ryan, David E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13038",
+			"name": "Ryan, David E."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Video Art Production",
 	"number": 239,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CAD 100",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CAD 100",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:19.252608+00:00",
@@ -48,6 +53,41 @@
 		{
 			"_updated": "2020-10-15T15:23:08.920133+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.307097+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David E. Ryan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CAD 100",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CAD 100",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

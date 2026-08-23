@@ -4,10 +4,23 @@
 	"crsid": "0000000406",
 	"department": "ENGL",
 	"enrolled": 32,
-	"instructors": [
-		"Jan C. Hill"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 30,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jan C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "109",
+			"name": "Hill, Jan C."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Children's Literature",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RML 515",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RML 515",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.296724+00:00",
@@ -42,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:16.510292+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.729534+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jan C. Hill"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RML 515",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RML 515",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -6,15 +6,25 @@
 	"description": [
 		"This course introduces students to the essential modeling techniques of formulation, implementation, validation, and analysis. Students engage in these areas by combining experiment, mathematical theory, statistics, and computation to better understand a wide variety of biological systems. Offered annually in the spring semester. Prerequisite: MATH 126 or MATH 128, and familiarity with R programming (BIO 150 or SDS 172 or CSCI 125 or equivalent programming experience)."
 	],
-	"enrolled": 13,
+	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000000743",
 	"instructors": [
-		"Erin M. Ellefsen"
+		"Ellefsen, Erin M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002457",
+			"name": "Ellefsen, Erin M."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Math of Biology",
@@ -24,14 +34,8 @@
 	"number": 236,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 186",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MF",
+			"end": "0150PM",
 			"location": "TOH 186",
 			"start": "12:55"
 		}
@@ -91,6 +95,42 @@
 					"start": "12:55"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:52.729009+00:00",
+			"enrolled": 13,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000000743",
+			"instructors": [
+				"Erin M. Ellefsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

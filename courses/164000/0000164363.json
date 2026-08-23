@@ -1,14 +1,21 @@
 {
 	"clbid": "0000164363",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
-	"enrolled": 25,
-	"groupid": "0000000194",
+	"enrolled": 23,
+	"enrollment_fy": 10,
+	"enrollment_jr": 2,
+	"enrollment_so": 11,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Maraia Ener-Goetz"
+		"Ener-Goetz, Maraia"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "36054",
+			"name": "Ener-Goetz, Maraia"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:46.257464+00:00",
@@ -63,6 +69,36 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:37.999354+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 25,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Maraia Ener-Goetz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

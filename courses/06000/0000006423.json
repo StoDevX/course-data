@@ -4,68 +4,45 @@
 	"crsid": "0000000104",
 	"department": "BIO",
 	"enrolled": 26,
-	"firstyear": "7/6",
-	"instructors": [
-		"Diane M. Maher"
+	"enrollment_fy": 7,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"NSC"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors": [
+		"Maher, Diane M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15714",
+			"name": "Maher, Diane M."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 9,
+	"max_sr": 6,
 	"name": "The Biology of Women",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "MTThF",
+			"end": "0300PM",
+			"location": "SC 278",
+			"start": "01:00"
+		},
+		{
+			"day": "MTThF",
+			"end": "1200PM",
 			"location": "SC 274",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 278",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 278",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 278",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 278",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.694338+00:00",
@@ -94,12 +71,84 @@
 		{
 			"_updated": "2020-10-15T15:23:14.093998+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.236648+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/6",
+			"gereqs": null,
+			"instructors": [
+				"Diane M. Maher"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 278",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 278",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 278",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 278",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "8/6",
+			"sophomore": "7/9",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 2,
-	"senior": "8/6",
-	"sophomore": "7/9",
 	"status": "C",
 	"term": 20032,
 	"type": "Research",

@@ -4,17 +4,33 @@
 	"crsid": "0000000701",
 	"department": "ID",
 	"enrolled": 41,
-	"instructors": [
-		"Lavern Rippley",
-		"Steve Soderlind"
+	"enrollment_fy": 0,
+	"enrollment_jr": 20,
+	"enrollment_so": 9,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Rippley, Lavern",
+		"Soderlind, Steve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6671",
+			"name": "Rippley, Lavern"
+		},
+		{
+			"fsnum": "7636",
+			"name": "Soderlind, Steve"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "The Mare Balticum",
 	"number": 249,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.520928+00:00",
@@ -29,6 +45,29 @@
 		{
 			"_updated": "2020-10-15T15:23:05.482140+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.295018+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lavern Rippley",
+				"Steve Soderlind"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -1,29 +1,35 @@
 {
 	"clbid": "0000118426",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 16,
-	"firstyear": "0/0",
-	"groupid": "0000026714",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 3,
 	"instructors": [
-		"John Giannini"
+		"Giannini, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Cell Biology Lab",
 	"number": 227,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 394",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-21T02:21:20.011700+00:00",
@@ -83,6 +89,36 @@
 		{
 			"_updated": "2021-03-02T16:51:43.963166+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.748328+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000026714",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 394",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

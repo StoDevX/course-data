@@ -4,30 +4,35 @@
 	"crsid": "0000000355",
 	"department": "DNCTE",
 	"enrolled": 17,
-	"instructors": [
-		"Ann (wagner) Wagner"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wagner, Ann (wagner)"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "860",
+			"name": "Wagner, Ann (wagner)"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Ballroom II (Men)",
 	"number": 107,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SAC",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.754730+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:22:50.855805+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:46.061721+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ann (wagner) Wagner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

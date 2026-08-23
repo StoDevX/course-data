@@ -4,38 +4,40 @@
 	"crsid": "0000001374",
 	"department": "THEAT",
 	"enrolled": 25,
-	"firstyear": "1/0",
-	"instructors": [
-		"Karen Wilson"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 1,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"ALS-A",
+		"ORC"
 	],
-	"junior": "6/0",
-	"learningmode": "S",
+	"instructors": [
+		"Wilson, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9093",
+			"name": "Wilson, Karen"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 14,
 	"name": "Oral Interpretation",
 	"number": 100,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CT 216",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CT 216",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CT 216",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.545287+00:00",
@@ -65,11 +67,54 @@
 		{
 			"_updated": "2020-10-15T15:23:02.288375+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:57.269334+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Karen Wilson"
+			],
+			"instructors_full": null,
+			"junior": "6/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CT 216",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CT 216",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CT 216",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "17/14",
+			"sophomore": "1/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "17/14",
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

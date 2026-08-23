@@ -4,31 +4,38 @@
 	"crsid": "0000000418",
 	"department": "ENGL",
 	"enrolled": 17,
-	"instructors": [
-		"Jon Eric Nelson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 9,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors": [
+		"Nelson, Jon Eric"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5506",
+			"name": "Nelson, Jon Eric"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_jr": 6,
+	"max_so": 7,
+	"max_sr": 6,
 	"name": "Creative Writing I",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 420",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 420",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.172573+00:00",
@@ -56,12 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.296947+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.360984+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jon Eric Nelson"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/6",
+			"sophomore": "9/7",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/6",
-	"sophomore": "9/7",
 	"status": "C",
 	"term": 19981,
 	"type": "Research",

@@ -7,17 +7,26 @@
 		"May be repeated if topic is different."
 	],
 	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Sarah V. Zager"
+		"Zager, Sarah V."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34025",
+			"name": "Zager, Sarah V."
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Sem: Judaism & Reproductive Ethics",
 	"notes": [
-		"Prerequisite: prior completion of RFV.",
-		"Open only to seniors and juniors. Sophomores will need the permission of the",
+		"Open only to seniors and juniors. Sophomores will need the permission of the    ",
 		"instructor to register."
 	],
 	"number": 390,
@@ -36,7 +45,7 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": "prior completion of RFV.",
+	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-24T02:29:42.154099+00:00",
@@ -49,11 +58,36 @@
 		{
 			"_updated": "2025-10-31T02:33:07.489959+00:00",
 			"name": "Sem: Judaism & Reproductive Rights"
+		},
+		{
+			"_updated": "2026-08-23T03:06:03.684547+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Sarah V. Zager"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: prior completion of RFV.",
+				"Open only to seniors and juniors. Sophomores will need the permission of the",
+				"instructor to register."
+			],
+			"prerequisites": "prior completion of RFV.",
+			"section": null,
+			"sophomore": "0/0",
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
-	"status": "O",
+	"status": "X",
 	"term": 20253,
 	"title": "History of Religions Seminar",
 	"type": "Seminar",

@@ -4,30 +4,36 @@
 	"crsid": "0000000347",
 	"department": "DNCTE",
 	"enrolled": 26,
-	"instructors": [
-		"Ann (wagner) Wagner"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wagner, Ann (wagner)"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "860",
+			"name": "Wagner, Ann (wagner)"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Ballroom I (Women)",
 	"number": 106,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:55",
+			"day": "TTh",
+			"end": "0255PM",
 			"location": "SAC S GYM",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "14:55",
-			"location": "SAC S GYM",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.013655+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:56.385231+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:49.780335+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ann (wagner) Wagner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "SAC S GYM",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:55",
+					"location": "SAC S GYM",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

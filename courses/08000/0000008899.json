@@ -4,48 +4,35 @@
 	"crsid": "0000000823",
 	"department": "MUSIC",
 	"enrolled": 22,
-	"instructors": [
-		"Justin W. Merritt"
+	"enrollment_fy": 5,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Merritt, Justin W."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16664",
+			"name": "Merritt, Justin W."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Music/Electronic Med",
 	"number": 225,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "CHM 224",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.740761+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:23:17.329032+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:49.491712+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Justin W. Merritt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

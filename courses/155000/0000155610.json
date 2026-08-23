@@ -7,13 +7,23 @@
 		"Selected topics in historical studies, depending on instructor. Offered periodically. Prerequisite: first-year student standing."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 6,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 9,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Andrew J. Meyer"
+		"Meyer, Andrew J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35069",
+			"name": "Meyer, Andrew J."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Top: Arctic Passages",
@@ -21,13 +31,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 108",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TOH 108",
 			"start": "12:45"
 		}
@@ -111,6 +121,39 @@
 			"gereqs": [
 				"HWC",
 				"GHS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.927046+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Andrew J. Meyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 108",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TOH 108",
+					"start": "12:45"
+				}
 			]
 		}
 	],

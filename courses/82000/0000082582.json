@@ -7,10 +7,19 @@
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topics are different. Offered most years."
 	],
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
 	"max": 0,
 	"name": "Sem: Pure",
@@ -20,19 +29,7 @@
 	"number": 382,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "TOH 184",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "TOH 184",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "TOH 184",
 			"start": "08:00"
@@ -62,6 +59,39 @@
 		{
 			"_updated": "2021-03-02T16:51:21.533300+00:00",
 			"max": 18
+		},
+		{
+			"_updated": "2026-08-23T03:02:50.713999+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				}
+			]
 		}
 	],
 	"section": "B",

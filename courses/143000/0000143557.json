@@ -7,13 +7,25 @@
 		"This course builds on the concepts and components of DANCE 111 Modern Dance I and DANCE 210 Modern Dance II and DANCE 211 Modern Dance II. Offered each semester. Prerequisite: DANCE 210 or DANCE 211 for at least two terms with two different instructors or permission of the instructor."
 	],
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"ALS-A",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Mathew Janczewski"
+		"Janczewski, Mathew"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30210",
+			"name": "Janczewski, Mathew"
+		}
+	],
 	"level": 300,
 	"max": 3,
 	"name": "Modern III",
@@ -23,22 +35,10 @@
 	"number": 310,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "MWF",
+			"end": "0330PM",
 			"location": "CAD Studio 1",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "CAD Studio 1",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "CAD Studio 1",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -51,6 +51,46 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:56.466621+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Mathew Janczewski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "CAD Studio 1",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "CAD Studio 1",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "CAD Studio 1",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

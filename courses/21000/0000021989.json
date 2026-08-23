@@ -4,80 +4,45 @@
 	"crsid": "0000000412",
 	"department": "ENGL",
 	"enrolled": 23,
-	"firstyear": "2/5",
-	"instructors": [
-		"David Wee"
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"junior": "5/20",
-	"learningmode": "S",
+	"instructors": [
+		"Wee, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8901",
+			"name": "Wee, David"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 5,
+	"max_jr": 20,
+	"max_sr": 5,
 	"name": "Baseball/Amer Values",
 	"number": 248,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "L 525",
 			"start": "08:30"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "08:30"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "L 525",
-			"start": "10:45"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "L 525",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "L 525",
-			"start": "10:45"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "L 525",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "L 525",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.077391+00:00",
@@ -105,10 +70,95 @@
 		{
 			"_updated": "2020-10-15T15:22:57.039128+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.427505+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/5",
+			"gereqs": null,
+			"instructors": [
+				"David Wee"
+			],
+			"instructors_full": null,
+			"junior": "5/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "08:30"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "L 525",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "L 525",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "L 525",
+					"start": "10:45"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "L 525",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "L 525",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/5",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "8/5",
 	"status": "C",
 	"term": 19972,
 	"type": "Research",

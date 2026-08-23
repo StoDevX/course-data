@@ -1,14 +1,21 @@
 {
 	"clbid": "0000105594",
-	"credits": 0.0,
 	"crsid": "0000000103",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000000102",
+	"enrollment_fy": 5,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Kevin B. Potts"
+		"Potts, Kevin B."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28156",
+			"name": "Potts, Kevin B."
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Human Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "RNS 254",
-			"start": "15:15"
+			"start": "03:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.247563+00:00",
@@ -62,6 +68,35 @@
 		{
 			"_updated": "2021-03-02T16:51:37.100033+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:02.655288+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000102",
+			"instructors": [
+				"Kevin B. Potts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:15",
+					"location": "RNS 254",
+					"start": "15:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

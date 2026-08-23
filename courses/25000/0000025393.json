@@ -4,36 +4,37 @@
 	"crsid": "0000000371",
 	"department": "DNCTH",
 	"enrolled": 15,
-	"instructors": [
-		"Heather J. Klopchin"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Klopchin, Heather J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10044",
+			"name": "Klopchin, Heather J."
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Dance in America",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CT GREEN RM",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CT GREEN RM",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CT GREEN RM",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.519867+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:02.082028+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.117064+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather J. Klopchin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CT GREEN RM",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

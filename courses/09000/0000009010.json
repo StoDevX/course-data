@@ -4,78 +4,41 @@
 	"crsid": "0000001402",
 	"department": "STAT",
 	"enrolled": 29,
-	"instructors": [
-		"Karen Roback"
+	"enrollment_fy": 22,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roback, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17367",
+			"name": "Roback, Karen"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Prin of Statistics",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0330PM",
+			"location": "RML 477",
+			"start": "02:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 186",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 186",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 186",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 186",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 186",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:30",
-			"location": "RML 477",
-			"start": "14:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "RML 477",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "RML 477",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "RML 477",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "RML 477",
-			"start": "14:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.820788+00:00",
@@ -90,6 +53,89 @@
 		{
 			"_updated": "2020-10-15T15:23:17.374582+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:50.444110+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Roback"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 186",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 186",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 186",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 186",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 186",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RML 477",
+					"start": "14:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "RML 477",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "RML 477",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "RML 477",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "RML 477",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

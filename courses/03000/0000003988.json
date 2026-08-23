@@ -4,30 +4,41 @@
 	"crsid": "0000000527",
 	"department": "GERM",
 	"enrolled": 11,
-	"instructors": [
-		"Frederike Von Schwerin-High"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"FOL-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Von Schwerin-High, Frederike"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8820",
+			"name": "Von Schwerin-High, Frederike"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "German Short Story",
 	"number": 375,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "M 35",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "M 35",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.604854+00:00",
@@ -42,6 +53,42 @@
 		{
 			"_updated": "2020-10-15T15:23:10.548983+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.451243+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 35",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "M 35",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

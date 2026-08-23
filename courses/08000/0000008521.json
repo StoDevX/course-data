@@ -4,10 +4,22 @@
 	"crsid": "0000001390",
 	"department": "THEAT",
 	"enrolled": 3,
-	"instructors": [
-		"Brian Bjorklund"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bjorklund, Brian"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "611",
+			"name": "Bjorklund, Brian"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Th Prac: Computer Dsn",
@@ -15,13 +27,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "CAD 116",
-			"start": "15:05"
+			"start": "03:05"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:12.117919+00:00",
@@ -42,6 +53,34 @@
 		{
 			"_updated": "2020-10-15T15:23:16.789355+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.750233+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Brian Bjorklund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:00",
+					"location": "CAD 116",
+					"start": "15:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

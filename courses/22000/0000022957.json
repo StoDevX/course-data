@@ -4,32 +4,36 @@
 	"crsid": "0000001365",
 	"department": "SWRK",
 	"enrolled": 11,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Naurine Lennox"
+		"Lennox, Naurine"
 	],
-	"junior": "11/15",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4761",
+			"name": "Lennox, Naurine"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 15,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Eval/SW Prac & Prog",
 	"number": 274,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:00",
-			"location": "L 177",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
+			"day": "TTh",
+			"end": "0100PM",
 			"location": "L 177",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.714345+00:00",
@@ -59,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:22:57.996145+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:45.306478+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Naurine Lennox"
+			],
+			"instructors_full": null,
+			"junior": "11/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:00",
+					"location": "L 177",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "L 177",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "0/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "0/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19973,
 	"type": "Research",

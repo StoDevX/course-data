@@ -4,30 +4,35 @@
 	"crsid": "0000001011",
 	"department": "PEAC",
 	"enrolled": 28,
-	"instructors": [
-		"Lori Cooling"
+	"enrollment_fy": 16,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cooling, Lori"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4816",
+			"name": "Cooling, Lori"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Aerobics",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC S GYM",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC S GYM",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.334756+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:59.401909+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:03.667277+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lori Cooling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC S GYM",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC S GYM",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

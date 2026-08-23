@@ -7,33 +7,38 @@
 		"This course introduces students to the essential modeling techniques of formulation, implentation, validation, and analysis. Students engage in these areas by combining experiment, mathematical theory, statistics, and computation to better understand a wide variety of biological systems. Offered annually in the spring semester. Also counts toward neuroscience and mathematical biology concentrations. Prerequisite: MATH 126 or MATH 128, and MATH 220."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000000743",
 	"instructors": [
-		"Sara Clifton"
+		"Clifton, Sara"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30108",
+			"name": "Clifton, Sara"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_sr": 3,
 	"name": "Math of Biology",
 	"notes": [
-		"Students in Math 236 must also register for lab Math 236 L.",
-		"This course is open to a limited number of seniors.",
+		"Students in Math 236 must also register for lab Math 236 L.                     ",
+		"This course is open to a limited number of seniors.                             ",
 		"Please note the recent class day change."
 	],
 	"number": 236,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 186",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MF",
+			"end": "0150PM",
 			"location": "TOH 186",
 			"start": "12:55"
 		}
@@ -104,10 +109,50 @@
 				"SED",
 				"NTS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:47.375506+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000000743",
+			"instructors": [
+				"Sara Clifton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Math 236 must also register for lab Math 236 L.",
+				"This course is open to a limited number of seniors.",
+				"Please note the recent class day change."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"senior": "4/3"
 		}
 	],
 	"semester": 3,
-	"senior": "4/3",
 	"status": "C",
 	"term": 20213,
 	"title": "Mathematics of Biology",

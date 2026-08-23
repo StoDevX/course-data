@@ -4,14 +4,28 @@
 	"crsid": "0000000792",
 	"department": "MEDIA",
 	"enrolled": 32,
-	"firstyear": "6/8",
-	"instructors": [
-		"Bill Sonnega"
+	"enrollment_fy": 6,
+	"enrollment_jr": 8,
+	"enrollment_so": 5,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"ORC"
 	],
-	"junior": "8/4",
-	"learningmode": "S",
+	"instructors": [
+		"Sonnega, Bill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 8,
+	"max_jr": 4,
+	"max_so": 4,
+	"max_sr": 4,
 	"name": "Mass Media",
 	"number": 160,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.411873+00:00",
@@ -64,11 +77,34 @@
 			"instructors": [
 				"William Sonnega"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.764690+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/8",
+			"gereqs": null,
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"junior": "8/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "13/4",
+			"sophomore": "5/4",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "13/4",
-	"sophomore": "5/4",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

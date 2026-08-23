@@ -4,54 +4,44 @@
 	"crsid": "0000001368",
 	"department": "SWRK",
 	"enrolled": 15,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Naurine Lennox"
+		"Lennox, Naurine"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4761",
+			"name": "Lennox, Naurine"
+		}
+	],
 	"level": 300,
 	"max": 17,
 	"name": "Social Wrk Methds III",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Tu",
+			"day": "MW",
+			"end": "0150PM",
+			"location": "BC 220",
+			"start": "11:50"
+		},
+		{
+			"day": "TTh",
 			"end": "11:00",
 			"location": "BC 220",
 			"start": "09:35"
 		},
 		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "BC 220",
-			"start": "09:35"
-		},
-		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "BC 220",
 			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "BC 220",
-			"start": "11:45"
-		},
-		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "BC 220",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "BC 220",
-			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.746174+00:00",
@@ -66,6 +56,64 @@
 		{
 			"_updated": "2020-10-15T15:23:05.103894+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:20.052950+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Naurine Lennox"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "BC 220",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "BC 220",
+					"start": "09:35"
+				},
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "BC 220",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "BC 220",
+					"start": "11:45"
+				},
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "BC 220",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "BC 220",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

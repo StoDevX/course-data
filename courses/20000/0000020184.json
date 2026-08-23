@@ -4,30 +4,32 @@
 	"crsid": "0000000274",
 	"department": "ECON",
 	"enrolled": 28,
+	"enrollment_fy": 5,
+	"enrollment_jr": 7,
+	"enrollment_so": 16,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Bruce Dalgaard"
+		"Dalgaard, Bruce"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1333",
+			"name": "Dalgaard, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Macroeconomic Theory",
 	"number": 261,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 301",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 301",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.571558+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:54.847219+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:10.263566+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Bruce Dalgaard"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 301",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 301",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,36 +4,35 @@
 	"crsid": "0000000977",
 	"department": "PHIL",
 	"enrolled": 23,
-	"instructors": [
-		"Karen Gervais"
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gervais, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2519",
+			"name": "Gervais, Karen"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Biomedical Ethics",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "HH 413",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.417726+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:18.289374+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.310319+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Gervais"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "HH 413",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

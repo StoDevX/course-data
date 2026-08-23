@@ -1,14 +1,21 @@
 {
 	"clbid": "0000111912",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 21,
-	"groupid": "0000000194",
+	"enrollment_fy": 16,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"instructors": [
-		"William C. Solomon"
+		"Solomon, William C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27187",
+			"name": "Solomon, William C."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:41.354215+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:24:01.837454+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:09.827704+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"William C. Solomon"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "H",

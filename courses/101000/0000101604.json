@@ -1,30 +1,40 @@
 {
 	"clbid": "0000101604",
-	"credits": 0.0,
 	"crsid": "0000028969",
 	"department": "ID",
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"groupid": "0000028968",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 10,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Thomas A. Williamson",
-		"Shelly D. Dickinson"
+		"Dickinson, Shelly D.",
+		"Williamson, Thomas A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15747",
+			"name": "Dickinson, Shelly D."
+		},
+		{
+			"fsnum": "14223",
+			"name": "Williamson, Thomas A."
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Integr Sci/Soc Lab",
 	"number": 245,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 123",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-11-12T00:01:22.410952+00:00",
@@ -55,6 +65,38 @@
 		{
 			"_updated": "2021-03-02T16:51:35.317141+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:56.425831+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000028968",
+			"instructors": [
+				"Thomas A. Williamson",
+				"Shelly D. Dickinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 123",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

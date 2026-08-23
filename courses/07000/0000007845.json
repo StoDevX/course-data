@@ -4,10 +4,23 @@
 	"crsid": "0000000353",
 	"department": "DNCTE",
 	"enrolled": 22,
-	"instructors": [
-		"Heather J. Klopchin"
+	"enrollment_fy": 7,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Klopchin, Heather J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10044",
+			"name": "Klopchin, Heather J."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Ballet I",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "CAD _STUDIO_2",
 			"start": "11:50"
 		},
 		{
 			"day": "Th",
-			"end": "13:40",
+			"end": "0140PM",
 			"location": "CAD _STUDIO_2",
 			"start": "12:45"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.823929+00:00",
@@ -49,6 +61,41 @@
 		{
 			"_updated": "2020-10-15T15:23:16.494357+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.706171+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather J. Klopchin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "CAD _STUDIO_2",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "13:40",
+					"location": "CAD _STUDIO_2",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

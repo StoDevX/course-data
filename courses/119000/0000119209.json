@@ -1,28 +1,35 @@
 {
 	"clbid": "0000119209",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 17,
-	"groupid": "0000000192",
+	"enrollment_fy": 15,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Denis Drolet"
+		"Drolet, Denis"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29109",
+			"name": "Drolet, Denis"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 355",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-07T02:13:32.137385+00:00",
@@ -100,11 +107,40 @@
 		{
 			"_updated": "2020-10-15T15:24:07.370123+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.771606+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Denis Drolet"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 355",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "1/6",
+			"title": null
 		}
 	],
 	"section": "G",
 	"semester": 1,
-	"sophomore": "1/6",
 	"status": "C",
 	"term": 20181,
 	"type": "Lab",

@@ -4,10 +4,19 @@
 	"crsid": "0000001168",
 	"department": "PSYCH",
 	"enrolled": 33,
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 20,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Dana Gross"
+		"Gross, Dana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2768",
+			"name": "Gross, Dana"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Developmental Psych",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 317",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 317",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.029384+00:00",
@@ -42,6 +50,39 @@
 		{
 			"_updated": "2020-10-15T15:23:13.680783+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.570807+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dana Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 317",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 317",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

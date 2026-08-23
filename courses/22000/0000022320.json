@@ -4,30 +4,32 @@
 	"crsid": "0000001602",
 	"department": "ECON",
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 2,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Richard Goedde"
+		"Goedde, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2661",
+			"name": "Goedde, Richard"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Corporate Finance",
 	"number": 281,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 302",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 302",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.348242+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:57.751923+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:23.727185+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Goedde"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 302",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 302",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,30 +4,35 @@
 	"crsid": "0000002081",
 	"department": "PARA",
 	"enrolled": 6,
-	"instructors": [
-		"Raymond DeVries"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"DeVries, Raymond"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1367",
+			"name": "DeVries, Raymond"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Making Medical Care",
 	"number": 224,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "L 277",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "L 277",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.483902+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:53.294336+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.489589+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Raymond DeVries"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "L 277",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "L 277",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

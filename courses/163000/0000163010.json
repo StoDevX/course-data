@@ -1,13 +1,21 @@
 {
 	"clbid": "0000163010",
-	"credits": 0.0,
 	"crsid": "0000033748",
 	"department": "CHEM",
 	"enrolled": 17,
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Evan W. Kerr"
+		"Kerr, Evan W."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9005182",
+			"name": "Kerr, Evan W."
+		}
+	],
 	"level": 100,
 	"max": 21,
 	"name": "Introductory Chemistry Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:24.229910+00:00",
@@ -92,6 +99,34 @@
 		{
 			"_updated": "2025-11-06T03:09:48.891248+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.058302+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Evan W. Kerr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

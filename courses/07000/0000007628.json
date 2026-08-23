@@ -4,10 +4,22 @@
 	"crsid": "0000000047",
 	"department": "ART",
 	"enrolled": 11,
-	"instructors": [
-		"Patrick T. Kelley"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kelley, Patrick T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14002",
+			"name": "Kelley, Patrick T."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Video Art Production",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 101",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "CAD 101",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.736050+00:00",
@@ -49,6 +60,41 @@
 		{
 			"_updated": "2020-10-15T15:23:16.398927+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.662976+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Patrick T. Kelley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 101",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "CAD 101",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

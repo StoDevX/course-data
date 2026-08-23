@@ -4,32 +4,45 @@
 	"crsid": "0000000418",
 	"department": "ENGL",
 	"enrolled": 30,
-	"firstyear": "0/0",
-	"instructors": [
-		"James Heynen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 11,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "9/10",
-	"learningmode": "S",
+	"instructors": [
+		"Heynen, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3333",
+			"name": "Heynen, James"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 10,
+	"max_so": 8,
+	"max_sr": 10,
 	"name": "Creat Wrtg: Fict/Poet",
 	"number": 257,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RML 525",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RML 525",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.208617+00:00",
@@ -61,11 +74,48 @@
 		{
 			"_updated": "2020-10-15T15:23:18.161030+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.662488+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"James Heynen"
+			],
+			"instructors_full": null,
+			"junior": "9/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RML 525",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RML 525",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/10",
+			"sophomore": "11/8",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "10/10",
-	"sophomore": "11/8",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

@@ -4,30 +4,35 @@
 	"crsid": "0000001331",
 	"department": "SPAN",
 	"enrolled": 10,
-	"instructors": [
-		"James A. Dunlop"
+	"enrollment_fy": 10,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Dunlop, James A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1541",
+			"name": "Dunlop, James A."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Cult & Civ of Spain",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 21",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 21",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.968132+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:23:00.796686+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:42.413467+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James A. Dunlop"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 21",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 21",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

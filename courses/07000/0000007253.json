@@ -4,29 +4,26 @@
 	"crsid": "0000001064",
 	"department": "PETH",
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Greg Binstock"
+		"Binstock, Greg"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16557",
+			"name": "Binstock, Greg"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Physiology/Exercise",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SAC 143",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SAC 143",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SAC 143",
 			"start": "09:05"
@@ -39,7 +36,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.509836+00:00",
@@ -54,6 +50,52 @@
 		{
 			"_updated": "2020-10-15T15:23:15.048029+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.423078+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Greg Binstock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SAC 143",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SAC 143",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SAC 143",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SAC 143",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,16 +4,23 @@
 	"crsid": "0000000788",
 	"department": "MGMT",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Sian E. Christie"
+		"Christie, Sian E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16804",
+			"name": "Christie, Sian E."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Academic Internship",
 	"number": 394,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.431757+00:00",
@@ -34,6 +41,26 @@
 		{
 			"_updated": "2020-10-15T15:23:19.988928+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:59.797304+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Sian E. Christie"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

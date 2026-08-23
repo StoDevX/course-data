@@ -7,16 +7,29 @@
 		"This course teaches introductory programming with a focus on handling data. Emphases include programming concepts and structures, writing computer code to solve quantitative problems, and the use of programming to analyze data. The primary tool is the Python programming language. Students work individually and in teams to apply basic principles and explore real-world datasets with a sustainability theme. Offered annually. Also counts toward statistics and mathematical biology concentrations; one of CSCI 121, CSCI 125, or CSCI 251 counts toward linguistic studies concentration. Prerequisite: calculus or permission of the instructor."
 	],
 	"enrolled": 22,
+	"enrollment_fy": 15,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Jaime I. Davila"
+		"Davila, Jaime I."
 	],
-	"junior": "1/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32115",
+			"name": "Davila, Jaime I."
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Comp Sci for Science/Math",
 	"notes": [
 		"This course has class-year limits."
@@ -24,19 +37,7 @@
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 202",
 			"start": "09:05"
@@ -51,12 +52,52 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:56.146362+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Jaime I. Davila"
+			],
+			"instructors_full": null,
+			"junior": "1/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				}
+			],
+			"senior": "3/6",
+			"sophomore": "3/6"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/6",
-	"sophomore": "3/6",
 	"status": "C",
 	"term": 20221,
 	"title": "Computer Science for Scientists and Mathematicians",

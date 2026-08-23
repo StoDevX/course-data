@@ -4,36 +4,37 @@
 	"crsid": "0000001214",
 	"department": "REL",
 	"enrolled": 21,
-	"instructors": [
-		"John Barbour"
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Barbour, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "329",
+			"name": "Barbour, John"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_sr": 19,
 	"name": "God and Faith/Autobio",
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "BMC 110",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "BMC 110",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "BMC 110",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.060183+00:00",
@@ -57,10 +58,51 @@
 		{
 			"_updated": "2020-10-15T15:23:13.700735+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.582553+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Barbour"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "BMC 110",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/19",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/19",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

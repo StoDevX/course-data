@@ -4,37 +4,38 @@
 	"crsid": "0000001293",
 	"department": "SOAN",
 	"enrolled": 30,
-	"instructors": [
-		"Phyllis G. Myers"
+	"enrollment_fy": 15,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "4/3",
-	"learningmode": "S",
+	"instructors": [
+		"Myers, Phyllis G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5438",
+			"name": "Myers, Phyllis G."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 3,
+	"max_sr": 3,
 	"name": "Soc Prob/Soc Change",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 374",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 374",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 374",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.719576+00:00",
@@ -61,11 +62,52 @@
 		{
 			"_updated": "2020-10-15T15:23:05.085795+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.731810+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Phyllis G. Myers"
+			],
+			"instructors_full": null,
+			"junior": "4/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 374",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 374",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 374",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/3",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "4/3",
 	"status": "C",
 	"term": 20001,
 	"type": "Research",

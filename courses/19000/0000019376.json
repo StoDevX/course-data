@@ -4,30 +4,32 @@
 	"crsid": "0000000834",
 	"department": "MUSIC",
 	"enrolled": 30,
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Robert V. Scholz"
+		"Scholz, Robert V."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7183",
+			"name": "Scholz, Robert V."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Choral Conducting",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CHM 233/140",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CHM 233/140",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.460450+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:53.268884+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.481219+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert V. Scholz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CHM 233/140",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CHM 233/140",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

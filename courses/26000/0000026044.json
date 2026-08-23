@@ -4,50 +4,38 @@
 	"crsid": "0000000600",
 	"department": "HIST",
 	"enrolled": 33,
-	"firstyear": "10/12",
-	"instructors": [
-		"J. L. Carrington"
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 12,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"HWC"
 	],
-	"junior": "1/26",
-	"learningmode": "S",
+	"instructors": [
+		"Carrington, J. L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "971",
+			"name": "Carrington, J. L."
+		}
+	],
 	"level": 200,
 	"max": 33,
+	"max_fy": 12,
+	"max_jr": 26,
+	"max_sr": 18,
 	"name": "Women in Medieval Eur",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.345913+00:00",
@@ -75,10 +63,65 @@
 		{
 			"_updated": "2020-10-15T15:23:02.666409+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.445816+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/12",
+			"gereqs": null,
+			"instructors": [
+				"J. L. Carrington"
+			],
+			"instructors_full": null,
+			"junior": "1/26",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/18",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "10/18",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

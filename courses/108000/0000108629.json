@@ -1,29 +1,40 @@
 {
 	"clbid": "0000108629",
-	"credits": 0.0,
 	"crsid": "0000027684",
 	"department": "MATH",
 	"enrolled": 15,
-	"groupid": "0000000743",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Steven Freedberg",
-		"Bruce E. Pell"
+		"Pell, Bruce E.",
+		"Freedberg, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28155",
+			"name": "Pell, Bruce E."
+		},
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_sr": 3,
 	"name": "Math of Biology Lab",
 	"number": 236,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 398",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.748855+00:00",
@@ -134,10 +145,41 @@
 		{
 			"_updated": "2020-10-15T15:24:01.623101+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:11.824535+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000743",
+			"instructors": [
+				"Steven Freedberg",
+				"Bruce E. Pell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 398",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/3",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "2/3",
 	"status": "C",
 	"term": 20163,
 	"type": "Lab",

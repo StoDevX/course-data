@@ -4,16 +4,24 @@
 	"crsid": "0000000313",
 	"department": "EDUC",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Robert W. McClure"
+		"McClure, Robert W."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16582",
+			"name": "McClure, Robert W."
+		}
+	],
 	"level": 200,
 	"max": 1,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-09-18T15:04:06.417689+00:00",
@@ -26,6 +34,24 @@
 		{
 			"_updated": "2021-03-02T16:51:48.178515+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.787155+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert W. McClure"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "A",

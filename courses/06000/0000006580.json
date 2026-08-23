@@ -4,16 +4,24 @@
 	"crsid": "0000001111",
 	"department": "PSCI",
 	"enrolled": 15,
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Daniel Hofrenning"
+		"Hofrenning, Dan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3418",
+			"name": "Hofrenning, Dan"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "New Hampshire Primary",
 	"number": 204,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.800884+00:00",
@@ -28,6 +36,26 @@
 		{
 			"_updated": "2020-10-15T15:23:14.159006+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.589216+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Daniel Hofrenning"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

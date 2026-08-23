@@ -4,36 +4,31 @@
 	"crsid": "0000001092",
 	"department": "PHYS",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Classical Mechanics",
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 110",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 110",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 110",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:15:07.857796+00:00",
@@ -60,6 +55,47 @@
 		{
 			"_updated": "2020-10-15T15:23:05.031743+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.699546+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 110",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 110",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 110",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

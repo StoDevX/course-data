@@ -1,32 +1,50 @@
 {
-	"clbid": 121943,
+	"clbid": "0000121943",
 	"credits": 1.0,
-	"crsid": 626,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000626",
+	"department": "HIST",
 	"description": [
 		"This course offers selected surveys in historical studies. Topics depend on instructor. Recent topics have included \"Women in Early America,\" \"U.S.-Latin American Relations,\" and \"Doing Public History.\" May be repeated if topic is different. Offered periodically."
 	],
-	"enroll": "19",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"HWC"
 	],
 	"instructors": [
-		"David E. Jessup"
+		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"HH 434",
-		"HH 434"
-	],
-	"max": "25",
+	"max": 25,
 	"name": "Top: The Vikings",
 	"notes": [
-		"Students who have already taken HIST 111 are not permitted to enroll.",
+		"Students who have already taken HIST 111 are not permitted to enroll.           ",
 		"The course number for this course has changed to HIST 211."
 	],
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0245PM",
+			"location": "TBA",
+			"start": "01:20"
+		},
+		{
+			"day": "Th",
+			"end": "0335PM",
+			"location": "TBA",
+			"start": "02:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -45,16 +63,50 @@
 				"Students who have already taken HIST 111 are not permitted to enroll."
 			],
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.881311+00:00",
+			"clbid": 121943,
+			"crsid": 626,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": "19",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David E. Jessup"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 434",
+				"HH 434"
+			],
+			"max": "25",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students who have already taken HIST 111 are not permitted to enroll.",
+				"The course number for this course has changed to HIST 211."
+			],
+			"offerings": null,
+			"status": "C",
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20181,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2018

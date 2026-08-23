@@ -7,23 +7,29 @@
 		"This is an aerobic-based course utilizing instruction and participation in running and jogging to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 15,
-	"instructors": [
-		"Craig D. Stern"
+	"enrollment_fy": 5,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Stern, Craig D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16722",
+			"name": "Stern, Craig D."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Jogging/Running",
 	"number": 135,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -62,6 +68,38 @@
 		{
 			"_updated": "2020-10-15T15:23:23.576641+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:16.462256+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Craig D. Stern"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

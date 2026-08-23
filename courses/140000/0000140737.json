@@ -1,14 +1,21 @@
 {
 	"clbid": "0000140737",
-	"credits": 0.0,
 	"crsid": "0000033697",
 	"department": "BIO",
 	"enrolled": 9,
-	"groupid": "0000000166",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Rebecca Merica"
+		"Merica, Rebecca"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33093",
+			"name": "Merica, Rebecca"
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "Immunology Lab",
@@ -19,13 +26,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 393",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-06-04T03:09:40.681541+00:00",
@@ -43,6 +49,35 @@
 					"start": "08:00"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.611845+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000166",
+			"instructors": [
+				"Rebecca Merica"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "16:00",
+					"location": "RNS 393",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

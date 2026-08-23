@@ -1,14 +1,21 @@
 {
 	"clbid": "0000157880",
-	"credits": 0.0,
 	"crsid": "0000000140",
 	"department": "BIO",
 	"enrolled": 24,
-	"groupid": "0000000139",
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 1,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Jacob Grossman"
+		"Grossman, Jake"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33960",
+			"name": "Grossman, Jake"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Ecological Principles Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 440",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-10-30T02:53:24.641000+00:00",
@@ -44,6 +50,35 @@
 		{
 			"_updated": "2024-11-21T23:31:54.434337+00:00",
 			"max": 22
+		},
+		{
+			"_updated": "2026-08-23T03:05:23.892025+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000139",
+			"instructors": [
+				"Jacob Grossman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 440",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

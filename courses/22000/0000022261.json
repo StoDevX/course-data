@@ -4,36 +4,32 @@
 	"crsid": "0000000194",
 	"department": "CHEM",
 	"enrolled": 53,
+	"enrollment_fy": 37,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Beth Abdella"
+		"Abdella, Beth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25",
+			"name": "Abdella, Beth"
+		}
+	],
 	"level": 100,
 	"max": 55,
 	"name": "Chemical Reactions",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 378",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.311189+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:57.726196+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:22.769344+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Beth Abdella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

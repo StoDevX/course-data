@@ -7,29 +7,30 @@
 		"Introduction to computer science with emphasis on applications to math and science. Exploration of fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, loops, decision structures, encapsulation, and computing ethics. Students work individually and in teams to apply basic principles and structures to create programs that model and simulate graphical, mathematical, and scientific processes. Offered each semester."
 	],
 	"enrolled": 24,
-	"instructors": [
-		"Olaf A. Hall-Holt"
+	"enrollment_fy": 3,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hall-Holt, Olaf A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Comp Sci for Science/Math",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 203",
 			"start": "10:45"
@@ -56,6 +57,43 @@
 			"_updated": "2025-10-11T21:36:10.740062+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.593181+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				}
 			]
 		}
 	],

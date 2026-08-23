@@ -4,48 +4,36 @@
 	"crsid": "0000000482",
 	"department": "FREN",
 	"enrolled": 9,
-	"instructors": [
-		"M. Clare Mather"
+	"enrollment_fy": 4,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-F",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Mather, M. Clare"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5116",
+			"name": "Mather, M. Clare"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Speaking of French",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "M 26",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "M 26",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "M 26",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "M 26",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "M 26",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.110356+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:22:59.888242+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:12.743041+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"M. Clare Mather"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "M 26",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "M 26",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "M 26",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "M 26",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "M 26",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

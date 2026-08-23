@@ -4,37 +4,32 @@
 	"crsid": "0000000336",
 	"department": "EDUC",
 	"enrolled": 19,
-	"halfcredit": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Ann A. Leming"
+		"Leming, Ann A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4755",
+			"name": "Leming, Ann A."
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "The Exceptional Child",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "L 177",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "L 177",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "L 177",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.668613+00:00",
@@ -49,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:22:49.535953+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:57.939986+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "2",
+			"instructors": [
+				"Ann A. Leming"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "L 177",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "L 177",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "L 177",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

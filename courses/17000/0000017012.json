@@ -4,32 +4,39 @@
 	"crsid": "0000000418",
 	"department": "ENGL",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"instructors": [
-		"Stephen O. Swanson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors": [
+		"Swanson, Stephen O."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8196",
+			"name": "Swanson, Stephen O."
+		}
+	],
 	"level": 200,
 	"max": 12,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 0,
 	"name": "Creative Writing I",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 420",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 420",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.706682+00:00",
@@ -54,12 +61,48 @@
 		{
 			"_updated": "2020-10-15T15:22:49.561077+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:58.561962+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Stephen O. Swanson"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 19951,
 	"type": "Research",

@@ -7,10 +7,22 @@
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
 	"enrolled": 16,
-	"instructors": [
-		"Christopher Galdieri"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Galdieri, Christopher"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21158",
+			"name": "Galdieri, Christopher"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Pres/Obama Era",
@@ -18,13 +30,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 031",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 031",
 			"start": "12:45"
 		}
@@ -45,6 +57,37 @@
 		{
 			"_updated": "2020-10-15T15:23:36.254631+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:19.421023+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Christopher Galdieri"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 031",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 031",
+					"start": "12:45"
+				}
+			]
 		}
 	],
 	"section": "C",

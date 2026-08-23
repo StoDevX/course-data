@@ -4,36 +4,37 @@
 	"crsid": "0000000371",
 	"department": "DNCTH",
 	"enrolled": 20,
-	"instructors": [
-		"Heather J. Klopchin"
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Klopchin, Heather J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10044",
+			"name": "Klopchin, Heather J."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Dance in America",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD 305",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "CAD 305",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "CAD 305",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.287342+00:00",
@@ -54,6 +55,47 @@
 		{
 			"_updated": "2020-10-15T15:23:10.507807+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.790324+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather J. Klopchin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD 305",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD 305",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "CAD 305",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

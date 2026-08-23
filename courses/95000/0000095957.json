@@ -1,17 +1,26 @@
 {
 	"clbid": "0000095957",
-	"credits": 0.0,
 	"crsid": "0000018827",
 	"department": "CH/BI",
 	"enrolled": 18,
-	"groupid": "0000018802",
+	"enrollment_fy": 17,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Integr Chem/Bio III Lab",
 	"notes": [
 		"Open only to those students who have completed CH/BI 126."
@@ -20,13 +29,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 398",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:23.723834+00:00",
@@ -55,12 +63,42 @@
 		{
 			"_updated": "2021-03-02T16:51:31.788143+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:37.525648+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000018802",
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 398",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "1/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "0/0",
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20143,
 	"type": "Lab",

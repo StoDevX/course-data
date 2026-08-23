@@ -1,13 +1,21 @@
 {
 	"clbid": "0000002387",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Richard Thomas"
+		"Thomas, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13198",
+			"name": "Thomas, Richard"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Prin Physics I/Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "15:25",
+			"end": "0325PM",
 			"location": "SC 111",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.669292+00:00",
@@ -36,6 +43,34 @@
 		{
 			"_updated": "2020-10-15T15:23:07.805788+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.610123+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Thomas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "15:25",
+					"location": "SC 111",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

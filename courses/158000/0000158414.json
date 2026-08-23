@@ -1,29 +1,35 @@
 {
 	"clbid": "0000158414",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Jordan T. Dull"
+		"Dull, Jordan T."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "24045",
+			"name": "Dull, Jordan T."
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_fy": 0,
 	"name": "Principles Physics II Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:30",
+			"end": "0330PM",
 			"location": "RNS 292",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-14T02:20:06.382251+00:00",
@@ -67,6 +73,36 @@
 		{
 			"_updated": "2025-04-14T03:06:30.350057+00:00",
 			"enrolled": 24
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.385565+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001074",
+			"instructors": [
+				"Jordan T. Dull"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

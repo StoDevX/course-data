@@ -4,37 +4,39 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 63,
-	"instructors": [
-		"Richard Senese"
+	"enrollment_fy": 34,
+	"enrollment_jr": 3,
+	"enrollment_so": 17,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "3/47",
-	"learningmode": "S",
+	"instructors": [
+		"Senese, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7388",
+			"name": "Senese, Richard"
+		}
+	],
 	"level": 100,
 	"max": 60,
+	"max_jr": 47,
+	"max_so": 43,
+	"max_sr": 30,
 	"name": "Principles: Psych",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "H 307",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "H 307",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "H 307",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.907338+00:00",
@@ -62,12 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:00.757370+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:35.307292+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Senese"
+			],
+			"instructors_full": null,
+			"junior": "3/47",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "H 307",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "H 307",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "H 307",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/30",
+			"sophomore": "17/43",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "9/30",
-	"sophomore": "17/43",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

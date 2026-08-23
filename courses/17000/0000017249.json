@@ -4,37 +4,41 @@
 	"crsid": "0000002076",
 	"department": "PARA",
 	"enrolled": 5,
-	"instructors": [
-		"Stephen Blake",
-		"David Brunet"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brunet, David",
+		"Blake, Stephen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "812",
+			"name": "Brunet, David"
+		},
+		{
+			"fsnum": "609",
+			"name": "Blake, Stephen"
+		}
+	],
 	"level": 200,
 	"max": 5,
 	"name": "Novels Salman Rushdie",
 	"number": 219,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 277",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 277",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 277",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.841321+00:00",
@@ -49,6 +53,48 @@
 		{
 			"_updated": "2020-10-15T15:22:49.649182+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:08.778120+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Stephen Blake",
+				"David Brunet"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

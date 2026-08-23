@@ -1,17 +1,24 @@
 {
 	"clbid": "0000156411",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"groupid": "0000000122",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Jean C. Porterfield"
+		"Porterfield, Jean C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
 	"offerings": [
@@ -23,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-04-11T02:20:59.862029+00:00",
@@ -76,6 +82,28 @@
 		{
 			"_updated": "2024-09-17T07:00:23.422166+00:00",
 			"enrolled": 19
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.434004+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000122",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

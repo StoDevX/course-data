@@ -1,29 +1,35 @@
 {
 	"clbid": "0000112284",
-	"credits": 0.0,
 	"crsid": "0000000140",
 	"department": "BIO",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000000139",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Emily Mohl"
+		"Mohl, Emily"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25351",
+			"name": "Mohl, Emily"
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Ecological Principles Lab",
 	"number": 261,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 440",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:44.214878+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2021-03-02T16:51:40.495874+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.479167+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000139",
+			"instructors": [
+				"Emily Mohl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 440",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

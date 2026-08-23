@@ -4,30 +4,35 @@
 	"crsid": "0000001361",
 	"department": "SWRK",
 	"enrolled": 16,
-	"instructors": [
-		"Mary Carlsen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carlsen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Social Work Methods I",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Tu",
+			"day": "TTh",
 			"end": "11:00",
-			"location": "CTR CONF 3",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "CTR CONF 3",
+			"location": "CTR  CONF 3",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:40.405803+00:00",
@@ -48,6 +53,41 @@
 		{
 			"_updated": "2020-10-15T15:23:02.286650+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:57.268319+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CTR CONF 3",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CTR CONF 3",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

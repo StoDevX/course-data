@@ -4,48 +4,34 @@
 	"crsid": "0000000973",
 	"department": "PHIL",
 	"enrolled": 6,
-	"instructors": [
-		"John Poling"
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"BTS-T"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Poling, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6392",
+			"name": "Poling, John"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Phil. Theology",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "L 421",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "L 421",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "L 421",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "L 421",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "L 421",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:37.561255+00:00",
@@ -60,6 +46,60 @@
 		{
 			"_updated": "2020-10-15T15:23:01.108655+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:45.382512+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Poling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "L 421",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "L 421",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "L 421",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "L 421",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "L 421",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

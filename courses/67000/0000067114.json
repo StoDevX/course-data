@@ -7,29 +7,30 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the algebra of matrices, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered each semester."
 	],
 	"enrolled": 20,
-	"instructors": [
-		"Adam H. Berliner"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Berliner, Adam H."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21092",
+			"name": "Berliner, Adam H."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 186",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 186",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 186",
 			"start": "09:05"
@@ -60,6 +61,43 @@
 			"_updated": "2025-10-11T21:35:59.703997+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:08.534804+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Adam H. Berliner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 186",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 186",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 186",
+					"start": "09:05"
+				}
 			]
 		}
 	],

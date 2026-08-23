@@ -4,68 +4,44 @@
 	"crsid": "0000001357",
 	"department": "SWRK",
 	"enrolled": 28,
-	"firstyear": "13/19",
-	"instructors": [
-		"Mary Carlsen"
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 14,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Carlsen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 19,
+	"max_jr": 0,
+	"max_sr": 0,
 	"name": "I Want to Help People",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Tu",
+			"day": "T-F",
+			"end": "0300PM",
+			"location": "HH 403",
+			"start": "01:00"
+		},
+		{
+			"day": "T-F",
 			"end": "10:00",
 			"location": "HH 403",
 			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 403",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "HH 403",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "HH 403",
-			"start": "08:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "HH 403",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "HH 403",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "HH 403",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "HH 403",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.810410+00:00",
@@ -94,10 +70,83 @@
 		{
 			"_updated": "2020-10-15T15:23:17.368896+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:50.445787+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/19",
+			"gereqs": null,
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "HH 403",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 403",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "HH 403",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 403",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "HH 403",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "HH 403",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "HH 403",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "HH 403",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "1/0",
 	"status": "C",
 	"term": 20042,
 	"type": "Research",

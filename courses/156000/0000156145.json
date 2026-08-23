@@ -7,17 +7,30 @@
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
 	"enrolled": 25,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 0,
+	"enrollment_sr": 15,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SED",
+		"SPM"
 	],
 	"instructors": [
-		"Dennis Bengtson"
+		"Bengtson, Denny"
 	],
-	"junior": "10/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "361",
+			"name": "Bengtson, Denny"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_so": 0,
+	"max_sr": 14,
 	"name": "Classical Hatha Yoga",
 	"notes": [
 		"This course has class-year limits and open only to rising seniors and juniors."
@@ -25,13 +38,7 @@
 	"number": 162,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD Studio 1",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "CAD Studio 1",
 			"start": "09:05"
@@ -150,11 +157,47 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.559022+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Dennis Bengtson"
+			],
+			"instructors_full": null,
+			"junior": "10/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD Studio 1",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD Studio 1",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "15/14",
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"senior": "15/14",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20241,
 	"type": "Research",

@@ -4,30 +4,36 @@
 	"crsid": "0000000353",
 	"department": "DNCTE",
 	"enrolled": 17,
-	"instructors": [
-		"Jennifer Bader"
+	"enrollment_fy": 4,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bader, Jennifer"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "311",
+			"name": "Bader, Jennifer"
+		}
+	],
 	"level": 100,
 	"max": 17,
 	"name": "Ballet I",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "DANCE ST 2",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
-			"location": "DANCE ST 2",
+			"day": "TTh",
+			"end": "0150PM",
+			"location": "DANCE  ST 2",
 			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:59.526342+00:00",
@@ -48,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:07.648139+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.196851+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jennifer Bader"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "DANCE ST 2",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "DANCE ST 2",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

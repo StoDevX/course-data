@@ -4,13 +4,28 @@
 	"crsid": "0000001105",
 	"department": "PSCI",
 	"enrolled": 35,
-	"instructors": [
-		"William A. Gorton"
+	"enrollment_fy": 21,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HWC",
+		"MCS-D"
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors": [
+		"Gorton, William A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15068",
+			"name": "Gorton, William A."
+		}
+	],
 	"level": 100,
 	"max": 35,
+	"max_jr": 3,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "Intro: Pol Theory",
 	"number": 113,
 	"offerings": [
@@ -28,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:12.035977+00:00",
@@ -64,12 +78,33 @@
 		{
 			"_updated": "2020-10-15T15:23:16.700617+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.693745+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"William A. Gorton"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "10/10",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "10/10",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

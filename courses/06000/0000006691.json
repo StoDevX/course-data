@@ -4,10 +4,19 @@
 	"crsid": "0000000045",
 	"department": "ART",
 	"enrolled": 17,
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Ron Gallas"
+		"Gallas, Ron"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Ceramics",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 115C",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "CAD 115C",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.480516+00:00",
@@ -49,6 +57,40 @@
 		{
 			"_updated": "2020-10-15T15:23:14.794860+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.658206+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 115C",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "CAD 115C",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

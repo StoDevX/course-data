@@ -7,25 +7,33 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 27,
-	"firstyear": "4/2",
-	"instructors": [
-		"Cindy Book"
+	"enrollment_fy": 4,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Book, Cindy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "694",
+			"name": "Book, Cindy"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 2,
+	"max_jr": 4,
+	"max_so": 4,
 	"name": "Aerobics",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:30",
-			"location": "SAC 103",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:30",
 			"location": "SAC 103",
 			"start": "09:35"
@@ -72,10 +80,44 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.634462+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/2",
+			"gereqs": null,
+			"instructors": [
+				"Cindy Book"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:30",
+					"location": "SAC 103",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "SAC 103",
+					"start": "09:35"
+				}
+			],
+			"section": null,
+			"sophomore": "6/4"
 		}
 	],
 	"semester": 3,
-	"sophomore": "6/4",
 	"status": "C",
 	"term": 20123,
 	"type": "Research",

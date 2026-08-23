@@ -7,19 +7,37 @@
 		"This capstone course in the studio art program consists of advanced studio work, a visiting artist series, weekly critiques, and discussions with faculty and peers. Each student's independent work with a faculty advisor culminates in a senior exhibition at Flaten Art Museum. Weekly sessions also cover such topics as preparing a resume, documenting one's work, framing, and producing exhibition announcements and posters. Offered annually. Prerequisites: (for non-studio majors) ART 102, ART 103, ART 104, two upper-level (200-300) courses, one art history course, and permission of chair."
 	],
 	"enrolled": 33,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 33,
 	"gereqs": [
 		"OEP"
 	],
 	"instructors": [
-		"Michon Weeks",
-		"Peng Wu",
-		"Anda Tanaka"
+		"Wu, Peng",
+		"Tanaka, Anda",
+		"Weeks, Michon"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002464",
+			"name": "Wu, Peng"
+		},
+		{
+			"fsnum": "9002559",
+			"name": "Tanaka, Anda"
+		},
+		{
+			"fsnum": "23761",
+			"name": "Weeks, Michon"
+		}
+	],
 	"level": 300,
 	"max": 35,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Senior Studies in Studio Art",
 	"notes": [
 		"Open to Seniors only."
@@ -28,21 +46,15 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:00",
-			"location": "CAD 103",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "CAD 103",
-			"start": "13:00"
-		},
-		{
-			"day": "Mo",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "CAD 305",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "MW",
+			"end": "0300PM",
+			"location": "CAD 103",
+			"start": "01:00"
 		}
 	],
 	"pn": false,
@@ -105,10 +117,51 @@
 		{
 			"_updated": "2025-11-21T03:06:56.385187+00:00",
 			"enrolled": 32
+		},
+		{
+			"_updated": "2026-08-23T03:05:32.986364+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Michon Weeks",
+				"Peng Wu",
+				"Anda Tanaka"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "CAD 103",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "CAD 103",
+					"start": "13:00"
+				},
+				{
+					"day": "Mo",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20253,
 	"type": "Research",

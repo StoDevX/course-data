@@ -4,36 +4,35 @@
 	"crsid": "0000000732",
 	"department": "MATH",
 	"enrolled": 13,
-	"instructors": [
-		"David Molnar"
+	"enrollment_fy": 12,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Molnar, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13170",
+			"name": "Molnar, David"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Math Analysis I",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "SC 186",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SC 186",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "SC 186",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.654429+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:10.582122+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.467315+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David Molnar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SC 186",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SC 186",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "SC 186",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

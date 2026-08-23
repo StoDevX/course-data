@@ -1,14 +1,21 @@
 {
 	"clbid": "0000072266",
-	"credits": 0.0,
 	"crsid": "0000001077",
 	"department": "PHYS",
 	"enrolled": 17,
-	"groupid": "0000001076",
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Analytical I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:45",
+			"end": "0445PM",
 			"location": "RNS 293",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:20:40.109738+00:00",
@@ -57,6 +63,35 @@
 		{
 			"_updated": "2021-03-02T16:51:16.015946+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:02:28.232595+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001076",
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:45",
+					"location": "RNS 293",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -7,14 +7,25 @@
 		"This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Offered periodically. Prerequisite: BTS-B."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 1,
+	"enrollment_jr": 10,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
 	"gereqs": [
+		"BTS-T",
 		"CTD",
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Charles Wilson"
+		"Wilson, Charles"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9090",
+			"name": "Wilson, Charles"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Classics and Moderns",
@@ -22,21 +33,21 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 210",
-			"start": "13:20"
-		},
-		{
-			"day": "We",
-			"end": "21:00",
-			"location": "CAD 305",
-			"start": "19:00"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 210",
-			"start": "14:15"
+			"start": "02:15"
+		},
+		{
+			"day": "We",
+			"end": "0900PM",
+			"location": "CAD 305",
+			"start": "07:00"
 		}
 	],
 	"pn": false,
@@ -151,6 +162,46 @@
 				"WRI",
 				"CTD",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.953023+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CTD",
+				"WAC"
+			],
+			"instructors": [
+				"Charles Wilson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 210",
+					"start": "13:20"
+				},
+				{
+					"day": "We",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 210",
+					"start": "14:15"
+				}
 			]
 		}
 	],

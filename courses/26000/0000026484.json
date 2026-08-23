@@ -4,38 +4,41 @@
 	"crsid": "0000001791",
 	"department": "HIST",
 	"enrolled": 23,
-	"firstyear": "22/23",
-	"instructors": [
-		"Michael Fitzgerald"
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HWC",
+		"MCS-D",
+		"WRI"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Fitzgerald, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2113",
+			"name": "Fitzgerald, Michael"
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_fy": 23,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Slavery/Americas",
 	"number": 132,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "H 307",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "H 307",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "H 307",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.588633+00:00",
@@ -65,11 +68,54 @@
 		{
 			"_updated": "2020-10-15T15:23:03.440954+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.677244+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "22/23",
+			"gereqs": null,
+			"instructors": [
+				"Michael Fitzgerald"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 307",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "H 307",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "H 307",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

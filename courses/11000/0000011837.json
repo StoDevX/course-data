@@ -1,27 +1,78 @@
 {
-	"clbid": 11837,
+	"clbid": "0000011837",
 	"credits": 1.0,
-	"crsid": 302,
-	"departments": [
-		"CSCI"
+	"crsid": "0000000302",
+	"department": "CSCI",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"NSC"
 	],
 	"instructors": [
-		"Richard Allen"
+		"Allen, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "97",
+			"name": "Allen, Richard"
+		}
 	],
 	"level": 300,
-	"locations": [
-		"OMH 300"
-	],
+	"max": 15,
 	"name": "Bioinformatics",
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Th",
+			"end": "0500PM",
+			"location": "OMH 300",
+			"start": "02:15"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:06.282588+00:00",
+			"clbid": 11837,
+			"crsid": 302,
+			"department": null,
+			"departments": [
+				"CSCI"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Allen"
+			],
+			"instructors_full": null,
+			"locations": [
+				"OMH 300"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"Th 0215-0500PM"
+			],
+			"title": null
+		}
+	],
 	"semester": 3,
 	"status": "X",
 	"term": 20053,
-	"times": [
-		"Th 0215-0500PM"
-	],
 	"type": "Research",
 	"year": 2005
 }

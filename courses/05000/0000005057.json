@@ -4,36 +4,35 @@
 	"crsid": "0000000609",
 	"department": "HIST",
 	"enrolled": 36,
-	"instructors": [
-		"Robert Entenmann"
+	"enrollment_fy": 3,
+	"enrollment_jr": 10,
+	"enrollment_so": 13,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Entenmann, Robert"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1821",
+			"name": "Entenmann, Robert"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Modern China",
 	"number": 261,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 307",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 307",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 307",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.058331+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:12.069558+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.687388+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Robert Entenmann"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 307",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 307",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 307",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

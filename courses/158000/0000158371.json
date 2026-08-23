@@ -7,16 +7,28 @@
 		"Using examples from the natural sciences, this course examines fundamental concepts of science, including scientific method, the nature of scientific theories and hypotheses, objectivity in data collection and analysis, the use of technology in making observations, confirmation versus falsification, and explanation versus prediction. To illustrate why non-scientists need to understand scientific practice the course also considers controversies such as global warming and intelligent design. Offered annually. Also counts toward neuroscience concentration."
 	],
 	"enrolled": 17,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 12,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"WAC"
+		"IST",
+		"NST",
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Arthur Cunningham"
+		"Cunningham, Arthur"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20236",
+			"name": "Cunningham, Arthur"
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Philosophy of Science",
 	"notes": [
 		"Not open to first-year students."
@@ -24,20 +36,8 @@
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 523",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 523",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 523",
 			"start": "12:55"
 		}
@@ -237,6 +237,46 @@
 				"IST",
 				"WRI",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.380007+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Arthur Cunningham"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 523",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 523",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 523",
+					"start": "12:55"
+				}
 			]
 		}
 	],

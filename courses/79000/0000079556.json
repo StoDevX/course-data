@@ -1,29 +1,35 @@
 {
 	"clbid": "0000079556",
-	"credits": 0.0,
 	"crsid": "0000000120",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "1/0",
-	"groupid": "0000000119",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Theodore Johnson"
+		"Johnson, Theodore"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4110",
+			"name": "Johnson, Theodore"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Microbiology Lab",
 	"number": 231,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 398",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.253097+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2021-03-02T16:51:21.367982+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:02:49.635117+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"groupid": "0000000119",
+			"instructors": [
+				"Theodore Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 398",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

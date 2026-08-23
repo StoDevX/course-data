@@ -4,30 +4,31 @@
 	"crsid": "0000001618",
 	"department": "CSCI",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Sem: Computer Graphics",
 	"number": 378,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "SC 184",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "SC 184",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.669106+00:00",
@@ -42,6 +43,38 @@
 		{
 			"_updated": "2020-10-15T15:22:46.607450+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.252854+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "SC 184",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "SC 184",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

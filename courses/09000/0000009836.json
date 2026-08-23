@@ -4,42 +4,42 @@
 	"crsid": "0000001159",
 	"department": "PSYCH",
 	"enrolled": 9,
-	"instructors": [
-		"Bonnie Sherman"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSL",
+		"NST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sherman, Bonnie"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7475",
+			"name": "Sherman, Bonnie"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Sensation/Perception",
 	"number": 235,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 204",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 204",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 204",
 			"start": "09:05"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "HH 204",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.510075+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:18.347002+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.329715+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bonnie Sherman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 204",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 204",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 204",
+					"start": "09:05"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "HH 204",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

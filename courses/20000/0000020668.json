@@ -4,36 +4,31 @@
 	"crsid": "0000001150",
 	"department": "PSCI",
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Kris Thalhammer"
+		"Thalhammer, Kris"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8281",
+			"name": "Thalhammer, Kris"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Topics Pol Develop",
 	"number": 386,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 514",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 514",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 514",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.850198+00:00",
@@ -54,6 +49,47 @@
 			"instructors": [
 				"Kristina Thalhammer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:57:36.757600+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kris Thalhammer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

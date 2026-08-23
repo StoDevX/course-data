@@ -7,10 +7,19 @@
 		"Selected topics to be announced. May be repeated if topics are different."
 	],
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Terry J. Fitzgerald"
+		"Fitzgerald, Terry J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14049",
+			"name": "Fitzgerald, Terry J."
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Seminar",
@@ -18,13 +27,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 514",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 514",
 			"start": "12:45"
 		}
@@ -45,6 +54,37 @@
 		{
 			"_updated": "2020-10-15T15:23:19.842515+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.474655+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Terry J. Fitzgerald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 514",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 514",
+					"start": "12:45"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

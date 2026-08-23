@@ -1,14 +1,21 @@
 {
 	"clbid": "0000137981",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 19,
-	"groupid": "0000000192",
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Rachel K. Swedin"
+		"Swedin, Rachel K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32191",
+			"name": "Swedin, Rachel K."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Struct Chem & Equilib Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 355",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-16T16:45:14.464052+00:00",
@@ -84,6 +90,35 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.800390+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Rachel K. Swedin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 355",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

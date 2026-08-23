@@ -1,14 +1,21 @@
 {
 	"clbid": "0000150989",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 21,
-	"groupid": "0000000194",
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Kayla A. Lantz"
+		"Lantz, Kayla A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35082",
+			"name": "Lantz, Kayla A."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 350",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-06-22T02:43:00.451000+00:00",
@@ -123,6 +129,35 @@
 		{
 			"_updated": "2024-04-10T02:19:15.665781+00:00",
 			"enrolled": 22
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.833071+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Kayla A. Lantz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 350",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "I",

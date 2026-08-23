@@ -4,38 +4,40 @@
 	"crsid": "0000001294",
 	"department": "SOAN",
 	"enrolled": 27,
-	"firstyear": "11/8",
-	"instructors": [
-		"Thomas A. Williamson"
+	"enrollment_fy": 11,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors": [
+		"Williamson, Thomas A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14223",
+			"name": "Williamson, Thomas A."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 8,
+	"max_jr": 0,
+	"max_so": 7,
+	"max_sr": 0,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "OM 035",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "OM 035",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "OM 035",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.570078+00:00",
@@ -67,12 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:23:18.384596+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.352837+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/8",
+			"gereqs": null,
+			"instructors": [
+				"Thomas A. Williamson"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 035",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 035",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "OM 035",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "8/0",
+			"sophomore": "6/7",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "8/0",
-	"sophomore": "6/7",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

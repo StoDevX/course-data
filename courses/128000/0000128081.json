@@ -4,36 +4,37 @@
 	"crsid": "0000017201",
 	"department": "HIST",
 	"enrolled": 21,
-	"instructors": [
-		"Christopher M. Elias"
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HWC",
+		"MCD",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Elias, Christopher M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "29137",
+			"name": "Elias, Christopher M."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Top: Race/Gender/Sports in America",
 	"number": 297,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "HH 502",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "HH 502",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "HH 502",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-03-30T05:29:20.613918+00:00",
@@ -77,6 +78,46 @@
 				"HWC",
 				"MCD"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.846270+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Christopher M. Elias"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "HH 502",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "HH 502",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "HH 502",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

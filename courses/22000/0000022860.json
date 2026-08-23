@@ -4,11 +4,24 @@
 	"crsid": "0000001198",
 	"department": "REL",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Wendy Allen",
-		"Eric Lund"
+		"Lund, Eric",
+		"Allen, Wendy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4838",
+			"name": "Lund, Eric"
+		},
+		{
+			"fsnum": "102",
+			"name": "Allen, Wendy"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "FLC-French",
@@ -16,13 +29,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "CH 109",
-			"start": "16:30"
+			"start": "04:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.671341+00:00",
@@ -37,6 +49,34 @@
 		{
 			"_updated": "2020-10-15T15:22:57.967246+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:44.046558+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Wendy Allen",
+				"Eric Lund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:30",
+					"location": "CH 109",
+					"start": "16:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "L",

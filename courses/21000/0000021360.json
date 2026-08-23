@@ -4,30 +4,36 @@
 	"crsid": "0000000484",
 	"department": "FREN",
 	"enrolled": 13,
-	"instructors": [
-		"Herve Pensec"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-F",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pensec, Herve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6184",
+			"name": "Pensec, Herve"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Top: French Civilizatn",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 26",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 26",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.066858+00:00",
@@ -42,6 +48,42 @@
 		{
 			"_updated": "2020-10-15T15:22:56.421388+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.227757+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Herve Pensec"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 26",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 26",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

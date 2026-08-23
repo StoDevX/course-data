@@ -4,32 +4,39 @@
 	"crsid": "0000000022",
 	"department": "ART",
 	"enrolled": 12,
-	"firstyear": "3/5",
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 5,
+	"max_jr": 3,
+	"max_so": 5,
+	"max_sr": 2,
 	"name": "Foundation Sculpture",
 	"number": 114,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "FH 18",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "FH 18",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:16.724063+00:00",
@@ -58,12 +65,45 @@
 		{
 			"_updated": "2020-10-15T15:22:47.940440+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.730494+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/5",
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "FH 18",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "FH 18",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/2",
+			"sophomore": "6/5",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "1/2",
-	"sophomore": "6/5",
 	"status": "C",
 	"term": 19943,
 	"type": "Research",

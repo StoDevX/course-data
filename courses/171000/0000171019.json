@@ -7,37 +7,36 @@
 		"This synthesis course focuses on professional role development, nursing leadership and contemporary issues in nursing. Students gain the knowledge and skills in organizational systems leadership, quality improvement and safety that are needed to lead healthcare teams, coordinate patient care, and achieve patient outcomes. Offered annually in the spring semester. Prerequisites: open to senior nursing majors only; NURS 312, NURS 315, and NURS 316 with grades of C or above; concurrent enrollment in NURS 317, NURS 319, and NURS 399."
 	],
 	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"OEP"
+		"OEP",
+		"WRI"
 	],
 	"instructors": [
-		"Susan Huehn"
+		"Huehn, Susan"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17526",
+			"name": "Huehn, Susan"
+		}
+	],
 	"level": 300,
 	"max": 24,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Nursing Leadership",
 	"notes": [
-		"Open to senior Nursing majors only. Will also meet M-F 7:00 a.m. - 3:00 p.m."
+		"Open to senior Nursing majors only.  Will also meet M-F 7:00 a.m. - 3:00 p.m."
 	],
 	"number": 318,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 160E",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 160E",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 160E",
 			"start": "09:05"
@@ -45,8 +44,55 @@
 	],
 	"pn": false,
 	"prerequisites": "Prerequisites: open to senior nursing majors only; NURS 312, NURS 315, and NURS 316 with grades of C or above; concurrent enrollment in NURS 317, NURS 319, and NURS 399.",
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:49.557801+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"OEP"
+			],
+			"instructors": [
+				"Susan Huehn"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Open to senior Nursing majors only. Will also meet M-F 7:00 a.m. - 3:00 p.m."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 160E",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 160E",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 160E",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
+		}
+	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20263,
 	"type": "Research",

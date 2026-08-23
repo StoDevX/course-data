@@ -4,10 +4,22 @@
 	"crsid": "0000000498",
 	"department": "GE",
 	"enrolled": 18,
-	"instructors": [
-		"Mark Allister"
+	"enrollment_fy": 18,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FYW"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Allister, Mark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "110",
+			"name": "Allister, Mark"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "First-Year Writing",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RML 577",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RML 577",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:19.790868+00:00",
@@ -42,6 +53,40 @@
 		{
 			"_updated": "2020-10-15T15:23:23.437219+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:15.124146+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mark Allister"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RML 577",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RML 577",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "O",

@@ -4,30 +4,32 @@
 	"crsid": "0000000275",
 	"department": "ECON",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
 	"instructors": [
-		"David Schodt"
+		"Schodt, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7176",
+			"name": "Schodt, David"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Microeconomic Theory",
 	"number": 262,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 188",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 188",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.408770+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:23:07.630075+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.204069+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David Schodt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 188",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 188",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

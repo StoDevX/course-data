@@ -1,29 +1,35 @@
 {
 	"clbid": "0000119083",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Jason J. Engbrecht"
+		"Engbrecht, Jason J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14912",
+			"name": "Engbrecht, Jason J."
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:55",
+			"end": "0455PM",
 			"location": "RNS 292",
-			"start": "14:25"
+			"start": "02:25"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-15T02:21:55.844364+00:00",
@@ -89,6 +95,36 @@
 		{
 			"_updated": "2020-10-15T15:24:07.324426+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.951316+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:55",
+					"location": "RNS 292",
+					"start": "14:25"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

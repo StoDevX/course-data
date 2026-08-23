@@ -4,41 +4,40 @@
 	"crsid": "0000033676",
 	"department": "MGMT",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"instructors": [
-		"Sian E. Christie"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Christie, Sian E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16804",
+			"name": "Christie, Sian E."
+		}
+	],
 	"level": 200,
 	"max": 23,
+	"max_fy": 0,
 	"name": "Organizational Storytelling",
 	"notes": [
-		"Not open to first-year students.",
+		"Not open to first-year students.                                                ",
 		"This course includes an academic civic engagement (ACE) component."
 	],
 	"number": 201,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 111",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 111",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 111",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-03-21T05:24:17.524406+00:00",
@@ -129,6 +128,52 @@
 			"gereqs": [
 				"ORC"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.875946+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Sian E. Christie"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Not open to first-year students.",
+				"This course includes an academic civic engagement (ACE) component."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

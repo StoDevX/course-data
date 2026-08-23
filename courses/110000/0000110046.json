@@ -1,14 +1,21 @@
 {
 	"clbid": "0000110046",
-	"credits": 0.0,
 	"crsid": "0000017307",
 	"department": "CHEM",
 	"enrolled": 23,
-	"groupid": "0000000181",
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Adam Dittmer"
+		"Dittmer, Adam"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27141",
+			"name": "Dittmer, Adam"
+		}
+	],
 	"level": 100,
 	"max": 26,
 	"name": "Forensic Science Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 454",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:47.276944+00:00",
@@ -44,6 +50,36 @@
 		{
 			"_updated": "2020-10-15T15:23:59.931283+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:03.926914+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000181",
+			"instructors": [
+				"Adam Dittmer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 454",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

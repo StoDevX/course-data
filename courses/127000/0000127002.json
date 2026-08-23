@@ -4,16 +4,23 @@
 	"crsid": "0000000707",
 	"department": "ID",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Michael Fuerstein"
+		"Fuerstein, Michael"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21885",
+			"name": "Fuerstein, Michael"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-01-11T04:51:21.749709+00:00",
@@ -37,6 +44,25 @@
 		{
 			"_updated": "2021-03-02T16:51:45.037212+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:23.236450+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Michael Fuerstein"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "C",

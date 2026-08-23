@@ -6,18 +6,27 @@
 	"description": [
 		"This course is the gateway for the biology major, guiding students as they develop the context, skills, and modern framework on which to continue their study of biology. Students explore the history, evolution, and diversity of life in the context of genetics and comparative genomics. The laboratory emphasizes question-asking, problem-solving, and exploring biodiversity, and students have multiple opportunities to practice and communicate their science. Students attend lectures plus one 3-hour laboratory/discussion per week. Offered each semester."
 	],
-	"enrolled": 0,
+	"enrolled": 49,
+	"enrollment_fy": 23,
+	"enrollment_jr": 5,
+	"enrollment_so": 20,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000026649",
-	"grouptype": "1",
 	"instructors": [
-		"Sean M. Peterson"
+		"Lee, Norman"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29095",
+			"name": "Lee, Norman"
+		}
+	],
 	"level": 100,
-	"max": 63,
+	"max": 60,
 	"name": "Biodiversity Foundations",
 	"notes": [
 		"Students registering for BIO 150A must also register for one lab BIO 150 AL, BL,",
@@ -26,26 +35,59 @@
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 410",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 410",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
-			"location": "RNS 410",
-			"start": "11:50"
+			"day": "MWF",
+			"end": "10:00",
+			"location": "RNS 190",
+			"start": "09:05"
 		}
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:06:40.424478+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000026649",
+			"grouptype": "1",
+			"instructors": [
+				"Sean M. Peterson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 63,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 410",
+					"start": "11:50"
+				}
+			]
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

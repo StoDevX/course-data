@@ -4,30 +4,32 @@
 	"crsid": "0000001550",
 	"department": "CHEM",
 	"enrolled": 8,
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Heidi Chial"
+		"Chial, Heidi"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10050",
+			"name": "Chial, Heidi"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Elem Bio-Organic Chem",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 378",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 378",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.305332+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:03.329663+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.695066+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Heidi Chial"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 378",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 378",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

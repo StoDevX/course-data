@@ -4,50 +4,38 @@
 	"crsid": "0000001964",
 	"department": "MUSIC",
 	"enrolled": 21,
-	"firstyear": "7/7",
-	"instructors": [
-		"Alison J. Feldt"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/19",
-	"learningmode": "S",
+	"instructors": [
+		"Feldt, Alison J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2059",
+			"name": "Feldt, Alison J."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 7,
+	"max_jr": 19,
+	"max_sr": 8,
 	"name": "Music & Poetry",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "CHM 233",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "CHM 233",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "CHM 233",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "CHM 233",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "CHM 233",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:22:21.877186+00:00",
@@ -81,10 +69,65 @@
 		{
 			"_updated": "2020-10-15T15:22:57.060017+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:17.299047+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/7",
+			"gereqs": null,
+			"instructors": [
+				"Alison J. Feldt"
+			],
+			"instructors_full": null,
+			"junior": "2/19",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "CHM 233",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "CHM 233",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "CHM 233",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "CHM 233",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "CHM 233",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/8",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "7/8",
 	"status": "O",
 	"term": 19972,
 	"type": "Research",

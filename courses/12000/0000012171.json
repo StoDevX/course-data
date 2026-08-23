@@ -4,10 +4,22 @@
 	"crsid": "0000000940",
 	"department": "NURS",
 	"enrolled": 30,
-	"instructors": [
-		"Diana Neal"
+	"enrollment_fy": 9,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Neal, Diana"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5499",
+			"name": "Neal, Diana"
+		}
+	],
 	"level": 100,
 	"max": 40,
 	"name": "Images of Wellness",
@@ -15,13 +27,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "HH 403",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.368104+00:00",
@@ -36,6 +47,35 @@
 		{
 			"_updated": "2020-10-15T15:23:21.738435+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:07.343732+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Diana Neal"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "22:00",
+					"location": "HH 403",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,38 +4,40 @@
 	"crsid": "0000001293",
 	"department": "SOAN",
 	"enrolled": 17,
-	"firstyear": "4/18",
-	"instructors": [
-		"Phyllis G. Myers"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "3/4",
-	"learningmode": "S",
+	"instructors": [
+		"Myers, Phyllis G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5438",
+			"name": "Myers, Phyllis G."
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_fy": 18,
+	"max_jr": 4,
+	"max_so": 10,
+	"max_sr": 3,
 	"name": "Soc Prob/Soc Change",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "L 420",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "L 420",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "L 420",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.470401+00:00",
@@ -64,12 +66,54 @@
 		{
 			"_updated": "2020-10-15T15:23:02.271077+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.339844+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/18",
+			"gereqs": null,
+			"instructors": [
+				"Phyllis G. Myers"
+			],
+			"instructors_full": null,
+			"junior": "3/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "L 420",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "L 420",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 420",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/3",
+			"sophomore": "8/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/3",
-	"sophomore": "8/10",
 	"status": "O",
 	"term": 19991,
 	"type": "Research",

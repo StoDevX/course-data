@@ -4,36 +4,36 @@
 	"crsid": "0000002051",
 	"department": "PARA",
 	"enrolled": 19,
-	"instructors": [
-		"Bruce Nordstrom-Loeb"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nordstrom-Loeb, Bruce"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5728",
+			"name": "Nordstrom-Loeb, Bruce"
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Gender: Here and Now",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "H 515",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "H 515",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "H 515",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.822838+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:00.704248+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:26.947313+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bruce Nordstrom-Loeb"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "H 515",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "H 515",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "H 515",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

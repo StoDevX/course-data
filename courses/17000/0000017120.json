@@ -4,36 +4,32 @@
 	"crsid": "0000001883",
 	"department": "FAMST",
 	"enrolled": 3,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Rebecca A. Benedict"
+		"Benedict, Rebecca A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "353",
+			"name": "Benedict, Rebecca A."
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Nutrition in Commun",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "H 209",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 209",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 209",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.771098+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:22:49.603260+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:59.185224+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Rebecca A. Benedict"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 209",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 209",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 209",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

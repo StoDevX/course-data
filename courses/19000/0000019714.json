@@ -4,30 +4,35 @@
 	"crsid": "0000001388",
 	"department": "THEAT",
 	"enrolled": 8,
-	"instructors": [
-		"Brian Bjorklund"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bjorklund, Brian"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "611",
+			"name": "Bjorklund, Brian"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Lighting & Sound",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "TB Green Rm",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "TB Green Rm",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.722526+00:00",
@@ -59,6 +64,41 @@
 		{
 			"_updated": "2020-10-15T15:22:53.784286+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:57.601938+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Brian Bjorklund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "TB Green Rm",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "TB Green Rm",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

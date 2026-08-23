@@ -4,31 +4,35 @@
 	"crsid": "0000000045",
 	"department": "ART",
 	"enrolled": 22,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 10,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Ron Gallas"
+		"Gallas, Ron"
 	],
-	"junior": "4/8",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_jr": 8,
+	"max_so": 8,
+	"max_sr": 4,
 	"name": "Ceramics",
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
-			"location": "FH 19",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH 19",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.266203+00:00",
@@ -56,11 +60,46 @@
 		{
 			"_updated": "2020-10-15T15:22:57.697521+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:20.577135+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "4/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH 19",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH 19",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/4",
+			"sophomore": "10/8",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "7/4",
-	"sophomore": "10/8",
 	"status": "C",
 	"term": 19973,
 	"type": "Research",

@@ -4,30 +4,37 @@
 	"crsid": "0000001483",
 	"department": "ARMS",
 	"enrolled": 24,
-	"instructors": [
-		"Eric J. Fure-Slocum"
+	"enrollment_fy": 2,
+	"enrollment_jr": 6,
+	"enrollment_so": 13,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HWC",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Fure-Slocum, Eric J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10197",
+			"name": "Fure-Slocum, Eric J."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Intro to Arms",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 30",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 30",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.189432+00:00",
@@ -42,6 +49,41 @@
 		{
 			"_updated": "2020-10-15T15:23:06.421855+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.652914+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 30",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 30",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

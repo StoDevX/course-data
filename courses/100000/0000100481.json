@@ -1,16 +1,24 @@
 {
 	"clbid": "0000100481",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 24,
-	"groupid": "0000000192",
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"George K. Anquandah"
+		"Anquandah, George K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26281",
+			"name": "Anquandah, George K."
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
 	"offerings": [
@@ -22,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-07T21:54:34.054666+00:00",
@@ -64,11 +71,32 @@
 		{
 			"_updated": "2021-03-02T16:51:33.707417+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:47.901737+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"George K. Anquandah"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "2/6",
+			"title": null
 		}
 	],
 	"section": "F",
 	"semester": 1,
-	"sophomore": "2/6",
 	"status": "C",
 	"term": 20151,
 	"type": "Lab",

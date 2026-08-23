@@ -4,30 +4,36 @@
 	"crsid": "0000000078",
 	"department": "ASIAN",
 	"enrolled": 22,
-	"instructors": [
-		"Pin Pin Wan"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wan, Pin Pin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8890",
+			"name": "Wan, Pin Pin"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Asian Cultures",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 1",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 1",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.637038+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.773468+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:43.263427+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Pin Pin Wan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 1",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

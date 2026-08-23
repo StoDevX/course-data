@@ -4,38 +4,39 @@
 	"crsid": "0000000021",
 	"department": "ART",
 	"enrolled": 22,
-	"firstyear": "6/9",
-	"instructors": [
-		"Wendell Arneson"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/5",
-	"learningmode": "S",
+	"instructors": [
+		"Arneson, Wendell"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 9,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 4,
 	"name": "Found Color Design",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "FH AB",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "FH AB",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "FH AB",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.170762+00:00",
@@ -64,12 +65,54 @@
 		{
 			"_updated": "2020-10-15T15:22:52.659773+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:29.624845+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/9",
+			"gereqs": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"junior": "1/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "FH AB",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "FH AB",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "FH AB",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "10/4",
+			"sophomore": "5/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "10/4",
-	"sophomore": "5/10",
 	"status": "C",
 	"term": 19961,
 	"type": "Research",

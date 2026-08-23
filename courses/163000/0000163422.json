@@ -1,15 +1,21 @@
 {
 	"clbid": "0000163422",
-	"credits": 0.0,
 	"crsid": "0000036612",
 	"department": "WRIT",
 	"enrolled": 0,
-	"groupid": "0000036257",
-	"grouptype": "F",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 17,
 	"name": "SOAR Discussion",
@@ -20,13 +26,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "TOH 210",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-05-19T03:17:31.618900+00:00",
@@ -45,11 +50,39 @@
 		{
 			"_updated": "2025-07-11T03:42:25.995617+00:00",
 			"enrolled": 2
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.295299+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000036257",
+			"grouptype": "F",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "TOH 210",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"status": "O",
+			"title": null
 		}
 	],
 	"section": "F",
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20251,
 	"type": "Discussion",
 	"year": 2025

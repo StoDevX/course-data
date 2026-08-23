@@ -7,14 +7,24 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 21,
+	"enrollment_fy": 5,
+	"enrollment_jr": 8,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Terry M. VanDeWalker"
+		"VanDeWalker, Terry M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31125",
+			"name": "VanDeWalker, Terry M."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Fitness Walking",
@@ -24,14 +34,8 @@
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:05",
-			"location": "Tostrud Ctr",
-			"start": "12:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:05",
+			"day": "TTh",
+			"end": "0205PM",
 			"location": "Tostrud Ctr",
 			"start": "12:45"
 		}
@@ -156,6 +160,40 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.016615+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Terry M. VanDeWalker"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:05",
+					"location": "Tostrud Ctr",
+					"start": "12:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "Tostrud Ctr",
+					"start": "12:45"
+				}
 			]
 		}
 	],

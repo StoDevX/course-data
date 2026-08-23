@@ -1,14 +1,21 @@
 {
 	"clbid": "0000101286",
-	"credits": 0.0,
 	"crsid": "0000000240",
 	"department": "CHIN",
 	"enrolled": 12,
-	"groupid": "0000000239",
+	"enrollment_fy": 8,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Ka F. Wong"
+		"Wong, Ka F."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23552",
+			"name": "Wong, Ka F."
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Beginning Chinese II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 175",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-08-13T23:00:19.872621+00:00",
@@ -57,6 +63,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.213842+00:00",
 			"max": 18
+		},
+		{
+			"_updated": "2026-08-23T03:03:55.390561+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000239",
+			"instructors": [
+				"Ka F. Wong"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 175",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

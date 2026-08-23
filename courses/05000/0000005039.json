@@ -4,30 +4,40 @@
 	"crsid": "0000000546",
 	"department": "GREEK",
 	"enrolled": 9,
-	"instructors": [
-		"Jon Bruss"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"FOL-K"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bruss, Jon"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14963",
+			"name": "Bruss, Jon"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Greek Philosophy",
 	"number": 372,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 003",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 003",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.043967+00:00",
@@ -42,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:23:12.061541+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.682537+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jon Bruss"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 003",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 003",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,36 +4,35 @@
 	"crsid": "0000001974",
 	"department": "MUSIC",
 	"enrolled": 12,
-	"instructors": [
-		"Anton Armstrong"
+	"enrollment_fy": 1,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Armstrong, Anton"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "263",
+			"name": "Armstrong, Anton"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "The Art of Music",
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CHM 239",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CHM 239",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CHM 239",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.457713+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:22:53.265928+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.480242+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anton Armstrong"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

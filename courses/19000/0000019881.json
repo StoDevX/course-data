@@ -4,42 +4,35 @@
 	"crsid": "0000001808",
 	"department": "HIST",
 	"enrolled": 7,
-	"instructors": [
-		"Dolores Peters"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-L"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Peters, Dolores"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6245",
+			"name": "Peters, Dolores"
+		}
+	],
 	"level": 200,
 	"max": 40,
 	"name": "Lit/Resist/Occ/France",
 	"number": 253,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "M-Th",
+			"end": "0330PM",
 			"location": "H 317",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "H 317",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "H 317",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "H 317",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.314421+00:00",
@@ -54,6 +47,53 @@
 		{
 			"_updated": "2020-10-15T15:22:54.166789+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:01.651516+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Dolores Peters"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "H 317",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "H 317",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "H 317",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "H 317",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

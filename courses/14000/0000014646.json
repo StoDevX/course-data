@@ -4,37 +4,38 @@
 	"crsid": "0000000021",
 	"department": "ART",
 	"enrolled": 20,
+	"enrollment_fy": 3,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-A"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "5/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 4,
+	"max_so": 5,
+	"max_sr": 3,
 	"name": "Found Color Design",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "FHAB",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "FHAB",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "FHAB",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.553847+00:00",
@@ -62,12 +63,50 @@
 		{
 			"_updated": "2020-10-15T15:22:46.529082+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.213736+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "5/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "FHAB",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "FHAB",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "FHAB",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/3",
+			"sophomore": "3/5",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "9/3",
-	"sophomore": "3/5",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

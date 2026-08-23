@@ -1,14 +1,21 @@
 {
 	"clbid": "0000160060",
-	"credits": 0.0,
 	"crsid": "0000022826",
 	"department": "NEURO",
 	"enrolled": 5,
-	"groupid": "0000022782",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Norman Lee"
+		"Lee, Norman"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29095",
+			"name": "Lee, Norman"
+		}
+	],
 	"level": 200,
 	"max": 11,
 	"name": "Cell/Molec Neuro Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 240",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-09-21T02:44:14.985145+00:00",
@@ -92,6 +98,35 @@
 		{
 			"_updated": "2025-02-09T02:50:20.520069+00:00",
 			"enrolled": 6
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.369699+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000022782",
+			"instructors": [
+				"Norman Lee"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:00",
+					"location": "RNS 240",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

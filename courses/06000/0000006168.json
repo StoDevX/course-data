@@ -4,36 +4,35 @@
 	"crsid": "0000001071",
 	"department": "PHYS",
 	"enrolled": 21,
-	"instructors": [
-		"Peter L. Moore"
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"NSC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Moore, Peter L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15934",
+			"name": "Moore, Peter L."
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Geophysics",
 	"number": 123,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 129",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 129",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 129",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.993233+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:13.655716+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.556933+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Peter L. Moore"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 129",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 129",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 129",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

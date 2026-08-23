@@ -4,48 +4,35 @@
 	"crsid": "0000001700",
 	"department": "ENGL",
 	"enrolled": 16,
-	"instructors": [
-		"Ronald J. Lee"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 9,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lee, Ronald J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4736",
+			"name": "Lee, Ronald J."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Shakespeare in Perfor",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "L 525",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "L 525",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "L 525",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "L 525",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "L 525",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.299956+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:22:54.157472+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:00.402818+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ronald J. Lee"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "L 525",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "L 525",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "L 525",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "L 525",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "L 525",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

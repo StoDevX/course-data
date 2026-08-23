@@ -7,10 +7,23 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120."
 	],
 	"enrolled": 18,
-	"instructors": [
-		"Moa Apagodu"
+	"enrollment_fy": 8,
+	"enrollment_jr": 0,
+	"enrollment_so": 9,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Apagodu, Moa"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "31187",
+			"name": "Apagodu, Moa"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Elem Linear Algebra",
@@ -20,19 +33,7 @@
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "TOH 184",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "TOH 184",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "TOH 184",
 			"start": "10:45"
@@ -178,6 +179,43 @@
 			"_updated": "2025-10-11T21:36:33.508869+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.680271+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Moa Apagodu"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "TOH 184",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "TOH 184",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "TOH 184",
+					"start": "10:45"
+				}
 			]
 		}
 	],

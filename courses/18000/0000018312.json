@@ -4,36 +4,32 @@
 	"crsid": "0000000811",
 	"department": "MUSIC",
 	"enrolled": 13,
+	"enrollment_fy": 2,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Paul Niemisto"
+		"Niemisto, Paul"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5614",
+			"name": "Niemisto, Paul"
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Brass Class",
 	"number": 166,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CHM 138",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CHM 138",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CHM 138",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.880029+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.939448+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:59.689156+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Paul Niemisto"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CHM 138",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CHM 138",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CHM 138",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

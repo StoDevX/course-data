@@ -4,16 +4,23 @@
 	"crsid": "0000000433",
 	"department": "ENGL",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Colin Wells"
+		"Wells, Colin"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8973",
+			"name": "Wells, Colin"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-05-31T03:11:34.269167+00:00",
@@ -40,6 +47,26 @@
 		{
 			"_updated": "2021-03-02T16:51:43.154952+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:20.473521+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Colin Wells"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 5,

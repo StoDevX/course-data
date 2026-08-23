@@ -4,36 +4,36 @@
 	"crsid": "0000000363",
 	"department": "DNCTE",
 	"enrolled": 12,
-	"instructors": [
-		"Janice Roberts"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roberts, Janice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3206",
+			"name": "Roberts, Janice"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Modern III",
 	"number": 311,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "17:00",
+			"day": "MWF",
+			"end": "0500PM",
 			"location": "SPT RHT",
-			"start": "15:30"
-		},
-		{
-			"day": "We",
-			"end": "17:00",
-			"location": "SPT RHT",
-			"start": "15:30"
-		},
-		{
-			"day": "Fr",
-			"end": "17:00",
-			"location": "SPT RHT",
-			"start": "15:30"
+			"start": "03:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.383411+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:22:57.775801+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:23.407965+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Janice Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "SPT RHT",
+					"start": "15:30"
+				},
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "SPT RHT",
+					"start": "15:30"
+				},
+				{
+					"day": "Fr",
+					"end": "17:00",
+					"location": "SPT RHT",
+					"start": "15:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

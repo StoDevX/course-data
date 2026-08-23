@@ -7,13 +7,27 @@
 		"A first course in statistical methods for scientists, this course addresses issues for proposing/designing an experiment, as well as exploratory and inferential techniques for analyzing and modeling scientific data. Topics include probability models, exploratory graphics, descriptive techniques, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Prerequisite: Mathematics 120, 121, or equivalent, and an introductory science course. Offered each semester. Credit will not be given for more than one of Statistics 110, Statistics 212, or Statistics 263; credit will not be given for Statistics 110, Statistics 212, or Statistics 263 following completion of Statistics 272."
 	],
 	"enrolled": 25,
-	"firstyear": "7/5",
-	"instructors": [
-		"Julie M. Legler"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Legler, Julie M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14114",
+			"name": "Legler, Julie M."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 5,
+	"max_sr": 5,
 	"name": "Statistics for Science",
 	"notes": [
 		"This course has class-year limits."
@@ -21,22 +35,10 @@
 	"number": 212,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "TOH 182",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "TOH 182",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "TOH 182",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -75,11 +77,49 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:51.120690+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/5",
+			"gereqs": null,
+			"instructors": [
+				"Julie M. Legler"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "TOH 182",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "TOH 182",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "TOH 182",
+					"start": "14:00"
+				}
+			],
+			"senior": "8/5"
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "8/5",
 	"status": "C",
 	"term": 20113,
 	"title": "Statistics for the Sciences",

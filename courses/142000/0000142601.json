@@ -4,19 +4,36 @@
 	"crsid": "0000037182",
 	"department": "FAMST",
 	"enrolled": 25,
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"ORC",
 		"RFV"
 	],
 	"instructors": [
-		"Erica Kanewischer"
+		"Kanewischer, Erica"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14740",
+			"name": "Kanewischer, Erica"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Family, Faith and Values",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "1240PM",
+			"location": "VRTL Online",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:39.374545+00:00",
@@ -24,6 +41,30 @@
 				"ORC",
 				"RFV"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:44.232184+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"RFV"
+			],
+			"instructors": [
+				"Erica Kanewischer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

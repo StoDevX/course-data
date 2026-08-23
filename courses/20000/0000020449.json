@@ -4,30 +4,31 @@
 	"crsid": "0000000749",
 	"department": "MATH",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Theodore Vessey"
+		"Vessey, Theodore"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8796",
+			"name": "Vessey, Theodore"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Operations Research",
 	"number": 266,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 184",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 184",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.723567+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:22:54.946610+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:20.276182+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Theodore Vessey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

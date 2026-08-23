@@ -4,36 +4,34 @@
 	"crsid": "0000000730",
 	"department": "MATH",
 	"enrolled": 27,
-	"instructors": [
-		"Peder Bolstad"
+	"enrollment_fy": 19,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bolstad, Peder"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "661",
+			"name": "Bolstad, Peder"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Calculus/Algebra II",
 	"number": 119,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 188",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 188",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 188",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.711801+00:00",
@@ -48,6 +46,48 @@
 		{
 			"_updated": "2020-10-15T15:22:54.938647+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:19.340526+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Peder Bolstad"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 188",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 188",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 188",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000052009",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 24,
-	"groupid": "0000000122",
-	"grouptype": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 17,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Pele E. Rich"
+		"Rich, Pele E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17587",
+			"name": "Rich, Pele E."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermediate Genetics Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:23.036382+00:00",
@@ -38,6 +43,28 @@
 		{
 			"_updated": "2020-10-15T15:23:25.194965+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:21.743241+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000122",
+			"grouptype": "1",
+			"instructors": [
+				"Pele E. Rich"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

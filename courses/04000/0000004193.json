@@ -4,36 +4,35 @@
 	"crsid": "0000001012",
 	"department": "PEAC",
 	"enrolled": 23,
-	"instructors": [
-		"William Sean Goldsworthy"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Goldsworthy, William Sean"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2652",
+			"name": "Goldsworthy, William Sean"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SAC FH",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SAC FH",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SAC FH",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.743772+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:10.643373+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.495196+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SAC FH",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SAC FH",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SAC FH",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -7,35 +7,34 @@
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and structured collaborative software-development methodology. Concepts and skills are applied in a substantial multi-week team project. Topics include object-oriented programming, specification, programmed memory management, indirect addressing, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Counts toward mathematical biology and management studies concentrations; one of CSCI 121, CSCI 125, CSCI 251 counts toward linguistic studies concentration. Offered each semester.Prerequisite: CSCI 121 or CSCI 125 or CSCI 241 or PHYS 130 or MATH 252 or permission of instructor; concurrent registration in CSCI 252 is required."
 	],
 	"enrolled": 19,
+	"enrollment_fy": 3,
+	"enrollment_jr": 6,
+	"enrollment_so": 9,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Olaf A. Hall-Holt"
+		"Hall-Holt, Olaf A."
 	],
-	"junior": "6/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_jr": 6,
+	"max_so": 9,
+	"max_sr": 1,
 	"name": "Software Design",
 	"notes": [
-		"Prerequisite: CS 121, CS 125, PHYS 130, Math 252, or permission of instructor.",
-		"This course has class-year limits. Must have placement recommendation to enroll",
+		"Prerequisite: CS 121, CS 125, PHYS 130, Math 252, or permission of instructor.  ",
+		"This course has class-year limits. Must have placement recommendation to enroll ",
 		"in this course. Students in CS 251 must also register for lab CSCI 252 AL or BL."
 	],
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 202",
 			"start": "09:05"
@@ -151,11 +150,54 @@
 		{
 			"_updated": "2023-06-04T03:08:03.424183+00:00",
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.763504+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"junior": "6/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: CS 121, CS 125, PHYS 130, Math 252, or permission of instructor.",
+				"This course has class-year limits. Must have placement recommendation to enroll",
+				"in this course. Students in CS 251 must also register for lab CSCI 252 AL or BL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "1/1",
+			"sophomore": "9/9"
 		}
 	],
 	"semester": 1,
-	"senior": "1/1",
-	"sophomore": "9/9",
 	"status": "O",
 	"term": 20191,
 	"title": "Software Design and Implementation",

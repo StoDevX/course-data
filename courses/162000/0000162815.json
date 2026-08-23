@@ -1,14 +1,21 @@
 {
 	"clbid": "0000162815",
-	"credits": 0.0,
 	"crsid": "0000026713",
 	"department": "BIO",
 	"enrolled": 17,
-	"groupid": "0000026712",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 14,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Will E. Matchett"
+		"Matchett, Will E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35072",
+			"name": "Matchett, Will E."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Human Anatomy & Physiology I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "RNS 454",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:24.173123+00:00",
@@ -78,6 +84,35 @@
 			"_updated": "2025-10-11T21:36:51.733348+00:00",
 			"enrolled": 20,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.031939+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026712",
+			"instructors": [
+				"Will E. Matchett"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 454",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

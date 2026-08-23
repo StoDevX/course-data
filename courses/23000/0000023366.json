@@ -1,21 +1,26 @@
 {
 	"clbid": "0000023366",
-	"credits": 0.0,
 	"crsid": "0000000341",
 	"department": "EDUC",
 	"enrolled": 28,
-	"firstyear": "0/0",
-	"halfcredit": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 28,
 	"instructors": [
-		"Debra E. Anderson"
+		"Anderson, Debra E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "190",
+			"name": "Anderson, Debra E."
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
 	"name": "Human Relations",
 	"number": 382,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.133309+00:00",
@@ -34,6 +39,30 @@
 		{
 			"_updated": "2020-10-15T15:22:59.271084+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.042500+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"halfcredit": "2",
+			"instructors": [
+				"Debra E. Anderson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

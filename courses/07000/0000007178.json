@@ -4,48 +4,38 @@
 	"crsid": "0000000954",
 	"department": "NURS",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 19,
 	"instructors": [
-		"Judith Sateren"
+		"Sateren, Judith"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7051",
+			"name": "Sateren, Judith"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Alter Mental Health",
 	"number": 360,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 18",
 			"start": "09:05"
 		},
 		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 18",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 18",
-			"start": "09:05"
-		},
-		{
-			"day": "Tu",
-			"end": "14:30",
-			"location": "SC 18",
-			"start": "07:00"
-		},
-		{
-			"day": "Th",
-			"end": "14:30",
+			"day": "TTh",
+			"end": "0230PM",
 			"location": "SC 18",
 			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.457373+00:00",
@@ -60,6 +50,58 @@
 		{
 			"_updated": "2020-10-15T15:23:15.014908+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.097801+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Judith Sateren"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 18",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 18",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 18",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "14:30",
+					"location": "SC 18",
+					"start": "07:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:30",
+					"location": "SC 18",
+					"start": "07:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

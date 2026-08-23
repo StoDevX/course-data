@@ -1,14 +1,21 @@
 {
 	"clbid": "0000110399",
-	"credits": 0.0,
 	"crsid": "0000000129",
 	"department": "BIO",
 	"enrolled": 16,
-	"groupid": "0000000128",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Kevin B. Potts"
+		"Potts, Kevin B."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28156",
+			"name": "Potts, Kevin B."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Animal Physiology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 254",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-08-14T11:57:36.583827+00:00",
@@ -58,6 +64,35 @@
 		{
 			"_updated": "2020-10-15T15:24:01.797885+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:09.810159+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000128",
+			"instructors": [
+				"Kevin B. Potts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 254",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

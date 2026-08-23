@@ -1,14 +1,21 @@
 {
 	"clbid": "0000120645",
-	"credits": 0.0,
 	"crsid": "0000001052",
 	"department": "ESTH",
 	"enrolled": 17,
-	"groupid": "0000001051",
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Jennifer M. Miller"
+		"Miller, Jenny M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28146",
+			"name": "Miller, Jenny M."
+		}
+	],
 	"level": 200,
 	"max": 8,
 	"name": "Prevention/Care Athletic Injur Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "SAC Tr Rm",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-03-10T02:34:12.140558+00:00",
@@ -155,6 +161,35 @@
 			"instructors": [
 				"Jennifer M. Holbein"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.892382+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001051",
+			"instructors": [
+				"Jennifer M. Miller"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SAC Tr Rm",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

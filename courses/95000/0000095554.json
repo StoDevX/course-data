@@ -4,16 +4,23 @@
 	"crsid": "0000001315",
 	"department": "SOAN",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Christopher L. Chiappari"
+		"Chiappari, Chris L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10036",
+			"name": "Chiappari, Chris L."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Academic Internship",
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-10T21:59:57.060638+00:00",
@@ -38,6 +45,26 @@
 		{
 			"_updated": "2020-10-15T15:23:54.109880+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:39.011561+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

@@ -4,30 +4,36 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 17,
-	"instructors": [
-		"Jennifer Bader"
+	"enrollment_fy": 4,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bader, Jennifer"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "311",
+			"name": "Bader, Jennifer"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Modern Dance I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CHM 140",
-			"start": "10:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CHM 140",
 			"start": "10:05"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.141456+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:59.276236+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.478186+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jennifer Bader"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CHM 140",
+					"start": "10:05"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CHM 140",
+					"start": "10:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

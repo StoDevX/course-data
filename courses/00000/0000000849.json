@@ -4,48 +4,37 @@
 	"crsid": "0000000512",
 	"department": "GERM",
 	"enrolled": 30,
-	"instructors": [
-		"Karl Fink"
+	"enrollment_fy": 9,
+	"enrollment_jr": 8,
+	"enrollment_so": 9,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Fink, Karl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2103",
+			"name": "Fink, Karl"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Age of Goethe-Tr",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 4",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "M 4",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 4",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "M 4",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "M 4",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.509285+00:00",
@@ -60,6 +49,59 @@
 		{
 			"_updated": "2020-10-15T15:23:05.474093+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.292041+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karl Fink"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 4",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "M 4",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 4",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "M 4",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 4",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

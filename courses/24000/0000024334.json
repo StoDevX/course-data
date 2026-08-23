@@ -4,10 +4,19 @@
 	"crsid": "0000000200",
 	"department": "CHEM",
 	"enrolled": 26,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 19,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Wesley Pearson"
+		"Pearson, Wesley"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6161",
+			"name": "Pearson, Wesley"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Synthesis Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 378/311",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.581366+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:23:00.546188+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:18.819431+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Wesley Pearson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "SC 378/311",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

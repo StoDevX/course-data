@@ -1,14 +1,21 @@
 {
 	"clbid": "0000120632",
-	"credits": 0.0,
 	"crsid": "0000000135",
 	"department": "BIO",
 	"enrolled": 16,
-	"groupid": "0000000134",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"John Giannini"
+		"Giannini, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Plant Physiology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 455",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:58.033915+00:00",
@@ -97,6 +103,35 @@
 		{
 			"_updated": "2021-03-02T16:51:46.066298+00:00",
 			"max": 16
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.781738+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000134",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 455",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

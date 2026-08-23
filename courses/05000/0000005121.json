@@ -4,36 +4,32 @@
 	"crsid": "0000000738",
 	"department": "MATH",
 	"enrolled": 19,
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Doreen Hamilton"
+		"Hamilton, Doreen"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14136",
+			"name": "Hamilton, Doreen"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Multivariable Calc",
 	"number": 226,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "SC 188",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.104266+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:12.097066+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.703626+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Doreen Hamilton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000090039",
-	"credits": 0.0,
 	"crsid": "0000000101",
 	"department": "BIO",
 	"enrolled": 15,
-	"groupid": "0000000100",
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Alyson Center"
+		"Center, Alyson"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26207",
+			"name": "Center, Alyson"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Biological Science Lab",
@@ -22,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:15.300300+00:00",
@@ -45,6 +51,27 @@
 		{
 			"_updated": "2021-03-02T16:51:28.202850+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:03:23.657198+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000100",
+			"instructors": [
+				"Alyson Center"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

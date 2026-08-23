@@ -7,31 +7,32 @@
 		"This course introduces the religious and philosophical traditions of China and Japan: Confucianism, Chinese Taoism, Buddhism, Japanese Shinto, and the folk traditions. Students read classical texts such as Zhuangzi and Mencius and analyze fundamental values and concepts such as Tao, yin/yang, and humaneness."
 	],
 	"enrolled": 15,
-	"firstyear": "0/0",
-	"instructors": [
-		"Barbara Reed"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"MCG",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Reed, Barbara"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6625",
+			"name": "Reed, Barbara"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
 	"name": "Religions China/Japan",
 	"number": 256,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "OM 340",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "OM 340",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "OM 340",
 			"start": "11:50"
 		}
@@ -62,6 +63,45 @@
 			"gereqs": [
 				"MCG"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:30.016625+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Barbara Reed"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "OM 340",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "OM 340",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "OM 340",
+					"start": "11:50"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

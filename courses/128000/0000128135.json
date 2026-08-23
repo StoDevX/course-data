@@ -1,17 +1,25 @@
 {
 	"clbid": "0000128135",
-	"credits": 0.0,
 	"crsid": "0000033697",
 	"department": "BIO",
 	"enrolled": 7,
-	"firstyear": "0/0",
-	"groupid": "0000000166",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Sara E. Fruehling"
+		"Fruehling, Sara E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17588",
+			"name": "Fruehling, Sara E."
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Immunology Lab",
 	"number": 382,
 	"offerings": [
@@ -23,7 +31,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-04-18T05:38:38.845364+00:00",
@@ -51,11 +58,33 @@
 		{
 			"_updated": "2020-10-15T15:24:11.367363+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.724324+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000166",
+			"instructors": [
+				"Sara E. Fruehling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20191,
 	"type": "Lab",

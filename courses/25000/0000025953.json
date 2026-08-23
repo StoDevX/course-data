@@ -4,78 +4,38 @@
 	"crsid": "0000000040",
 	"department": "ART",
 	"enrolled": 14,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Janet C. Cameron"
+		"Cameron, Janet C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "898",
+			"name": "Cameron, Janet C."
+		}
+	],
 	"level": 200,
 	"max": 13,
 	"name": "Comp-Generatd Imagery",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "FH 21",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "FH 21",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "FH 21",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "FH 21",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "FH 21",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "FH 21",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "FH 21",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "FH 21",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "FH 21",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "FH 21",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "FH 21",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.214858+00:00",
@@ -90,6 +50,88 @@
 		{
 			"_updated": "2020-10-15T15:23:02.627478+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:58.804666+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Janet C. Cameron"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "FH 21",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "FH 21",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "FH 21",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "FH 21",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "FH 21",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "FH 21",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "FH 21",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "FH 21",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "FH 21",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "FH 21",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

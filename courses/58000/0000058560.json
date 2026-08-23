@@ -1,28 +1,81 @@
 {
-	"clbid": 58560,
+	"clbid": "0000058560",
 	"credits": 0.25,
-	"crsid": 1006,
-	"departments": [
-		"ESAC"
+	"crsid": "0000001006",
+	"department": "ESAC",
+	"description": [
+		"Current first aid/CPR certification is necessary to qualify for Red Cross certification in W.S.I.. Prerequisite: Exercise Science 121 or 130."
 	],
-	"description": "Current first aid/CPR certification is necessary to qualify for Red Cross certification in W.S.I.. Prerequisite: Exercise Science 121 or 130.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"PHA"
+	],
 	"instructors": [
-		"Robert Hauck"
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"SAC Pool"
-	],
+	"max": 0,
 	"name": "Water Safety Instruct",
 	"number": 123,
+	"offerings": [
+		{
+			"day": "MW",
+			"end": "0150PM",
+			"location": "SAC Pool",
+			"start": "12:55"
+		}
+	],
 	"pn": false,
-	"prerequisites": "Prerequisite: Exercise Science 121 or 130.",
+	"prerequisites": "Exercise Science 121 or 130.",
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:36.631559+00:00",
+			"clbid": 58560,
+			"crsid": 1006,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"description": "Current first aid/CPR certification is necessary to qualify for Red Cross certification in W.S.I.. Prerequisite: Exercise Science 121 or 130.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Robert Hauck"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SAC Pool"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": "Prerequisite: Exercise Science 121 or 130.",
+			"section": null,
+			"times": [
+				"MW 1255-0150PM"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "X",
 	"term": 20073,
-	"times": [
-		"MW 1255-0150PM"
-	],
 	"title": "Water Safety Instruction",
 	"type": "Research",
 	"year": 2007

@@ -4,31 +4,40 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 31,
-	"instructors": [
-		"Joan Hepburn",
-		"Jonathan Hill"
+	"enrollment_fy": 0,
+	"enrollment_jr": 24,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hepburn, Joan",
+		"Hill, Jonathan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3322",
+			"name": "Hepburn, Joan"
+		},
+		{
+			"fsnum": "3341",
+			"name": "Hill, Jonathan"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "L 525",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "L 525",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.776944+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:50.870856+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:49.165255+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joan Hepburn",
+				"Jonathan Hill"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "L 525",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "L 525",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

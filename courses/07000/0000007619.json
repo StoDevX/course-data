@@ -4,14 +4,28 @@
 	"crsid": "0000000025",
 	"department": "ART",
 	"enrolled": 15,
-	"firstyear": "2/2",
-	"instructors": [
-		"Patrick T. Kelley"
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "4/3",
-	"learningmode": "S",
+	"instructors": [
+		"Kelley, Patrick T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14002",
+			"name": "Kelley, Patrick T."
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 2,
+	"max_jr": 3,
+	"max_so": 5,
+	"max_sr": 2,
 	"name": "Found Digital Media",
 	"number": 117,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.729996+00:00",
@@ -65,12 +78,34 @@
 		{
 			"_updated": "2020-10-15T15:23:16.394522+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.660476+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/2",
+			"gereqs": null,
+			"instructors": [
+				"Patrick T. Kelley"
+			],
+			"instructors_full": null,
+			"junior": "4/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "7/2",
+			"sophomore": "2/5",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "7/2",
-	"sophomore": "2/5",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

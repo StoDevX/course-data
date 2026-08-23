@@ -7,21 +7,46 @@
 		"Students explore special topics in computer science. Topics may vary from year-to-year. May be repeated if topics are different. Offered periodically. Prerequisite: permission of instructor."
 	],
 	"enrolled": 12,
-	"firstyear": "8/15",
+	"enrollment_fy": 8,
+	"enrollment_jr": 0,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Elizabeth A. Jensen"
+		"Jensen, Elizabeth A."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16680",
+			"name": "Jensen, Elizabeth A."
+		}
+	],
 	"level": 200,
 	"max": 23,
+	"max_fy": 15,
+	"max_jr": 0,
+	"max_so": 8,
+	"max_sr": 0,
 	"name": "Top: Data Structures in C++",
 	"notes": [
-		"Prerequisite: CSCI 121 or CSCI 125; closed to students who have taken CSCI 241",
-		"or CSCI 251. This course has class-year limits and is open only to first-year",
+		"Prerequisite: CSCI 121 or CSCI 125; closed to students who have taken CSCI 241  ",
+		"or CSCI 251.  This course has class-year limits and is open only to first-year  ",
 		"and sophomore students."
 	],
 	"number": 200,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "VRTL Online",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
+			"location": "VRTL Online",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": "permission of instructor.",
 	"revisions": [
@@ -187,11 +212,36 @@
 			"_updated": "2021-01-06T16:20:01.284300+00:00",
 			"enrolled": 13,
 			"sophomore": "5/8"
+		},
+		{
+			"_updated": "2026-08-23T03:04:37.234957+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/15",
+			"instructors": [
+				"Elizabeth A. Jensen"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: CSCI 121 or CSCI 125; closed to students who have taken CSCI 241",
+				"or CSCI 251. This course has class-year limits and is open only to first-year",
+				"and sophomore students."
+			],
+			"offerings": null,
+			"section": null,
+			"senior": "0/0",
+			"sophomore": "4/8"
 		}
 	],
 	"semester": 2,
-	"senior": "0/0",
-	"sophomore": "4/8",
 	"status": "O",
 	"term": 20202,
 	"title": "Topics in Computer Science",

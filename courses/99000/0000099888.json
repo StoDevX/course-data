@@ -1,14 +1,21 @@
 {
 	"clbid": "0000099888",
-	"credits": 0.0,
 	"crsid": "0000000103",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000000102",
+	"enrollment_fy": 1,
+	"enrollment_jr": 10,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Beth Pettitt"
+		"Pettitt, Beth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27204",
+			"name": "Pettitt, Beth"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Human Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:15",
+			"end": "0415PM",
 			"location": "RNS 254",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-28T23:00:19.168975+00:00",
@@ -55,6 +61,35 @@
 		{
 			"_updated": "2021-03-02T16:51:33.526818+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:47.254856+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000102",
+			"instructors": [
+				"Beth Pettitt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:15",
+					"location": "RNS 254",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

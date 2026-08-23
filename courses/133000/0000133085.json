@@ -1,15 +1,21 @@
 {
 	"clbid": "0000133085",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 17,
-	"groupid": "0000001158",
-	"grouptype": "3",
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Grace E. Cho"
+		"Cho, Grace E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20130",
+			"name": "Cho, Grace E."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 160C",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-12T08:22:49.354078+00:00",
@@ -84,6 +89,36 @@
 			"_updated": "2021-02-06T16:34:09.526669+00:00",
 			"enrolled": 18,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:39.049885+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "3",
+			"instructors": [
+				"Grace E. Cho"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 160C",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

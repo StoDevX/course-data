@@ -7,14 +7,25 @@
 		"Required for the women's and gender studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts toward American studies major and educational studies concentration."
 	],
 	"enrolled": 15,
-	"firstyear": "5/6",
+	"enrollment_fy": 5,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Linda Mokdad"
+		"Mokdad, Linda"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26249",
+			"name": "Mokdad, Linda"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Intro Womens/Gender St",
 	"notes": [
 		"This course has class-year limits."
@@ -22,34 +33,10 @@
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "RML 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RML 420",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RML 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RML 420",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "RML 420",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
@@ -138,11 +125,62 @@
 		{
 			"_updated": "2021-03-02T16:51:48.734283+00:00",
 			"max": 25
+		},
+		{
+			"_updated": "2026-08-23T03:04:30.021215+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/6",
+			"instructors": [
+				"Linda Mokdad"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RML 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RML 420",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RML 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RML 420",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RML 420",
+					"start": "13:00"
+				}
+			],
+			"section": null,
+			"senior": "5/6",
+			"sophomore": "1/6"
 		}
 	],
 	"semester": 2,
-	"senior": "5/6",
-	"sophomore": "1/6",
 	"status": "O",
 	"term": 20192,
 	"title": "Introduction to Women's and Gender Studies",

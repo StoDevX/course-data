@@ -7,13 +7,24 @@
 		"This course teaches the skills necessary for lifeguarding, first aid, AED, CPR, and waterfront guarding certification. Prerequisite: must be able to swim 550 yards (22 lengths)."
 	],
 	"enrolled": 12,
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Bob Hauck"
+		"Hauck, Bob"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Lifeguard Training",
@@ -82,6 +93,26 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:47.350427+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"section": null
 		}
 	],
 	"semester": 3,

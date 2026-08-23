@@ -4,36 +4,36 @@
 	"crsid": "0000001327",
 	"department": "SPAN",
 	"enrolled": 20,
-	"instructors": [
-		"Patricia S. Stoppa"
+	"enrollment_fy": 17,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FOL-S",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Stoppa, Patricia S."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17419",
+			"name": "Stoppa, Patricia S."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermed Spanish II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "OM 021",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "OM 021",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "OM 021",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.591420+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:18.398515+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.360935+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Patricia S. Stoppa"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "OM 021",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "OM 021",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "OM 021",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "H",

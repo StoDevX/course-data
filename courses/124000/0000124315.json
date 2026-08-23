@@ -1,14 +1,21 @@
 {
 	"clbid": "0000124315",
-	"credits": 0.0,
 	"crsid": "0000026713",
 	"department": "BIO",
 	"enrolled": 19,
-	"groupid": "0000026712",
+	"enrollment_fy": 4,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Kevin M. Crisp"
+		"Crisp, Kevin M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Human Anatomy & Physiology I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 398",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-14T05:09:38.175878+00:00",
@@ -82,6 +88,35 @@
 		{
 			"_updated": "2020-11-11T16:19:50.611556+00:00",
 			"name": "Cells and Tissues Lab"
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.705188+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026712",
+			"instructors": [
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 398",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,31 +4,37 @@
 	"crsid": "0000001729",
 	"department": "ENVST",
 	"enrolled": 14,
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NST"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "3/14",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 14,
+	"max_sr": 10,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 210",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 210",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.730365+00:00",
@@ -55,11 +61,43 @@
 		{
 			"_updated": "2020-10-15T15:22:46.649407+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.286945+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "3/14",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 210",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 210",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "5/10",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

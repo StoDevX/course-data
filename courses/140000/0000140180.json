@@ -7,14 +7,25 @@
 		"This course continues the study of vector spaces and linear transformations. Topics include: abstract vector spaces; linear transformations, including matrix representations, decompositions such as Jordan Canonical Form and Singular Value Decomposition; characteristic polynomials and the Cayley-Hamilton Theorem; invariant subspaces; and inner product spaces, including orthogonal bases, minimization problems, and the Spectral Theorem. Applications may include graph and network theory, principal component analysis and generalized eigenspaces, iterative solutions of large systems, and representation theory. Prerequisites: MATH 220, and MATH 244 or MATH 252."
 	],
 	"enrolled": 22,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 1,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Jill Dietz"
+		"Dietz, Jill"
 	],
-	"junior": "6/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1380",
+			"name": "Dietz, Jill"
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 0,
+	"max_sr": 13,
 	"name": "Advanced Linear Algebra",
 	"notes": [
 		"This course has class-year limits."
@@ -22,19 +33,7 @@
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 204",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 204",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 204",
 			"start": "10:45"
@@ -162,11 +161,50 @@
 			],
 			"senior": "14/13",
 			"sophomore": "0/0"
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.573928+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jill Dietz"
+			],
+			"instructors_full": null,
+			"junior": "6/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 204",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 204",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 204",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "15/13",
+			"sophomore": "1/0"
 		}
 	],
 	"semester": 1,
-	"senior": "15/13",
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20211,
 	"type": "Research",

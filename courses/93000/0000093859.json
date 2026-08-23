@@ -7,33 +7,34 @@
 		"This studio course is designed as an overview of the acting process for the non-major and includes basic acting theories, rehearsal techniques, improvisation, history, and styles. Students explore and practice exercises, scene work, and audition material. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. This course does not fulfill the acting requirement for the major. Offered each semester."
 	],
 	"enrolled": 17,
-	"firstyear": "3/1",
-	"instructors": [
-		"Bill Sonnega"
+	"enrollment_fy": 3,
+	"enrollment_jr": 6,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sonnega, Bill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 1,
 	"name": "Acting for Non-Majors",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "TB Haugen",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "TB Haugen",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "TB Haugen",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -78,6 +79,45 @@
 				"ALS-A",
 				"ORC"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:33.720531+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/1",
+			"gereqs": null,
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "TB Haugen",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "TB Haugen",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "TB Haugen",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

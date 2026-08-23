@@ -6,27 +6,32 @@
 	"description": [
 		"This is an aerobic-based course utilizing swimming and water exercises. Prerequisite: be able to swim 300 yards."
 	],
-	"enrolled": 19,
+	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 11,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Staff"
+		"Hauck, Signe G."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33969",
+			"name": "Hauck, Signe G."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Swim Fitness",
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SAC Pool",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "SAC Pool",
 			"start": "08:00"
@@ -57,10 +62,46 @@
 		{
 			"_updated": "2025-12-13T06:11:20.858470+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:51.463733+00:00",
+			"enrolled": 19,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Staff"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SAC Pool",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SAC Pool",
+					"start": "08:00"
+				}
+			],
+			"section": null,
+			"status": "C"
 		}
 	],
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20253,
 	"type": "Research",
 	"year": 2025

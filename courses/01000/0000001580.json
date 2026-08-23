@@ -4,30 +4,36 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 42,
-	"instructors": [
-		"James Otteson"
+	"enrollment_fy": 28,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Otteson, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14018",
+			"name": "Otteson, James"
+		}
+	],
 	"level": 100,
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 307",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 307",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.078433+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:23:06.353310+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:26.826504+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Otteson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

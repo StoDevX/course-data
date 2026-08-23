@@ -4,30 +4,36 @@
 	"crsid": "0000001310",
 	"department": "SOAN",
 	"enrolled": 24,
-	"instructors": [
-		"Phyllis G. Myers"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Myers, Phyllis G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5438",
+			"name": "Myers, Phyllis G."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Marriage & the Family",
 	"number": 260,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 403",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 403",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.694391+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:57.982708+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:45.296616+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Phyllis G. Myers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 403",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 403",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

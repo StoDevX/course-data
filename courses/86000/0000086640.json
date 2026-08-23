@@ -1,31 +1,77 @@
 {
-	"clbid": 86640,
-	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"groupid": 192,
-	"grouptype": "1",
+	"clbid": "0000086640",
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"level": 100,
-	"locations": [
-		"RNS 350"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 100,
+	"max": 0,
 	"name": "Struct Chem & Equilib Lab",
-	"notes": "This lab has been canceled.",
+	"notes": [
+		"This lab has been canceled."
+	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "0500PM",
+			"location": "RNS 350",
+			"start": "02:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:57.560990+00:00",
+			"clbid": 86640,
+			"credits": 0.0,
+			"crsid": 193,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 192,
+			"grouptype": "1",
+			"instructors_full": null,
+			"locations": [
+				"RNS 350"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This lab has been canceled.",
+			"offerings": null,
+			"prerequisites": false,
+			"times": [
+				"F 0200-0500PM"
+			],
+			"title": null
+		}
+	],
 	"section": "H",
 	"semester": 1,
 	"status": "X",
 	"term": 20121,
-	"times": [
-		"F 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2012
 }

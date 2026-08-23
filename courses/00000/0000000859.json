@@ -4,50 +4,39 @@
 	"crsid": "0000000606",
 	"department": "HIST",
 	"enrolled": 14,
-	"firstyear": "0/8",
-	"instructors": [
-		"Jeane DeLaney"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 8,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HWC"
 	],
-	"junior": "3/16",
-	"learningmode": "S",
+	"instructors": [
+		"DeLaney, Jeane"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1368",
+			"name": "DeLaney, Jeane"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 8,
+	"max_jr": 16,
+	"max_so": 25,
+	"max_sr": 11,
 	"name": "20th Century Cuba",
 	"number": 258,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 317",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.516303+00:00",
@@ -76,11 +65,66 @@
 		{
 			"_updated": "2020-10-15T15:23:05.479317+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.293855+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/8",
+			"gereqs": null,
+			"instructors": [
+				"Jeane DeLaney"
+			],
+			"instructors_full": null,
+			"junior": "3/16",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 317",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/11",
+			"sophomore": "8/25",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "3/11",
-	"sophomore": "8/25",
 	"status": "O",
 	"term": 20002,
 	"type": "Research",

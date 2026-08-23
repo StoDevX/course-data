@@ -4,30 +4,35 @@
 	"crsid": "0000000272",
 	"department": "ECON",
 	"enrolled": 36,
-	"instructors": [
-		"Steve Soderlind"
+	"enrollment_fy": 1,
+	"enrollment_jr": 21,
+	"enrollment_so": 3,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Soderlind, Steve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7636",
+			"name": "Soderlind, Steve"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Urban Economics",
 	"number": 249,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 301",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 301",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.602723+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:00.561564+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:19.456161+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Steve Soderlind"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 301",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 301",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

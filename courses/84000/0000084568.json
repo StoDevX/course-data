@@ -1,15 +1,21 @@
 {
 	"clbid": "0000084568",
-	"credits": 0.0,
 	"crsid": "0000000109",
 	"department": "BIO",
 	"enrolled": 16,
-	"groupid": "0000000108",
-	"grouptype": "3",
+	"enrollment_fy": 5,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Diane K. Angell"
+		"Angell, Diane K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "256",
+			"name": "Angell, Diane K."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Evolution & Diversity Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 255",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:08.628699+00:00",
@@ -46,6 +51,36 @@
 		{
 			"_updated": "2021-03-02T16:51:24.740506+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:07.295990+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000108",
+			"grouptype": "3",
+			"instructors": [
+				"Diane K. Angell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:50",
+					"location": "RNS 255",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

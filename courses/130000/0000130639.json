@@ -1,20 +1,34 @@
 {
 	"clbid": "0000130639",
-	"credits": 0.0,
 	"crsid": "0000000238",
 	"department": "CHIN",
 	"enrolled": 12,
-	"groupid": "0000000237",
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Beginning Chinese I Lab",
 	"number": 111,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "10:40",
+			"location": "TBA",
+			"start": "09:45"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-12T08:22:26.408652+00:00",
@@ -89,6 +103,25 @@
 		{
 			"_updated": "2020-10-15T15:24:14.762379+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.467140+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000237",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

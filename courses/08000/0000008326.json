@@ -4,36 +4,35 @@
 	"crsid": "0000001119",
 	"department": "PSCI",
 	"enrolled": 23,
-	"instructors": [
-		"D Christopher Brooks"
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 2,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brooks, D Christopher"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14170",
+			"name": "Brooks, D Christopher"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Distributive Justice",
 	"number": 249,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SH 002",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SH 002",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SH 002",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.704800+00:00",
@@ -71,6 +70,46 @@
 		{
 			"_updated": "2020-10-15T15:23:16.703462+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.695391+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"D Christopher Brooks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SH 002",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SH 002",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SH 002",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -7,21 +7,51 @@
 		"Why do biologists do what they do? How is biology actually done? Students investigate the reasons biological science is done the way it is today. Includes laboratory component. Students have the opportunity to design and perform their own experiments while learning the process of scientific investigation. Designed primarily for non-majors. Offered during Interim."
 	],
 	"enrolled": 24,
-	"firstyear": "5/6",
-	"groupid": "0000000114",
-	"instructors": [
-		"John Giannini"
+	"enrollment_fy": 5,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"IST",
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors": [
+		"Giannini, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Thinking & Doing Bio",
 	"notes": [
-		"Students in Bio 135 must also register for lab Bio 135 L.",
+		"Students in Bio 135 must also register for lab Bio 135 L.                       ",
 		"This course has class-year limits."
 	],
 	"number": 135,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "10:00",
+			"location": "VRTL Online",
+			"start": "09:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1200PM",
+			"location": "VRTL Online",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -179,11 +209,37 @@
 				"IST",
 				"SED"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:37.222519+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/6",
+			"gereqs": null,
+			"groupid": "0000000114",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Bio 135 must also register for lab Bio 135 L.",
+				"This course has class-year limits."
+			],
+			"offerings": null,
+			"section": null,
+			"senior": "8/6",
+			"sophomore": "6/6"
 		}
 	],
 	"semester": 2,
-	"senior": "8/6",
-	"sophomore": "6/6",
 	"status": "C",
 	"term": 20202,
 	"title": "Thinking and Doing Biology",

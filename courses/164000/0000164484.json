@@ -6,15 +6,25 @@
 	"description": [
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
-	"enrolled": 21,
+	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 17,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Terry M. VanDeWalker"
+		"VanDeWalker, Terry M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31125",
+			"name": "VanDeWalker, Terry M."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Fitness Walking",
@@ -24,20 +34,8 @@
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "Tostrud Ctr",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "Tostrud Ctr",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "Tostrud Ctr",
 			"start": "12:55"
 		}
@@ -124,11 +122,53 @@
 		{
 			"_updated": "2025-12-18T03:15:45.976253+00:00",
 			"enrolled": 20
+		},
+		{
+			"_updated": "2026-08-23T03:05:51.464064+00:00",
+			"enrolled": 21,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Terry M. VanDeWalker"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "Tostrud Ctr",
+					"start": "12:55"
+				}
+			],
+			"status": "C"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20253,
 	"type": "Research",
 	"year": 2025

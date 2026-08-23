@@ -4,31 +4,37 @@
 	"crsid": "0000000311",
 	"department": "EDUC",
 	"enrolled": 37,
-	"firstyear": "0/0",
-	"instructors": [
-		"Mark Schelske"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 21,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schelske, Mark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7148",
+			"name": "Schelske, Mark"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 0,
+	"max_sr": 30,
 	"name": "Educ Psychology",
 	"number": 290,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 10",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 10",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.404167+00:00",
@@ -56,11 +62,46 @@
 		{
 			"_updated": "2020-10-15T15:23:03.370598+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.724711+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Mark Schelske"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "13/30",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "13/30",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

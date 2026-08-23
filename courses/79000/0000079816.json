@@ -4,36 +4,37 @@
 	"crsid": "0000022795",
 	"department": "ASIAN",
 	"enrolled": 15,
-	"instructors": [
-		"Shannon Cannella"
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-L",
+		"MCG",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cannella, Shannon"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15921",
+			"name": "Cannella, Shannon"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Poetic Voice",
 	"number": 201,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "TOH 108",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "TOH 108",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "TOH 108",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.380926+00:00",
@@ -55,6 +56,47 @@
 				"ALS-L",
 				"MCG"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:49.628012+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Shannon Cannella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "TOH 108",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "TOH 108",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "TOH 108",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

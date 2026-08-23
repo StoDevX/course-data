@@ -4,30 +4,36 @@
 	"crsid": "0000000355",
 	"department": "DNCTE",
 	"enrolled": 19,
-	"instructors": [
-		"Anne von Bibra"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"von Bibra, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Ballroom II (Women)",
 	"number": 206,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "CAD STUDIO 1",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD STUDIO 1",
-			"start": "14:00"
+			"day": "MW",
+			"end": "0255PM",
+			"location": "CAD  STUDIO 1",
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:05.095252+00:00",
@@ -54,6 +60,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.004804+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.965602+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD STUDIO 1",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD STUDIO 1",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

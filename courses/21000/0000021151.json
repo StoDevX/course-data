@@ -4,42 +4,38 @@
 	"crsid": "0000000139",
 	"department": "BIO",
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Ecological Principles",
 	"number": 261,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 274",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 274",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 274",
 			"start": "08:00"
 		},
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "SC 248",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.939778+00:00",
@@ -54,6 +50,51 @@
 		{
 			"_updated": "2020-10-15T15:22:56.332889+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:49.762595+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "SC 248",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

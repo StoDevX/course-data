@@ -4,32 +4,45 @@
 	"crsid": "0000000026",
 	"department": "ART",
 	"enrolled": 19,
-	"firstyear": "5/5",
-	"instructors": [
-		"Monica Rudquist"
+	"enrollment_fy": 5,
+	"enrollment_jr": 6,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "6/2",
-	"learningmode": "S",
+	"instructors": [
+		"Rudquist, Monica"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14959",
+			"name": "Rudquist, Monica"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 5,
+	"max_jr": 2,
+	"max_so": 2,
+	"max_sr": 1,
 	"name": "Found Ceramics: Wheel",
 	"number": 119,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD 115E",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD 115E",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.164134+00:00",
@@ -65,11 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:10.416847+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.747966+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/5",
+			"gereqs": null,
+			"instructors": [
+				"Monica Rudquist"
+			],
+			"instructors_full": null,
+			"junior": "6/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 115E",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD 115E",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/1",
+			"sophomore": "5/2",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/1",
-	"sophomore": "5/2",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

@@ -4,30 +4,35 @@
 	"crsid": "0000001004",
 	"department": "PEAC",
 	"enrolled": 13,
-	"instructors": [
-		"William Thornton"
+	"enrollment_fy": 2,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thornton, William"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8371",
+			"name": "Thornton, William"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Swimming",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SAC POOL",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "SAC POOL",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.023152+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.134948+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.667353+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"William Thornton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SAC POOL",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SAC POOL",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

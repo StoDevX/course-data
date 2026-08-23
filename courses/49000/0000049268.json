@@ -7,22 +7,36 @@
 		"Seminars are special topics courses offered periodically by the department. The specific title of the seminar will be listed in the Class and Lab Schedule when it is offered."
 	],
 	"enrolled": 20,
-	"firstyear": "0/0",
-	"instructors": [
-		"Donald I. Ostrom"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors": [
+		"Ostrom, Donald I."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16635",
+			"name": "Ostrom, Donald I."
+		}
+	],
 	"level": 300,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Sem: American Issues",
 	"number": 399,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "HH 302",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
@@ -48,12 +62,39 @@
 		{
 			"_updated": "2020-10-15T15:23:21.888568+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:08.947042+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Donald I. Ostrom"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "HH 302",
+					"start": "19:00"
+				}
+			],
+			"senior": "17/0",
+			"sophomore": "1/0"
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "17/0",
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20053,
 	"title": "Seminar",

@@ -7,13 +7,24 @@
 		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
 	"enrolled": 12,
+	"enrollment_fy": 10,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Paula A. Mercurio"
+		"Mercurio, Paula A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34033",
+			"name": "Mercurio, Paula A."
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Calculus II",
@@ -23,19 +34,7 @@
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 435",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 435",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 435",
 			"start": "09:05"
@@ -49,6 +48,45 @@
 			"gereqs": [
 				"AQR",
 				"QCR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:09.169106+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Paula A. Mercurio"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 435",
+					"start": "09:05"
+				}
 			]
 		}
 	],

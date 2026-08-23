@@ -4,30 +4,36 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 20,
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD _STUDIO_2",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "CAD _STUDIO_2",
 			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.563270+00:00",
@@ -48,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:14.879866+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.692197+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD _STUDIO_2",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD _STUDIO_2",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

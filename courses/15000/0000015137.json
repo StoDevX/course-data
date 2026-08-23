@@ -4,30 +4,32 @@
 	"crsid": "0000002106",
 	"department": "PARA",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 7,
 	"name": "Public Space/Art",
 	"number": 245,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "FHSEM",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "FHSEM",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.871842+00:00",
@@ -42,6 +44,37 @@
 		{
 			"_updated": "2020-10-15T15:22:46.748285+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.338913+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "FHSEM",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "FHSEM",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -1,22 +1,38 @@
 {
-	"clbid": 113004,
-	"credits": 0.0,
-	"crsid": 193,
-	"departments": [
-		"CHEM"
-	],
-	"groupid": 192,
+	"clbid": "0000113004",
+	"crsid": "0000000193",
+	"department": "CHEM",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Elodie Marlier"
+		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"RNS 355"
-	],
+	"max": 20,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
+	"notes": [
+		"This lab section has been canceled."
+	],
 	"number": 125,
+	"offerings": [
+		{
+			"day": "Mo",
+			"end": "0500PM",
+			"location": "RNS 355",
+			"start": "02:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-04-13T23:40:12.684358+00:00",
@@ -29,15 +45,49 @@
 		{
 			"_updated": "2017-09-07T01:00:38.750070+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.494900+00:00",
+			"clbid": 113004,
+			"credits": 0.0,
+			"crsid": 193,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 192,
+			"instructors": [
+				"Elodie Marlier"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 355"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": null,
+			"offerings": null,
+			"prerequisites": false,
+			"status": "C",
+			"times": [
+				"M 0200-0500PM"
+			],
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20171,
-	"times": [
-		"M 0200-0500PM"
-	],
 	"type": "Lab",
 	"year": 2017
 }

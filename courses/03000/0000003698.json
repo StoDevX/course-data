@@ -4,14 +4,28 @@
 	"crsid": "0000000024",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "6/7",
-	"instructors": [
-		"Monica Rudquist"
+	"enrollment_fy": 6,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors": [
+		"Rudquist, Monica"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14959",
+			"name": "Rudquist, Monica"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 7,
+	"max_jr": 2,
+	"max_so": 1,
+	"max_sr": 2,
 	"name": "Found Ceramics: Hand",
 	"number": 116,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.162645+00:00",
@@ -65,11 +78,34 @@
 		{
 			"_updated": "2020-10-15T15:23:10.416338+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.747652+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/7",
+			"gereqs": null,
+			"instructors": [
+				"Monica Rudquist"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/2",
+			"sophomore": "5/1",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "4/2",
-	"sophomore": "5/1",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

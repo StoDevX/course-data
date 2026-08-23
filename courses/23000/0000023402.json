@@ -4,31 +4,40 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 28,
-	"instructors": [
-		"Richard DuRocher"
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 23,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors": [
+		"DuRocher, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1548",
+			"name": "DuRocher, Richard"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 0,
+	"max_so": 23,
+	"max_sr": 0,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 525",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 525",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.156953+00:00",
@@ -57,12 +66,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.286666+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.354673+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard DuRocher"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "23/23",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "23/23",
 	"status": "C",
 	"term": 19981,
 	"type": "Research",

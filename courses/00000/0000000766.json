@@ -4,30 +4,36 @@
 	"crsid": "0000001482",
 	"department": "ARMS",
 	"enrolled": 27,
-	"instructors": [
-		"Joan Hepburn"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hepburn, Joan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3322",
+			"name": "Hepburn, Joan"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Intro to Arms",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 577",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 577",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.776817+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:05.120813+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:17.078995+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joan Hepburn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 577",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 577",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

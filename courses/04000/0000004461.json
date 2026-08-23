@@ -4,66 +4,41 @@
 	"crsid": "0000000082",
 	"department": "ASIAN",
 	"enrolled": 16,
-	"instructors": [
-		"Richard Bodman"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bodman, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "656",
+			"name": "Bodman, Richard"
+		}
+	],
 	"level": 100,
 	"max": 21,
 	"name": "Afghan Kaleidoscope",
 	"number": 152,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
 			"end": "10:00",
 			"location": "OM 001",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "OM 001",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "OM 001",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "OM 001",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:10",
-			"location": "OM 001",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:10",
-			"location": "OM 001",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:10",
-			"location": "OM 001",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:10",
+			"day": "M-Th",
+			"end": "1210PM",
 			"location": "OM 001",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:57.548227+00:00",
@@ -78,6 +53,77 @@
 		{
 			"_updated": "2020-10-15T15:23:11.228879+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:37.184998+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Bodman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:10",
+					"location": "OM 001",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:10",
+					"location": "OM 001",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:10",
+					"location": "OM 001",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:10",
+					"location": "OM 001",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

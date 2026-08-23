@@ -4,30 +4,32 @@
 	"crsid": "0000001862",
 	"department": "HIST",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Robert Nichols"
+		"Nichols, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5608",
+			"name": "Nichols, Robert"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Eur Sem: Fall/Soviet U",
 	"number": 314,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 515",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 515",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.842224+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:50.912824+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:54.418625+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Nichols"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 515",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 515",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

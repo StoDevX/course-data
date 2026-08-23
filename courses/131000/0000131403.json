@@ -7,14 +7,25 @@
 		"This course examines the features of modern operating systems, including detailed consideration of Linux and other example systems. Projects range from system-level programming and multithreaded network programming to kernel modifications. Topics include operating system principles, implementation as system calls, process scheduling and dispatch, concurrency, inter-process communication, programming with threads and sockets, low-level memory management, device management, file systems, security and protection mechanisms, virtual machines, and kernel programming. Offered alternate years. Prerequisites: completion of or concurrent enrollment in CSCI 241 and CSCI 251, or permission of instructor."
 	],
 	"enrolled": 22,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Richard Brown"
+		"Brown, Richard"
 	],
-	"junior": "12/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "806",
+			"name": "Brown, Richard"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_so": 3,
+	"max_sr": 10,
 	"name": "Operating Systems",
 	"notes": [
 		"This course has class-year limits."
@@ -22,22 +33,10 @@
 	"number": 273,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 310",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 310",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 310",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -161,11 +160,50 @@
 		{
 			"_updated": "2021-03-02T16:51:51.656825+00:00",
 			"max": 25
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.474881+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Richard Brown"
+			],
+			"instructors_full": null,
+			"junior": "12/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 310",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 310",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 310",
+					"start": "14:00"
+				}
+			],
+			"section": null,
+			"senior": "8/10",
+			"sophomore": "2/3"
 		}
 	],
 	"semester": 1,
-	"senior": "8/10",
-	"sophomore": "2/3",
 	"status": "C",
 	"term": 20201,
 	"type": "Research",

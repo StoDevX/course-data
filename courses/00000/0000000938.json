@@ -4,44 +4,40 @@
 	"crsid": "0000002423",
 	"department": "SOAN",
 	"enrolled": 10,
-	"firstyear": "5/0",
-	"instructors": [
-		"Mark Goodale"
+	"enrollment_fy": 5,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"junior": "1/8",
-	"learningmode": "S",
+	"instructors": [
+		"Goodale, Mark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13196",
+			"name": "Goodale, Mark"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 8,
+	"max_so": 24,
+	"max_sr": 5,
 	"name": "Writing Culture",
 	"number": 234,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "M-Th",
+			"end": "0330PM",
 			"location": "H 515",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "H 515",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "H 515",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "H 515",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.570163+00:00",
@@ -73,11 +69,60 @@
 		{
 			"_updated": "2020-10-15T15:23:05.514896+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.627600+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/0",
+			"gereqs": null,
+			"instructors": [
+				"Mark Goodale"
+			],
+			"instructors_full": null,
+			"junior": "1/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "H 515",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "H 515",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "H 515",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "H 515",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/5",
+			"sophomore": "0/24",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "4/5",
-	"sophomore": "0/24",
 	"status": "O",
 	"term": 20002,
 	"type": "Research",

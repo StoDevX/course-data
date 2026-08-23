@@ -4,37 +4,45 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 4,
-	"instructors": [
-		"Jan C. Hill",
-		"Diana Postlethwaite"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Postlethwaite, Diana",
+		"Hill, Jan C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6403",
+			"name": "Postlethwaite, Diana"
+		},
+		{
+			"fsnum": "109",
+			"name": "Hill, Jan C."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 525",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 525",
-			"start": "12:55"
-		},
-		{
 			"day": "Fr",
-			"end": "13:50",
+			"end": "0150PM",
 			"location": "L 520",
+			"start": "12:55"
+		},
+		{
+			"day": "MW",
+			"end": "0150PM",
+			"location": "L 525",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.841507+00:00",
@@ -49,6 +57,48 @@
 		{
 			"_updated": "2020-10-15T15:23:09.015640+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.292836+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jan C. Hill",
+				"Diana Postlethwaite"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 525",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 525",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 520",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

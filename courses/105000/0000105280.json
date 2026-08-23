@@ -1,14 +1,21 @@
 {
 	"clbid": "0000105280",
-	"credits": 0.0,
 	"crsid": "0000001260",
 	"department": "RUSSN",
 	"enrolled": 9,
-	"groupid": "0000001259",
+	"enrollment_fy": 6,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Irina S. Avkhimovich"
+		"Avkhimovich, Irina S."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28149",
+			"name": "Avkhimovich, Irina S."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Beginning Russian I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:40",
+			"end": "1240PM",
 			"location": "TOH 312",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:45.799607+00:00",
@@ -47,6 +53,35 @@
 		{
 			"_updated": "2020-10-15T15:23:59.561238+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:06.329730+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001259",
+			"instructors": [
+				"Irina S. Avkhimovich"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "TOH 312",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

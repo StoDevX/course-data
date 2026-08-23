@@ -4,31 +4,38 @@
 	"crsid": "0000001216",
 	"department": "REL",
 	"enrolled": 25,
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 8,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"MCS-G"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "7/10",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_jr": 10,
+	"max_so": 10,
+	"max_sr": 10,
 	"name": "Judaism,Christ,ISlam",
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CH 111",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CH 111",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.993660+00:00",
@@ -56,12 +63,44 @@
 		{
 			"_updated": "2020-10-15T15:22:46.833644+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.478754+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "7/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CH 111",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CH 111",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/10",
+			"sophomore": "8/10",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "9/10",
-	"sophomore": "8/10",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

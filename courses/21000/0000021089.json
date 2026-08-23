@@ -4,32 +4,39 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 18,
-	"firstyear": "5/8",
-	"instructors": [
-		"Jil Evans"
+	"enrollment_fy": 5,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/5",
-	"learningmode": "S",
+	"instructors": [
+		"Evans, Jil"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14958",
+			"name": "Evans, Jil"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 8,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 3,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH 42",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "FH 42",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.901021+00:00",
@@ -58,12 +65,48 @@
 		{
 			"_updated": "2020-10-15T15:22:56.305289+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.496024+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/8",
+			"gereqs": null,
+			"instructors": [
+				"Jil Evans"
+			],
+			"instructors_full": null,
+			"junior": "3/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH 42",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH 42",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/3",
+			"sophomore": "7/10",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/3",
-	"sophomore": "7/10",
 	"status": "O",
 	"term": 19971,
 	"type": "Research",

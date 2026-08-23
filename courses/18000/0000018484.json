@@ -4,30 +4,32 @@
 	"crsid": "0000001084",
 	"department": "PHYS",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"David Nitz"
+		"Nitz, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Electronic Circuits",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 129",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 129",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.989579+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:51.010457+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:13.908577+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 129",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 129",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -7,16 +7,28 @@
 		"Selected topics in historical studies, depending on instructor. Offered periodically. Prerequisite: first-year student standing."
 	],
 	"enrolled": 17,
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 11,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Eric J. Fure-Slocum"
+		"Fure-Slocum, Eric J."
 	],
-	"junior": "4/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10197",
+			"name": "Fure-Slocum, Eric J."
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Top: Prosperity & Peril",
 	"notes": [
 		"Remaining seats available to first-year students only."
@@ -24,19 +36,7 @@
 	"number": 188,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "OM 305",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "OM 305",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "OM 305",
 			"start": "08:00"
@@ -205,12 +205,52 @@
 				"HWC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.530103+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
+			"instructors_full": null,
+			"junior": "4/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "OM 305",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "OM 305",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "OM 305",
+					"start": "08:00"
+				}
+			],
+			"senior": "0/0",
+			"sophomore": "11/0"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "11/0",
 	"status": "O",
 	"term": 20211,
 	"title": "Topical Seminar",

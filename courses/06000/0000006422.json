@@ -4,80 +4,45 @@
 	"crsid": "0000000104",
 	"department": "BIO",
 	"enrolled": 24,
-	"firstyear": "7/6",
-	"instructors": [
-		"Mary C. Henry"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"NSC"
 	],
-	"junior": "3/6",
-	"learningmode": "S",
+	"instructors": [
+		"Henry, Mary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13155",
+			"name": "Henry, Mary C."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "The Biology of Women",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 130",
+			"start": "02:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 130",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.693718+00:00",
@@ -106,12 +71,96 @@
 		{
 			"_updated": "2020-10-15T15:23:14.093104+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.236330+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/6",
+			"gereqs": null,
+			"instructors": [
+				"Mary C. Henry"
+			],
+			"instructors_full": null,
+			"junior": "3/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/6",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 2,
-	"senior": "9/6",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 20032,
 	"type": "Research",

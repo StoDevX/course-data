@@ -4,31 +4,39 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 33,
-	"instructors": [
-		"Michael Leming"
+	"enrollment_fy": 9,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "3/8",
-	"learningmode": "S",
+	"instructors": [
+		"Leming, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4762",
+			"name": "Leming, Michael"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 8,
+	"max_so": 9,
+	"max_sr": 5,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 403",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 403",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.743040+00:00",
@@ -56,12 +64,47 @@
 		{
 			"_updated": "2020-10-15T15:23:07.853938+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:30.259366+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Leming"
+			],
+			"instructors_full": null,
+			"junior": "3/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 403",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 403",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "8/5",
+			"sophomore": "13/9",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "8/5",
-	"sophomore": "13/9",
 	"status": "C",
 	"term": 20011,
 	"type": "Research",

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000144662",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 12,
-	"groupid": "0000000194",
+	"enrollment_fy": 6,
+	"enrollment_jr": 0,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Brenda Farrell"
+		"Farrell, Brenda"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34093",
+			"name": "Farrell, Brenda"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,43 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:05:07.165302+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Brenda Farrell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
+		}
+	],
 	"section": "F",
 	"semester": 3,
 	"status": "O",

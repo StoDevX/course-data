@@ -7,13 +7,23 @@
 		"Experiments explore various topics in physics. Emphasis is on the development of good laboratory techniques, analytical skills, and the ability to work independently. Each 0.25-course registration includes one three-hour laboratory per week. Offered annually in the fall semester."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Adam Svenkeson"
+		"Svenkeson, Adam"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002900",
+			"name": "Svenkeson, Adam"
+		}
+	],
 	"level": 300,
 	"max": 8,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Advanced Physics Laboratory II",
 	"notes": [
 		"Only open to rising seniors and juniors."
@@ -22,9 +32,9 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 298",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -56,11 +66,36 @@
 		{
 			"_updated": "2025-10-11T21:36:51.646423+00:00",
 			"enrolled": 8
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.221718+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Adam Svenkeson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 298",
+					"start": "14:00"
+				}
+			],
+			"sophomore": "0/0"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20251,
 	"type": "Lab",

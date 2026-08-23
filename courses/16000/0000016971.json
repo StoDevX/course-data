@@ -4,30 +4,35 @@
 	"crsid": "0000000367",
 	"department": "DNCTH",
 	"enrolled": 14,
-	"instructors": [
-		"Anne von Bibra"
+	"enrollment_fy": 6,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"von Bibra, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "World Dance Tradit'ns",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Tu",
+			"day": "TTh",
 			"end": "11:00",
-			"location": "CTR CF3",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "CTR CF3",
+			"location": "CTR  CF3",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:41:59.231075+00:00",
@@ -48,6 +53,42 @@
 		{
 			"_updated": "2020-10-15T15:22:49.544023+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:55.462524+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CTR CF3",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CTR CF3",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

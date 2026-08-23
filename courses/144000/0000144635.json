@@ -4,13 +4,24 @@
 	"crsid": "0000000731",
 	"department": "MATH",
 	"enrolled": 14,
+	"enrollment_fy": 14,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Matthew Richey"
+		"Richey, Matthew"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6658",
+			"name": "Richey, Matthew"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Calculus I",
@@ -20,26 +31,13 @@
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 204",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 204",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 204",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:43.290116+00:00",
@@ -47,6 +45,48 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:09.168508+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Matthew Richey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 204",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 204",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 204",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

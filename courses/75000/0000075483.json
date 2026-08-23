@@ -1,33 +1,89 @@
 {
-	"clbid": 75483,
+	"clbid": "0000075483",
 	"credits": 1.0,
-	"crsid": 21545,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000021545",
+	"department": "HIST",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"MCG"
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 200,
-	"locations": [
-		"RNS 310",
-		"RNS 310"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 200,
+	"max": 0,
 	"name": "Top: W African History",
-	"notes": "This course has been canceled.",
+	"notes": [
+		"This course has been canceled."
+	],
 	"number": 295,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "RNS 310",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "RNS 310",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:26.913601+00:00",
+			"clbid": 75483,
+			"crsid": 21545,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"MCG"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 310",
+				"RNS 310"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been canceled.",
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "X",
 	"term": 20101,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2010

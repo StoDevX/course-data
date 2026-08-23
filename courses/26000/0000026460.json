@@ -4,30 +4,36 @@
 	"crsid": "0000001757",
 	"department": "GERM",
 	"enrolled": 5,
-	"instructors": [
-		"Frederike Von Schwerin-High"
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Von Schwerin-High, Frederike"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8820",
+			"name": "Von Schwerin-High, Frederike"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Writing German",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 35",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 35",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.559392+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:03.428855+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.674022+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 35",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 35",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

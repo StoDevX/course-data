@@ -1,31 +1,38 @@
 {
 	"clbid": "0000047795",
-	"credits": 0.0,
 	"crsid": "0000000107",
 	"department": "BIO",
 	"enrolled": 20,
-	"firstyear": "4/0",
-	"groupid": "0000000106",
-	"grouptype": "4",
+	"enrollment_fy": 4,
+	"enrollment_jr": 2,
+	"enrollment_so": 13,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Pele E. Rich"
+		"Rich, Pele E."
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17587",
+			"name": "Rich, Pele E."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "14:20",
+			"end": "0220PM",
 			"location": "SC 273",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.760781+00:00",
@@ -47,12 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:20.203213+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.421924+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/0",
+			"groupid": "0000000106",
+			"grouptype": "4",
+			"instructors": [
+				"Pele E. Rich"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "14:20",
+					"location": "SC 273",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "13/0",
+			"title": null
 		}
 	],
 	"section": "H",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "13/0",
 	"status": "O",
 	"term": 20051,
 	"type": "Lab",

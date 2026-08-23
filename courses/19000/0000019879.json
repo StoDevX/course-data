@@ -4,66 +4,38 @@
 	"crsid": "0000000599",
 	"department": "HIST",
 	"enrolled": 11,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Robert Nichols"
+		"Nichols, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5608",
+			"name": "Nichols, Robert"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Fall Soviet Communism",
 	"number": 227,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
+			"end": "0300PM",
+			"location": "",
+			"start": "01:30"
+		},
+		{
+			"day": "M-Th",
 			"end": "10:00",
 			"location": "H 515",
 			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "H 515",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 515",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "H 515",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "H 515",
-			"start": "13:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "H 515",
-			"start": "13:30"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 515",
-			"start": "13:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "H 515",
-			"start": "13:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.313110+00:00",
@@ -78,6 +50,76 @@
 		{
 			"_updated": "2020-10-15T15:22:54.165789+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:01.650929+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Nichols"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 515",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "H 515",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 515",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "H 515",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 515",
+					"start": "13:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "H 515",
+					"start": "13:30"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 515",
+					"start": "13:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "H 515",
+					"start": "13:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

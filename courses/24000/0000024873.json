@@ -4,25 +4,34 @@
 	"crsid": "0000001181",
 	"department": "PSYCH",
 	"enrolled": 22,
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 1,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Mark Sundby"
+		"Sundby, Mark"
 	],
-	"junior": "12/12",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8134",
+			"name": "Sundby, Mark"
+		}
+	],
 	"level": 300,
 	"max": 24,
+	"max_jr": 12,
+	"max_sr": 12,
 	"name": "Psych of Counseling",
 	"number": 375,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "H 301/320",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.919622+00:00",
@@ -49,11 +58,39 @@
 		{
 			"_updated": "2020-10-15T15:23:00.765328+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:35.925487+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mark Sundby"
+			],
+			"instructors_full": null,
+			"junior": "12/12",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "H 301/320",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/12",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "9/12",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

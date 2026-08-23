@@ -4,31 +4,39 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 32,
-	"instructors": [
-		"Raymond DeVries"
+	"enrollment_fy": 9,
+	"enrollment_jr": 3,
+	"enrollment_so": 18,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "3/5",
-	"learningmode": "S",
+	"instructors": [
+		"DeVries, Raymond"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1367",
+			"name": "DeVries, Raymond"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 5,
+	"max_so": 20,
+	"max_sr": 0,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 413",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 413",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.439640+00:00",
@@ -57,12 +65,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.468317+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:07.441999+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Raymond DeVries"
+			],
+			"instructors_full": null,
+			"junior": "3/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 413",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 413",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "18/20",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "18/20",
 	"status": "C",
 	"term": 19981,
 	"type": "Research",

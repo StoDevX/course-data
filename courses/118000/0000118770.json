@@ -7,14 +7,28 @@
 		"Required for the women's and gender studies major and concentration, this course introduces students to the concept of gender as a category of analysis. It is designed for students who seek a fuller understanding of themselves as women and men and a wider knowledge of the experiences and achievements of women. Offered each semester. Counts toward American studies major and educational studies concentration."
 	],
 	"enrolled": 23,
-	"firstyear": "1/7",
-	"instructors": [
-		"Anna Kuxhausen"
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 7,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"MCD"
 	],
-	"junior": "7/5",
-	"learningmode": "S",
+	"instructors": [
+		"Kuxhausen, Anna"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17470",
+			"name": "Kuxhausen, Anna"
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_fy": 7,
+	"max_jr": 5,
+	"max_so": 8,
+	"max_sr": 8,
 	"name": "Intro Womens/Gender St",
 	"notes": [
 		"This course has class-year limits."
@@ -22,19 +36,7 @@
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 434",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 434",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 434",
 			"start": "09:05"
@@ -141,12 +143,51 @@
 		{
 			"_updated": "2021-03-02T16:51:44.092242+00:00",
 			"max": 25
+		},
+		{
+			"_updated": "2026-08-23T03:04:22.350860+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/7",
+			"gereqs": null,
+			"instructors": [
+				"Anna Kuxhausen"
+			],
+			"instructors_full": null,
+			"junior": "7/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 434",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 434",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 434",
+					"start": "09:05"
+				}
+			],
+			"senior": "8/8",
+			"sophomore": "7/8"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "8/8",
-	"sophomore": "7/8",
 	"status": "C",
 	"term": 20181,
 	"title": "Introduction to Women's and Gender Studies",

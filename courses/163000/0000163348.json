@@ -7,13 +7,23 @@
 		"Students encounter the theory of calculus and develop tools for communicating mathematical ideas with technical accuracy and sophistication. The goal is mastery of the concepts (e.g., limit, continuity, derivatives, and integrals) necessary to verify such important results as the Fundamental Theorem of Calculus, the Mean Value Theorem, and the Bolzano-Weierstrass Theorem. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Prerequisite: MATH 126 or MATH 128, and MATH 220. Permission of instructor required for first-year students."
 	],
 	"enrolled": 14,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Daniel Stoertz"
+		"Stoertz, Daniel"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34023",
+			"name": "Stoertz, Daniel"
+		}
+	],
 	"level": 200,
 	"max": 17,
 	"name": "Real Analysis I",
@@ -23,19 +33,7 @@
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 206",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 206",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 206",
 			"start": "10:45"
@@ -174,6 +172,45 @@
 		{
 			"_updated": "2025-11-04T03:06:37.588256+00:00",
 			"enrolled": 15
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.186325+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Daniel Stoertz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 206",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 206",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 206",
+					"start": "10:45"
+				}
+			]
 		}
 	],
 	"section": "A",

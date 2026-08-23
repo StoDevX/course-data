@@ -4,10 +4,22 @@
 	"crsid": "0000001118",
 	"department": "PSCI",
 	"enrolled": 23,
-	"instructors": [
-		"Daniel Hofrenning"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 20,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hofrenning, Dan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3418",
+			"name": "Hofrenning, Dan"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Ethics/Public Policy",
@@ -15,13 +27,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "H 514",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.246976+00:00",
@@ -36,6 +47,35 @@
 		{
 			"_updated": "2020-10-15T15:22:56.547915+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:08.512692+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Hofrenning"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "H 514",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

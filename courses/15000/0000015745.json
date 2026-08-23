@@ -4,30 +4,32 @@
 	"crsid": "0000000036",
 	"department": "ART",
 	"enrolled": 10,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 8,
 	"name": "Sculpt: Direct Metal",
 	"number": 234,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
-			"location": "FH 18",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH 18",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:16.732635+00:00",
@@ -42,6 +44,37 @@
 		{
 			"_updated": "2020-10-15T15:22:47.943626+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.732362+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH 18",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH 18",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

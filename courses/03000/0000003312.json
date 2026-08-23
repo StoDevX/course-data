@@ -4,30 +4,36 @@
 	"crsid": "0000000989",
 	"department": "PHIL",
 	"enrolled": 15,
-	"instructors": [
-		"Jeanine Grenberg"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Grenberg, Jeanine"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2752",
+			"name": "Grenberg, Jeanine"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Ethics/Theory Values",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 514",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 514",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.015183+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.130029+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.684437+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jeanine Grenberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 514",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 514",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,48 +4,34 @@
 	"crsid": "0000000424",
 	"department": "ENGL",
 	"enrolled": 9,
-	"instructors": [
-		"Jon Eric Nelson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-L"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nelson, Jon Eric"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5506",
+			"name": "Nelson, Jon Eric"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Literature & Film",
 	"number": 275,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:00",
-			"location": "RML 525",
-			"start": "12:30"
-		},
-		{
-			"day": "Tu",
-			"end": "14:00",
-			"location": "RML 525",
-			"start": "12:30"
-		},
-		{
-			"day": "We",
-			"end": "14:00",
-			"location": "RML 525",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "14:00",
-			"location": "RML 525",
-			"start": "12:30"
-		},
-		{
-			"day": "Fr",
-			"end": "14:00",
+			"day": "M-F",
+			"end": "0200PM",
 			"location": "RML 525",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:11.156001+00:00",
@@ -60,6 +46,60 @@
 		{
 			"_updated": "2020-10-15T15:23:18.710543+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:54.487268+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jon Eric Nelson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:00",
+					"location": "RML 525",
+					"start": "12:30"
+				},
+				{
+					"day": "Tu",
+					"end": "14:00",
+					"location": "RML 525",
+					"start": "12:30"
+				},
+				{
+					"day": "We",
+					"end": "14:00",
+					"location": "RML 525",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "14:00",
+					"location": "RML 525",
+					"start": "12:30"
+				},
+				{
+					"day": "Fr",
+					"end": "14:00",
+					"location": "RML 525",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

@@ -6,14 +6,25 @@
 	"description": [
 		"A first course in statistical methods, this course addresses study design and its implications as well as exploratory and inferential techniques for analyzing and modeling data. Topics include exploratory graphics, descriptive techniques, randomization tests, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, SDS 172, and ECON 260 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses."
 	],
-	"enrolled": 0,
+	"enrolled": 31,
+	"enrollment_fy": 5,
+	"enrollment_jr": 18,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Kodjo Houssou"
+		"Roith, Joe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31140",
+			"name": "Roith, Joe"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Statistics 1",
@@ -23,19 +34,7 @@
 	"number": 172,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "TOH 182",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "TOH 182",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "TOH 182",
 			"start": "10:45"
@@ -43,9 +42,52 @@
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:07:37.095474+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Kodjo Houssou"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "TOH 182",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "TOH 182",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "TOH 182",
+					"start": "10:45"
+				}
+			],
+			"status": "O"
+		}
+	],
 	"section": "C",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Research",
 	"year": 2026

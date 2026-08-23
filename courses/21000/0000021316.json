@@ -4,31 +4,40 @@
 	"crsid": "0000000399",
 	"department": "ENGL",
 	"enrolled": 35,
-	"instructors": [
-		"Richard DuRocher",
-		"Mary Titus"
+	"enrollment_fy": 1,
+	"enrollment_jr": 23,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Titus, Mary",
+		"DuRocher, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8415",
+			"name": "Titus, Mary"
+		},
+		{
+			"fsnum": "1548",
+			"name": "DuRocher, Richard"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "L 515",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "L 515",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.038853+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:56.402613+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.214952+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard DuRocher",
+				"Mary Titus"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,30 +4,35 @@
 	"crsid": "0000001015",
 	"department": "PEAC",
 	"enrolled": 22,
-	"instructors": [
-		"Judy Tegtmeyer"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Tegtmeyer, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SAC FH",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
+			"day": "MW",
+			"end": "1245PM",
 			"location": "SAC FH",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:04.424694+00:00",
@@ -60,6 +65,40 @@
 			"instructors": [
 				"Judith Tegtmeyer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:56:10.496366+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SAC FH",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SAC FH",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

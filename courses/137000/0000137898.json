@@ -7,14 +7,26 @@
 		"Remote sensing and GIS are increasingly used to address basic and applied questions in the environmental sciences and a host of other disciplines. Students survey available remote sensing image types and learn to process (ground-truthing, GPS, scanning, digitizing) and interpret remotely sensed images. They also learn theory and practice of geographic information systems (basic cartography and spatial statistics). Students attend lectures plus one three-hour laboratory per week. Offered annually. Prerequisites: ENVST 137 or a level I course in biology, chemistry, or physics."
 	],
 	"enrolled": 26,
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 2,
+	"enrollment_sr": 10,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NSL",
+		"NST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000000461",
 	"instructors": [
-		"Charles Jr. Umbanhowar"
+		"Umbanhowar, Charles Jr."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Remote Sensing & GIS",
@@ -24,19 +36,7 @@
 	"number": 255,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 400",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 400",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 400",
 			"start": "09:05"
@@ -134,6 +134,47 @@
 				"SED",
 				"NTS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.866623+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000000461",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 400",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 400",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 400",
+					"start": "09:05"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

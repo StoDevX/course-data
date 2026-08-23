@@ -4,32 +4,45 @@
 	"crsid": "0000000022",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "5/5",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 5,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "4/1",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_fy": 5,
+	"max_jr": 1,
+	"max_so": 5,
+	"max_sr": 2,
 	"name": "Foundation Sculpture",
 	"number": 114,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 106",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 106",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.620924+00:00",
@@ -65,11 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:18.044852+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.593258+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/5",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "4/1",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 106",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 106",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/2",
+			"sophomore": "4/5",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "4/2",
-	"sophomore": "4/5",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

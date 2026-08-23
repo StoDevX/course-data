@@ -7,17 +7,29 @@
 		"The course examines significant conservative social and political philosophies of the modern period. What do conservative philosophies want to \"conserve\" and how do answers to that question distinguish varieties of conservatism (e.g., traditional, libertarian)? What are strengths and weaknesses of conservatism? Students explore key conservative ideas of thinkers like Hume, Adam Smith, Burke, Hamilton, Madison, Tocqueville, Maistre, Newman, Spencer, Oakeshott, C. S. Lewis, Orwell, Kirk, Viereck, Niebuhr, Rand, Nozick, MacIntyre, Wojtyla, Ratzinger, Sowell, Sommers, Scruton. Offered annually."
 	],
 	"enrolled": 18,
-	"firstyear": "7/8",
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Brendon Westler"
+		"Westler, Brendon"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31144",
+			"name": "Westler, Brendon"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 8,
+	"max_jr": 2,
+	"max_so": 8,
+	"max_sr": 2,
 	"name": "Conservative Philosophy in History",
 	"notes": [
 		"This course has class-year limits."
@@ -25,32 +37,8 @@
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "CAD 202",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "CAD 202",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "CAD 202",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "CAD 202",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "CAD 202",
 			"start": "10:40"
 		}
@@ -64,11 +52,65 @@
 				"HWC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.790564+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/8",
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Brendon Westler"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "CAD 202",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "CAD 202",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "CAD 202",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "CAD 202",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "CAD 202",
+					"start": "10:40"
+				}
+			],
+			"section": null,
+			"senior": "2/2",
+			"sophomore": "7/8"
 		}
 	],
 	"semester": 2,
-	"senior": "2/2",
-	"sophomore": "7/8",
 	"status": "O",
 	"term": 20222,
 	"type": "Research",

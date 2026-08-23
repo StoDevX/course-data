@@ -4,30 +4,36 @@
 	"crsid": "0000000968",
 	"department": "PHIL",
 	"enrolled": 26,
-	"instructors": [
-		"Charles Taliaferro"
+	"enrollment_fy": 6,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Taliaferro, Charles"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8230",
+			"name": "Taliaferro, Charles"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Phil of Mind/Behavior",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CH 109",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CH 109",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.548115+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:57.887548+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:41.228382+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Taliaferro"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CH 109",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CH 109",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

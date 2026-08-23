@@ -1,29 +1,35 @@
 {
 	"clbid": "0000100352",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 19,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Amy Larsen"
+		"Larsen, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4619",
+			"name": "Larsen, Amy"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "RNS 292",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-28T23:00:22.383127+00:00",
@@ -46,6 +52,36 @@
 		{
 			"_updated": "2020-10-15T15:23:56.172247+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:50.239666+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Amy Larsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "RNS 292",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

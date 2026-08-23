@@ -6,20 +6,37 @@
 	"description": [
 		"Students explore special topics in computer science. Topics may vary from year-to-year. May be repeated if topics are different. Offered periodically. Prerequisite: permission of instructor."
 	],
-	"enrolled": 1,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kimberly Mandery"
+		"Mandery, Kim"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34040",
+			"name": "Mandery, Kim"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Top: Intro to Machine Learning",
 	"notes": [
-		"Topic: Introduction to Machine Learning. This is now an online course.",
-		"Prerequisite: CSCI 221 or CSCI 251, or permission of instructor.",
+		"Topic: Introduction to Machine Learning. This is now an online course.          ",
+		"Prerequisite: CSCI 221 or CSCI 251, or permission of instructor.                ",
 		"This course will count as a Designated elective for the Computer Science major."
 	],
 	"number": 200,
+	"offerings": [
+		{
+			"day": "MTWThF",
+			"end": "11:30",
+			"location": "VRTL Online",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "permission of instructor.",
 	"revisions": [
@@ -142,10 +159,35 @@
 		{
 			"_updated": "2025-07-13T03:42:35.278195+00:00",
 			"enrolled": 0
+		},
+		{
+			"_updated": "2026-08-23T03:05:25.756487+00:00",
+			"enrolled": 1,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kimberly Mandery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Topic: Introduction to Machine Learning. This is now an online course.",
+				"Prerequisite: CSCI 221 or CSCI 251, or permission of instructor.",
+				"This course will count as a Designated elective for the Computer Science major."
+			],
+			"offerings": null,
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20245,
 	"title": "Topics in Computer Science",
 	"type": "Topic",

@@ -1,51 +1,33 @@
 {
 	"clbid": "0000021951",
-	"credits": 0.0,
 	"crsid": "0000000216",
 	"department": "CHEM",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Org Analys Th/Lab",
 	"number": 380,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
-			"location": "SC 311",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "SC 311",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "SC 311",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "SC 311",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
+			"day": "M-F",
+			"end": "0330PM",
 			"location": "SC 311",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.053224+00:00",
@@ -60,6 +42,57 @@
 		{
 			"_updated": "2020-10-15T15:22:57.023628+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.106894+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "SC 311",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "SC 311",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "SC 311",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "SC 311",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "SC 311",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

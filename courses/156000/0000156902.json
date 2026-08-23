@@ -1,14 +1,21 @@
 {
 	"clbid": "0000156902",
-	"credits": 0.0,
 	"crsid": "0000037528",
 	"department": "ASCON",
 	"enrolled": 16,
-	"groupid": "0000037512",
+	"enrollment_fy": 16,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "SOAR Discussion",
@@ -19,13 +26,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "TOH 110",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-11T02:21:10.576283+00:00",
@@ -91,6 +97,33 @@
 		{
 			"_updated": "2024-06-25T02:30:40.899685+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.423610+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000037512",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "TOH 110",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

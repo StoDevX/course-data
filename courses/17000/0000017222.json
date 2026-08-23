@@ -4,30 +4,31 @@
 	"crsid": "0000000859",
 	"department": "MUSIC",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Linda Turpening"
+		"Turpening, Linda"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8590",
+			"name": "Turpening, Linda"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Piano Pedagogy",
 	"number": 361,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CHM 233",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
+			"day": "MW",
+			"end": "1245PM",
 			"location": "CHM 233",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.826434+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.639247+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:07.544530+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Linda Turpening"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CHM 233",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CHM 233",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,48 +4,36 @@
 	"crsid": "0000017195",
 	"department": "ASIAN",
 	"enrolled": 15,
-	"instructors": [
-		"Holly Ogren"
+	"enrollment_fy": 4,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Ogren, Holly"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17528",
+			"name": "Ogren, Holly"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Gender in Contemp E Asia",
 	"number": 154,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "OM 001",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "OM 001",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "OM 001",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "OM 001",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "OM 001",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:14.781372+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:23:20.793365+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:02.483804+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Holly Ogren"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "OM 001",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "OM 001",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "OM 001",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "OM 001",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "OM 001",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

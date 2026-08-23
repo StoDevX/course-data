@@ -4,39 +4,46 @@
 	"crsid": "0000000032",
 	"department": "ART",
 	"enrolled": 49,
-	"firstyear": "14/9",
-	"instructors": [
-		"Nancy M. Thompson",
-		"Matthew Rohn"
+	"enrollment_fy": 14,
+	"enrollment_jr": 9,
+	"enrollment_so": 16,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A",
+		"HWC",
+		"ORC"
 	],
-	"junior": "9/3",
-	"learningmode": "S",
+	"instructors": [
+		"Rohn, Matthew",
+		"Thompson, Nancy M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		},
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 100,
 	"max": 50,
+	"max_fy": 9,
+	"max_jr": 3,
+	"max_so": 6,
+	"max_sr": 2,
 	"name": "Renaissance--Present",
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CAD 305",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.476017+00:00",
@@ -71,11 +78,55 @@
 		{
 			"_updated": "2020-10-15T15:23:14.791987+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.656558+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "14/9",
+			"gereqs": null,
+			"instructors": [
+				"Nancy M. Thompson",
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"junior": "9/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/2",
+			"sophomore": "16/6",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "10/2",
-	"sophomore": "16/6",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

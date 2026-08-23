@@ -1,17 +1,24 @@
 {
 	"clbid": "0000061926",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
@@ -23,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:19:07.507207+00:00",
@@ -54,6 +60,28 @@
 		{
 			"_updated": "2020-10-15T15:23:30.754798+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:48.966284+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

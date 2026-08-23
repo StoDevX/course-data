@@ -4,16 +4,24 @@
 	"crsid": "0000000375",
 	"department": "DANCE",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 0,
 	"name": "IS/",
 	"number": 298,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-02T16:51:59.672742+00:00",
@@ -26,6 +34,22 @@
 		{
 			"_updated": "2023-06-04T03:09:40.488314+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.657094+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

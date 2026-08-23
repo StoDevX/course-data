@@ -4,48 +4,36 @@
 	"crsid": "0000000256",
 	"department": "ECON",
 	"enrolled": 29,
-	"instructors": [
-		"Robert Will"
+	"enrollment_fy": 17,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Will, Robert"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16508",
+			"name": "Will, Robert"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Capitalism: Econ Hist",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "HH 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "HH 317",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "HH 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "HH 317",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "HH 317",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.721561+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:23:14.110292+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.248564+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Robert Will"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "HH 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "HH 317",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "HH 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "HH 317",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "HH 317",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

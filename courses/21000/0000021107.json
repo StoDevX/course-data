@@ -4,38 +4,40 @@
 	"crsid": "0000000051",
 	"department": "ART",
 	"enrolled": 38,
-	"firstyear": "0/0",
-	"instructors": [
-		"Matthew Rohn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 14,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"junior": "12/20",
-	"learningmode": "S",
+	"instructors": [
+		"Rohn, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		}
+	],
 	"level": 200,
 	"max": 50,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 30,
+	"max_sr": 10,
 	"name": "High Modernism",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH 01",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH 01",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH 01",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.912023+00:00",
@@ -67,11 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:22:56.313681+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.816657+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"junior": "12/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "12/10",
+			"sophomore": "14/30",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "12/10",
-	"sophomore": "14/30",
 	"status": "O",
 	"term": 19971,
 	"type": "Research",

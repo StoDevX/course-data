@@ -4,30 +4,35 @@
 	"crsid": "0000002193",
 	"department": "PEAC",
 	"enrolled": 5,
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"PHA"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 8,
 	"name": "Handball",
 	"number": 155,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "COURTS",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "COURTS",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.907048+00:00",
@@ -42,6 +47,38 @@
 		{
 			"_updated": "2020-10-15T15:22:46.773916+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.437920+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "COURTS",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "COURTS",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

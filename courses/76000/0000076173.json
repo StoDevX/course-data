@@ -1,32 +1,81 @@
 {
-	"clbid": 76173,
+	"clbid": "0000076173",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
+	"crsid": "0000000733",
+	"department": "MATH",
+	"description": [
+		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester."
 	],
-	"description": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"AQR"
+		"AQR",
+		"MAR"
 	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 100,
-	"locations": [
-		"RNS 208"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 100,
+	"max": 16,
 	"name": "Calculus II",
 	"number": 126,
+	"offerings": [
+		{
+			"day": "MWF",
+			"end": "0400PM",
+			"location": "RNS 208",
+			"start": "03:05"
+		}
+	],
 	"pn": false,
-	"prerequisites": "Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+	"prerequisites": "Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:27.246514+00:00",
+			"clbid": 76173,
+			"crsid": 733,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"AQR"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 208"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": "Prerequisite: Mathematics 120 or equivalent, or mathematics placement recommendation. Credit may be earned for either Mathematics 126 or 128, but not both. Offered each semester.",
+			"times": [
+				"MWF 0305-0400PM"
+			]
+		}
+	],
 	"section": "F",
 	"semester": 1,
 	"status": "X",
 	"term": 20101,
-	"times": [
-		"MWF 0305-0400PM"
-	],
 	"type": "Research",
 	"year": 2010
 }

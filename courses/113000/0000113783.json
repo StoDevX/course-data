@@ -1,14 +1,21 @@
 {
 	"clbid": "0000113783",
-	"credits": 0.0,
 	"crsid": "0000000661",
 	"department": "JAPAN",
 	"enrolled": 14,
-	"groupid": "0000000660",
+	"enrollment_fy": 8,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Hiroe Akimoto"
+		"Akimoto, Hiroe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21197",
+			"name": "Akimoto, Hiroe"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Beginning Japanese II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "13:40",
+			"end": "0140PM",
 			"location": "TOH 310",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-09-30T13:26:45.690828+00:00",
@@ -52,6 +58,35 @@
 		{
 			"_updated": "2020-10-15T15:24:05.014775+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.331050+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000660",
+			"instructors": [
+				"Hiroe Akimoto"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "13:40",
+					"location": "TOH 310",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

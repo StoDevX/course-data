@@ -4,38 +4,35 @@
 	"crsid": "0000000649",
 	"department": "FAMST",
 	"enrolled": 34,
-	"firstyear": "1/0",
+	"enrollment_fy": 1,
+	"enrollment_jr": 13,
+	"enrollment_so": 9,
+	"enrollment_sr": 11,
 	"instructors": [
-		"C. George Holt"
+		"Holt, C. George"
 	],
-	"junior": "13/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3431",
+			"name": "Holt, C. George"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_sr": 7,
 	"name": "Family Relationships",
 	"number": 242,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 001",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 001",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 001",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.072001+00:00",
@@ -66,10 +63,52 @@
 		{
 			"_updated": "2020-10-15T15:23:12.076084+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.669247+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"instructors": [
+				"C. George Holt"
+			],
+			"instructors_full": null,
+			"junior": "13/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 001",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 001",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 001",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "11/7",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "11/7",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

@@ -7,32 +7,30 @@
 		"This course introduces students to Christian theology through examination of selected works of C.S. Lewis. The course considers both Lewis's explicitly theological writings and his fictional works as resources for theological reflection. Offered periodically."
 	],
 	"enrolled": 25,
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 12,
+	"enrollment_sr": 3,
 	"gereqs": [
+		"BTS-T",
 		"CTD"
 	],
 	"instructors": [
-		"Edmund Santurri"
+		"Santurri, Edmund"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7020",
+			"name": "Santurri, Edmund"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Beyond Narnia: Theol of C.S. Lewis",
 	"number": 239,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 240",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 240",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 240",
 			"start": "10:45"
@@ -46,6 +44,45 @@
 			"gereqs": [
 				"BTS-T",
 				"CTD"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:10.182574+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CTD"
+			],
+			"instructors": [
+				"Edmund Santurri"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 240",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 240",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 240",
+					"start": "10:45"
+				}
 			]
 		}
 	],

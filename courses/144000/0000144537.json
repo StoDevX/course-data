@@ -7,14 +7,26 @@
 		"Physics 131, the second course in the three-semester calculus-based sequence, treats electricity, magnetism, and electromagnetic waves. Students attend lectures and one 2.5-hour laboratory per week. Offered annually in the spring semester. Prerequisites: PHYS 130 and concurrent registration in (or previous completion of) MATH 126 or MATH 128."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 17,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NSC",
+		"NSL",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000001080",
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Analytical II",
@@ -24,20 +36,8 @@
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 208",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 208",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 208",
 			"start": "11:50"
 		}
@@ -51,6 +51,46 @@
 				"IST",
 				"SED",
 				"NTS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:09.836644+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000001080",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 208",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 208",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 208",
+					"start": "11:50"
+				}
 			]
 		}
 	],

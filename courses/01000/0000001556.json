@@ -4,36 +4,36 @@
 	"crsid": "0000001103",
 	"department": "PSCI",
 	"enrolled": 29,
-	"instructors": [
-		"Sheryl D. Breen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 10,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Breen, Sheryl D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13316",
+			"name": "Breen, Sheryl D."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "American Politics",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CT 227",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CT 227",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CT 227",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.062062+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:06.343275+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:26.820052+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl D. Breen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

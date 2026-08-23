@@ -1,14 +1,21 @@
 {
 	"clbid": "0000163352",
-	"credits": 0.0,
 	"crsid": "0000016388",
 	"department": "ENVST",
 	"enrolled": 12,
-	"groupid": "0000000461",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Xochizeltzin Castañeda-Camacho"
+		"Castañeda-Camacho, Xochizeltzin"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002453",
+			"name": "Castañeda-Camacho, Xochizeltzin"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Remote Sensing & GIS Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 400",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-04-23T03:03:34.994082+00:00",
@@ -42,6 +48,35 @@
 			"instructors": [
 				"Xochizeltzin Castaneda-Camacho"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.121687+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000461",
+			"instructors": [
+				"Xochizeltzin Castañeda-Camacho"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 400",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000163362",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 18,
-	"groupid": "0000001158",
-	"grouptype": "3",
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Piercarlo Valdesolo"
+		"Valdesolo, Piercarlo"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34014",
+			"name": "Valdesolo, Piercarlo"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "RNS 160C",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-13T02:49:19.545042+00:00",
@@ -69,6 +74,36 @@
 			"_updated": "2025-06-28T03:15:42.767012+00:00",
 			"enrolled": 17,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.230114+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "3",
+			"instructors": [
+				"Piercarlo Valdesolo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 160C",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

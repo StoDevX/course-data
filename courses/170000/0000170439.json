@@ -7,16 +7,26 @@
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in game playing."
 	],
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Julienna D. Graf"
+		"Graf, Julie D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28228",
+			"name": "Graf, Julie D."
+		}
+	],
 	"level": 100,
-	"max": 20,
+	"max": 28,
 	"name": "Badminton",
 	"notes": [
 		"This is a second-half of semester course."
@@ -24,19 +34,7 @@
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -44,6 +42,50 @@
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:40.815173+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Julienna D. Graf"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
+			],
+			"section": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20263,

@@ -4,10 +4,22 @@
 	"crsid": "0000000579",
 	"department": "HIST",
 	"enrolled": 14,
-	"instructors": [
-		"Timothy R. Howe"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Howe, Tim R."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15815",
+			"name": "Howe, Tim R."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Sem: Ancient History",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 317",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 317",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.343603+00:00",
@@ -42,6 +53,41 @@
 		{
 			"_updated": "2020-10-15T15:23:19.936131+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.521093+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Timothy R. Howe"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 317",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 317",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

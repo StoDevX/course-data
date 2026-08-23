@@ -4,10 +4,19 @@
 	"crsid": "0000000199",
 	"department": "CHEM",
 	"enrolled": 21,
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 17,
+	"enrollment_sr": 2,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Synthesis Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 311/378",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.630573+00:00",
@@ -36,6 +44,30 @@
 		{
 			"_updated": "2020-10-15T15:22:46.580678+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.244931+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "SC 311/378",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -7,33 +7,31 @@
 		"Algebra is concerned with sets of objects and operations that satisfy a few basic properties. Using the properties we study axiomatic systems such as groups, rings, and fields, covering topics such as homomorphisms, cosets, quotient structures, polynomial rings,and finite fields. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Also counts toward computer science major. Prerequisite: MATH 220. Permission of instructor required for first-year students."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Adam L. Schultze"
+		"Schultze, Adam L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33061",
+			"name": "Schultze, Adam L."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Abstract Algebra I",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 186",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "TOH 186",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "TOH 186",
 			"start": "12:55"
 		}
@@ -46,6 +44,45 @@
 			"gereqs": [
 				"WRI",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:09.175173+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Adam L. Schultze"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 186",
+					"start": "12:55"
+				}
 			]
 		}
 	],

@@ -4,30 +4,34 @@
 	"crsid": "0000000547",
 	"department": "GREEK",
 	"enrolled": 6,
-	"instructors": [
-		"Gwendolyn Compton-Engle"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"FOL-K"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Compton-Engle, Gwendolyn"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1216",
+			"name": "Compton-Engle, Gwendolyn"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Greek Historians",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 36",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 36",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.717297+00:00",
@@ -42,6 +46,42 @@
 		{
 			"_updated": "2020-10-15T15:23:02.125675+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.771456+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gwendolyn Compton-Engle"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 36",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 36",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

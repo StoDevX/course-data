@@ -1,14 +1,21 @@
 {
 	"clbid": "0000101379",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 25,
-	"groupid": "0000000194",
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Beth Abdella"
+		"Abdella, Beth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25",
+			"name": "Abdella, Beth"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Chem Reactions/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-11-12T00:01:20.983449+00:00",
@@ -49,6 +55,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.251074+00:00",
 			"max": 29
+		},
+		{
+			"_updated": "2026-08-23T03:03:54.445583+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Beth Abdella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

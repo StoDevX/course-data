@@ -1,27 +1,77 @@
 {
-	"clbid": 10150,
+	"clbid": "0000010150",
 	"credits": 1.0,
-	"crsid": 259,
-	"departments": [
-		"ECON"
+	"crsid": "0000000259",
+	"department": "ECON",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HBS"
 	],
 	"instructors": [
-		"Veronika Dolar"
+		"Dolar, Veronika"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16781",
+			"name": "Dolar, Veronika"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"HH 413"
-	],
 	"name": "Principles of Econ",
 	"number": 121,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "11:30",
+			"location": "HH 413",
+			"start": "10:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:00:54.485745+00:00",
+			"clbid": 10150,
+			"crsid": 259,
+			"department": null,
+			"departments": [
+				"ECON"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Veronika Dolar"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 413"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"M-F 1000-1130"
+			],
+			"title": null
+		}
+	],
 	"semester": 4,
 	"status": "X",
 	"term": 20044,
-	"times": [
-		"M-F 1000-1130"
-	],
 	"type": "Research",
 	"year": 2004
 }

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000165811",
-	"credits": 0.0,
 	"crsid": "0000000131",
 	"department": "BIO",
 	"enrolled": 16,
-	"groupid": "0000000130",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Eric Cole"
+		"Cole, Eric"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1206",
+			"name": "Cole, Eric"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Invertebrate Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 246",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-03-02T02:56:39.160050+00:00",
@@ -77,6 +83,35 @@
 		{
 			"_updated": "2025-10-11T21:36:51.955940+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.041184+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000130",
+			"instructors": [
+				"Eric Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 246",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

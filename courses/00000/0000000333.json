@@ -4,36 +4,34 @@
 	"crsid": "0000000666",
 	"department": "JAPAN",
 	"enrolled": 6,
-	"instructors": [
-		"Gia Someya"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-J"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Someya, Gia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7673",
+			"name": "Someya, Gia"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Advanced Japanese I",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "M 3",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "M 3",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "M 3",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.509656+00:00",
@@ -48,6 +46,48 @@
 		{
 			"_updated": "2020-10-15T15:23:04.947795+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:18.105201+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gia Someya"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "M 3",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "M 3",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "M 3",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

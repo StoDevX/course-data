@@ -4,37 +4,35 @@
 	"crsid": "0000000034",
 	"department": "ART",
 	"enrolled": 19,
+	"enrollment_fy": 2,
+	"enrollment_jr": 6,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Wendell Arneson"
+		"Arneson, Wendell"
 	],
-	"junior": "6/12",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_jr": 12,
+	"max_so": 14,
+	"max_sr": 4,
 	"name": "Watercolor Painting",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "FH AB",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH AB",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH AB",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.485189+00:00",
@@ -62,11 +60,52 @@
 		{
 			"_updated": "2020-10-15T15:22:54.788515+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:06.784010+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"junior": "6/12",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH AB",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/4",
+			"sophomore": "5/14",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "6/4",
-	"sophomore": "5/14",
 	"status": "O",
 	"term": 19963,
 	"type": "Research",

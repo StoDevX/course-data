@@ -4,36 +4,32 @@
 	"crsid": "0000000122",
 	"department": "BIO",
 	"enrolled": 71,
+	"enrollment_fy": 0,
+	"enrollment_jr": 47,
+	"enrollment_so": 13,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Lauri Sammartano"
+		"Sammartano, Lauri"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6993",
+			"name": "Sammartano, Lauri"
+		}
+	],
 	"level": 200,
 	"max": 72,
 	"name": "Intermediate Genetics",
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 280",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 280",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 280",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.205383+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:22:52.695190+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:30.876447+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Lauri Sammartano"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 280",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

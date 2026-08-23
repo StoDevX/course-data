@@ -1,14 +1,21 @@
 {
 	"clbid": "0000082814",
-	"credits": 0.0,
 	"crsid": "0000001063",
 	"department": "ESTH",
 	"enrolled": 26,
-	"groupid": "0000001062",
+	"enrollment_fy": 0,
+	"enrollment_jr": 19,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
 	"instructors": [
-		"William Sean Goldsworthy"
+		"Goldsworthy, William Sean"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2652",
+			"name": "Goldsworthy, William Sean"
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Biomechanics Lab",
@@ -22,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:04.759813+00:00",
@@ -37,6 +43,28 @@
 		{
 			"_updated": "2020-10-15T15:23:44.907156+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:58.560363+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001062",
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

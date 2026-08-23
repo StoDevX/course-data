@@ -4,30 +4,35 @@
 	"crsid": "0000000498",
 	"department": "GE",
 	"enrolled": 20,
-	"instructors": [
-		"Carol Holly"
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FYW"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Holly, Carol"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3424",
+			"name": "Holly, Carol"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "First Year Seminar",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 420",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 420",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.202128+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:22:59.316104+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:54.000109+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Carol Holly"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 420",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 420",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "J",

@@ -4,30 +4,43 @@
 	"crsid": "0000001237",
 	"department": "REL",
 	"enrolled": 12,
-	"instructors": [
-		"Jamie A. Schillinger"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schillinger, Jamie A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15819",
+			"name": "Schillinger, Jamie A."
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_sr": 15,
 	"name": "Rel Pluralsm/Communit",
 	"number": 295,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "BMC 101",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "BMC 101",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.062217+00:00",
@@ -51,10 +64,45 @@
 		{
 			"_updated": "2020-10-15T15:23:13.702223+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.583374+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jamie A. Schillinger"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "BMC 101",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "BMC 101",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/15",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "7/15",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

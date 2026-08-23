@@ -4,24 +4,35 @@
 	"crsid": "0000000492",
 	"department": "FREN",
 	"enrolled": 13,
-	"instructors": [
-		"Wendy Allen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"FOL-F",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Allen, Wendy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "102",
+			"name": "Allen, Wendy"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Top: Women/ID/Maghreb",
 	"number": 372,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "M 26",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.869124+00:00",
@@ -36,6 +47,36 @@
 		{
 			"_updated": "2020-10-15T15:23:09.033962+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.304530+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Wendy Allen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "M 26",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

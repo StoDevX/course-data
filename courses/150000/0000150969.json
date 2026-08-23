@@ -1,15 +1,21 @@
 {
 	"clbid": "0000150969",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 22,
-	"groupid": "0000026714",
-	"grouptype": "1",
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 14,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Will E. Matchett"
+		"Matchett, Will E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35072",
+			"name": "Matchett, Will E."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Cell Biology Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 394",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-08-09T02:32:00.847064+00:00",
@@ -120,6 +125,36 @@
 		{
 			"_updated": "2024-04-10T02:19:15.658647+00:00",
 			"enrolled": 23
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.802204+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026714",
+			"grouptype": "1",
+			"instructors": [
+				"Will E. Matchett"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 394",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

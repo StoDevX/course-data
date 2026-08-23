@@ -7,30 +7,30 @@
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
 	"enrolled": 7,
-	"instructors": [
-		"D Christopher Brooks"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brooks, D Christopher"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14170",
+			"name": "Brooks, D Christopher"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: West European Polit",
 	"number": 299,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 301",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 301",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 301",
 			"start": "11:50"
 		}
@@ -51,6 +51,44 @@
 		{
 			"_updated": "2020-10-15T15:23:23.687567+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:17.110032+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"D Christopher Brooks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 301",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 301",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 301",
+					"start": "11:50"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

@@ -4,80 +4,45 @@
 	"crsid": "0000000116",
 	"department": "BIO",
 	"enrolled": 32,
-	"firstyear": "13/6",
-	"instructors": [
-		"Theodore Johnson"
+	"enrollment_fy": 13,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NSC"
 	],
-	"junior": "7/7",
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Theodore"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4110",
+			"name": "Johnson, Theodore"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 7,
+	"max_so": 7,
+	"max_sr": 7,
 	"name": "Hlth Care: Global Pers",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 110",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "SC 129",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 129",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 110",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.236384+00:00",
@@ -106,11 +71,96 @@
 		{
 			"_updated": "2020-10-15T15:23:02.635153+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.118923+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/6",
+			"gereqs": null,
+			"instructors": [
+				"Theodore Johnson"
+			],
+			"instructors_full": null,
+			"junior": "7/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 129",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 110",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/7",
+			"sophomore": "5/7",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "7/7",
-	"sophomore": "5/7",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

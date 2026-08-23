@@ -4,54 +4,43 @@
 	"crsid": "0000000256",
 	"department": "ECON",
 	"enrolled": 25,
-	"instructors": [
-		"Edward David Emery"
+	"enrollment_fy": 20,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Emery, Edward David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1741",
+			"name": "Emery, Edward David"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Capitalism: Struggles",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:15",
+			"day": "MWF",
+			"end": "0245PM",
+			"location": "",
+			"start": "01:15"
+		},
+		{
+			"day": "MWF",
+			"end": "1215PM",
 			"location": "H 403",
 			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:15",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:15",
-			"location": "H 403",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "14:45",
-			"location": "H 403",
-			"start": "13:15"
-		},
-		{
-			"day": "We",
-			"end": "14:45",
-			"location": "H 403",
-			"start": "13:15"
-		},
-		{
-			"day": "Fr",
-			"end": "14:45",
-			"location": "H 403",
-			"start": "13:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.285470+00:00",
@@ -66,6 +55,65 @@
 		{
 			"_updated": "2020-10-15T15:22:54.148951+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:59.472454+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Edward David Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:15",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:15",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:15",
+					"location": "H 403",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "14:45",
+					"location": "H 403",
+					"start": "13:15"
+				},
+				{
+					"day": "We",
+					"end": "14:45",
+					"location": "H 403",
+					"start": "13:15"
+				},
+				{
+					"day": "Fr",
+					"end": "14:45",
+					"location": "H 403",
+					"start": "13:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

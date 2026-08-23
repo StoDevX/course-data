@@ -4,80 +4,45 @@
 	"crsid": "0000000028",
 	"department": "ART",
 	"enrolled": 21,
-	"firstyear": "16/15",
-	"instructors": [
-		"John Saurer"
+	"enrollment_fy": 16,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Saurer, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 15,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 5,
 	"name": "Foundation Sculpture",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "CAD 106",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "CAD 106",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 106",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "CAD 106",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "CAD 106",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:10",
-			"location": "CAD 106",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:10",
-			"location": "CAD 106",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:10",
-			"location": "CAD 106",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:10",
-			"location": "CAD 106",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:10",
+			"day": "M-F",
+			"end": "1210PM",
 			"location": "CAD 106",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:23:05.564922+00:00",
@@ -114,11 +79,96 @@
 		{
 			"_updated": "2020-10-15T15:23:08.233102+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:30.881746+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "16/15",
+			"gereqs": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 106",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "CAD 106",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 106",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "CAD 106",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 106",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:10",
+					"location": "CAD 106",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:10",
+					"location": "CAD 106",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:10",
+					"location": "CAD 106",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:10",
+					"location": "CAD 106",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:10",
+					"location": "CAD 106",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/5",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "4/5",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20012,
 	"type": "Research",

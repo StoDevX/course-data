@@ -4,10 +4,23 @@
 	"crsid": "0000000969",
 	"department": "PHIL",
 	"enrolled": 37,
-	"instructors": [
-		"Gordon D. Marino"
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 10,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marino, Gordon D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5051",
+			"name": "Marino, Gordon D."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Kierkegaard",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 031",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 031",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.951411+00:00",
@@ -42,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:13.629200+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.552170+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gordon D. Marino"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 031",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 031",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

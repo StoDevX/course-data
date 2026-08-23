@@ -7,21 +7,32 @@
 		"This course introduces students to the lifetime sport of fly-fishing and fly-tying. Equipment available. Course fee."
 	],
 	"enrolled": 16,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Scott Nesbit"
+		"Nesbit, Scott"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5580",
+			"name": "Nesbit, Scott"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Fly Fishing",
 	"notes": [
-		"Open to seniors only. Course fee is $75.",
+		"Open to seniors only. Course fee is $75.                                        ",
 		"This is a second-half of semester course."
 	],
 	"number": 128,
@@ -84,11 +95,37 @@
 					"start": "08:00"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:51.463421+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Scott Nesbit"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Open to seniors only. Course fee is $75.",
+				"This is a second-half of semester course."
+			],
+			"sophomore": "0/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20253,
 	"title": "Fly-Fishing/Fly-Tying",

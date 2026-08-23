@@ -7,33 +7,32 @@
 		"Students learn basic skills and techniques of in-line skating. Equipment is required for participation."
 	],
 	"enrolled": 19,
-	"halfcredit": "1",
-	"instructors": [
-		"William Sean Goldsworthy"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Goldsworthy, William Sean"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2652",
+			"name": "Goldsworthy, William Sean"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "In-Line Skating",
 	"number": 108,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "SAC_GYM_S",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SAC_GYM_S",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "SAC_GYM_S",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -52,6 +51,45 @@
 		{
 			"_updated": "2020-10-15T15:23:20.046945+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:01.375279+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"William Sean Goldsworthy"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC_GYM_S",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC_GYM_S",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "SAC_GYM_S",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

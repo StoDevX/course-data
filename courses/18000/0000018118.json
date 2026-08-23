@@ -4,36 +4,36 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 28,
-	"instructors": [
-		"Lowell E. Johnson"
+	"enrollment_fy": 6,
+	"enrollment_jr": 5,
+	"enrollment_so": 13,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Lowell E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4041",
+			"name": "Johnson, Lowell E."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Intro to Literature",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "L 515",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "L 515",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "L 515",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.767103+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.864718+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:49.161997+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lowell E. Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "L 515",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

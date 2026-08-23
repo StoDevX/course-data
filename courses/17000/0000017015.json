@@ -4,30 +4,36 @@
 	"crsid": "0000000431",
 	"department": "ENGL",
 	"enrolled": 18,
-	"instructors": [
-		"Carol Holly"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-L",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Holly, Carol"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3424",
+			"name": "Holly, Carol"
+		}
+	],
 	"level": 200,
 	"max": 40,
 	"name": "Women and Literature",
 	"number": 286,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "L 515",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "L 515",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.707974+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.561977+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:58.870752+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Carol Holly"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "L 515",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "L 515",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

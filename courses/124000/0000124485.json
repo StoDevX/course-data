@@ -1,14 +1,21 @@
 {
 	"clbid": "0000124485",
-	"credits": 0.0,
 	"crsid": "0000000188",
 	"department": "CHEM",
 	"enrolled": 24,
-	"groupid": "0000000187",
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Kevin J. Roesselet"
+		"Roesselet, Kevin J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31159",
+			"name": "Roesselet, Kevin J."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "General Chemistry Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-01-16T04:54:17.137768+00:00",
@@ -111,6 +117,35 @@
 		{
 			"_updated": "2021-03-02T16:51:47.778099+00:00",
 			"max": 22
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.733192+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000187",
+			"instructors": [
+				"Kevin J. Roesselet"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

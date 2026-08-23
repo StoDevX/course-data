@@ -4,16 +4,28 @@
 	"crsid": "0000000310",
 	"department": "EDUC",
 	"enrolled": 20,
-	"instructors": [
-		"Jim Holden"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 12,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Holden, Jim"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3420",
+			"name": "Holden, Jim"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_so": 0,
 	"name": "Perspectives On Tchg",
 	"number": 260,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.068534+00:00",
@@ -32,10 +44,31 @@
 		{
 			"_updated": "2020-10-15T15:22:57.032884+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.113835+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jim Holden"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "12/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "12/0",
 	"status": "C",
 	"term": 19972,
 	"type": "Research",

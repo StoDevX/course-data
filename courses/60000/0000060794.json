@@ -7,14 +7,29 @@
 		"Faculty offer integrative seminars in the Center for Integrative Studies (CIS) on selected topics, open to students of at least sophomore standing, that model the integration of tools and resources from various disciplines in new approaches to interesting subjects. Each seminar is normally offered twice, in successive academic years, then is either retired or adopted into another department or interdisciplinary program's offerings."
 	],
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"instructors": [
-		"Charles Jr. Umbanhowar"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"NSL",
+		"NST"
 	],
-	"junior": "1/4",
-	"learningmode": "S",
+	"instructors": [
+		"Umbanhowar, Charles Jr."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 11,
+	"max_fy": 0,
+	"max_jr": 4,
+	"max_so": 3,
+	"max_sr": 4,
 	"name": "Top: Green Roofs",
 	"notes": [
 		"This course has class year limits."
@@ -23,21 +38,21 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "SC 129",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "SC 129",
-			"start": "14:15"
+			"start": "02:15"
 		},
 		{
 			"day": "Th",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "SC 227",
-			"start": "15:35"
+			"start": "03:35"
 		}
 	],
 	"pn": false,
@@ -73,11 +88,51 @@
 		{
 			"_updated": "2020-10-15T15:23:29.004448+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:36.993367+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"junior": "1/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "SC 129",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "SC 129",
+					"start": "14:15"
+				},
+				{
+					"day": "Th",
+					"end": "17:30",
+					"location": "SC 227",
+					"start": "15:35"
+				}
+			],
+			"section": null,
+			"senior": "6/4",
+			"sophomore": "5/3"
 		}
 	],
 	"semester": 3,
-	"senior": "6/4",
-	"sophomore": "5/3",
 	"status": "C",
 	"term": 20073,
 	"title": "Topics with NST and NSL",

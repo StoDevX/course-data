@@ -4,32 +4,45 @@
 	"crsid": "0000000024",
 	"department": "ART",
 	"enrolled": 20,
-	"firstyear": "4/4",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 4,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/3",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 4,
+	"max_jr": 3,
+	"max_so": 4,
+	"max_sr": 2,
 	"name": "Found Ceramics: Hand",
 	"number": 116,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 115C",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 115C",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.729288+00:00",
@@ -65,11 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:16.394018+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.660214+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/4",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "5/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 115C",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 115C",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/2",
+			"sophomore": "5/4",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "6/2",
-	"sophomore": "5/4",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

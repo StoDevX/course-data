@@ -4,36 +4,35 @@
 	"crsid": "0000000260",
 	"department": "ECON",
 	"enrolled": 9,
-	"instructors": [
-		"Steve Soderlind"
+	"enrollment_fy": 7,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Soderlind, Steve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7636",
+			"name": "Soderlind, Steve"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Analytical Principles",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "M 1",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "M 1",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "M 1",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.766737+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:06.160161+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:23.316286+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Steve Soderlind"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "M 1",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "M 1",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "M 1",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

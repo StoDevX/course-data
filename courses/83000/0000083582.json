@@ -1,14 +1,21 @@
 {
 	"clbid": "0000083582",
-	"credits": 0.0,
 	"crsid": "0000001160",
 	"department": "PSYCH",
 	"enrolled": 14,
-	"groupid": "0000001159",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Jeremy Loebach"
+		"Loebach, Jeremy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21097",
+			"name": "Loebach, Jeremy"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Sensation/Perception Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 240",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:05.378060+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:45.142234+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:02.436194+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001159",
+			"instructors": [
+				"Jeremy Loebach"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 240",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

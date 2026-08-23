@@ -1,14 +1,21 @@
 {
 	"clbid": "0000138832",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 18,
-	"groupid": "0000000194",
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brice Erickson"
+		"Erickson, Brice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33087",
+			"name": "Erickson, Brice"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-16T16:45:18.446508+00:00",
@@ -44,6 +50,35 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.624241+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Brice Erickson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "H",

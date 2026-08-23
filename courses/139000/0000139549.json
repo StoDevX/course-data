@@ -7,16 +7,34 @@
 		"This capstone course in the studio art program consists of advanced studio work, a visiting artist series, weekly critiques, and discussions with faculty and peers. Each student's independent work with a faculty advisor culminates in a senior exhibition at Flaten Art Museum. Weekly sessions also cover such topics as preparing a resume, documenting one's work, framing, and producing exhibition announcements and posters. Offered annually. Prerequisites: (for non-studio majors) Art 102, ART 103, ART 104, two upper-level (200-300) courses, one art history course, and permission of chair."
 	],
 	"enrolled": 35,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 33,
 	"instructors": [
-		"Michon Weeks",
-		"Courtney M. Leonard",
-		"D'Angelo M. Christian"
+		"Leonard, Courtney M.",
+		"Christian, D'Angelo M.",
+		"Weeks, Michon"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32103",
+			"name": "Leonard, Courtney M."
+		},
+		{
+			"fsnum": "33022",
+			"name": "Christian, D'Angelo M."
+		},
+		{
+			"fsnum": "23761",
+			"name": "Weeks, Michon"
+		}
+	],
 	"level": 300,
 	"max": 35,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Senior Studies in Studio Art",
 	"notes": [
 		"Open to Seniors only."
@@ -25,21 +43,15 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:00",
-			"location": "TBA",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "TBA",
-			"start": "13:00"
-		},
-		{
-			"day": "Mo",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "CAD 305",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "MW",
+			"end": "0300PM",
+			"location": "TBA",
+			"start": "01:00"
 		}
 	],
 	"pn": false,
@@ -88,10 +100,51 @@
 				"Courtney M. Leonard",
 				"Deangelo M. Christian"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.587744+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Michon Weeks",
+				"Courtney M. Leonard",
+				"D'Angelo M. Christian"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "TBA",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "TBA",
+					"start": "13:00"
+				},
+				{
+					"day": "Mo",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20213,
 	"type": "Research",

@@ -1,33 +1,33 @@
 {
 	"clbid": "0000017960",
-	"credits": 0.0,
 	"crsid": "0000000173",
 	"department": "BIO",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Top: Neurobiology/Disc",
 	"number": 391,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
+			"day": "MW",
+			"end": "0400PM",
 			"location": "SC 210",
-			"start": "15:05"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "SC 210",
-			"start": "15:05"
+			"start": "03:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.673885+00:00",
@@ -42,6 +42,39 @@
 		{
 			"_updated": "2020-10-15T15:22:50.798331+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:43.276338+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "SC 210",
+					"start": "15:05"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "SC 210",
+					"start": "15:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

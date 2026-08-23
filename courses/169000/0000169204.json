@@ -6,32 +6,35 @@
 	"description": [
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
-	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrolled": 23,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 21,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SED",
+		"SPM"
 	],
 	"instructors": [
-		"Dennis Bengtson"
+		"Bengtson, Denny"
 	],
-	"junior": "0/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "361",
+			"name": "Bengtson, Denny"
+		}
+	],
 	"level": 100,
-	"max": 20,
+	"max": 22,
 	"name": "Classical Hatha Yoga",
 	"notes": [
-		"This course has class-year limits and open only to rising seniors and juniors."
+		"Yoga mat required."
 	],
 	"number": 162,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD Studio 3",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "CAD Studio 3",
 			"start": "09:05"
@@ -39,10 +42,55 @@
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:07:12.398021+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Dennis Bengtson"
+			],
+			"instructors_full": null,
+			"junior": "0/6",
+			"learningmode": "S",
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits and open only to rising seniors and juniors."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD Studio 3",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD Studio 3",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "0/14",
+			"sophomore": "0/0",
+			"status": "O"
+		}
+	],
+	"section": "A",
 	"semester": 1,
-	"senior": "0/14",
-	"sophomore": "0/0",
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Research",
 	"year": 2026

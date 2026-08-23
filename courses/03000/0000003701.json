@@ -4,10 +4,22 @@
 	"crsid": "0000000029",
 	"department": "ART",
 	"enrolled": 18,
-	"instructors": [
-		"Linda Gammell"
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gammell, Linda"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14097",
+			"name": "Gammell, Linda"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Found Photography",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 102",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "CAD 102",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.166045+00:00",
@@ -49,6 +60,41 @@
 		{
 			"_updated": "2020-10-15T15:23:10.417844+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.748551+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Linda Gammell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 102",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "CAD 102",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

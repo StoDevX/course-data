@@ -7,16 +7,28 @@
 		"Using examples from the natural sciences, this course examines fundamental concepts of science, including scientific method, the nature of scientific theories and hypotheses, objectivity in data collection and analysis, the use of technology in making observations, confirmation versus falsification, and explanation versus prediction. To illustrate why non-scientists need to understand scientific practice the course also considers controversies such as global warming and intelligent design. Offered annually."
 	],
 	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"WAC"
+		"IST",
+		"NST",
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Arthur Cunningham"
+		"Cunningham, Arthur"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20236",
+			"name": "Cunningham, Arthur"
+		}
+	],
 	"level": 200,
-	"max": 22,
+	"max": 20,
+	"max_fy": 0,
 	"name": "Philosophy of Science",
 	"notes": [
 		"Not open to first-year students."
@@ -24,26 +36,57 @@
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "HH 434",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "HH 434",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "HH 434",
-			"start": "14:00"
+			"day": "MWF",
+			"end": "0150PM",
+			"location": "TBA",
+			"start": "12:55"
 		}
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:50.179974+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Arthur Cunningham"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 22,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "HH 434",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "HH 434",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "HH 434",
+					"start": "14:00"
+				}
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

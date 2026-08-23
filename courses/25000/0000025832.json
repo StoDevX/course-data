@@ -4,32 +4,41 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 29,
-	"firstyear": "11/11",
-	"instructors": [
-		"Annette Nierobisz"
+	"enrollment_fy": 11,
+	"enrollment_jr": 1,
+	"enrollment_so": 14,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-D",
+		"WRI"
 	],
-	"junior": "1/4",
-	"learningmode": "S",
+	"instructors": [
+		"Nierobisz, Annette"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10058",
+			"name": "Nierobisz, Annette"
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_fy": 11,
+	"max_jr": 4,
+	"max_so": 11,
+	"max_sr": 3,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 317",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.466100+00:00",
@@ -58,12 +67,48 @@
 		{
 			"_updated": "2020-10-15T15:23:02.269682+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.339097+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/11",
+			"gereqs": null,
+			"instructors": [
+				"Annette Nierobisz"
+			],
+			"instructors_full": null,
+			"junior": "1/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/3",
+			"sophomore": "14/11",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/3",
-	"sophomore": "14/11",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

@@ -1,29 +1,35 @@
 {
 	"clbid": "0000164989",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
-	"enrolled": 23,
-	"firstyear": "0/0",
-	"groupid": "0000001074",
+	"enrolled": 22,
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Adam Svenkeson"
+		"Svenkeson, Adam"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002900",
+			"name": "Svenkeson, Adam"
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_fy": 0,
 	"name": "Principles Physics II Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:30",
+			"end": "0330PM",
 			"location": "RNS 292",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-09T02:50:26.069000+00:00",
@@ -55,11 +61,43 @@
 			"_updated": "2025-11-06T03:09:51.366180+00:00",
 			"enrolled": 14,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:58.368825+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 23,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001074",
+			"instructors": [
+				"Adam Svenkeson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"status": "C",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20253,
 	"type": "Lab",
 	"year": 2025

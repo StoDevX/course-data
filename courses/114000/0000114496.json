@@ -1,14 +1,21 @@
 {
 	"clbid": "0000114496",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 15,
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Amy Larsen"
+		"Larsen, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4619",
+			"name": "Larsen, Amy"
+		}
+	],
 	"level": 100,
 	"max": 17,
 	"name": "Principles Physics II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "RNS 292",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-11-28T01:40:31.775850+00:00",
@@ -49,6 +55,35 @@
 		{
 			"_updated": "2021-03-02T16:51:42.386087+00:00",
 			"max": 18
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.392438+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Amy Larsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "RNS 292",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

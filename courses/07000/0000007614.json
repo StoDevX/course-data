@@ -4,38 +4,39 @@
 	"crsid": "0000000021",
 	"department": "ART",
 	"enrolled": 16,
-	"firstyear": "2/6",
-	"instructors": [
-		"Wendell Arneson"
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "4/2",
-	"learningmode": "S",
+	"instructors": [
+		"Arneson, Wendell"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 6,
+	"max_jr": 2,
+	"max_so": 4,
+	"max_sr": 1,
 	"name": "Found Color Design",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 116",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 116",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 116",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.726295+00:00",
@@ -70,11 +71,54 @@
 		{
 			"_updated": "2020-10-15T15:23:16.391989+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.659082+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/6",
+			"gereqs": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"junior": "4/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/1",
+			"sophomore": "7/4",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/1",
-	"sophomore": "7/4",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

@@ -4,48 +4,36 @@
 	"crsid": "0000000532",
 	"department": "GCON",
 	"enrolled": 20,
-	"instructors": [
-		"Diana Postlethwaite"
+	"enrollment_fy": 19,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"BTS-B",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Postlethwaite, Diana"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6403",
+			"name": "Postlethwaite, Diana"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Romans & Christians",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "Steensland",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "Steensland",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "Steensland",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "Steensland",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "Steensland",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.698010+00:00",
@@ -95,6 +83,58 @@
 		{
 			"_updated": "2020-10-15T15:23:17.301494+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:49.473065+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Diana Postlethwaite"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "Steensland",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "Steensland",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "Steensland",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "Steensland",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "Steensland",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

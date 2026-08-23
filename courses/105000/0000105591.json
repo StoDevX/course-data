@@ -1,29 +1,35 @@
 {
 	"clbid": "0000105591",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"groupid": "0000000126",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Nicole Son"
+		"Son, Nicole"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26303",
+			"name": "Son, Nicole"
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 0,
 	"name": "Human Anatomy & Physiology Lab",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 254",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.238794+00:00",
@@ -58,6 +64,36 @@
 		{
 			"_updated": "2021-03-02T16:51:37.098485+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:02.664232+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000126",
+			"instructors": [
+				"Nicole Son"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 254",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

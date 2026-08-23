@@ -4,11 +4,24 @@
 	"crsid": "0000000314",
 	"department": "EDUC",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jill A. Watson",
-		"Heather Campbell"
+		"Campbell, Heather",
+		"Watson, Jill A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "903",
+			"name": "Campbell, Heather"
+		},
+		{
+			"fsnum": "28066",
+			"name": "Watson, Jill A."
+		}
+	],
 	"level": 200,
 	"max": 0,
 	"name": "IS/Evaluating English Learners",
@@ -16,13 +29,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "TBA",
-			"start": "16:15"
+			"start": "04:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-04-10T02:19:16.014905+00:00",
@@ -40,6 +52,33 @@
 			"instructors": [
 				"Jill A. Watson"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.877916+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jill A. Watson",
+				"Heather Campbell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:30",
+					"location": "TBA",
+					"start": "16:15"
+				}
+			],
+			"prerequisites": false
 		}
 	],
 	"section": "A",

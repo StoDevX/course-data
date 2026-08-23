@@ -4,32 +4,45 @@
 	"crsid": "0000000023",
 	"department": "ART",
 	"enrolled": 19,
-	"firstyear": "5/5",
-	"instructors": [
-		"Margaret Ojala"
+	"enrollment_fy": 5,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/1",
-	"learningmode": "S",
+	"instructors": [
+		"Ojala, Margaret"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5816",
+			"name": "Ojala, Margaret"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 5,
+	"max_jr": 1,
+	"max_so": 5,
+	"max_sr": 2,
 	"name": "Found Photography",
 	"number": 115,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 102",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 102",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.622379+00:00",
@@ -65,12 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:18.045854+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.593817+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/5",
+			"gereqs": null,
+			"instructors": [
+				"Margaret Ojala"
+			],
+			"instructors_full": null,
+			"junior": "3/1",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 102",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 102",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/2",
+			"sophomore": "6/5",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "5/2",
-	"sophomore": "6/5",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

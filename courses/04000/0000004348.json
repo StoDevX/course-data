@@ -4,36 +4,37 @@
 	"crsid": "0000001300",
 	"department": "SOAN",
 	"enrolled": 25,
-	"instructors": [
-		"Carolyn Anderson"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 20,
+	"gereqs": [
+		"HBS",
+		"MCS-D",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Anderson, Carolyn"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "179",
+			"name": "Anderson, Carolyn"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Contemp Native Amer",
 	"number": 235,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "H 516",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 516",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 516",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.850216+00:00",
@@ -48,6 +49,46 @@
 		{
 			"_updated": "2020-10-15T15:23:10.738348+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.542933+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Carolyn Anderson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,14 +4,29 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 28,
-	"firstyear": "8/5",
-	"instructors": [
-		"Deborah Engelen-Eigles"
+	"enrollment_fy": 8,
+	"enrollment_jr": 8,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "8/4",
-	"learningmode": "S",
+	"instructors": [
+		"Engelen-Eigles, Deborah"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14222",
+			"name": "Engelen-Eigles, Deborah"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 5,
+	"max_jr": 4,
+	"max_so": 4,
+	"max_sr": 0,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
@@ -29,7 +44,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.309475+00:00",
@@ -61,11 +75,34 @@
 		{
 			"_updated": "2020-10-15T15:23:12.227399+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.093636+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/5",
+			"gereqs": null,
+			"instructors": [
+				"Deborah Engelen-Eigles"
+			],
+			"instructors_full": null,
+			"junior": "8/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"sophomore": "9/4",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/0",
-	"sophomore": "9/4",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

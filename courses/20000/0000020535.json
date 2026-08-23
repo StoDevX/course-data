@@ -4,36 +4,36 @@
 	"crsid": "0000000979",
 	"department": "PHIL",
 	"enrolled": 28,
-	"instructors": [
-		"Kenneth S. Casey"
+	"enrollment_fy": 2,
+	"enrollment_jr": 14,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Casey, Kenneth S."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "978",
+			"name": "Casey, Kenneth S."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CH 109",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "CH 109",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "CH 109",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.771248+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:54.978454+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:34.268990+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kenneth S. Casey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CH 109",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CH 109",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "CH 109",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

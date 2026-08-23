@@ -4,80 +4,46 @@
 	"crsid": "0000000111",
 	"department": "BIO",
 	"enrolled": 21,
-	"firstyear": "6/6",
-	"instructors": [
-		"Joel Olfelt"
+	"enrollment_fy": 6,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "4/6",
-	"learningmode": "S",
+	"instructors": [
+		"Olfelt, Joel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5838",
+			"name": "Olfelt, Joel"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Plants and People",
 	"number": 129,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 211",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "SC 211",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 211",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 211",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.235134+00:00",
@@ -104,11 +70,96 @@
 		{
 			"_updated": "2020-10-15T15:23:02.634177+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.118325+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/6",
+			"gereqs": null,
+			"instructors": [
+				"Joel Olfelt"
+			],
+			"instructors_full": null,
+			"junior": "4/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 211",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 211",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/6",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "6/6",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

@@ -4,36 +4,35 @@
 	"crsid": "0000001278",
 	"department": "RUSSN",
 	"enrolled": 10,
-	"instructors": [
-		"Irina Walter"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"FOL-R",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Walter, Irina"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8888",
+			"name": "Walter, Irina"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "The Russian Press",
 	"number": 372,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "M 36",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "M 36",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "M 36",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.952667+00:00",
@@ -48,6 +47,48 @@
 		{
 			"_updated": "2020-10-15T15:23:00.786226+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:39.638504+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Irina Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "M 36",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "M 36",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "M 36",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

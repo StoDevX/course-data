@@ -4,30 +4,32 @@
 	"crsid": "0000001126",
 	"department": "PSCI",
 	"enrolled": 19,
+	"enrollment_fy": 4,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
 	"instructors": [
-		"J. Patrick Dale"
+		"Dale, J. Patrick"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1343",
+			"name": "Dale, J. Patrick"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Central European Pol",
 	"number": 256,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 2",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 2",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.901358+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:00.753394+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:34.994014+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"J. Patrick Dale"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 2",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 2",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

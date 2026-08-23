@@ -1,14 +1,21 @@
 {
 	"clbid": "0000080507",
-	"credits": 0.0,
 	"crsid": "0000000160",
 	"department": "BIO",
 	"enrolled": 11,
-	"groupid": "0000000159",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Kim A. Kandl"
+		"Kandl, Kim A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "Molecular Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "RNS 393",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:57.256085+00:00",
@@ -51,6 +57,35 @@
 			"instructors": [
 				"Kimberly A. Kandl"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:40.333616+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000159",
+			"instructors": [
+				"Kim A. Kandl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:15",
+					"location": "RNS 393",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

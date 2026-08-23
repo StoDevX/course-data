@@ -7,12 +7,25 @@
 		"This course engages students with the material in Statistics 212 in greater depth and breadth. Credit will not be given for more than one of Statistics 110, Statistics 212, Statistics 214, or Statistics 263, except for Statistics 214 following Statistics 110. Prerequisites: Math 126 or 128 or Computer Science 125 or some previous experience with statistics (e.g., AP Statistics earning at least 3 on the exam or Statistics 110)."
 	],
 	"enrolled": 23,
-	"instructors": [
-		"Paul J. Roback"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 14,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"AQR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roback, Paul J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15751",
+			"name": "Roback, Paul J."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_sr": 10,
 	"name": "Honors Stats for Science",
 	"notes": [
 		"This course has class year limits."
@@ -20,20 +33,8 @@
 	"number": 214,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 182",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "TOH 182",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "TOH 182",
 			"start": "12:55"
 		}
@@ -69,11 +70,48 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:25.180305+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul J. Roback"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				}
+			],
+			"senior": "3/10"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "3/10",
 	"status": "C",
 	"term": 20133,
 	"title": "Honors Statistics for the Sciences",

@@ -7,13 +7,23 @@
 		"The course provides a capstone to the major. Taught as a seminar, it offers an opportunity for students to integrate their studies of women across disciplines and to become more aware of the intricate web of gender, race, culture, and class that informs women's experiences. Prerequisite: Women's Studies 121. Offered each Spring Semester."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Diane C. LeBlanc"
+		"LeBlanc, Diane C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13324",
+			"name": "LeBlanc, Diane C."
+		}
+	],
 	"level": 300,
 	"max": 15,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Sem: Discourses Gender",
 	"notes": [
 		"Open to Senior and Junior Women's Studies majors only."
@@ -21,20 +31,8 @@
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD 204",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CAD 204",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CAD 204",
 			"start": "11:50"
 		}
@@ -70,10 +68,48 @@
 		{
 			"_updated": "2020-10-15T15:23:32.545759+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:57.006707+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Diane C. LeBlanc"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD 204",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD 204",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 204",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20083,
 	"title": "Advanced Topics in Women's Studies",

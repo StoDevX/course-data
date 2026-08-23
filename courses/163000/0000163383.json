@@ -7,13 +7,23 @@
 		"May be repeated if topic is different."
 	],
 	"enrolled": 11,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Gregory A. Walter"
+		"Walter, Gregory A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16642",
+			"name": "Walter, Gregory A."
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Sem: The End of All Things",
 	"notes": [
 		"Open only to rising juniors and seniors."
@@ -21,20 +31,8 @@
 	"number": 390,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "13:50",
-			"location": "OM 240",
-			"start": "12:55"
-		},
-		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "OM 240",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "FMW",
+			"end": "0150PM",
 			"location": "OM 240",
 			"start": "12:55"
 		}
@@ -201,10 +199,48 @@
 					"start": "12:55"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.255899+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Gregory A. Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "OM 240",
+					"start": "12:55"
+				},
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "OM 240",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "OM 240",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20251,
 	"title": "History of Religions Seminar",

@@ -4,31 +4,39 @@
 	"crsid": "0000001294",
 	"department": "SOAN",
 	"enrolled": 31,
-	"instructors": [
-		"Christopher L. Chiappari"
+	"enrollment_fy": 10,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors": [
+		"Chiappari, Chris L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10036",
+			"name": "Chiappari, Chris L."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 3,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 317",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.995276+00:00",
@@ -56,12 +64,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.595405+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.698903+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/3",
+			"sophomore": "11/10",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "5/3",
-	"sophomore": "11/10",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

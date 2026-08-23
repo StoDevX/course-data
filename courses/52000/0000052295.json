@@ -1,14 +1,21 @@
 {
 	"clbid": "0000052295",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 18,
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Prin Physics II/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "SC 111",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:23.226795+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:25.278674+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:23.464465+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "SC 111",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

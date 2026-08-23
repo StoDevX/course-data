@@ -4,30 +4,33 @@
 	"crsid": "0000001177",
 	"department": "PSYCH",
 	"enrolled": 36,
+	"enrollment_fy": 11,
+	"enrollment_jr": 11,
+	"enrollment_so": 9,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Donna K. McMillan"
+		"McMillan, Donna K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5220",
+			"name": "McMillan, Donna K."
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_sr": 99,
 	"name": "Psych of Personality",
 	"number": 271,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 307",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 307",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:14:39.771978+00:00",
@@ -63,10 +66,44 @@
 		{
 			"_updated": "2020-10-15T15:23:03.564578+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.065245+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Donna K. McMillan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/99",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "5/99",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

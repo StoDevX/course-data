@@ -4,32 +4,39 @@
 	"crsid": "0000000026",
 	"department": "ART",
 	"enrolled": 16,
-	"firstyear": "1/3",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 3,
+	"max_jr": 4,
+	"max_so": 5,
+	"max_sr": 3,
 	"name": "Found Ceramics: Throw",
 	"number": 119,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "16:30",
+			"day": "TTh",
+			"end": "0430PM",
 			"location": "FH 19",
-			"start": "15:00"
-		},
-		{
-			"day": "Th",
-			"end": "16:30",
-			"location": "FH 19",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.547665+00:00",
@@ -58,11 +65,48 @@
 		{
 			"_updated": "2020-10-15T15:22:49.457054+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:51.314664+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/3",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:30",
+					"location": "FH 19",
+					"start": "15:00"
+				},
+				{
+					"day": "Th",
+					"end": "16:30",
+					"location": "FH 19",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/3",
+			"sophomore": "5/5",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "8/3",
-	"sophomore": "5/5",
 	"status": "C",
 	"term": 19951,
 	"type": "Research",

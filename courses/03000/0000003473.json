@@ -4,30 +4,36 @@
 	"crsid": "0000001205",
 	"department": "REL",
 	"enrolled": 30,
-	"instructors": [
-		"James Hanson"
+	"enrollment_fy": 1,
+	"enrollment_jr": 8,
+	"enrollment_so": 13,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hanson, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3061",
+			"name": "Hanson, James"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Jesus in Script/Trad",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CH 101",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CH 101",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.124617+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.200118+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.714189+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CH 101",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CH 101",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

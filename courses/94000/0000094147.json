@@ -7,23 +7,30 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 24,
-	"instructors": [
-		"Jeremy B. Driver"
+	"enrollment_fy": 2,
+	"enrollment_jr": 8,
+	"enrollment_so": 3,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Driver, Jeremy B."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "18395",
+			"name": "Driver, Jeremy B."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:30",
-			"location": "Tostrud Ctr",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:30",
 			"location": "Tostrud Ctr",
 			"start": "09:35"
@@ -50,6 +57,37 @@
 			"_updated": "2025-10-11T21:36:15.665679+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:31.055637+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jeremy B. Driver"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				}
 			]
 		}
 	],

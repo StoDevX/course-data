@@ -4,19 +4,26 @@
 	"crsid": "0000000707",
 	"department": "ID",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Beth Abdella"
+		"Abdella, Beth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25",
+			"name": "Abdella, Beth"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Academic Internship",
 	"notes": [
 		"Internship in Mexico"
 	],
 	"number": 294,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-09-18T15:04:03.365045+00:00",
@@ -29,6 +36,25 @@
 		{
 			"_updated": "2021-03-02T16:51:45.025940+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:23.236188+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Beth Abdella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "B",

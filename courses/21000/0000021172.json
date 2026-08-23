@@ -4,36 +4,36 @@
 	"crsid": "0000000192",
 	"department": "CHEM",
 	"enrolled": 53,
-	"instructors": [
-		"Gary Miessler"
+	"enrollment_fy": 31,
+	"enrollment_jr": 0,
+	"enrollment_so": 15,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Miessler, Gary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5287",
+			"name": "Miessler, Gary"
+		}
+	],
 	"level": 100,
 	"max": 60,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 378",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 378",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 378",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.953110+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:56.341734+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:49.767624+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary Miessler"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 378",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

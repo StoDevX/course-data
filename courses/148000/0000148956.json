@@ -7,16 +7,28 @@
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
 	"enrolled": 25,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 1,
+	"enrollment_sr": 12,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SED",
+		"SPM"
 	],
 	"instructors": [
-		"Dennis Bengtson"
+		"Bengtson, Denny"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "361",
+			"name": "Bengtson, Denny"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Classical Hatha Yoga",
 	"notes": [
 		"Open only to juniors and seniors."
@@ -24,13 +36,7 @@
 	"number": 162,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SAC018A",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "SAC018A",
 			"start": "10:45"
@@ -45,11 +51,45 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:09.152187+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Dennis Bengtson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SAC018A",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SAC018A",
+					"start": "10:45"
+				}
+			],
+			"sophomore": "1/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20223,
 	"type": "Research",

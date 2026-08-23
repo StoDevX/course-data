@@ -4,36 +4,32 @@
 	"crsid": "0000000814",
 	"department": "MUSIC",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Scott Kallestad"
+		"Kallestad, Scott"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4167",
+			"name": "Kallestad, Scott"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Woodwind Class",
 	"number": 169,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CHM 138",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CHM 138",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CHM 138",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.693120+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:23:10.608472+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.481560+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Scott Kallestad"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CHM 138",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CHM 138",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CHM 138",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,30 +4,36 @@
 	"crsid": "0000000357",
 	"department": "DNCTE",
 	"enrolled": 3,
-	"instructors": [
-		"Anthony Roberts"
+	"enrollment_fy": 3,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roberts, Anthony"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6691",
+			"name": "Roberts, Anthony"
+		}
+	],
 	"level": 200,
 	"max": 6,
 	"name": "Modern Dance II",
 	"number": 210,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CHM 140",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CHM 140",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.450329+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:23:03.388274+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.714720+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CHM 140",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CHM 140",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

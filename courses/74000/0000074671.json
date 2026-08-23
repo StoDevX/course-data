@@ -7,16 +7,34 @@
 		"This capstone course in the studio art program consists of advanced studio work, a visiting artist series, weekly critiques, and discussions with faculty and peers. Each student's independent work with a faculty adviser culminates in a senior exhibition at Flaten Art Museum. Weekly sessions also cover such topics as preparing a resume, documenting one's work, framing, and producing exhibition announcements and posters. Offered annually."
 	],
 	"enrolled": 28,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 28,
 	"instructors": [
-		"Guido Alvarez",
-		"Wendell Arneson",
-		"John Saurer"
+		"Alvarez, Guido",
+		"Saurer, John",
+		"Arneson, Wendell"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21134",
+			"name": "Alvarez, Guido"
+		},
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		},
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 300,
 	"max": 50,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Sr Studies/Studio Art",
 	"notes": [
 		"Open to Seniors only."
@@ -24,22 +42,16 @@
 	"number": 343,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "CAD 305",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "CAD 305",
-			"start": "13:00"
+			"day": "MW",
+			"end": "0300PM",
+			"location": "",
+			"start": "01:00"
 		},
 		{
 			"day": "Th",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "CAD 305",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
@@ -70,10 +82,51 @@
 		{
 			"_updated": "2020-10-15T15:23:39.695838+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:32.676359+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Guido Alvarez",
+				"Wendell Arneson",
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "CAD 305",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "CAD 305",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20103,
 	"title": "Senior Studies in Studio Art",

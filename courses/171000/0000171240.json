@@ -7,15 +7,27 @@
 		"A first course in statistical methods, this course addresses study design and its implications as well as exploratory and inferential techniques for analyzing and modeling data. Topics include exploratory graphics, descriptive techniques, randomization tests, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, SDS 172, and ECON 260 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses."
 	],
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Martha W. Zillig"
+		"Chávez, Carlos"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9003390",
+			"name": "Chávez, Carlos"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_sr": 5,
 	"name": "Statistics 1",
 	"notes": [
 		"Note: SDS 172 was formerly STAT 212"
@@ -23,26 +35,55 @@
 	"number": 172,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "TOH 182",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "TOH 182",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "TOH 182",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:09:04.165346+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Martha W. Zillig"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "TOH 182",
+					"start": "12:55"
+				}
+			]
+		}
+	],
 	"section": "E",
 	"semester": 3,
 	"status": "O",

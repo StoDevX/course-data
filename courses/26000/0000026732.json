@@ -4,30 +4,32 @@
 	"crsid": "0000001135",
 	"department": "PSCI",
 	"enrolled": 21,
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Daniel Hofrenning"
+		"Hofrenning, Dan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3418",
+			"name": "Hofrenning, Dan"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Environmentl Politics",
 	"number": 276,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 317",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 317",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.881048+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:03.554129+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.441700+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Daniel Hofrenning"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 317",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 317",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

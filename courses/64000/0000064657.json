@@ -1,14 +1,21 @@
 {
 	"clbid": "0000064657",
-	"credits": 0.0,
 	"crsid": "0000018827",
 	"department": "CH/BI",
 	"enrolled": 18,
-	"groupid": "0000018802",
+	"enrollment_fy": 16,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Kim A. Kandl"
+		"Kandl, Kim A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Integr Chem/Bio III Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 394",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:39.523405+00:00",
@@ -43,6 +49,35 @@
 			"instructors": [
 				"Kimberly A. Kandl"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.639215+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000018802",
+			"instructors": [
+				"Kim A. Kandl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 394",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

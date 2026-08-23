@@ -1,41 +1,36 @@
 {
 	"clbid": "0000130696",
-	"credits": 0.0,
 	"crsid": "0000001063",
 	"department": "ESTH",
 	"enrolled": 16,
-	"firstyear": "0/0",
-	"groupid": "0000001062",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Veronica C. Foster"
+		"Foster, Veronica C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31174",
+			"name": "Foster, Veronica C."
+		}
+	],
 	"level": 300,
 	"max": 16,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Biomechanics Lab",
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SAC 103",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-16T08:24:41.841726+00:00",
@@ -91,10 +86,53 @@
 		{
 			"_updated": "2020-11-26T16:47:09.673975+00:00",
 			"enrolled": 17
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.532402+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001062",
+			"instructors": [
+				"Veronica C. Foster"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20201,
 	"type": "Lab",

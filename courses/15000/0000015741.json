@@ -4,32 +4,39 @@
 	"crsid": "0000000023",
 	"department": "ART",
 	"enrolled": 14,
-	"firstyear": "5/5",
+	"enrollment_fy": 5,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "1/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 5,
+	"max_jr": 5,
+	"max_so": 8,
+	"max_sr": 3,
 	"name": "Found Photography",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 2",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 2",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:16.727668+00:00",
@@ -58,12 +65,45 @@
 		{
 			"_updated": "2020-10-15T15:22:47.941845+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:46.731298+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/5",
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "1/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 2",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 2",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/3",
+			"sophomore": "3/8",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "5/3",
-	"sophomore": "3/8",
 	"status": "C",
 	"term": 19943,
 	"type": "Research",

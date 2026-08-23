@@ -4,14 +4,28 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 18,
-	"firstyear": "3/8",
-	"instructors": [
-		"Kristen Lowe"
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/2",
-	"learningmode": "S",
+	"instructors": [
+		"Lowe, Kristen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15829",
+			"name": "Lowe, Kristen"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 8,
+	"max_jr": 2,
+	"max_so": 4,
+	"max_sr": 2,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.467994+00:00",
@@ -65,12 +78,34 @@
 		{
 			"_updated": "2020-10-15T15:23:14.785830+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.653425+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/8",
+			"gereqs": null,
+			"instructors": [
+				"Kristen Lowe"
+			],
+			"instructors_full": null,
+			"junior": "3/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "5/2",
+			"sophomore": "7/4",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "5/2",
-	"sophomore": "7/4",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

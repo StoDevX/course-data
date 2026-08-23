@@ -4,30 +4,35 @@
 	"crsid": "0000000136",
 	"department": "BIO",
 	"enrolled": 12,
-	"instructors": [
-		"Charles Jr. Umbanhowar"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Umbanhowar, Charles Jr."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Plant Morphology",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "SC 274",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "SC 274",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.589466+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.483143+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:52.636701+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "SC 274",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

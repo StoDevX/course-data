@@ -4,30 +4,35 @@
 	"crsid": "0000000497",
 	"department": "FREN",
 	"enrolled": 10,
-	"instructors": [
-		"Herve Pensec"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"FOL-F",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pensec, Herve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6184",
+			"name": "Pensec, Herve"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Sem: Medieval Studies",
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 26",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 26",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.664600+00:00",
@@ -42,6 +47,42 @@
 		{
 			"_updated": "2020-10-15T15:23:02.105794+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.760095+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Herve Pensec"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

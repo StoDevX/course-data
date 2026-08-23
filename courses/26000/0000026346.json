@@ -4,31 +4,33 @@
 	"crsid": "0000000327",
 	"department": "EDUC",
 	"enrolled": 14,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Peder Bolstad"
+		"Bolstad, Peder"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "661",
+			"name": "Bolstad, Peder"
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Tchg of Mathematics",
 	"number": 350,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "FH 10/SC188",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "FH 10/SC188",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.412498+00:00",
@@ -48,10 +50,46 @@
 		{
 			"_updated": "2020-10-15T15:23:03.374053+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.337263+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Peder Bolstad"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "FH 10/SC188",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "FH 10/SC188",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

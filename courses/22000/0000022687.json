@@ -4,30 +4,35 @@
 	"crsid": "0000002185",
 	"department": "PEAC",
 	"enrolled": 10,
-	"instructors": [
-		"Dick Daymont"
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Daymont, Dick"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1384",
+			"name": "Daymont, Dick"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Individual Fitness",
 	"number": 132,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "SAC WT RM",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "SAC WT RM",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.567121+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:57.899579+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:39.663811+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Dick Daymont"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "SAC WT RM",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "SAC WT RM",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

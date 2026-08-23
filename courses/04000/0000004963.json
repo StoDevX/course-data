@@ -4,26 +4,39 @@
 	"crsid": "0000000413",
 	"department": "ENGL",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"instructors": [
-		"Jan C. Hill"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jan C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "109",
+			"name": "Hill, Jan C."
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 5,
+	"max_sr": 5,
 	"name": "Creative Nonfiction",
 	"number": 251,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "21:30",
+			"end": "0930PM",
 			"location": "RML 515",
-			"start": "18:30"
+			"start": "06:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:58.992081+00:00",
@@ -53,11 +66,42 @@
 		{
 			"_updated": "2020-10-15T15:23:12.027742+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.662303+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Jan C. Hill"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "21:30",
+					"location": "RML 515",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/5",
+			"sophomore": "5/5",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "8/5",
-	"sophomore": "5/5",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

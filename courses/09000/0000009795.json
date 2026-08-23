@@ -4,10 +4,19 @@
 	"crsid": "0000001083",
 	"department": "PHYS",
 	"enrolled": 6,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 6,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Robert Jacobel"
+		"Jacobel, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3646",
+			"name": "Jacobel, Robert"
+		}
+	],
 	"level": 200,
 	"max": 8,
 	"name": "Modern Phys Lab (244)",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 151",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.481912+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:23:18.329397+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.318665+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Jacobel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "SC 151",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

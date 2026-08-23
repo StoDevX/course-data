@@ -1,16 +1,24 @@
 {
 	"clbid": "0000010895",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 5,
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jason J. Engbrecht"
+		"Engbrecht, Jason J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14912",
+			"name": "Engbrecht, Jason J."
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_sr": 16,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
@@ -22,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.560385+00:00",
@@ -46,11 +53,32 @@
 		{
 			"_updated": "2020-10-15T15:23:20.069274+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:01.397554+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "1/16",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"senior": "1/16",
 	"status": "C",
 	"term": 20051,
 	"type": "Lab",

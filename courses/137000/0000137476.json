@@ -1,30 +1,35 @@
 {
 	"clbid": "0000137476",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000000122",
-	"grouptype": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Kim A. Kandl"
+		"Kandl, Kim A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 394",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-23T16:42:51.911400+00:00",
@@ -125,6 +130,37 @@
 			"instructors": [
 				"Kimberly A. Kandl"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.780364+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000122",
+			"grouptype": "1",
+			"instructors": [
+				"Kim A. Kandl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 394",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

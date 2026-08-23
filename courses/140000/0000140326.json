@@ -7,16 +7,28 @@
 		"Selected topics in historical studies, depending on instructor. Offered periodically. Prerequisite: first-year student standing."
 	],
 	"enrolled": 22,
+	"enrollment_fy": 3,
+	"enrollment_jr": 9,
+	"enrollment_so": 9,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Eric J. Fure-Slocum"
+		"Fure-Slocum, Eric J."
 	],
-	"junior": "9/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10197",
+			"name": "Fure-Slocum, Eric J."
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Top: Prosperity & Peril",
 	"notes": [
 		"Remaining seats available to first-year students only."
@@ -24,19 +36,7 @@
 	"number": 188,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "OM 305",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "OM 305",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "OM 305",
 			"start": "09:05"
@@ -189,12 +189,52 @@
 				"HWC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.530438+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Eric J. Fure-Slocum"
+			],
+			"instructors_full": null,
+			"junior": "9/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 305",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 305",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "OM 305",
+					"start": "09:05"
+				}
+			],
+			"senior": "1/0",
+			"sophomore": "9/0"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "9/0",
 	"status": "C",
 	"term": 20211,
 	"title": "Topical Seminar",

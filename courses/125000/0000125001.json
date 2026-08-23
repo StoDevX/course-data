@@ -1,14 +1,21 @@
 {
 	"clbid": "0000125001",
-	"credits": 0.0,
 	"crsid": "0000022827",
 	"department": "STAT",
 	"enrolled": 22,
-	"groupid": "0000001402",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 18,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Joe Roith"
+		"Roith, Joe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31140",
+			"name": "Roith, Joe"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Principles of Statistics Lab",
@@ -22,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-08T05:06:21.034462+00:00",
@@ -98,6 +104,27 @@
 			"instructors": [
 				"Joseph Roith"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:28.601402+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001402",
+			"instructors": [
+				"Joe Roith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

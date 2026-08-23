@@ -1,14 +1,21 @@
 {
 	"clbid": "0000101384",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 26,
-	"groupid": "0000000194",
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
-		"George K. Anquandah"
+		"Anquandah, George K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26281",
+			"name": "Anquandah, George K."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Chem Reactions/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-07T21:54:38.634493+00:00",
@@ -55,6 +61,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.253439+00:00",
 			"max": 29
+		},
+		{
+			"_updated": "2026-08-23T03:03:54.447294+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"George K. Anquandah"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

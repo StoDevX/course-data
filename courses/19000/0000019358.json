@@ -4,30 +4,32 @@
 	"crsid": "0000001962",
 	"department": "MUSIC",
 	"enrolled": 3,
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Theo Wee"
+		"Wee, Theo"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8916",
+			"name": "Wee, Theo"
+		}
+	],
 	"level": 100,
 	"max": 6,
 	"name": "Organ Class",
 	"number": 163,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "12:45",
-			"location": "STUDIO A",
-			"start": "11:50"
-		},
-		{
-			"day": "Th",
-			"end": "12:45",
+			"day": "TTh",
+			"end": "1245PM",
 			"location": "STUDIO A",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.448538+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:53.255575+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.476608+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Theo Wee"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "STUDIO A",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "12:45",
+					"location": "STUDIO A",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -7,12 +7,25 @@
 		"This course is an introduction to basic concepts in statistics in the spirit of the liberal arts. Students will learn practical applications and the language and reasoning involved in analyzing behavioral and health science data. Topics include central tendency, dispersion, probability, random variables, binomial and normal distributions, estimation and hypothesis testing, contingency tables, analysis of variance, and correlation. Computer applications are integrated throughout. Not recommended for students who have successfully completed a term of calculus. Offered both semesters."
 	],
 	"enrolled": 31,
-	"instructors": [
-		"Julie M. Legler"
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 19,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Legler, Julie M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14114",
+			"name": "Legler, Julie M."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_sr": 5,
 	"name": "Prin of Statistics",
 	"notes": [
 		"This course has class year limits."
@@ -20,19 +33,7 @@
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RML 115",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RML 115",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RML 115",
 			"start": "10:45"
@@ -63,11 +64,48 @@
 		{
 			"_updated": "2020-10-15T15:23:28.871967+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:37.720989+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Julie M. Legler"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RML 115",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RML 115",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RML 115",
+					"start": "10:45"
+				}
+			],
+			"senior": "5/5"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "5/5",
 	"status": "C",
 	"term": 20073,
 	"title": "Principles of Statistics",

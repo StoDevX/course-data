@@ -1,30 +1,37 @@
 {
 	"clbid": "0000077692",
-	"credits": 0.0,
 	"crsid": "0000000168",
 	"department": "BIO",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"groupid": "0000000166",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Theodore Johnson"
+		"Johnson, Theodore"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4110",
+			"name": "Johnson, Theodore"
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Immunology Disc",
 	"number": 382,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 356A",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:56.935976+00:00",
@@ -53,11 +60,42 @@
 		{
 			"_updated": "2021-03-02T16:51:19.572152+00:00",
 			"max": 15
+		},
+		{
+			"_updated": "2026-08-23T03:02:40.334468+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000166",
+			"instructors": [
+				"Theodore Johnson"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 356A",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20111,
 	"type": "Discussion",

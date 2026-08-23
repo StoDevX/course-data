@@ -7,32 +7,31 @@
 		"This course examines architectural monuments and their symbolic forms combined with evidence of earthly and divine concepts. From cave dwellings to geodesic domes, from Eastern to Western systems, students review sacred and profane structures from a variety of cultures. Each student investigates a living reality of space, function, and form found in human-built environments. Offered alternate years."
 	],
 	"enrolled": 30,
+	"enrollment_fy": 10,
+	"enrollment_jr": 5,
+	"enrollment_so": 10,
+	"enrollment_sr": 5,
 	"gereqs": [
-		"GHS"
+		"ALS-A",
+		"GHS",
+		"MCG"
 	],
 	"instructors": [
-		"Christina Spiker"
+		"Spiker, Christina"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27183",
+			"name": "Spiker, Christina"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "World Architecture",
 	"number": 161,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 305",
 			"start": "09:05"
@@ -111,6 +110,46 @@
 				"MCG",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.582609+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Christina Spiker"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

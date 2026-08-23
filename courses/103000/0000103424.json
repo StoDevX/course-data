@@ -1,53 +1,35 @@
 {
 	"clbid": "0000103424",
-	"credits": 0.0,
 	"crsid": "0000018605",
 	"department": "BIO",
 	"enrolled": 9,
-	"firstyear": "0/0",
-	"groupid": "0000000132",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Eric Cole"
+		"Cole, Eric"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1206",
+			"name": "Cole, Eric"
+		}
+	],
 	"level": 200,
 	"max": 16,
+	"max_fy": 0,
 	"name": "Probing Life /Light Lab",
 	"number": 249,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "RNS 255",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 255",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RNS 255",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RNS 255",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "RNS 255",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-09-23T04:33:00.218042+00:00",
@@ -77,6 +59,61 @@
 		{
 			"_updated": "2020-10-15T15:23:56.935737+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:51.447284+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000132",
+			"instructors": [
+				"Eric Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

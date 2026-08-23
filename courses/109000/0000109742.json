@@ -1,14 +1,21 @@
 {
 	"clbid": "0000109742",
-	"credits": 0.0,
 	"crsid": "0000025909",
 	"department": "PSYCH",
 	"enrolled": 7,
-	"groupid": "0000016969",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Jeremy Loebach"
+		"Loebach, Jeremy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21097",
+			"name": "Loebach, Jeremy"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Adv Res Behav Neuro Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 240",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:19.358848+00:00",
@@ -45,6 +51,36 @@
 		{
 			"_updated": "2020-10-15T15:24:01.772012+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:12.211146+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000016969",
+			"instructors": [
+				"Jeremy Loebach"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 240",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

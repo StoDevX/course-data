@@ -1,22 +1,33 @@
 {
-	"clbid": 111785,
-	"credits": 0.0,
-	"crsid": 1075,
-	"departments": [
-		"PHYS"
-	],
-	"groupid": 1074,
+	"clbid": "0000111785",
+	"crsid": "0000001075",
+	"department": "PHYS",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Barry N. Costanzi"
+		"Costanzi, Barry N."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19219",
+			"name": "Costanzi, Barry N."
+		}
 	],
 	"level": 100,
-	"locations": [
-		"RNS 292"
-	],
 	"name": "Principles Physics II Lab",
 	"number": 125,
+	"offerings": [
+		{
+			"day": "MW",
+			"end": "0330PM",
+			"location": "RNS 292",
+			"start": "01:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-03-08T23:22:21.579654+00:00",
@@ -31,14 +42,48 @@
 		{
 			"_updated": "2017-03-28T23:32:18.765763+00:00",
 			"locations": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:14.227916+00:00",
+			"clbid": 111785,
+			"credits": 0.0,
+			"crsid": 1075,
+			"department": null,
+			"departments": [
+				"PHYS"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 1074,
+			"instructors": [
+				"Barry N. Costanzi"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 292"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"status": "O",
+			"times": [
+				"MW 0100-0330PM"
+			],
+			"title": null
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20165,
-	"times": [
-		"MW 0100-0330PM"
-	],
 	"type": "Lab",
 	"year": 2016
 }

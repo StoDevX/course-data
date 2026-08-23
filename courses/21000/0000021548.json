@@ -4,37 +4,41 @@
 	"crsid": "0000002091",
 	"department": "PARA",
 	"enrolled": 1,
-	"instructors": [
-		"Vicki L. Harper",
-		"J. L. Carrington"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carrington, J. L.",
+		"Harper, Vicki L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "971",
+			"name": "Carrington, J. L."
+		},
+		{
+			"fsnum": "3121",
+			"name": "Harper, Vicki L."
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Hum: Ancient",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 420",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 420",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 420",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.182293+00:00",
@@ -49,6 +53,48 @@
 		{
 			"_updated": "2020-10-15T15:22:56.501042+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:55.761661+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Vicki L. Harper",
+				"J. L. Carrington"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 420",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 420",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 420",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

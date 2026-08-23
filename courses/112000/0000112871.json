@@ -1,29 +1,35 @@
 {
 	"clbid": "0000112871",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Alden Adolph"
+		"Adolph, Alden"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29094",
+			"name": "Adolph, Alden"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "RNS 292",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-04-11T23:40:22.075606+00:00",
@@ -52,6 +58,36 @@
 		{
 			"_updated": "2020-10-15T15:24:03.449736+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:16.280260+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Alden Adolph"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "RNS 292",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

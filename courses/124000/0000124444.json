@@ -4,13 +4,22 @@
 	"crsid": "0000032566",
 	"department": "EDUC",
 	"enrolled": 3,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jill A. Watson"
+		"Watson, Jill A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28066",
+			"name": "Watson, Jill A."
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
 	"name": "FLC - German",
 	"notes": [
 		"Meeting time will be decided based on availability of the registered students."
@@ -19,13 +28,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:45",
+			"end": "0445PM",
 			"location": "TOH 175",
-			"start": "15:45"
+			"start": "03:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-03-20T05:23:08.524148+00:00",
@@ -76,6 +84,35 @@
 		{
 			"_updated": "2020-10-15T15:24:11.018404+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.788953+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jill A. Watson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:45",
+					"location": "TOH 175",
+					"start": "15:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,48 +4,35 @@
 	"crsid": "0000001222",
 	"department": "REL",
 	"enrolled": 28,
-	"instructors": [
-		"Barbara Reed"
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 10,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Reed, Barbara"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6625",
+			"name": "Reed, Barbara"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Buddhism",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "BMC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "BMC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "BMC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "BMC 110",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "BMC 110",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.788842+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:23:17.356874+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:50.128370+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Barbara Reed"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "BMC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "BMC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "BMC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "BMC 110",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "BMC 110",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -7,32 +7,33 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120."
 	],
 	"enrolled": 16,
-	"instructors": [
-		"William Grodzicki"
+	"enrollment_fy": 10,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Grodzicki, William"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "29142",
+			"name": "Grodzicki, William"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 206",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 206",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 206",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -183,6 +184,43 @@
 			"_updated": "2025-10-11T21:36:30.078761+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.940492+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"William Grodzicki"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				}
 			]
 		}
 	],

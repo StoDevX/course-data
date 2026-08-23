@@ -4,36 +4,36 @@
 	"crsid": "0000001310",
 	"department": "SOAN",
 	"enrolled": 26,
-	"instructors": [
-		"Michael Leming"
+	"enrollment_fy": 4,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Leming, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4762",
+			"name": "Leming, Michael"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Marriage & the Family",
 	"number": 260,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "YH 132",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "YH 132",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "YH 132",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.921069+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:55.078297+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:39.273299+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Leming"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "YH 132",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "YH 132",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "YH 132",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

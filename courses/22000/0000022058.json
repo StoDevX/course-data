@@ -4,44 +4,38 @@
 	"crsid": "0000002152",
 	"department": "PHIL",
 	"enrolled": 30,
-	"firstyear": "24/0",
-	"instructors": [
-		"Charles Taliaferro"
+	"enrollment_fy": 24,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Taliaferro, Charles"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8230",
+			"name": "Taliaferro, Charles"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_sr": 0,
 	"name": "Vice",
 	"number": 153,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:30",
-			"location": "H 307",
-			"start": "10:30"
-		},
-		{
-			"day": "Tu",
-			"end": "12:30",
-			"location": "H 307",
-			"start": "10:30"
-		},
-		{
-			"day": "We",
-			"end": "12:30",
-			"location": "H 307",
-			"start": "10:30"
-		},
-		{
-			"day": "Th",
-			"end": "12:30",
+			"day": "M-Th",
+			"end": "1230PM",
 			"location": "H 307",
 			"start": "10:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.117314+00:00",
@@ -62,10 +56,59 @@
 		{
 			"_updated": "2020-10-15T15:22:57.066834+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:17.927755+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "24/0",
+			"gereqs": null,
+			"instructors": [
+				"Charles Taliaferro"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:30",
+					"location": "H 307",
+					"start": "10:30"
+				},
+				{
+					"day": "Tu",
+					"end": "12:30",
+					"location": "H 307",
+					"start": "10:30"
+				},
+				{
+					"day": "We",
+					"end": "12:30",
+					"location": "H 307",
+					"start": "10:30"
+				},
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "H 307",
+					"start": "10:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "5/0",
 	"status": "C",
 	"term": 19972,
 	"type": "Research",

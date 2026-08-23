@@ -4,36 +4,31 @@
 	"crsid": "0000000196",
 	"department": "CHEM",
 	"enrolled": 52,
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 28,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Gary O. Spessard"
+		"Spessard, Gary O."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7851",
+			"name": "Spessard, Gary O."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Organic Chemistry",
 	"number": 247,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 282",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 282",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 282",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.248747+00:00",
@@ -48,6 +43,46 @@
 		{
 			"_updated": "2020-10-15T15:22:52.798189+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:31.202376+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gary O. Spessard"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 282",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 282",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 282",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

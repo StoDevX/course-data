@@ -1,17 +1,24 @@
 {
 	"clbid": "0000149250",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"groupid": "0000026714",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Kim A. Kandl"
+		"Kandl, Kim A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13100",
+			"name": "Kandl, Kim A."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
 	"name": "Cell Biology Lab",
 	"number": 227,
 	"offerings": [
@@ -23,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-06-29T02:57:30.902956+00:00",
@@ -50,6 +56,28 @@
 			"instructors": [
 				"Kimberly A. Kandl"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.883506+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000026714",
+			"instructors": [
+				"Kim A. Kandl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

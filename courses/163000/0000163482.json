@@ -1,14 +1,21 @@
 {
 	"clbid": "0000163482",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 18,
-	"groupid": "0000000192",
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Paul T. Jackson"
+		"Jackson, Paul T."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3644",
+			"name": "Jackson, Paul T."
+		}
+	],
 	"level": 100,
 	"max": 21,
 	"name": "Struct Chem & Equilib Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 355",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:24.313673+00:00",
@@ -83,6 +89,35 @@
 			"_updated": "2025-10-11T21:36:51.878919+00:00",
 			"enrolled": 21,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.065275+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Paul T. Jackson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 355",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

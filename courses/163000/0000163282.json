@@ -7,14 +7,26 @@
 		"Students delve further into the topics of kinetics, thermodynamics and atomic and molecular structure that were introduced in the first-year courses, with an emphasis on the mathematical aspects of chemistry. Specific topics include reaction mechanisms, the laws of thermodynamics, statistical thermodynamics, equilibrium, quantum mechanics, spectroscopy, and molecular orbital theory. Offered each semester. Prerequisites: CHEM 126 or permission of instructor and concurrent registration in CHEM 357; MATH 126 or MATH 128; previous completion of PHYS 124 or PHYS 130 is recommended."
 	],
 	"enrolled": 26,
-	"firstyear": "0/0",
-	"groupid": "0000000207",
-	"instructors": [
-		"Rebecca Thompson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 24,
+	"gereqs": [
+		"IST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thompson, Rebecca"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9005106",
+			"name": "Thompson, Rebecca"
+		}
+	],
 	"level": 300,
 	"max": 28,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Physical Chemistry",
 	"notes": [
 		"Students in Chem 371 must also register for one Chem 357 lab."
@@ -22,19 +34,7 @@
 	"number": 371,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "OM 010",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "OM 010",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "OM 010",
 			"start": "09:05"
@@ -143,10 +143,50 @@
 			"gereqs": [
 				"IST"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.078774+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"groupid": "0000000207",
+			"instructors": [
+				"Rebecca Thompson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 010",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 010",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "OM 010",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20251,
 	"type": "Research",

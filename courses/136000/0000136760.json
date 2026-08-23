@@ -1,14 +1,21 @@
 {
 	"clbid": "0000136760",
-	"credits": 0.0,
 	"crsid": "0000026715",
 	"department": "BIO",
 	"enrolled": 12,
-	"groupid": "0000026714",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 9,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Sara E. Fruehling"
+		"Fruehling, Sara E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17588",
+			"name": "Fruehling, Sara E."
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Cell Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 398",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-10-27T16:31:20.524574+00:00",
@@ -72,6 +78,35 @@
 			"_updated": "2021-02-11T17:12:28.940143+00:00",
 			"enrolled": 11,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:38.817201+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026714",
+			"instructors": [
+				"Sara E. Fruehling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 398",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

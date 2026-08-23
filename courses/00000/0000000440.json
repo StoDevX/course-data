@@ -4,36 +4,35 @@
 	"crsid": "0000000926",
 	"department": "NORW",
 	"enrolled": 29,
-	"instructors": [
-		"Solveig Zempel"
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 19,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-N"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Zempel, Solveig"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9184",
+			"name": "Zempel, Solveig"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Intermed Norwegian I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 11",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 11",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "M 11",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.582103+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:04.996179+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:18.134736+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Solveig Zempel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

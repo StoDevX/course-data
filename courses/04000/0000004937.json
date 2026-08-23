@@ -4,10 +4,23 @@
 	"crsid": "0000000360",
 	"department": "DNCTE",
 	"enrolled": 20,
-	"instructors": [
-		"Jennifer Bader"
+	"enrollment_fy": 5,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bader, Jennifer"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "311",
+			"name": "Bader, Jennifer"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Ballet II",
@@ -16,18 +29,17 @@
 		{
 			"day": "Tu",
 			"end": "09:25",
-			"location": "CAD STUDIO 2",
+			"location": "CAD  STUDIO 2",
 			"start": "08:00"
 		},
 		{
 			"day": "Th",
 			"end": "09:20",
-			"location": "CAD STUDIO 2",
+			"location": "CAD  STUDIO 2",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:17.018133+00:00",
@@ -56,6 +68,41 @@
 		{
 			"_updated": "2020-10-15T15:23:12.016038+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.640628+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jennifer Bader"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "CAD STUDIO 2",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:20",
+					"location": "CAD STUDIO 2",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

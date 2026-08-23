@@ -4,36 +4,36 @@
 	"crsid": "0000001103",
 	"department": "PSCI",
 	"enrolled": 28,
-	"instructors": [
-		"Kimberly Gross"
+	"enrollment_fy": 10,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gross, Kimberly"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10202",
+			"name": "Gross, Kimberly"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "American Politics",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 421",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 421",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 421",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.865224+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:03.548212+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.438332+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kimberly Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 421",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 421",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 421",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

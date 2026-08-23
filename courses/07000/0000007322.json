@@ -4,36 +4,32 @@
 	"crsid": "0000001186",
 	"department": "PSYCH",
 	"enrolled": 6,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Bonnie Sherman"
+		"Sherman, Bonnie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7475",
+			"name": "Sherman, Bonnie"
+		}
+	],
 	"level": 300,
 	"max": 18,
 	"name": "Sem: Imagery/Spatial",
 	"number": 390,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 204",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 204",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 204",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.557243+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:15.078904+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.446761+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Bonnie Sherman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

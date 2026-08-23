@@ -4,66 +4,42 @@
 	"crsid": "0000000825",
 	"department": "MUSIC",
 	"enrolled": 9,
-	"instructors": [
-		"Alice Hanson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hanson, Alice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3030",
+			"name": "Hanson, Alice"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "America's Hit Parade",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
 			"end": "10:00",
 			"location": "CHM 224",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "CHM 224",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CHM 224",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "CHM 224",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "CHM 224",
-			"start": "10:45"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "CHM 224",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "CHM 224",
-			"start": "10:45"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
+			"day": "M-Th",
+			"end": "1200PM",
 			"location": "CHM 224",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.534572+00:00",
@@ -78,6 +54,77 @@
 		{
 			"_updated": "2020-10-15T15:23:05.491259+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.301267+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Alice Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "CHM 224",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "CHM 224",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "CHM 224",
+					"start": "10:45"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "CHM 224",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

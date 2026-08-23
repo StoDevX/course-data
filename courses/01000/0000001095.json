@@ -4,10 +4,19 @@
 	"crsid": "0000000200",
 	"department": "CHEM",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 12,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Wesley Pearson"
+		"Pearson, Wesley"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6161",
+			"name": "Pearson, Wesley"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Synthesis Lab",
@@ -21,7 +30,6 @@
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.748092+00:00",
@@ -36,6 +44,25 @@
 		{
 			"_updated": "2020-10-15T15:23:06.147109+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.682607+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Wesley Pearson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

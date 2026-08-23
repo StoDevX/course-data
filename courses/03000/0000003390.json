@@ -4,30 +4,36 @@
 	"crsid": "0000001103",
 	"department": "PSCI",
 	"enrolled": 31,
-	"instructors": [
-		"Charles E. Umbanhowar Sr"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 16,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Umbanhowar Sr, Charles E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8656",
+			"name": "Umbanhowar Sr, Charles E."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "American Politics",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 413",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 413",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.068002+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.163791+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.692135+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 413",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 413",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

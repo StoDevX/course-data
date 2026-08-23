@@ -4,48 +4,41 @@
 	"crsid": "0000000241",
 	"department": "CHIN",
 	"enrolled": 6,
-	"instructors": [
-		"Anbin Shi"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 6,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FOL-C"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Shi, Anbin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14140",
+			"name": "Shi, Anbin"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Intermed Chinese I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "M 3",
 			"start": "10:45"
 		},
 		{
-			"day": "We",
-			"end": "11:40",
-			"location": "M 3",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "M 3",
-			"start": "10:45"
-		},
-		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 11",
-			"start": "10:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 11",
 			"start": "10:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.397568+00:00",
@@ -60,6 +53,58 @@
 		{
 			"_updated": "2020-10-15T15:23:07.622720+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.192311+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anbin Shi"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "M 3",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "M 3",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "M 3",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 11",
+					"start": "10:05"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 11",
+					"start": "10:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

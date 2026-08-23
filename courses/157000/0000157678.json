@@ -1,14 +1,21 @@
 {
 	"clbid": "0000157678",
-	"credits": 0.0,
 	"crsid": "0000017584",
 	"department": "PHYS",
 	"enrolled": 13,
-	"groupid": "0000001080",
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Analytical II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "RNS 293",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-14T02:20:06.200739+00:00",
@@ -63,6 +69,35 @@
 		{
 			"_updated": "2025-03-08T02:29:59.640183+00:00",
 			"enrolled": 14
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.387187+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001080",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "RNS 293",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

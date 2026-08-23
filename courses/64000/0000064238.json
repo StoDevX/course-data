@@ -7,15 +7,35 @@
 		"This course explores the fundamental transformation in our conception of the physical world since the sixteenth century. The classical view suggests our universe is a grand machine determined by universal laws and causal regularities. The quantum revolution of the early twentieth century, and its extensions into our own time, have emphasized indeterminacy, entanglement, complexity, and emergent novelty. This revolution in thought will be investigated from scientific, philosophical, and theological perspectives. Team taught. Offered Fall semester."
 	],
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"instructors": [
-		"Arthur Cunningham",
-		"Brian Borovsky"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"HWC",
+		"IST",
+		"NST"
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors": [
+		"Cunningham, Arthur",
+		"Borovsky, Brian"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "20236",
+			"name": "Cunningham, Arthur"
+		},
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 5,
 	"name": "Classical,Quantum/Beyond",
 	"notes": [
 		"This course has class year limits."
@@ -23,20 +43,8 @@
 	"number": 225,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "RNS 356A",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "RNS 356A",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "RNS 356A",
 			"start": "12:55"
 		}
@@ -89,11 +97,52 @@
 				"HWC",
 				"IST"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:01:47.336832+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Arthur Cunningham",
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "RNS 356A",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "RNS 356A",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "RNS 356A",
+					"start": "12:55"
+				}
+			],
+			"section": null,
+			"senior": "10/5",
+			"sophomore": "8/10"
 		}
 	],
 	"semester": 1,
-	"senior": "10/5",
-	"sophomore": "8/10",
 	"status": "C",
 	"term": 20081,
 	"title": "From Certainty to Novelty: The Classical, the Quantum, and Beyond",

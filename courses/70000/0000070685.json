@@ -1,31 +1,88 @@
 {
-	"clbid": 70685,
+	"clbid": "0000070685",
 	"credits": 1.0,
-	"crsid": 750,
-	"departments": [
-		"MATH"
+	"crsid": "0000000750",
+	"department": "MATH",
+	"description": [
+		"Students work intensively on a special topic in mathematics or its applications. Topics vary from year to year. May be repeated if topics are different."
 	],
-	"description": "Students work intensively on a special topic in mathematics or its applications. Topics vary from year to year. May be repeated if topics are different.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kay E. Smith"
+		"Smith, Kay E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
 	],
 	"level": 200,
-	"locations": [
-		"RNS 208",
-		"RNS 208"
-	],
+	"max": 25,
 	"name": "Top: History of Math",
-	"notes": "This course has been canceled.",
+	"notes": [
+		"This course has been canceled."
+	],
 	"number": 282,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "RNS 208",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "RNS 208",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:18.736327+00:00",
+			"clbid": 70685,
+			"crsid": 750,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "Students work intensively on a special topic in mathematics or its applications. Topics vary from year to year. May be repeated if topics are different.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 208",
+				"RNS 208"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been canceled.",
+			"offerings": null,
+			"section": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "X",
 	"term": 20093,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Mathematics",
 	"type": "Topic",
 	"year": 2009

@@ -7,13 +7,23 @@
 		"This course examines the features of modern operating systems, including detailed consideration of Linux and other example systems. Projects range from system-level programming and multithreaded network programming to kernel modifications. Topics include operating system principles, implementation as system calls, process scheduling and dispatch, concurrency, inter-process communication, programming with threads and sockets, low-level memory management, device management, file systems, security and protection mechanisms, virtual machines, and kernel programming. Offered alternate years. Prerequisites: completion of or concurrent enrollment in CSCI 241 and CSCI 251, or permission of instructor."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Elizabeth A. Jensen"
+		"Jensen, Elizabeth A."
 	],
-	"junior": "6/10",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16680",
+			"name": "Jensen, Elizabeth A."
+		}
+	],
 	"level": 200,
 	"max": 17,
+	"max_jr": 10,
+	"max_sr": 9,
 	"name": "Operating Systems",
 	"notes": [
 		"This course has class-year limits."
@@ -21,22 +31,10 @@
 	"number": 273,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 202",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 202",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 202",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -70,11 +68,48 @@
 			],
 			"senior": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.649079+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Elizabeth A. Jensen"
+			],
+			"instructors_full": null,
+			"junior": "6/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 202",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 202",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 202",
+					"start": "14:00"
+				}
+			],
+			"senior": "3/9"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "3/9",
 	"status": "C",
 	"term": 20213,
 	"type": "Research",

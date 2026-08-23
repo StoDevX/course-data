@@ -4,30 +4,35 @@
 	"crsid": "0000001349",
 	"department": "SPAN",
 	"enrolled": 5,
-	"instructors": [
-		"Sylvia Carullo"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carullo, Sylvia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "977",
+			"name": "Carullo, Sylvia"
+		}
+	],
 	"level": 300,
 	"max": 22,
 	"name": "Spanish Theater",
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 20",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 20",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.992120+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.750372+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:28.585278+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sylvia Carullo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 20",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 20",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

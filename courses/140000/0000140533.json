@@ -1,40 +1,34 @@
 {
 	"clbid": "0000140533",
-	"credits": 0.0,
 	"crsid": "0000001085",
 	"department": "PHYS",
 	"enrolled": 13,
-	"groupid": "0000001084",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Abhishek Sahoo"
+		"Sahoo, Abhishek"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33932",
+			"name": "Sahoo, Abhishek"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Electronic Circuits Lab",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "MWF",
+			"end": "0330PM",
 			"location": "RNS 294",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "RNS 294",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "RNS 294",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-09T16:50:39.409802+00:00",
@@ -82,6 +76,48 @@
 					"start": "13:00"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:44.891181+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001084",
+			"instructors": [
+				"Abhishek Sahoo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RNS 294",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "RNS 294",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "RNS 294",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

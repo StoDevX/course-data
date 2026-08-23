@@ -4,30 +4,32 @@
 	"crsid": "0000000808",
 	"department": "MUSIC",
 	"enrolled": 10,
+	"enrollment_fy": 7,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Paul A. Hisey"
+		"Hisey, Paul A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17533",
+			"name": "Hisey, Paul A."
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Piano Class II",
 	"number": 162,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:20",
-			"location": "CHM 222",
-			"start": "08:25"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:20",
 			"location": "CHM 222",
 			"start": "08:25"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.336755+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:23:21.718573+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:07.012747+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Paul A. Hisey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:20",
+					"location": "CHM 222",
+					"start": "08:25"
+				},
+				{
+					"day": "Th",
+					"end": "09:20",
+					"location": "CHM 222",
+					"start": "08:25"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

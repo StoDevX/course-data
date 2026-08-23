@@ -4,80 +4,45 @@
 	"crsid": "0000001086",
 	"department": "PHYS",
 	"enrolled": 33,
-	"firstyear": "16/8",
-	"instructors": [
-		"Stephen Hill"
+	"enrollment_fy": 16,
+	"enrollment_jr": 5,
+	"enrollment_so": 7,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "5/21",
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Stephen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10055",
+			"name": "Hill, Stephen"
+		}
+	],
 	"level": 200,
 	"max": 32,
+	"max_fy": 8,
+	"max_jr": 21,
+	"max_sr": 17,
 	"name": "Musical Acoustics",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0330PM",
+			"location": "SC 159",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 170",
 			"start": "08:30"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Mo",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.423481+00:00",
@@ -105,10 +70,95 @@
 		{
 			"_updated": "2020-10-15T15:23:02.691532+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:00.084484+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "16/8",
+			"gereqs": null,
+			"instructors": [
+				"Stephen Hill"
+			],
+			"instructors_full": null,
+			"junior": "5/21",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/17",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "5/17",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

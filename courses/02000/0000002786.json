@@ -4,43 +4,39 @@
 	"crsid": "0000001288",
 	"department": "SOAN",
 	"enrolled": 59,
-	"instructors": [
-		"Carolyn Anderson"
+	"enrollment_fy": 29,
+	"enrollment_jr": 7,
+	"enrollment_so": 11,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "7/6",
-	"learningmode": "S",
+	"instructors": [
+		"Anderson, Carolyn"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "179",
+			"name": "Anderson, Carolyn"
+		}
+	],
 	"level": 100,
 	"max": 50,
+	"max_jr": 6,
+	"max_so": 11,
+	"max_sr": 5,
 	"name": "Anthropology of Jazz",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "M-Th",
+			"end": "0330PM",
 			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "H 501",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "H 501",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:52.581246+00:00",
@@ -68,11 +64,59 @@
 		{
 			"_updated": "2020-10-15T15:23:08.310241+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:31.239924+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Carolyn Anderson"
+			],
+			"instructors_full": null,
+			"junior": "7/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "H 501",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "H 501",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "12/5",
+			"sophomore": "11/11",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "12/5",
-	"sophomore": "11/11",
 	"status": "C",
 	"term": 20012,
 	"type": "Research",

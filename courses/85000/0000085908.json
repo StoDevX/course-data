@@ -1,47 +1,36 @@
 {
 	"clbid": "0000085908",
-	"credits": 0.0,
 	"crsid": "0000017303",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"groupid": "0000000171",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 300,
 	"max": 16,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Animal Behavior Lab",
 	"number": 386,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-Th",
+			"end": "0300PM",
 			"location": "RNS 124",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 124",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RNS 124",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RNS 124",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:06.626635+00:00",
@@ -61,10 +50,59 @@
 		{
 			"_updated": "2020-10-15T15:23:45.882875+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:04.600167+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000171",
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 124",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 124",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 124",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 124",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20122,
 	"type": "Lab",

@@ -4,13 +4,26 @@
 	"crsid": "0000022795",
 	"department": "ASIAN",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 13,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"GHS"
+		"ALS-L",
+		"GHS",
+		"MCG",
+		"MCS-G",
+		"ORC"
 	],
 	"instructors": [
-		"Hsiang-Lin Shih"
+		"Shih, Hsiang-Lin"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25327",
+			"name": "Shih, Hsiang-Lin"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Chinese Diaspora",
@@ -30,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-25T16:44:22.727179+00:00",
@@ -115,6 +127,28 @@
 				"ORC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.766100+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Hsiang-Lin Shih"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

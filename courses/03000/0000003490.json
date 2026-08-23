@@ -4,30 +4,36 @@
 	"crsid": "0000001240",
 	"department": "REL",
 	"enrolled": 23,
-	"instructors": [
-		"Tatha Wiley"
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"BTS-T",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wiley, Tatha"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14182",
+			"name": "Wiley, Tatha"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Roman Catholic Theol",
 	"number": 301,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CH 109",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CH 109",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.135993+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.207556+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.718685+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Tatha Wiley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CH 109",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CH 109",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

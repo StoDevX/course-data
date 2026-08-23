@@ -4,36 +4,35 @@
 	"crsid": "0000000747",
 	"department": "MATH",
 	"enrolled": 13,
-	"instructors": [
-		"Paul Zorn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Zorn, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9206",
+			"name": "Zorn, Paul"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Abstract Algebra I",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 188",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 188",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 188",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.661737+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:03.470472+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.691242+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul Zorn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 188",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 188",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 188",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

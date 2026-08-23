@@ -4,30 +4,36 @@
 	"crsid": "0000001327",
 	"department": "SPAN",
 	"enrolled": 21,
-	"instructors": [
-		"Frank L. Odd"
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FOL-S",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Odd, Frank L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5797",
+			"name": "Odd, Frank L."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed Spanish II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 21",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 21",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.455867+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:59.478950+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:09.000518+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Frank L. Odd"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 21",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 21",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

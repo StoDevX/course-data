@@ -1,29 +1,38 @@
 {
 	"clbid": "0000026700",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 0,
-	"firstyear": "0/1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"junior": "0/11",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 1,
+	"max_jr": 11,
+	"max_so": 4,
+	"max_sr": 4,
 	"name": "Prin Physics II/Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "SC 159",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.841901+00:00",
@@ -52,12 +61,39 @@
 		{
 			"_updated": "2020-10-15T15:23:03.539702+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.433247+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/1",
+			"instructors_full": null,
+			"junior": "0/11",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:30",
+					"location": "SC 159",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/4",
+			"sophomore": "0/4",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "0/4",
-	"sophomore": "0/4",
 	"status": "O",
 	"term": 19993,
 	"type": "Lab",

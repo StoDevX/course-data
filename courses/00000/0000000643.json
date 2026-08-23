@@ -4,31 +4,38 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 30,
-	"instructors": [
-		"Michael Gibbons"
+	"enrollment_fy": 4,
+	"enrollment_jr": 5,
+	"enrollment_so": 17,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "5/4",
-	"learningmode": "S",
+	"instructors": [
+		"Gibbons, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13214",
+			"name": "Gibbons, Michael"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 4,
+	"max_sr": 3,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 317",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.717423+00:00",
@@ -55,11 +62,46 @@
 		{
 			"_updated": "2020-10-15T15:23:05.084321+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.731004+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Gibbons"
+			],
+			"instructors_full": null,
+			"junior": "5/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 317",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/3",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/3",
 	"status": "C",
 	"term": 20001,
 	"type": "Research",

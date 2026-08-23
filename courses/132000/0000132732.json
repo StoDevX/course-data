@@ -1,15 +1,21 @@
 {
 	"clbid": "0000132732",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 20,
-	"groupid": "0000000122",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 13,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Lisa M. Bowers"
+		"Bowers, Lisa M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23548",
+			"name": "Bowers, Lisa M."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermediate Genetics Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 394",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-09-18T15:04:11.676803+00:00",
@@ -72,6 +77,36 @@
 		{
 			"_updated": "2021-02-13T16:33:51.286709+00:00",
 			"enrolled": 21
+		},
+		{
+			"_updated": "2026-08-23T03:04:38.819260+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000122",
+			"grouptype": "2",
+			"instructors": [
+				"Lisa M. Bowers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 394",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

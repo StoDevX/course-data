@@ -1,14 +1,21 @@
 {
 	"clbid": "0000168735",
-	"credits": 0.0,
 	"crsid": "0000000165",
 	"department": "BIO",
 	"enrolled": 16,
-	"groupid": "0000000164",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Eric Cole"
+		"Cole, Eric"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1206",
+			"name": "Cole, Eric"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Developmental Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 246",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-26T02:33:06.219377+00:00",
@@ -74,6 +80,35 @@
 			"_updated": "2025-12-09T03:14:17.214659+00:00",
 			"enrolled": 15,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:33.002709+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000164",
+			"instructors": [
+				"Eric Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 246",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

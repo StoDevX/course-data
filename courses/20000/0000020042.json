@@ -4,38 +4,41 @@
 	"crsid": "0000000032",
 	"department": "ART",
 	"enrolled": 55,
-	"firstyear": "13/15",
-	"instructors": [
-		"Perette Michelli"
+	"enrollment_fy": 13,
+	"enrollment_jr": 12,
+	"enrollment_so": 20,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A",
+		"HWC",
+		"WRI"
 	],
-	"junior": "12/15",
-	"learningmode": "S",
+	"instructors": [
+		"Michelli, Perette"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5286",
+			"name": "Michelli, Perette"
+		}
+	],
 	"level": 100,
 	"max": 60,
+	"max_fy": 15,
+	"max_jr": 15,
+	"max_so": 20,
+	"max_sr": 10,
 	"name": "Renaissance--Present",
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "FH 01",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "FH 01",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "FH 01",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.484535+00:00",
@@ -64,11 +67,54 @@
 		{
 			"_updated": "2020-10-15T15:22:54.788007+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:06.783704+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/15",
+			"gereqs": null,
+			"instructors": [
+				"Perette Michelli"
+			],
+			"instructors_full": null,
+			"junior": "12/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "FH 01",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "FH 01",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "FH 01",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/10",
+			"sophomore": "20/20",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "10/10",
-	"sophomore": "20/20",
 	"status": "C",
 	"term": 19963,
 	"type": "Research",

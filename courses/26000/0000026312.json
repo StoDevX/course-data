@@ -4,30 +4,36 @@
 	"crsid": "0000000271",
 	"department": "ECON",
 	"enrolled": 31,
-	"instructors": [
-		"Paul Wojick"
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 12,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wojick, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9114",
+			"name": "Wojick, Paul"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_sr": 12,
 	"name": "History Econ Thought",
 	"number": 247,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 130",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 130",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.374705+00:00",
@@ -51,10 +57,45 @@
 		{
 			"_updated": "2020-10-15T15:23:03.358798+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.721226+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul Wojick"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 130",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 130",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/12",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "4/12",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

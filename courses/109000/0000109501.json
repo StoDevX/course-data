@@ -7,14 +7,25 @@
 		"May be repeated if topic is different. Prerequisite: BTS-B."
 	],
 	"enrolled": 14,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
 	"instructors": [
-		"Gregory A. Walter"
+		"Walter, Gregory A."
 	],
-	"junior": "2/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16642",
+			"name": "Walter, Gregory A."
+		}
+	],
 	"level": 300,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 0,
+	"max_sr": 10,
 	"name": "Sem: Theology",
 	"notes": [
 		"This course has class-year limits."
@@ -22,20 +33,8 @@
 	"number": 393,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "OM 240",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "OM 240",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "OM 240",
 			"start": "11:50"
 		}
@@ -81,11 +80,50 @@
 		{
 			"_updated": "2020-10-15T15:23:59.901948+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:06.327855+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Gregory A. Walter"
+			],
+			"instructors_full": null,
+			"junior": "2/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "OM 240",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "OM 240",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "OM 240",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"senior": "12/10",
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"senior": "12/10",
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20161,
 	"title": "Theological Seminar",

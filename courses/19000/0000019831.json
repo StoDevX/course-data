@@ -4,42 +4,37 @@
 	"crsid": "0000000254",
 	"department": "ECON",
 	"enrolled": 30,
-	"instructors": [
-		"Xun Pomponio"
+	"enrollment_fy": 22,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pomponio, Xun"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6399",
+			"name": "Pomponio, Xun"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Transition Economies",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 302",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 302",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 302",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
+			"day": "M-Th",
+			"end": "1240PM",
 			"location": "H 302",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.284834+00:00",
@@ -54,6 +49,53 @@
 		{
 			"_updated": "2020-10-15T15:22:54.148488+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:59.472185+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Xun Pomponio"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

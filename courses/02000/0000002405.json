@@ -4,37 +4,38 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 25,
-	"instructors": [
-		"Kurt Burch"
+	"enrollment_fy": 6,
+	"enrollment_jr": 3,
+	"enrollment_so": 12,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "3/5",
-	"learningmode": "S",
+	"instructors": [
+		"Burch, Kurt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14022",
+			"name": "Burch, Kurt"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 5,
+	"max_so": 8,
+	"max_sr": 5,
 	"name": "Int'l Relations",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "L 577",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "L 577",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "L 577",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.681877+00:00",
@@ -62,12 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:23:07.814542+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.615455+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kurt Burch"
+			],
+			"instructors_full": null,
+			"junior": "3/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "L 577",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "L 577",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "L 577",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/5",
+			"sophomore": "12/8",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/5",
-	"sophomore": "12/8",
 	"status": "C",
 	"term": 20011,
 	"type": "Research",

@@ -1,33 +1,51 @@
 {
-	"clbid": 122193,
+	"clbid": "0000122193",
 	"credits": 1.0,
-	"crsid": 24731,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000024731",
+	"department": "HIST",
 	"description": [
 		"This Interim course introduces students to the rewards and challenges of public and local history. As the title suggests, we will learn not only by studying but also by doing public history. Focusing on Northfield and Rice County at the beginning of the 20th century, we will work with the local and state historical organizations to develop materials for the wider public, including possibly a display, educational resources, and articles. We also will work to place these local histories in broader contexts, by studying migration and immigration, the history of childhood and schools, and Progressive-era America."
 	],
-	"enroll": "3",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"ORC"
 	],
 	"instructors": [
-		"Dolores Peters"
+		"Peters, Dolores"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6245",
+			"name": "Peters, Dolores"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"HH 429",
-		"HH 429"
-	],
-	"max": "18",
+	"max": 18,
 	"name": "Top: European History au Cinema",
 	"notes": [
-		"Strongly recommended: Completion of at least one college-level course in modern",
-		"European history prior to taking this course.",
+		"Strongly recommended:  Completion of at least one college-level course in modern",
+		"European history prior to taking this course.  This course has been cancelled.  ",
 		"This course was previously HIST 299 A."
 	],
 	"number": 293,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "HH 429",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "HH 429",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -36,15 +54,51 @@
 			"enroll": null,
 			"max": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.879490+00:00",
+			"clbid": 122193,
+			"crsid": 24731,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enroll": "3",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dolores Peters"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 429",
+				"HH 429"
+			],
+			"max": "18",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Strongly recommended: Completion of at least one college-level course in modern",
+				"European history prior to taking this course.",
+				"This course was previously HIST 299 A."
+			],
+			"offerings": null,
+			"section": null,
+			"status": "C",
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in History",
 	"type": "Research",
 	"year": 2018

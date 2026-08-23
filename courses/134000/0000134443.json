@@ -6,19 +6,42 @@
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
-	"enrolled": 24,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"MCG"
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Staff",
-		"Anna Kuxhausen"
+		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
-	"max": 28,
+	"max": 0,
 	"name": "Top: Travel/Mapping Pre-modern Wrld",
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0245PM",
+			"location": "VRTL Online",
+			"start": "01:20"
+		},
+		{
+			"day": "Th",
+			"end": "0335PM",
+			"location": "VRTL Online",
+			"start": "02:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -116,10 +139,35 @@
 			"_updated": "2021-01-14T16:30:55.865356+00:00",
 			"enrolled": 28,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:38.954293+00:00",
+			"enrolled": 24,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"MCG"
+			],
+			"instructors": [
+				"Staff",
+				"Anna Kuxhausen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 28,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "X",
 	"term": 20203,
 	"title": "Topics in History",
 	"type": "Topic",

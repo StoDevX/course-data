@@ -7,17 +7,29 @@
 		"This course introduces the craft of creative writing through contemporary readings and writing exercises in three genres: poetry, fiction, and creative nonfiction. Students learn to read and to write literature with attention to how a literary work is made. Emphasis on the elements of craft and revision provide preparation for students who want to continue into intermediate and advanced creative writing workshops. Offered annually. Prerequisite: prior or concurrent enrollment in FYW."
 	],
 	"enrolled": 17,
-	"firstyear": "5/8",
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"CRE"
+		"CRE",
+		"WRI"
 	],
 	"instructors": [
-		"Cole Bucciaglia"
+		"Bucciaglia, Cole"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28110",
+			"name": "Bucciaglia, Cole"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 8,
+	"max_jr": 2,
+	"max_so": 7,
+	"max_sr": 1,
 	"name": "Craft of Creative Writing",
 	"notes": [
 		"This course has class-year limits."
@@ -26,13 +38,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 310",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 310",
 			"start": "12:45"
 		}
@@ -123,12 +135,47 @@
 				"WRI",
 				"CRE"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.856405+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/8",
+			"gereqs": [
+				"CRE"
+			],
+			"instructors": [
+				"Cole Bucciaglia"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 310",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 310",
+					"start": "12:45"
+				}
+			],
+			"senior": "0/1",
+			"sophomore": "10/7"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "0/1",
-	"sophomore": "10/7",
 	"status": "O",
 	"term": 20211,
 	"title": "The Craft of Creative Writing",

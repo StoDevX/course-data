@@ -1,14 +1,21 @@
 {
 	"clbid": "0000108084",
-	"credits": 0.0,
 	"crsid": "0000001262",
 	"department": "RUSSN",
 	"enrolled": 11,
-	"groupid": "0000001261",
+	"enrollment_fy": 9,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Marc Robinson"
+		"Robinson, Marc"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6710",
+			"name": "Robinson, Marc"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Beginning Russian II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "TOH 212",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.074294+00:00",
@@ -53,6 +59,35 @@
 		{
 			"_updated": "2020-10-15T15:24:01.445479+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:12.230858+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001261",
+			"instructors": [
+				"Marc Robinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "TOH 212",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

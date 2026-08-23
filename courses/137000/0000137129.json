@@ -1,15 +1,21 @@
 {
 	"clbid": "0000137129",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 19,
-	"groupid": "0000026649",
-	"grouptype": "3",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 18,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jennifer Brentrup"
+		"Brentrup, Jennifer"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32173",
+			"name": "Brentrup, Jennifer"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Biodiversity Found Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 255",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-23T16:42:51.810654+00:00",
@@ -75,6 +80,36 @@
 		{
 			"_updated": "2023-06-04T03:08:12.890277+00:00",
 			"enrolled": 20
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.775104+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "3",
+			"instructors": [
+				"Jennifer Brentrup"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "17:00",
+					"location": "RNS 255",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

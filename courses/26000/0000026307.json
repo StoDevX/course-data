@@ -4,37 +4,35 @@
 	"crsid": "0000000264",
 	"department": "ECON",
 	"enrolled": 25,
+	"enrollment_fy": 6,
+	"enrollment_jr": 3,
+	"enrollment_so": 16,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Edward David Emery"
+		"Emery, Edward David"
 	],
-	"junior": "3/10",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1741",
+			"name": "Emery, Edward David"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_jr": 10,
+	"max_so": 16,
+	"max_sr": 5,
 	"name": "Economic Methods",
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "H 302",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "H 302",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "H 302",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.368985+00:00",
@@ -62,11 +60,52 @@
 		{
 			"_updated": "2020-10-15T15:23:03.356103+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.719857+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Edward David Emery"
+			],
+			"instructors_full": null,
+			"junior": "3/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "H 302",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "H 302",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "H 302",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "0/5",
+			"sophomore": "16/16",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "0/5",
-	"sophomore": "16/16",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

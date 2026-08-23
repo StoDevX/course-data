@@ -4,14 +4,24 @@
 	"crsid": "0000000655",
 	"department": "FAMST",
 	"enrolled": 18,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"C. George Holt"
+		"Holt, C. George"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3431",
+			"name": "Holt, C. George"
+		}
+	],
 	"level": 300,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Senior Seminar: Sp Top",
 	"number": 391,
 	"offerings": [
@@ -29,7 +39,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.359761+00:00",
@@ -50,10 +59,32 @@
 		{
 			"_updated": "2020-10-15T15:23:14.953067+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.723843+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"C. George Holt"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

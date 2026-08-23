@@ -4,17 +4,28 @@
 	"crsid": "0000000767",
 	"department": "MATH",
 	"enrolled": 2,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Adam H. Berliner",
-		"Chassidy S. Bozeman"
+		"Berliner, Adam H.",
+		"Bozeman, Chassidy S."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21092",
+			"name": "Berliner, Adam H."
+		},
+		{
+			"fsnum": "30134",
+			"name": "Bozeman, Chassidy S."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Combinatorial Matrix Theory",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-01-31T05:01:31.687122+00:00",
@@ -39,6 +50,26 @@
 		{
 			"_updated": "2023-06-04T03:08:01.515687+00:00",
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.947780+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Adam H. Berliner",
+				"Chassidy S. Bozeman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "B",

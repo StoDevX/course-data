@@ -6,15 +6,25 @@
 	"description": [
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
-	"enrolled": 0,
+	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"Scott Nesbit"
+		"Nesbit, Scott"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5580",
+			"name": "Nesbit, Scott"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Tennis",
@@ -25,21 +35,60 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "Tostrud Ctr",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "Tostrud Ctr",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:07:12.397683+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"Scott Nesbit"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "Tostrud Ctr",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "Tostrud Ctr",
+					"start": "12:45"
+				}
+			],
+			"section": null,
+			"status": "O"
+		}
+	],
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Research",
 	"year": 2026

@@ -4,30 +4,35 @@
 	"crsid": "0000000857",
 	"department": "MUSIC",
 	"enrolled": 15,
-	"instructors": [
-		"Alice Hanson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hanson, Alice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3030",
+			"name": "Hanson, Alice"
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Adv Study Music Hist",
 	"number": 345,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "CHM 224",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "CHM 224",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.467778+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:53.276096+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.483620+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Alice Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "CHM 224",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "CHM 224",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

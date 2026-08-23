@@ -4,36 +4,31 @@
 	"crsid": "0000000740",
 	"department": "MATH",
 	"enrolled": 21,
+	"enrollment_fy": 4,
+	"enrollment_jr": 1,
+	"enrollment_so": 15,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Laura Chihara"
+		"Chihara, Laura"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1099",
+			"name": "Chihara, Laura"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Int Differ Equations",
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 130",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 130",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 130",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.498854+00:00",
@@ -48,6 +43,47 @@
 		{
 			"_updated": "2020-10-15T15:22:57.854515+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:27.818940+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Laura Chihara"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 130",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 130",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 130",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

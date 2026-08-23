@@ -4,30 +4,36 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 23,
-	"instructors": [
-		"Barbara Thatcher"
+	"enrollment_fy": 8,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thatcher, Barbara"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14135",
+			"name": "Thatcher, Barbara"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD STUDIO 2",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "CAD STUDIO 2",
+			"day": "MW",
+			"end": "0150PM",
+			"location": "CAD  STUDIO 2",
 			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:05.086138+00:00",
@@ -54,6 +60,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.001995+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.963938+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Barbara Thatcher"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD STUDIO 2",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD STUDIO 2",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

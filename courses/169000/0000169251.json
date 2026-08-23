@@ -1,14 +1,21 @@
 {
 	"clbid": "0000169251",
-	"credits": 0.0,
 	"crsid": "0000000140",
 	"department": "BIO",
-	"enrolled": 0,
-	"groupid": "0000000139",
+	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 23,
 	"instructors": [
-		"Ranjan Muthukrishnan"
+		"Peterson, Sean M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34063",
+			"name": "Peterson, Sean M."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Ecological Principles Lab",
@@ -16,16 +23,48 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 440",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:06:40.432449+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000139",
+			"instructors": [
+				"Ranjan Muthukrishnan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 440",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"status": "O",
+			"title": null
+		}
+	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Lab",
 	"year": 2026

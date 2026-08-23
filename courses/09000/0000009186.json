@@ -4,30 +4,32 @@
 	"crsid": "0000000108",
 	"department": "BIO",
 	"enrolled": 22,
-	"instructors": [
-		"Jason D. Hill"
+	"enrollment_fy": 13,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "2/10",
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jason D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15716",
+			"name": "Hill, Jason D."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_jr": 10,
+	"max_so": 10,
 	"name": "Organismic Biology",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 278",
 			"start": "08:00"
@@ -40,7 +42,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.059811+00:00",
@@ -65,11 +66,58 @@
 		{
 			"_updated": "2020-10-15T15:23:18.065855+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.606219+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jason D. Hill"
+			],
+			"instructors_full": null,
+			"junior": "2/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "SC 273",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "7/10",
+			"title": null
 		}
 	],
 	"section": "D",
 	"semester": 3,
-	"sophomore": "7/10",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000103038",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 17,
-	"groupid": "0000001074",
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Prabal Adhikari"
+		"Adhikari, Prabal"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26288",
+			"name": "Adhikari, Prabal"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Principles Physics II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 292",
-			"start": "14:30"
+			"start": "02:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-10T22:02:50.045200+00:00",
@@ -59,6 +65,35 @@
 		{
 			"_updated": "2021-03-02T16:51:35.542097+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.121333+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"Prabal Adhikari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:00",
+					"location": "RNS 292",
+					"start": "14:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

@@ -1,27 +1,33 @@
 {
 	"clbid": "0000018252",
-	"credits": 0.0,
 	"crsid": "0000000661",
 	"department": "JAPAN",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Gia Someya"
+		"Someya, Gia"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7673",
+			"name": "Someya, Gia"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Begin Japanese II/Lab",
 	"number": 112,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "M 2",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.850733+00:00",
@@ -36,6 +42,35 @@
 		{
 			"_updated": "2020-10-15T15:22:50.918868+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:55.041957+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gia Someya"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "M 2",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

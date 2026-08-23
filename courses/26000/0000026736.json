@@ -4,24 +4,33 @@
 	"crsid": "0000002269",
 	"department": "PSCI",
 	"enrolled": 25,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 17,
 	"instructors": [
-		"J. Patrick Dale"
+		"Dale, J. Patrick"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1343",
+			"name": "Dale, J. Patrick"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_sr": 14,
 	"name": "Russ Foreign Policy",
 	"number": 383,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "M 2",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.885789+00:00",
@@ -45,10 +54,38 @@
 		{
 			"_updated": "2020-10-15T15:23:03.555816+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.442752+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"J. Patrick Dale"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "M 2",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "17/14",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "17/14",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

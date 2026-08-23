@@ -7,24 +7,30 @@
 		"This is an aerobic-based course utilizing swimming and water excersise. Prerequisite: Be able to swim 300 yards."
 	],
 	"enrolled": 7,
-	"instructors": [
-		"Bob Hauck"
+	"enrollment_fy": 1,
+	"enrollment_jr": 0,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Swim Fitness",
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "SAC Pool",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "SAC Pool",
 			"start": "12:55"
 		}
@@ -54,6 +60,37 @@
 			"_updated": "2023-08-09T02:30:28.603311+00:00",
 			"instructors": [
 				"Robert Hauck"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:01:16.460705+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "SAC Pool",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "SAC Pool",
+					"start": "12:55"
+				}
 			]
 		}
 	],

@@ -4,30 +4,33 @@
 	"crsid": "0000001885",
 	"department": "FAMST",
 	"enrolled": 26,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
 	"instructors": [
-		"Linda Marie Ernst"
+		"Ernst, Linda Marie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1911",
+			"name": "Ernst, Linda Marie"
+		}
+	],
 	"level": 300,
 	"max": 30,
+	"max_sr": 20,
 	"name": "Family Res Management",
 	"number": 386,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "H 301",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "H 301",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.701574+00:00",
@@ -51,10 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:22:54.931661+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:15.272798+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Linda Marie Ernst"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 301",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "H 301",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "16/20",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "16/20",
 	"status": "O",
 	"term": 19963,
 	"type": "Research",

@@ -7,26 +7,32 @@
 		"This course introduces modern dance as a style of dance and a dance aesthetic. It explores at a beginning level a range of movement vocabulary, body awareness, and creative process. Teaching faculty bring their individual movement backgrounds to the class content. May be repeated. P/N only. Offered each semester."
 	],
 	"enrolled": 16,
+	"enrollment_fy": 4,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"ALS-A",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Anthony Roberts"
+		"Roberts, Anthony"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6691",
+			"name": "Roberts, Anthony"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Modern Dance I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD Studio 1",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MF",
 			"end": "10:00",
 			"location": "CAD Studio 1",
 			"start": "09:05"
@@ -117,6 +123,39 @@
 				"ALS-A",
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.830098+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Anthony Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD Studio 1",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD Studio 1",
+					"start": "09:05"
+				}
 			]
 		}
 	],

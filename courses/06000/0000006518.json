@@ -4,49 +4,36 @@
 	"crsid": "0000001836",
 	"department": "HIST",
 	"enrolled": 31,
-	"firstyear": "4/10",
-	"instructors": [
-		"Karla Erickson"
+	"enrollment_fy": 4,
+	"enrollment_jr": 9,
+	"enrollment_so": 10,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Erickson, Karla"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15911",
+			"name": "Erickson, Karla"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 10,
 	"name": "Top: Americn Whiteness",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "HH 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "HH 307",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "HH 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "HH 307",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "HH 307",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.758699+00:00",
@@ -70,6 +57,59 @@
 		{
 			"_updated": "2020-10-15T15:23:14.132611+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.263451+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/10",
+			"gereqs": null,
+			"instructors": [
+				"Karla Erickson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "HH 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "HH 307",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "HH 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "HH 307",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "HH 307",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

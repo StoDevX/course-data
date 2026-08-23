@@ -4,30 +4,35 @@
 	"crsid": "0000001020",
 	"department": "PEAC",
 	"enrolled": 7,
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Badminton",
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SAC N GYM",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "SAC N GYM",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.205309+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:22:56.516687+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:06.323073+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SAC N GYM",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SAC N GYM",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

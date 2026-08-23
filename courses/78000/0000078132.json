@@ -7,29 +7,30 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, iteration (loop) invariants, levels of naming, computer design, computing ethics. Students apply these concepts daily, and produce applied projects, individually and in teams. Application areas include student-designed animations and digital humanities. Offered each semester."
 	],
 	"enrolled": 17,
-	"instructors": [
-		"Richard Allen"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Allen, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "97",
+			"name": "Allen, Richard"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Principles Comp Sci",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 203",
 			"start": "10:45"
@@ -56,6 +57,43 @@
 			"_updated": "2025-10-11T21:36:06.138272+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:40.361035+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Allen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				}
 			]
 		}
 	],

@@ -7,16 +7,27 @@
 		"This course examines modern Irish history. Students consider the impact of socialism, feminism, trade unions, and the \"Devotional Revolution\" on the expansion of Irish national consciousness; and examine the process of how part of Ireland gained independence from Great Britain, including the 1916 Easter Rising and Partition. With an emphasis on social history, students investigate the two new states in Ireland, and the impact of religious nationalism and political conflict on Irish peoples."
 	],
 	"enrolled": 20,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"WRI"
 	],
 	"instructors": [
-		"Averill Earls"
+		"Earls, Averill"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33976",
+			"name": "Earls, Averill"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Sem: Modern Irish History",
 	"notes": [
 		"Open only to rising seniors and juniors."
@@ -24,19 +35,7 @@
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 205",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 205",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 205",
 			"start": "09:05"
@@ -99,10 +98,51 @@
 				"WRI",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.545774+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Averill Earls"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 205",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 205",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 205",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20241,
 	"title": "Research Seminar: Modern European History",

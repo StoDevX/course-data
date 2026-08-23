@@ -7,10 +7,19 @@
 		"Students explore special topics in statistics. Topics vary from year to year. May be repeated if topic is different. Offered periodically."
 	],
 	"enrolled": 16,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Joe Roith"
+		"Roith, Joe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31140",
+			"name": "Roith, Joe"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Top: Data Visualization",
@@ -20,20 +29,8 @@
 	"number": 282,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 111",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 111",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 111",
 			"start": "12:55"
 		}
@@ -118,6 +115,42 @@
 			"_updated": "2023-08-09T02:31:48.355900+00:00",
 			"instructors": [
 				"Joseph Roith"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.983813+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Joe Roith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 111",
+					"start": "12:55"
+				}
 			]
 		}
 	],

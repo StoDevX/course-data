@@ -4,42 +4,42 @@
 	"crsid": "0000000108",
 	"department": "BIO",
 	"enrolled": 22,
-	"instructors": [
-		"Charles Jr. Umbanhowar"
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 11,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Umbanhowar, Charles Jr."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 278",
 			"start": "08:00"
 		},
 		{
 			"day": "Tu",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "SC 211",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.532927+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:00.520836+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:18.804053+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "17:30",
+					"location": "SC 211",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

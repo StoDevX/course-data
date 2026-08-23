@@ -4,30 +4,35 @@
 	"crsid": "0000001398",
 	"department": "THEAT",
 	"enrolled": 13,
-	"instructors": [
-		"Gary C. Gisselman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gisselman, Gary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10426",
+			"name": "Gisselman, Gary C."
+		}
+	],
 	"level": 300,
 	"max": 99,
 	"name": "Topics in Acting",
 	"number": 379,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "KELSEY",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "KELSEY",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.763439+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:05.114421+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:20.678027+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary C. Gisselman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "KELSEY",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "KELSEY",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

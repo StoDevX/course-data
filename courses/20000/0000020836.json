@@ -4,30 +4,35 @@
 	"crsid": "0000001331",
 	"department": "SPAN",
 	"enrolled": 23,
-	"instructors": [
-		"Michael Hasbrouck"
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hasbrouck, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3139",
+			"name": "Hasbrouck, Michael"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Cult & Civ of Spain",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 31",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 31",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.935184+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:55.088064+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:39.897062+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Hasbrouck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 31",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 31",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

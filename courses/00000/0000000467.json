@@ -4,31 +4,35 @@
 	"crsid": "0000000997",
 	"department": "PEAC",
 	"enrolled": 13,
-	"halfcredit": "1",
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Golf",
 	"number": 103,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "SAC FH",
-			"start": "11:50"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "SAC FH",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.600439+00:00",
@@ -43,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:05.008444+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.680800+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "SAC FH",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "SAC FH",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

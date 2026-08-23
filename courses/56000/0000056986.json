@@ -7,30 +7,27 @@
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
 	"enrolled": 10,
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Jonathan Peterson"
+		"Peterson, Jonathan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19373",
+			"name": "Peterson, Jonathan"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Public Opinion in Am",
 	"number": 299,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "Mod 3",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "Mod 3",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "Mod 3",
 			"start": "12:55"
 		}
@@ -51,6 +48,43 @@
 		{
 			"_updated": "2020-10-15T15:23:27.142664+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:31.585515+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jonathan Peterson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "Mod 3",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "Mod 3",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "Mod 3",
+					"start": "12:55"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

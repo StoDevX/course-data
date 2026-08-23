@@ -1,29 +1,75 @@
 {
-	"clbid": 69648,
-	"credits": 0.0,
-	"crsid": 1162,
-	"departments": [
-		"PSYCH"
-	],
-	"groupid": 1161,
+	"clbid": "0000069648",
+	"crsid": "0000001162",
+	"department": "PSYCH",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Clark Ohnesorge"
+		"Ohnesorge, Clark"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "18531",
+			"name": "Ohnesorge, Clark"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"RNS 123"
-	],
+	"max": 16,
 	"name": "Condition & Learning Lab",
 	"number": 236,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0400PM",
+			"location": "RNS 123",
+			"start": "02:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:10.458626+00:00",
+			"clbid": 69648,
+			"credits": 0.0,
+			"crsid": 1162,
+			"department": null,
+			"departments": [
+				"PSYCH"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 1161,
+			"instructors": [
+				"Clark Ohnesorge"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 123"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"times": [
+				"T 0200-0400PM"
+			],
+			"title": null
+		}
+	],
 	"section": "B",
 	"semester": 1,
 	"status": "X",
 	"term": 20091,
-	"times": [
-		"T 0200-0400PM"
-	],
 	"type": "Lab",
 	"year": 2009
 }

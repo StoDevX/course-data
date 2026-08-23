@@ -7,14 +7,23 @@
 		"Students analyze mechanical principles in depth as they affect human motion. Topics include study of muscular and skeletal systems, skill analysis, and motion measurement techniques. Students attend lectures plus one three-hour laboratory per week. Offered annually. Also counts toward neuroscience concentration. Prerequisites: BIO 143, BIO 243, and junior standing."
 	],
 	"enrolled": 16,
-	"firstyear": "0/0",
-	"groupid": "0000001062",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Veronica C. Foster"
+		"Foster, Veronica C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31174",
+			"name": "Foster, Veronica C."
+		}
+	],
 	"level": 300,
 	"max": 16,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Biomechanics",
 	"notes": [
 		"This course is open only to rising seniors and juniors."
@@ -22,19 +31,7 @@
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SAC 103",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SAC 103",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SAC 103",
 			"start": "10:45"
@@ -109,10 +106,49 @@
 		{
 			"_updated": "2020-11-26T16:47:09.673164+00:00",
 			"enrolled": 17
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.532101+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001062",
+			"instructors": [
+				"Veronica C. Foster"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SAC 103",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SAC 103",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SAC 103",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20201,
 	"type": "Research",

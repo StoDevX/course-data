@@ -4,10 +4,23 @@
 	"crsid": "0000000982",
 	"department": "PHIL",
 	"enrolled": 29,
-	"instructors": [
-		"Charles Taliaferro"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 20,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Taliaferro, Charles"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8230",
+			"name": "Taliaferro, Charles"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Environ Ethics",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 516",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 516",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.181871+00:00",
@@ -42,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:12.146725+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.058480+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Taliaferro"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 516",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 516",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

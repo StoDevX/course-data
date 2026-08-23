@@ -4,18 +4,28 @@
 	"crsid": "0000001316",
 	"department": "SOAN",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Michael Leming"
+		"Leming, Michael"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4762",
+			"name": "Leming, Michael"
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "IS/SE Asian Funerals",
 	"number": 298,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:11.794351+00:00",
@@ -37,11 +47,33 @@
 		{
 			"_updated": "2020-10-15T15:23:19.041526+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:57.194353+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Michael Leming"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 5,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20045,
 	"type": "Research",

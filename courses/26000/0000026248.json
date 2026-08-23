@@ -4,10 +4,19 @@
 	"crsid": "0000000159",
 	"department": "BIO",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Amy Jessen-Marshall"
+		"Jessen-Marshall, Amy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3809",
+			"name": "Jessen-Marshall, Amy"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Molecular Biology",
@@ -15,25 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 274",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "SC 274",
-			"start": "09:35"
-		},
-		{
-			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 229",
-			"start": "13:20"
+			"start": "01:20"
+		},
+		{
+			"day": "TTh",
+			"end": "11:00",
+			"location": "SC 274",
+			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.298193+00:00",
@@ -48,6 +50,45 @@
 		{
 			"_updated": "2020-10-15T15:23:03.326843+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.693552+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Amy Jessen-Marshall"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				},
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "SC 229",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

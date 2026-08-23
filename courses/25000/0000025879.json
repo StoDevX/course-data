@@ -4,37 +4,40 @@
 	"crsid": "0000001377",
 	"department": "THEAT",
 	"enrolled": 21,
-	"instructors": [
-		"Linda Devenish"
+	"enrollment_fy": 3,
+	"enrollment_jr": 8,
+	"enrollment_so": 4,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS",
+		"ORC",
+		"WRI"
 	],
-	"junior": "8/9",
-	"learningmode": "S",
+	"instructors": [
+		"Devenish, Linda"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10495",
+			"name": "Devenish, Linda"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_jr": 9,
+	"max_so": 0,
+	"max_sr": 15,
 	"name": "Public Speaking",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CT 216",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CT 216",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CT 216",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.556258+00:00",
@@ -65,12 +68,53 @@
 		{
 			"_updated": "2020-10-15T15:23:02.289859+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:57.270107+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Linda Devenish"
+			],
+			"instructors_full": null,
+			"junior": "8/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CT 216",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CT 216",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CT 216",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "6/15",
+			"sophomore": "4/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "6/15",
-	"sophomore": "4/0",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

@@ -1,29 +1,37 @@
 {
 	"clbid": "0000137152",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 26,
-	"groupid": "0000027943",
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Adam C. Wood"
+		"Wood, Adam C."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25309",
+			"name": "Wood, Adam C."
+		}
+	],
 	"level": 100,
 	"max": 28,
+	"max_jr": 0,
+	"max_so": 2,
+	"max_sr": 0,
 	"name": "Calc I with Review Lab",
 	"number": 119,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 208",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-20T16:34:23.281966+00:00",
@@ -80,12 +88,42 @@
 			"enrolled": 3,
 			"max": 26,
 			"sophomore": "3/2"
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.564552+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"Adam C. Wood"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 208",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "4/2",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "4/2",
 	"status": "O",
 	"term": 20211,
 	"type": "Lab",

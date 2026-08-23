@@ -4,30 +4,35 @@
 	"crsid": "0000001191",
 	"department": "REL",
 	"enrolled": 28,
-	"instructors": [
-		"Mark A. Granquist"
+	"enrollment_fy": 25,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"BTS-B"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Granquist, Mark A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2683",
+			"name": "Granquist, Mark A."
+		}
+	],
 	"level": 100,
 	"max": 26,
 	"name": "Bible/Culture/Commun",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "CH 102",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "CH 102",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.933501+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:23:00.774011+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:37.473072+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mark A. Granquist"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CH 102",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "CH 102",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "L",

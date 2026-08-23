@@ -4,42 +4,41 @@
 	"crsid": "0000000166",
 	"department": "BIO",
 	"enrolled": 17,
-	"instructors": [
-		"Theodore Johnson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Theodore"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4110",
+			"name": "Johnson, Theodore"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Immunology",
 	"number": 382,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 274",
 			"start": "10:45"
 		},
 		{
 			"day": "We",
-			"end": "11:40",
-			"location": "SC 274",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "SC 274",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "15:25",
+			"end": "0325PM",
 			"location": "SC 210",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.358851+00:00",
@@ -54,6 +53,52 @@
 		{
 			"_updated": "2020-10-15T15:23:07.596254+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.179059+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Theodore Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "15:25",
+					"location": "SC 210",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

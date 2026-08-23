@@ -1,14 +1,21 @@
 {
 	"clbid": "0000137196",
-	"credits": 0.0,
 	"crsid": "0000001164",
 	"department": "PSYCH",
 	"enrolled": 15,
-	"groupid": "0000001163",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Jeremy Loebach"
+		"Loebach, Jeremy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21097",
+			"name": "Loebach, Jeremy"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Cognitive Psychology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 160C",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-20T16:34:23.295712+00:00",
@@ -77,6 +83,35 @@
 			"enrolled": 18,
 			"max": 15,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.939252+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001163",
+			"instructors": [
+				"Jeremy Loebach"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "RNS 160C",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

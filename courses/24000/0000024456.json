@@ -4,37 +4,40 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 26,
-	"instructors": [
-		"Colin Wells"
+	"enrollment_fy": 11,
+	"enrollment_jr": 0,
+	"enrollment_so": 11,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Wells, Colin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8973",
+			"name": "Wells, Colin"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_jr": 0,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "L 525",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "L 525",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "L 525",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.659458+00:00",
@@ -63,12 +66,53 @@
 		{
 			"_updated": "2020-10-15T15:23:00.597978+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.088103+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Colin Wells"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/0",
+			"sophomore": "11/10",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "4/0",
-	"sophomore": "11/10",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

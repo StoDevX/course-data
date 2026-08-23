@@ -7,16 +7,29 @@
 		"This course introduces students to the working methods of Art History. Students learn to analyze works of art visually, to understand the relationships between works of art and their cultural contexts, to consider the practices and politics of museum display, and to think critically about the role of art in their own lives and in society. Offered each semester."
 	],
 	"enrolled": 30,
+	"enrollment_fy": 2,
+	"enrollment_jr": 10,
+	"enrollment_so": 11,
+	"enrollment_sr": 7,
 	"gereqs": [
-		"GHS"
+		"ALS-A",
+		"GHS",
+		"ORC"
 	],
 	"instructors": [
-		"Hannah Ryan"
+		"Ryan, Hannah"
 	],
-	"junior": "10/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31158",
+			"name": "Ryan, Hannah"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 5,
 	"name": "Intro to Art History",
 	"notes": [
 		"This course has class-year limits."
@@ -24,20 +37,8 @@
 	"number": 153,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD 305",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CAD 305",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CAD 305",
 			"start": "11:50"
 		}
@@ -52,12 +53,52 @@
 				"ORC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:53.296101+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Hannah Ryan"
+			],
+			"instructors_full": null,
+			"junior": "10/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				}
+			],
+			"senior": "7/5",
+			"sophomore": "11/10"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "7/5",
-	"sophomore": "11/10",
 	"status": "C",
 	"term": 20221,
 	"title": "Introduction to Art History",

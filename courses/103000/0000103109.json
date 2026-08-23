@@ -1,29 +1,35 @@
 {
 	"clbid": "0000103109",
-	"credits": 0.0,
 	"crsid": "0000016383",
 	"department": "BIO",
 	"enrolled": 2,
-	"firstyear": "0/0",
-	"groupid": "0000000141",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Michael Swift"
+		"Swift, Michael"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8210",
+			"name": "Swift, Michael"
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
 	"name": "Limnology Lab",
 	"number": 363,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "RNS 246",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-26T04:19:11.840381+00:00",
@@ -47,6 +53,36 @@
 		{
 			"_updated": "2020-10-15T15:23:56.294671+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:47.892582+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000141",
+			"instructors": [
+				"Michael Swift"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:15",
+					"location": "RNS 246",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

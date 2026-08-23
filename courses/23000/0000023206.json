@@ -4,37 +4,39 @@
 	"crsid": "0000000051",
 	"department": "ART",
 	"enrolled": 37,
-	"instructors": [
-		"Matthew Rohn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 10,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"junior": "11/20",
-	"learningmode": "S",
+	"instructors": [
+		"Rohn, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		}
+	],
 	"level": 200,
 	"max": 50,
+	"max_jr": 20,
+	"max_so": 33,
+	"max_sr": 10,
 	"name": "High Modernism",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH 01",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH 01",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH 01",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.010990+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:22:59.201850+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.129849+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"junior": "11/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH 01",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "16/10",
+			"sophomore": "10/33",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "16/10",
-	"sophomore": "10/33",
 	"status": "O",
 	"term": 19981,
 	"type": "Research",

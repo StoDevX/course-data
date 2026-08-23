@@ -4,10 +4,19 @@
 	"crsid": "0000001134",
 	"department": "PSCI",
 	"enrolled": 15,
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Charles E. Umbanhowar Sr"
+		"Umbanhowar Sr, Charles E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8656",
+			"name": "Umbanhowar Sr, Charles E."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Amer Const Law",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "H 514",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "H 514",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.784043+00:00",
@@ -42,6 +50,39 @@
 		{
 			"_updated": "2020-10-15T15:23:10.669829+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.517097+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "H 514",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "H 514",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

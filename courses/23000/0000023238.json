@@ -4,42 +4,41 @@
 	"crsid": "0000001535",
 	"department": "BIO",
 	"enrolled": 8,
-	"instructors": [
-		"Anne Walter"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Walter, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Cell Physiology",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 274",
 			"start": "10:45"
 		},
 		{
 			"day": "We",
-			"end": "11:40",
-			"location": "SC 274",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "SC 274",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 229",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.053843+00:00",
@@ -54,6 +53,52 @@
 		{
 			"_updated": "2020-10-15T15:22:59.215823+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.450952+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 274",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "SC 229",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

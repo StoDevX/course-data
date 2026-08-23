@@ -4,36 +4,32 @@
 	"crsid": "0000001326",
 	"department": "SPAN",
 	"enrolled": 17,
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 4,
 	"instructors": [
-		"León Narváez"
+		"Narváez, León"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5471",
+			"name": "Narváez, León"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed Spanish I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "M 21",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "M 21",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "M 21",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.316449+00:00",
@@ -54,6 +50,45 @@
 			"instructors": [
 				"Leon Narvaez"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:58:11.344238+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"León Narváez"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "M 21",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "M 21",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "M 21",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

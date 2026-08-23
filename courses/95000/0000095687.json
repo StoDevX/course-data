@@ -1,15 +1,21 @@
 {
 	"clbid": "0000095687",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 23,
-	"groupid": "0000026649",
-	"grouptype": "1",
+	"enrollment_fy": 15,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jean C. Porterfield"
+		"Porterfield, Jean C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Biodiversity Found Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 255",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:23.602697+00:00",
@@ -46,6 +51,36 @@
 		{
 			"_updated": "2021-03-02T16:51:31.706154+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:37.504166+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "1",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 255",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

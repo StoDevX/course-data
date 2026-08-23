@@ -1,23 +1,30 @@
 {
 	"clbid": "0000153288",
-	"credits": 0.0,
 	"crsid": "0000038783",
 	"department": "NURS",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Susan Huehn"
+		"Huehn, Susan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17526",
+			"name": "Huehn, Susan"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "LAC - German",
 	"notes": [
-		"Meeting time will be decided based on availability of the registered students.",
+		"Meeting time will be decided based on availability of the registered students.  ",
 		"Prerequisite: Completion of German 232 or equivalent experience."
 	],
 	"number": 260,
 	"pn": true,
-	"prerequisites": "Completion of German 232 or equivalent experience.",
 	"revisions": [
 		{
 			"_updated": "2023-09-14T02:22:25.135441+00:00",
@@ -25,10 +32,36 @@
 				"Meeting time will be decided based on availability of the registered students."
 			],
 			"prerequisites": false
+		},
+		{
+			"_updated": "2026-08-23T03:05:17.386338+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Susan Huehn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Meeting time will be decided based on availability of the registered students.",
+				"Prerequisite: Completion of German 232 or equivalent experience."
+			],
+			"prerequisites": "Completion of German 232 or equivalent experience.",
+			"section": null,
+			"status": "O",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"status": "O",
+	"status": "X",
 	"term": 20232,
 	"type": "FLAC",
 	"year": 2023

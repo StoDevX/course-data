@@ -4,36 +4,32 @@
 	"crsid": "0000001177",
 	"department": "PSYCH",
 	"enrolled": 40,
+	"enrollment_fy": 3,
+	"enrollment_jr": 9,
+	"enrollment_so": 19,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Donna K. McMillan"
+		"McMillan, Donna K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5220",
+			"name": "McMillan, Donna K."
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Psych of Personality",
 	"number": 271,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 317",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:13:31.487967+00:00",
@@ -60,6 +56,46 @@
 		{
 			"_updated": "2020-10-15T15:22:57.945974+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:42.485346+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Donna K. McMillan"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

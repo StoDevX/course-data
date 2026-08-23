@@ -4,52 +4,38 @@
 	"crsid": "0000000194",
 	"department": "CHEM",
 	"enrolled": 8,
-	"groupid": "0000000194",
-	"instructors": [
-		"Patrick N. Riley"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Riley, Patrick N."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14194",
+			"name": "Riley, Patrick N."
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Chemical Reactions",
 	"notes": [
-		"Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM035."
+		"Class periods to be arranged.  First class meets June 6 at 3:00 p.m. in OM035."
 	],
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "SC 374",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "SC 374",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "SC 374",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "SC 374",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "SC 374",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:11.749328+00:00",
@@ -64,6 +50,64 @@
 		{
 			"_updated": "2020-10-15T15:23:19.015634+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:55.937360+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Patrick N. Riley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Class periods to be arranged. First class meets June 6 at 3:00 p.m. in OM035."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "SC 374",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "SC 374",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "SC 374",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "SC 374",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "SC 374",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

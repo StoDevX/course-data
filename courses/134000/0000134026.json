@@ -1,14 +1,21 @@
 {
 	"clbid": "0000134026",
-	"credits": 0.0,
 	"crsid": "0000001162",
 	"department": "PSYCH",
 	"enrolled": 16,
-	"groupid": "0000001161",
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Shelly D. Dickinson"
+		"Dickinson, Shelly D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15747",
+			"name": "Dickinson, Shelly D."
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Condition & Learning Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 123",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-06-23T14:12:22.060321+00:00",
@@ -95,6 +101,35 @@
 			"_updated": "2021-02-26T16:43:37.565260+00:00",
 			"enrolled": 15,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:39.051994+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001161",
+			"instructors": [
+				"Shelly D. Dickinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 123",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

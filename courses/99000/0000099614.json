@@ -1,15 +1,21 @@
 {
 	"clbid": "0000099614",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 20,
-	"groupid": "0000026649",
-	"grouptype": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 19,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Steven Freedberg"
+		"Freedberg, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Biodiversity Found Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-28T23:00:17.382889+00:00",
@@ -50,6 +55,28 @@
 		{
 			"_updated": "2021-03-02T16:51:33.439553+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:03:47.257154+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "1",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

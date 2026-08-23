@@ -4,10 +4,19 @@
 	"crsid": "0000001096",
 	"department": "PHYS",
 	"enrolled": 2,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Adv Physics Lab (374)",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 151",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.937626+00:00",
@@ -36,6 +44,30 @@
 		{
 			"_updated": "2020-10-15T15:22:46.794862+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.454956+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 151",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

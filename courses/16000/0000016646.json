@@ -4,16 +4,27 @@
 	"crsid": "0000001072",
 	"department": "PHYS",
 	"enrolled": 17,
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Phenomenological I",
 	"number": 124,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:18.075172+00:00",
@@ -28,6 +39,25 @@
 		{
 			"_updated": "2020-10-15T15:22:48.583951+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:48.447563+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

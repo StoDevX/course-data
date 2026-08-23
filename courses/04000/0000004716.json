@@ -4,32 +4,45 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 23,
-	"firstyear": "11/4",
-	"instructors": [
-		"Jil Evans"
+	"enrollment_fy": 11,
+	"enrollment_jr": 1,
+	"enrollment_so": 9,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/2",
-	"learningmode": "S",
+	"instructors": [
+		"Evans, Jil"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14958",
+			"name": "Evans, Jil"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 4,
+	"max_jr": 2,
+	"max_so": 3,
+	"max_sr": 2,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD 216",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD 216",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:56.823996+00:00",
@@ -65,11 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:11.917069+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.597950+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/4",
+			"gereqs": null,
+			"instructors": [
+				"Jil Evans"
+			],
+			"instructors_full": null,
+			"junior": "1/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 216",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD 216",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/2",
+			"sophomore": "9/3",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "2/2",
-	"sophomore": "9/3",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

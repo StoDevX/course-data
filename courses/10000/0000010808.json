@@ -4,36 +4,32 @@
 	"crsid": "0000000945",
 	"department": "NURS",
 	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Diana Neal"
+		"Neal, Diana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5499",
+			"name": "Neal, Diana"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Nursing Concepts",
 	"number": 304,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "HH 215",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "HH 215",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "HH 215",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.499460+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:23:20.028331+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:59.818313+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Diana Neal"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "HH 215",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "HH 215",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "HH 215",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

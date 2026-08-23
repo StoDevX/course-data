@@ -7,26 +7,31 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 2,
+	"enrollment_sr": 7,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Kayla R. Hatting"
+		"Hatting, Kayla R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28128",
+			"name": "Hatting, Kayla R."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Aerobics",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "Tostrud Ctr",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "Tostrud Ctr",
 			"start": "08:00"
@@ -84,6 +89,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.547977+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Kayla R. Hatting"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				}
 			]
 		}
 	],

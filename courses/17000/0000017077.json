@@ -4,36 +4,37 @@
 	"crsid": "0000000534",
 	"department": "GCON",
 	"enrolled": 16,
-	"instructors": [
-		"Douglas Schuurman"
+	"enrollment_fy": 1,
+	"enrollment_jr": 0,
+	"enrollment_so": 12,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schuurman, Douglas"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7248",
+			"name": "Schuurman, Douglas"
+		}
+	],
 	"level": 200,
 	"max": 21,
+	"max_so": 18,
 	"name": "New Forces of Secular",
 	"number": 217,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "H 516",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "H 516",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "H 516",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.745776+00:00",
@@ -57,11 +58,51 @@
 		{
 			"_updated": "2020-10-15T15:22:49.587027+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:59.190282+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Douglas Schuurman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 516",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "H 516",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "H 516",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "12/18",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"sophomore": "12/18",
 	"status": "C",
 	"term": 19951,
 	"type": "Research",

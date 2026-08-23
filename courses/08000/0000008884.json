@@ -4,108 +4,44 @@
 	"crsid": "0000000758",
 	"department": "MATH",
 	"enrolled": 23,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Martha Wallace"
+		"Wallace, Martha"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8879",
+			"name": "Wallace, Martha"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Geometry",
 	"number": 356,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 184",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 184",
 			"start": "08:30"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 184",
-			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 184",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 184",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 184",
-			"start": "08:30"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "SC 184",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "SC 184",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "SC 184",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "SC 184",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "SC 184",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 184",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 184",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 184",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 184",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 184",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.730737+00:00",
@@ -120,6 +56,118 @@
 		{
 			"_updated": "2020-10-15T15:23:17.322845+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:49.487548+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Martha Wallace"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 184",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 184",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 184",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 184",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 184",
+					"start": "08:30"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "SC 184",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "SC 184",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "SC 184",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "SC 184",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "SC 184",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 184",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 184",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 184",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 184",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 184",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

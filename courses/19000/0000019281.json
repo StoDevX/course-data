@@ -4,31 +4,38 @@
 	"crsid": "0000001881",
 	"department": "FAMST",
 	"enrolled": 22,
-	"instructors": [
-		"Rebecca A. Benedict"
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "5/26",
-	"learningmode": "S",
+	"instructors": [
+		"Benedict, Rebecca A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "353",
+			"name": "Benedict, Rebecca A."
+		}
+	],
 	"level": 200,
 	"max": 40,
+	"max_jr": 26,
+	"max_so": 33,
+	"max_sr": 30,
 	"name": "Human Nutrition",
 	"number": 255,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 403",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 403",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.396274+00:00",
@@ -56,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:22:53.143959+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:35.877516+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Rebecca A. Benedict"
+			],
+			"instructors_full": null,
+			"junior": "5/26",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 403",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 403",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/30",
+			"sophomore": "11/33",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "4/30",
-	"sophomore": "11/33",
 	"status": "O",
 	"term": 19961,
 	"type": "Research",

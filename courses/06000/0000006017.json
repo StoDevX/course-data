@@ -4,36 +4,35 @@
 	"crsid": "0000000745",
 	"department": "MATH",
 	"enrolled": 11,
-	"instructors": [
-		"Theodore Vessey"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Vessey, Theodore"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8796",
+			"name": "Vessey, Theodore"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Elem Real Analysis",
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "SC 188",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.886860+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:13.587625+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.516919+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Theodore Vessey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

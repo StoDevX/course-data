@@ -1,14 +1,21 @@
 {
 	"clbid": "0000108162",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 28,
-	"groupid": "0000000194",
+	"enrollment_fy": 25,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Greg W. Muth"
+		"Muth, Greg W."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14961",
+			"name": "Muth, Greg W."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Chem Reactions/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 350",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.185471+00:00",
@@ -63,6 +69,35 @@
 			"instructors": [
 				"Gregory W. Muth"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:09.826392+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Greg W. Muth"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 350",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

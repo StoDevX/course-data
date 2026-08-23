@@ -4,31 +4,35 @@
 	"crsid": "0000002456",
 	"department": "THEAT",
 	"enrolled": 14,
-	"halfcredit": "1",
-	"instructors": [
-		"Larry Schnoor"
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schnoor, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15999",
+			"name": "Schnoor, Larry"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Fundament of Speaking",
 	"number": 105,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "TB 227",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "TB 227",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.943423+00:00",
@@ -60,6 +64,41 @@
 		{
 			"_updated": "2020-10-15T15:22:55.093765+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:40.828774+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Larry Schnoor"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "TB 227",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "TB 227",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

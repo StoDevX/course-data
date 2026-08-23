@@ -4,37 +4,40 @@
 	"crsid": "0000000397",
 	"department": "ENGL",
 	"enrolled": 30,
-	"instructors": [
-		"Karen E. Marsalek",
-		"Linda Shenk"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 20,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marsalek, Karen E.",
+		"Shenk, Linda"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10015",
+			"name": "Marsalek, Karen E."
+		},
+		{
+			"fsnum": "15062",
+			"name": "Shenk, Linda"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl to 1650",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "L 525",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.549593+00:00",
@@ -49,6 +52,47 @@
 		{
 			"_updated": "2020-10-15T15:23:10.512063+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.429457+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen E. Marsalek",
+				"Linda Shenk"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

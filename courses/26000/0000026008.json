@@ -4,17 +4,29 @@
 	"crsid": "0000000339",
 	"department": "EDUC",
 	"enrolled": 34,
-	"instructors": [
-		"Larry Zimmerman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 26,
+	"gereqs": [
+		"MCS-D"
 	],
-	"junior": "8/0",
-	"learningmode": "S",
+	"instructors": [
+		"Zimmerman, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9169",
+			"name": "Zimmerman, Larry"
+		}
+	],
 	"level": 300,
 	"max": 35,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Urban Alternative Ed",
 	"number": 379,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.286964+00:00",
@@ -34,10 +46,32 @@
 		{
 			"_updated": "2020-10-15T15:23:02.650405+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.436163+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Larry Zimmerman"
+			],
+			"instructors_full": null,
+			"junior": "8/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

@@ -4,36 +4,36 @@
 	"crsid": "0000000194",
 	"department": "CHEM",
 	"enrolled": 54,
-	"instructors": [
-		"Patrick N. Riley"
+	"enrollment_fy": 29,
+	"enrollment_jr": 4,
+	"enrollment_so": 18,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Riley, Patrick N."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14194",
+			"name": "Riley, Patrick N."
+		}
+	],
 	"level": 100,
 	"max": 53,
 	"name": "Chemical Reactions",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 378",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 378",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 378",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.091329+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:14.831726+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.678085+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Patrick N. Riley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 378",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 378",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 378",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

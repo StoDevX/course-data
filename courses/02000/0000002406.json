@@ -4,37 +4,38 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 24,
-	"instructors": [
-		"Kurt Burch"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "2/5",
-	"learningmode": "S",
+	"instructors": [
+		"Burch, Kurt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14022",
+			"name": "Burch, Kurt"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 5,
+	"max_so": 8,
+	"max_sr": 5,
 	"name": "Int'l Relations",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "L 577",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "L 577",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "L 577",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.682563+00:00",
@@ -62,12 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:23:07.815020+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.615734+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kurt Burch"
+			],
+			"instructors_full": null,
+			"junior": "2/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "L 577",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "L 577",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 577",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "11/5",
+			"sophomore": "6/8",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "11/5",
-	"sophomore": "6/8",
 	"status": "O",
 	"term": 20011,
 	"type": "Research",

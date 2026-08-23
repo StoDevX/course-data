@@ -4,30 +4,36 @@
 	"crsid": "0000001698",
 	"department": "ENGL",
 	"enrolled": 33,
-	"instructors": [
-		"Abby Werlock"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 15,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Amer Lit Since 1945",
 	"number": 244,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 515",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 515",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.634740+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:54.887820+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:14.021253+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

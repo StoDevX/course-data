@@ -1,17 +1,23 @@
 {
 	"clbid": "0000137525",
-	"credits": 0.0,
 	"crsid": "0000033747",
 	"department": "CHEM",
-	"enrolled": 2,
-	"groupid": "0000033733",
-	"grouptype": "1",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
-	"max": 20,
+	"max": 0,
 	"name": "Introductory Chemistry Discussion",
 	"number": 122,
 	"offerings": [
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-16T16:45:13.951936+00:00",
@@ -68,11 +73,33 @@
 		{
 			"_updated": "2021-05-01T17:09:46.498300+00:00",
 			"enrolled": 1
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.796433+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 2,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033733",
+			"grouptype": "1",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"status": "O",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20211,
 	"type": "Discussion",
 	"year": 2021

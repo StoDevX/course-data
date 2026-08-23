@@ -1,53 +1,35 @@
 {
 	"clbid": "0000089709",
-	"credits": 0.0,
 	"crsid": "0000001087",
 	"department": "PHYS",
 	"enrolled": 32,
-	"firstyear": "0/0",
-	"groupid": "0000001086",
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 9,
+	"enrollment_sr": 12,
 	"instructors": [
-		"Brian Borovsky"
+		"Borovsky, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "716",
+			"name": "Borovsky, Brian"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
 	"name": "Musical Acoustics Lab",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "M-F",
+			"end": "0330PM",
 			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:13.644294+00:00",
@@ -66,6 +48,61 @@
 		{
 			"_updated": "2020-10-15T15:23:49.572228+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:21.991400+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001086",
+			"instructors": [
+				"Brian Borovsky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

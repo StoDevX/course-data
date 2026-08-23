@@ -4,36 +4,35 @@
 	"crsid": "0000001250",
 	"department": "REL",
 	"enrolled": 10,
-	"instructors": [
-		"Margaret Odell"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Odell, Margaret"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5800",
+			"name": "Odell, Margaret"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Bib Sem:",
 	"number": 391,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CH 109",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CH 109",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CH 109",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.969919+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.586235+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.693300+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Margaret Odell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CH 109",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CH 109",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CH 109",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

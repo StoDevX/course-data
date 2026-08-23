@@ -1,15 +1,21 @@
 {
 	"clbid": "0000163004",
-	"credits": 0.0,
 	"crsid": "0000033747",
 	"department": "CHEM",
 	"enrolled": 11,
-	"groupid": "0000033733",
-	"grouptype": "4",
+	"enrollment_fy": 11,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jeff J. Schwinefus"
+		"Schwinefus, Jeff J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14915",
+			"name": "Schwinefus, Jeff J."
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Introductory Chemistry Discussion",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "RNS 435",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:24.227689+00:00",
@@ -67,6 +72,36 @@
 		{
 			"_updated": "2025-11-05T03:07:24.167315+00:00",
 			"enrolled": 13
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.062800+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033733",
+			"grouptype": "4",
+			"instructors": [
+				"Jeff J. Schwinefus"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:55",
+					"location": "RNS 435",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "K",

@@ -1,29 +1,38 @@
 {
 	"clbid": "0000049302",
-	"credits": 0.0,
 	"crsid": "0000017302",
 	"department": "BIO",
 	"enrolled": 9,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Jean C. Porterfield"
+		"Porterfield, Jean C."
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		}
+	],
 	"level": 300,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Evolutionary Bio Disc",
 	"number": 383,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "SC 210",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.615715+00:00",
@@ -45,11 +54,42 @@
 		{
 			"_updated": "2020-10-15T15:23:21.894893+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.945931+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 210",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "7/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Discussion",

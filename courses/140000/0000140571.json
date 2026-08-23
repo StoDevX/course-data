@@ -7,14 +7,25 @@
 		"This course studies the Buddhist view of the human predicament and its solution. Students examine the life of the Buddha, Buddhist scriptures, and the historical and philosophical development of Theravada and Mahayana Buddhism in East and Southeast Asia. Offered periodically. Counts toward Asian studies, Chinese, Japanese, and religion majors and Asian studies concentration."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 13,
+	"enrollment_jr": 4,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
 	"gereqs": [
 		"GHS",
+		"MCG",
+		"MCS-G",
 		"RFV"
 	],
 	"instructors": [
-		"Sungha Yun"
+		"Yun, Sungha"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33051",
+			"name": "Yun, Sungha"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Buddhism",
@@ -24,22 +35,10 @@
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "OM 310",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "OM 310",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "OM 310",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -136,6 +135,46 @@
 				"MCG",
 				"GHS",
 				"RFV"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.765785+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS",
+				"RFV"
+			],
+			"instructors": [
+				"Sungha Yun"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "OM 310",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "OM 310",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "OM 310",
+					"start": "14:00"
+				}
 			]
 		}
 	],

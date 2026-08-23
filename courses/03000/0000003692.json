@@ -4,14 +4,28 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 22,
-	"firstyear": "8/6",
-	"instructors": [
-		"Jill Ewald"
+	"enrollment_fy": 8,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/3",
-	"learningmode": "S",
+	"instructors": [
+		"Ewald, Jill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1987",
+			"name": "Ewald, Jill"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 6,
+	"max_jr": 3,
+	"max_so": 2,
+	"max_sr": 1,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.151255+00:00",
@@ -65,11 +78,34 @@
 		{
 			"_updated": "2020-10-15T15:23:10.412885+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.745858+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/6",
+			"gereqs": null,
+			"instructors": [
+				"Jill Ewald"
+			],
+			"instructors_full": null,
+			"junior": "3/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/1",
+			"sophomore": "7/2",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "4/1",
-	"sophomore": "7/2",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

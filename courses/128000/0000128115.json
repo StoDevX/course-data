@@ -8,14 +8,23 @@
 		"standing."
 	],
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000001062",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Veronica C. Foster"
+		"Foster, Veronica C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31174",
+			"name": "Foster, Veronica C."
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Biomechanics",
 	"notes": [
 		"This course is open only to rising seniors and juniors."
@@ -23,20 +32,8 @@
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SAC 103",
 			"start": "11:50"
 		}
@@ -69,10 +66,49 @@
 		{
 			"_updated": "2021-01-28T18:36:22.699112+00:00",
 			"sophomore": "0/0"
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.818965+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001062",
+			"instructors": [
+				"Veronica C. Foster"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"sophomore": "1/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "1/0",
 	"status": "O",
 	"term": 20191,
 	"type": "Research",

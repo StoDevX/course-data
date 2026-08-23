@@ -4,32 +4,38 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 20,
-	"firstyear": "10/10",
-	"instructors": [
-		"John Saurer"
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/5",
-	"learningmode": "S",
+	"instructors": [
+		"Saurer, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 10,
+	"max_jr": 5,
+	"max_so": 6,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "FH 42",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "FH 42",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.674229+00:00",
@@ -57,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:23:06.101086+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.653501+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/10",
+			"gereqs": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "1/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "FH 42",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "FH 42",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "2/6",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "2/6",
 	"status": "C",
 	"term": 20003,
 	"type": "Research",

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000084749",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 11,
-	"groupid": "0000000122",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Lisa Y. Lenertz"
+		"Lenertz, Lisa Y."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23852",
+			"name": "Lenertz, Lisa Y."
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermediate Genetics Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 394",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:08.716266+00:00",
@@ -46,6 +51,36 @@
 		{
 			"_updated": "2021-03-02T16:51:24.795677+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:07.299197+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000122",
+			"grouptype": "2",
+			"instructors": [
+				"Lisa Y. Lenertz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 394",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

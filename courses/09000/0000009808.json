@@ -4,37 +4,39 @@
 	"crsid": "0000001104",
 	"department": "PSCI",
 	"enrolled": 29,
-	"instructors": [
-		"D Christopher Brooks"
+	"enrollment_fy": 13,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Brooks, D Christopher"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14170",
+			"name": "Brooks, D Christopher"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 4,
+	"max_so": 15,
+	"max_sr": 0,
 	"name": "Comparative Politics",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 317",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 317",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 317",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.490879+00:00",
@@ -63,12 +65,53 @@
 		{
 			"_updated": "2020-10-15T15:23:18.334786+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.322137+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"D Christopher Brooks"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "7/0",
+			"sophomore": "7/15",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "7/0",
-	"sophomore": "7/15",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

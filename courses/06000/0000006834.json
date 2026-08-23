@@ -4,10 +4,19 @@
 	"crsid": "0000000297",
 	"department": "CSCI",
 	"enrolled": 9,
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Richard Allen"
+		"Allen, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "97",
+			"name": "Allen, Richard"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Programming Languages",
@@ -27,7 +36,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.167831+00:00",
@@ -42,6 +50,26 @@
 		{
 			"_updated": "2020-10-15T15:23:14.861381+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.689779+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Allen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,31 +4,37 @@
 	"crsid": "0000000454",
 	"department": "ENVST",
 	"enrolled": 25,
-	"instructors": [
-		"Eugene Bakko"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 8,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "6/8",
-	"learningmode": "S",
+	"instructors": [
+		"Bakko, Eugene"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "325",
+			"name": "Bakko, Eugene"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_jr": 8,
+	"max_sr": 6,
 	"name": "Conservation Biology",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "MW",
+			"end": "0300PM",
 			"location": "SC 129",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 129",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.004801+00:00",
@@ -55,10 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:23:12.035664+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.667078+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Eugene Bakko"
+			],
+			"instructors_full": null,
+			"junior": "6/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 129",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/6",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "10/6",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

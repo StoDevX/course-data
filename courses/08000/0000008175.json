@@ -4,31 +4,37 @@
 	"crsid": "0000000841",
 	"department": "MUSIC",
 	"enrolled": 3,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Ray Jr. Shows",
-		"Charles Gray"
+		"Gray, Charles",
+		"Shows, Ray Jr."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2691",
+			"name": "Gray, Charles"
+		},
+		{
+			"fsnum": "13275",
+			"name": "Shows, Ray Jr."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Instr Chamber Music",
 	"number": 275,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "CHM 138",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "CHM 138",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.608807+00:00",
@@ -50,6 +56,41 @@
 				"Wallace R. Shows Jr.",
 				"Charles Gray"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:47.116196+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Ray Jr. Shows",
+				"Charles Gray"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "CHM 138",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "CHM 138",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

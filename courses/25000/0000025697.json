@@ -4,38 +4,40 @@
 	"crsid": "0000001072",
 	"department": "PHYS",
 	"enrolled": 50,
-	"firstyear": "1/0",
-	"instructors": [
-		"David Nitz"
+	"enrollment_fy": 1,
+	"enrollment_jr": 27,
+	"enrollment_so": 15,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "27/39",
-	"learningmode": "S",
+	"instructors": [
+		"Nitz, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		}
+	],
 	"level": 100,
 	"max": 45,
+	"max_fy": 0,
+	"max_jr": 39,
+	"max_so": 14,
+	"max_sr": 15,
 	"name": "Principles Physics I",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 170",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 170",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 170",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.149828+00:00",
@@ -67,12 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:23:02.215706+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.309179+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"junior": "27/39",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 170",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 170",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 170",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "7/15",
+			"sophomore": "15/14",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "7/15",
-	"sophomore": "15/14",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000091726",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 25,
-	"groupid": "0000001158",
-	"grouptype": "2",
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 10,
+	"enrollment_sr": 3,
 	"instructors": [
-		"John Kim"
+		"Kim, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23509",
+			"name": "Kim, John"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "15:30",
+			"end": "0330PM",
 			"location": "RNS 240",
-			"start": "13:30"
+			"start": "01:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:15.813142+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:50.841816+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:25.129654+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "2",
+			"instructors": [
+				"John Kim"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "RNS 240",
+					"start": "13:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

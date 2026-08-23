@@ -1,14 +1,21 @@
 {
 	"clbid": "0000131577",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 12,
-	"groupid": "0000000192",
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Robert Hanson"
+		"Hanson, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3090",
+			"name": "Hanson, Robert"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Struct Chem & Equilib Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 355",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-08T08:20:23.631784+00:00",
@@ -79,6 +85,35 @@
 		{
 			"_updated": "2020-11-10T16:25:24.565410+00:00",
 			"enrolled": 14
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.448483+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Robert Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 355",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

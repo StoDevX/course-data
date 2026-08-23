@@ -4,38 +4,39 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 22,
-	"firstyear": "8/11",
-	"instructors": [
-		"Mary Griep"
+	"enrollment_fy": 8,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/4",
-	"learningmode": "S",
+	"instructors": [
+		"Griep, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2757",
+			"name": "Griep, Mary"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 11,
+	"max_jr": 4,
+	"max_so": 6,
+	"max_sr": 3,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD 216",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CAD 216",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CAD 216",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.725550+00:00",
@@ -70,12 +71,54 @@
 		{
 			"_updated": "2020-10-15T15:23:16.391510+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.658786+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/11",
+			"gereqs": null,
+			"instructors": [
+				"Mary Griep"
+			],
+			"instructors_full": null,
+			"junior": "5/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD 216",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD 216",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 216",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/3",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "4/3",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

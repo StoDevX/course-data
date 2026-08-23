@@ -1,14 +1,21 @@
 {
 	"clbid": "0000157805",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 21,
-	"groupid": "0000000194",
+	"enrollment_fy": 16,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Nancy Carpenter"
+		"Carpenter, Nancy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002805",
+			"name": "Carpenter, Nancy"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Chemical Reactions Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 355",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-15T02:19:25.658082+00:00",
@@ -86,6 +92,35 @@
 		{
 			"_updated": "2025-04-14T03:06:30.228087+00:00",
 			"enrolled": 22
+		},
+		{
+			"_updated": "2026-08-23T03:05:23.912981+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Nancy Carpenter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 355",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

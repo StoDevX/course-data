@@ -4,36 +4,36 @@
 	"crsid": "0000001196",
 	"department": "REL",
 	"enrolled": 59,
-	"instructors": [
-		"Edmund Santurri"
+	"enrollment_fy": 1,
+	"enrollment_jr": 20,
+	"enrollment_so": 30,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"BTS-T"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Santurri, Edmund"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7020",
+			"name": "Santurri, Edmund"
+		}
+	],
 	"level": 200,
 	"max": 60,
+	"max_sr": 47,
 	"name": "Chr Theol/Human Exist",
 	"number": 208,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "HH 501",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "HH 501",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "HH 501",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.056099+00:00",
@@ -57,10 +57,51 @@
 		{
 			"_updated": "2020-10-15T15:23:13.697978+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.580935+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Edmund Santurri"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "HH 501",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "HH 501",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "HH 501",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/47",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "8/47",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

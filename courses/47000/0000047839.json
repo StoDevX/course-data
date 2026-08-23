@@ -1,31 +1,38 @@
 {
 	"clbid": "0000047839",
-	"credits": 0.0,
 	"crsid": "0000016388",
 	"department": "ENVST",
 	"enrolled": 17,
-	"firstyear": "0/0",
-	"groupid": "0000000461",
-	"grouptype": "R",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Charles Jr. Umbanhowar"
+		"Umbanhowar, Charles Jr."
 	],
-	"junior": "4/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Remote Sensing & GIS Lab",
 	"number": 255,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:20",
+			"end": "0320PM",
 			"location": "RML 477",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.782992+00:00",
@@ -47,11 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:20.218777+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.496659+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000461",
+			"grouptype": "R",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"junior": "4/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:20",
+					"location": "RML 477",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "13/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "13/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20051,
 	"type": "Lab",

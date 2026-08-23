@@ -4,30 +4,36 @@
 	"crsid": "0000000373",
 	"department": "DNCTH",
 	"enrolled": 6,
-	"instructors": [
-		"Susan Bauer"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bauer, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "338",
+			"name": "Bauer, Susan"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Move/Dance Cultur/Exp",
 	"number": 264,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "SPT RHT",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "SPT RHT",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.658165+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:00.597192+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:18.836492+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan Bauer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "SPT RHT",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "SPT RHT",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

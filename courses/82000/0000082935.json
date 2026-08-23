@@ -7,30 +7,31 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120. Offered each semester and periodically during Interim."
 	],
 	"enrolled": 16,
-	"instructors": [
-		"Kay E. Smith"
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Smith, Kay E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
+	],
 	"level": 200,
 	"max": 19,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TOH 184",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TOH 184",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TOH 184",
 			"start": "11:50"
 		}
@@ -60,6 +61,43 @@
 			"_updated": "2025-10-11T21:36:09.167470+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:01.741004+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TOH 184",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TOH 184",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TOH 184",
+					"start": "11:50"
+				}
 			]
 		}
 	],

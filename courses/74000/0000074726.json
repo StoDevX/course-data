@@ -4,36 +4,35 @@
 	"crsid": "0000021538",
 	"department": "ENGL",
 	"enrolled": 28,
-	"instructors": [
-		"Jeff Solomon"
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 13,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-L"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Solomon, Jeff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21114",
+			"name": "Solomon, Jeff"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Top: 20th C Amer Lit",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RML 525",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RML 525",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RML 525",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:53.749644+00:00",
@@ -54,6 +53,46 @@
 			"gereqs": [
 				"ALS-L"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:33.384019+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jeff Solomon"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

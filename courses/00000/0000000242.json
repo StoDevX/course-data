@@ -4,37 +4,38 @@
 	"crsid": "0000000454",
 	"department": "ENVST",
 	"enrolled": 21,
-	"instructors": [
-		"Joel Olfelt"
+	"enrollment_fy": 2,
+	"enrollment_jr": 8,
+	"enrollment_so": 3,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "8/6",
-	"learningmode": "S",
+	"instructors": [
+		"Olfelt, Joel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5838",
+			"name": "Olfelt, Joel"
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Conservation Biology",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 211",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 211",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 211",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.447492+00:00",
@@ -62,11 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:23:04.906067+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:18.077276+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joel Olfelt"
+			],
+			"instructors_full": null,
+			"junior": "8/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 211",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 211",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 211",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/6",
+			"sophomore": "3/6",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "8/6",
-	"sophomore": "3/6",
 	"status": "C",
 	"term": 20001,
 	"type": "Research",

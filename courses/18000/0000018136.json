@@ -4,36 +4,36 @@
 	"crsid": "0000001686",
 	"department": "ENGL",
 	"enrolled": 18,
-	"instructors": [
-		"Lowell E. Johnson"
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Lowell E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4041",
+			"name": "Johnson, Lowell E."
+		}
+	],
 	"level": 200,
 	"max": 33,
 	"name": "The 16th Century",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 515",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 515",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "L 515",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.780203+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:22:50.873175+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:49.166455+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lowell E. Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

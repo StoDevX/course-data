@@ -1,15 +1,26 @@
 {
 	"clbid": "0000052154",
-	"credits": 0.0,
 	"crsid": "0000000400",
 	"department": "ENGL",
 	"enrolled": 31,
-	"groupid": "0000000399",
+	"enrollment_fy": 0,
+	"enrollment_jr": 21,
+	"enrollment_so": 9,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Richard DuRocher",
-		"Carol Holly"
+		"Holly, Carol",
+		"DuRocher, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3424",
+			"name": "Holly, Carol"
+		},
+		{
+			"fsnum": "1548",
+			"name": "DuRocher, Richard"
+		}
+	],
 	"level": 200,
 	"max": 40,
 	"name": "Lit in Engl 1650-1850 Dis",
@@ -23,7 +34,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:23.117647+00:00",
@@ -38,6 +48,28 @@
 		{
 			"_updated": "2020-10-15T15:23:25.240204+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:22.422795+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000399",
+			"instructors": [
+				"Richard DuRocher",
+				"Carol Holly"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

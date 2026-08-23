@@ -4,16 +4,23 @@
 	"crsid": "0000018619",
 	"department": "BMOLS",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Na/K-ATPase Activity",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-10T21:59:57.569206+00:00",
@@ -35,6 +42,26 @@
 		{
 			"_updated": "2020-10-15T15:23:54.285012+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:37.524687+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

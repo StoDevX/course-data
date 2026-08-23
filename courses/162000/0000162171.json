@@ -7,13 +7,25 @@
 		"This course provides instruction in basic steps, rhythms, and styling for quickstep, samba, tango, and west coast swing. Students also learn advanced patterns in slow waltz, building on material learned in DANCE 106. Ticket/transportation fee required. May be repeated. P/N only. Offered alternate years, usually in the spring semester. Prerequisite: DANCE 106 or permission of instructor."
 	],
 	"enrolled": 9,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"ALS-A",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Anne von Bibra"
+		"von Bibra, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Ballroom II",
@@ -24,15 +36,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "CAD Studio 3",
-			"start": "14:00"
+			"start": "02:00"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD Studio 3",
-			"start": "14:40"
+			"start": "02:40"
 		}
 	],
 	"pn": true,
@@ -62,6 +74,39 @@
 				"ALS-A",
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:23.942064+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "CAD Studio 3",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD Studio 3",
+					"start": "14:40"
+				}
 			]
 		}
 	],

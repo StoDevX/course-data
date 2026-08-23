@@ -4,49 +4,36 @@
 	"crsid": "0000000977",
 	"department": "PHIL",
 	"enrolled": 26,
-	"firstyear": "1/0",
-	"instructors": [
-		"Karen Gervais"
+	"enrollment_fy": 1,
+	"enrollment_jr": 13,
+	"enrollment_so": 7,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gervais, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2519",
+			"name": "Gervais, Karen"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 0,
 	"name": "Biomedical Ethics",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "HH 413",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.794708+00:00",
@@ -65,6 +52,60 @@
 		{
 			"_updated": "2020-10-15T15:23:14.155155+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.587860+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Karen Gervais"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

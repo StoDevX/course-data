@@ -4,17 +4,24 @@
 	"crsid": "0000000223",
 	"department": "CHEM",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Douglas J. Beussman"
+		"Beussman, Douglas J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15745",
+			"name": "Beussman, Douglas J."
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
 	"name": "IR/Maldi-TOF Proteomics",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-05-13T23:00:22.221283+00:00",
@@ -40,6 +47,27 @@
 		{
 			"_updated": "2020-10-15T15:23:56.109424+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:48.537164+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Douglas J. Beussman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

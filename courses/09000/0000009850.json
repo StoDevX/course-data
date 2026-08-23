@@ -4,10 +4,22 @@
 	"crsid": "0000001184",
 	"department": "PSYCH",
 	"enrolled": 8,
-	"instructors": [
-		"Bonnie Sherman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sherman, Bonnie"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7475",
+			"name": "Sherman, Bonnie"
+		}
+	],
 	"level": 300,
 	"max": 18,
 	"name": "Human Neuropsychology",
@@ -15,31 +27,18 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 204",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 204",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
-			"location": "HH 204",
-			"start": "11:50"
-		},
-		{
-			"day": "Mo",
-			"end": "13:50",
+			"end": "0150PM",
 			"location": "HH 204",
 			"start": "12:55"
+		},
+		{
+			"day": "MWF",
+			"end": "1245PM",
+			"location": "HH 204",
+			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.519665+00:00",
@@ -54,6 +53,53 @@
 		{
 			"_updated": "2020-10-15T15:23:18.352999+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.333408+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bonnie Sherman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 204",
+					"start": "11:50"
+				},
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 204",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

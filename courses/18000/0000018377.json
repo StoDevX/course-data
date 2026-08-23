@@ -4,30 +4,36 @@
 	"crsid": "0000000989",
 	"department": "PHIL",
 	"enrolled": 9,
-	"instructors": [
-		"Edward Langerak"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Langerak, Edward"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4599",
+			"name": "Langerak, Edward"
+		}
+	],
 	"level": 300,
 	"max": 18,
 	"name": "Ethics/Value",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "12:45",
-			"location": "H 514",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "12:45",
+			"day": "TTh",
+			"end": "1245PM",
 			"location": "H 514",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.918771+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.967361+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:12.364417+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Edward Langerak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "H 514",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "12:45",
+					"location": "H 514",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

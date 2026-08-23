@@ -1,17 +1,24 @@
 {
 	"clbid": "0000121401",
-	"credits": 0.0,
 	"crsid": "0000000120",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"groupid": "0000000119",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 14,
 	"instructors": [
-		"Lisa M. Bowers"
+		"Bowers, Lisa M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23548",
+			"name": "Bowers, Lisa M."
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Microbiology Lab",
 	"number": 231,
 	"offerings": [
@@ -23,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-21T02:21:20.513408+00:00",
@@ -91,6 +97,28 @@
 		{
 			"_updated": "2021-03-02T16:51:44.281354+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.748948+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000119",
+			"instructors": [
+				"Lisa M. Bowers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

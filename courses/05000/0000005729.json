@@ -4,36 +4,32 @@
 	"crsid": "0000000176",
 	"department": "AMCON",
 	"enrolled": 20,
+	"enrollment_fy": 19,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Matthew Rohn"
+		"Rohn, Matthew"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Freedoms: 1620-1865",
 	"number": 101,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "Steensland",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "Steensland",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "Steensland",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.591388+00:00",
@@ -71,6 +67,45 @@
 		{
 			"_updated": "2020-10-15T15:23:13.455945+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.106771+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "Steensland",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "Steensland",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "Steensland",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

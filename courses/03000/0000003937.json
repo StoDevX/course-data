@@ -4,14 +4,28 @@
 	"crsid": "0000000454",
 	"department": "ENVST",
 	"enrolled": 27,
-	"firstyear": "2/0",
-	"instructors": [
-		"Kathleen L. Shea"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 9,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "7/6",
-	"learningmode": "S",
+	"instructors": [
+		"Shea, Kathleen L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7450",
+			"name": "Shea, Kathleen L."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_so": 12,
+	"max_sr": 6,
 	"name": "Conservation Biology",
 	"number": 125,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.570002+00:00",
@@ -61,11 +74,34 @@
 		{
 			"_updated": "2020-10-15T15:23:10.525543+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.436998+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/0",
+			"gereqs": null,
+			"instructors": [
+				"Kathleen L. Shea"
+			],
+			"instructors_full": null,
+			"junior": "7/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/6",
+			"sophomore": "9/12",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "9/6",
-	"sophomore": "9/12",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

@@ -4,30 +4,32 @@
 	"crsid": "0000001128",
 	"department": "PSCI",
 	"enrolled": 28,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 17,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Kurt Burch"
+		"Burch, Kurt"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14022",
+			"name": "Burch, Kurt"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "World Politics",
 	"number": 258,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 31",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 31",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.073448+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.167428+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.694229+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kurt Burch"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 31",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 31",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

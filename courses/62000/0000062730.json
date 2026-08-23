@@ -1,15 +1,21 @@
 {
 	"clbid": "0000062730",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 31,
-	"groupid": "0000000194",
-	"grouptype": "1",
+	"enrollment_fy": 22,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Janice Pellino"
+		"Pellino, Janice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19375",
+			"name": "Pellino, Janice"
+		}
+	],
 	"level": 100,
 	"max": 27,
 	"name": "Chem Reactions/Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 350",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:37.699019+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:32.342549+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.642610+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"grouptype": "1",
+			"instructors": [
+				"Janice Pellino"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 350",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

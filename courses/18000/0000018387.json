@@ -4,30 +4,35 @@
 	"crsid": "0000002179",
 	"department": "PEAC",
 	"enrolled": 9,
-	"instructors": [
-		"Todd R. Carroll"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Carroll, Todd R."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "976",
+			"name": "Carroll, Todd R."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Ice Skating",
 	"number": 107,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:55",
-			"location": "NFLD RINK",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "14:55",
+			"day": "TTh",
+			"end": "0255PM",
 			"location": "NFLD RINK",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.923921+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.970850+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:10.181882+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Todd R. Carroll"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "NFLD RINK",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "14:55",
+					"location": "NFLD RINK",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

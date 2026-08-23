@@ -4,10 +4,22 @@
 	"crsid": "0000001186",
 	"department": "PSYCH",
 	"enrolled": 4,
-	"instructors": [
-		"Dana Gross"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gross, Dana"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2768",
+			"name": "Gross, Dana"
+		}
+	],
 	"level": 300,
 	"max": 4,
 	"name": "Sem: Preceptor Program",
@@ -15,13 +27,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "H 320",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.312036+00:00",
@@ -36,6 +47,34 @@
 		{
 			"_updated": "2020-10-15T15:23:02.244480+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.325026+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Dana Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 320",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

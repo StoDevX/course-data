@@ -1,28 +1,35 @@
 {
 	"clbid": "0000094834",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 23,
-	"groupid": "0000000192",
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jennifer Wilcox"
+		"Wilcox, Jennifer"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26289",
+			"name": "Wilcox, Jennifer"
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 355",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:20.466489+00:00",
@@ -54,11 +61,40 @@
 		{
 			"_updated": "2021-03-02T16:51:30.188583+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:30.683900+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Jennifer Wilcox"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 355",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "7/6",
+			"title": null
 		}
 	],
 	"section": "D",
 	"semester": 1,
-	"sophomore": "7/6",
 	"status": "C",
 	"term": 20141,
 	"type": "Lab",

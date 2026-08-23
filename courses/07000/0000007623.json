@@ -4,39 +4,45 @@
 	"crsid": "0000000031",
 	"department": "ART",
 	"enrolled": 49,
-	"firstyear": "11/14",
-	"instructors": [
-		"Nancy M. Thompson",
-		"Karil J. Kucera"
+	"enrollment_fy": 11,
+	"enrollment_jr": 10,
+	"enrollment_so": 17,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"junior": "10/8",
-	"learningmode": "S",
+	"instructors": [
+		"Kucera, Karil J.",
+		"Thompson, Nancy M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		},
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 100,
 	"max": 50,
+	"max_fy": 14,
+	"max_jr": 8,
+	"max_so": 14,
+	"max_sr": 5,
 	"name": "Intro/Art History I",
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CAD 305",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.732754+00:00",
@@ -71,11 +77,55 @@
 		{
 			"_updated": "2020-10-15T15:23:16.396449+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.661610+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/14",
+			"gereqs": null,
+			"instructors": [
+				"Nancy M. Thompson",
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"junior": "10/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "11/5",
+			"sophomore": "17/14",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "11/5",
-	"sophomore": "17/14",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

@@ -4,36 +4,32 @@
 	"crsid": "0000001325",
 	"department": "SPAN",
 	"enrolled": 21,
+	"enrollment_fy": 16,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Joan Odd"
+		"Odd, Joan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5798",
+			"name": "Odd, Joan"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "M 20",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "M 20",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "M 20",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.757639+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:07.863510+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:30.265080+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Joan Odd"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "M 20",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "M 20",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "M 20",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

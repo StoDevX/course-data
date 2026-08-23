@@ -4,79 +4,47 @@
 	"crsid": "0000000977",
 	"department": "PHIL",
 	"enrolled": 34,
-	"instructors": [
-		"Karen Gervais",
-		"Edward Langerak"
+	"enrollment_fy": 1,
+	"enrollment_jr": 20,
+	"enrollment_so": 7,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Langerak, Edward",
+		"Gervais, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4599",
+			"name": "Langerak, Edward"
+		},
+		{
+			"fsnum": "2519",
+			"name": "Gervais, Karen"
+		}
+	],
 	"level": 200,
 	"max": 37,
 	"name": "Biomedical Ethics",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "MFH 232",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "MFH 232",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "MFH 232",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "MFH 232",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "MFH 232",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "MFH 232",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "MFH 232",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "MFH 232",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "MFH 232",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
+			"day": "M-F",
+			"end": "1200PM",
 			"location": "MFH 232",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.118629+00:00",
@@ -91,6 +59,90 @@
 		{
 			"_updated": "2020-10-15T15:22:57.067840+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:17.928371+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Gervais",
+				"Edward Langerak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "MFH 232",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "MFH 232",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "MFH 232",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "MFH 232",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "MFH 232",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "MFH 232",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "MFH 232",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "MFH 232",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "MFH 232",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "MFH 232",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

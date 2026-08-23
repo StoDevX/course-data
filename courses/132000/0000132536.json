@@ -7,32 +7,33 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Also counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120."
 	],
 	"enrolled": 20,
-	"instructors": [
-		"Jill Dietz"
+	"enrollment_fy": 12,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Dietz, Jill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1380",
+			"name": "Dietz, Jill"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 206",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 206",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 206",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -184,6 +185,43 @@
 			"_updated": "2025-10-11T21:36:36.788967+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:38.975235+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jill Dietz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 206",
+					"start": "14:00"
+				}
 			]
 		}
 	],

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000149133",
-	"credits": 0.0,
 	"crsid": "0000001079",
 	"department": "PHYS",
 	"enrolled": 9,
-	"groupid": "0000001078",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Eric L. Hazlett"
+		"Hazlett, Eric L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31195",
+			"name": "Hazlett, Eric L."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Analytical III Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:15",
+			"end": "0315PM",
 			"location": "RNS 293",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-07-26T02:38:47.620736+00:00",
@@ -39,6 +45,35 @@
 		{
 			"_updated": "2023-10-15T02:23:32.187900+00:00",
 			"enrolled": 10
+		},
+		{
+			"_updated": "2026-08-23T03:05:15.581780+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001078",
+			"instructors": [
+				"Eric L. Hazlett"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:15",
+					"location": "RNS 293",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

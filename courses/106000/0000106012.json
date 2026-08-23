@@ -1,29 +1,35 @@
 {
 	"clbid": "0000106012",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 18,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Prabal Adhikari"
+		"Adhikari, Prabal"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26288",
+			"name": "Adhikari, Prabal"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "RNS 292",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.725633+00:00",
@@ -64,6 +70,36 @@
 		{
 			"_updated": "2021-03-02T16:51:37.218330+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:05.973633+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Prabal Adhikari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "RNS 292",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

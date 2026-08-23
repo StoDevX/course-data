@@ -4,31 +4,40 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 36,
-	"instructors": [
-		"Jon Eric Nelson",
-		"Abby Werlock"
+	"enrollment_fy": 0,
+	"enrollment_jr": 19,
+	"enrollment_so": 5,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby",
+		"Nelson, Jon Eric"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		},
+		{
+			"fsnum": "5506",
+			"name": "Nelson, Jon Eric"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 525",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 525",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.629906+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:54.884748+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:14.019547+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jon Eric Nelson",
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 525",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 525",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

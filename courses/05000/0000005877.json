@@ -4,38 +4,39 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 26,
-	"firstyear": "2/0",
-	"instructors": [
-		"Michael Swift"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 9,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "7/8",
-	"learningmode": "S",
+	"instructors": [
+		"Swift, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8210",
+			"name": "Swift, Michael"
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_fy": 0,
+	"max_jr": 8,
+	"max_so": 12,
+	"max_sr": 6,
 	"name": "Intro: Enviro Studies",
 	"number": 137,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 129",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 129",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.776762+00:00",
@@ -67,12 +68,54 @@
 		{
 			"_updated": "2020-10-15T15:23:13.524838+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.479520+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/0",
+			"gereqs": null,
+			"instructors": [
+				"Michael Swift"
+			],
+			"instructors_full": null,
+			"junior": "7/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 129",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 129",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "8/6",
+			"sophomore": "9/12",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "8/6",
-	"sophomore": "9/12",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

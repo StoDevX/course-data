@@ -4,30 +4,36 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 16,
-	"instructors": [
-		"Martha Harris"
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Harris, Martha"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10033",
+			"name": "Harris, Martha"
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_sr": 18,
 	"name": "Principles of Educ",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 10",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 10",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.422654+00:00",
@@ -51,11 +57,45 @@
 		{
 			"_updated": "2020-10-15T15:23:07.639034+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.207760+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Martha Harris"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "7/18",
+			"title": null
 		}
 	],
 	"section": "D",
 	"semester": 1,
-	"senior": "7/18",
 	"status": "C",
 	"term": 20011,
 	"type": "Research",

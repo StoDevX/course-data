@@ -4,36 +4,35 @@
 	"crsid": "0000000027",
 	"department": "ART",
 	"enrolled": 15,
-	"instructors": [
-		"Jan Shoger"
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Shoger, Jan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7486",
+			"name": "Shoger, Jan"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Honors Found Drawing",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 216",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 216",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 216",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:08.801892+00:00",
@@ -54,6 +53,47 @@
 		{
 			"_updated": "2020-10-15T15:23:07.569178+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.163628+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jan Shoger"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 216",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000126228",
-	"credits": 0.0,
 	"crsid": "0000000665",
 	"department": "JAPAN",
 	"enrolled": 6,
-	"groupid": "0000000664",
+	"enrollment_fy": 2,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Japanese II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 112",
 			"start": "12:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-03-07T05:14:54.728181+00:00",
@@ -81,6 +87,32 @@
 		{
 			"_updated": "2020-10-15T15:24:13.035453+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.670458+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000664",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 112",
+					"start": "12:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

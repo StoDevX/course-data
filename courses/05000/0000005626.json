@@ -4,48 +4,35 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 9,
-	"instructors": [
-		"Donald Kilburg"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS",
+		"NST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kilburg, Donald"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15824",
+			"name": "Kilburg, Donald"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Principles: Psych",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "HH 403",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "HH 403",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "HH 403",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "HH 403",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "HH 403",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:00.471860+00:00",
@@ -60,6 +47,60 @@
 		{
 			"_updated": "2020-10-15T15:23:12.829262+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:40.117600+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Donald Kilburg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "HH 403",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "HH 403",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "HH 403",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "HH 403",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "HH 403",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

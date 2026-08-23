@@ -4,16 +4,24 @@
 	"crsid": "0000000415",
 	"department": "ENGL",
 	"enrolled": 29,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 12,
+	"enrollment_sr": 7,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "The Moral Vision",
 	"number": 253,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.666435+00:00",
@@ -28,6 +36,23 @@
 		{
 			"_updated": "2020-10-15T15:22:47.268498+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:45.318354+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

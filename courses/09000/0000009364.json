@@ -4,30 +4,36 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 16,
-	"instructors": [
-		"Anthony Roberts"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roberts, Anthony"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6691",
+			"name": "Roberts, Anthony"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Modern Dance I (.25)",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD _STUDIO_1",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "CAD _STUDIO_1",
 			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.717330+00:00",
@@ -48,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:18.143873+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.636715+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD _STUDIO_1",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD _STUDIO_1",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

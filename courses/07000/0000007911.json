@@ -4,42 +4,42 @@
 	"crsid": "0000000461",
 	"department": "ENVST",
 	"enrolled": 7,
-	"instructors": [
-		"Brian C. Welch"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"NSL",
+		"NST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Welch, Brian C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13277",
+			"name": "Welch, Brian C."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Remote Sensing & Gis",
 	"number": 255,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RML 477",
 			"start": "10:45"
 		},
 		{
 			"day": "We",
-			"end": "11:40",
+			"end": "0320PM",
 			"location": "RML 477",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "RML 477",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "15:20",
-			"location": "RML 477",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.353996+00:00",
@@ -54,6 +54,53 @@
 		{
 			"_updated": "2020-10-15T15:23:16.523471+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.737620+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Brian C. Welch"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RML 477",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RML 477",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RML 477",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "15:20",
+					"location": "RML 477",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

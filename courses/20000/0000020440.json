@@ -4,36 +4,31 @@
 	"crsid": "0000000738",
 	"department": "MATH",
 	"enrolled": 23,
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 17,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Arnold Ostebee"
+		"Ostebee, Arnold"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5963",
+			"name": "Ostebee, Arnold"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Multivariable Calc",
 	"number": 226,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "SC 184",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 184",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "MWF",
+			"end": "1240PM",
 			"location": "SC 184",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.718396+00:00",
@@ -48,6 +43,47 @@
 		{
 			"_updated": "2020-10-15T15:22:54.943018+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:19.963502+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Arnold Ostebee"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 184",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 184",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 184",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,10 +4,19 @@
 	"crsid": "0000035998",
 	"department": "NORW",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Kari L. Dorer"
+		"Dorer, Kari L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14082",
+			"name": "Dorer, Kari L."
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "FLC - Norwegian",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 212",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-10-15T15:24:17.274740+00:00",
@@ -76,6 +84,34 @@
 			"instructors": [
 				"Kari Lie Dorer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:39.014711+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kari L. Dorer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 212",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

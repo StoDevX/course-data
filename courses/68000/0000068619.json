@@ -1,15 +1,21 @@
 {
 	"clbid": "0000068619",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 24,
-	"groupid": "0000000194",
-	"grouptype": "2",
+	"enrollment_fy": 17,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Bill P. Roberts"
+		"Roberts, Bill P."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19399",
+			"name": "Roberts, Bill P."
+		}
+	],
 	"level": 100,
 	"max": 31,
 	"name": "Chem Reactions/Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:45.589285+00:00",
@@ -52,6 +57,36 @@
 			"instructors": [
 				"William P. Roberts"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:15.494241+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"grouptype": "2",
+			"instructors": [
+				"Bill P. Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

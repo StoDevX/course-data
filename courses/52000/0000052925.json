@@ -7,14 +7,25 @@
 		"Opera Workshop focuses on the preparation for performance of a one-act opera or opera scenes. Students receive coaching and performance experience through individual and group singer/actor exercises. The course culminates with public performances of fully staged and costumed lyric theater work. May be repeated once. A class fee may be required. Offered during Interim."
 	],
 	"enrolled": 37,
-	"firstyear": "9/4",
+	"enrollment_fy": 9,
+	"enrollment_jr": 6,
+	"enrollment_so": 7,
+	"enrollment_sr": 15,
 	"instructors": [
-		"James McKeel"
+		"McKeel, James"
 	],
-	"junior": "6/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5210",
+			"name": "McKeel, James"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 4,
+	"max_jr": 5,
+	"max_so": 5,
+	"max_sr": 6,
 	"name": "Opera Workshop",
 	"notes": [
 		"Open to first-year students"
@@ -22,52 +33,16 @@
 	"number": 269,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:30",
+			"day": "M-Th",
+			"end": "0300PM",
+			"location": "CHM Urness",
+			"start": "01:30"
+		},
+		{
+			"day": "M-Th",
+			"end": "1230PM",
 			"location": "CHM Urness",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:30",
-			"location": "CHM Urness",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:30",
-			"location": "CHM Urness",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:30",
-			"location": "CHM Urness",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "CHM Urness",
-			"start": "13:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "CHM Urness",
-			"start": "13:30"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "CHM Urness",
-			"start": "13:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "CHM Urness",
-			"start": "13:30"
 		}
 	],
 	"pn": false,
@@ -100,11 +75,80 @@
 		{
 			"_updated": "2020-10-15T15:23:24.326474+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:19.864889+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "9/4",
+			"instructors": [
+				"James McKeel"
+			],
+			"instructors_full": null,
+			"junior": "6/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:30",
+					"location": "CHM Urness",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:30",
+					"location": "CHM Urness",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:30",
+					"location": "CHM Urness",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "CHM Urness",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "CHM Urness",
+					"start": "13:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "CHM Urness",
+					"start": "13:30"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "CHM Urness",
+					"start": "13:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "CHM Urness",
+					"start": "13:30"
+				}
+			],
+			"section": null,
+			"senior": "15/6",
+			"sophomore": "7/5"
 		}
 	],
 	"semester": 2,
-	"senior": "15/6",
-	"sophomore": "7/5",
 	"status": "C",
 	"term": 20062,
 	"type": "Research",

@@ -4,30 +4,36 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 15,
-	"instructors": [
-		"Barbara Thatcher"
+	"enrollment_fy": 7,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thatcher, Barbara"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14135",
+			"name": "Thatcher, Barbara"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Modern Dance I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "DANCE ST 1",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "DANCE ST 1",
+			"day": "MW",
+			"end": "1245PM",
+			"location": "DANCE  ST 1",
 			"start": "11:50"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:59.522108+00:00",
@@ -48,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:07.646761+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.196063+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Barbara Thatcher"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "DANCE ST 1",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "DANCE ST 1",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

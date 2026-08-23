@@ -7,14 +7,24 @@
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in game playing."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 19,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"Joseph R. Kronzer"
+		"Kronzer, Joseph R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "24184",
+			"name": "Kronzer, Joseph R."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Badminton",
@@ -24,19 +34,7 @@
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "TBA",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "TBA",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "TBA",
 			"start": "09:05"
@@ -95,6 +93,47 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.949823+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"Joseph R. Kronzer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "TBA",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "TBA",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "TBA",
+					"start": "09:05"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

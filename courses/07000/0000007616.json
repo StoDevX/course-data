@@ -4,32 +4,45 @@
 	"crsid": "0000000022",
 	"department": "ART",
 	"enrolled": 11,
-	"firstyear": "6/8",
-	"instructors": [
-		"Irve Dell"
+	"enrollment_fy": 6,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "0/2",
-	"learningmode": "S",
+	"instructors": [
+		"Dell, Irve"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1369",
+			"name": "Dell, Irve"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 8,
+	"max_jr": 2,
+	"max_so": 4,
+	"max_sr": 2,
 	"name": "Foundation Sculpture",
 	"number": 114,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:30",
+			"end": "0430PM",
 			"location": "CAD 106",
-			"start": "15:05"
+			"start": "03:05"
 		},
 		{
 			"day": "Th",
-			"end": "16:50",
+			"end": "0450PM",
 			"location": "CAD 106",
-			"start": "15:55"
+			"start": "03:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.727796+00:00",
@@ -65,12 +78,48 @@
 		{
 			"_updated": "2020-10-15T15:23:16.392979+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.659640+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/8",
+			"gereqs": null,
+			"instructors": [
+				"Irve Dell"
+			],
+			"instructors_full": null,
+			"junior": "0/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:30",
+					"location": "CAD 106",
+					"start": "15:05"
+				},
+				{
+					"day": "Th",
+					"end": "16:50",
+					"location": "CAD 106",
+					"start": "15:55"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/2",
+			"sophomore": "3/4",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "3/4",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

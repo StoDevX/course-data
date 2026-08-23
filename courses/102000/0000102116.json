@@ -7,14 +7,25 @@
 		"This capstone course is for senior majors. Students begin a professional web presence to illustrate their readiness to begin practice as a generalist social worker. Classes emphasize auxiliary knowledge and skills in leadership. Students discuss emerging social work issues and provide peer assistance with professional development strategies. Evaluation includes oral presentation, ethics case analysis, professional development reflection assignments, and self-evaluation of achievement of program competencies. Counts toward management studies concentration. Prerequisite: SWRK 380."
 	],
 	"enrolled": 15,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Mary Carlsen"
+		"Carlsen, Mary"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 18,
 	"name": "Social Worker as Professional",
 	"notes": [
 		"This course is open to Senior Social Work majors only."
@@ -23,9 +34,9 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "TOH 300",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
@@ -72,11 +83,38 @@
 		{
 			"_updated": "2020-10-15T15:23:57.997464+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.501219+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "22:00",
+					"location": "TOH 300",
+					"start": "19:00"
+				}
+			],
+			"section": null,
+			"senior": "15/18",
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"senior": "15/18",
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20153,
 	"type": "Research",

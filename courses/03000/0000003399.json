@@ -4,36 +4,35 @@
 	"crsid": "0000001132",
 	"department": "PSCI",
 	"enrolled": 32,
-	"instructors": [
-		"Kris Thalhammer"
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 16,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thalhammer, Kris"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8281",
+			"name": "Thalhammer, Kris"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Latin Amer Politics",
 	"number": 264,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 31",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 31",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "M 31",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.074117+00:00",
@@ -54,6 +53,47 @@
 			"instructors": [
 				"Kristina Thalhammer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.694460+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kris Thalhammer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 31",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 31",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 31",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

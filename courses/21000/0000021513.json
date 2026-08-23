@@ -4,36 +4,32 @@
 	"crsid": "0000000831",
 	"department": "MUSIC",
 	"enrolled": 30,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 12,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Alice Hanson"
+		"Hanson, Alice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3030",
+			"name": "Hanson, Alice"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Hist & Lit of Music I",
 	"number": 241,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CHM 239",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CHM 239",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CHM 239",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.159729+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:56.485507+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:55.753092+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Alice Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CHM 239",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CHM 239",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CHM 239",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

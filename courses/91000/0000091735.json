@@ -4,26 +4,38 @@
 	"crsid": "0000026698",
 	"department": "AR/AS",
 	"enrolled": 9,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Karil J. Kucera",
-		"Ka F. Wong"
+		"Wong, Ka F.",
+		"Kucera, Karil J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23552",
+			"name": "Wong, Ka F."
+		},
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 200,
 	"max": 10,
+	"max_fy": 0,
 	"name": "FLC - Chinese",
 	"number": 270,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "TOH 308",
-			"start": "17:00"
+			"start": "05:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:45:45.801234+00:00",
@@ -46,6 +58,36 @@
 		{
 			"_updated": "2020-10-15T15:23:48.967270+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:17.677793+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Karil J. Kucera",
+				"Ka F. Wong"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "TOH 308",
+					"start": "17:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

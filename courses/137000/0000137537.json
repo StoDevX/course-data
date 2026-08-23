@@ -1,13 +1,21 @@
 {
 	"clbid": "0000137537",
-	"credits": 0.0,
 	"crsid": "0000033748",
 	"department": "CHEM",
 	"enrolled": 17,
+	"enrollment_fy": 11,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jeff J. Schwinefus"
+		"Schwinefus, Jeff J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14915",
+			"name": "Schwinefus, Jeff J."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Introductory Chemistry Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-16T16:45:13.957133+00:00",
@@ -85,6 +92,34 @@
 			"instructors": [
 				"Jeffrey J. Schwinefus"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.795252+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jeff J. Schwinefus"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

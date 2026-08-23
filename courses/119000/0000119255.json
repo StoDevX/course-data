@@ -1,32 +1,52 @@
 {
-	"clbid": 119255,
+	"clbid": "0000119255",
 	"credits": 1.0,
-	"crsid": 626,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000000626",
+	"department": "HIST",
 	"description": [
 		"This course offers selected surveys in historical studies. Topics depend on instructor. Recent topics have included \"Women in Early America,\" \"U.S.-Latin American Relations,\" and \"Doing Public History.\" May be repeated if topic is different. Offered periodically."
 	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"HWC",
 		"ORC"
 	],
 	"instructors": [
-		"Dolores Peters"
+		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"HH 429",
-		"HH 429"
-	],
+	"max": 18,
 	"name": "Top: European History au Cinema",
 	"notes": [
-		"Strongly recommended: Completion of at least one college-level course in modern",
-		"European history prior to taking this course.",
-		"This course does not fulfill an HWC."
+		"Strongly recommended:  Completion of at least one college-level course in modern",
+		"European history prior to taking this course.                                   ",
+		"This course is now HIST 293."
 	],
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "TBA",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "TBA",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -55,16 +75,50 @@
 				"TBA",
 				"TBA"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.880993+00:00",
+			"clbid": 119255,
+			"crsid": 626,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dolores Peters"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 429",
+				"HH 429"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Strongly recommended: Completion of at least one college-level course in modern",
+				"European history prior to taking this course.",
+				"This course does not fulfill an HWC."
+			],
+			"offerings": null,
+			"status": "O",
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20181,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2018

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000100395",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 18,
-	"groupid": "0000001158",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Jessica R. Petok"
+		"Petok, Jess R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26237",
+			"name": "Petok, Jess R."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 240",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-28T23:00:22.956458+00:00",
@@ -53,6 +59,35 @@
 		{
 			"_updated": "2020-10-15T15:23:56.193323+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:50.255716+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"instructors": [
+				"Jessica R. Petok"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "16:00",
+					"location": "RNS 240",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

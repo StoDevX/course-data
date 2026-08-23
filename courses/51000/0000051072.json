@@ -1,30 +1,81 @@
 {
-	"clbid": 51072,
+	"clbid": "0000051072",
 	"credits": 0.25,
-	"crsid": 1017,
-	"departments": [
-		"PEAC"
+	"crsid": "0000001017",
+	"department": "PEAC",
+	"description": [
+		"Students learn the principles of training, basic techniques and safety procedures. Students develop and implement a personal training plan during the course."
 	],
-	"description": "Students learn the principles of training, basic techniques and safety procedures. Students develop and implement a personal training plan during the course.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"PHA"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 100,
-	"locations": [
-		"MFH_WT_RM"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 100,
+	"max": 0,
 	"name": "Wt Training-Men",
-	"notes": "PE Activity 141A has been cancelled.",
+	"notes": [
+		"PE Activity 141A has been cancelled."
+	],
 	"number": 141,
+	"offerings": [
+		{
+			"day": "MW",
+			"end": "08:55",
+			"location": "MFH_WT_RM",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:16.776013+00:00",
+			"clbid": 51072,
+			"crsid": 1017,
+			"department": null,
+			"departments": [
+				"PEAC"
+			],
+			"description": "Students learn the principles of training, basic techniques and safety procedures. Students develop and implement a personal training plan during the course.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"locations": [
+				"MFH_WT_RM"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "PE Activity 141A has been cancelled.",
+			"offerings": null,
+			"times": [
+				"MW 0800-0855"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "X",
 	"term": 20061,
-	"times": [
-		"MW 0800-0855"
-	],
 	"title": "Weight Training Men",
 	"type": "Research",
 	"year": 2006

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000088690",
-	"credits": 0.0,
 	"crsid": "0000001265",
 	"department": "RUSSN",
 	"enrolled": 20,
-	"groupid": "0000001264",
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 15,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Marc Robinson"
+		"Robinson, Marc"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6710",
+			"name": "Robinson, Marc"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Russian I Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "TOH 316",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:12.067968+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:48.744067+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:20.423523+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001264",
+			"instructors": [
+				"Marc Robinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "TOH 316",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

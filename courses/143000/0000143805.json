@@ -1,14 +1,21 @@
 {
 	"clbid": "0000143805",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 17,
-	"groupid": "0000000192",
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Bill P. Roberts"
+		"Roberts, Bill P."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19399",
+			"name": "Roberts, Bill P."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Struct Chem & Equilib Lab",
@@ -22,13 +29,33 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-08-09T02:31:53.588226+00:00",
 			"instructors": [
 				"William P. Roberts"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:54.273884+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Bill P. Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

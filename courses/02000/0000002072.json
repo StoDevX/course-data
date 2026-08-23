@@ -4,30 +4,35 @@
 	"crsid": "0000000392",
 	"department": "ENGL",
 	"enrolled": 25,
-	"instructors": [
-		"Karen Cherewatuk"
+	"enrollment_fy": 1,
+	"enrollment_jr": 0,
+	"enrollment_so": 20,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cherewatuk, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1076",
+			"name": "Cherewatuk, Karen"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Literary Studies",
 	"number": 185,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 421",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 421",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.451606+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:07.657454+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.524144+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Cherewatuk"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 421",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 421",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

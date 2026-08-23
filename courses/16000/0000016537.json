@@ -4,17 +4,23 @@
 	"crsid": "0000002468",
 	"department": "THEAT",
 	"enrolled": 4,
-	"halfcredit": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Debate/Forensics",
 	"number": 223,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:17.457117+00:00",
@@ -29,6 +35,25 @@
 		{
 			"_updated": "2020-10-15T15:22:48.279269+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:47.918975+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "2",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

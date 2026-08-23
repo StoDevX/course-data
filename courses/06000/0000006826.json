@@ -4,10 +4,19 @@
 	"crsid": "0000000281",
 	"department": "ECON",
 	"enrolled": 23,
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Xun Pomponio"
+		"Pomponio, Xun"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6399",
+			"name": "Pomponio, Xun"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "International Econ",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 030",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 030",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.158542+00:00",
@@ -42,6 +50,40 @@
 		{
 			"_updated": "2020-10-15T15:23:14.857665+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.701846+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Xun Pomponio"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 030",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 030",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

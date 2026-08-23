@@ -4,36 +4,36 @@
 	"crsid": "0000000192",
 	"department": "CHEM",
 	"enrolled": 49,
-	"instructors": [
-		"Greg W. Muth"
+	"enrollment_fy": 39,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Muth, Greg W."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14961",
+			"name": "Muth, Greg W."
+		}
+	],
 	"level": 100,
 	"max": 55,
 	"name": "Struct Chem & Equilib",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 378",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 378",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 378",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.468211+00:00",
@@ -54,6 +54,46 @@
 			"instructors": [
 				"Gregory W. Muth"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.771421+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Greg W. Muth"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 378",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

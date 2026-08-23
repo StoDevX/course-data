@@ -4,36 +4,32 @@
 	"crsid": "0000000726",
 	"department": "LATIN",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Anne Groton"
+		"Groton, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2771",
+			"name": "Groton, Anne"
+		}
+	],
 	"level": 300,
 	"max": 0,
 	"name": "IR/Ancient & Medieval Selections",
 	"number": 398,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "TOH 300",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "TOH 300",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "TOH 300",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-11-05T02:24:43.443835+00:00",
@@ -46,6 +42,44 @@
 		{
 			"_updated": "2023-12-20T02:12:14.481813+00:00",
 			"enrolled": 6
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.965620+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anne Groton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "TOH 300",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "TOH 300",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "TOH 300",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false
 		}
 	],
 	"section": "A",

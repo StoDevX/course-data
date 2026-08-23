@@ -4,29 +4,26 @@
 	"crsid": "0000000237",
 	"department": "CHIN",
 	"enrolled": 7,
+	"enrollment_fy": 4,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Shannon Cannella"
+		"Cannella, Shannon"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15921",
+			"name": "Cannella, Shannon"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Beginning Chinese I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "OM 001",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "OM 001",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "OM 001",
 			"start": "09:05"
@@ -39,7 +36,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.645542+00:00",
@@ -54,6 +50,51 @@
 		{
 			"_updated": "2020-10-15T15:23:13.476736+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.142526+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Shannon Cannella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "OM 001",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "OM 001",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

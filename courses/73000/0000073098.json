@@ -1,33 +1,88 @@
 {
-	"clbid": 73098,
+	"clbid": "0000073098",
 	"credits": 0.25,
-	"crsid": 1008,
-	"departments": [
-		"ESAC"
+	"crsid": "0000001008",
+	"department": "ESAC",
+	"description": [
+		"This course offers instruction in all skills and techniques necessary to obtain PADI Open Water certification. Lab fee includes use of equipment."
 	],
-	"description": "This course offers instruction in all skills and techniques necessary to obtain PADI Open Water certification. Lab fee includes use of equipment.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"PHA",
 		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"John Campion"
+		"Campion, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "920",
+			"name": "Campion, John"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"SAC_POOL"
-	],
+	"max": 30,
 	"name": "Scuba Diving",
-	"notes": "This course has been canceled.",
+	"notes": [
+		"This course has been canceled."
+	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "Fr",
+			"end": "0900PM",
+			"location": "SAC_POOL",
+			"start": "06:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:25.942048+00:00",
+			"clbid": 73098,
+			"crsid": 1008,
+			"department": null,
+			"departments": [
+				"ESAC"
+			],
+			"description": "This course offers instruction in all skills and techniques necessary to obtain PADI Open Water certification. Lab fee includes use of equipment.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SPM"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"John Campion"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SAC_POOL"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been canceled.",
+			"offerings": null,
+			"section": null,
+			"times": [
+				"F 0600-0900PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "X",
 	"term": 20101,
-	"times": [
-		"F 0600-0900PM"
-	],
 	"title": "SCUBA",
 	"type": "Research",
 	"year": 2010

@@ -7,35 +7,34 @@
 		"The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Depending on course content, can also count toward Chinese and/or Japanese majors. Prerequisite: determined by instructor."
 	],
 	"enrolled": 15,
+	"enrollment_fy": 8,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Eric R. Becklin"
+		"Becklin, Eric R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20451",
+			"name": "Becklin, Eric R."
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Top: The Mongols",
 	"number": 200,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "TOH 114",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "TOH 114",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "TOH 114",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -147,6 +146,46 @@
 				"MCG",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.424535+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Eric R. Becklin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "TOH 114",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "TOH 114",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "TOH 114",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

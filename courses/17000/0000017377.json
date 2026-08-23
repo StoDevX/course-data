@@ -4,10 +4,23 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 22,
-	"instructors": [
-		"Konrad Talbot"
+	"enrollment_fy": 8,
+	"enrollment_jr": 0,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Talbot, Konrad"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8227",
+			"name": "Talbot, Konrad"
+		}
+	],
 	"level": 100,
 	"max": 60,
 	"name": "Principles of Psych",
@@ -15,25 +28,18 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "11:40",
-			"location": "H 307",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "H 307",
-			"start": "10:45"
-		},
-		{
-			"day": "Mo",
-			"end": "20:00",
+			"end": "0800PM",
 			"location": "SC 282",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "MW",
+			"end": "11:40",
+			"location": "H 307",
+			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.915827+00:00",
@@ -48,6 +54,46 @@
 		{
 			"_updated": "2020-10-15T15:22:49.699414+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:22.689030+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Konrad Talbot"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "H 307",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "H 307",
+					"start": "10:45"
+				},
+				{
+					"day": "Mo",
+					"end": "20:00",
+					"location": "SC 282",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

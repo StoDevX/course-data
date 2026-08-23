@@ -4,30 +4,35 @@
 	"crsid": "0000001015",
 	"department": "PEAC",
 	"enrolled": 22,
-	"instructors": [
-		"Paul Miller"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 9,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Miller, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5319",
+			"name": "Miller, Paul"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC FH",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC FH",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.608684+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:23:05.013852+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.684152+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul Miller"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC FH",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC FH",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

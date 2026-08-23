@@ -7,29 +7,30 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Prerequisite: Mathematics 120 or 121. Offered each semester."
 	],
 	"enrolled": 18,
-	"instructors": [
-		"Paul Humke"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 11,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Humke, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3558",
+			"name": "Humke, Paul"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 297",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 297",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 297",
 			"start": "10:45"
@@ -68,6 +69,43 @@
 			"_updated": "2025-10-11T21:36:02.834709+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:27.557950+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul Humke"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 297",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 297",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 297",
+					"start": "10:45"
+				}
 			]
 		}
 	],

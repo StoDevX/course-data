@@ -1,14 +1,21 @@
 {
 	"clbid": "0000143803",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 15,
-	"groupid": "0000000192",
+	"enrollment_fy": 14,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brenda Farrell"
+		"Farrell, Brenda"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34093",
+			"name": "Farrell, Brenda"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Struct Chem & Equilib Lab",
@@ -16,13 +23,43 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 355",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:04:53.960835+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Brenda Farrell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 355",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
+		}
+	],
 	"section": "A",
 	"semester": 1,
 	"status": "O",

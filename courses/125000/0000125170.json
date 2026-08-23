@@ -7,37 +7,48 @@
 		"Recent and planned topics include parallel and distributed computing, mobile computer graphics, and relational database systems. May be repeated if topic is different. Offered alternate years."
 	],
 	"enrolled": 25,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
 	"instructors": [
-		"Elizabeth A. Jensen"
+		"Jensen, Elizabeth A."
 	],
-	"junior": "9/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16680",
+			"name": "Jensen, Elizabeth A."
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 4,
+	"max_so": 0,
+	"max_sr": 16,
 	"name": "Top: Robotics",
 	"notes": [
-		"Prerequisite: CS 251",
-		"Open only to Computer Science majors.",
-		"This course has class-year limits and is only open to rising seniors and juniors."
+		"Prerequisite:  CS 251                                                           ",
+		"Open only to Computer Science majors.                                           ",
+		"This course has class-year limits and is only open to rising seniors & juniors."
 	],
 	"number": 300,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RNS 202",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 202",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": "CS 251",
+	"prerequisites": " CS 251                                                           ",
 	"revisions": [
 		{
 			"_updated": "2019-02-06T05:03:18.287471+00:00",
@@ -152,11 +163,50 @@
 			"_updated": "2021-04-20T17:04:01.931820+00:00",
 			"junior": "10/4",
 			"senior": "15/16"
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.766099+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Elizabeth A. Jensen"
+			],
+			"instructors_full": null,
+			"junior": "9/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: CS 251",
+				"Open only to Computer Science majors.",
+				"This course has class-year limits and is only open to rising seniors and juniors."
+			],
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RNS 202",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 202",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": "CS 251",
+			"section": null,
+			"senior": "16/16",
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"senior": "16/16",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20191,
 	"title": "Topics in Computer Science",

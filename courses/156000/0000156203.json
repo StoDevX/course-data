@@ -7,16 +7,29 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during January Term. Also counts toward business and management studies concentration. Prerequisite: MATH 119, MATH 120 or CSCI 221."
 	],
 	"enrolled": 23,
+	"enrollment_fy": 12,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Adam H. Berliner"
+		"Berliner, Adam H."
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21092",
+			"name": "Berliner, Adam H."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 3,
+	"max_so": 9,
+	"max_sr": 2,
 	"name": "Elem Linear Algebra",
 	"notes": [
 		"This course has class-year limits."
@@ -24,19 +37,7 @@
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "TOH 184",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "TOH 184",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "TOH 184",
 			"start": "09:05"
@@ -157,12 +158,52 @@
 			],
 			"junior": "3/3",
 			"sophomore": "5/9"
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.573851+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Adam H. Berliner"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "TOH 184",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "TOH 184",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "TOH 184",
+					"start": "09:05"
+				}
+			],
+			"senior": "2/2",
+			"sophomore": "7/9"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "7/9",
 	"status": "O",
 	"term": 20241,
 	"title": "Elementary Linear Algebra",

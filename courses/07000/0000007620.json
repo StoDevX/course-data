@@ -4,17 +4,31 @@
 	"crsid": "0000000025",
 	"department": "ART",
 	"enrolled": 11,
-	"firstyear": "2/2",
-	"instructors": [
-		"Patrick T. Kelley"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors": [
+		"Kelley, Patrick T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14002",
+			"name": "Kelley, Patrick T."
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 2,
+	"max_jr": 2,
+	"max_so": 4,
+	"max_sr": 1,
 	"name": "Found Digital Media",
 	"notes": [
-		"First day of class meets at 8:00 in HH313. Thereafter meets normal times",
+		"First day of class meets at 8:00 in HH313.  Thereafter meets normal times       ",
 		"and location."
 	],
 	"number": 117,
@@ -33,7 +47,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.730750+00:00",
@@ -69,12 +82,38 @@
 		{
 			"_updated": "2020-10-15T15:23:16.395028+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.660768+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/2",
+			"gereqs": null,
+			"instructors": [
+				"Patrick T. Kelley"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"First day of class meets at 8:00 in HH313. Thereafter meets normal times",
+				"and location."
+			],
+			"prerequisites": false,
+			"senior": "5/1",
+			"sophomore": "2/4",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "5/1",
-	"sophomore": "2/4",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

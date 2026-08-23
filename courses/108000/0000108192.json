@@ -1,14 +1,21 @@
 {
 	"clbid": "0000108192",
-	"credits": 0.0,
 	"crsid": "0000001164",
 	"department": "PSYCH",
 	"enrolled": 14,
-	"groupid": "0000001163",
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Jessica R. Petok"
+		"Petok, Jess R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26237",
+			"name": "Petok, Jess R."
+		}
+	],
 	"level": 200,
 	"max": 14,
 	"name": "Cognitive Psychology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 240",
 			"start": "12:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.214624+00:00",
@@ -51,6 +57,35 @@
 		{
 			"_updated": "2020-10-15T15:24:01.482573+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:12.203598+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001163",
+			"instructors": [
+				"Jessica R. Petok"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 240",
+					"start": "12:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

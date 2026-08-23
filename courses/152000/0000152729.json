@@ -6,16 +6,26 @@
 	"description": [
 		"This study of chemical stoichiometry, equilibrium, acid-base chemistry, coordination chemistry, and atomic and molecular structure supplies the fundamental background on which all later chemistry courses depend. It includes applications of equilibrium principles to acid-base chemistry. Students attend three classes and one three-hour laboratory per week. Students planning to continue in chemistry should consider concurrent registration in MATH 119 or MATH 120. The course cannot be taken in conjunction with or after credit in CHEM 121 or CHEM 122. Offered annually in the fall semester. Also counts toward biology major and biomolecular science concentration. Prerequisite: placement via online placement survey."
 	],
-	"enrolled": 15,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"SED",
-		"NTS"
+		"NSC",
+		"NSL",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000000192",
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Struct Chem & Equilib",
@@ -25,20 +35,8 @@
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 390",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 390",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 390",
 			"start": "11:50"
 		}
@@ -57,11 +55,51 @@
 		{
 			"_updated": "2023-07-08T03:00:13.771304+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.913783+00:00",
+			"enrolled": 15,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SED",
+				"NTS"
+			],
+			"groupid": "0000000192",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				}
+			],
+			"status": "C"
 		}
 	],
 	"section": "D",
 	"semester": 1,
-	"status": "C",
+	"status": "X",
 	"term": 20231,
 	"title": "Structural Chemistry and Equilibrium",
 	"type": "Research",

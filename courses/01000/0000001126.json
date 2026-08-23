@@ -4,30 +4,32 @@
 	"crsid": "0000000266",
 	"department": "ECON",
 	"enrolled": 17,
+	"enrollment_fy": 4,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Bruce Dalgaard"
+		"Dalgaard, Bruce"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1333",
+			"name": "Dalgaard, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Econ Develop in Japan",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 15",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 15",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.768088+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:06.161009+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:23.316854+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Bruce Dalgaard"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 15",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 15",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

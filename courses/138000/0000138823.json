@@ -7,37 +7,36 @@
 		"This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one three-hour laboratory per week. Offered annually in the spring semester. Also counts toward biomolecular science concentration. Prerequisite: CHEM 125, or CHEM 122, or CHEM 121 and CHEM 123, and concurrent or previous enrollment in MATH 119 or MATH 120, or permission of instructor."
 	],
 	"enrolled": 30,
+	"enrollment_fy": 22,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"NTS"
+		"NSC",
+		"NSL",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000000194",
 	"instructors": [
-		"Mary Walczak"
+		"Walczak, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8868",
+			"name": "Walczak, Mary"
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Chemical Reactions",
 	"notes": [
-		"Students in Chem 126 must also register for one Chem 126 lab.",
+		"Students in Chem 126 must also register for one Chem 126 lab.                   ",
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 390",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 390",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 390",
 			"start": "09:05"
@@ -100,6 +99,50 @@
 			"gereqs": [
 				"SED",
 				"NTS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.621074+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000000194",
+			"instructors": [
+				"Mary Walczak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Chem 126 must also register for one Chem 126 lab.",
+				"Supplemental Instruction (SI) is available for this course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 390",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 390",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 390",
+					"start": "09:05"
+				}
 			]
 		}
 	],

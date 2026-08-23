@@ -4,49 +4,33 @@
 	"crsid": "0000000781",
 	"department": "MGMT",
 	"enrolled": 25,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 8,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Sian E. Christie"
+		"Christie, Sian E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16804",
+			"name": "Christie, Sian E."
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 0,
 	"name": "New Venture Formulat",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "Mod 3",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "Mod 3",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "Mod 3",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "Mod 3",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "Mod 3",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:21.488184+00:00",
@@ -71,6 +55,59 @@
 		{
 			"_updated": "2020-10-15T15:23:24.302861+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:19.860737+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Sian E. Christie"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "Mod 3",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "Mod 3",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "Mod 3",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "Mod 3",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "Mod 3",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

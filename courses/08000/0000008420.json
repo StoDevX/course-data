@@ -4,10 +4,23 @@
 	"crsid": "0000001238",
 	"department": "REL",
 	"enrolled": 22,
-	"instructors": [
-		"Douglas Schuurman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schuurman, Douglas"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7248",
+			"name": "Schuurman, Douglas"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Love,Justice,Soc Rel",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "BMC 101",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "13:05",
+			"end": "0105PM",
 			"location": "BMC 101",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.763441+00:00",
@@ -42,6 +54,40 @@
 		{
 			"_updated": "2020-10-15T15:23:16.744249+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.720522+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Douglas Schuurman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "BMC 101",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:05",
+					"location": "BMC 101",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -4,30 +4,32 @@
 	"crsid": "0000000861",
 	"department": "MUSIC",
 	"enrolled": 15,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Anton Armstrong"
+		"Armstrong, Anton"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "263",
+			"name": "Armstrong, Anton"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Child & Adolesc Voice",
 	"number": 365,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CHM 140",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "CHM 140",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.447122+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:15.008068+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.093726+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anton Armstrong"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CHM 140",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CHM 140",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

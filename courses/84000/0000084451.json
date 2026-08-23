@@ -1,14 +1,21 @@
 {
 	"clbid": "0000084451",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 24,
-	"groupid": "0000000194",
+	"enrollment_fy": 17,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Elodie Marlier"
+		"Marlier, Elodie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "22843",
+			"name": "Marlier, Elodie"
+		}
+	],
 	"level": 100,
 	"max": 28,
 	"name": "Chem Reactions/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:08.569858+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:46.781200+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:07.638378+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Elodie Marlier"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

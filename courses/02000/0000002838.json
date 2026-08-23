@@ -4,32 +4,39 @@
 	"crsid": "0000000026",
 	"department": "ART",
 	"enrolled": 20,
-	"firstyear": "5/2",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_fy": 2,
+	"max_jr": 0,
+	"max_so": 1,
+	"max_sr": 0,
 	"name": "Found Ceramics: Wheel",
 	"number": 119,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CAD 115E",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CAD 115E",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:19.246641+00:00",
@@ -67,11 +74,48 @@
 		{
 			"_updated": "2020-10-15T15:23:08.915910+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.304652+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/2",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CAD 115E",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CAD 115E",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/0",
+			"sophomore": "5/1",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "8/0",
-	"sophomore": "5/1",
 	"status": "C",
 	"term": 20013,
 	"type": "Research",

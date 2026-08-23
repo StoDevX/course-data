@@ -7,13 +7,25 @@
 		"Prerequisites: three courses in area of study."
 	],
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Margaret Ojala",
-		"John Saurer"
+		"Saurer, John",
+		"Ojala, Margaret"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		},
+		{
+			"fsnum": "5816",
+			"name": "Ojala, Margaret"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Apprenticeship",
 	"number": 398,
 	"pn": false,
@@ -32,6 +44,24 @@
 		{
 			"_updated": "2020-10-15T15:23:29.037404+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:34.662508+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Margaret Ojala",
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null
 		}
 	],
 	"section": "B",

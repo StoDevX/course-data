@@ -4,13 +4,24 @@
 	"crsid": "0000000731",
 	"department": "MATH",
 	"enrolled": 19,
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Meagan Kenney"
+		"Kenney, Meagan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34037",
+			"name": "Kenney, Meagan"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "Calculus I",
@@ -33,7 +44,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:41.687110+00:00",
@@ -41,6 +51,28 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.428147+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Meagan Kenney"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

@@ -7,33 +7,34 @@
 		"This course provides students with an opportunity to develop an in-depth understanding of the principles of strength training and conditioning, including anatomical and physiological considerations, lifting techniques, equipment selection, program development/evaluation, and weightlifting safety; thus enabling them to teach and train others. Prerequisites: kinesiology major, BIO 143, and BIO 243."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"ORC",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Jennifer M. Miller"
+		"Miller, Jenny M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28146",
+			"name": "Miller, Jenny M."
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Prin of Strength & Fitness Training",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SAC 112",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SAC 112",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SAC 112",
 			"start": "10:45"
@@ -104,10 +105,51 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.555363+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Jennifer M. Miller"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SAC 112",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SAC 112",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SAC 112",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20211,
 	"title": "Principles of Strength and Fitness Training",

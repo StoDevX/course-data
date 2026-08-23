@@ -4,38 +4,39 @@
 	"crsid": "0000000311",
 	"department": "EDUC",
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"instructors": [
-		"Larry Zimmerman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 18,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "1/25",
-	"learningmode": "S",
+	"instructors": [
+		"Zimmerman, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9169",
+			"name": "Zimmerman, Larry"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 0,
+	"max_jr": 25,
+	"max_so": 25,
+	"max_sr": 25,
 	"name": "Educ Psychology",
 	"number": 290,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "FH 10",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "FH 10",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "FH 10",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.622082+00:00",
@@ -67,12 +68,54 @@
 		{
 			"_updated": "2020-10-15T15:23:00.573524+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:19.771334+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Larry Zimmerman"
+			],
+			"instructors_full": null,
+			"junior": "1/25",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "FH 10",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/25",
+			"sophomore": "18/25",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "5/25",
-	"sophomore": "18/25",
 	"status": "O",
 	"term": 19983,
 	"type": "Research",

@@ -7,13 +7,28 @@
 		"A first course in statistical methods for scientists, this course addresses issues for proposing/designing an experiment, as well as exploratory and inferential techniques for analyzing and modeling scientific data. Topics include probability models, exploratory graphics, descriptive techniques, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Counts toward environmental studies major (natural science and social science emphases), exercise science major, management studies concentration, and mathematical biology concentration."
 	],
 	"enrolled": 24,
-	"instructors": [
-		"Roland Z. Brown"
+	"enrollment_fy": 8,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"junior": "5/8",
-	"learningmode": "S",
+	"instructors": [
+		"Brown, Roland Z."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "23615",
+			"name": "Brown, Roland Z."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 8,
+	"max_so": 17,
+	"max_sr": 8,
 	"name": "Statistics for Science",
 	"notes": [
 		"This course has class-year limits."
@@ -21,19 +36,7 @@
 	"number": 212,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "HH 201",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "HH 201",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "HH 201",
 			"start": "08:00"
@@ -143,12 +146,50 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:25.063315+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Roland Z. Brown"
+			],
+			"instructors_full": null,
+			"junior": "5/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "HH 201",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "HH 201",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "HH 201",
+					"start": "08:00"
+				}
+			],
+			"senior": "3/8",
+			"sophomore": "8/17"
 		}
 	],
 	"section": "D",
 	"semester": 3,
-	"senior": "3/8",
-	"sophomore": "8/17",
 	"status": "C",
 	"term": 20183,
 	"title": "Statistics for the Sciences",

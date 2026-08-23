@@ -7,13 +7,24 @@
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Credit may be earned for either MATH 119 or MATH 120, but not both. Offered each semester and during January term. Prerequisite: mathematics placement recommendation."
 	],
 	"enrolled": 26,
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 12,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Rachael Norton"
+		"Norton, Rachael"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35070",
+			"name": "Norton, Rachael"
+		}
+	],
 	"level": 100,
 	"max": 26,
 	"name": "Calculus I",
@@ -23,20 +34,8 @@
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "RNS 208",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "RNS 208",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "RNS 208",
 			"start": "12:55"
 		}
@@ -165,6 +164,45 @@
 			"gereqs": [
 				"AQR",
 				"QCR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.180226+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Rachael Norton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "RNS 208",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "RNS 208",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "RNS 208",
+					"start": "12:55"
+				}
 			]
 		}
 	],

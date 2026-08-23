@@ -4,36 +4,32 @@
 	"crsid": "0000000036",
 	"department": "ART",
 	"enrolled": 15,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
 	"instructors": [
-		"John Saurer"
+		"Saurer, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Sculpt: Metal Direct",
 	"number": 224,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "CAD 105",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 105",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 105",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.477821+00:00",
@@ -54,6 +50,46 @@
 		{
 			"_updated": "2020-10-15T15:23:14.792935+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.657116+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 105",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 105",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 105",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

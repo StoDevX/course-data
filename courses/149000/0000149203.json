@@ -1,15 +1,21 @@
 {
 	"clbid": "0000149203",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 20,
-	"groupid": "0000026649",
-	"grouptype": "2",
+	"enrollment_fy": 2,
+	"enrollment_jr": 3,
+	"enrollment_so": 15,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Emily Mohl"
+		"Mohl, Emily"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25351",
+			"name": "Mohl, Emily"
+		}
+	],
 	"level": 100,
 	"max": 21,
 	"name": "Biodiversity Found Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-06-23T03:01:37.950416+00:00",
@@ -62,6 +67,28 @@
 			"_updated": "2023-09-15T02:24:26.935692+00:00",
 			"enrolled": 21,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.882031+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "2",
+			"instructors": [
+				"Emily Mohl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

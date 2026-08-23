@@ -1,15 +1,21 @@
 {
 	"clbid": "0000010338",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 18,
-	"groupid": "0000000192",
-	"grouptype": "2",
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Patrick N. Riley"
+		"Riley, Patrick N."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14194",
+			"name": "Riley, Patrick N."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Struct Chem/Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "SC 374/363",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.157977+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:19.807018+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.441072+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"grouptype": "2",
+			"instructors": [
+				"Patrick N. Riley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "SC 374/363",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

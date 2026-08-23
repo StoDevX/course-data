@@ -7,10 +7,19 @@
 		"This course introduces number theory -- the study of patterns and relationships satisfied by natural numbers. Topics include prime numbers, congruences, primitive roots, quadratic residues and the design and breaking of codes. Prerequisite: Mathematics 220 or permission of instructor."
 	],
 	"enrolled": 25,
+	"enrollment_fy": 7,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Kay E. Smith"
+		"Smith, Kay E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Number Theory",
@@ -20,40 +29,16 @@
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "12:40",
+			"day": "TWF",
+			"end": "0300PM",
+			"location": "SC 188",
+			"start": "01:00"
+		},
+		{
+			"day": "TWF",
+			"end": "1240PM",
 			"location": "SC 188",
 			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 188",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 188",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 188",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 188",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 188",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
@@ -76,6 +61,61 @@
 		{
 			"_updated": "2020-10-15T15:23:24.333714+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:19.856550+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 188",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 188",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 188",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 188",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 188",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 188",
+					"start": "13:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

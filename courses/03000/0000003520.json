@@ -4,36 +4,36 @@
 	"crsid": "0000001311",
 	"department": "SOAN",
 	"enrolled": 46,
-	"instructors": [
-		"Bruce Nordstrom-Loeb"
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 7,
+	"enrollment_sr": 25,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nordstrom-Loeb, Bruce"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5728",
+			"name": "Nordstrom-Loeb, Bruce"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Gender/X-Cult/Perspec",
 	"number": 261,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:19.531966+00:00",
@@ -54,6 +54,47 @@
 		{
 			"_updated": "2020-10-15T15:23:09.221372+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.726711+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bruce Nordstrom-Loeb"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

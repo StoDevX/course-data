@@ -1,14 +1,21 @@
 {
 	"clbid": "0000169072",
-	"credits": 0.0,
 	"crsid": "0000001077",
 	"department": "PHYS",
-	"enrolled": 0,
-	"groupid": "0000001076",
+	"enrolled": 17,
+	"enrollment_fy": 10,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Prabal Adhikari"
+		"Adhikari, Prabal"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26288",
+			"name": "Adhikari, Prabal"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Analytical I Lab",
@@ -16,16 +23,48 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 293",
-			"start": "13:30"
+			"start": "01:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:07:23.351769+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001076",
+			"instructors": [
+				"Prabal Adhikari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:00",
+					"location": "RNS 293",
+					"start": "13:30"
+				}
+			],
+			"prerequisites": false,
+			"status": "O",
+			"title": null
+		}
+	],
 	"section": "B",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Lab",
 	"year": 2026

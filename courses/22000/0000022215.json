@@ -4,29 +4,26 @@
 	"crsid": "0000000108",
 	"department": "BIO",
 	"enrolled": 20,
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Organismic Biology",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 278",
 			"start": "10:45"
@@ -39,7 +36,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.285642+00:00",
@@ -54,6 +50,51 @@
 		{
 			"_updated": "2020-10-15T15:22:57.709261+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:20.895819+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "SC 211",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

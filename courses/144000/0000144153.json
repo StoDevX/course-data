@@ -4,13 +4,24 @@
 	"crsid": "0000000532",
 	"department": "QUEST",
 	"enrolled": 23,
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"RFV"
+		"BTS-B",
+		"RFV",
+		"WRI"
 	],
 	"instructors": [
-		"Ibtesam Al Atiyat"
+		"Al Atiyat, Ibtesam"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21084",
+			"name": "Al Atiyat, Ibtesam"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Emperors, Orators, Disciples",
@@ -20,38 +31,13 @@
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "OM 020",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "OM 020",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "OM 020",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "OM 020",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "OM 020",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:42.497745+00:00",
@@ -60,6 +46,60 @@
 				"WRI",
 				"RFV"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.800340+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"RFV"
+			],
+			"instructors": [
+				"Ibtesam Al Atiyat"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "OM 020",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "OM 020",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "OM 020",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "OM 020",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "OM 020",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

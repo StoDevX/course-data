@@ -4,48 +4,35 @@
 	"crsid": "0000002436",
 	"department": "SOAN",
 	"enrolled": 33,
-	"instructors": [
-		"Kare Rorhus"
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 8,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Rorhus, Kare"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10046",
+			"name": "Rorhus, Kare"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Media, Youth, Society",
 	"number": 264,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "M 15",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "M 15",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "M 15",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "M 15",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "M 15",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.471776+00:00",
@@ -60,6 +47,59 @@
 		{
 			"_updated": "2020-10-15T15:23:02.703094+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:00.092072+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kare Rorhus"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "M 15",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "M 15",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "M 15",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "M 15",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "M 15",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

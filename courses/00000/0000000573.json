@@ -4,30 +4,32 @@
 	"crsid": "0000001181",
 	"department": "PSYCH",
 	"enrolled": 19,
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Mary Ellen Ross"
+		"Ross, Mary Ellen"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6902",
+			"name": "Ross, Mary Ellen"
+		}
+	],
 	"level": 300,
 	"max": 18,
 	"name": "Psych of Counseling",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 301/H320",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 301/H320",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.672778+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:05.055111+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.713475+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Ellen Ross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 301/H320",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 301/H320",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

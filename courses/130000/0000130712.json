@@ -1,21 +1,36 @@
 {
 	"clbid": "0000130712",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 27,
-	"groupid": "0000027943",
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 0,
 	"instructors": [
-		"David P. Walmsley"
+		"Walmsley, David P."
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29131",
+			"name": "Walmsley, David P."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 0,
+	"max_sr": 0,
 	"name": "Calc I with Review Lab",
 	"number": 119,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "TBA",
+			"start": "09:35"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-04-24T13:37:32.427667+00:00",
@@ -153,11 +168,34 @@
 		{
 			"_updated": "2021-03-02T16:51:51.443529+00:00",
 			"max": 26
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.887486+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"David P. Walmsley"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"senior": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "0/0",
 	"status": "C",
 	"term": 20201,
 	"type": "Lab",

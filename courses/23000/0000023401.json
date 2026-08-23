@@ -4,37 +4,40 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 21,
-	"instructors": [
-		"John T. Day"
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 15,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Day, John T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1354",
+			"name": "Day, John T."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 0,
+	"max_so": 23,
+	"max_sr": 0,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "L 525",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "L 525",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "L 525",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.156290+00:00",
@@ -63,12 +66,53 @@
 		{
 			"_updated": "2020-10-15T15:22:59.286210+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.354374+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John T. Day"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "L 525",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "15/23",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "15/23",
 	"status": "O",
 	"term": 19981,
 	"type": "Research",

@@ -7,29 +7,30 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, levels of naming, computer design, and computing ethics. Students apply these concepts daily, and produce applied projects, individually and in teams. Special application areas include digital humanities. Offered each semester."
 	],
 	"enrolled": 24,
-	"instructors": [
-		"Richard Brown"
+	"enrollment_fy": 12,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brown, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "806",
+			"name": "Brown, Richard"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Principles Comp Sci",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 203",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 203",
 			"start": "10:45"
@@ -56,6 +57,43 @@
 			"_updated": "2025-10-11T21:36:14.217903+00:00",
 			"gereqs": [
 				"AQR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:23.707277+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Richard Brown"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 203",
+					"start": "10:45"
+				}
 			]
 		}
 	],

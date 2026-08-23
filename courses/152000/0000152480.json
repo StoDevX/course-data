@@ -7,14 +7,25 @@
 		"This course introduces the central matters for argument in Christian theology -- God and Christ -- through close reading and critical analysis of selected classic (pre-1700) and modern theological texts. Students focus on the reasons supporting classic Christian beliefs about God, Christ and related topics and on the modern theological criticism of those beliefs. Is it still possible to be a Christian in the beginning of the 21st century? Offered periodically."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 7,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"BTS-T",
 		"CTD",
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Charles Wilson"
+		"Wilson, Charles"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9090",
+			"name": "Wilson, Charles"
+		}
+	],
 	"level": 200,
 	"max": 21,
 	"name": "Classics and Moderns",
@@ -24,19 +35,7 @@
 	"number": 202,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 210",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 210",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 210",
 			"start": "10:45"
@@ -162,6 +161,46 @@
 				"WRI",
 				"CTD",
 				"WAC"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:19.053967+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"CTD",
+				"WAC"
+			],
+			"instructors": [
+				"Charles Wilson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 210",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 210",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 210",
+					"start": "10:45"
+				}
 			]
 		}
 	],

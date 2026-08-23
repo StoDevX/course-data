@@ -4,16 +4,24 @@
 	"crsid": "0000000310",
 	"department": "EDUC",
 	"enrolled": 20,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 10,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Mark Schelske"
+		"Schelske, Mark"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7148",
+			"name": "Schelske, Mark"
+		}
+	],
 	"level": 200,
-	"max": 999,
+	"max_so": 0,
 	"name": "Perspectives On Tchg",
 	"number": 260,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.285800+00:00",
@@ -32,10 +40,31 @@
 		{
 			"_updated": "2020-10-15T15:23:02.650044+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.128737+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mark Schelske"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "10/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "10/0",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

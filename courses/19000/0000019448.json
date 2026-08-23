@@ -4,30 +4,35 @@
 	"crsid": "0000001010",
 	"department": "PEAC",
 	"enrolled": 11,
-	"instructors": [
-		"Bob Hauck"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Swim Fitness",
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SAC POOL",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "SAC POOL",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.508428+00:00",
@@ -48,6 +53,41 @@
 			"instructors": [
 				"Robert Hauck"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:56:50.142443+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SAC POOL",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SAC POOL",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

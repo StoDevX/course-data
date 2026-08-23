@@ -4,36 +4,35 @@
 	"crsid": "0000001012",
 	"department": "PEAC",
 	"enrolled": 22,
-	"instructors": [
-		"Scott Scholl"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Scholl, Scott"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13204",
+			"name": "Scholl, Scott"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Individual Fitness.50",
 	"number": 133,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SAC FH",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SAC FH",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SAC FH",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.745121+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:10.644268+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.495749+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Scott Scholl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SAC FH",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SAC FH",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SAC FH",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,31 +4,34 @@
 	"crsid": "0000001000",
 	"department": "PEAC",
 	"enrolled": 20,
-	"halfcredit": "2",
-	"instructors": [
-		"Judy Tegtmeyer"
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Tegtmeyer, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Orienteering",
 	"number": 109,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:55",
-			"location": "SAC 140",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "14:55",
+			"day": "TTh",
+			"end": "0255PM",
 			"location": "SAC 140",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:35.799419+00:00",
@@ -61,6 +64,43 @@
 			"instructors": [
 				"Judith Tegtmeyer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:59:34.044159+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "2",
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "SAC 140",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "14:55",
+					"location": "SAC 140",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

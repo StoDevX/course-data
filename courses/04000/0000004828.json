@@ -4,10 +4,19 @@
 	"crsid": "0000000200",
 	"department": "CHEM",
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Patrick N. Riley"
+		"Riley, Patrick N."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14194",
+			"name": "Riley, Patrick N."
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Synthesis Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 378/311",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:58.899141+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:23:11.968163+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.626538+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Patrick N. Riley"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "SC 378/311",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,34 +4,33 @@
 	"crsid": "0000000399",
 	"department": "ENGL",
 	"enrolled": 48,
-	"instructors": [
-		"Jonathan Hill",
-		"Colin Wells"
+	"enrollment_fy": 2,
+	"enrollment_jr": 13,
+	"enrollment_so": 28,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wells, Colin",
+		"Hill, Jonathan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8973",
+			"name": "Wells, Colin"
+		},
+		{
+			"fsnum": "3341",
+			"name": "Hill, Jonathan"
+		}
+	],
 	"level": 200,
 	"max": 60,
+	"max_sr": 0,
 	"name": "Lit in Engl 1650-1850",
 	"number": 222,
 	"offerings": [
-		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "L 515",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "L 515",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
-			"location": "L 515",
-			"start": "11:50"
-		},
 		{
 			"day": "Fr",
 			"end": "11:40",
@@ -40,13 +39,18 @@
 		},
 		{
 			"day": "Fr",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "L 520",
+			"start": "11:50"
+		},
+		{
+			"day": "MWF",
+			"end": "1245PM",
+			"location": "L 515",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.479788+00:00",
@@ -65,10 +69,64 @@
 		{
 			"_updated": "2020-10-15T15:23:03.397076+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.342011+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jonathan Hill",
+				"Colin Wells"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "L 515",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "L 515",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 515",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "L 177/SC210",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 520",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "5/0",
 	"status": "O",
 	"term": 19993,
 	"type": "Research",

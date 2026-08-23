@@ -7,13 +7,22 @@
 		"This seminar-style course focuses on a specific art historical topic, and students learn how to pursue art historical practice beyond the introductory level. Topics change with each offering. Prerequisite: at least one art history course or permission of the instructor. Offered annually."
 	],
 	"enrolled": 10,
-	"firstyear": "1/0",
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Melissa Geppert"
+		"Geppert, Melissa"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20064",
+			"name": "Geppert, Melissa"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
 	"name": "Top: Alternative Media",
 	"notes": [
 		"Not open to First-Year Students."
@@ -22,15 +31,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 204",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD 204",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -64,6 +73,38 @@
 		{
 			"_updated": "2020-10-15T15:23:28.942632+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:34.658841+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"instructors": [
+				"Melissa Geppert"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 204",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD 204",
+					"start": "14:15"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

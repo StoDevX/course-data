@@ -1,29 +1,41 @@
 {
 	"clbid": "0000005806",
-	"credits": 0.0,
 	"crsid": "0000000312",
 	"department": "EDUC",
 	"enrolled": 11,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Rosemary A. Pfarr-Baker",
-		"Heather Campbell"
+		"Campbell, Heather",
+		"Pfarr-Baker, Rosemary A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "903",
+			"name": "Campbell, Heather"
+		},
+		{
+			"fsnum": "10410",
+			"name": "Pfarr-Baker, Rosemary A."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Standards/Technology",
 	"number": 291,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "HH 205",
-			"start": "16:00"
+			"start": "04:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.690509+00:00",
@@ -43,11 +55,41 @@
 		{
 			"_updated": "2020-10-15T15:23:13.492409+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.158449+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Rosemary A. Pfarr-Baker",
+				"Heather Campbell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "18:00",
+					"location": "HH 205",
+					"start": "16:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "1/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

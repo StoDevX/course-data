@@ -7,13 +7,23 @@
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and structured collaborative software-development methodology. Concepts and skills are applied in a substantial multi-week team project. Topics include object-oriented programming, specification, programmed memory management, indirect addressing, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Offered each semester. Also counts toward mathematical biology and business and management studies concentrations; one of CSCI 121, CSCI 125, CSCI 251 counts toward applied linguistics concentration. Prerequisite: CSCI 221 or permission of instructor."
 	],
 	"enrolled": 21,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 18,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Will E. Leeson"
+		"Leeson, Will E."
 	],
-	"junior": "3/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002459",
+			"name": "Leeson, Will E."
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_jr": 4,
+	"max_sr": 0,
 	"name": "Software Design",
 	"notes": [
 		"Prerequisite: CSCI 221. Open to CS majors only."
@@ -21,20 +31,8 @@
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 203",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 203",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 203",
 			"start": "11:50"
 		}
@@ -144,11 +142,48 @@
 		{
 			"_updated": "2024-11-23T02:53:57.844467+00:00",
 			"junior": "2/4"
+		},
+		{
+			"_updated": "2026-08-23T03:05:21.479427+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Will E. Leeson"
+			],
+			"instructors_full": null,
+			"junior": "3/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				}
+			],
+			"senior": "0/0"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "0/0",
 	"status": "C",
 	"term": 20241,
 	"title": "Software Design and Implementation",

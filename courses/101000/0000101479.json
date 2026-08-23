@@ -1,26 +1,46 @@
 {
-	"clbid": 101479,
+	"clbid": "0000101479",
 	"credits": 1.0,
-	"crsid": 736,
-	"departments": [
-		"MATH"
+	"crsid": "0000000736",
+	"department": "MATH",
+	"description": [
+		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120."
 	],
-	"description": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"AQR"
+		"AQR",
+		"MAR"
 	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 200,
-	"locations": [
-		"TOH 184"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 200,
+	"max": 0,
 	"name": "Elem Linear Algebra",
-	"notes": "This course has been canceled.",
+	"notes": [
+		"This course has been canceled."
+	],
 	"number": 220,
+	"offerings": [
+		{
+			"day": "MWF",
+			"end": "08:55",
+			"location": "TOH 184",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": "Prerequisite: MATH 119 or MATH 120.",
+	"prerequisites": "MATH 119 or MATH 120.",
 	"revisions": [
 		{
 			"_updated": "2015-04-20T23:00:26.278858+00:00",
@@ -52,15 +72,45 @@
 			"instructors": [
 				"Kay E. Smith"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.070958+00:00",
+			"clbid": 101479,
+			"crsid": 736,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and periodically during Interim. Counts toward management studies concentration. Prerequisite: MATH 119 or MATH 120.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"AQR"
+			],
+			"instructors_full": null,
+			"locations": [
+				"TOH 184"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been canceled.",
+			"offerings": null,
+			"prerequisites": "Prerequisite: MATH 119 or MATH 120.",
+			"times": [
+				"MWF 0800-0855"
+			]
 		}
 	],
 	"section": "C",
 	"semester": 3,
 	"status": "X",
 	"term": 20153,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Elementary Linear Algebra",
 	"type": "Research",
 	"year": 2015

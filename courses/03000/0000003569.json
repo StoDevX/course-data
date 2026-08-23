@@ -4,30 +4,35 @@
 	"crsid": "0000001399",
 	"department": "THEAT",
 	"enrolled": 21,
-	"instructors": [
-		"Karen Wilson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"EIN",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wilson, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9093",
+			"name": "Wilson, Karen"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Topics: Theatre in Soc",
 	"number": 380,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "TB 216",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "TB 216",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.192261+00:00",
@@ -59,6 +64,42 @@
 		{
 			"_updated": "2020-10-15T15:23:09.243720+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.741664+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Wilson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TB 216",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "TB 216",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

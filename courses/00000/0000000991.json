@@ -4,38 +4,38 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 22,
-	"firstyear": "6/7",
-	"instructors": [
-		"Jan Shoger"
+	"enrollment_fy": 6,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors": [
+		"Shoger, Jan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7486",
+			"name": "Shoger, Jan"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 7,
+	"max_jr": 5,
+	"max_so": 6,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "FH 42",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "FH 42",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "FH 42",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.675643+00:00",
@@ -63,10 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:23:06.102151+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:22.654083+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/7",
+			"gereqs": null,
+			"instructors": [
+				"Jan Shoger"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "FH 42",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "FH 42",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "FH 42",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 20003,
 	"type": "Research",

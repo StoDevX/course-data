@@ -7,14 +7,26 @@
 		"This three-semester calculus-based sequence leads the student through the basic principles that account for the processes involved in baseballs, car engines, electrical power distribution systems, stereos, and black holes. It is the starting point for a major in physics and is also appropriate for majors in fields such as chemistry or mathematics who desire more mathematical depth than would be used in the two-semester PHYS 124 - PHYS 125 sequence. Physics 130 is a study of Newtonian mechanics --- motion, forces, energy, gravity, and rotation. Students attend lectures plus one 2.5-hour laboratory per week. Offered annually in the fall semester. Also counts toward computer science major. Prerequisite: concurrent registration in (or previous completion of) MATH 119 or MATH 120 or equivalent."
 	],
 	"enrolled": 26,
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NSC",
+		"NSL",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000001076",
 	"instructors": [
-		"Shoaib Munir"
+		"Munir, Shoaib"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35130",
+			"name": "Munir, Shoaib"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Analytical I",
@@ -24,20 +36,8 @@
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:25",
-			"location": "RNS 210",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:25",
-			"location": "RNS 210",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:25",
+			"day": "MWF",
+			"end": "0225PM",
 			"location": "RNS 210",
 			"start": "12:55"
 		}
@@ -142,6 +142,46 @@
 				"IST",
 				"SED",
 				"NTS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:15.580235+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000001076",
+			"instructors": [
+				"Shoaib Munir"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:25",
+					"location": "RNS 210",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:25",
+					"location": "RNS 210",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:25",
+					"location": "RNS 210",
+					"start": "12:55"
+				}
 			]
 		}
 	],

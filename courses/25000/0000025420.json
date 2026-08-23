@@ -4,30 +4,33 @@
 	"crsid": "0000000437",
 	"department": "ENGL",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Mark Allister"
+		"Allister, Mark"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "110",
+			"name": "Allister, Mark"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_sr": 20,
 	"name": "Topics/Lit of Am Sw",
 	"number": 345,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 520",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 520",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.597929+00:00",
@@ -51,10 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:02.093750+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.752244+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mark Allister"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 520",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 520",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "15/20",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "15/20",
 	"status": "C",
 	"term": 19991,
 	"type": "Topic",

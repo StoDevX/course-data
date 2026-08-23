@@ -4,36 +4,31 @@
 	"crsid": "0000000504",
 	"department": "GERM",
 	"enrolled": 17,
+	"enrollment_fy": 9,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Keith O. Anderson"
+		"Anderson, Keith O."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15148",
+			"name": "Anderson, Keith O."
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Beginning German I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "M 20",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "M 20",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "M 20",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.364221+00:00",
@@ -48,6 +43,46 @@
 		{
 			"_updated": "2020-10-15T15:22:53.048113+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:36.503053+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Keith O. Anderson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "M 20",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "M 20",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "M 20",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

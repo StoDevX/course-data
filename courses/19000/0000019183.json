@@ -4,36 +4,42 @@
 	"crsid": "0000000424",
 	"department": "ENGL",
 	"enrolled": 21,
-	"instructors": [
-		"Diana Postlethwaite"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 5,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Postlethwaite, Diana"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6403",
+			"name": "Postlethwaite, Diana"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Literature & Film",
 	"number": 275,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 515",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "L 515",
-			"start": "09:35"
-		},
-		{
 			"day": "Mo",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "FH 01",
-			"start": "18:30"
+			"start": "06:30"
+		},
+		{
+			"day": "TTh",
+			"end": "11:00",
+			"location": "L 515",
+			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.339145+00:00",
@@ -48,6 +54,47 @@
 		{
 			"_updated": "2020-10-15T15:22:53.020010+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:35.260989+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Diana Postlethwaite"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 515",
+					"start": "09:35"
+				},
+				{
+					"day": "Mo",
+					"end": "21:00",
+					"location": "FH 01",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

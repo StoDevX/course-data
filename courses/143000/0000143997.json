@@ -7,26 +7,31 @@
 		"Students learn the principles of training, basic techniques, and safety procedures. Students develop and implement a personal training plan during the course."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 19,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Matt McDonald"
+		"McDonald, Matt"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5195",
+			"name": "McDonald, Matt"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Wt Training-Men",
 	"number": 141,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -40,6 +45,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.410034+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Matt McDonald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
 			]
 		}
 	],

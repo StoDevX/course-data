@@ -4,31 +4,35 @@
 	"crsid": "0000001007",
 	"department": "PEAC",
 	"enrolled": 11,
-	"halfcredit": "1",
-	"instructors": [
-		"Judy Tegtmeyer"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Tegtmeyer, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Canoeing",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "SAC POOL",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC POOL",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:20.260645+00:00",
@@ -61,6 +65,42 @@
 			"instructors": [
 				"Judith Tegtmeyer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:58:06.006950+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC POOL",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC POOL",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

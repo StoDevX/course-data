@@ -4,38 +4,39 @@
 	"crsid": "0000001359",
 	"department": "SWRK",
 	"enrolled": 22,
-	"firstyear": "1/0",
-	"instructors": [
-		"Naurine Lennox"
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 13,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "1/5",
-	"learningmode": "S",
+	"instructors": [
+		"Lennox, Naurine"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4761",
+			"name": "Lennox, Naurine"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 25,
+	"max_sr": 5,
 	"name": "Soc Work/Soc Services",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 516",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 516",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 516",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.099475+00:00",
@@ -67,11 +68,54 @@
 		{
 			"_updated": "2020-10-15T15:23:13.727575+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.599592+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Naurine Lennox"
+			],
+			"instructors_full": null,
+			"junior": "1/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 516",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 516",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 516",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/5",
+			"sophomore": "13/25",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "7/5",
-	"sophomore": "13/25",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

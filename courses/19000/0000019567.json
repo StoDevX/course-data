@@ -4,36 +4,32 @@
 	"crsid": "0000001186",
 	"department": "PSYCH",
 	"enrolled": 22,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 1,
+	"enrollment_sr": 16,
 	"instructors": [
-		"Richard Senese"
+		"Senese, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7388",
+			"name": "Senese, Richard"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Sem: Addictions",
 	"number": 390,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "H 301",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 301",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 301",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.647990+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:53.737751+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:52.333334+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Senese"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 301",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 301",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 301",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

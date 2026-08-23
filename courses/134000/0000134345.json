@@ -6,13 +6,24 @@
 	"description": [
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. Students attend lectures plus one 2.5-hour laboratory per week. Offered annually in the fall semester. Does not count toward physics major. Prerequisite: MATH 119 or MATH 120 or equivalent."
 	],
-	"enrolled": 2,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"NSC",
+		"NSL",
 		"SED"
 	],
-	"groupid": "0000001072",
 	"instructors": [
-		"Eric L. Hazlett"
+		"Hazlett, Eric L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "31195",
+			"name": "Hazlett, Eric L."
+		}
 	],
 	"level": 100,
 	"max": 15,
@@ -23,31 +34,7 @@
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "RNS 208",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "RNS 208",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "RNS 208",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "RNS 208",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "RNS 208",
 			"start": "10:00"
@@ -100,10 +87,64 @@
 			"_updated": "2020-04-11T13:24:02.639846+00:00",
 			"enrolled": 1,
 			"notes": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:33.652164+00:00",
+			"enrolled": 2,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SED"
+			],
+			"groupid": "0000001072",
+			"instructors": [
+				"Eric L. Hazlett"
+			],
+			"instructors_full": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "RNS 208",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "RNS 208",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "RNS 208",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "RNS 208",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "RNS 208",
+					"start": "10:00"
+				}
+			],
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20195,
 	"title": "Principles of Physics I",
 	"type": "Research",

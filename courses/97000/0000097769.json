@@ -4,16 +4,23 @@
 	"crsid": "0000000710",
 	"department": "ID",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kay E. Smith"
+		"Smith, Kay E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Mathematical Logic",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.885435+00:00",
@@ -36,6 +43,25 @@
 		{
 			"_updated": "2021-03-02T16:51:21.615667+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:02:50.692781+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "B",

@@ -4,30 +4,41 @@
 	"crsid": "0000000930",
 	"department": "NORW",
 	"enrolled": 5,
-	"instructors": [
-		"Solveig Zempel"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-N",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Zempel, Solveig"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "9184",
+			"name": "Zempel, Solveig"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Advanced Conv & Comp",
 	"number": 253,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "M 11",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "M 11",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.716562+00:00",
@@ -42,6 +53,42 @@
 		{
 			"_updated": "2020-10-15T15:23:10.624433+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.489978+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Solveig Zempel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 11",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "M 11",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

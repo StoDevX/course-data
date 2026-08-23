@@ -4,50 +4,39 @@
 	"crsid": "0000000939",
 	"department": "NURS",
 	"enrolled": 42,
-	"firstyear": "11/10",
-	"instructors": [
-		"Rebecca A. Benedict"
+	"enrollment_fy": 11,
+	"enrollment_jr": 6,
+	"enrollment_so": 5,
+	"enrollment_sr": 20,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "6/10",
-	"learningmode": "S",
+	"instructors": [
+		"Benedict, Rebecca A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "353",
+			"name": "Benedict, Rebecca A."
+		}
+	],
 	"level": 100,
 	"max": 40,
+	"max_fy": 10,
+	"max_jr": 10,
+	"max_so": 11,
+	"max_sr": 10,
 	"name": "Nutrition & Wellness",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "H 317",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "H 317",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:52.551141+00:00",
@@ -76,12 +65,66 @@
 		{
 			"_updated": "2020-10-15T15:23:08.290629+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:31.229236+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/10",
+			"gereqs": null,
+			"instructors": [
+				"Rebecca A. Benedict"
+			],
+			"instructors_full": null,
+			"junior": "6/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 317",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "20/10",
+			"sophomore": "5/11",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 2,
-	"senior": "20/10",
-	"sophomore": "5/11",
 	"status": "C",
 	"term": 20012,
 	"type": "Research",

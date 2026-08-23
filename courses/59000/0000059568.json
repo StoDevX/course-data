@@ -1,31 +1,42 @@
 {
 	"clbid": "0000059568",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"groupid": "0000000126",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Louis Henry Kermott",
-		"David Van Wylen"
+		"Van Wylen, David",
+		"Kermott, Louis Henry"
 	],
-	"junior": "2/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8768",
+			"name": "Van Wylen, David"
+		},
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "21:30",
+			"end": "0930PM",
 			"location": "TBA",
-			"start": "18:30"
+			"start": "06:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:26.366206+00:00",
@@ -46,11 +57,43 @@
 		{
 			"_updated": "2020-10-15T15:23:27.219449+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.274279+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000126",
+			"instructors": [
+				"Louis Henry Kermott",
+				"David Van Wylen"
+			],
+			"instructors_full": null,
+			"junior": "2/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "21:30",
+					"location": "TBA",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "3/0",
+			"title": null
 		}
 	],
 	"section": "E",
 	"semester": 1,
-	"sophomore": "3/0",
 	"status": "C",
 	"term": 20071,
 	"type": "Lab",

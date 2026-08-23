@@ -1,29 +1,35 @@
 {
 	"clbid": "0000106016",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 19,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Brianna S. Thomas"
+		"Thomas, Brianna S."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28157",
+			"name": "Thomas, Brianna S."
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "15:25",
+			"end": "0325PM",
 			"location": "RNS 292",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.732331+00:00",
@@ -64,6 +70,36 @@
 		{
 			"_updated": "2021-03-02T16:51:37.220271+00:00",
 			"max": 22
+		},
+		{
+			"_updated": "2026-08-23T03:04:05.974893+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Brianna S. Thomas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "15:25",
+					"location": "RNS 292",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

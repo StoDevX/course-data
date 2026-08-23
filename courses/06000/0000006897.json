@@ -4,37 +4,40 @@
 	"crsid": "0000000397",
 	"department": "ENGL",
 	"enrolled": 48,
-	"instructors": [
-		"Karen E. Marsalek",
-		"Mary E. Trull"
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 43,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marsalek, Karen E.",
+		"Trull, Mary E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10015",
+			"name": "Marsalek, Karen E."
+		},
+		{
+			"fsnum": "15822",
+			"name": "Trull, Mary E."
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl to 1650",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RML 525",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RML 525",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RML 525",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.244054+00:00",
@@ -49,6 +52,47 @@
 		{
 			"_updated": "2020-10-15T15:23:14.890068+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.711952+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen E. Marsalek",
+				"Mary E. Trull"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RML 525",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

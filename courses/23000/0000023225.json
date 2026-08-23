@@ -4,42 +4,42 @@
 	"crsid": "0000000106",
 	"department": "BIO",
 	"enrolled": 18,
-	"instructors": [
-		"Amy Jessen-Marshall"
+	"enrollment_fy": 12,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Jessen-Marshall, Amy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3809",
+			"name": "Jessen-Marshall, Amy"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SC 278",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SC 278",
 			"start": "08:00"
 		},
 		{
 			"day": "Th",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "SC 273",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.037436+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:22:59.209685+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.447287+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Amy Jessen-Marshall"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SC 278",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:15",
+					"location": "SC 273",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

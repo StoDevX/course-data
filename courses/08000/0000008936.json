@@ -4,79 +4,47 @@
 	"crsid": "0000001086",
 	"department": "PHYS",
 	"enrolled": 29,
-	"instructors": [
-		"James Cederberg",
-		"David Nitz"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 12,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nitz, David",
+		"Cederberg, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		},
+		{
+			"fsnum": "1021",
+			"name": "Cederberg, James"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Musical Acoustics",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
+			"end": "0330PM",
+			"location": "SC 159",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 170",
 			"start": "08:30"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Mo",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "SC 159",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.766077+00:00",
@@ -91,6 +59,90 @@
 		{
 			"_updated": "2020-10-15T15:23:17.344394+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:50.120407+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Cederberg",
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "SC 159",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

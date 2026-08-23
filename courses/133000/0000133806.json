@@ -1,30 +1,37 @@
 {
 	"clbid": "0000133806",
-	"credits": 0.0,
 	"crsid": "0000033748",
 	"department": "CHEM",
 	"enrolled": 17,
-	"groupid": "0000033733",
-	"grouptype": "2",
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Ram Marahatta"
+		"Marahatta, Ram"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32192",
+			"name": "Marahatta, Ram"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Introductory Chemistry Lab",
 	"number": 122,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 355",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-03-29T13:10:05.646109+00:00",
@@ -126,12 +133,43 @@
 		{
 			"_updated": "2020-11-03T16:09:50.104962+00:00",
 			"enrolled": 18
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.442453+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033733",
+			"grouptype": "2",
+			"instructors": [
+				"Ram Marahatta"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 355",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20201,
 	"type": "Lab",

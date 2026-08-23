@@ -4,31 +4,39 @@
 	"crsid": "0000001683",
 	"department": "ENGL",
 	"enrolled": 25,
-	"instructors": [
-		"Abby Werlock"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 12,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"junior": "4/14",
-	"learningmode": "S",
+	"instructors": [
+		"Werlock, Abby"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_jr": 14,
+	"max_so": 21,
+	"max_sr": 10,
 	"name": "Immigrant Literature",
 	"number": 212,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "L 515",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "L 515",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.661436+00:00",
@@ -56,11 +64,47 @@
 		{
 			"_updated": "2020-10-15T15:23:00.599358+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.089002+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"junior": "4/14",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "L 515",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "L 515",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/10",
+			"sophomore": "12/21",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "9/10",
-	"sophomore": "12/21",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

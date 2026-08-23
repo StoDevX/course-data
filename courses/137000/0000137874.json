@@ -1,29 +1,35 @@
 {
 	"clbid": "0000137874",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 21,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 17,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Jay Demas"
+		"Demas, Jay"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21211",
+			"name": "Demas, Jay"
+		}
+	],
 	"level": 100,
 	"max": 18,
+	"max_fy": 0,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "RNS 292",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-23T16:42:52.024779+00:00",
@@ -97,6 +103,36 @@
 					"start": "11:45"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.617176+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Jay Demas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "RNS 292",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

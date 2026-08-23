@@ -1,14 +1,21 @@
 {
 	"clbid": "0000112370",
-	"credits": 0.0,
 	"crsid": "0000000188",
 	"department": "CHEM",
 	"enrolled": 17,
-	"groupid": "0000000187",
+	"enrollment_fy": 14,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Robert Hanson"
+		"Hanson, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3090",
+			"name": "Hanson, Robert"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "General Chemistry Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-04-13T23:40:12.441301+00:00",
@@ -49,6 +55,35 @@
 		{
 			"_updated": "2020-10-15T15:24:03.307308+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.492200+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000187",
+			"instructors": [
+				"Robert Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

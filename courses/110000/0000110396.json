@@ -1,48 +1,37 @@
 {
 	"clbid": "0000110396",
-	"credits": 0.0,
 	"crsid": "0000019223",
 	"department": "BIO",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"groupid": "0000019222",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Beth Pettitt"
+		"Pettitt, Beth"
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27204",
+			"name": "Pettitt, Beth"
+		}
+	],
 	"level": 200,
 	"max": 16,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_sr": 6,
 	"name": "Biology of Reproduction Lab",
 	"number": 275,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "MTThF",
+			"end": "0300PM",
 			"location": "RNS 455",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 455",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RNS 455",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "RNS 455",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-09-23T11:31:26.687837+00:00",
@@ -91,10 +80,60 @@
 		{
 			"_updated": "2021-03-02T16:51:37.969364+00:00",
 			"max": 18
+		},
+		{
+			"_updated": "2026-08-23T03:04:07.789552+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000019222",
+			"instructors": [
+				"Beth Pettitt"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 455",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 455",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 455",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RNS 455",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/6",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "9/6",
 	"status": "C",
 	"term": 20162,
 	"type": "Lab",

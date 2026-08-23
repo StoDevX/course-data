@@ -4,37 +4,38 @@
 	"crsid": "0000001294",
 	"department": "SOAN",
 	"enrolled": 24,
-	"instructors": [
-		"Thomas A. Williamson"
+	"enrollment_fy": 4,
+	"enrollment_jr": 4,
+	"enrollment_so": 9,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"junior": "4/5",
-	"learningmode": "S",
+	"instructors": [
+		"Williamson, Thomas A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14223",
+			"name": "Williamson, Thomas A."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 5,
+	"max_sr": 5,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 030",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 030",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 030",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.607450+00:00",
@@ -61,11 +62,52 @@
 		{
 			"_updated": "2020-10-15T15:23:15.111631+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.466305+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Thomas A. Williamson"
+			],
+			"instructors_full": null,
+			"junior": "4/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 030",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 030",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 030",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "7/5",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "7/5",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

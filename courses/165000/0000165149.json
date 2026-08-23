@@ -7,13 +7,24 @@
 		"A first course in statistical methods, this course addresses study design and its implications as well as exploratory and inferential techniques for analyzing and modeling data. Topics include exploratory graphics, descriptive techniques, randomization tests, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, SDS 172, and ECON 260 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Also counts toward environmental studies major (natural science and social science emphases), kinesiology major, and business and management studies, mathematical biology, and public health studies concentrations."
 	],
 	"enrolled": 30,
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 15,
+	"enrollment_sr": 4,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Carlos Chávez"
+		"Chávez, Carlos"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9003390",
+			"name": "Chávez, Carlos"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Statistics 1",
@@ -23,19 +34,7 @@
 	"number": 172,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 160R",
 			"start": "10:45"
@@ -115,6 +114,45 @@
 					"day": "Fr",
 					"end": "11:40",
 					"location": "TOH 182",
+					"start": "10:45"
+				}
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:06:04.932507+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Carlos Chávez"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 160R",
 					"start": "10:45"
 				}
 			]

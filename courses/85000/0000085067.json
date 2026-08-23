@@ -7,24 +7,32 @@
 		"This course offers instruction/review of fundamental skills and rules of racquetball. Students focus on basic strategy in games playing."
 	],
 	"enrolled": 9,
-	"firstyear": "1/0",
-	"instructors": [
-		"Vincent Varpness"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Varpness, Vincent"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19484",
+			"name": "Varpness, Vincent"
+		}
+	],
 	"level": 100,
 	"max": 8,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Racquetball (Wmn)",
 	"number": 153,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC Racq Ct",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC Racq Ct",
 			"start": "08:00"
@@ -57,11 +65,43 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.638090+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Vincent Varpness"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC Racq Ct",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC Racq Ct",
+					"start": "08:00"
+				}
+			],
+			"sophomore": "1/0"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20123,
 	"title": "Racquetball",

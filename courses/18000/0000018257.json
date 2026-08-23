@@ -4,30 +4,37 @@
 	"crsid": "0000001891",
 	"department": "IC",
 	"enrolled": 16,
-	"instructors": [
-		"Michael Fitzgerald"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"ALS-L",
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Fitzgerald, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2113",
+			"name": "Fitzgerald, Michael"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Africa & the Americas",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SPT 14",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SPT 14",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.853929+00:00",
@@ -42,6 +49,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.921210+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:54.727573+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Fitzgerald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SPT 14",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SPT 14",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

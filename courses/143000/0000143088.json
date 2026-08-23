@@ -7,17 +7,29 @@
 		"This foundation-level studio course introduces the aesthetic, conceptual, and technical foundations of new media art-making. Students explore creative approaches to digital, time-based, and interactive art processes; examples include digital photo-montage, 3D printing, video art, and web-based art. Idea generation and development is central to the course, with an emphasis on experimentation and divergent thinking. Students engage in dynamic activity, spirited investigation, and thoughtful creative expression. Offered each semester. Materials fee. Also counts toward film and media studies major and concentration."
 	],
 	"enrolled": 14,
-	"firstyear": "3/4",
+	"enrollment_fy": 3,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
 	"gereqs": [
+		"ALS-A",
 		"CRE"
 	],
 	"instructors": [
-		"Peter B. Nelson"
+		"Nelson, Peter B."
 	],
-	"junior": "4/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13653",
+			"name": "Nelson, Peter B."
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_fy": 4,
+	"max_jr": 4,
+	"max_so": 4,
+	"max_sr": 4,
 	"name": "Foundation New Media",
 	"notes": [
 		"This course has class-year limits."
@@ -25,20 +37,8 @@
 	"number": 104,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "CAD 116",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 116",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 116",
 			"start": "12:55"
 		}
@@ -52,12 +52,53 @@
 				"ALS-A",
 				"CRE"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:53.295146+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/4",
+			"gereqs": [
+				"CRE"
+			],
+			"instructors": [
+				"Peter B. Nelson"
+			],
+			"instructors_full": null,
+			"junior": "4/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 116",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 116",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 116",
+					"start": "12:55"
+				}
+			],
+			"senior": "3/4",
+			"sophomore": "4/4"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "3/4",
-	"sophomore": "4/4",
 	"status": "O",
 	"term": 20221,
 	"type": "Research",

@@ -7,33 +7,35 @@
 		"This is an introductory course for the liberal arts. Students learn study design principles and develop statistical literacy and reasoning. They learn to describe distributions, assess if known distributions fit their data, estimate population values with confidence intervals, and assess statistical significance with hypothesis tests (e.g., chi-square, z-, and t-tests, ANOVA, correlation, and regression). In addition to lectures, there is a weekly computer lab. Not recommended for students who have completed a term of calculus. STAT 110, STAT 212, and ECON 263 all provide an introduction to statistics, and students should not take more than one; they all can serve as a prerequisite for further courses. Offered each semester. Counts toward environment studies major (social science emphasis) and exercise science major."
 	],
 	"enrolled": 32,
-	"instructors": [
-		"Joe Roith"
+	"enrollment_fy": 2,
+	"enrollment_jr": 8,
+	"enrollment_so": 21,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roith, Joe"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "31140",
+			"name": "Roith, Joe"
+		}
+	],
 	"level": 100,
 	"max": 32,
+	"max_sr": 0,
 	"name": "Principles of Statistics",
 	"notes": [
-		"This course has class-year limits.",
+		"This course has class-year limits.                                              ",
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 160R",
 			"start": "10:45"
@@ -172,11 +174,52 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:36.317736+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joe Roith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits.",
+				"Supplemental Instruction (SI) is available for this course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				}
+			],
+			"senior": "1/0"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "1/0",
 	"status": "C",
 	"term": 20201,
 	"type": "Research",

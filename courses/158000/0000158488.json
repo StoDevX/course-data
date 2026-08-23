@@ -7,20 +7,30 @@
 		"Students with individual majors must register for their senior projects in spring semester of the senior year. The graded spring semester includes final research, a final presentation of the project, and completion of the web portfolio. A brief description of the student's major and senior project appears on the transcript."
 	],
 	"enrolled": 0,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"OEP"
 	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Senior Project II",
 	"notes": [
-		"Open to senior majors only. Closed during web registration.",
+		"Open to senior majors only.  Closed during web registration.                    ",
 		"Approval of web portfolio required."
 	],
 	"number": 392,
@@ -38,10 +48,30 @@
 		{
 			"_updated": "2024-10-23T02:51:48.584042+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.005806+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Open to senior majors only. Closed during web registration.",
+				"Approval of web portfolio required."
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20243,
 	"type": "Research",

@@ -1,29 +1,35 @@
 {
 	"clbid": "0000079274",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 26,
-	"firstyear": "0/0",
-	"groupid": "0000000126",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 5,
+	"enrollment_sr": 12,
 	"instructors": [
-		"David Van Wylen"
+		"Van Wylen, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8768",
+			"name": "Van Wylen, David"
+		}
+	],
 	"level": 200,
 	"max": 26,
+	"max_fy": 0,
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 254",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.091127+00:00",
@@ -42,6 +48,36 @@
 		{
 			"_updated": "2020-10-15T15:23:43.143741+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:49.638233+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000126",
+			"instructors": [
+				"David Van Wylen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 254",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

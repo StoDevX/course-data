@@ -7,15 +7,27 @@
 		"This is an introductory course for the liberal arts. Students learn study design principles and develop statistical literacy and reasoning. They learn to describe distributions, assess if known distributions fit their data, estimate population values with confidence intervals, and assess statistical significance with hypothesis tests (e.g., chi-square, z-, and t-tests, ANOVA, correlation, and regression). Not recommended for students who have completed a term of calculus. STAT 110, STAT 212, and ECON 260 all provide an introduction to statistics, and students should not take more than one; they all can serve as a prerequisite for further courses. Offered each semester. Also counts toward environment studies (social science emphasis) and kinesiology majors and public health studies concentration."
 	],
 	"enrolled": 31,
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 21,
+	"enrollment_sr": 3,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Joe Roith"
+		"Roith, Joe"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31140",
+			"name": "Roith, Joe"
+		}
+	],
 	"level": 100,
 	"max": 32,
+	"max_sr": 6,
 	"name": "Principles of Statistics",
 	"notes": [
 		"This course is open to a limited number of seniors."
@@ -23,20 +35,8 @@
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "RNS 410",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "RNS 410",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "RNS 410",
 			"start": "12:55"
 		}
@@ -56,11 +56,50 @@
 				"AQR",
 				"QCR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:02.272294+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Joe Roith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "RNS 410",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "RNS 410",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "RNS 410",
+					"start": "12:55"
+				}
+			],
+			"senior": "3/6"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "3/6",
 	"status": "C",
 	"term": 20221,
 	"type": "Research",

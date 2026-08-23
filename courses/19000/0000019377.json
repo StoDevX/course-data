@@ -4,30 +4,32 @@
 	"crsid": "0000000837",
 	"department": "MUSIC",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Dan Dressen"
+		"Dressen, Dan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1488",
+			"name": "Dressen, Dan"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Diction: English Lyric",
 	"number": 263,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CHM 224",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "CHM 224",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.461089+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:53.269670+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.481456+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dan Dressen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 224",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -7,29 +7,43 @@
 		"This course covers partial differential equations from an applied perspective and emphasizes simple models involving phenomena such as wave motion and diffusion. Topics and techniques such as separation of variables, boundary value problems, Fourier series, and orthogonal functions are developed carefully. Mathematical computing is used freely. Offered annually. Also counts toward neuroscience and mathematical biology concentrations. Prerequisite: MATH 226 and MATH 230."
 	],
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"instructors": [
-		"Matthew Wright"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 21,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wright, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "27194",
+			"name": "Wright, Matthew"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
+	"max_sr": 15,
 	"name": "Differential Equations II",
 	"notes": [
-		"Open only to rising Juniors and Seniors.",
+		"Open only to rising Juniors and Seniors.                                        ",
 		"This course has class-year limits."
 	],
 	"number": 330,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RNS 206",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 206",
 			"start": "12:45"
 		}
@@ -51,11 +65,48 @@
 			"gereqs": [
 				"WRI"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:14.300023+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Matthew Wright"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Open only to rising Juniors and Seniors.",
+				"This course has class-year limits."
+			],
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RNS 206",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 206",
+					"start": "12:45"
+				}
+			],
+			"section": null,
+			"senior": "21/15",
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 1,
-	"senior": "21/15",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20231,
 	"type": "Research",

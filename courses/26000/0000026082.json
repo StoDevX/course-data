@@ -4,49 +4,34 @@
 	"crsid": "0000000967",
 	"department": "PHIL",
 	"enrolled": 26,
-	"firstyear": "21/0",
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Edward Langerak"
+		"Langerak, Edward"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4599",
+			"name": "Langerak, Edward"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 0,
+	"max_sr": 0,
 	"name": "Death/Meaning of Life",
 	"number": 147,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "H 516",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "H 516",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 516",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "H 516",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "H 516",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.408106+00:00",
@@ -66,10 +51,63 @@
 		{
 			"_updated": "2020-10-15T15:23:02.685010+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:00.083293+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "21/0",
+			"instructors": [
+				"Edward Langerak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 516",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "H 516",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 516",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "H 516",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 516",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "3/0",
 	"status": "O",
 	"term": 19992,
 	"type": "Research",

@@ -7,35 +7,32 @@
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and structured collaborative software-development methodology. Concepts and skills are applied in a substantial team project. Topics include object-oriented programming, specification, programmed memory management, indirect addressing, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Counts toward mathematical biology and management studies concentrations; one of CSCI 121, CSCI 125, CSCI 251 counts toward linguistic studies concentration. Offered each semester.Prerequisite: CSCI 121 or CSCI 125 or CSCI 241 or PHYS 130 or MATH 252 or permission of instructor; concurrent registration in CSCI 252 is required."
 	],
 	"enrolled": 17,
-	"groupid": "0000000292",
+	"enrollment_fy": 5,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Richard Allen"
+		"Allen, Richard"
 	],
-	"junior": "7/8",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "97",
+			"name": "Allen, Richard"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_jr": 8,
+	"max_sr": 8,
 	"name": "Software Design",
 	"notes": [
-		"This course has class-year limits.",
+		"This course has class-year limits.                                              ",
 		"Students in CSCI 251 must also register for one lab CSCI 252 AL or BL."
 	],
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 202",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 202",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 202",
 			"start": "10:45"
@@ -83,10 +80,53 @@
 		{
 			"_updated": "2020-10-15T15:23:56.204406+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:48.545284+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000292",
+			"instructors": [
+				"Richard Allen"
+			],
+			"instructors_full": null,
+			"junior": "7/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits.",
+				"Students in CSCI 251 must also register for one lab CSCI 252 AL or BL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 202",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "4/8"
 		}
 	],
 	"semester": 1,
-	"senior": "4/8",
 	"status": "O",
 	"term": 20151,
 	"title": "Software Design and Implementation",

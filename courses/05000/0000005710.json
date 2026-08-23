@@ -4,15 +4,33 @@
 	"crsid": "0000000136",
 	"department": "BIO",
 	"enrolled": 7,
-	"instructors": [
-		"Jason D. Hill"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jason D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15716",
+			"name": "Hill, Jason D."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Plant Morphology",
 	"number": 252,
 	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0420PM",
+			"location": "SC 227",
+			"start": "01:20"
+		},
 		{
 			"day": "Tu",
 			"end": "09:25",
@@ -24,16 +42,9 @@
 			"end": "09:20",
 			"location": "SC 274",
 			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "16:20",
-			"location": "SC 227",
-			"start": "13:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.567312+00:00",
@@ -48,6 +59,47 @@
 		{
 			"_updated": "2020-10-15T15:23:13.447926+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.127755+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jason D. Hill"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:20",
+					"location": "SC 274",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "SC 227",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

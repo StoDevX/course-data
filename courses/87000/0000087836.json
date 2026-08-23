@@ -7,20 +7,34 @@
 		"This course presents an introduction/review of beginning golf skills, rules, and strategies. The course is not intended for the experienced golfer. Equipment available. Lab fee."
 	],
 	"enrolled": 19,
-	"firstyear": "0/2",
-	"instructors": [
-		"David A. Stromme"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Stromme, David A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19528",
+			"name": "Stromme, David A."
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_fy": 2,
+	"max_jr": 4,
+	"max_so": 2,
 	"name": "Golf",
 	"number": 103,
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "14:00",
+			"end": "0200PM",
 			"location": "Tostrud Ctr",
 			"start": "12:00"
 		}
@@ -60,11 +74,38 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.632098+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/2",
+			"gereqs": null,
+			"instructors": [
+				"David A. Stromme"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "14:00",
+					"location": "Tostrud Ctr",
+					"start": "12:00"
+				}
+			],
+			"sophomore": "1/2"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "1/2",
 	"status": "C",
 	"term": 20123,
 	"type": "Research",

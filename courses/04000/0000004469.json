@@ -4,78 +4,41 @@
 	"crsid": "0000000104",
 	"department": "BIO",
 	"enrolled": 28,
-	"instructors": [
-		"Mary C. Henry"
+	"enrollment_fy": 5,
+	"enrollment_jr": 8,
+	"enrollment_so": 5,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"NSC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Henry, Mary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13155",
+			"name": "Henry, Mary C."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "The Biology of Women",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "SC 130",
+			"start": "02:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 130",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "SC 130",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "SC 130",
-			"start": "14:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:57.553729+00:00",
@@ -90,6 +53,88 @@
 		{
 			"_updated": "2020-10-15T15:23:11.232270+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:37.186919+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary C. Henry"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 130",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "SC 130",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

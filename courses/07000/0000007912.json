@@ -4,36 +4,36 @@
 	"crsid": "0000000463",
 	"department": "ENVST",
 	"enrolled": 25,
-	"instructors": [
-		"Matthew Rohn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 5,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Rohn, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		}
+	],
 	"level": 200,
 	"max": 26,
 	"name": "Nature & Am Landscape",
 	"number": 270,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 305",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.858625+00:00",
@@ -54,6 +54,47 @@
 		{
 			"_updated": "2020-10-15T15:23:16.523931+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.737904+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

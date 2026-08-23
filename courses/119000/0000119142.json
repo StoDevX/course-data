@@ -7,16 +7,26 @@
 		"Students work intensively on a special topic in mathematics. Topics vary from year to year. May be repeated if topic is different. Offered annually."
 	],
 	"enrolled": 18,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 14,
 	"instructors": [
-		"Adam H. Berliner"
+		"Berliner, Adam H."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21092",
+			"name": "Berliner, Adam H."
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_so": 3,
 	"name": "Sem: Graph Theory",
 	"notes": [
-		"Prerequisite: MATH 244 or MATH 252.",
+		"Prerequisite: MATH 244 or MATH 252.                                             ",
 		"This course has class-year limits."
 	],
 	"number": 382,
@@ -35,7 +45,7 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": "MATH 244 or MATH 252.",
+	"prerequisites": "MATH 244 or MATH 252.                                             ",
 	"revisions": [
 		{
 			"_updated": "2018-02-03T00:04:45.494776+00:00",
@@ -138,10 +148,33 @@
 		{
 			"_updated": "2020-10-15T15:24:07.343097+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.909595+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Adam H. Berliner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: MATH 244 or MATH 252.",
+				"This course has class-year limits."
+			],
+			"prerequisites": "MATH 244 or MATH 252.",
+			"section": null,
+			"sophomore": "0/3"
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/3",
 	"status": "C",
 	"term": 20181,
 	"title": "Topics in Mathematics",

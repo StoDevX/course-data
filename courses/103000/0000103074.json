@@ -7,10 +7,26 @@
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
 	"enrolled": 14,
-	"instructors": [
-		"David C. Schalliol"
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 6,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS",
+		"MCD",
+		"MCG",
+		"MCS-D",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schalliol, David C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "27152",
+			"name": "Schalliol, David C."
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Top: Visual Sociology",
@@ -18,15 +34,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 240",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 240",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -79,6 +95,38 @@
 			"gereqs": [
 				"MCG"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.486178+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David C. Schalliol"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 240",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 240",
+					"start": "14:15"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

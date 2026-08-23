@@ -4,30 +4,32 @@
 	"crsid": "0000000949",
 	"department": "NURS",
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 18,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Diana Neal"
+		"Neal, Diana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5499",
+			"name": "Neal, Diana"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Application/Nurs Conc",
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:00",
-			"location": "H 215",
-			"start": "07:30"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
+			"day": "TTh",
+			"end": "0100PM",
 			"location": "H 215",
 			"start": "07:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.718608+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:10.625895+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.490716+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Diana Neal"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:00",
+					"location": "H 215",
+					"start": "07:30"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "H 215",
+					"start": "07:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

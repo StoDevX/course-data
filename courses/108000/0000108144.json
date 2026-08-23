@@ -1,26 +1,47 @@
 {
-	"clbid": 108144,
+	"clbid": "0000108144",
 	"credits": 1.0,
-	"crsid": 733,
-	"departments": [
-		"MATH"
+	"crsid": "0000000733",
+	"department": "MATH",
+	"description": [
+		"This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation."
 	],
-	"description": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"AQR"
+		"AQR",
+		"MAR"
 	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 100,
-	"locations": [
-		"TBA"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 100,
+	"max": 0,
 	"name": "Calculus II",
-	"notes": "Supplemental Instruction (SI) is available for this course. This course has been canceled.",
+	"notes": [
+		"Supplemental Instruction (SI) is available for this course.                     ",
+		"This course has been canceled."
+	],
 	"number": 126,
+	"offerings": [
+		{
+			"day": "MWF",
+			"end": "1245PM",
+			"location": "TBA",
+			"start": "11:50"
+		}
+	],
 	"pn": false,
-	"prerequisites": "Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
+	"prerequisites": "MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.154457+00:00",
@@ -50,15 +71,45 @@
 		{
 			"_updated": "2017-01-28T23:02:42.483721+00:00",
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:04:11.512499+00:00",
+			"clbid": 108144,
+			"crsid": 733,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "This course covers methods and applications of integration, geometric and Taylor series, and introduces partial derivatives and double integrals. Credit may be earned for either MATH 126 or MATH 128, but not both. Offered each semester. Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"AQR"
+			],
+			"instructors_full": null,
+			"locations": [
+				"TBA"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "Supplemental Instruction (SI) is available for this course. This course has been canceled.",
+			"offerings": null,
+			"prerequisites": "Prerequisite: MATH 119 or MATH 120 or equivalent, or mathematics placement recommendation.",
+			"times": [
+				"MWF 1150-1245PM"
+			]
 		}
 	],
 	"section": "D",
 	"semester": 3,
 	"status": "X",
 	"term": 20163,
-	"times": [
-		"MWF 1150-1245PM"
-	],
 	"type": "Research",
 	"year": 2016
 }

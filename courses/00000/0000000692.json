@@ -4,30 +4,37 @@
 	"crsid": "0000001377",
 	"department": "THEAT",
 	"enrolled": 24,
-	"instructors": [
-		"Carl Isaacson"
+	"enrollment_fy": 2,
+	"enrollment_jr": 13,
+	"enrollment_so": 7,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HBS",
+		"ORC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Isaacson, Carl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10507",
+			"name": "Isaacson, Carl"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Public Speaking",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "CT 227",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "CT 227",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.751069+00:00",
@@ -42,6 +49,40 @@
 		{
 			"_updated": "2020-10-15T15:23:05.107183+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:20.054909+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Carl Isaacson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CT 227",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "CT 227",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

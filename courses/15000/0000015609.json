@@ -4,16 +4,27 @@
 	"crsid": "0000000705",
 	"department": "ID",
 	"enrolled": 27,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 12,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ALS-A"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Theater in London",
 	"number": 258,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.693165+00:00",
@@ -28,6 +39,24 @@
 		{
 			"_updated": "2020-10-15T15:22:47.284576+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:45.328620+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -7,16 +7,26 @@
 		"This course provides a critical analysis of the development of Christian thought in the Middle Ages and Reformation, 11th through 16th centuries. Particular attention is paid to the great theological systems of the Middle Ages and to the theological aims of the 16th-century reforming movements, drawing upon readings from Anselm, Aquinas, Bonaventure, Luther, Calvin, and others. Offered periodically."
 	],
 	"enrolled": 17,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 9,
+	"enrollment_sr": 5,
 	"gereqs": [
+		"BTS-T",
 		"CTD"
 	],
 	"instructors": [
-		"Charles Wilson"
+		"Wilson, Charles"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9090",
+			"name": "Wilson, Charles"
+		}
+	],
 	"level": 300,
 	"max": 27,
+	"max_fy": 0,
 	"name": "History of Christian Thought II",
 	"notes": [
 		"Not open to first-year students."
@@ -25,15 +35,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "OM 010",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "OM 010",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -153,6 +163,41 @@
 				"BTS-T",
 				"CTD"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.255555+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": [
+				"CTD"
+			],
+			"instructors": [
+				"Charles Wilson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "OM 010",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "OM 010",
+					"start": "14:15"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

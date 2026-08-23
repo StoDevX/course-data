@@ -4,36 +4,32 @@
 	"crsid": "0000001254",
 	"department": "REL",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Edmund Santurri"
+		"Santurri, Edmund"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7020",
+			"name": "Santurri, Edmund"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Sem: Terror and Christian",
 	"number": 395,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "BMC 109",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "BMC 109",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "BMC 109",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:20.429577+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:23.745494+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:17.445943+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Edmund Santurri"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "BMC 109",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "BMC 109",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "BMC 109",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

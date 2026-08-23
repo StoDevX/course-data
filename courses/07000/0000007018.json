@@ -4,10 +4,19 @@
 	"crsid": "0000000605",
 	"department": "HIST",
 	"enrolled": 4,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Gwen Barnes-Karol"
+		"Barnes-Karol, Gwen"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "332",
+			"name": "Barnes-Karol, Gwen"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "FLC-Spanish",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "19:30",
+			"end": "0730PM",
 			"location": "OM 020",
-			"start": "18:30"
+			"start": "06:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.346151+00:00",
@@ -42,6 +50,33 @@
 			"instructors": [
 				"Gwendolyn Barnes-Karol"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.743763+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Gwen Barnes-Karol"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "19:30",
+					"location": "OM 020",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "L",

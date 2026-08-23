@@ -4,48 +4,37 @@
 	"crsid": "0000001844",
 	"department": "HIST",
 	"enrolled": 38,
-	"instructors": [
-		"Stephen Blake"
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 27,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-L",
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Blake, Stephen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "609",
+			"name": "Blake, Stephen"
+		}
+	],
 	"level": 200,
 	"max": 50,
 	"name": "British India",
 	"number": 255,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "H 307",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.315176+00:00",
@@ -60,6 +49,59 @@
 		{
 			"_updated": "2020-10-15T15:22:54.167226+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:01.651779+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Stephen Blake"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "H 307",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

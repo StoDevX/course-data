@@ -7,13 +7,24 @@
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester. Prerequisite: mathematics placement recommendation."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 19,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Adam L. Schultze"
+		"Schultze, Adam L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33061",
+			"name": "Schultze, Adam L."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Calculus I",
@@ -23,20 +34,8 @@
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TOH 110",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TOH 110",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TOH 110",
 			"start": "11:50"
 		}
@@ -49,6 +48,45 @@
 			"gereqs": [
 				"AQR",
 				"QCR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.566429+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Adam L. Schultze"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TOH 110",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TOH 110",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TOH 110",
+					"start": "11:50"
+				}
 			]
 		}
 	],

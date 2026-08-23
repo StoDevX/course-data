@@ -4,18 +4,28 @@
 	"crsid": "0000001121",
 	"department": "PSCI",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Pol Econ: Eur,Jpn,Us",
 	"number": 251,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.945335+00:00",
@@ -37,11 +47,30 @@
 		{
 			"_updated": "2020-10-15T15:22:46.800369+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.458243+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "0/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

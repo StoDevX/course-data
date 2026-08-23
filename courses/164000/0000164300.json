@@ -1,15 +1,21 @@
 {
 	"clbid": "0000164300",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 22,
-	"groupid": "0000026649",
-	"grouptype": "3",
+	"enrollment_fy": 20,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Lynn N. Schofield"
+		"Schofield, Lynn N."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34098",
+			"name": "Schofield, Lynn N."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Biodiversity Found Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 255",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-03-01T02:58:04.242491+00:00",
@@ -51,6 +56,36 @@
 			"_updated": "2025-11-08T02:58:51.790044+00:00",
 			"enrolled": 5,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:32.994380+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "3",
+			"instructors": [
+				"Lynn N. Schofield"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 255",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

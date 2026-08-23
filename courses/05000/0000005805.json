@@ -4,13 +4,27 @@
 	"crsid": "0000000311",
 	"department": "EDUC",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"instructors": [
-		"Daniel R. Forstner"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Forstner, Daniel R."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15723",
+			"name": "Forstner, Daniel R."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Educ Psychology",
 	"number": 290,
 	"offerings": [
@@ -28,7 +42,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.689268+00:00",
@@ -49,12 +62,33 @@
 		{
 			"_updated": "2020-10-15T15:23:13.491943+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.158182+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Daniel R. Forstner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "6/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "6/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

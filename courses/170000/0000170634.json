@@ -7,32 +7,31 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and during January term. Prerequisite: MATH 119, MATH 120 or CSCI 221."
 	],
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Elana J. Israel"
+		"Brooke, Corey T."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9006263",
+			"name": "Brooke, Corey T."
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Elem Linear Algebra",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 204",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 204",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 204",
 			"start": "09:05"
@@ -40,6 +39,47 @@
 	],
 	"pn": false,
 	"prerequisites": "MATH 119, MATH 120 or CSCI 221.",
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:43.636884+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Elana J. Israel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 204",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 204",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 204",
+					"start": "09:05"
+				}
+			]
+		}
+	],
 	"section": "B",
 	"semester": 3,
 	"status": "O",

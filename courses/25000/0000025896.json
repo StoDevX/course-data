@@ -4,31 +4,38 @@
 	"crsid": "0000001398",
 	"department": "THEAT",
 	"enrolled": 7,
-	"instructors": [
-		"Gary C. Gisselman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MCS-D"
 	],
-	"junior": "3/13",
-	"learningmode": "S",
+	"instructors": [
+		"Gisselman, Gary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10426",
+			"name": "Gisselman, Gary C."
+		}
+	],
 	"level": 300,
 	"max": 15,
+	"max_jr": 13,
+	"max_so": 9,
+	"max_sr": 15,
 	"name": "Towards An Artistic P",
 	"number": 379,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CT 227",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CT 227",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.586743+00:00",
@@ -56,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:23:02.296702+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:57.901884+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary C. Gisselman"
+			],
+			"instructors_full": null,
+			"junior": "3/13",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CT 227",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CT 227",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/15",
+			"sophomore": "2/9",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/15",
-	"sophomore": "2/9",
 	"status": "O",
 	"term": 19991,
 	"type": "Topic",

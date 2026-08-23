@@ -4,48 +4,36 @@
 	"crsid": "0000001580",
 	"department": "ECON",
 	"enrolled": 14,
-	"instructors": [
-		"Kathy C. Thomforde"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thomforde, Kathy C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1070",
+			"name": "Thomforde, Kathy C."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Arts Management",
 	"number": 229,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Tu",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "We",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Th",
-			"end": "12:30",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Fr",
-			"end": "12:30",
+			"day": "M-F",
+			"end": "1230PM",
 			"location": "H 413",
 			"start": "10:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.057027+00:00",
@@ -60,6 +48,59 @@
 		{
 			"_updated": "2020-10-15T15:22:57.026259+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.109928+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kathy C. Thomforde"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Tu",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "We",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Fr",
+					"end": "12:30",
+					"location": "H 413",
+					"start": "10:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

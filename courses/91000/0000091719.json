@@ -4,10 +4,23 @@
 	"crsid": "0000021545",
 	"department": "HIST",
 	"enrolled": 25,
-	"instructors": [
-		"Abdulai Iddrisu"
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"MCG",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Iddrisu, Abdulai"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21082",
+			"name": "Iddrisu, Abdulai"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Top: Intro to Afr Hist",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 317",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 317",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:12.419367+00:00",
@@ -48,6 +60,40 @@
 			"gereqs": [
 				"MCG"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:19.380100+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Abdulai Iddrisu"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 317",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 317",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

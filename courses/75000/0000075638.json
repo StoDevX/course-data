@@ -7,10 +7,22 @@
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the class and lab schedule when it is offered."
 	],
 	"enrolled": 16,
-	"instructors": [
-		"Edward W. Gimbel"
+	"enrollment_fy": 2,
+	"enrollment_jr": 10,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gimbel, Edward W."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "21948",
+			"name": "Gimbel, Edward W."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Top: Am Foreign Policy",
@@ -18,15 +30,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 317",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 317",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -45,6 +57,38 @@
 		{
 			"_updated": "2020-10-15T15:23:39.789899+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:33.830817+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Edward W. Gimbel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 317",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 317",
+					"start": "14:15"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

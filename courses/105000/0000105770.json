@@ -4,17 +4,24 @@
 	"crsid": "0000000223",
 	"department": "CHEM",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Paul T. Jackson"
+		"Jackson, Paul T."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3644",
+			"name": "Jackson, Paul T."
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
 	"name": "IR/Sci Instruments/Environ Problems",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:43:46.502976+00:00",
@@ -44,6 +51,27 @@
 		{
 			"_updated": "2020-10-15T15:23:59.738440+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:03.944667+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Paul T. Jackson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

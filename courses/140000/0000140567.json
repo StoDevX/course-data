@@ -4,19 +4,38 @@
 	"crsid": "0000022795",
 	"department": "ASIAN",
 	"enrolled": 25,
+	"enrollment_fy": 3,
+	"enrollment_jr": 2,
+	"enrollment_so": 15,
+	"enrollment_sr": 5,
 	"gereqs": [
-		"GHS"
+		"ALS-L",
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Jeffrey T. Walker"
+		"Walker, Jeffrey T."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33025",
+			"name": "Walker, Jeffrey T."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Ghosts of Premodern Japan",
 	"number": 201,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "1240PM",
+			"location": "VRTL Online",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-17T16:57:57.314692+00:00",
@@ -82,6 +101,30 @@
 				"MCG",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:44.203444+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Jeffrey T. Walker"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

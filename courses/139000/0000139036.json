@@ -7,17 +7,29 @@
 		"This course explores the varied dimensions of human sexuality as they affect and are affected by past and present human relationships. Sexual problems and issues are examined for the development of a value framework and for the enrichment of family life. The course emphasizes critical thinking skills applied to current issues in human sexuality (e.g. gay marriage, race and gender issues, sexual violence). Students examine issues in contemporary research and ethics in sexuality. Offered each semester. Also counts toward women's and gender studies major and concentration."
 	],
 	"enrolled": 29,
-	"firstyear": "5/4",
+	"enrollment_fy": 5,
+	"enrollment_jr": 9,
+	"enrollment_so": 5,
+	"enrollment_sr": 10,
 	"gereqs": [
+		"ORC",
 		"SCS"
 	],
 	"instructors": [
-		"Erica Kanewischer"
+		"Kanewischer, Erica"
 	],
-	"junior": "9/13",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14740",
+			"name": "Kanewischer, Erica"
+		}
+	],
 	"level": 200,
 	"max": 28,
+	"max_fy": 4,
+	"max_jr": 13,
+	"max_so": 4,
+	"max_sr": 9,
 	"name": "Human Sexuality",
 	"notes": [
 		"This course has class-year limits."
@@ -25,20 +37,8 @@
 	"number": 253,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 434",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 434",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 434",
 			"start": "11:50"
 		}
@@ -118,11 +118,53 @@
 				"ORC",
 				"SCS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.692615+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/4",
+			"gereqs": [
+				"SCS"
+			],
+			"instructors": [
+				"Erica Kanewischer"
+			],
+			"instructors_full": null,
+			"junior": "9/13",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 434",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 434",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 434",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"senior": "10/9",
+			"sophomore": "5/4"
 		}
 	],
 	"semester": 3,
-	"senior": "10/9",
-	"sophomore": "5/4",
 	"status": "C",
 	"term": 20213,
 	"type": "Research",

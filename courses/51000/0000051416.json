@@ -7,14 +7,26 @@
 		"This course offers an introduction to the physics of sound waves, the biological, physical and psychological origins of sound perception and the synthesis of sounds and sound production in different instruments. Students explore these topics, as well as sound recording and reproduction systems, through lectures, discussions, laboratory experiments and student presentations. Prerequisite: proficiency in algebra and geometry. No musical experience necessary. Interim only."
 	],
 	"enrolled": 28,
-	"firstyear": "8/0",
-	"groupid": "0000001086",
-	"instructors": [
-		"David Nitz"
+	"enrollment_fy": 8,
+	"enrollment_jr": 4,
+	"enrollment_so": 11,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nitz, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
 	"name": "Musical Acoustics",
 	"notes": [
 		"Students in Physics 252 must also register for lab Physics 252 L."
@@ -22,31 +34,7 @@
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 170",
-			"start": "08:30"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 170",
 			"start": "08:30"
@@ -76,6 +64,58 @@
 		{
 			"_updated": "2020-10-15T15:23:24.301501+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:20.198709+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/0",
+			"gereqs": null,
+			"groupid": "0000001086",
+			"instructors": [
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 170",
+					"start": "08:30"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

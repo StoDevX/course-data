@@ -4,36 +4,35 @@
 	"crsid": "0000001113",
 	"department": "PSCI",
 	"enrolled": 19,
-	"instructors": [
-		"Sheryl D. Breen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Breen, Sheryl D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13316",
+			"name": "Breen, Sheryl D."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Analyzing Politics",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "BMC 101",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "BMC 101",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "BMC 101",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.704187+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:23:16.703018+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.695117+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl D. Breen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "BMC 101",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "BMC 101",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "BMC 101",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

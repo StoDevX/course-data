@@ -4,38 +4,39 @@
 	"crsid": "0000000021",
 	"department": "ART",
 	"enrolled": 20,
-	"firstyear": "4/7",
-	"instructors": [
-		"Wendell Arneson"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 7,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/3",
-	"learningmode": "S",
+	"instructors": [
+		"Arneson, Wendell"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 7,
+	"max_jr": 3,
+	"max_so": 4,
+	"max_sr": 2,
 	"name": "Found Color Design",
 	"number": 113,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 116",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 116",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 116",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:42.948026+00:00",
@@ -70,12 +71,54 @@
 		{
 			"_updated": "2020-10-15T15:23:13.417967+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.110500+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/7",
+			"gereqs": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"junior": "3/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 116",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"senior": "6/2",
+			"sophomore": "7/4",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "6/2",
-	"sophomore": "7/4",
 	"status": "O",
 	"term": 20031,
 	"type": "Research",

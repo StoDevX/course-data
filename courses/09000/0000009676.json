@@ -4,43 +4,47 @@
 	"crsid": "0000000916",
 	"department": "NEURO",
 	"enrolled": 20,
-	"instructors": [
-		"Alan F. Ernst",
-		"Anne Walter"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NSL",
+		"NST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Ernst, Alan F.",
+		"Walter, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16716",
+			"name": "Ernst, Alan F."
+		},
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 200,
 	"max": 28,
 	"name": "Intro to Neuroscience",
 	"number": 234,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RML 515",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RML 515",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RML 515",
 			"start": "09:05"
 		},
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 253",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.400579+00:00",
@@ -55,6 +59,54 @@
 		{
 			"_updated": "2020-10-15T15:23:18.278152+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.738621+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Alan F. Ernst",
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				},
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 253",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

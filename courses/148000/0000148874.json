@@ -1,14 +1,21 @@
 {
 	"clbid": "0000148874",
-	"credits": 0.0,
 	"crsid": "0000000661",
 	"department": "JAPAN",
 	"enrolled": 14,
-	"groupid": "0000000660",
+	"enrollment_fy": 8,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Beginning Japanese II Lab",
@@ -16,13 +23,40 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:20",
+			"end": "1220PM",
 			"location": "TOH 212",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:05:09.142995+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000660",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:20",
+					"location": "TOH 212",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "O",

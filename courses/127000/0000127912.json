@@ -4,16 +4,23 @@
 	"crsid": "0000000345",
 	"department": "EDUC",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jill A. Watson"
+		"Watson, Jill A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28066",
+			"name": "Watson, Jill A."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Linguistics of Jamaican Patois",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-27T05:11:12.125637+00:00",
@@ -32,6 +39,25 @@
 		{
 			"_updated": "2021-03-02T16:51:46.338024+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.863354+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jill A. Watson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "B",

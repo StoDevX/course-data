@@ -1,15 +1,26 @@
 {
 	"clbid": "0000118728",
-	"credits": 0.0,
 	"crsid": "0000001265",
 	"department": "RUSSN",
 	"enrolled": 14,
-	"groupid": "0000001264",
+	"enrollment_fy": 2,
+	"enrollment_jr": 0,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Margarita Safariants",
-		"Anna Pearce"
+		"Pearce, Anna",
+		"Safariants, Margarita"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30199",
+			"name": "Pearce, Anna"
+		},
+		{
+			"fsnum": "29097",
+			"name": "Safariants, Margarita"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Russian I Lab",
@@ -17,13 +28,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:40",
+			"end": "1240PM",
 			"location": "TOH 108",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-05-12T03:00:12.440062+00:00",
@@ -87,6 +97,36 @@
 		{
 			"_updated": "2020-10-15T15:24:07.178435+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:22.314379+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001264",
+			"instructors": [
+				"Margarita Safariants",
+				"Anna Pearce"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "TOH 108",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

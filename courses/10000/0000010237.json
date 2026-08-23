@@ -7,32 +7,39 @@
 		"This introduction to the materials and concepts of art history is aimed at first-year students, sophomores and beginning majors. It provides a chronological survey of the painting, sculpture, architecture and decorative arts of the West. Students learn visual analysis and key art historical terminology along with the extraordinary cultural contexts and heritages informing this art."
 	],
 	"enrolled": 55,
-	"firstyear": "14/15",
-	"instructors": [
-		"Nancy M. Thompson",
-		"Karil J. Kucera"
+	"enrollment_fy": 14,
+	"enrollment_jr": 11,
+	"enrollment_so": 18,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"junior": "11/9",
-	"learningmode": "S",
+	"instructors": [
+		"Kucera, Karil J.",
+		"Thompson, Nancy M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		},
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 100,
 	"max": 50,
+	"max_fy": 15,
+	"max_jr": 9,
+	"max_so": 9,
+	"max_sr": 8,
 	"name": "Intro/Art History I",
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CAD 305",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CAD 305",
 			"start": "10:45"
@@ -74,11 +81,52 @@
 		{
 			"_updated": "2020-10-15T15:23:19.768053+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.405138+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "14/15",
+			"gereqs": null,
+			"instructors": [
+				"Nancy M. Thompson",
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"junior": "11/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CAD 305",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "12/8",
+			"sophomore": "18/9"
 		}
 	],
 	"semester": 1,
-	"senior": "12/8",
-	"sophomore": "18/9",
 	"status": "O",
 	"term": 20051,
 	"title": "Ancient through Medieval Art",

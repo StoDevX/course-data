@@ -4,32 +4,42 @@
 	"crsid": "0000000042",
 	"department": "ART",
 	"enrolled": 11,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Patrick T. Kelley"
+		"Kelley, Patrick T."
 	],
-	"junior": "2/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14002",
+			"name": "Kelley, Patrick T."
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
+	"max_jr": 5,
+	"max_so": 6,
+	"max_sr": 4,
 	"name": "Motion Graphics",
 	"number": 230,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 100",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "CAD 100",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.171364+00:00",
@@ -68,11 +78,47 @@
 		{
 			"_updated": "2020-10-15T15:23:10.420259+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.750021+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Patrick T. Kelley"
+			],
+			"instructors_full": null,
+			"junior": "2/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 100",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "CAD 100",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/4",
+			"sophomore": "3/6",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "6/4",
-	"sophomore": "3/6",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

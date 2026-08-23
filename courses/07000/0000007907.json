@@ -4,14 +4,28 @@
 	"crsid": "0000000455",
 	"department": "ENVST",
 	"enrolled": 23,
-	"firstyear": "6/9",
-	"instructors": [
-		"Robert Jacobel"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "1/7",
-	"learningmode": "S",
+	"instructors": [
+		"Jacobel, Robert"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3646",
+			"name": "Jacobel, Robert"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 9,
+	"max_jr": 7,
+	"max_so": 7,
+	"max_sr": 6,
 	"name": "Intro: Env Studies",
 	"number": 137,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.346888+00:00",
@@ -58,12 +71,34 @@
 		{
 			"_updated": "2020-10-15T15:23:16.521616+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.736516+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/9",
+			"gereqs": null,
+			"instructors": [
+				"Robert Jacobel"
+			],
+			"instructors_full": null,
+			"junior": "1/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "6/6",
+			"sophomore": "10/7",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "6/6",
-	"sophomore": "10/7",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

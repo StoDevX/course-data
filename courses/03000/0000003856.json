@@ -1,20 +1,30 @@
 {
 	"clbid": "0000003856",
-	"credits": 0.0,
 	"crsid": "0000000312",
 	"department": "EDUC",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Rosemary A. Pfarr-Baker",
-		"Heather Campbell"
+		"Campbell, Heather",
+		"Pfarr-Baker, Rosemary A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "903",
+			"name": "Campbell, Heather"
+		},
+		{
+			"fsnum": "10410",
+			"name": "Pfarr-Baker, Rosemary A."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Standards/Technology",
 	"number": 291,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.515269+00:00",
@@ -29,6 +39,28 @@
 		{
 			"_updated": "2020-10-15T15:23:10.489102+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.797615+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Rosemary A. Pfarr-Baker",
+				"Heather Campbell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

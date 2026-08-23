@@ -4,43 +4,42 @@
 	"crsid": "0000001107",
 	"department": "PSCI",
 	"enrolled": 25,
-	"firstyear": "14/20",
-	"instructors": [
-		"Daniel Hofrenning"
+	"enrollment_fy": 14,
+	"enrollment_jr": 0,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hofrenning, Dan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3418",
+			"name": "Hofrenning, Dan"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 20,
 	"name": "Politics of Religion",
 	"number": 115,
 	"offerings": [
 		{
 			"day": "Mo",
+			"end": "0900PM",
+			"location": "H 403",
+			"start": "07:00"
+		},
+		{
+			"day": "MWTh",
 			"end": "10:00",
 			"location": "H 403",
 			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 403",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "H 403",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "21:00",
-			"location": "H 403",
-			"start": "19:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.548968+00:00",
@@ -64,6 +63,54 @@
 		{
 			"_updated": "2020-10-15T15:23:05.501360+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.618401+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "14/20",
+			"gereqs": null,
+			"instructors": [
+				"Daniel Hofrenning"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 403",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 403",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "H 403",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "21:00",
+					"location": "H 403",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -4,30 +4,32 @@
 	"crsid": "0000001181",
 	"department": "PSYCH",
 	"enrolled": 15,
+	"enrollment_fy": 1,
+	"enrollment_jr": 10,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Richard Senese"
+		"Senese, Richard"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7388",
+			"name": "Senese, Richard"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Psych of Counseling",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 302/H320",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 302/H320",
 			"start": "09:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.404971+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:59.446376+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:05.253068+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Richard Senese"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 302/H320",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 302/H320",
+					"start": "09:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

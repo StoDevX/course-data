@@ -4,10 +4,22 @@
 	"crsid": "0000000348",
 	"department": "DNCTE",
 	"enrolled": 20,
-	"instructors": [
-		"Anne von Bibra"
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 12,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"von Bibra, Anne"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8817",
+			"name": "von Bibra, Anne"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Am Dn: Native/Immigrnt",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:45",
-			"location": "CAD STUDIO 1",
+			"end": "1245PM",
+			"location": "CAD  STUDIO 1",
 			"start": "11:50"
 		},
 		{
 			"day": "Th",
-			"end": "13:40",
-			"location": "CAD STUDIO 1",
+			"end": "0140PM",
+			"location": "CAD  STUDIO 1",
 			"start": "12:45"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:16.997482+00:00",
@@ -56,6 +67,41 @@
 		{
 			"_updated": "2020-10-15T15:23:12.010103+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.637154+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne von Bibra"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "CAD STUDIO 1",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "13:40",
+					"location": "CAD STUDIO 1",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

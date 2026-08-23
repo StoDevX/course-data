@@ -7,38 +7,35 @@
 		"This course is the gateway for the biology major, guiding students as they develop the context, skills, and modern framework on which to continue their study of biology. Students explore the history, evolution, and diversity of life in the context of genetics and comparative genomics. The laboratory emphasizes question-asking, problem-solving, and exploring biodiversity, and students have multiple opportunities to practice and communicate their science. Students attend lectures plus one 3-hour laboratory/discussion per week. Offered each semester. Also counts toward biomolecular science concentration."
 	],
 	"enrolled": 33,
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 30,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000026649",
-	"grouptype": "3",
 	"instructors": [
-		"Jennifer Brentrup"
+		"Brentrup, Jennifer"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32173",
+			"name": "Brentrup, Jennifer"
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Biodiversity Foundations",
 	"notes": [
-		"Students in Bio 150B must also register for one lab Bio 150 GL or HL.",
+		"Students in Bio 150B must also register for one lab Bio 150 GL or HL.           ",
 		"Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "TOH 210",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "TOH 210",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "TOH 210",
 			"start": "09:05"
@@ -162,6 +159,51 @@
 				"IST",
 				"SED",
 				"NTS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.772773+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000026649",
+			"grouptype": "3",
+			"instructors": [
+				"Jennifer Brentrup"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Bio 150B must also register for one lab Bio 150 GL or HL.",
+				"Supplemental Instruction (SI) is available for this course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "TOH 210",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "TOH 210",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "TOH 210",
+					"start": "09:05"
+				}
 			]
 		}
 	],

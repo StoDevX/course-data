@@ -4,14 +4,29 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 35,
-	"firstyear": "4/2",
-	"instructors": [
-		"Michael Leming"
+	"enrollment_fy": 4,
+	"enrollment_jr": 5,
+	"enrollment_so": 14,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "5/2",
-	"learningmode": "S",
+	"instructors": [
+		"Leming, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4762",
+			"name": "Leming, Michael"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 2,
+	"max_jr": 2,
+	"max_so": 6,
+	"max_sr": 3,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
@@ -29,7 +44,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.074258+00:00",
@@ -75,12 +89,34 @@
 		{
 			"_updated": "2020-10-15T15:23:13.710509+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.587935+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/2",
+			"gereqs": null,
+			"instructors": [
+				"Michael Leming"
+			],
+			"instructors_full": null,
+			"junior": "5/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "12/3",
+			"sophomore": "14/6",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "12/3",
-	"sophomore": "14/6",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

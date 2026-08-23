@@ -4,30 +4,31 @@
 	"crsid": "0000000332",
 	"department": "EDUC",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Paul Niemisto"
+		"Niemisto, Paul"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5614",
+			"name": "Niemisto, Paul"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Tchg of Instru Music",
 	"number": 359,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "CHM 138",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "CHM 138",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.665364+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.533647+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:57.629704+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Paul Niemisto"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "CHM 138",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "CHM 138",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

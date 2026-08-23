@@ -4,16 +4,24 @@
 	"crsid": "0000001554",
 	"department": "CHEM",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"George L. Hardgrove"
+		"Hardgrove, George L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3101",
+			"name": "Hardgrove, George L."
+		}
+	],
 	"level": 200,
 	"max": 1,
 	"name": "Physical Lab",
 	"number": 257,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:27.437553+00:00",
@@ -28,6 +36,26 @@
 		{
 			"_updated": "2020-10-15T15:22:55.387575+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:43.818636+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"George L. Hardgrove"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

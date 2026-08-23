@@ -4,54 +4,42 @@
 	"crsid": "0000000533",
 	"department": "GCON",
 	"enrolled": 21,
-	"instructors": [
-		"Gary Stansell"
+	"enrollment_fy": 17,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"FYW",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Stansell, Gary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7921",
+			"name": "Stansell, Gary"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Medieval Synthesis",
 	"number": 116,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 516",
 			"start": "12:55"
 		},
 		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 516",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
-			"location": "H 516",
-			"start": "12:55"
-		},
-		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "H 501 PLENARY",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "H 501 PLENARY",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "H 501 PLENARY",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.719363+00:00",
@@ -66,6 +54,64 @@
 		{
 			"_updated": "2020-10-15T15:23:00.637293+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:21.342131+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary Stansell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 516",
+					"start": "12:55"
+				},
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "H 501 PLENARY",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "H 501 PLENARY",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "H 501 PLENARY",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "F",

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000143731",
-	"credits": 0.0,
 	"crsid": "0000036590",
 	"department": "FYS",
 	"enrolled": 12,
-	"groupid": "0000036173",
-	"grouptype": "D",
+	"enrollment_fy": 12,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "SOAR Discussion",
@@ -20,13 +26,41 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "RNS 124",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:04:58.066273+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000036173",
+			"grouptype": "D",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "RNS 124",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
+		}
+	],
 	"section": "D",
 	"semester": 1,
 	"status": "C",

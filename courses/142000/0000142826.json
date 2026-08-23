@@ -7,26 +7,31 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 17,
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Christopher J. Kuna"
+		"Kuna, Christopher J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29093",
+			"name": "Kuna, Christopher J."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Aerobics",
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -40,6 +45,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.408847+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Christopher J. Kuna"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
 			]
 		}
 	],

@@ -1,17 +1,26 @@
 {
 	"clbid": "0000062036",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 32,
-	"groupid": "0000000192",
+	"enrollment_fy": 20,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Neil Palosaari"
+		"Palosaari, Neil"
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20399",
+			"name": "Palosaari, Neil"
+		}
+	],
 	"level": 100,
 	"max": 26,
+	"max_jr": 3,
+	"max_so": 9,
+	"max_sr": 2,
 	"name": "Struct Chem & Equilib Lab",
 	"notes": [
 		"This lab has class year limits."
@@ -26,7 +35,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:33.312312+00:00",
@@ -62,12 +70,34 @@
 		{
 			"_updated": "2021-03-02T16:51:09.542694+00:00",
 			"max": 29
+		},
+		{
+			"_updated": "2026-08-23T03:01:46.608266+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Neil Palosaari"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "2/2",
+			"sophomore": "8/9",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "8/9",
 	"status": "C",
 	"term": 20081,
 	"type": "Lab",

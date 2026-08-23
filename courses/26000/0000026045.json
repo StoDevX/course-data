@@ -4,50 +4,39 @@
 	"crsid": "0000001842",
 	"department": "HIST",
 	"enrolled": 25,
-	"firstyear": "4/10",
-	"instructors": [
-		"Monica Najar"
+	"enrollment_fy": 4,
+	"enrollment_jr": 9,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"HWC",
+		"MCS-D"
 	],
-	"junior": "9/18",
-	"learningmode": "S",
+	"instructors": [
+		"Najar, Monica"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10041",
+			"name": "Najar, Monica"
+		}
+	],
 	"level": 200,
 	"max": 27,
+	"max_fy": 10,
+	"max_jr": 18,
+	"max_sr": 16,
 	"name": "Violence in Early U S",
 	"number": 253,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "L 577",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "L 577",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "L 577",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "L 577",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "L 577",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:41.347359+00:00",
@@ -75,10 +64,65 @@
 		{
 			"_updated": "2020-10-15T15:23:02.666882+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:59.446108+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/10",
+			"gereqs": null,
+			"instructors": [
+				"Monica Najar"
+			],
+			"instructors_full": null,
+			"junior": "9/18",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "L 577",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "L 577",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "L 577",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "L 577",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "L 577",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/16",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "2/16",
 	"status": "C",
 	"term": 19992,
 	"type": "Research",

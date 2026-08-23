@@ -4,36 +4,32 @@
 	"crsid": "0000001325",
 	"department": "SPAN",
 	"enrolled": 18,
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Sylvia Carullo"
+		"Carullo, Sylvia"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "977",
+			"name": "Carullo, Sylvia"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Beginning Spanish II",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "OM 020",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "OM 020",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "OM 020",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.085425+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:23:13.718025+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.592277+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Sylvia Carullo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "OM 020",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "OM 020",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "OM 020",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

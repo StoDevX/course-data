@@ -1,14 +1,21 @@
 {
 	"clbid": "0000131490",
-	"credits": 0.0,
 	"crsid": "0000016388",
 	"department": "ENVST",
 	"enrolled": 13,
-	"groupid": "0000000461",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Charles Jr. Umbanhowar"
+		"Umbanhowar, Charles Jr."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Remote Sensing & GIS Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 400",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-12T08:22:26.633781+00:00",
@@ -78,6 +84,35 @@
 		{
 			"_updated": "2021-03-02T16:51:51.689677+00:00",
 			"max": 14
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.517304+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000461",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "RNS 400",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

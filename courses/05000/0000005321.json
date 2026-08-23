@@ -4,38 +4,38 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 24,
-	"firstyear": "6/10",
-	"instructors": [
-		"Kurt Burch"
+	"enrollment_fy": 6,
+	"enrollment_jr": 0,
+	"enrollment_so": 10,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Burch, Kurt"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14022",
+			"name": "Burch, Kurt"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 10,
+	"max_jr": 0,
+	"max_so": 10,
 	"name": "Int'l Relations",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RML 577",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RML 577",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RML 577",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.239785+00:00",
@@ -66,11 +66,53 @@
 		{
 			"_updated": "2020-10-15T15:23:12.183500+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:39.066570+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/10",
+			"gereqs": null,
+			"instructors": [
+				"Kurt Burch"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RML 577",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RML 577",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RML 577",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "10/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "10/10",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

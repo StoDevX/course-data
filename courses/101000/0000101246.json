@@ -7,11 +7,25 @@
 		"Physics 131, the second course in the three-semester calculus-based sequence, treats electricity, magnetism, and electromagnetic waves. There is one 2.5 hour laboratory meeting per week. Offered annually in the spring semester. Prerequisites: PHYS 130 and concurrent registration in (or previous completion of) MATH 126 or MATH 128."
 	],
 	"enrolled": 23,
-	"groupid": "0000001080",
-	"instructors": [
-		"Jay D. Tasson"
+	"enrollment_fy": 17,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"IST",
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Tasson, Jay D."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "26266",
+			"name": "Tasson, Jay D."
+		}
+	],
 	"level": 100,
 	"max": 28,
 	"name": "Analytical II",
@@ -21,19 +35,7 @@
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 210",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 210",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 210",
 			"start": "09:05"
@@ -83,6 +85,44 @@
 			"gereqs": [
 				"IST",
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:57.121953+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000001080",
+			"instructors": [
+				"Jay D. Tasson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				}
 			]
 		}
 	],

@@ -4,38 +4,39 @@
 	"crsid": "0000001363",
 	"department": "SWRK",
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"instructors": [
-		"Sarah M. Ferguson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "7/15",
-	"learningmode": "S",
+	"instructors": [
+		"Ferguson, Sarah M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16689",
+			"name": "Ferguson, Sarah M."
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 15,
+	"max_so": 12,
+	"max_sr": 10,
 	"name": "Social Policy",
 	"number": 258,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 317",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 317",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 317",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.599455+00:00",
@@ -67,11 +68,54 @@
 		{
 			"_updated": "2020-10-15T15:23:18.403531+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.367804+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Sarah M. Ferguson"
+			],
+			"instructors_full": null,
+			"junior": "7/15",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 317",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 317",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 317",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "11/10",
+			"sophomore": "5/12",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "11/10",
-	"sophomore": "5/12",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

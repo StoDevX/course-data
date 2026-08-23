@@ -4,30 +4,32 @@
 	"crsid": "0000001573",
 	"department": "ECON",
 	"enrolled": 37,
+	"enrollment_fy": 0,
+	"enrollment_jr": 24,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Mary Ann Emery"
+		"Emery, Mary Ann"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1746",
+			"name": "Emery, Mary Ann"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Principles of Acct",
 	"number": 225,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:55",
+			"day": "TTh",
+			"end": "0255PM",
 			"location": "H 413",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:55",
-			"location": "H 413",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.985329+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:56.365192+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:50.406755+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Ann Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "H 413",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:55",
+					"location": "H 413",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

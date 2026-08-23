@@ -1,25 +1,40 @@
 {
 	"clbid": "0000065080",
-	"credits": 0.0,
 	"crsid": "0000020822",
 	"department": "BIO",
 	"enrolled": 11,
-	"firstyear": "0/0",
-	"groupid": "0000020158",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Steven Freedberg"
+		"Freedberg, Steven"
 	],
-	"junior": "6/9",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 300,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 9,
+	"max_so": 0,
 	"name": "Prin of Bioinform Lab",
 	"notes": [
 		"This course has class-year limits."
 	],
 	"number": 315,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0420PM",
+			"location": "",
+			"start": "01:20"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:39.585181+00:00",
@@ -48,10 +63,35 @@
 		{
 			"_updated": "2020-10-15T15:23:32.656276+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.629634+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000020158",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"junior": "6/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20083,
 	"type": "Lab",

@@ -4,50 +4,41 @@
 	"crsid": "0000001844",
 	"department": "HIST",
 	"enrolled": 34,
-	"firstyear": "4/0",
-	"instructors": [
-		"Stephen Blake"
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 17,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"ALS-L",
+		"MCS-G",
+		"WRI"
 	],
-	"junior": "6/13",
-	"learningmode": "S",
+	"instructors": [
+		"Blake, Stephen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "609",
+			"name": "Blake, Stephen"
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_fy": 0,
+	"max_jr": 13,
+	"max_so": 16,
+	"max_sr": 23,
 	"name": "British India",
 	"number": 255,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "M 1",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "M 1",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "M 1",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "M 1",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "M 1",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.515618+00:00",
@@ -79,11 +70,66 @@
 		{
 			"_updated": "2020-10-15T15:23:05.478842+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.293554+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/0",
+			"gereqs": null,
+			"instructors": [
+				"Stephen Blake"
+			],
+			"instructors_full": null,
+			"junior": "6/13",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "M 1",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "M 1",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "M 1",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "M 1",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "M 1",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "7/23",
+			"sophomore": "17/16",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "7/23",
-	"sophomore": "17/16",
 	"status": "C",
 	"term": 20002,
 	"type": "Research",

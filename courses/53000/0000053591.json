@@ -1,14 +1,21 @@
 {
 	"clbid": "0000053591",
-	"credits": 0.0,
 	"crsid": "0000017687",
 	"department": "ART",
 	"enrolled": 15,
-	"groupid": "0000000031",
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Karil J. Kucera"
+		"Kucera, Karil J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Intro/Art Hist Discussion",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "CAD 305",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:48.538435+00:00",
@@ -43,6 +49,35 @@
 		{
 			"_updated": "2020-10-15T15:23:23.738864+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:14.088397+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000031",
+			"instructors": [
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 305",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

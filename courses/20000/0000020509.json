@@ -4,48 +4,38 @@
 	"crsid": "0000000950",
 	"department": "NURS",
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Mary Johnson"
+		"Johnson, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4068",
+			"name": "Johnson, Mary"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Altr Hlth: Adult & Child",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "H 215",
 			"start": "12:55"
 		},
 		{
-			"day": "We",
-			"end": "14:55",
-			"location": "H 215",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "H 215",
-			"start": "12:55"
-		},
-		{
-			"day": "Tu",
-			"end": "14:30",
-			"location": "H 215",
-			"start": "07:30"
-		},
-		{
-			"day": "Th",
-			"end": "14:30",
+			"day": "TTh",
+			"end": "0230PM",
 			"location": "H 215",
 			"start": "07:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.756619+00:00",
@@ -60,6 +50,58 @@
 		{
 			"_updated": "2020-10-15T15:22:54.968645+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:23.077965+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Mary Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "Tu",
+					"end": "14:30",
+					"location": "H 215",
+					"start": "07:30"
+				},
+				{
+					"day": "Th",
+					"end": "14:30",
+					"location": "H 215",
+					"start": "07:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,10 +4,19 @@
 	"crsid": "0000001081",
 	"department": "PHYS",
 	"enrolled": 14,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 10,
+	"enrollment_sr": 0,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Analytical Phy Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "SC 159",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:13:30.630867+00:00",
@@ -48,6 +56,33 @@
 		{
 			"_updated": "2020-10-15T15:22:56.538586+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:08.198973+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:55",
+					"location": "SC 159",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

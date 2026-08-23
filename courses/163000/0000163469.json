@@ -7,13 +7,24 @@
 		"A first course in statistical methods, this course addresses study design and its implications as well as exploratory and inferential techniques for analyzing and modeling data. Topics include exploratory graphics, descriptive techniques, randomization tests, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, SDS 172, and ECON 260 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Also counts toward environmental studies major (natural science and social science emphases), kinesiology major, and business and management studies, mathematical biology, and public health studies concentrations."
 	],
 	"enrolled": 29,
+	"enrollment_fy": 3,
+	"enrollment_jr": 16,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Jaime I. Davila"
+		"Davila, Jaime I."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32115",
+			"name": "Davila, Jaime I."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Statistics 1",
@@ -23,20 +34,8 @@
 	"number": 172,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TOH 182",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TOH 182",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TOH 182",
 			"start": "11:50"
 		}
@@ -110,6 +109,45 @@
 			"_updated": "2025-10-30T02:33:07.430905+00:00",
 			"enrolled": 30,
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.259920+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Jaime I. Davila"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TOH 182",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TOH 182",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TOH 182",
+					"start": "11:50"
+				}
+			]
 		}
 	],
 	"section": "D",

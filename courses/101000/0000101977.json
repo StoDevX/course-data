@@ -1,17 +1,25 @@
 {
 	"clbid": "0000101977",
-	"credits": 0.0,
 	"crsid": "0000001065",
 	"department": "ESTH",
 	"enrolled": 7,
-	"firstyear": "0/0",
-	"groupid": "0000001064",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Christine Daymont"
+		"Daymont, Christine"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1358",
+			"name": "Daymont, Christine"
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Physiology/Exercise Lab",
 	"number": 375,
 	"offerings": [
@@ -23,7 +31,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-11-12T00:01:24.900040+00:00",
@@ -47,11 +54,33 @@
 		{
 			"_updated": "2020-10-15T15:23:57.950741+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:56.082096+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001064",
+			"instructors": [
+				"Christine Daymont"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20153,
 	"type": "Lab",

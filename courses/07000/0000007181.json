@@ -4,37 +4,38 @@
 	"crsid": "0000000964",
 	"department": "PHIL",
 	"enrolled": 14,
-	"instructors": [
-		"Anthony J. Rudd"
+	"enrollment_fy": 8,
+	"enrollment_jr": 0,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HWC"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Rudd, Anthony J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14139",
+			"name": "Rudd, Anthony J."
+		}
+	],
 	"level": 100,
 	"max": 19,
+	"max_jr": 0,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "Making of Modern Mind",
 	"number": 118,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "OM 004",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "OM 004",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "OM 004",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.459499+00:00",
@@ -63,12 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:15.016399+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.423630+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony J. Rudd"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "OM 004",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "OM 004",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "OM 004",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "5/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "5/10",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

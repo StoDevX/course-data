@@ -4,36 +4,36 @@
 	"crsid": "0000000553",
 	"department": "HIST",
 	"enrolled": 33,
-	"instructors": [
-		"Odd S. Lovoll"
+	"enrollment_fy": 32,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lovoll, Odd S."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4829",
+			"name": "Lovoll, Odd S."
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Vikings",
 	"number": 105,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 577",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 577",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "L 577",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.725315+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:00.641391+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:21.969315+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Odd S. Lovoll"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 577",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 577",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 577",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

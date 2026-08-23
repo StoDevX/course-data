@@ -6,25 +6,29 @@
 	"description": [
 		"Students perform experiments that illustrate the principles of physical chemistry and utilize modern instrumentation. Students characterize the thermodynamic properties of a biopolymer, perform spectroscopic measurements of molecular energy levels, calculate quantum mechanical quantities using computer workstations, and investigate the thermodynamics and kinetics of chemical reactions. Students also develop their scientific writing skills by preparing reports in the style of scientific publications. Students attend one four-hour laboratory per week. P/N only. Offered each semester. Prerequisite: concurrent registration in CHEM 371."
 	],
-	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"WRI"
 	],
-	"groupid": "0000000207",
-	"instructors": [
-		"Rodrigo Sanchez Gonzalez"
-	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_so": 2,
 	"name": "Physical Lab",
+	"notes": [
+		"This lab has been cancelled."
+	],
 	"number": 357,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
-			"location": "RNS 392",
-			"start": "13:00"
+			"end": "0500PM",
+			"location": "TBA",
+			"start": "01:00"
 		}
 	],
 	"pn": true,
@@ -58,12 +62,39 @@
 		{
 			"_updated": "2020-07-14T14:23:37.641597+00:00",
 			"offerings": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:35.461988+00:00",
+			"enrolled": 1,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000207",
+			"instructors": [
+				"Rodrigo Sanchez Gonzalez"
+			],
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 392",
+					"start": "13:00"
+				}
+			],
+			"sophomore": "0/2",
+			"status": "O"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/2",
-	"status": "O",
+	"status": "X",
 	"term": 20201,
 	"title": "Physical Laboratory",
 	"type": "Lab",

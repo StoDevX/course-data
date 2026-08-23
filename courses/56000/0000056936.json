@@ -1,30 +1,37 @@
 {
 	"clbid": "0000056936",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 27,
-	"groupid": "0000000192",
-	"grouptype": "1",
+	"enrollment_fy": 19,
+	"enrollment_jr": 0,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Nathaniel J. Schaefle"
+		"Schaefle, Nathaniel J."
 	],
-	"junior": "0/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18407",
+			"name": "Schaefle, Nathaniel J."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 4,
+	"max_so": 12,
+	"max_sr": 2,
 	"name": "Struct Chem/Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "SC 374/371",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:26.231593+00:00",
@@ -52,12 +59,43 @@
 		{
 			"_updated": "2020-10-15T15:23:27.126285+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.288424+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"grouptype": "1",
+			"instructors": [
+				"Nathaniel J. Schaefle"
+			],
+			"instructors_full": null,
+			"junior": "0/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "SC 374/371",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/2",
+			"sophomore": "8/12",
+			"title": null
 		}
 	],
 	"section": "G",
 	"semester": 1,
-	"senior": "0/2",
-	"sophomore": "8/12",
 	"status": "C",
 	"term": 20071,
 	"type": "Lab",

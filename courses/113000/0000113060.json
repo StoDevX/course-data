@@ -1,36 +1,95 @@
 {
-	"clbid": 113060,
+	"clbid": "0000113060",
 	"credits": 1.0,
-	"crsid": 21545,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000021545",
+	"department": "HIST",
 	"description": [
 		"The department periodically offers special topics courses. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"MCG"
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Abdulai Iddrisu"
+		"Staff"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
 	"level": 200,
-	"locations": [
-		"TOH 308",
-		"TOH 308"
-	],
+	"max": 27,
 	"name": "Top: Gender in Africa",
+	"notes": [
+		"This course has been cancelled."
+	],
 	"number": 289,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0245PM",
+			"location": "TBA",
+			"start": "01:20"
+		},
+		{
+			"day": "Th",
+			"end": "0335PM",
+			"location": "TBA",
+			"start": "02:15"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:04:15.588038+00:00",
+			"clbid": 113060,
+			"crsid": 21545,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"MCG"
+			],
+			"instructors": [
+				"Abdulai Iddrisu"
+			],
+			"instructors_full": null,
+			"locations": [
+				"TOH 308",
+				"TOH 308"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": null,
+			"offerings": null,
+			"status": "O",
+			"times": [
+				"T 0120-0245PM",
+				"Th 0215-0335PM"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20171,
-	"times": [
-		"T 0120-0245PM",
-		"Th 0215-0335PM"
-	],
 	"title": "Topics in History",
 	"type": "Topic",
 	"year": 2017

@@ -1,34 +1,33 @@
 {
 	"clbid": "0000102571",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 9,
-	"groupid": "0000001072",
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Prabal Adhikari"
+		"Adhikari, Prabal"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26288",
+			"name": "Adhikari, Prabal"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "15:30",
+			"day": "TTh",
+			"end": "0330PM",
 			"location": "RNS 292",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
-			"location": "RNS 292",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"locations": null,
@@ -61,6 +60,43 @@
 		{
 			"_updated": "2021-03-02T16:51:32.387695+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:03:42.348126+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"Prabal Adhikari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "RNS 292",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

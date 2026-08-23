@@ -4,30 +4,35 @@
 	"crsid": "0000001015",
 	"department": "PEAC",
 	"enrolled": 23,
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 7,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "12:45",
-			"location": "SAC FH",
-			"start": "11:50"
-		},
-		{
-			"day": "Th",
-			"end": "12:45",
+			"day": "TTh",
+			"end": "1245PM",
 			"location": "SAC FH",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.569131+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:22:57.900881+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:39.664650+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "SAC FH",
+					"start": "11:50"
+				},
+				{
+					"day": "Th",
+					"end": "12:45",
+					"location": "SAC FH",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

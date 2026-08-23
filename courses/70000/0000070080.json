@@ -1,32 +1,89 @@
 {
-	"clbid": 70080,
+	"clbid": "0000070080",
 	"credits": 1.0,
-	"crsid": 1142,
-	"departments": [
-		"PSCI"
+	"crsid": "0000001142",
+	"department": "PSCI",
+	"description": [
+		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
-	"description": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"MCS-D"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"level": 200,
-	"locations": [
-		"HH 302",
-		"HH 302"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 200,
+	"max": 0,
 	"name": "Top: IR",
-	"notes": "This course has been canceled.",
+	"notes": [
+		"This course has been canceled."
+	],
 	"number": 299,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "09:25",
+			"location": "HH 302",
+			"start": "08:00"
+		},
+		{
+			"day": "Th",
+			"end": "09:20",
+			"location": "HH 302",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:02:09.519840+00:00",
+			"clbid": 70080,
+			"crsid": 1142,
+			"department": null,
+			"departments": [
+				"PSCI"
+			],
+			"description": "The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"locations": [
+				"HH 302",
+				"HH 302"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This course has been canceled.",
+			"offerings": null,
+			"times": [
+				"T 0800-0925",
+				"Th 0800-0920"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 1,
 	"status": "X",
 	"term": 20091,
-	"times": [
-		"T 0800-0925",
-		"Th 0800-0920"
-	],
 	"title": "Topics in Political Science",
 	"type": "Topic",
 	"year": 2009

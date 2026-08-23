@@ -1,14 +1,21 @@
 {
 	"clbid": "0000150935",
-	"credits": 0.0,
 	"crsid": "0000019223",
 	"department": "BIO",
 	"enrolled": 12,
-	"groupid": "0000019222",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Beth Pettitt"
+		"Pettitt, Beth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27204",
+			"name": "Pettitt, Beth"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Biology of Reproduction Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "RNS 455",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-11-01T02:24:55.016139+00:00",
@@ -32,6 +38,35 @@
 			"_updated": "2023-11-02T02:21:00.947600+00:00",
 			"enrolled": 11,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.807790+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000019222",
+			"instructors": [
+				"Beth Pettitt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "RNS 455",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

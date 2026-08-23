@@ -7,14 +7,24 @@
 		"Offered concurrently with student teaching, this course meets during and after student teaching. It focuses on professional development, including personal philosophies of teaching/education, professional ethics, and portfolio development. Seminar sessions also address specific issues pertaining to the student teacher experience including classroom management, differentiated instruction, assessment, and planning. Student teachers only. Offered each semester."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Sharon Lane-Getaz"
+		"Lane-Getaz, Sharon"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19267",
+			"name": "Lane-Getaz, Sharon"
+		}
+	],
 	"level": 300,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Senior Seminar Educ",
 	"notes": [
 		"Open to Seniors only."
@@ -22,32 +32,8 @@
 	"number": 381,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
-			"location": "TBA",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "16:00",
-			"location": "TBA",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "TBA",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "16:00",
-			"location": "TBA",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "16:00",
+			"day": "M-F",
+			"end": "0400PM",
 			"location": "TBA",
 			"start": "08:00"
 		}
@@ -74,10 +60,61 @@
 		{
 			"_updated": "2020-10-15T15:23:46.998749+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.616473+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Sharon Lane-Getaz"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "TBA",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "16:00",
+					"location": "TBA",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "TBA",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "16:00",
+					"location": "TBA",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "16:00",
+					"location": "TBA",
+					"start": "08:00"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20123,
 	"title": "Senior Seminar",

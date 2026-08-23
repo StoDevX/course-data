@@ -7,35 +7,36 @@
 		"This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one three-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123 and Mathematics 120 or 121 or permission of instructor. Offered annually in the spring semester."
 	],
 	"enrolled": 44,
-	"groupid": "0000000194",
-	"instructors": [
-		"Beth Abdella"
+	"enrollment_fy": 28,
+	"enrollment_jr": 4,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Abdella, Beth"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "25",
+			"name": "Abdella, Beth"
+		}
+	],
 	"level": 100,
 	"max": 48,
 	"name": "Chemical Reactions",
 	"notes": [
-		"Students in Chem 126A, B, C, or D must also register for one lab Chem 126 AL,",
+		"Students in Chem 126A, B, C, or D must also register for one lab Chem 126 AL,   ",
 		"BL, CL, DL, EL, FL, GL, or HL."
 	],
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 390",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 390",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 390",
 			"start": "11:50"
 		}
@@ -65,6 +66,48 @@
 			"_updated": "2025-10-11T21:36:07.542264+00:00",
 			"gereqs": [
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:49.655782+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"Beth Abdella"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Chem 126A, B, C, or D must also register for one lab Chem 126 AL,",
+				"BL, CL, DL, EL, FL, GL, or HL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 390",
+					"start": "11:50"
+				}
 			]
 		}
 	],

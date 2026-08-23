@@ -7,34 +7,31 @@
 		"Data with thousands of dimensions or columns is commonplace across multiple disciplines, including image analysis, natural language processing, genomics, time series, and recommendation systems. In this class students learn, understand, and apply principles and techniques to gain insights from high-dimensional data. Topics include clustering, principal component analysis, multidimensional scaling, non-negative matrix factorization, missing-value imputation for recommendation systems, topic modeling, word embeddings, object recognition using \"eigenfaces\", non-linear embedding techniques, multiple hypothesis testing, and false discovery rate adjustments. Prerequisites: MATH 220 and SDS 164"
 	],
 	"enrolled": 20,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 14,
 	"instructors": [
-		"Jaime I. Davila"
+		"Davila, Jaime I."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32115",
+			"name": "Davila, Jaime I."
+		}
+	],
 	"level": 300,
 	"max": 24,
+	"max_fy": 0,
 	"name": "High-Dimensional Data Analysis",
 	"notes": [
-		"You may not register concurrently for both SDS 341 and SDS 333.",
+		"You may not register concurrently for both SDS 341 and SDS 333.                 ",
 		"Not open to first-year students."
 	],
 	"number": 333,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RNS 160R",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RNS 160R",
 			"start": "10:45"
@@ -120,6 +117,48 @@
 		{
 			"_updated": "2025-02-15T02:46:16.678194+00:00",
 			"enrolled": 21
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.739699+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jaime I. Davila"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"You may not register concurrently for both SDS 341 and SDS 333.",
+				"Not open to first-year students."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 160R",
+					"start": "10:45"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

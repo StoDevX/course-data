@@ -7,14 +7,29 @@
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
 	"enrolled": 22,
-	"firstyear": "1/0",
-	"instructors": [
-		"Cindy Book"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 7,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "5/10",
-	"learningmode": "S",
+	"instructors": [
+		"Book, Cindy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "694",
+			"name": "Book, Cindy"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 0,
+	"max_jr": 10,
+	"max_so": 4,
+	"max_sr": 10,
 	"name": "Aerobics",
 	"notes": [
 		"This course has class-year limits."
@@ -22,13 +37,7 @@
 	"number": 131,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC Gym South",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC Gym South",
 			"start": "08:00"
@@ -109,11 +118,45 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:10.202812+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Cindy Book"
+			],
+			"instructors_full": null,
+			"junior": "5/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC Gym South",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC Gym South",
+					"start": "08:00"
+				}
+			],
+			"section": null,
+			"senior": "9/10",
+			"sophomore": "7/4"
 		}
 	],
 	"semester": 3,
-	"senior": "9/10",
-	"sophomore": "7/4",
 	"status": "C",
 	"term": 20163,
 	"type": "Research",

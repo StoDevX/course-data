@@ -1,31 +1,38 @@
 {
 	"clbid": "0000049210",
-	"credits": 0.0,
 	"crsid": "0000000109",
 	"department": "BIO",
 	"enrolled": 22,
-	"firstyear": "11/0",
-	"groupid": "0000000108",
-	"grouptype": "2",
+	"enrollment_fy": 11,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jason D. Hill"
+		"Hill, Jason D."
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15716",
+			"name": "Hill, Jason D."
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Evolution & Diversity Lab",
 	"number": 126,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:45",
+			"end": "04:45",
 			"location": "SC 273",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.566687+00:00",
@@ -47,12 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:21.863405+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.936051+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "11/0",
+			"groupid": "0000000108",
+			"grouptype": "2",
+			"instructors": [
+				"Jason D. Hill"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:45",
+					"location": "SC 273",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "10/0",
+			"title": null
 		}
 	],
 	"section": "E",
 	"semester": 3,
-	"senior": "0/0",
-	"sophomore": "10/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

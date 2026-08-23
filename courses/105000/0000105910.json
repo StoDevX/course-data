@@ -7,13 +7,25 @@
 		"This course familiarizes the student with the major management functions of planning, organizing, leading, and controlling. The study of management theory is linked with application exercises. Students begin to develop the management skills necessary in any organization, whether it be a for-profit or not-for-profit venture, a small business, or a large corporation.This course is required for all students pursuing a management studies concentration. Offered each semester. Prerequisite: one of Economics 110-121 or permission of instructor."
 	],
 	"enrolled": 20,
-	"firstyear": "0/0",
-	"instructors": [
-		"Richard Goedde"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 6,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Goedde, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2661",
+			"name": "Goedde, Richard"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
 	"name": "Management",
 	"notes": [
 		"Not open to First-year students."
@@ -21,22 +33,10 @@
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 210",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 210",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 210",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -72,6 +72,44 @@
 			"_updated": "2025-10-11T21:36:22.195501+00:00",
 			"gereqs": [
 				"HBS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:05.630704+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Richard Goedde"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 210",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 210",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 210",
+					"start": "14:00"
+				}
 			]
 		}
 	],

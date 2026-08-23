@@ -4,38 +4,40 @@
 	"crsid": "0000000964",
 	"department": "PHIL",
 	"enrolled": 21,
-	"firstyear": "10/10",
-	"instructors": [
-		"Jennifer C. Manion"
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 9,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Manion, Jennifer C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16803",
+			"name": "Manion, Jennifer C."
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 10,
+	"max_jr": 0,
+	"max_so": 9,
+	"max_sr": 0,
 	"name": "Making of Modern Mind",
 	"number": 118,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 515",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 515",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 515",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.637496+00:00",
@@ -67,12 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:23:16.656448+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.678779+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/10",
+			"gereqs": null,
+			"instructors": [
+				"Jennifer C. Manion"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 515",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 515",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 515",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "9/9",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "9/9",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

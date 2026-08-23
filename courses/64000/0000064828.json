@@ -1,34 +1,33 @@
 {
 	"clbid": "0000064828",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 8,
-	"groupid": "0000001072",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"David A. Dahl"
+		"Dahl, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1345",
+			"name": "Dahl, David A."
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "MW",
+			"end": "0330PM",
 			"location": "SC 111",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "SC 111",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-10-31T05:18:22.219747+00:00",
@@ -55,6 +54,43 @@
 		{
 			"_updated": "2020-10-15T15:23:29.362388+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:41.989752+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"David A. Dahl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "SC 111",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "SC 111",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

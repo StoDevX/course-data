@@ -1,14 +1,21 @@
 {
 	"clbid": "0000095644",
-	"credits": 0.0,
 	"crsid": "0000000240",
 	"department": "CHIN",
 	"enrolled": 18,
-	"groupid": "0000000239",
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Ying Zhou"
+		"Zhou, Ying"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26220",
+			"name": "Zhou, Ying"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Beginning Chinese II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "RML 115",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:23.522440+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:54.140247+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:37.854135+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000239",
+			"instructors": [
+				"Ying Zhou"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "RML 115",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -4,30 +4,32 @@
 	"crsid": "0000001158",
 	"department": "PSYCH",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Dana Gross"
+		"Gross, Dana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2768",
+			"name": "Gross, Dana"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Research Methods",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 322",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 322",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.633383+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:57.942991+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:42.171240+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Dana Gross"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 322",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 322",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

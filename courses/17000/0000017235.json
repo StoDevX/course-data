@@ -4,36 +4,35 @@
 	"crsid": "0000000926",
 	"department": "NORW",
 	"enrolled": 25,
-	"instructors": [
-		"Leslie A. Grove"
+	"enrollment_fy": 2,
+	"enrollment_jr": 3,
+	"enrollment_so": 15,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"FOL-N"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Grove, Leslie A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2775",
+			"name": "Grove, Leslie A."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed Norwegian I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "M 11",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "M 11",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "M 11",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.834103+00:00",
@@ -48,6 +47,46 @@
 		{
 			"_updated": "2020-10-15T15:22:49.644378+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:07.855661+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Leslie A. Grove"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "M 11",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

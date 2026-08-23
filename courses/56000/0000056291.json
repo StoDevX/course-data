@@ -1,17 +1,26 @@
 {
 	"clbid": "0000056291",
-	"credits": 0.0,
 	"crsid": "0000000188",
 	"department": "CHEM",
 	"enrolled": 25,
-	"groupid": "0000000187",
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Janice Pellino"
+		"Pellino, Janice"
 	],
-	"junior": "1/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19375",
+			"name": "Pellino, Janice"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 6,
+	"max_so": 12,
+	"max_sr": 3,
 	"name": "Gen Chemistry/Lab",
 	"number": 121,
 	"offerings": [
@@ -23,7 +32,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:25.940284+00:00",
@@ -51,12 +59,34 @@
 		{
 			"_updated": "2020-10-15T15:23:26.929593+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.286306+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000187",
+			"instructors": [
+				"Janice Pellino"
+			],
+			"instructors_full": null,
+			"junior": "1/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "3/3",
+			"sophomore": "3/12",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "3/3",
-	"sophomore": "3/12",
 	"status": "C",
 	"term": 20071,
 	"type": "Lab",

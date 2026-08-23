@@ -7,22 +7,33 @@
 		"Enrollment is by permission of the instructor. Students attend the Education 375 class and do additional research in a specific area and work directly with an exceptional learner. Students tutor or assist special students, do library research and discuss or present their experiences with the class. Prerequisite: Education 290 and permission. Required for licensure in some states, not Minnesota."
 	],
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Heather Campbell"
+		"Campbell, Heather"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "903",
+			"name": "Campbell, Heather"
+		}
+	],
 	"level": 300,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "The Exceptional Child",
 	"number": 376,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "FH 010",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
@@ -52,12 +63,38 @@
 		{
 			"_updated": "2020-10-15T15:23:21.876351+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:06.305912+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Heather Campbell"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "FH 010",
+					"start": "14:15"
+				}
+			],
+			"senior": "1/0",
+			"sophomore": "0/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Research",

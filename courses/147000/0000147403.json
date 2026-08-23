@@ -7,13 +7,24 @@
 		"The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Depending on course content, can also count toward Chinese and/or Japanese majors. Prerequisite: determined by instructor."
 	],
 	"enrolled": 23,
+	"enrollment_fy": 5,
+	"enrollment_jr": 7,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Andrei Tcacenco"
+		"Tcacenco, Andrei"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32147",
+			"name": "Tcacenco, Andrei"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Silk Road Travels in Pop Cult",
@@ -23,34 +34,10 @@
 	"number": 200,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "TOH 310",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "TOH 310",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "TOH 310",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "TOH 310",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "TOH 310",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
@@ -62,6 +49,58 @@
 				"MCG",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.411024+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Andrei Tcacenco"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "TOH 310",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "TOH 310",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "TOH 310",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "TOH 310",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "TOH 310",
+					"start": "13:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

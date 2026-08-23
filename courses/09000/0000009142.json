@@ -4,14 +4,28 @@
 	"crsid": "0000000026",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "4/3",
-	"instructors": [
-		"Ron Gallas"
+	"enrollment_fy": 4,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "4/0",
-	"learningmode": "S",
+	"instructors": [
+		"Gallas, Ron"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2492",
+			"name": "Gallas, Ron"
+		}
+	],
 	"level": 100,
 	"max": 14,
+	"max_fy": 3,
+	"max_jr": 0,
+	"max_so": 2,
+	"max_sr": 0,
 	"name": "Found Ceramics: Wheel",
 	"number": 119,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.623720+00:00",
@@ -68,12 +81,34 @@
 		{
 			"_updated": "2020-10-15T15:23:18.046824+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.594402+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/3",
+			"gereqs": null,
+			"instructors": [
+				"Ron Gallas"
+			],
+			"instructors_full": null,
+			"junior": "4/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "6/0",
+			"sophomore": "3/2",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "6/0",
-	"sophomore": "3/2",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

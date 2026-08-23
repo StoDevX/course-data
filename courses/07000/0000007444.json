@@ -4,36 +4,32 @@
 	"crsid": "0000001389",
 	"department": "THEAT",
 	"enrolled": 14,
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Brian Bjorklund"
+		"Bjorklund, Brian"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "611",
+			"name": "Bjorklund, Brian"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Draw/Paintng/Theatre",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "TB 42",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "TB 42",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "TB 42",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.654572+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:23:15.134087+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.481974+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Brian Bjorklund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "TB 42",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "TB 42",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "TB 42",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,37 +4,38 @@
 	"crsid": "0000001363",
 	"department": "SWRK",
 	"enrolled": 24,
-	"instructors": [
-		"Mary Carlsen"
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 9,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "11/21",
-	"learningmode": "S",
+	"instructors": [
+		"Carlsen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_jr": 21,
+	"max_so": 15,
+	"max_sr": 6,
 	"name": "Social Policy",
 	"number": 258,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "L 177",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "L 177",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "L 177",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.712453+00:00",
@@ -62,11 +63,53 @@
 		{
 			"_updated": "2020-10-15T15:22:57.994665+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:45.305912+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"junior": "11/21",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "L 177",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "L 177",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 177",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/6",
+			"sophomore": "9/15",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/6",
-	"sophomore": "9/15",
 	"status": "O",
 	"term": 19973,
 	"type": "Research",

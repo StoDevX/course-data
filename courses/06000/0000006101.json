@@ -4,36 +4,37 @@
 	"crsid": "0000000933",
 	"department": "NORW",
 	"enrolled": 5,
-	"instructors": [
-		"Anne G. Sabo"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"FOL-N",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sabo, Anne G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10029",
+			"name": "Sabo, Anne G."
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Norsk Lit Til 1890",
 	"number": 371,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "OM 011",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.946549+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:13.625755+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.539233+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anne G. Sabo"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "OM 011",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

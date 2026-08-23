@@ -4,66 +4,38 @@
 	"crsid": "0000000840",
 	"department": "MUSIC",
 	"enrolled": 18,
+	"enrollment_fy": 1,
+	"enrollment_jr": 8,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
 	"instructors": [
-		"James McKeel"
+		"McKeel, James"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5210",
+			"name": "McKeel, James"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Opera Workshop",
 	"number": 269,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "M-Th",
+			"end": "0300PM",
+			"location": "URNESS",
+			"start": "01:00"
+		},
+		{
+			"day": "M-Th",
+			"end": "1200PM",
 			"location": "URNESS",
 			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "URNESS",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "URNESS",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "URNESS",
-			"start": "10:00"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "URNESS",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "URNESS",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "URNESS",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "URNESS",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.144061+00:00",
@@ -78,6 +50,76 @@
 		{
 			"_updated": "2020-10-15T15:22:59.910427+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:13.064416+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"James McKeel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "URNESS",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "URNESS",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "URNESS",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "URNESS",
+					"start": "10:00"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "URNESS",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "URNESS",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "URNESS",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "URNESS",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

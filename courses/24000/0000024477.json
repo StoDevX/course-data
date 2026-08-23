@@ -4,31 +4,38 @@
 	"crsid": "0000000413",
 	"department": "ENGL",
 	"enrolled": 17,
-	"instructors": [
-		"Jan C. Hill"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "5/9",
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jan C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "109",
+			"name": "Hill, Jan C."
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_jr": 9,
+	"max_so": 4,
+	"max_sr": 10,
 	"name": "Creative Nonfiction",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 420",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 420",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.673476+00:00",
@@ -56,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:23:00.607234+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.094128+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jan C. Hill"
+			],
+			"instructors_full": null,
+			"junior": "5/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 420",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/10",
+			"sophomore": "4/4",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "8/10",
-	"sophomore": "4/4",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

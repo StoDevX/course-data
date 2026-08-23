@@ -6,14 +6,26 @@
 	"description": [
 		"This course builds on the concepts and components of DANCE 111 Modern Dance I and DANCE 210 Modern Dance II and DANCE 211 Modern Dance II. Offered each semester. Prerequisite: DANCE 210 or DANCE 211 for at least two terms with two different instructors or permission of the instructor."
 	],
-	"enrolled": 12,
+	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"ALS-A",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Staff"
+		"Drummond, Erin"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002876",
+			"name": "Drummond, Erin"
+		}
+	],
 	"level": 300,
 	"max": 17,
 	"name": "Modern III",
@@ -23,22 +35,10 @@
 	"number": 311,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:30",
+			"day": "MWF",
+			"end": "0330PM",
 			"location": "CAD Studio 2",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:30",
-			"location": "CAD Studio 2",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:30",
-			"location": "CAD Studio 2",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -74,6 +74,47 @@
 		{
 			"_updated": "2025-12-14T03:22:47.878436+00:00",
 			"enrolled": 13
+		},
+		{
+			"_updated": "2026-08-23T03:05:42.078450+00:00",
+			"enrolled": 12,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Staff"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "CAD Studio 2",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:30",
+					"location": "CAD Studio 2",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:30",
+					"location": "CAD Studio 2",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

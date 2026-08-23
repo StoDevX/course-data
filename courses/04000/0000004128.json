@@ -4,38 +4,40 @@
 	"crsid": "0000000829",
 	"department": "MUSIC",
 	"enrolled": 62,
-	"firstyear": "4/0",
-	"instructors": [
-		"David Hagedorn"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 53,
+	"gereqs": [
+		"ALS-A",
+		"MCS-G"
 	],
-	"junior": "3/20",
-	"learningmode": "S",
+	"instructors": [
+		"Hagedorn, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2878",
+			"name": "Hagedorn, David"
+		}
+	],
 	"level": 200,
 	"max": 55,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 0,
+	"max_sr": 35,
 	"name": "World Music",
 	"number": 237,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CHM 233",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CHM 233",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CHM 233",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.699405+00:00",
@@ -67,11 +69,54 @@
 		{
 			"_updated": "2020-10-15T15:23:10.612802+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.483801+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/0",
+			"gereqs": null,
+			"instructors": [
+				"David Hagedorn"
+			],
+			"instructors_full": null,
+			"junior": "3/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 233",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 233",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CHM 233",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "53/35",
+			"sophomore": "2/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "53/35",
-	"sophomore": "2/0",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

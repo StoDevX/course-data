@@ -1,15 +1,21 @@
 {
 	"clbid": "0000120005",
-	"credits": 0.0,
 	"crsid": "0000001063",
 	"department": "ESTH",
 	"enrolled": 10,
-	"groupid": "0000001062",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Daniel P. Chantigian"
+		"Chantigian, Daniel P."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31101",
+			"name": "Chantigian, Daniel P."
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Biomechanics Lab",
@@ -23,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:56.887111+00:00",
@@ -83,6 +88,28 @@
 		{
 			"_updated": "2020-10-15T15:24:09.065694+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.894956+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001062",
+			"grouptype": "2",
+			"instructors": [
+				"Daniel P. Chantigian"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

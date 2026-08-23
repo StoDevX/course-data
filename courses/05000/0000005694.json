@@ -4,42 +4,42 @@
 	"crsid": "0000000106",
 	"department": "BIO",
 	"enrolled": 27,
-	"instructors": [
-		"Muir Eaton"
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 16,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Eaton, Muir"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15930",
+			"name": "Eaton, Muir"
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 278",
 			"start": "10:45"
 		},
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "SC 273",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.547200+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:13.440172+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.123453+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Muir Eaton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "SC 273",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

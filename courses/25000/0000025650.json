@@ -4,31 +4,35 @@
 	"crsid": "0000000997",
 	"department": "PEAC",
 	"enrolled": 13,
-	"halfcredit": "1",
-	"instructors": [
-		"Kenneth Pratt"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pratt, Kenneth"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6408",
+			"name": "Pratt, Kenneth"
+		}
+	],
 	"level": 100,
 	"max": 14,
 	"name": "Golf",
 	"number": 103,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "SAC FH",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC FH",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.042210+00:00",
@@ -43,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:02.195152+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.294580+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Kenneth Pratt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC FH",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC FH",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

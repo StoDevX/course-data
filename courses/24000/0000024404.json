@@ -4,31 +4,33 @@
 	"crsid": "0000000322",
 	"department": "EDUC",
 	"enrolled": 9,
-	"firstyear": "1/0",
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"John Welckle"
+		"Welckle, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8971",
+			"name": "Welckle, John"
+		}
+	],
 	"level": 300,
-	"max": 999,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Social Studies Persp",
 	"number": 334,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "FH 10",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "FH 10",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.626024+00:00",
@@ -48,10 +50,46 @@
 		{
 			"_updated": "2020-10-15T15:23:00.576224+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:19.773083+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"instructors": [
+				"John Welckle"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "FH 10",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "FH 10",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 19983,
 	"type": "Research",

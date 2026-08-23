@@ -4,36 +4,37 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 23,
-	"instructors": [
-		"Lowell E. Johnson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 19,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Lowell E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4041",
+			"name": "Johnson, Lowell E."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "L 525",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "L 525",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "L 525",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.032460+00:00",
@@ -48,6 +49,46 @@
 		{
 			"_updated": "2020-10-15T15:22:56.398214+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:53.212282+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lowell E. Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "L 525",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "L 525",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "L 525",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

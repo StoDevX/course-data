@@ -4,68 +4,46 @@
 	"crsid": "0000001552",
 	"department": "CHEM",
 	"enrolled": 9,
-	"firstyear": "3/7",
-	"instructors": [
-		"Paul T. Jackson"
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "3/13",
-	"learningmode": "S",
+	"instructors": [
+		"Jackson, Paul T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3644",
+			"name": "Jackson, Paul T."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 7,
+	"max_jr": 13,
+	"max_so": 18,
+	"max_sr": 9,
 	"name": "Environmental Chem",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
 			"end": "10:00",
 			"location": "SC 374",
 			"start": "08:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "SC 374",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 374",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "SC 374",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "SC 374",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "15:30",
-			"location": "SC 371/374",
-			"start": "12:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:30",
-			"location": "SC 371/374",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:30",
+			"day": "MTTh",
+			"end": "0330PM",
 			"location": "SC 371/374",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:47.479279+00:00",
@@ -94,11 +72,84 @@
 		{
 			"_updated": "2020-10-15T15:23:05.455096+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:21.277622+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/7",
+			"gereqs": null,
+			"instructors": [
+				"Paul T. Jackson"
+			],
+			"instructors_full": null,
+			"junior": "3/13",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 374",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "SC 374",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 374",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "SC 374",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 374",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "15:30",
+					"location": "SC 371/374",
+					"start": "12:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:30",
+					"location": "SC 371/374",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:30",
+					"location": "SC 371/374",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/9",
+			"sophomore": "2/18",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "1/9",
-	"sophomore": "2/18",
 	"status": "O",
 	"term": 20002,
 	"type": "Research",

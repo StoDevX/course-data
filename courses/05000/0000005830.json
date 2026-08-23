@@ -4,32 +4,40 @@
 	"crsid": "0000000351",
 	"department": "DNCTE",
 	"enrolled": 18,
-	"firstyear": "4/2",
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"junior": "3/5",
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 2,
+	"max_jr": 5,
+	"max_so": 5,
+	"max_sr": 5,
 	"name": "Modern Dance I",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD _STUDIO_2",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
+			"day": "MW",
+			"end": "1245PM",
 			"location": "CAD _STUDIO_2",
 			"start": "11:50"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:43.035149+00:00",
@@ -64,12 +72,48 @@
 		{
 			"_updated": "2020-10-15T15:23:13.503013+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.146778+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/2",
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"junior": "3/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD _STUDIO_2",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD _STUDIO_2",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "6/5",
+			"sophomore": "5/5",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "6/5",
-	"sophomore": "5/5",
 	"status": "C",
 	"term": 20031,
 	"type": "Research",

@@ -1,14 +1,21 @@
 {
 	"clbid": "0000112182",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 30,
-	"groupid": "0000027943",
+	"enrollment_fy": 28,
+	"enrollment_jr": 0,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Adam H. Berliner"
+		"Berliner, Adam H."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "21092",
+			"name": "Berliner, Adam H."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Calc I with Review Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 290",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-08-25T00:54:25.948233+00:00",
@@ -47,6 +53,35 @@
 		{
 			"_updated": "2020-10-15T15:24:03.253381+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.603964+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"Adam H. Berliner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 290",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -6,17 +6,26 @@
 	"description": [
 		"Students will learn the basics of pickleball rules, court etiquette, shots, scoring, and strategies and will play in singles and doubles in varying tournament styles."
 	],
-	"enrolled": 0,
+	"enrolled": 24,
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 15,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SPM"
 	],
-	"halfcredit": "1",
 	"instructors": [
-		"Julienna D. Graf"
+		"Graf, Julie D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28228",
+			"name": "Graf, Julie D."
+		}
+	],
 	"level": 100,
-	"max": 20,
+	"max": 24,
 	"name": "Pickleball",
 	"notes": [
 		"This is a first-half of semester course."
@@ -24,19 +33,7 @@
 	"number": 139,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "Tostrud Ctr",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "Tostrud Ctr",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "Tostrud Ctr",
 			"start": "10:45"
@@ -44,9 +41,54 @@
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:07:12.395602+00:00",
+			"enrolled": 0,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "1",
+			"instructors": [
+				"Julienna D. Graf"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				}
+			],
+			"status": "O"
+		}
+	],
 	"section": "A",
 	"semester": 1,
-	"status": "O",
+	"status": "C",
 	"term": 20261,
 	"type": "Research",
 	"year": 2026

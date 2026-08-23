@@ -1,32 +1,95 @@
 {
-	"clbid": 60830,
+	"clbid": "0000060830",
 	"credits": 1.0,
-	"crsid": 572,
-	"departments": [
-		"HIST"
+	"crsid": "0000000572",
+	"department": "HIST",
+	"description": [
+		"Selected topics in historical studies, depending on instructor."
 	],
-	"description": "Selected topics in historical studies, depending on instructor.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HWC"
+	],
 	"instructors": [
-		"Brett A. Werner"
+		"Werner, Brett A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "12099",
+			"name": "Werner, Brett A."
+		}
 	],
 	"level": 100,
-	"locations": [
-		"HH 516",
-		"HH 516"
-	],
+	"max": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Env Discourse",
-	"notes": "Open to first-year students only.",
+	"notes": [
+		"Open to first-year students only."
+	],
 	"number": 188,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "HH 516",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "HH 516",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:36.978406+00:00",
+			"clbid": 60830,
+			"crsid": 572,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"description": "Selected topics in historical studies, depending on instructor.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Brett A. Werner"
+			],
+			"instructors_full": null,
+			"locations": [
+				"HH 516",
+				"HH 516"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "Open to first-year students only.",
+			"offerings": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"section": "A",
 	"semester": 3,
 	"status": "X",
 	"term": 20073,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topical Seminar",
 	"type": "Topic",
 	"year": 2007

@@ -4,43 +4,37 @@
 	"crsid": "0000001296",
 	"department": "SOAN",
 	"enrolled": 21,
-	"firstyear": "0/10",
-	"instructors": [
-		"Deborah Engelen-Eigles"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Engelen-Eigles, Deborah"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14222",
+			"name": "Engelen-Eigles, Deborah"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_fy": 10,
 	"name": "Sociology of Internet",
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:00",
-			"location": "M 35",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "13:00",
-			"location": "M 35",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
-			"location": "M 35",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "13:00",
+			"day": "MWThF",
+			"end": "0100PM",
 			"location": "M 35",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:52.582763+00:00",
@@ -64,6 +58,54 @@
 		{
 			"_updated": "2020-10-15T15:23:08.311260+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:31.240417+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/10",
+			"gereqs": null,
+			"instructors": [
+				"Deborah Engelen-Eigles"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:00",
+					"location": "M 35",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "13:00",
+					"location": "M 35",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "M 35",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "13:00",
+					"location": "M 35",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

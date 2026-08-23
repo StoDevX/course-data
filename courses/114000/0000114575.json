@@ -7,14 +7,24 @@
 		"Seniors and faculty members study topics of current interest. Discussions are based on journal articles, other readings, library research, and presentations by faculty, participants, or visitors. P/N only. Available on request. May be repeated if topic is different. Prerequisites: PHYS 374 and PHYS 375."
 	],
 	"enrolled": 5,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Jason J. Engbrecht"
+		"Engbrecht, Jason J."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14912",
+			"name": "Engbrecht, Jason J."
+		}
+	],
 	"level": 300,
 	"max": 24,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
 	"name": "Sem: Senior Seminar",
 	"notes": [
 		"Open to Seniors only."
@@ -23,9 +33,9 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 297",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
@@ -54,10 +64,37 @@
 		{
 			"_updated": "2020-10-15T15:24:05.250423+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.399585+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RNS 297",
+					"start": "14:00"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20173,
 	"title": "Senior Seminar",

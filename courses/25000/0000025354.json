@@ -4,36 +4,36 @@
 	"crsid": "0000000311",
 	"department": "EDUC",
 	"enrolled": 23,
-	"instructors": [
-		"Rosemary A. Pfarr-Baker"
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pfarr-Baker, Rosemary A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10410",
+			"name": "Pfarr-Baker, Rosemary A."
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_sr": 25,
 	"name": "Educ Psychology",
 	"number": 290,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "FH 10",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "FH 10",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "FH 10",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.470441+00:00",
@@ -57,11 +57,51 @@
 		{
 			"_updated": "2020-10-15T15:23:02.064711+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.124172+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Rosemary A. Pfarr-Baker"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "FH 10",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "10/25",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "10/25",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

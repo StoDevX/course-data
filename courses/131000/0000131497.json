@@ -1,21 +1,34 @@
 {
 	"clbid": "0000131497",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 21,
-	"groupid": "0000001158",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 16,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Charles Huff"
+		"Huff, Charles"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3556",
+			"name": "Huff, Charles"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Research Methods Lab",
 	"number": 230,
+	"offerings": [
+		{
+			"day": "We",
+			"end": "10:00",
+			"location": "TBA",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-12T08:22:26.636159+00:00",
@@ -111,6 +124,29 @@
 		{
 			"_updated": "2020-10-15T15:24:15.031313+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:36.269641+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "2",
+			"instructors": [
+				"Charles Huff"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -1,29 +1,36 @@
 {
 	"clbid": "0000115296",
-	"credits": 0.0,
 	"crsid": "0000020822",
 	"department": "BIO",
 	"enrolled": 5,
-	"firstyear": "0/0",
-	"groupid": "0000020158",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Steven Freedberg"
+		"Freedberg, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "18288",
+			"name": "Freedberg, Steven"
+		}
+	],
 	"level": 300,
 	"max": 11,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Principles of Bioinformatics Lab",
 	"number": 315,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "TOH 182",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-09-01T00:57:26.306438+00:00",
@@ -55,11 +62,41 @@
 		{
 			"_updated": "2021-03-02T16:51:40.748655+00:00",
 			"max": 12
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.482455+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000020158",
+			"instructors": [
+				"Steven Freedberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "TOH 182",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20171,
 	"type": "Lab",

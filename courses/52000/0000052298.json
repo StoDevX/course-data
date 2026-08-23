@@ -1,14 +1,21 @@
 {
 	"clbid": "0000052298",
-	"credits": 0.0,
 	"crsid": "0000001075",
 	"department": "PHYS",
 	"enrolled": 21,
-	"groupid": "0000001074",
+	"enrollment_fy": 1,
+	"enrollment_jr": 10,
+	"enrollment_so": 8,
+	"enrollment_sr": 2,
 	"instructors": [
-		"David Nitz"
+		"Nitz, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Prin Physics II/Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "15:25",
+			"end": "0325PM",
 			"location": "SC 111",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:23.228972+00:00",
@@ -37,6 +43,35 @@
 		{
 			"_updated": "2020-10-15T15:23:25.279919+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:23.465206+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001074",
+			"instructors": [
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "15:25",
+					"location": "SC 111",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

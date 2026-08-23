@@ -4,30 +4,35 @@
 	"crsid": "0000001021",
 	"department": "PEAC",
 	"enrolled": 8,
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 8,
 	"name": "Racquetball (Men)",
 	"number": 153,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "SAC RACQ CT",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SAC RACQ CT",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.857193+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:23:00.726107+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:34.050631+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SAC RACQ CT",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SAC RACQ CT",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

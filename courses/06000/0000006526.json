@@ -4,17 +4,32 @@
 	"crsid": "0000001889",
 	"department": "IS",
 	"enrolled": 78,
-	"instructors": [
-		"Naurine Lennox",
-		"Bruce Nordstrom-Loeb"
+	"enrollment_fy": 12,
+	"enrollment_jr": 20,
+	"enrollment_so": 17,
+	"enrollment_sr": 29,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nordstrom-Loeb, Bruce",
+		"Lennox, Naurine"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5728",
+			"name": "Nordstrom-Loeb, Bruce"
+		},
+		{
+			"fsnum": "4761",
+			"name": "Lennox, Naurine"
+		}
+	],
 	"level": 200,
 	"max": 90,
 	"name": "Modern Mexico Trad/Ch",
 	"number": 230,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:02.764126+00:00",
@@ -29,6 +44,28 @@
 		{
 			"_updated": "2020-10-15T15:23:14.135810+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:42.266253+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Naurine Lennox",
+				"Bruce Nordstrom-Loeb"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

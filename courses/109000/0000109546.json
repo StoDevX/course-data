@@ -1,16 +1,22 @@
 {
 	"clbid": "0000109546",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 10,
-	"groupid": "0000000126",
+	"enrollment_fy": 2,
+	"enrollment_jr": 1,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Steven Cole"
+		"Cole, Steven"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26217",
+			"name": "Cole, Steven"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Human Anatomy & Physiology Lab",
 	"notes": [
 		"Term dates for this lab: July 18 - Aug 18."
@@ -18,26 +24,13 @@
 	"number": 243,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "RNS 254",
-			"start": "12:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 254",
-			"start": "12:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
+			"day": "MTW",
+			"end": "0300PM",
 			"location": "RNS 254",
 			"start": "12:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-03-09T18:00:25.387276+00:00",
@@ -66,6 +59,49 @@
 		{
 			"_updated": "2021-03-02T16:51:36.196836+00:00",
 			"max": 0
+		},
+		{
+			"_updated": "2026-08-23T03:04:00.410762+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000126",
+			"instructors": [
+				"Steven Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 254",
+					"start": "12:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 254",
+					"start": "12:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 254",
+					"start": "12:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

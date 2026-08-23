@@ -4,31 +4,42 @@
 	"crsid": "0000001820",
 	"department": "HIST",
 	"enrolled": 70,
-	"instructors": [
-		"Michael Fitzgerald",
-		"Judy Kutulas"
+	"enrollment_fy": 10,
+	"enrollment_jr": 11,
+	"enrollment_so": 34,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"HWC",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kutulas, Judy",
+		"Fitzgerald, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4583",
+			"name": "Kutulas, Judy"
+		},
+		{
+			"fsnum": "2113",
+			"name": "Fitzgerald, Michael"
+		}
+	],
 	"level": 200,
 	"max": 70,
 	"name": "U.S. Since 1865",
 	"number": 206,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 501",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "H 501",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.832379+00:00",
@@ -43,6 +54,42 @@
 		{
 			"_updated": "2020-10-15T15:22:50.906107+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:53.490279+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Fitzgerald",
+				"Judy Kutulas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 501",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 501",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

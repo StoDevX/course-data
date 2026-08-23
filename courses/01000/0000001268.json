@@ -4,30 +4,34 @@
 	"crsid": "0000000495",
 	"department": "FREN",
 	"enrolled": 10,
-	"instructors": [
-		"Mary Cisar"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cisar, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1191",
+			"name": "Cisar, Mary"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Moral Universe/G Roy",
 	"number": 397,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 26",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 26",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.865235+00:00",
@@ -42,6 +46,42 @@
 		{
 			"_updated": "2020-10-15T15:23:06.221820+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:23.653111+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Cisar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 26",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

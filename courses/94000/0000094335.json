@@ -1,18 +1,24 @@
 {
 	"clbid": "0000094335",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 16,
-	"firstyear": "0/0",
-	"groupid": "0000000122",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Alyson Center"
+		"Center, Alyson"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26207",
+			"name": "Center, Alyson"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Intermediate Genetics Lab",
 	"number": 233,
 	"offerings": [
@@ -24,7 +30,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:20.061901+00:00",
@@ -51,6 +56,29 @@
 		{
 			"_updated": "2021-03-02T16:51:30.047249+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:30.664590+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000122",
+			"grouptype": "2",
+			"instructors": [
+				"Alyson Center"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

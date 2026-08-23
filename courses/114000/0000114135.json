@@ -1,14 +1,21 @@
 {
 	"clbid": "0000114135",
-	"credits": 0.0,
 	"crsid": "0000001267",
 	"department": "RUSSN",
 	"enrolled": 11,
-	"groupid": "0000001266",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Margarita Safariants"
+		"Safariants, Margarita"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29097",
+			"name": "Safariants, Margarita"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Russian II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "TOH 310",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-19T23:54:57.056867+00:00",
@@ -55,6 +61,36 @@
 		{
 			"_updated": "2020-10-15T15:24:05.122852+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.436012+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001266",
+			"instructors": [
+				"Margarita Safariants"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "TOH 310",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

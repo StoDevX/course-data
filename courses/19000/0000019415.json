@@ -4,37 +4,37 @@
 	"crsid": "0000002136",
 	"department": "PARA",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Deborah Anderson",
-		"Louis Henry Kermott"
+		"Anderson, Deborah",
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "186",
+			"name": "Anderson, Deborah"
+		},
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Mind-Body Connection",
 	"number": 266,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "YH 130",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "YH 130",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "YH 130",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.487181+00:00",
@@ -49,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:22:53.298071+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:41.490797+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Deborah Anderson",
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "YH 130",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "YH 130",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "YH 130",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

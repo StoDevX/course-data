@@ -7,33 +7,34 @@
 		"This course studies the Buddhist view of the human predicament and its solution. Students examine the life of the Buddha, Buddhist scriptures, and the historical and philosophical development of Theravada and Mahayana Buddhism in East and Southeast Asia."
 	],
 	"enrolled": 23,
-	"firstyear": "0/0",
-	"instructors": [
-		"Barbara Reed"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"MCG",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Reed, Barbara"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6625",
+			"name": "Reed, Barbara"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
 	"name": "Buddhism",
 	"number": 257,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "OM 110",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "OM 110",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "OM 110",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -78,6 +79,45 @@
 			"gereqs": [
 				"MCG"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:53.795109+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Barbara Reed"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "OM 110",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "OM 110",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "OM 110",
+					"start": "14:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

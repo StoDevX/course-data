@@ -4,36 +4,35 @@
 	"crsid": "0000001492",
 	"department": "AMST",
 	"enrolled": 19,
-	"instructors": [
-		"James Farrell"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Farrell, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2030",
+			"name": "Farrell, James"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Top: American 1960s",
 	"number": 203,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "H 514",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 514",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 514",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.541034+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:22:49.451769+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:50.384809+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Farrell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 514",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

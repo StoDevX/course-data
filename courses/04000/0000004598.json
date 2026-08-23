@@ -4,66 +4,37 @@
 	"crsid": "0000000840",
 	"department": "MUSIC",
 	"enrolled": 26,
+	"enrollment_fy": 8,
+	"enrollment_jr": 8,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
 	"instructors": [
-		"James McKeel"
+		"McKeel, James"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5210",
+			"name": "McKeel, James"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Opera Workshop",
 	"number": 269,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:30",
-			"location": "CAD STUDIO 1",
+			"day": "M-Th",
+			"end": "0300PM",
+			"location": "CAD  STUDIO 1",
+			"start": "01:30"
+		},
+		{
+			"day": "M-Th",
+			"end": "1230PM",
+			"location": "CAD  STUDIO 1",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:30",
-			"location": "CAD STUDIO 1",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:30",
-			"location": "CAD STUDIO 1",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:30",
-			"location": "CAD STUDIO 1",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "CAD STUDIO 1",
-			"start": "13:30"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "CAD STUDIO 1",
-			"start": "13:30"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "CAD STUDIO 1",
-			"start": "13:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "CAD STUDIO 1",
-			"start": "13:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:12.883280+00:00",
@@ -92,6 +63,77 @@
 		{
 			"_updated": "2020-10-15T15:23:11.287787+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:37.528904+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"James McKeel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:30",
+					"location": "CAD STUDIO 1",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:30",
+					"location": "CAD STUDIO 1",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:30",
+					"location": "CAD STUDIO 1",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "CAD STUDIO 1",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "CAD STUDIO 1",
+					"start": "13:30"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "CAD STUDIO 1",
+					"start": "13:30"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "CAD STUDIO 1",
+					"start": "13:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "CAD STUDIO 1",
+					"start": "13:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

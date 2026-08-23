@@ -1,12 +1,20 @@
 {
 	"clbid": "0000134346",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
-	"enrolled": 2,
-	"groupid": "0000001072",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Eric L. Hazlett"
+		"Hazlett, Eric L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "31195",
+			"name": "Hazlett, Eric L."
+		}
 	],
 	"level": 100,
 	"max": 15,
@@ -14,26 +22,13 @@
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "RNS 292",
-			"start": "12:30"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RNS 292",
-			"start": "12:30"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
+			"day": "MWTh",
+			"end": "0300PM",
 			"location": "RNS 292",
 			"start": "12:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-03-08T08:34:51.010205+00:00",
@@ -66,10 +61,53 @@
 		{
 			"_updated": "2020-04-11T13:24:02.640447+00:00",
 			"enrolled": 1
+		},
+		{
+			"_updated": "2026-08-23T03:04:33.652454+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 2,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"Eric L. Hazlett"
+			],
+			"instructors_full": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 292",
+					"start": "12:30"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 292",
+					"start": "12:30"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 292",
+					"start": "12:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"status": "O",
+			"title": null
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20195,
 	"type": "Lab",
 	"year": 2019

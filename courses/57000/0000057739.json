@@ -7,31 +7,30 @@
 		"This course explores key concepts of ecology, focusing explicitly on the ideal of ecological sustainability for the St. Olaf College campus. Students attend both to contemporary environmental issues and to the ideas and institutions that shape human resource use. Working groups research topics such as curriculum, clothes, cars, water, waste, food, energy, procurement, and landscape in the context of American religious and environmental values."
 	],
 	"enrolled": 32,
-	"firstyear": "6/8",
+	"enrollment_fy": 6,
+	"enrollment_jr": 8,
+	"enrollment_so": 8,
+	"enrollment_sr": 10,
 	"instructors": [
-		"James Farrell"
+		"Farrell, James"
 	],
-	"junior": "8/8",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2030",
+			"name": "Farrell, James"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 8,
+	"max_jr": 8,
+	"max_so": 8,
+	"max_sr": 6,
 	"name": "Campus Ecology",
 	"number": 222,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RML 515",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "RML 515",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "RML 515",
 			"start": "10:45"
@@ -65,11 +64,50 @@
 		{
 			"_updated": "2020-10-15T15:23:28.671796+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:36.310208+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/8",
+			"instructors": [
+				"James Farrell"
+			],
+			"instructors_full": null,
+			"junior": "8/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RML 515",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RML 515",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RML 515",
+					"start": "10:45"
+				}
+			],
+			"section": null,
+			"senior": "10/6",
+			"sophomore": "8/8"
 		}
 	],
 	"semester": 3,
-	"senior": "10/6",
-	"sophomore": "8/8",
 	"status": "C",
 	"term": 20073,
 	"type": "Research",

@@ -4,31 +4,34 @@
 	"crsid": "0000000648",
 	"department": "FAMST",
 	"enrolled": 33,
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 1,
+	"enrollment_sr": 19,
 	"instructors": [
-		"C. George Holt"
+		"Holt, C. George"
 	],
-	"junior": "12/10",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3431",
+			"name": "Holt, C. George"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_jr": 10,
+	"max_sr": 15,
 	"name": "Marriage",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "H 317",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "H 317",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.394327+00:00",
@@ -55,10 +58,45 @@
 		{
 			"_updated": "2020-10-15T15:22:53.141775+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:35.876670+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"C. George Holt"
+			],
+			"instructors_full": null,
+			"junior": "12/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "H 317",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "H 317",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "19/15",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "19/15",
 	"status": "C",
 	"term": 19961,
 	"type": "Research",

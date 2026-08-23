@@ -4,10 +4,19 @@
 	"crsid": "0000000202",
 	"department": "CHEM",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 6,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Analytical Lab",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "13:50",
+			"end": "0500PM",
 			"location": "SC 310/321",
-			"start": "12:55"
+			"start": "02:00"
 		},
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0150PM",
 			"location": "SC 310/321",
-			"start": "14:00"
+			"start": "12:55"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.633189+00:00",
@@ -42,6 +50,36 @@
 		{
 			"_updated": "2020-10-15T15:22:46.582446+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.246021+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SC 310/321",
+					"start": "12:55"
+				},
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "SC 310/321",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

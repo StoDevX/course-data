@@ -6,19 +6,37 @@
 	"description": [
 		"Students learn and apply the basic principles of fitness through a variety of aerobic activities."
 	],
-	"enrolled": 1,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"SPM",
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Bob Hauck"
+		"Hauck, Bob"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Aerobics",
 	"number": 131,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0400PM",
+			"location": "VRTL Online",
+			"start": "02:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
 	"revisions": [
@@ -53,10 +71,34 @@
 		{
 			"_updated": "2024-07-16T02:32:59.068468+00:00",
 			"enrolled": 3
+		},
+		{
+			"_updated": "2026-08-23T03:05:20.167486+00:00",
+			"enrolled": 1,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"SPM",
+				"ACB"
+			],
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 5,
-	"status": "O",
+	"status": "X",
 	"term": 20235,
 	"type": "Research",
 	"year": 2023

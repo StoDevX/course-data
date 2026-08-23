@@ -4,10 +4,19 @@
 	"crsid": "0000000071",
 	"department": "ART",
 	"enrolled": 39,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 37,
 	"instructors": [
-		"John Saurer"
+		"Saurer, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 300,
 	"max": 50,
 	"name": "Sr Studies/Studio Art",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "CAD 305",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.636470+00:00",
@@ -42,6 +50,34 @@
 		{
 			"_updated": "2020-10-15T15:23:18.057000+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.600800+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "22:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

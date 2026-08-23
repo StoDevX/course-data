@@ -1,14 +1,21 @@
 {
 	"clbid": "0000152725",
-	"credits": 0.0,
 	"crsid": "0000033697",
 	"department": "BIO",
 	"enrolled": 8,
-	"groupid": "0000000166",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Sara E. Fruehling"
+		"Fruehling, Sara E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17588",
+			"name": "Fruehling, Sara E."
+		}
+	],
 	"level": 300,
 	"max": 10,
 	"name": "Immunology Lab",
@@ -16,17 +23,45 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "RNS 393",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-07-23T02:39:18.130193+00:00",
 			"enrolled": 9
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.896706+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000166",
+			"instructors": [
+				"Sara E. Fruehling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "RNS 393",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

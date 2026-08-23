@@ -1,21 +1,39 @@
 {
-	"clbid": 111775,
+	"clbid": "0000111775",
 	"credits": 0.25,
-	"crsid": 200,
-	"departments": [
-		"CHEM"
+	"crsid": "0000000200",
+	"department": "CHEM",
+	"description": [
+		"This course is a continuation of CHEM 253. Students gain more experience with techniques used in CHEM 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Offered annually in the spring semester. Counts toward environmental studies major (natural science emphasis) and biomolecular science concentration. Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248."
 	],
-	"description": "This course is a continuation of CHEM 253. Students gain more experience with techniques used in CHEM 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Offered annually in the spring semester. Counts toward environmental studies major (natural science emphasis) and biomolecular science concentration. Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"level": 200,
-	"locations": [
-		"TBA"
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
 	],
+	"level": 200,
 	"name": "Synthesis Lab II",
-	"notes": "This lab has been cancelled.",
+	"notes": [
+		"This lab has been cancelled."
+	],
 	"number": 254,
+	"offerings": [
+		{
+			"day": "TTh",
+			"end": "0330PM",
+			"location": "TBA",
+			"start": "12:30"
+		}
+	],
 	"pn": true,
 	"prerequisites": "Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
 	"revisions": [
@@ -35,15 +53,42 @@
 		{
 			"_updated": "2017-03-17T23:27:48.728441+00:00",
 			"notes": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:14.215752+00:00",
+			"clbid": 111775,
+			"crsid": 200,
+			"department": null,
+			"departments": [
+				"CHEM"
+			],
+			"description": "This course is a continuation of CHEM 253. Students gain more experience with techniques used in CHEM 253 and in addition use gas chromatographic/mass spectrometric analyses. Students attend one three-hour laboratory each week. P/N only. Offered annually in the spring semester. Counts toward environmental studies major (natural science emphasis) and biomolecular science concentration. Prerequisites: CHEM 253 and previous or concurrent registration in CHEM 248.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"locations": [
+				"TBA"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This lab has been cancelled.",
+			"offerings": null,
+			"status": "C",
+			"times": [
+				"TTh 1230-0330PM"
+			]
 		}
 	],
 	"section": "A",
 	"semester": 5,
-	"status": "C",
+	"status": "X",
 	"term": 20165,
-	"times": [
-		"TTh 1230-0330PM"
-	],
 	"title": "Synthesis Laboratory II",
 	"type": "Lab",
 	"year": 2016

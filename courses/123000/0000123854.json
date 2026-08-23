@@ -1,14 +1,21 @@
 {
 	"clbid": "0000123854",
-	"credits": 0.0,
 	"crsid": "0000033308",
 	"department": "BIO",
 	"enrolled": 2,
-	"groupid": "0000033288",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 300,
 	"max": 8,
 	"name": "Biochemistry of Adaptation Lab",
@@ -22,7 +29,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-10-26T04:16:12.768926+00:00",
@@ -54,6 +60,27 @@
 		{
 			"_updated": "2020-10-15T15:24:09.473342+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.791397+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000033288",
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

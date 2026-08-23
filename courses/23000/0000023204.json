@@ -4,40 +4,79 @@
 	"crsid": "0000001500",
 	"department": "ART",
 	"enrolled": 26,
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 4,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Donald Bratland"
+		"Bratland, Donald"
 	],
-	"junior": "12/8",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "746",
+			"name": "Bratland, Donald"
+		}
+	],
 	"level": 200,
 	"max": 20,
+	"max_jr": 8,
+	"max_so": 3,
+	"max_sr": 6,
 	"name": "Graphic Design",
 	"number": 246,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
-			"location": "FH AB",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH AB",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-10-15T15:22:59.200965+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.129271+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Donald Bratland"
+			],
+			"instructors_full": null,
+			"junior": "12/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH AB",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH AB",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "10/6",
+			"sophomore": "4/3",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "10/6",
-	"sophomore": "4/3",
 	"status": "C",
 	"term": 19981,
 	"type": "Research",

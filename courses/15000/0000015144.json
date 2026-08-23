@@ -4,36 +4,43 @@
 	"crsid": "0000000964",
 	"department": "PHIL",
 	"enrolled": 17,
+	"enrollment_fy": 7,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HWC",
+		"WRI"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_so": 15,
 	"name": "Making of Modern Mind",
 	"number": 118,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 307",
-			"start": "08:30"
-		},
-		{
-			"day": "Th",
-			"end": "09:25",
-			"location": "H 307",
-			"start": "08:30"
-		},
-		{
 			"day": "Mo",
-			"end": "19:55",
+			"end": "0755PM",
 			"location": "H 317",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "TTh",
+			"end": "09:25",
+			"location": "H 307",
+			"start": "08:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.876273+00:00",
@@ -57,11 +64,48 @@
 		{
 			"_updated": "2020-10-15T15:22:46.751391+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.445963+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:30"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 307",
+					"start": "08:30"
+				},
+				{
+					"day": "Mo",
+					"end": "19:55",
+					"location": "H 317",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "8/15",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "8/15",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

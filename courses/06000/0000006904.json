@@ -4,32 +4,45 @@
 	"crsid": "0000000413",
 	"department": "ENGL",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"instructors": [
-		"Mary Steen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 1,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "8/7",
-	"learningmode": "S",
+	"instructors": [
+		"Steen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7961",
+			"name": "Steen, Mary"
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 7,
+	"max_so": 0,
+	"max_sr": 9,
 	"name": "Creative Nonfiction",
 	"number": 251,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RML 515",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "RML 515",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.252260+00:00",
@@ -61,11 +74,48 @@
 		{
 			"_updated": "2020-10-15T15:23:14.893404+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.713778+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Mary Steen"
+			],
+			"instructors_full": null,
+			"junior": "8/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RML 515",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "RML 515",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/9",
+			"sophomore": "1/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "9/9",
-	"sophomore": "1/0",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

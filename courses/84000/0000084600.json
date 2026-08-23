@@ -7,25 +7,33 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 29,
-	"firstyear": "1/2",
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 1,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 16,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "9/4",
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 2,
+	"max_jr": 4,
+	"max_so": 4,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -66,11 +74,44 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.635511+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/2",
+			"gereqs": null,
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"junior": "9/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
+			],
+			"sophomore": "3/4"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "3/4",
 	"status": "C",
 	"term": 20123,
 	"type": "Research",

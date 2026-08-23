@@ -1,29 +1,35 @@
 {
 	"clbid": "0000119085",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 20,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 2,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Anne M. Gothmann"
+		"Gothmann, Anne M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29141",
+			"name": "Gothmann, Anne M."
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Principles Physics I Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "16:30",
+			"end": "0430PM",
 			"location": "RNS 292",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-15T02:21:55.845783+00:00",
@@ -99,6 +105,36 @@
 		{
 			"_updated": "2020-10-15T15:24:07.325623+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.951940+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Anne M. Gothmann"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "16:30",
+					"location": "RNS 292",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "E",

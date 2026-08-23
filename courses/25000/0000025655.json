@@ -4,30 +4,35 @@
 	"crsid": "0000001005",
 	"department": "PEAC",
 	"enrolled": 12,
-	"instructors": [
-		"Bob Hauck"
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Lifeguard Training",
 	"number": 122,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:35",
-			"location": "SAC POOL",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:35",
 			"location": "SAC POOL",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.052280+00:00",
@@ -48,6 +53,41 @@
 			"instructors": [
 				"Robert Hauck"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.295944+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:35",
+					"location": "SAC POOL",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:35",
+					"location": "SAC POOL",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,30 +4,32 @@
 	"crsid": "0000001869",
 	"department": "HIST",
 	"enrolled": 22,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 14,
 	"instructors": [
-		"Steven C. Hahn"
+		"Hahn, Steve C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13148",
+			"name": "Hahn, Steve C."
+		}
+	],
 	"level": 300,
 	"max": 17,
 	"name": "Us Sem: Revolution",
 	"number": 345,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 514",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 514",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.530155+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:07.712845+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.555006+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Steven C. Hahn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 514",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 514",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

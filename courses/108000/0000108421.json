@@ -1,14 +1,21 @@
 {
 	"clbid": "0000108421",
-	"credits": 0.0,
 	"crsid": "0000001267",
 	"department": "RUSSN",
 	"enrolled": 13,
-	"groupid": "0000001266",
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Irina S. Avkhimovich"
+		"Avkhimovich, Irina S."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28149",
+			"name": "Avkhimovich, Irina S."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Russian II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "TOH 316",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-04-25T21:47:18.512945+00:00",
@@ -53,6 +59,36 @@
 		{
 			"_updated": "2020-10-15T15:24:01.554340+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:12.231432+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001266",
+			"instructors": [
+				"Irina S. Avkhimovich"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "TOH 316",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,31 +4,36 @@
 	"crsid": "0000000199",
 	"department": "CHEM",
 	"enrolled": 34,
+	"enrollment_fy": 7,
+	"enrollment_jr": 6,
+	"enrollment_so": 13,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Anthony T. Watson",
-		"Wesley Pearson"
+		"Watson, Anthony T.",
+		"Pearson, Wesley"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16643",
+			"name": "Watson, Anthony T."
+		},
+		{
+			"fsnum": "6161",
+			"name": "Pearson, Wesley"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Synthesis Lab",
 	"number": 253,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
+			"day": "MW",
+			"end": "0400PM",
 			"location": "SC 311",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "SC 311",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:11.152587+00:00",
@@ -43,6 +48,42 @@
 		{
 			"_updated": "2020-10-15T15:23:18.708292+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.865932+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anthony T. Watson",
+				"Wesley Pearson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "SC 311",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "SC 311",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 4,

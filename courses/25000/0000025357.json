@@ -4,36 +4,37 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 17,
-	"instructors": [
-		"Maria L. Kelly"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 0,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kelly, Maria L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10032",
+			"name": "Kelly, Maria L."
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_so": 3,
+	"max_sr": 25,
 	"name": "Principles of Educ",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "FH 10",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "FH 10",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "FH 10",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.473694+00:00",
@@ -60,12 +61,52 @@
 		{
 			"_updated": "2020-10-15T15:23:02.066229+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.125012+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Maria L. Kelly"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "FH 10",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "FH 10",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "FH 10",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "9/25",
+			"sophomore": "0/3",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "9/25",
-	"sophomore": "0/3",
 	"status": "O",
 	"term": 19991,
 	"type": "Research",

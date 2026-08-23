@@ -7,13 +7,24 @@
 		"A first course in statistical methods, this course addresses study design and its implications as well as exploratory and inferential techniques for analyzing and modeling data. Topics include exploratory graphics, descriptive techniques, randomization tests, statistical designs, hypothesis testing, confidence intervals, and simple/multiple regression. Offered each semester. Enrollment limited for seniors. STAT 110, STAT 172, and ECON 260 all provide an introduction to statistics and students should not take more than one; they all can serve as a prerequisite for further courses. Also counts toward environmental studies major (natural science and social science emphases), kinesiology major, and management studies, mathematical biology, and public health studies concentrations."
 	],
 	"enrolled": 30,
+	"enrollment_fy": 15,
+	"enrollment_jr": 4,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Jaime I. Davila"
+		"Davila, Jaime I."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "32115",
+			"name": "Davila, Jaime I."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Statistics 1",
@@ -23,64 +34,16 @@
 	"number": 172,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "RNS 160R",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "RNS 160R",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "RNS 160R",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "RNS 160R",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "RNS 160R",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "RNS 160R",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "RNS 160R",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 160R",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "RNS 160R",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RNS 160R",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "RNS 160R",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
@@ -205,6 +168,87 @@
 			"gereqs": [
 				"AQR",
 				"QCR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:17.413379+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Jaime I. Davila"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "RNS 160R",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "RNS 160R",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "RNS 160R",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "RNS 160R",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "RNS 160R",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 160R",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 160R",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 160R",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 160R",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RNS 160R",
+					"start": "13:00"
+				}
 			]
 		}
 	],

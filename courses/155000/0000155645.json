@@ -1,14 +1,21 @@
 {
 	"clbid": "0000155645",
-	"credits": 0.0,
 	"crsid": "0000019396",
 	"department": "BI/ES",
 	"enrolled": 9,
-	"groupid": "0000018793",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Charles Jr. Umbanhowar"
+		"Umbanhowar, Charles Jr."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 300,
 	"max": 8,
 	"name": "Biogeochemistry Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 454",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-10-12T02:18:32.617025+00:00",
@@ -75,6 +81,36 @@
 		{
 			"_updated": "2024-02-21T02:18:41.000736+00:00",
 			"enrolled": 8
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.797625+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000018793",
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:00",
+					"location": "RNS 454",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

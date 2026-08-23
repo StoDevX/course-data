@@ -7,26 +7,37 @@
 		"This course introduces differential equations and analytical, numerical and graphical techniques for their analysis. First and second order differential equations and linear systems will be studied. Applications will be selected from areas such as biology, chemistry, economics, ecology and physics. Students will use computers extensively to calculate and visualize results. Prerequisite: Mathematics 126 or 128 and 220. Offered both semesters."
 	],
 	"enrolled": 14,
-	"firstyear": "4/0",
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jill Dietz"
+		"Dietz, Jill"
 	],
-	"junior": "3/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1380",
+			"name": "Dietz, Jill"
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Int Differ Equations",
 	"number": 230,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "SC 130",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "SC 130",
 			"start": "12:45"
 		}
@@ -58,12 +69,44 @@
 		{
 			"_updated": "2020-10-15T15:23:21.901330+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:06.373596+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "4/0",
+			"instructors": [
+				"Jill Dietz"
+			],
+			"instructors_full": null,
+			"junior": "3/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 130",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "SC 130",
+					"start": "12:45"
+				}
+			],
+			"senior": "1/0",
+			"sophomore": "6/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "6/0",
 	"status": "C",
 	"term": 20053,
 	"title": "Introduction to Differential Equations",

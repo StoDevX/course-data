@@ -4,78 +4,38 @@
 	"crsid": "0000000479",
 	"department": "FREN",
 	"enrolled": 9,
+	"enrollment_fy": 6,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"M. Clare Mather"
+		"Mather, M. Clare"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5116",
+			"name": "Mather, M. Clare"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed French I",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "OM 011",
+			"start": "02:00"
+		},
+		{
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "OM 011",
 			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "OM 011",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "OM 011",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "OM 011",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "OM 011",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "OM 011",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "OM 011",
-			"start": "14:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.686562+00:00",
@@ -90,6 +50,88 @@
 		{
 			"_updated": "2020-10-15T15:23:17.294440+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:49.470507+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"M. Clare Mather"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "OM 011",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "OM 011",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "OM 011",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "OM 011",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "OM 011",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "OM 011",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "OM 011",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

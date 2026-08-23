@@ -4,36 +4,32 @@
 	"crsid": "0000000747",
 	"department": "MATH",
 	"enrolled": 12,
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Matthew Richey"
+		"Richey, Matthew"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6658",
+			"name": "Richey, Matthew"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Abstract Algebra I",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "SC 188",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "SC 188",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.869691+00:00",
@@ -48,6 +44,45 @@
 		{
 			"_updated": "2020-10-15T15:22:50.932026+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:56.909302+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Matthew Richey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "SC 188",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

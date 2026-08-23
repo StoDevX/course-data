@@ -4,10 +4,23 @@
 	"crsid": "0000000182",
 	"department": "CHEM",
 	"enrolled": 44,
-	"instructors": [
-		"Mary Walczak"
+	"enrollment_fy": 25,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Walczak, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8868",
+			"name": "Walczak, Mary"
+		}
+	],
 	"level": 100,
 	"max": 48,
 	"name": "Fundamentls of Chem",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "SC 378",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "SC 378",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.082905+00:00",
@@ -42,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:14.828619+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.676717+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Mary Walczak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 378",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "SC 378",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

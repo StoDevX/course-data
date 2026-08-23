@@ -1,14 +1,21 @@
 {
 	"clbid": "0000139934",
-	"credits": 0.0,
 	"crsid": "0000017307",
 	"department": "CHEM",
 	"enrolled": 4,
-	"groupid": "0000000181",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Bill P. Roberts"
+		"Roberts, Bill P."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19399",
+			"name": "Roberts, Bill P."
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Forensic Science Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 454",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-04T17:04:07.967444+00:00",
@@ -49,6 +55,35 @@
 			"instructors": [
 				"William P. Roberts"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:38.836975+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000181",
+			"instructors": [
+				"Bill P. Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 454",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

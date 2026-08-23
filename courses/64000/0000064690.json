@@ -4,10 +4,19 @@
 	"crsid": "0000018392",
 	"department": "HSPST",
 	"enrolled": 7,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Christopher L. Chiappari"
+		"Chiappari, Chris L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10036",
+			"name": "Chiappari, Chris L."
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "FLC - Spanish",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "19:00",
+			"end": "0700PM",
 			"location": "HH 514",
-			"start": "18:00"
+			"start": "06:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:39.539336+00:00",
@@ -36,6 +44,34 @@
 		{
 			"_updated": "2020-10-15T15:23:32.646912+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:55.628772+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Christopher L. Chiappari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "19:00",
+					"location": "HH 514",
+					"start": "18:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

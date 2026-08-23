@@ -1,41 +1,36 @@
 {
 	"clbid": "0000164947",
-	"credits": 0.0,
 	"crsid": "0000001065",
 	"department": "KINES",
-	"enrolled": 21,
-	"firstyear": "0/0",
-	"groupid": "0000001064",
+	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Jennifer M. Miller"
+		"Miller, Jenny M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28146",
+			"name": "Miller, Jenny M."
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Physiology/Exercise Lab",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SAC 103",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SAC 103",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SAC 103",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-08-13T02:39:17.473426+00:00",
@@ -78,10 +73,54 @@
 		{
 			"_updated": "2025-11-21T03:06:56.347575+00:00",
 			"enrolled": 20
+		},
+		{
+			"_updated": "2026-08-23T03:05:52.096538+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 21,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001064",
+			"instructors": [
+				"Jennifer M. Miller"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SAC 103",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SAC 103",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SAC 103",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20253,
 	"type": "Lab",

@@ -4,31 +4,44 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 27,
-	"instructors": [
-		"Anthony Lott"
+	"enrollment_fy": 11,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "4/4",
-	"learningmode": "S",
+	"instructors": [
+		"Lott, Anthony"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15825",
+			"name": "Lott, Anthony"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 4,
+	"max_so": 13,
+	"max_sr": 0,
 	"name": "Int'l Relations",
 	"number": 121,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 301",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 301",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.529272+00:00",
@@ -57,12 +70,47 @@
 		{
 			"_updated": "2020-10-15T15:23:15.060596+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.435764+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony Lott"
+			],
+			"instructors_full": null,
+			"junior": "4/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 301",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 301",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/0",
+			"sophomore": "8/13",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "4/0",
-	"sophomore": "8/13",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

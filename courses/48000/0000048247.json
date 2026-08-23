@@ -1,37 +1,44 @@
 {
 	"clbid": "0000048247",
-	"credits": 0.0,
 	"crsid": "0000016743",
 	"department": "MATH",
 	"enrolled": 18,
-	"firstyear": "12/0",
-	"groupid": "0000000731",
-	"grouptype": "1",
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Matthew Richey"
+		"Richey, Matthew"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6658",
+			"name": "Richey, Matthew"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Calculus I Lab",
 	"number": 120,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "SC 282",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "SC 282",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.797587+00:00",
@@ -53,12 +60,50 @@
 		{
 			"_updated": "2020-10-15T15:23:20.228744+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:59.782627+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "12/0",
+			"groupid": "0000000731",
+			"grouptype": "1",
+			"instructors": [
+				"Matthew Richey"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 282",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "SC 282",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "3/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/0",
-	"sophomore": "3/0",
 	"status": "O",
 	"term": 20051,
 	"type": "Lab",

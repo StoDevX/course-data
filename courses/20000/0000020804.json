@@ -4,30 +4,36 @@
 	"crsid": "0000001294",
 	"department": "SOAN",
 	"enrolled": 25,
-	"instructors": [
-		"Janet Contursi"
+	"enrollment_fy": 7,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Contursi, Janet"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1212",
+			"name": "Contursi, Janet"
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Int/Cult Anthropology",
 	"number": 128,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "MFH 230",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "MFH 230",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.915790+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:55.074520+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:39.271336+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Janet Contursi"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "MFH 230",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "MFH 230",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

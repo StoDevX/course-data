@@ -4,30 +4,35 @@
 	"crsid": "0000000346",
 	"department": "DNCTE",
 	"enrolled": 23,
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "The Beat Goes On",
 	"number": 105,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD Studio 2",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "CAD Studio 2",
 			"start": "09:05"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:37.246704+00:00",
@@ -48,6 +53,41 @@
 		{
 			"_updated": "2020-10-15T15:23:21.612808+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:06.283499+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD Studio 2",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD Studio 2",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

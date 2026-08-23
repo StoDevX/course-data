@@ -1,14 +1,21 @@
 {
 	"clbid": "0000079158",
-	"credits": 0.0,
 	"crsid": "0000001085",
 	"department": "PHYS",
 	"enrolled": 17,
-	"groupid": "0000001084",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Jason J. Engbrecht"
+		"Engbrecht, Jason J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14912",
+			"name": "Engbrecht, Jason J."
+		}
+	],
 	"level": 200,
 	"max": 17,
 	"name": "Electronic Circuits Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 294",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:01.032162+00:00",
@@ -45,6 +51,36 @@
 		{
 			"_updated": "2021-03-02T16:51:21.247244+00:00",
 			"max": 18
+		},
+		{
+			"_updated": "2026-08-23T03:02:51.070384+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001084",
+			"instructors": [
+				"Jason J. Engbrecht"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 294",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

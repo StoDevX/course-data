@@ -1,32 +1,37 @@
 {
 	"clbid": "0000165093",
-	"credits": 0.0,
 	"crsid": "0000036590",
 	"department": "FYS",
-	"enrolled": 18,
-	"groupid": "0000036173",
-	"grouptype": "I",
+	"enrolled": 16,
+	"enrollment_fy": 16,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "SOAR Discussion",
 	"notes": [
-		"SOAR Discussion meets on Feb 13, Feb 27, Mar 13, Mar 27, Apr 10."
+		"SOAR Discussion meets on Feb 12, Feb 26, Mar 19, Apr 9, Apr 23."
 	],
 	"number": 120,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "TBA",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-11-07T03:06:25.245791+00:00",
@@ -47,6 +52,37 @@
 		{
 			"_updated": "2025-11-16T03:13:49.415419+00:00",
 			"enrolled": 17
+		},
+		{
+			"_updated": "2026-08-23T03:05:48.642075+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 18,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000036173",
+			"grouptype": "I",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"SOAR Discussion meets on Feb 13, Feb 27, Mar 13, Mar 27, Apr 10."
+			],
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "TBA",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "I",

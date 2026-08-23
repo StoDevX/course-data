@@ -7,36 +7,36 @@
 		"This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one 3-hour laboratory per week. Prerequisite: Chemistry 125, or 121 and 123, and Mathematics 119, 120, or 122 or permission of instructor."
 	],
 	"enrolled": 55,
-	"groupid": "0000000194",
-	"grouptype": "2",
-	"instructors": [
-		"Anthony T. Watson"
+	"enrollment_fy": 41,
+	"enrollment_jr": 4,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Watson, Anthony T."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16643",
+			"name": "Watson, Anthony T."
+		}
+	],
 	"level": 100,
 	"max": 60,
+	"max_so": 15,
 	"name": "Chemical Reactions",
 	"notes": [
-		"Students in Chem 126 C and D must also register for one lab",
+		"Students in Chem 126 C and D must also register for one lab                     ",
 		"Chem 126 EL, FL, GL, or HL."
 	],
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 378",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 378",
 			"start": "11:50"
 		}
@@ -70,11 +70,54 @@
 		{
 			"_updated": "2020-10-15T15:23:25.117100+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:21.756402+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000000194",
+			"grouptype": "2",
+			"instructors": [
+				"Anthony T. Watson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Chem 126 C and D must also register for one lab",
+				"Chem 126 EL, FL, GL, or HL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 378",
+					"start": "11:50"
+				}
+			],
+			"sophomore": "7/15"
 		}
 	],
 	"section": "D",
 	"semester": 3,
-	"sophomore": "7/15",
 	"status": "C",
 	"term": 20063,
 	"title": "Energies and Rates of Chemical Reactions",

@@ -4,42 +4,42 @@
 	"crsid": "0000000106",
 	"department": "BIO",
 	"enrolled": 26,
-	"instructors": [
-		"Eric Cole"
+	"enrollment_fy": 7,
+	"enrollment_jr": 0,
+	"enrollment_so": 17,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Cole, Eric"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1206",
+			"name": "Cole, Eric"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Cellular Bio & Genetics",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 278",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 278",
 			"start": "10:45"
 		},
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "SC 273",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.435070+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:10.435316+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.759346+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Eric Cole"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 278",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "SC 273",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

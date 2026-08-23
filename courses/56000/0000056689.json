@@ -1,15 +1,26 @@
 {
 	"clbid": "0000056689",
-	"credits": 0.0,
 	"crsid": "0000000400",
 	"department": "ENGL",
 	"enrolled": 15,
-	"groupid": "0000000399",
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Mary Titus",
-		"Colin Wells"
+		"Wells, Colin",
+		"Titus, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8973",
+			"name": "Wells, Colin"
+		},
+		{
+			"fsnum": "8415",
+			"name": "Titus, Mary"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Lit in Engl 1650-1850 Dis",
@@ -23,7 +34,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:26.129395+00:00",
@@ -38,6 +48,28 @@
 		{
 			"_updated": "2020-10-15T15:23:27.055067+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.332268+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000399",
+			"instructors": [
+				"Mary Titus",
+				"Colin Wells"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

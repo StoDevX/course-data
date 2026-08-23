@@ -4,36 +4,37 @@
 	"crsid": "0000002057",
 	"department": "PARA",
 	"enrolled": 19,
-	"instructors": [
-		"Joseph L. Mbele"
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 7,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-L",
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Mbele, Joseph L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5144",
+			"name": "Mbele, Joseph L."
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "African Folklore",
 	"number": 132,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 277",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 277",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 277",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.316588+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.390510+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:57.154992+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joseph L. Mbele"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 277",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

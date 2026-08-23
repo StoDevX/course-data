@@ -4,37 +4,39 @@
 	"crsid": "0000000004",
 	"department": "AMST",
 	"enrolled": 31,
-	"instructors": [
-		"James Farrell"
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "15/14",
-	"learningmode": "S",
+	"instructors": [
+		"Farrell, James"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2030",
+			"name": "Farrell, James"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 14,
+	"max_so": 5,
+	"max_sr": 10,
 	"name": "Perspec Amer Culture",
 	"number": 100,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "ST",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "ST",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "ST",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.398221+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:10.410861+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.744983+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"James Farrell"
+			],
+			"instructors_full": null,
+			"junior": "15/14",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "ST",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "ST",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "ST",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "8/10",
+			"sophomore": "8/5",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "8/10",
-	"sophomore": "8/5",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

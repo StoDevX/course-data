@@ -4,48 +4,47 @@
 	"crsid": "0000002251",
 	"department": "PSCI",
 	"enrolled": 11,
-	"instructors": [
-		"Michael Chambers"
+	"enrollment_fy": 2,
+	"enrollment_jr": 0,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Chambers, Michael"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1069",
+			"name": "Chambers, Michael"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "East Asia & World Pol",
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MTh",
 			"end": "10:00",
 			"location": "L 177",
 			"start": "08:00"
 		},
 		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "L 177",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "L 177",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "L 177",
+			"day": "MTh",
+			"end": "1240PM",
+			"location": "",
 			"start": "10:40"
 		},
 		{
 			"day": "Tu",
-			"end": "15:00",
-			"location": "L 177",
-			"start": "13:00"
+			"end": "0300PM",
+			"location": "",
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:25.348888+00:00",
@@ -60,6 +59,59 @@
 		{
 			"_updated": "2020-10-15T15:22:54.189461+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:04.446485+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Michael Chambers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 177",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "L 177",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "L 177",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "L 177",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "L 177",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

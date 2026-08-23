@@ -7,30 +7,27 @@
 		"The department periodically offers special topics courses. The specific title of the course will be listed in the Class and Lab Schedule when it is offered."
 	],
 	"enrolled": 15,
+	"enrollment_fy": 2,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Donald I. Ostrom"
+		"Ostrom, Donald I."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16635",
+			"name": "Ostrom, Donald I."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Top: American Presidency",
 	"number": 299,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TB 216",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TB 216",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TB 216",
 			"start": "11:50"
 		}
@@ -51,6 +48,42 @@
 		{
 			"_updated": "2020-10-15T15:23:28.968133+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:37.368914+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Donald I. Ostrom"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TB 216",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TB 216",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TB 216",
+					"start": "11:50"
+				}
+			]
 		}
 	],
 	"section": "A",

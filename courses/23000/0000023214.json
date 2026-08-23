@@ -4,36 +4,31 @@
 	"crsid": "0000001512",
 	"department": "ART",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Wendell Arneson"
+		"Arneson, Wendell"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "276",
+			"name": "Arneson, Wendell"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Painting II",
 	"number": 331,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "FH 40",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH 40",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH 40",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.019108+00:00",
@@ -48,6 +43,47 @@
 		{
 			"_updated": "2020-10-15T15:22:59.204791+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:51.444076+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Wendell Arneson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH 40",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH 40",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH 40",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

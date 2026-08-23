@@ -4,16 +4,25 @@
 	"crsid": "0000001199",
 	"department": "REL",
 	"enrolled": 4,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Eric Lund"
+		"Lund, Eric"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4838",
+			"name": "Lund, Eric"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_sr": 15,
 	"name": "FLC-German",
 	"number": 213,
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.662058+00:00",
@@ -37,11 +46,30 @@
 		{
 			"_updated": "2020-10-15T15:22:53.747997+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:53.879446+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Eric Lund"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "0/15",
+			"title": null
 		}
 	],
 	"section": "L",
 	"semester": 1,
-	"senior": "0/15",
 	"status": "O",
 	"term": 19961,
 	"type": "Research",

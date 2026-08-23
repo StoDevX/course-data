@@ -4,30 +4,35 @@
 	"crsid": "0000001660",
 	"department": "ENGL",
 	"enrolled": 22,
-	"instructors": [
-		"Jan C. Hill"
+	"enrollment_fy": 20,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"FYW"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hill, Jan C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "109",
+			"name": "Hill, Jan C."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "College English",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 477",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 477",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.765130+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:22:50.863290+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:49.161170+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jan C. Hill"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 477",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 477",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

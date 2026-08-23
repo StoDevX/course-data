@@ -1,14 +1,21 @@
 {
 	"clbid": "0000083068",
-	"credits": 0.0,
 	"crsid": "0000000103",
 	"department": "BIO",
 	"enrolled": 21,
-	"groupid": "0000000102",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 18,
+	"enrollment_sr": 0,
 	"instructors": [
-		"David Van Wylen"
+		"Van Wylen, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8768",
+			"name": "Van Wylen, David"
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Human Biology Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:15",
+			"end": "0415PM",
 			"location": "RNS 254",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:05.135279+00:00",
@@ -45,6 +51,35 @@
 		{
 			"_updated": "2021-03-02T16:51:23.026491+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:02:56.598541+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000102",
+			"instructors": [
+				"David Van Wylen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:15",
+					"location": "RNS 254",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,10 +4,19 @@
 	"crsid": "0000000199",
 	"department": "CHEM",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 15,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jamie Schneider"
+		"Schneider, Jamie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10037",
+			"name": "Schneider, Jamie"
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Synthesis Lab",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 378/311",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.386799+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:23:02.038368+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.103996+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jamie Schneider"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "SC 378/311",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

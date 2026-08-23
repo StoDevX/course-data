@@ -1,34 +1,38 @@
 {
 	"clbid": "0000164968",
-	"credits": 0.0,
 	"crsid": "0000038633",
 	"department": "EDUC",
-	"enrolled": 9,
-	"groupid": "0000000321",
-	"grouptype": "2",
-	"halfcredit": "2",
+	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Daniel R. Forstner"
+		"Forstner, Daniel R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15723",
+			"name": "Forstner, Daniel R."
+		}
+	],
 	"level": 300,
 	"max": 14,
 	"name": "Plan, Instruct, &  Assessment Lab",
 	"notes": [
-		"Taken concurrently with EDUC 330.",
+		"Taken concurrently with EDUC 330.                                               ",
 		"Meets only on April 7, 14, and 21."
 	],
 	"number": 330,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:30",
+			"end": "0630PM",
 			"location": "TOH 214",
-			"start": "16:30"
+			"start": "04:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-14T02:48:46.651751+00:00",
@@ -90,6 +94,42 @@
 		{
 			"_updated": "2025-12-10T03:18:11.735066+00:00",
 			"enrolled": 8
+		},
+		{
+			"_updated": "2026-08-23T03:05:45.808836+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 9,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000321",
+			"grouptype": "2",
+			"halfcredit": "2",
+			"instructors": [
+				"Daniel R. Forstner"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Taken concurrently with EDUC 330.",
+				"Meets only on April 7, 14, and 21."
+			],
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:30",
+					"location": "TOH 214",
+					"start": "16:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

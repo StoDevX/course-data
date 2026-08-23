@@ -7,13 +7,22 @@
 		"The field of chemistry is constantly expanding into new frontiers This course provides an in-depth study of selected topics within the broad discipline of chemistry. Classwork includes comprehensive review of the literature and group discussion. Topics will be chosen based on student interest and available staff and will be announced prior to registration for the term. Prerequisites: permission of the instructor and junior or senior standing."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Douglas J. Beussman"
+		"Beussman, Douglas J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15745",
+			"name": "Beussman, Douglas J."
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
 	"name": "Top:Bioanalytical Chem",
 	"notes": [
 		"Lab hours to be arranged."
@@ -21,32 +30,8 @@
 	"number": 391,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "SC 274",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "SC 274",
 			"start": "10:40"
 		}
@@ -71,6 +56,56 @@
 		{
 			"_updated": "2020-10-15T15:23:24.320909+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:18.546083+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Douglas J. Beussman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "SC 274",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "SC 274",
+					"start": "10:40"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

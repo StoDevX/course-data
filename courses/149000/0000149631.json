@@ -1,13 +1,21 @@
 {
 	"clbid": "0000149631",
-	"credits": 0.0,
 	"crsid": "0000033748",
 	"department": "CHEM",
 	"enrolled": 20,
+	"enrollment_fy": 13,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Kayla A. Lantz"
+		"Lantz, Kayla A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35082",
+			"name": "Lantz, Kayla A."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Introductory Chemistry Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-06-23T03:01:38.065818+00:00",
@@ -69,6 +76,34 @@
 		{
 			"_updated": "2023-10-21T02:17:53.426230+00:00",
 			"enrolled": 21
+		},
+		{
+			"_updated": "2026-08-23T03:05:12.907185+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Kayla A. Lantz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

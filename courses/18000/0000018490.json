@@ -4,24 +4,31 @@
 	"crsid": "0000001097",
 	"department": "PHYS",
 	"enrolled": 6,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Robert Jacobel"
+		"Jacobel, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3646",
+			"name": "Jacobel, Robert"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Adv Physics Lab (375)",
 	"number": 385,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 151",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.994922+00:00",
@@ -36,6 +43,34 @@
 		{
 			"_updated": "2020-10-15T15:22:51.012898+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:13.910463+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Jacobel"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 151",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

@@ -7,26 +7,31 @@
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in game playing."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 21,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Matt McDonald"
+		"McDonald, Matt"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "5195",
+			"name": "McDonald, Matt"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "Tostrud Ctr",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "Tostrud Ctr",
 			"start": "08:00"
@@ -40,6 +45,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.411451+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Matt McDonald"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				}
 			]
 		}
 	],

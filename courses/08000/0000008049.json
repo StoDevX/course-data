@@ -4,10 +4,19 @@
 	"crsid": "0000000685",
 	"department": "IS",
 	"enrolled": 5,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"David Booth"
+		"Booth, David"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "712",
+			"name": "Booth, David"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Coll: Tradition",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "TB 227",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.530786+00:00",
@@ -36,6 +44,34 @@
 		{
 			"_updated": "2020-10-15T15:23:16.583465+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:47.081684+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"David Booth"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "TB 227",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

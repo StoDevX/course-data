@@ -7,14 +7,25 @@
 		"Students study features commonly found in computer programming languages and construct their own interpreters for an example programming language incorporating various language features they study throughout the course. Topics include programming language semantics, programming language translation, parsing, implementation of control structures and memory structures, abstraction mechanisms, and language translation systems and types. Offered alternate years. Also counts toward linguistic studies concentration. Prerequisites: CSCI 241 and CSCI 251, or permission of instructor."
 	],
 	"enrolled": 24,
-	"firstyear": "1/1",
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 13,
 	"instructors": [
-		"Richard Allen"
+		"Allen, Richard"
 	],
-	"junior": "7/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "97",
+			"name": "Allen, Richard"
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 1,
+	"max_jr": 4,
+	"max_so": 2,
+	"max_sr": 15,
 	"name": "Programming Languages",
 	"notes": [
 		"This course has class-year limits."
@@ -22,19 +33,7 @@
 	"number": 276,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 202",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 202",
 			"start": "09:05"
@@ -146,12 +145,50 @@
 			"_updated": "2023-06-04T03:08:05.604548+00:00",
 			"firstyear": "0/1",
 			"junior": "8/4"
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.569107+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/1",
+			"instructors": [
+				"Richard Allen"
+			],
+			"instructors_full": null,
+			"junior": "7/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 202",
+					"start": "09:05"
+				}
+			],
+			"senior": "13/15",
+			"sophomore": "3/2"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "13/15",
-	"sophomore": "3/2",
 	"status": "C",
 	"term": 20193,
 	"type": "Research",

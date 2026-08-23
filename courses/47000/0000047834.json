@@ -1,19 +1,32 @@
 {
 	"clbid": "0000047834",
-	"credits": 0.0,
 	"crsid": "0000000398",
 	"department": "ENGL",
 	"enrolled": 47,
-	"firstyear": "0/0",
-	"groupid": "0000000397",
+	"enrollment_fy": 0,
+	"enrollment_jr": 17,
+	"enrollment_so": 26,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Karen Cherewatuk",
-		"Cathryn Meyer"
+		"Meyer, Cathryn",
+		"Cherewatuk, Karen"
 	],
-	"junior": "17/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17513",
+			"name": "Meyer, Cathryn"
+		},
+		{
+			"fsnum": "1076",
+			"name": "Cherewatuk, Karen"
+		}
+	],
 	"level": 200,
 	"max": 54,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Lit in Engl to 1650 Disc",
 	"number": 221,
 	"offerings": [
@@ -25,7 +38,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.779505+00:00",
@@ -47,12 +59,36 @@
 		{
 			"_updated": "2020-10-15T15:23:20.216237+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.485299+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000397",
+			"instructors": [
+				"Karen Cherewatuk",
+				"Cathryn Meyer"
+			],
+			"instructors_full": null,
+			"junior": "17/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "4/0",
+			"sophomore": "26/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/0",
-	"sophomore": "26/0",
 	"status": "C",
 	"term": 20051,
 	"type": "Discussion",

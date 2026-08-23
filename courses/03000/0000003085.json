@@ -4,30 +4,36 @@
 	"crsid": "0000000463",
 	"department": "ENVST",
 	"enrolled": 23,
-	"instructors": [
-		"Heather M. Brooks-Shirey"
+	"enrollment_fy": 1,
+	"enrollment_jr": 8,
+	"enrollment_so": 10,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brooks-Shirey, Heather M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14840",
+			"name": "Brooks-Shirey, Heather M."
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Nature & Am Landscape",
 	"number": 270,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CAD 204",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CAD 204",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:19.354104+00:00",
@@ -48,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.027954+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.300493+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 204",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CAD 204",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

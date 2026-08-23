@@ -4,30 +4,32 @@
 	"crsid": "0000000856",
 	"department": "MUSIC",
 	"enrolled": 34,
+	"enrollment_fy": 0,
+	"enrollment_jr": 21,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
 	"max": 35,
 	"name": "Music of 20th Century",
 	"number": 344,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "CHM 232",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "CHM 232",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.851948+00:00",
@@ -42,6 +44,37 @@
 		{
 			"_updated": "2020-10-15T15:22:46.734260+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.331575+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "CHM 232",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "CHM 232",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

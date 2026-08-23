@@ -4,30 +4,32 @@
 	"crsid": "0000000159",
 	"department": "BIO",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Lauri Sammartano"
+		"Sammartano, Lauri"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6993",
+			"name": "Sammartano, Lauri"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Molecular Biology",
 	"number": 364,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 274",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 274",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.522631+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:22:54.812775+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:08.353886+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Lauri Sammartano"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

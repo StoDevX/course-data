@@ -4,10 +4,19 @@
 	"crsid": "0000000159",
 	"department": "BIO",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Robert Rutherford"
+		"Rutherford, Robert"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15752",
+			"name": "Rutherford, Robert"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Molecular Biology",
@@ -27,13 +36,12 @@
 		},
 		{
 			"day": "We",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "SC 211",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.077675+00:00",
@@ -48,6 +56,45 @@
 		{
 			"_updated": "2020-10-15T15:23:18.077581+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.613205+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Robert Rutherford"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:50",
+					"location": "SC 274",
+					"start": "09:30"
+				},
+				{
+					"day": "We",
+					"end": "15:55",
+					"location": "SC 211",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

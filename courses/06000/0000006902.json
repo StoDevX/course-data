@@ -4,36 +4,37 @@
 	"crsid": "0000000407",
 	"department": "ENGL",
 	"enrolled": 29,
-	"instructors": [
-		"Colin Wells"
+	"enrollment_fy": 4,
+	"enrollment_jr": 12,
+	"enrollment_so": 8,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-L",
+		"HWC",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Wells, Colin"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8973",
+			"name": "Wells, Colin"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Top: Historical/Lit",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RML 515",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RML 515",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RML 515",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.249884+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:14.892430+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.713257+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Colin Wells"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RML 515",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -1,29 +1,35 @@
 {
 	"clbid": "0000126158",
-	"credits": 0.0,
 	"crsid": "0000000127",
 	"department": "BIO",
 	"enrolled": 23,
-	"firstyear": "1/6",
-	"groupid": "0000000126",
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Kevin M. Crisp"
+		"Crisp, Kevin M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
+	],
 	"level": 200,
 	"max": 22,
+	"max_fy": 6,
 	"name": "Human Anatomy & Physiology II Lab",
 	"number": 243,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 254",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-16T05:07:32.992105+00:00",
@@ -78,6 +84,36 @@
 		{
 			"_updated": "2020-11-11T16:19:52.833515+00:00",
 			"name": "Human Anatomy & Physiology Lab"
+		},
+		{
+			"_updated": "2026-08-23T03:04:31.517358+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/6",
+			"groupid": "0000000126",
+			"instructors": [
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 254",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

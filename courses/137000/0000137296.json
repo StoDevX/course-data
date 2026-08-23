@@ -4,29 +4,37 @@
 	"crsid": "0000032566",
 	"department": "EDUC",
 	"enrolled": 6,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Jill A. Watson"
+		"Watson, Jill A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28066",
+			"name": "Watson, Jill A."
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
 	"name": "FLC - German",
 	"notes": [
-		"Prerequisite: Completion of German 232 or equivalent experience.",
+		"Prerequisite: Completion of German 232 or equivalent experience.                ",
 		"Meeting time will be decided based on availability of the registered students."
 	],
 	"number": 346,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "14:00",
+			"end": "0200PM",
 			"location": "TOH 175",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": "Completion of German 232 or equivalent experience.",
 	"revisions": [
 		{
 			"_updated": "2021-03-04T17:14:52.502122+00:00",
@@ -66,6 +74,39 @@
 		{
 			"_updated": "2023-06-04T03:08:12.939710+00:00",
 			"offerings": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.852124+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jill A. Watson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: Completion of German 232 or equivalent experience.",
+				"Meeting time will be decided based on availability of the registered students."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:00",
+					"location": "TOH 175",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": "Completion of German 232 or equivalent experience.",
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

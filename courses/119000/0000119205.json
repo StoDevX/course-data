@@ -1,28 +1,35 @@
 {
 	"clbid": "0000119205",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 15,
-	"groupid": "0000000192",
+	"enrollment_fy": 11,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Elodie Marlier"
+		"Marlier, Elodie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "22843",
+			"name": "Marlier, Elodie"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 355",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-07T02:13:32.134107+00:00",
@@ -115,11 +122,40 @@
 		{
 			"_updated": "2020-10-15T15:24:07.367657+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:21.770187+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"Elodie Marlier"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 355",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "3/6",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"sophomore": "3/6",
 	"status": "C",
 	"term": 20181,
 	"type": "Lab",

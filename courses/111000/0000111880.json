@@ -4,18 +4,28 @@
 	"crsid": "0000000285",
 	"department": "ECON",
 	"enrolled": 1,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Paul Wojick"
+		"Wojick, Paul"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9114",
+			"name": "Wojick, Paul"
+		}
+	],
 	"level": 300,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "IR/21st Century Political Economy",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-11-04T11:31:26.386976+00:00",
@@ -41,12 +51,32 @@
 		{
 			"_updated": "2020-10-15T15:24:00.634786+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:07.807366+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Paul Wojick"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "0/0"
 		}
 	],
 	"section": "A",
 	"semester": 2,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20162,
 	"title": "Independent Research",

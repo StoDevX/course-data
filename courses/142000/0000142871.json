@@ -7,26 +7,31 @@
 		"This course offers instruction/review of fundamental skills, rules, and etiquette of badminton. Students focus on basic strategy in game playing."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 21,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Christopher J. Kuna"
+		"Kuna, Christopher J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29093",
+			"name": "Kuna, Christopher J."
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Badminton",
 	"number": 151,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "Tostrud Ctr",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "Tostrud Ctr",
 			"start": "08:00"
@@ -40,6 +45,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.411180+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Christopher J. Kuna"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "Tostrud Ctr",
+					"start": "08:00"
+				}
 			]
 		}
 	],

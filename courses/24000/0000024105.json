@@ -4,66 +4,44 @@
 	"crsid": "0000000770",
 	"department": "MGMT",
 	"enrolled": 14,
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 4,
+	"enrollment_sr": 6,
 	"instructors": [
-		"William L. Carlson"
+		"Carlson, William L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "951",
+			"name": "Carlson, William L."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Computer Applications",
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MW",
+			"end": "0300PM",
+			"location": "H 413",
+			"start": "01:00"
+		},
+		{
+			"day": "MWF",
 			"end": "10:00",
 			"location": "H 413",
 			"start": "09:05"
 		},
 		{
-			"day": "We",
-			"end": "10:00",
-			"location": "H 413",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "H 413",
-			"start": "09:05"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
+			"day": "MWF",
+			"end": "1200PM",
 			"location": "H 413",
 			"start": "10:30"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Fr",
-			"end": "12:00",
-			"location": "H 413",
-			"start": "10:30"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "H 413",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 413",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.138539+00:00",
@@ -78,6 +56,76 @@
 		{
 			"_updated": "2020-10-15T15:22:59.906653+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:13.062339+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"William L. Carlson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "H 413",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "H 413",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "H 413",
+					"start": "09:05"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Fr",
+					"end": "12:00",
+					"location": "H 413",
+					"start": "10:30"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 413",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 413",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -1,30 +1,84 @@
 {
-	"clbid": 12093,
+	"clbid": "0000012093",
 	"credits": 1.0,
-	"crsid": 763,
-	"departments": [
-		"MATH"
+	"crsid": "0000000763",
+	"department": "MATH",
+	"description": [
+		"Students work intensively in a special topic of an applied character. Topics vary from year to year and are usually selected from statistics, operations research or differential equations. May be repeated if topics are different."
 	],
-	"description": "Students work intensively in a special topic of an applied character. Topics vary from year to year and are usually selected from statistics, operations research or differential equations. May be repeated if topics are different.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Amelia J. Taylor"
+		"Taylor, Amelia J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15808",
+			"name": "Taylor, Amelia J."
+		}
 	],
 	"level": 300,
-	"locations": [
-		"SC 186",
-		"SC 186"
-	],
+	"max": 15,
 	"name": "Sem: Applied Algebra",
 	"number": 384,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "11:00",
+			"location": "SC 186",
+			"start": "09:35"
+		},
+		{
+			"day": "Th",
+			"end": "10:50",
+			"location": "SC 186",
+			"start": "09:30"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:07.001859+00:00",
+			"clbid": 12093,
+			"crsid": 763,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "Students work intensively in a special topic of an applied character. Topics vary from year to year and are usually selected from statistics, operations research or differential equations. May be repeated if topics are different.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Amelia J. Taylor"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SC 186",
+				"SC 186"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"times": [
+				"T 0935-1100",
+				"Th 0930-1050"
+			]
+		}
+	],
 	"semester": 3,
 	"status": "X",
 	"term": 20053,
-	"times": [
-		"T 0935-1100",
-		"Th 0930-1050"
-	],
 	"title": "Topics in Applied Mathematics",
 	"type": "Seminar",
 	"year": 2005

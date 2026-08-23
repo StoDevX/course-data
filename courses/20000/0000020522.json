@@ -4,30 +4,36 @@
 	"crsid": "0000002118",
 	"department": "PARA",
 	"enrolled": 15,
-	"instructors": [
-		"John Poling"
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Poling, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6392",
+			"name": "Poling, John"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Vices and Virtues",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "YH 130",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "YH 130",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:26.764751+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:22:54.974033+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:23.700381+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Poling"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "YH 130",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "YH 130",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

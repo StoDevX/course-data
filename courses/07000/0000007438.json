@@ -4,36 +4,35 @@
 	"crsid": "0000001375",
 	"department": "THEAT",
 	"enrolled": 52,
-	"instructors": [
-		"Gary C. Gisselman"
+	"enrollment_fy": 24,
+	"enrollment_jr": 3,
+	"enrollment_so": 10,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gisselman, Gary C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10426",
+			"name": "Gisselman, Gary C."
+		}
+	],
 	"level": 100,
 	"max": 55,
 	"name": "Intro to Theater",
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD 305",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CAD 305",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.829765+00:00",
@@ -54,6 +53,47 @@
 		{
 			"_updated": "2020-10-15T15:23:15.131374+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.480365+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gary C. Gisselman"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD 305",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

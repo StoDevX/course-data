@@ -7,35 +7,32 @@
 		"This course provides an introduction to the structure and creation of computer software, using the C++ programming language and emphasizing object-oriented programming and software life-cycle methodology. Concepts and skills are applied in a team project based on the waterfall model of software development. Topics include object-oriented programming, specification, high-level memory management, indirect addressing, formal methods, tools including UML, team software process, requirements analysis, software design strategies, and elementary ethical analysis of software systems. Prerequisite: Computer Science 121 or Computer Science 125 or Computer Science 241 or Physics 130 or Math 252 or permission of instructor. Concurrent registration in Computer Science 252 is required. Offered both semesters."
 	],
 	"enrolled": 36,
-	"groupid": "0000000292",
+	"enrollment_fy": 18,
+	"enrollment_jr": 4,
+	"enrollment_so": 9,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Olaf A. Hall-Holt"
+		"Hall-Holt, Olaf A."
 	],
-	"junior": "4/8",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16583",
+			"name": "Hall-Holt, Olaf A."
+		}
+	],
 	"level": 200,
 	"max": 50,
+	"max_jr": 8,
+	"max_sr": 8,
 	"name": "Software Design",
 	"notes": [
-		"This course has class-year limits.",
+		"This course has class-year limits.                                              ",
 		"Students in CSCI 251 must also register for one lab CSCI 252 AL or BL."
 	],
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 203",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 203",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 203",
 			"start": "09:05"
@@ -73,10 +70,53 @@
 		{
 			"_updated": "2020-10-15T15:23:47.041429+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.593456+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000292",
+			"instructors": [
+				"Olaf A. Hall-Holt"
+			],
+			"instructors_full": null,
+			"junior": "4/8",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits.",
+				"Students in CSCI 251 must also register for one lab CSCI 252 AL or BL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 203",
+					"start": "09:05"
+				}
+			],
+			"section": null,
+			"senior": "5/8"
 		}
 	],
 	"semester": 3,
-	"senior": "5/8",
 	"status": "O",
 	"term": 20123,
 	"title": "Software Design and Implementation",

@@ -4,30 +4,35 @@
 	"crsid": "0000000498",
 	"department": "GE",
 	"enrolled": 17,
-	"instructors": [
-		"David Martins"
+	"enrollment_fy": 17,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"FYW"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Martins, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10317",
+			"name": "Martins, David"
+		}
+	],
 	"level": 100,
 	"max": 19,
 	"name": "First Year Seminar",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "L 421",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "L 421",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.675545+00:00",
@@ -42,6 +47,40 @@
 		{
 			"_updated": "2020-10-15T15:23:02.108869+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.764731+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David Martins"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "L 421",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "L 421",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

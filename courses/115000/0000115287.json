@@ -1,14 +1,21 @@
 {
 	"clbid": "0000115287",
-	"credits": 0.0,
 	"crsid": "0000026713",
 	"department": "BIO",
 	"enrolled": 19,
-	"groupid": "0000026712",
+	"enrollment_fy": 13,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kevin B. Potts"
+		"Potts, Kevin B."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28156",
+			"name": "Potts, Kevin B."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Cells and Tissues Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 398",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-09-07T01:00:38.841824+00:00",
@@ -41,6 +47,35 @@
 		{
 			"_updated": "2020-10-15T15:24:03.551783+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.469542+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026712",
+			"instructors": [
+				"Kevin B. Potts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "17:00",
+					"location": "RNS 398",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

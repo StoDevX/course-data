@@ -7,14 +7,23 @@
 		"Students will learn the basics of pickleball rules, court etiquette, shots, scoring, and strategies and will play in singles and doubles in varying tournament styles."
 	],
 	"enrolled": 21,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 21,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SPM"
 	],
-	"halfcredit": "2",
 	"instructors": [
-		"Joseph R. Kronzer"
+		"Kronzer, Joseph R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "24184",
+			"name": "Kronzer, Joseph R."
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Pickleball",
@@ -24,19 +33,7 @@
 	"number": 139,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -101,6 +98,46 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.948612+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"halfcredit": "2",
+			"instructors": [
+				"Joseph R. Kronzer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
 			]
 		}
 	],

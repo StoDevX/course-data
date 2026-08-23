@@ -4,10 +4,22 @@
 	"crsid": "0000001191",
 	"department": "REL",
 	"enrolled": 24,
-	"instructors": [
-		"Elizabeth C. Galbraith"
+	"enrollment_fy": 23,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"BTS-B"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Galbraith, Elizabeth C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14954",
+			"name": "Galbraith, Elizabeth C."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Bible/Culture/Commun",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "BMC 101",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "BMC 101",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.537767+00:00",
@@ -42,6 +53,40 @@
 		{
 			"_updated": "2020-10-15T15:23:18.363980+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:53.340388+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Elizabeth C. Galbraith"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "BMC 101",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "BMC 101",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "J",

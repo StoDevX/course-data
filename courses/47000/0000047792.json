@@ -1,31 +1,38 @@
 {
 	"clbid": "0000047792",
-	"credits": 0.0,
 	"crsid": "0000000107",
 	"department": "BIO",
 	"enrolled": 25,
-	"firstyear": "7/0",
-	"groupid": "0000000106",
-	"grouptype": "3",
+	"enrollment_fy": 7,
+	"enrollment_jr": 0,
+	"enrollment_so": 15,
+	"enrollment_sr": 3,
 	"instructors": [
-		"John Giannini"
+		"Giannini, John"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Cell Bio & Genetics Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "14:30",
+			"end": "0230PM",
 			"location": "SC 273",
 			"start": "12:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.759408+00:00",
@@ -47,12 +54,44 @@
 		{
 			"_updated": "2020-10-15T15:23:20.202261+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.421305+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "7/0",
+			"groupid": "0000000106",
+			"grouptype": "3",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:30",
+					"location": "SC 273",
+					"start": "12:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/0",
+			"sophomore": "15/0",
+			"title": null
 		}
 	],
 	"section": "F",
 	"semester": 1,
-	"senior": "3/0",
-	"sophomore": "15/0",
 	"status": "O",
 	"term": 20051,
 	"type": "Lab",

@@ -1,29 +1,35 @@
 {
 	"clbid": "0000094701",
-	"credits": 0.0,
 	"crsid": "0000001073",
 	"department": "PHYS",
 	"enrolled": 13,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Jay D. Tasson"
+		"Tasson, Jay D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26266",
+			"name": "Tasson, Jay D."
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Prin Physics I/Lab",
 	"number": 124,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:55",
+			"end": "0455PM",
 			"location": "RNS 292",
-			"start": "14:25"
+			"start": "02:25"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:20.357981+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2021-03-02T16:51:30.147480+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:31.468219+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000001072",
+			"instructors": [
+				"Jay D. Tasson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:55",
+					"location": "RNS 292",
+					"start": "14:25"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

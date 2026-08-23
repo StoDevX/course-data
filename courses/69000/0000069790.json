@@ -1,29 +1,35 @@
 {
 	"clbid": "0000069790",
-	"credits": 0.0,
 	"crsid": "0000017303",
 	"department": "BIO",
 	"enrolled": 10,
-	"firstyear": "0/0",
-	"groupid": "0000000171",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
 	"name": "Animal Behavior Lab",
 	"number": 386,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 123",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:45.978531+00:00",
@@ -42,6 +48,36 @@
 		{
 			"_updated": "2020-10-15T15:23:36.191251+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:15.484090+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000171",
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 123",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

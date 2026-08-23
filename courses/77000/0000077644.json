@@ -1,14 +1,21 @@
 {
 	"clbid": "0000077644",
-	"credits": 0.0,
 	"crsid": "0000016243",
 	"department": "NURS",
 	"enrolled": 22,
-	"groupid": "0000000946",
+	"enrollment_fy": 0,
+	"enrollment_jr": 14,
+	"enrollment_so": 0,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Carol H. Austin"
+		"Austin, Carol H."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16663",
+			"name": "Austin, Carol H."
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Health Assessment Lab",
@@ -17,7 +24,6 @@
 	],
 	"number": 306,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:56.914924+00:00",
@@ -32,6 +38,27 @@
 		{
 			"_updated": "2020-10-15T15:23:41.342836+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:46.095388+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000946",
+			"instructors": [
+				"Carol H. Austin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 1,

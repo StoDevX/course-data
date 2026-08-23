@@ -4,23 +4,34 @@
 	"crsid": "0000030423",
 	"department": "BIO",
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"gereqs": [
-		"OEP"
+		"IST",
+		"MCG",
+		"OEP",
+		"ORC"
 	],
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Water in Morocco",
 	"notes": [
-		"This is an off-campus course. You will find this course listed in Studio Abroad",
+		"This is an off-campus course. You will find this course listed in Studio Abroad ",
 		"under its course title."
 	],
 	"number": 253,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-10-11T21:36:42.558019+00:00",
@@ -30,6 +41,33 @@
 				"ORC",
 				"OEP"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:04.413464+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"OEP"
+			],
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This is an off-campus course. You will find this course listed in Studio Abroad",
+				"under its course title."
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

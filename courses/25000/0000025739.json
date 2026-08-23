@@ -4,37 +4,39 @@
 	"crsid": "0000001159",
 	"department": "PSYCH",
 	"enrolled": 11,
-	"instructors": [
-		"Bonnie Sherman"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"NSL",
+		"NST"
 	],
-	"junior": "2/5",
-	"learningmode": "S",
+	"instructors": [
+		"Sherman, Bonnie"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7475",
+			"name": "Sherman, Bonnie"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_jr": 5,
+	"max_so": 3,
+	"max_sr": 5,
 	"name": "Sensation/Perception",
 	"number": 235,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "H 204",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "H 204",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "H 204",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.255499+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:02.235035+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.319678+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bonnie Sherman"
+			],
+			"instructors_full": null,
+			"junior": "2/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "H 204",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "H 204",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "H 204",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "6/5",
+			"sophomore": "3/3",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "6/5",
-	"sophomore": "3/3",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

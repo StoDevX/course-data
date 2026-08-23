@@ -4,30 +4,35 @@
 	"crsid": "0000001377",
 	"department": "THEAT",
 	"enrolled": 25,
-	"instructors": [
-		"Larry Schnoor"
+	"enrollment_fy": 1,
+	"enrollment_jr": 12,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Schnoor, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15999",
+			"name": "Schnoor, Larry"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Public Speaking",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "TB 227",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "TB 227",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.999170+00:00",
@@ -59,6 +64,40 @@
 		{
 			"_updated": "2020-10-15T15:22:49.755218+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:29.821312+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Larry Schnoor"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TB 227",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "TB 227",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

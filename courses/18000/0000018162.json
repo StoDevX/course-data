@@ -4,31 +4,37 @@
 	"crsid": "0000001729",
 	"department": "ENVST",
 	"enrolled": 21,
-	"instructors": [
-		"Paul Cabe"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 17,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "2/20",
-	"learningmode": "S",
+	"instructors": [
+		"Cabe, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "890",
+			"name": "Cabe, Paul"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 20,
+	"max_sr": 4,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 274",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 274",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.800945+00:00",
@@ -55,11 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:22:50.883232+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:50.401131+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Paul Cabe"
+			],
+			"instructors_full": null,
+			"junior": "2/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 274",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "2/4",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "2/4",
 	"status": "C",
 	"term": 19953,
 	"type": "Research",

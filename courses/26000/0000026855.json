@@ -4,30 +4,34 @@
 	"crsid": "0000002442",
 	"department": "SOAN",
 	"enrolled": 11,
-	"instructors": [
-		"Raymond DeVries"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"MAR"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"DeVries, Raymond"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1367",
+			"name": "DeVries, Raymond"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Data Collect & Analy",
 	"number": 372,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "H 403",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "H 403",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:44.007031+00:00",
@@ -42,6 +46,42 @@
 		{
 			"_updated": "2020-10-15T15:23:03.599801+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.701496+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Raymond DeVries"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "H 403",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "H 403",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

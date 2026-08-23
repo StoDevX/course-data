@@ -7,13 +7,23 @@
 		"May be repeated if topics are different. Prerequisite: BTS-B."
 	],
 	"enrolled": 3,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Darrell Jodock"
+		"Jodock, Darrell"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23833",
+			"name": "Jodock, Darrell"
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Sem: Luther/Theol Legacy",
 	"notes": [
 		"Open only to seniors and juniors."
@@ -22,13 +32,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "OM 105",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "OM 105",
 			"start": "12:45"
 		}
@@ -58,10 +68,42 @@
 		{
 			"_updated": "2020-10-15T15:23:50.870105+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:25.157416+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Darrell Jodock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "OM 105",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "OM 105",
+					"start": "12:45"
+				}
+			],
+			"section": null,
+			"sophomore": "0/0"
 		}
 	],
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20133,
 	"title": "Theological Seminar",

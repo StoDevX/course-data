@@ -4,13 +4,25 @@
 	"crsid": "0000025194",
 	"department": "MEDIA",
 	"enrolled": 20,
-	"firstyear": "5/4",
-	"instructors": [
-		"Rebecca S. Richards"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Richards, Rebecca S."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "22838",
+			"name": "Richards, Rebecca S."
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 4,
 	"name": "Cybercultures",
 	"notes": [
 		"This course has spaces open to first-year students."
@@ -18,38 +30,13 @@
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "RML 115",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "RML 115",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "RML 115",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "RML 115",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "RML 115",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:59.310217+00:00",
@@ -79,6 +66,60 @@
 			"gereqs": [
 				"WRI"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:47.978652+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/4",
+			"gereqs": null,
+			"instructors": [
+				"Rebecca S. Richards"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "RML 115",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "RML 115",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "RML 115",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "RML 115",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "RML 115",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

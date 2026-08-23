@@ -7,13 +7,22 @@
 		"The department periodically offers special topics courses at the introductory level. The specific title of the course is listed in the class and lab schedule when it is offered."
 	],
 	"enrolled": 0,
-	"firstyear": "0/5",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Thomas A. Williamson"
+		"Williamson, Thomas A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14223",
+			"name": "Williamson, Thomas A."
+		}
+	],
 	"level": 100,
-	"max": 20,
+	"max": 25,
+	"max_fy": 5,
 	"name": "Top: The Politics of Hope",
 	"notes": [
 		"This course is open to a limited number of first-year students."
@@ -21,38 +30,67 @@
 	"number": 199,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "HH 433",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "M-F",
+			"end": "1240PM",
 			"location": "HH 433",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:08.170674+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/5",
+			"instructors": [
+				"Thomas A. Williamson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 20,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "HH 433",
+					"start": "10:40"
+				}
+			],
+			"section": null
+		}
+	],
 	"semester": 2,
 	"status": "O",
 	"term": 20262,

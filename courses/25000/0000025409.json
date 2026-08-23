@@ -4,37 +4,40 @@
 	"crsid": "0000000401",
 	"department": "ENGL",
 	"enrolled": 41,
-	"instructors": [
-		"Olivia Frey",
-		"Joan Hepburn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 18,
+	"enrollment_so": 1,
+	"enrollment_sr": 22,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hepburn, Joan",
+		"Frey, Olivia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3322",
+			"name": "Hepburn, Joan"
+		},
+		{
+			"fsnum": "2455",
+			"name": "Frey, Olivia"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl 1850-Pres",
 	"number": 223,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "L 525",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "L 525",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "L 525",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.567300+00:00",
@@ -49,6 +52,48 @@
 		{
 			"_updated": "2020-10-15T15:23:02.088724+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.749133+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Olivia Frey",
+				"Joan Hepburn"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "L 525",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "L 525",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "L 525",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -7,26 +7,34 @@
 		"Students learn and apply yoga principles of physical fitness and emotional wellness through a blend of yoga postures, movements, relaxation, breathing techniques, and mindfulness."
 	],
 	"enrolled": 24,
-	"firstyear": "1/0",
-	"grouptype": "R",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 22,
+	"gereqs": [
+		"SED",
+		"SPM"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 24,
 	"name": "Hatha Yoga",
 	"number": 162,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC Wr Rm",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC Wr Rm",
 			"start": "08:00"
@@ -77,12 +85,43 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:24.385731+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"grouptype": "R",
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC Wr Rm",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC Wr Rm",
+					"start": "08:00"
+				}
+			],
+			"senior": "22/24",
+			"sophomore": "0/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "22/24",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20133,
 	"type": "Research",

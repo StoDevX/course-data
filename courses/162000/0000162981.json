@@ -1,29 +1,37 @@
 {
 	"clbid": "0000162981",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 32,
-	"groupid": "0000027943",
+	"enrollment_fy": 30,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Maria M. Davis"
+		"Davis, Maria M."
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002598",
+			"name": "Davis, Maria M."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 0,
+	"max_so": 2,
+	"max_sr": 0,
 	"name": "Introduction to Calculus Lab",
 	"number": 119,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 203",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-13T02:49:19.489760+00:00",
@@ -97,12 +105,42 @@
 			"_updated": "2025-10-11T21:36:51.781581+00:00",
 			"enrolled": 29,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.178613+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"Maria M. Davis"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 203",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "2/2",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "0/0",
-	"sophomore": "2/2",
 	"status": "C",
 	"term": 20251,
 	"type": "Lab",

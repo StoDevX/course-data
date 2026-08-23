@@ -4,32 +4,39 @@
 	"crsid": "0000000020",
 	"department": "ART",
 	"enrolled": 16,
-	"firstyear": "2/10",
-	"instructors": [
-		"Jil Evans"
+	"enrollment_fy": 2,
+	"enrollment_jr": 2,
+	"enrollment_so": 7,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Evans, Jil"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14958",
+			"name": "Evans, Jil"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_fy": 10,
+	"max_jr": 4,
+	"max_so": 10,
+	"max_sr": 2,
 	"name": "Found Conceptual Draw",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 42",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 42",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.902292+00:00",
@@ -58,11 +65,48 @@
 		{
 			"_updated": "2020-10-15T15:22:56.306257+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.496617+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "2/10",
+			"gereqs": null,
+			"instructors": [
+				"Jil Evans"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 42",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 42",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/2",
+			"sophomore": "7/10",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "5/2",
-	"sophomore": "7/10",
 	"status": "O",
 	"term": 19971,
 	"type": "Research",

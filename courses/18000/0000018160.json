@@ -4,30 +4,32 @@
 	"crsid": "0000000452",
 	"department": "ENGL",
 	"enrolled": 16,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 11,
 	"instructors": [
-		"Jonathan Hill"
+		"Hill, Jonathan"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3341",
+			"name": "Hill, Jonathan"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Sem: The Romantics",
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 525",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 525",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.799660+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:50.882296+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:50.400608+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jonathan Hill"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

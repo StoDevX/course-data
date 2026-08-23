@@ -4,36 +4,32 @@
 	"crsid": "0000001116",
 	"department": "PSCI",
 	"enrolled": 29,
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 7,
+	"enrollment_sr": 10,
 	"instructors": [
-		"Charles E. Umbanhowar Sr"
+		"Umbanhowar Sr, Charles E."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8656",
+			"name": "Umbanhowar Sr, Charles E."
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Jurisprud/Judicial Pr",
 	"number": 235,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "H 413",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "H 413",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "H 413",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:22.001360+00:00",
@@ -48,6 +44,46 @@
 		{
 			"_updated": "2020-10-15T15:22:51.017030+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:14.225794+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Charles E. Umbanhowar Sr"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "H 413",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "H 413",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "H 413",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

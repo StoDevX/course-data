@@ -4,42 +4,42 @@
 	"crsid": "0000000102",
 	"department": "BIO",
 	"enrolled": 20,
-	"instructors": [
-		"Alan F. Ernst"
+	"enrollment_fy": 1,
+	"enrollment_jr": 10,
+	"enrollment_so": 6,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Ernst, Alan F."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16716",
+			"name": "Ernst, Alan F."
+		}
+	],
 	"level": 100,
 	"max": 22,
 	"name": "Human Biology",
 	"number": 123,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 280",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 280",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 280",
 			"start": "09:05"
 		},
 		{
 			"day": "Th",
-			"end": "16:15",
+			"end": "0415PM",
 			"location": "SC 253",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.024615+00:00",
@@ -54,6 +54,52 @@
 		{
 			"_updated": "2020-10-15T15:23:16.412015+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.671891+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Alan F. Ernst"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 280",
+					"start": "09:05"
+				},
+				{
+					"day": "Th",
+					"end": "16:15",
+					"location": "SC 253",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

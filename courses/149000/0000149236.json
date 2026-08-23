@@ -7,13 +7,24 @@
 		"This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course. Offered each semester and periodically during January Term. Prerequisite: mathematics placement"
 	],
 	"enrolled": 26,
+	"enrollment_fy": 20,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"David A. Thomas"
+		"Thomas, David A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35161",
+			"name": "Thomas, David A."
+		}
+	],
 	"level": 100,
 	"max": 26,
 	"name": "Calculus I",
@@ -23,19 +34,7 @@
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 206",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 206",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 206",
 			"start": "09:05"
@@ -95,6 +94,45 @@
 			"gereqs": [
 				"AQR",
 				"QCR"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:14.291378+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"David A. Thomas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 206",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 206",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 206",
+					"start": "09:05"
+				}
 			]
 		}
 	],

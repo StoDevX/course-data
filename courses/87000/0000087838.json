@@ -7,25 +7,33 @@
 		"This course offers instruction/review of basic strokes, history, rules, etiquette, and terminology of tennis. Students learn basic competition strategies in singles and doubles match play."
 	],
 	"enrolled": 15,
-	"firstyear": "0/0",
-	"instructors": [
-		"David A. Stromme"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors": [
+		"Stromme, David A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19528",
+			"name": "Stromme, David A."
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_fy": 0,
+	"max_jr": 2,
+	"max_so": 2,
 	"name": "Tennis",
 	"number": 157,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "Tostrud Ctr",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "Tostrud Ctr",
 			"start": "09:05"
@@ -67,11 +75,44 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:08.638848+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"David A. Stromme"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "Tostrud Ctr",
+					"start": "09:05"
+				}
+			],
+			"sophomore": "0/2"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"sophomore": "0/2",
 	"status": "C",
 	"term": 20123,
 	"type": "Research",

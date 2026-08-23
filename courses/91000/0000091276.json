@@ -1,29 +1,35 @@
 {
 	"clbid": "0000091276",
-	"credits": 0.0,
 	"crsid": "0000000129",
 	"department": "BIO",
 	"enrolled": 11,
-	"firstyear": "0/0",
-	"groupid": "0000000128",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Anne Walter"
+		"Walter, Anne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8876",
+			"name": "Walter, Anne"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
 	"name": "Animal Physiology Lab",
 	"number": 247,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 250",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:12.383606+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2021-03-02T16:51:26.723080+00:00",
 			"max": 16
+		},
+		{
+			"_updated": "2026-08-23T03:03:18.017279+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000128",
+			"instructors": [
+				"Anne Walter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "RNS 250",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

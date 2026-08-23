@@ -4,66 +4,42 @@
 	"crsid": "0000001646",
 	"department": "DNCTH",
 	"enrolled": 26,
-	"instructors": [
-		"Susan Bauer"
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"PHA",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bauer, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "338",
+			"name": "Bauer, Susan"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Creative Dance/Child",
 	"number": 120,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
 			"end": "10:00",
-			"location": "CAD STUDIO 1",
+			"location": "CAD  STUDIO 1",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "CAD STUDIO 3",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "CAD STUDIO 3",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "CAD STUDIO 3",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
-			"location": "CAD STUDIO 3",
+			"day": "M-Th",
+			"end": "1200PM",
+			"location": "CAD  STUDIO 3",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:12.803804+00:00",
@@ -92,6 +68,77 @@
 		{
 			"_updated": "2020-10-15T15:23:11.254796+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:37.196455+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan Bauer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "CAD STUDIO 3",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "CAD STUDIO 3",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "CAD STUDIO 3",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "CAD STUDIO 3",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

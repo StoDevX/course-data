@@ -7,26 +7,31 @@
 		"Students learn basic rock climbing skills, techniques, and safety procedures."
 	],
 	"enrolled": 12,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 11,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Judy Tegtmeyer"
+		"Tegtmeyer, Judy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 100,
 	"max": 14,
 	"name": "Rock Climbing",
 	"number": 106,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:30",
-			"location": "Tostrud Ctr",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:30",
 			"location": "Tostrud Ctr",
 			"start": "09:35"
@@ -56,6 +61,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:14.272763+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "Tostrud Ctr",
+					"start": "09:35"
+				}
 			]
 		}
 	],

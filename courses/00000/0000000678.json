@@ -4,30 +4,35 @@
 	"crsid": "0000001331",
 	"department": "SPAN",
 	"enrolled": 17,
-	"instructors": [
-		"Gwen Barnes-Karol"
+	"enrollment_fy": 7,
+	"enrollment_jr": 3,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-S"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Barnes-Karol, Gwen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "332",
+			"name": "Barnes-Karol, Gwen"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Cult & Civ of Spain",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "M 21",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "M 21",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:46.741411+00:00",
@@ -48,6 +53,40 @@
 			"instructors": [
 				"Gwendolyn Barnes-Karol"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:19.740390+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Gwen Barnes-Karol"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "M 21",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "M 21",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

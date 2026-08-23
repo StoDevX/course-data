@@ -4,26 +4,36 @@
 	"crsid": "0000001097",
 	"department": "PHYS",
 	"enrolled": 6,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"James Cederberg"
+		"Cederberg, James"
 	],
-	"junior": "5/9",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1021",
+			"name": "Cederberg, James"
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
+	"max_jr": 9,
+	"max_so": 0,
+	"max_sr": 2,
 	"name": "Adv Physics Lab (375)",
 	"number": 385,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 151",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.856653+00:00",
@@ -55,12 +65,41 @@
 		{
 			"_updated": "2020-10-15T15:23:03.545229+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.436480+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"James Cederberg"
+			],
+			"instructors_full": null,
+			"junior": "5/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 151",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/2",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "1/2",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19993,
 	"type": "Lab",

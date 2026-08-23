@@ -4,36 +4,36 @@
 	"crsid": "0000000979",
 	"department": "PHIL",
 	"enrolled": 19,
-	"instructors": [
-		"Jeanine Grenberg"
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Grenberg, Jeanine"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2752",
+			"name": "Grenberg, Jeanine"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "H 516",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "H 516",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "H 516",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:29.189351+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:22:56.505959+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:07.263956+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jeanine Grenberg"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "H 516",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "H 516",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "H 516",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

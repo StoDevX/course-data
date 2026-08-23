@@ -1,17 +1,27 @@
 {
 	"clbid": "0000049236",
-	"credits": 0.0,
 	"crsid": "0000000240",
 	"department": "CHIN",
 	"enrolled": 14,
-	"firstyear": "9/0",
+	"enrollment_fy": 9,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Richard Bodman"
+		"Bodman, Richard"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "656",
+			"name": "Bodman, Richard"
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Beginning Chinese II Lab",
 	"number": 112,
 	"offerings": [
@@ -23,7 +33,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.583242+00:00",
@@ -45,12 +54,34 @@
 		{
 			"_updated": "2020-10-15T15:23:21.873638+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.962477+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "9/0",
+			"instructors": [
+				"Richard Bodman"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "2/0",
+			"sophomore": "2/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "2/0",
-	"sophomore": "2/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

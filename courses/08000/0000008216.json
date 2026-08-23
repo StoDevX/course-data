@@ -4,49 +4,43 @@
 	"crsid": "0000000949",
 	"department": "NURS",
 	"enrolled": 20,
+	"enrollment_fy": 0,
+	"enrollment_jr": 19,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Carol H. Austin",
-		"Diana Neal"
+		"Austin, Carol H.",
+		"Neal, Diana"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16663",
+			"name": "Austin, Carol H."
+		},
+		{
+			"fsnum": "5499",
+			"name": "Neal, Diana"
+		}
+	],
 	"level": 300,
 	"max": 20,
 	"name": "Application/Nurs Conc",
 	"number": 320,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "HH 215",
 			"start": "10:45"
 		},
 		{
-			"day": "We",
-			"end": "11:40",
-			"location": "HH 215",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "HH 215",
-			"start": "10:45"
-		},
-		{
-			"day": "Tu",
-			"end": "13:00",
-			"location": "HH 215",
-			"start": "07:30"
-		},
-		{
-			"day": "Th",
-			"end": "13:00",
+			"day": "TTh",
+			"end": "0100PM",
 			"location": "HH 215",
 			"start": "07:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.634426+00:00",
@@ -61,6 +55,59 @@
 		{
 			"_updated": "2020-10-15T15:23:16.654273+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:47.127042+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Carol H. Austin",
+				"Diana Neal"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "HH 215",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "HH 215",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "HH 215",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "13:00",
+					"location": "HH 215",
+					"start": "07:30"
+				},
+				{
+					"day": "Th",
+					"end": "13:00",
+					"location": "HH 215",
+					"start": "07:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

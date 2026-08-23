@@ -4,36 +4,36 @@
 	"crsid": "0000000480",
 	"department": "FREN",
 	"enrolled": 25,
-	"instructors": [
-		"Jolene Barjasteh"
+	"enrollment_fy": 15,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"FOL-F",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Barjasteh, Jolene"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "337",
+			"name": "Barjasteh, Jolene"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Intermed French II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "OM 026",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "OM 026",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "OM 026",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:59.015046+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:12.042494+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.671395+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Jolene Barjasteh"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "OM 026",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "OM 026",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "OM 026",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

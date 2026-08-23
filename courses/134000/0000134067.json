@@ -1,20 +1,34 @@
 {
 	"clbid": "0000134067",
-	"credits": 0.0,
 	"crsid": "0000000131",
 	"department": "BIO",
 	"enrolled": 21,
-	"groupid": "0000000130",
+	"enrollment_fy": 0,
+	"enrollment_jr": 10,
+	"enrollment_so": 8,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Emily Mohl"
+		"Mohl, Emily"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25351",
+			"name": "Mohl, Emily"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Invertebrate Biology Lab",
 	"number": 248,
+	"offerings": [
+		{
+			"day": "M-Th",
+			"end": "0300PM",
+			"location": "VRTL Online",
+			"start": "01:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-02-26T08:29:29.468495+00:00",
@@ -203,6 +217,29 @@
 		{
 			"_updated": "2021-01-06T16:20:01.274002+00:00",
 			"enrolled": 22
+		},
+		{
+			"_updated": "2026-08-23T03:04:37.223500+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000130",
+			"instructors": [
+				"Emily Mohl"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

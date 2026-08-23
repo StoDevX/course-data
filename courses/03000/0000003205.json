@@ -4,30 +4,32 @@
 	"crsid": "0000000740",
 	"department": "MATH",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 11,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Doreen Hamilton"
+		"Hamilton, Doreen"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14136",
+			"name": "Hamilton, Doreen"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Int Differ Equations",
 	"number": 230,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 184",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 184",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.941830+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:09.082151+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.332600+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Doreen Hamilton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 184",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

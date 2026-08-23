@@ -7,26 +7,31 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 14,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"PHA",
+		"SPM"
 	],
 	"instructors": [
-		"Travis J. Wall"
+		"Wall, Travis J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "31107",
+			"name": "Wall, Travis J."
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "Tostrud Ctr",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "11:40",
 			"location": "Tostrud Ctr",
 			"start": "10:45"
@@ -40,6 +45,39 @@
 			"gereqs": [
 				"SPM",
 				"ACB"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:58.409411+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Travis J. Wall"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "Tostrud Ctr",
+					"start": "10:45"
+				}
 			]
 		}
 	],

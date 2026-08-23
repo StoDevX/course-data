@@ -7,16 +7,24 @@
 		"Genetics examines relationships between genotype and phenotype in prokaryotic and eukaryotic organisms from classical and molecular perspectives. Lectures in this core course cover ideas and technologies contributing to understanding mechanisms of gene transmission and regulation. Laboratories utilize model organisms to investigate classical and molecular modes of inheritance. Students attend lectures plus one 3-hour laboratory per week. Prerequisites: Biology 125 and one semester of chemistry or concurrent registration, or Chemistry/Biology 125-127. Offered each semester."
 	],
 	"enrolled": 66,
-	"firstyear": "1/0",
-	"groupid": "0000000122",
-	"grouptype": "1",
+	"enrollment_fy": 1,
+	"enrollment_jr": 33,
+	"enrollment_so": 16,
+	"enrollment_sr": 16,
 	"instructors": [
-		"Jean C. Porterfield"
+		"Porterfield, Jean C."
 	],
-	"junior": "33/20",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		}
+	],
 	"level": 200,
 	"max": 54,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 15,
 	"name": "Intermediate Genetics",
 	"notes": [
 		"Students in Bio 233A must also register for one lab Bio 233 AL, BL or CL."
@@ -24,20 +32,8 @@
 	"number": 233,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 310",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 310",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 310",
 			"start": "11:50"
 		}
@@ -80,10 +76,51 @@
 		{
 			"_updated": "2021-03-02T16:51:12.747070+00:00",
 			"max": 66
+		},
+		{
+			"_updated": "2026-08-23T03:02:05.868052+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"groupid": "0000000122",
+			"grouptype": "1",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
+			"instructors_full": null,
+			"junior": "33/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 310",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 310",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 310",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"sophomore": "16/15"
 		}
 	],
 	"semester": 1,
-	"sophomore": "16/15",
 	"status": "C",
 	"term": 20091,
 	"type": "Research",

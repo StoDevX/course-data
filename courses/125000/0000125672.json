@@ -7,14 +7,25 @@
 		"Students study topics in biology. Topics vary from year to year at the discretion of the department. Class work depends on the topics and instructor, but is consistent with the amount and level of work in other 200-level biology courses. May be repeated if topics are different. Counts as an elective toward biology major. May count toward other majors or concentrations if approved by the chair of that major/concentration. Offered periodically. Prerequisites: vary."
 	],
 	"enrolled": 15,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 4,
+	"enrollment_sr": 6,
 	"instructors": [
-		"Jean C. Porterfield"
+		"Porterfield, Jean C."
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14015",
+			"name": "Porterfield, Jean C."
+		}
+	],
 	"level": 200,
 	"max": 16,
+	"max_fy": 0,
+	"max_jr": 6,
+	"max_so": 4,
+	"max_sr": 6,
 	"name": "Top: Evolutionary Medicine",
 	"notes": [
 		"This course has class-year limits and is not open to first-year students."
@@ -22,50 +33,14 @@
 	"number": 292,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MTThF",
 			"end": "10:00",
 			"location": "TOH 114",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "TOH 114",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "TOH 114",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "TOH 114",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:40",
-			"location": "TOH 114",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "TOH 114",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
-			"location": "TOH 114",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
+			"day": "MTThF",
+			"end": "1240PM",
 			"location": "TOH 114",
 			"start": "10:40"
 		}
@@ -198,11 +173,80 @@
 		{
 			"_updated": "2020-10-15T15:24:12.009943+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:29.597614+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Jean C. Porterfield"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "TOH 114",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "TOH 114",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "TOH 114",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "TOH 114",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "TOH 114",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "TOH 114",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "TOH 114",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "TOH 114",
+					"start": "10:40"
+				}
+			],
+			"section": null,
+			"senior": "6/6",
+			"sophomore": "4/4"
 		}
 	],
 	"semester": 2,
-	"senior": "6/6",
-	"sophomore": "4/4",
 	"status": "O",
 	"term": 20192,
 	"title": "Topics in Biology",

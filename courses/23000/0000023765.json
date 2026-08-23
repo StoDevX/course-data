@@ -4,36 +4,42 @@
 	"crsid": "0000001154",
 	"department": "PSYCH",
 	"enrolled": 64,
-	"instructors": [
-		"Bruce B. Roberts"
+	"enrollment_fy": 34,
+	"enrollment_jr": 5,
+	"enrollment_so": 21,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roberts, Bruce B."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6686",
+			"name": "Roberts, Bruce B."
+		}
+	],
 	"level": 100,
 	"max": 60,
 	"name": "Principles: Psych",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 307",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
-			"location": "H 307",
-			"start": "11:45"
-		},
-		{
 			"day": "Mo",
-			"end": "20:00",
+			"end": "0800PM",
 			"location": "SC 280",
-			"start": "19:00"
+			"start": "07:00"
+		},
+		{
+			"day": "TTh",
+			"end": "0110PM",
+			"location": "H 307",
+			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.390869+00:00",
@@ -48,6 +54,46 @@
 		{
 			"_updated": "2020-10-15T15:22:59.437455+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:04.628571+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bruce B. Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 307",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 307",
+					"start": "11:45"
+				},
+				{
+					"day": "Mo",
+					"end": "20:00",
+					"location": "SC 280",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

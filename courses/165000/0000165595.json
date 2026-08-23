@@ -7,37 +7,38 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers, and its applications to other disciplines. Students explore fundamental concepts, including iteration, recursion, object-oriented software design, algorithm efficiency, levels of naming, and computing ethics. Students apply these concepts daily in hands-on homework exercises relevant to fields in the arts, humanities (including digital humanities computations), social sciences, and natural sciences. Includes a team project applying CS to a chosen discipline. No prior experience with programming is expected or required. Offered each semester. One of CSCI 121, CSCI 125, or CSCI 251 counts toward applied linguistics concentration."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Kimberly Mandery"
+		"Mandery, Kim"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34040",
+			"name": "Mandery, Kim"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_jr": 0,
+	"max_so": 9,
+	"max_sr": 0,
 	"name": "Principles Comp Sci",
 	"notes": [
-		"This course has class-year limits and is open only to rising sophomores and",
+		"This course has class-year limits and is open only to rising sophomores and     ",
 		"incoming first-year students."
 	],
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "RNS 208",
-			"start": "10:45"
-		},
-		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "RNS 208",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
+			"day": "FMW",
 			"end": "11:40",
 			"location": "RNS 208",
 			"start": "10:45"
@@ -122,12 +123,56 @@
 				"QCR"
 			],
 			"sophomore": "5/9"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.084827+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Kimberly Mandery"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits and is open only to rising sophomores and",
+				"incoming first-year students."
+			],
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "RNS 208",
+					"start": "10:45"
+				},
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "RNS 208",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "RNS 208",
+					"start": "10:45"
+				}
+			],
+			"senior": "1/0",
+			"sophomore": "4/9"
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "4/9",
 	"status": "C",
 	"term": 20251,
 	"title": "Principles of Computer Science",

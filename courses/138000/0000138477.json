@@ -1,47 +1,36 @@
 {
 	"clbid": "0000138477",
-	"credits": 0.0,
 	"crsid": "0000000160",
 	"department": "BIO",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"groupid": "0000000159",
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 0,
+	"enrollment_sr": 14,
 	"instructors": [
-		"Lisa M. Bowers"
+		"Bowers, Lisa M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "23548",
+			"name": "Bowers, Lisa M."
+		}
+	],
 	"level": 300,
 	"max": 16,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Molecular Biology Lab",
 	"number": 364,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "MTThF",
+			"end": "0300PM",
 			"location": "RNS 394",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "RNS 394",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "RNS 394",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "RNS 394",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-04T17:14:53.296305+00:00",
@@ -81,10 +70,59 @@
 				}
 			],
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:44.210793+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000159",
+			"instructors": [
+				"Lisa M. Bowers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20212,
 	"type": "Lab",

@@ -7,18 +7,33 @@
 		"A broad-based introduction to the art and craft of theater, this course focuses on the roles of actor, director, playwright, and designer, as well as aspects of theater history, performance, and literature. Students examine theater as a culturally diverse art form, with emphasis on the ways ethnicity, gender, race, religion, and sexual orientation inform theater in the United States. Students attend performances on campus and in the Twin Cities and integrate them with readings, lectures, and discussions. Offered each semester."
 	],
 	"enrolled": 28,
-	"firstyear": "14/15",
+	"enrollment_fy": 14,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
 	"gereqs": [
+		"ALS-A",
 		"CRE",
+		"MCD",
+		"MCS-D",
+		"ORC",
 		"PAR"
 	],
 	"instructors": [
-		"Bill Sonnega"
+		"Sonnega, Bill"
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 15,
+	"max_jr": 5,
+	"max_so": 5,
+	"max_sr": 5,
 	"name": "Intro to Theater",
 	"notes": [
 		"This course has class-year limits."
@@ -26,22 +41,10 @@
 	"number": 110,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -62,12 +65,54 @@
 				"CRE",
 				"PAR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:02.277935+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "14/15",
+			"gereqs": [
+				"CRE",
+				"PAR"
+			],
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				}
+			],
+			"senior": "4/5",
+			"sophomore": "5/5"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/5",
-	"sophomore": "5/5",
 	"status": "O",
 	"term": 20221,
 	"title": "Introduction to Theater",

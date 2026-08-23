@@ -7,11 +7,24 @@
 		"This course provides a sequential introduction to physical chemistry. Beginning with an introduction to statistical aspects of chemical equilibria, it explores the relationships between energy, entropy and equilibria (thermodynamics); oxidation-reduction reactions and electrochemistry; transitions between phases; and rates of reactions. Students attend three classes and one three-hour laboratory per week. Offered annually in the spring semester. Counts toward biomolecular science concentration. Prerequisite: CHEM 125, or CHEM 121 and CHEM 123 and MATH 119 or MATH 120 or permission of instructor."
 	],
 	"enrolled": 16,
-	"groupid": "0000000194",
-	"instructors": [
-		"George K. Anquandah"
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Anquandah, George K."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "26281",
+			"name": "Anquandah, George K."
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Chemical Reactions",
@@ -21,20 +34,8 @@
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "RNS 390",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "RNS 390",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "RNS 390",
 			"start": "12:55"
 		}
@@ -90,6 +91,44 @@
 			"_updated": "2025-10-11T21:36:20.411460+00:00",
 			"gereqs": [
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:03:54.445269+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"groupid": "0000000194",
+			"instructors": [
+				"George K. Anquandah"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "RNS 390",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "RNS 390",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "RNS 390",
+					"start": "12:55"
+				}
 			]
 		}
 	],

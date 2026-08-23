@@ -4,48 +4,41 @@
 	"crsid": "0000001076",
 	"department": "PHYS",
 	"enrolled": 28,
-	"instructors": [
-		"David Nitz"
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Nitz, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5620",
+			"name": "Nitz, David"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Analytical I",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "SC 170",
 			"start": "10:45"
 		},
 		{
-			"day": "We",
-			"end": "11:40",
-			"location": "SC 170",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "SC 170",
-			"start": "10:45"
-		},
-		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 170",
-			"start": "10:10"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 170",
 			"start": "10:10"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.670655+00:00",
@@ -60,6 +53,60 @@
 		{
 			"_updated": "2020-10-15T15:23:07.806684+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.610681+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David Nitz"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "SC 170",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "SC 170",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "SC 170",
+					"start": "10:45"
+				},
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 170",
+					"start": "10:10"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 170",
+					"start": "10:10"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

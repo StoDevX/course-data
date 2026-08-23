@@ -4,36 +4,35 @@
 	"crsid": "0000001258",
 	"department": "REL",
 	"enrolled": 17,
-	"instructors": [
-		"Edmund Santurri"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 15,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Santurri, Edmund"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7020",
+			"name": "Santurri, Edmund"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Them: Rel/Pol Violence",
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "CH 109",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CH 109",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "CH 109",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.838609+00:00",
@@ -52,6 +51,47 @@
 		{
 			"_updated": "2020-10-15T15:23:10.725307+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:36.538669+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Edmund Santurri"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CH 109",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CH 109",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CH 109",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

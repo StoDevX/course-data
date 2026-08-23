@@ -4,10 +4,19 @@
 	"crsid": "0000000452",
 	"department": "ENGL",
 	"enrolled": 17,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 17,
 	"instructors": [
-		"Abby Werlock"
+		"Werlock, Abby"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8979",
+			"name": "Werlock, Abby"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Major Seminar",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "22:00",
+			"end": "1000PM",
 			"location": "L 520",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.183302+00:00",
@@ -36,6 +44,33 @@
 		{
 			"_updated": "2020-10-15T15:22:59.303571+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.365292+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Abby Werlock"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "22:00",
+					"location": "L 520",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

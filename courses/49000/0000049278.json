@@ -1,29 +1,38 @@
 {
 	"clbid": "0000049278",
-	"credits": 0.0,
 	"crsid": "0000001267",
 	"department": "RUSSN",
 	"enrolled": 12,
-	"firstyear": "1/0",
+	"enrollment_fy": 1,
+	"enrollment_jr": 1,
+	"enrollment_so": 7,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Irina Walter"
+		"Walter, Irina"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8888",
+			"name": "Walter, Irina"
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Intermed Russian II Lab",
 	"number": 232,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "OM 002",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.613512+00:00",
@@ -45,11 +54,42 @@
 		{
 			"_updated": "2020-10-15T15:23:21.893345+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:08.970009+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"instructors": [
+				"Irina Walter"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "12:45",
+					"location": "OM 002",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"sophomore": "7/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/0",
-	"sophomore": "7/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

@@ -1,22 +1,33 @@
 {
-	"clbid": 103102,
-	"credits": 0.0,
-	"crsid": 127,
-	"departments": [
-		"BIO"
-	],
-	"groupid": 126,
+	"clbid": "0000103102",
+	"crsid": "0000000127",
+	"department": "BIO",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Kevin M. Crisp"
+		"Crisp, Kevin M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
 	],
 	"level": 200,
-	"locations": [
-		"RNS 254"
-	],
 	"name": "Human Anatomy & Physiol L",
 	"number": 243,
+	"offerings": [
+		{
+			"day": "TTh",
+			"end": "0400PM",
+			"location": "RNS 254",
+			"start": "01:00"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-16T19:44:15.540184+00:00",
@@ -27,14 +38,47 @@
 		{
 			"_updated": "2015-10-31T05:22:56.229999+00:00",
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:03:41.405697+00:00",
+			"clbid": 103102,
+			"credits": 0.0,
+			"crsid": 127,
+			"department": null,
+			"departments": [
+				"BIO"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": 126,
+			"instructors": [
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 254"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"times": [
+				"TTh 0100-0400PM"
+			],
+			"title": null
 		}
 	],
 	"semester": 4,
 	"status": "X",
 	"term": 20144,
-	"times": [
-		"TTh 0100-0400PM"
-	],
 	"type": "Lab",
 	"year": 2014
 }

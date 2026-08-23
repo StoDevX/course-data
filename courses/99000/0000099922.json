@@ -1,17 +1,26 @@
 {
 	"clbid": "0000099922",
-	"credits": 0.0,
 	"crsid": "0000018796",
 	"department": "CH/BI",
 	"enrolled": 23,
-	"groupid": "0000018795",
+	"enrollment_fy": 22,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Beth Abdella"
+		"Abdella, Beth"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "25",
+			"name": "Abdella, Beth"
+		}
+	],
 	"level": 100,
 	"max": 23,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Integrated Chem/Bio I Lab",
 	"notes": [
 		"Closed until first-year student registration in September."
@@ -20,13 +29,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "RNS 454",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-24T05:00:38.190090+00:00",
@@ -67,12 +75,42 @@
 		{
 			"_updated": "2021-03-02T16:51:33.539078+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:03:47.896890+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000018795",
+			"instructors": [
+				"Beth Abdella"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "RNS 454",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20151,
 	"type": "Lab",

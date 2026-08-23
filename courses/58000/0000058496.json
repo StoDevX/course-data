@@ -7,14 +7,29 @@
 		"Faculty offer integrative seminars in the Center for Integrative Studies (CIS) on selected topics, open to students of at least sophomore standing, that model the integration of tools and resources from various disciplines in new approaches to interesting subjects. Each seminar is normally offered twice, in successive academic years, then is either retired or adopted into another department or interdisciplinary program's offerings."
 	],
 	"enrolled": 17,
-	"firstyear": "0/0",
-	"instructors": [
-		"Diane C. LeBlanc"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-A",
+		"WRI"
 	],
-	"junior": "5/7",
-	"learningmode": "S",
+	"instructors": [
+		"LeBlanc, Diane C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13324",
+			"name": "LeBlanc, Diane C."
+		}
+	],
 	"level": 200,
 	"max": 18,
+	"max_fy": 0,
+	"max_jr": 7,
+	"max_so": 4,
+	"max_sr": 7,
 	"name": "Top: Art/Politics of Book",
 	"notes": [
 		"This course has class year limits."
@@ -22,20 +37,8 @@
 	"number": 214,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 307",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 307",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 307",
 			"start": "12:55"
 		}
@@ -73,12 +76,51 @@
 		{
 			"_updated": "2020-10-15T15:23:28.928733+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:36.993646+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Diane C. LeBlanc"
+			],
+			"instructors_full": null,
+			"junior": "5/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 307",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 307",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 307",
+					"start": "12:55"
+				}
+			],
+			"senior": "9/7",
+			"sophomore": "3/4"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "9/7",
-	"sophomore": "3/4",
 	"status": "C",
 	"term": 20073,
 	"title": "The Art and Politics of the Book",

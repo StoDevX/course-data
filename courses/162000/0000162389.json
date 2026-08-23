@@ -7,13 +7,23 @@
 		"Algebra is concerned with sets of objects and operations that satisfy a few basic properties. Using the properties we study axiomatic systems such as groups, rings, and fields, covering topics such as homomorphisms, cosets, quotient structures, polynomial rings, and finite fields. Emphasis is on theory and on developing the ability to write proofs. Offered each semester. Prerequisite: MATH 220. Permission of instructor required for first-year students."
 	],
 	"enrolled": 12,
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 4,
 	"gereqs": [
-		"WAC"
+		"WAC",
+		"WRI"
 	],
 	"instructors": [
-		"Rachael Norton"
+		"Norton, Rachael"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35070",
+			"name": "Norton, Rachael"
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Abstract Algebra I",
@@ -23,22 +33,10 @@
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Fr",
-			"end": "14:55",
+			"day": "FMW",
+			"end": "0255PM",
 			"location": "RNS 208",
-			"start": "14:00"
-		},
-		{
-			"day": "Mo",
-			"end": "14:55",
-			"location": "RNS 208",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 208",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -178,6 +176,45 @@
 					"day": "Fr",
 					"end": "14:55",
 					"location": "RNS 206",
+					"start": "14:00"
+				}
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.187313+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"WAC"
+			],
+			"instructors": [
+				"Rachael Norton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 208",
+					"start": "14:00"
+				},
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 208",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 208",
 					"start": "14:00"
 				}
 			]

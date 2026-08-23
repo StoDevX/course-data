@@ -1,25 +1,40 @@
 {
-	"clbid": 114148,
+	"clbid": "0000114148",
 	"credits": 1.0,
-	"crsid": 1384,
-	"departments": [
-		"THEAT"
-	],
+	"crsid": "0000001384",
+	"department": "THEAT",
 	"description": [
 		"A studio course for the student with previous acting experience. Through scene and monologue work students explore text and character analysis as well as the requirements of major theatrical period styles. Students perform regularly throughout the semester. The course requires trips to professional theaters in the Twin Cities. A ticket fee is required. Offered annually in the spring semester. Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131."
 	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Michelle C. Gibbs"
+		"Gibbs, Michelle C."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "28075",
+			"name": "Gibbs, Michelle C."
+		}
 	],
 	"level": 200,
-	"locations": [
-		"TB Haugen"
-	],
+	"max": 18,
 	"name": "Intermediate Acting",
 	"notes": [
 		"This course has been cancelled."
 	],
 	"number": 230,
+	"offerings": [
+		{
+			"day": "MWF",
+			"end": "11:40",
+			"location": "TB Haugen",
+			"start": "10:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisites: THEAT 110 or THEAT 180, and THEAT 130 or THEAT 131.",
 	"revisions": [
@@ -27,14 +42,43 @@
 			"_updated": "2017-11-07T01:32:45.769073+00:00",
 			"notes": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.463527+00:00",
+			"clbid": 114148,
+			"crsid": 1384,
+			"department": null,
+			"departments": [
+				"THEAT"
+			],
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Michelle C. Gibbs"
+			],
+			"instructors_full": null,
+			"locations": [
+				"TB Haugen"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"status": "C",
+			"times": [
+				"MWF 1045-1140"
+			]
 		}
 	],
 	"semester": 3,
-	"status": "C",
+	"status": "X",
 	"term": 20173,
-	"times": [
-		"MWF 1045-1140"
-	],
 	"type": "Research",
 	"year": 2017
 }

@@ -1,15 +1,21 @@
 {
 	"clbid": "0000059563",
-	"credits": 0.0,
 	"crsid": "0000000123",
 	"department": "BIO",
 	"enrolled": 17,
-	"groupid": "0000000122",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 15,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Paul A. Rupp"
+		"Rupp, Paul A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19481",
+			"name": "Rupp, Paul A."
+		}
+	],
 	"level": 200,
 	"max": 20,
 	"name": "Intermediate Genetics Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 263",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:26.363404+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:27.217560+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:28.271972+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000122",
+			"grouptype": "2",
+			"instructors": [
+				"Paul A. Rupp"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "17:00",
+					"location": "SC 263",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

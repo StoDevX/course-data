@@ -1,29 +1,35 @@
 {
 	"clbid": "0000094363",
-	"credits": 0.0,
 	"crsid": "0000000131",
 	"department": "BIO",
 	"enrolled": 5,
-	"firstyear": "0/0",
-	"groupid": "0000000130",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Michael Swift"
+		"Swift, Michael"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8210",
+			"name": "Swift, Michael"
+		}
+	],
 	"level": 200,
 	"max": 15,
+	"max_fy": 0,
 	"name": "Invertebrate Biology Lab",
 	"number": 248,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "17:15",
+			"end": "0515PM",
 			"location": "RNS 246",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:20.095383+00:00",
@@ -50,6 +56,36 @@
 		{
 			"_updated": "2021-03-02T16:51:30.060821+00:00",
 			"max": 16
+		},
+		{
+			"_updated": "2026-08-23T03:03:30.667405+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000130",
+			"instructors": [
+				"Michael Swift"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "17:15",
+					"location": "RNS 246",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

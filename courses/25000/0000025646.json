@@ -4,30 +4,36 @@
 	"crsid": "0000000980",
 	"department": "PHIL",
 	"enrolled": 26,
-	"instructors": [
-		"Rick A. Fairbanks"
+	"enrollment_fy": 1,
+	"enrollment_jr": 6,
+	"enrollment_so": 11,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Fairbanks, Rick A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2022",
+			"name": "Fairbanks, Rick A."
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Law,Politics,Morality",
 	"number": 254,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:10",
-			"location": "CT 216",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:10",
 			"location": "CT 216",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.035203+00:00",
@@ -42,6 +48,41 @@
 		{
 			"_updated": "2020-10-15T15:23:02.193357+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:56.308149+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Rick A. Fairbanks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:10",
+					"location": "CT 216",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:10",
+					"location": "CT 216",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

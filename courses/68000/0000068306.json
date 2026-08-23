@@ -7,13 +7,22 @@
 		"This practical course provides information needed for informed decision making in major areas of personal finance, including budgeting, basic tax planning, insurance, investments, major purchases and retirement planning. Offered during Interim."
 	],
 	"enrolled": 30,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 20,
 	"instructors": [
-		"Mary Ann Emery"
+		"Emery, Mary Ann"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1746",
+			"name": "Emery, Mary Ann"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
 	"name": "Personal Finance",
 	"notes": [
 		"Closed to first-year students."
@@ -21,58 +30,22 @@
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
+			"end": "0230PM",
+			"location": "HH 413",
+			"start": "01:15"
+		},
+		{
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 413",
 			"start": "09:00"
 		},
 		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "09:00"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "HH 413",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "HH 413",
 			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "HH 413",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "11:40",
-			"location": "HH 413",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "14:30",
-			"location": "HH 413",
-			"start": "13:15"
-		},
-		{
-			"day": "We",
-			"end": "14:30",
-			"location": "HH 413",
-			"start": "13:15"
-		},
-		{
-			"day": "Fr",
-			"end": "14:30",
-			"location": "HH 413",
-			"start": "13:15"
 		}
 	],
 	"pn": false,
@@ -95,6 +68,80 @@
 		{
 			"_updated": "2020-10-15T15:23:35.086880+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:02:12.910324+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Mary Ann Emery"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "09:00"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 413",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "HH 413",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "HH 413",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "HH 413",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "14:30",
+					"location": "HH 413",
+					"start": "13:15"
+				},
+				{
+					"day": "We",
+					"end": "14:30",
+					"location": "HH 413",
+					"start": "13:15"
+				},
+				{
+					"day": "Fr",
+					"end": "14:30",
+					"location": "HH 413",
+					"start": "13:15"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 2,

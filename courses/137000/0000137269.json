@@ -1,29 +1,36 @@
 {
 	"clbid": "0000137269",
-	"credits": 0.0,
 	"crsid": "0000000163",
 	"department": "BIO",
 	"enrolled": 14,
-	"firstyear": "0/0",
-	"groupid": "0000000161",
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
 	"instructors": [
-		"Kathleen L. Shea"
+		"Shea, Kathleen L."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7450",
+			"name": "Shea, Kathleen L."
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Field Ecology Disc",
 	"number": 371,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:05",
+			"end": "0405PM",
 			"location": "RNS 435",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-03-13T16:43:06.463341+00:00",
@@ -63,10 +70,41 @@
 					"start": "14:15"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.788883+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000161",
+			"instructors": [
+				"Kathleen L. Shea"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:05",
+					"location": "RNS 435",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20211,
 	"type": "Discussion",

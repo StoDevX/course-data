@@ -1,29 +1,38 @@
 {
 	"clbid": "0000049316",
-	"credits": 0.0,
 	"crsid": "0000001164",
 	"department": "PSYCH",
 	"enrolled": 11,
-	"firstyear": "1/0",
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Howard Thorsheim"
+		"Thorsheim, Howard"
 	],
-	"junior": "5/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8376",
+			"name": "Thorsheim, Howard"
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Cognit/Learn/Memory Lab",
 	"number": 237,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "HH 319",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.621401+00:00",
@@ -45,12 +54,42 @@
 		{
 			"_updated": "2020-10-15T15:23:21.898667+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:08.949725+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"instructors": [
+				"Howard Thorsheim"
+			],
+			"instructors_full": null,
+			"junior": "5/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "HH 319",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "5/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

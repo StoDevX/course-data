@@ -1,15 +1,21 @@
 {
 	"clbid": "0000110187",
-	"credits": 0.0,
 	"crsid": "0000026650",
 	"department": "BIO",
 	"enrolled": 18,
-	"groupid": "0000026649",
-	"grouptype": "3",
+	"enrollment_fy": 10,
+	"enrollment_jr": 0,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Diane K. Angell"
+		"Angell, Diane K."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "256",
+			"name": "Angell, Diane K."
+		}
+	],
 	"level": 100,
 	"max": 23,
 	"name": "Biodiversity Found Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 255",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-09-07T11:31:29.350670+00:00",
@@ -50,6 +55,36 @@
 		{
 			"_updated": "2021-03-02T16:51:37.367439+00:00",
 			"max": 24
+		},
+		{
+			"_updated": "2026-08-23T03:04:02.659855+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000026649",
+			"grouptype": "3",
+			"instructors": [
+				"Diane K. Angell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 255",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

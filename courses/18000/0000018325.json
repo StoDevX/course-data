@@ -4,30 +4,32 @@
 	"crsid": "0000000833",
 	"department": "MUSIC",
 	"enrolled": 21,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Anton Armstrong"
+		"Armstrong, Anton"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "263",
+			"name": "Armstrong, Anton"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Conducting",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CHM 232",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CHM 232",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.887313+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:22:50.944742+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:00.313254+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Anton Armstrong"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CHM 232",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CHM 232",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

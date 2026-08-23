@@ -4,31 +4,38 @@
 	"crsid": "0000000259",
 	"department": "ECON",
 	"enrolled": 28,
-	"instructors": [
-		"Anthony Becker"
+	"enrollment_fy": 14,
+	"enrollment_jr": 3,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "3/7",
-	"learningmode": "S",
+	"instructors": [
+		"Becker, Anthony"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "348",
+			"name": "Becker, Anthony"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_jr": 7,
+	"max_so": 17,
+	"max_sr": 5,
 	"name": "Principles of Econ",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 501",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 501",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.363034+00:00",
@@ -56,12 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.353669+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:02.718478+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Anthony Becker"
+			],
+			"instructors_full": null,
+			"junior": "3/7",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 501",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 501",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "5/5",
+			"sophomore": "6/17",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "5/5",
-	"sophomore": "6/17",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

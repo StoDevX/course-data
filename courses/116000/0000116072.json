@@ -7,24 +7,31 @@
 		"This is an aerobic-based course utilizing instruction and participation in walking to enhance personal fitness and training knowledge."
 	],
 	"enrolled": 29,
-	"instructors": [
-		"John A. Bazzachini"
+	"enrollment_fy": 3,
+	"enrollment_jr": 9,
+	"enrollment_so": 3,
+	"enrollment_sr": 14,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bazzachini, John A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "17658",
+			"name": "Bazzachini, John A."
+		}
+	],
 	"level": 100,
 	"max": 25,
 	"name": "Fitness Walking",
 	"number": 136,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "Tostrud Ctr",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
+			"day": "MW",
+			"end": "1245PM",
 			"location": "Tostrud Ctr",
 			"start": "11:50"
 		}
@@ -73,6 +80,37 @@
 			"_updated": "2025-10-11T21:36:27.006250+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.283110+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John A. Bazzachini"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "Tostrud Ctr",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "Tostrud Ctr",
+					"start": "11:50"
+				}
 			]
 		}
 	],

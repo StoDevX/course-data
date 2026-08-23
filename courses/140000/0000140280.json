@@ -7,13 +7,22 @@
 		"In-depth study of particular topics in physics in a full-semester format. Topics are based on student interest and available staff. Recently taught courses include solid state physics, cosmology, stellar evolution, and general relativity. Offered periodically. Prerequisites: PHYS 244 and MATH 230."
 	],
 	"enrolled": 10,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Prabal Adhikari"
+		"Adhikari, Prabal"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "26288",
+			"name": "Adhikari, Prabal"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
 	"name": "Top: Field Theory",
 	"notes": [
 		"Prerequisites: PHYS 244, PHYS 374, and MATH 230."
@@ -21,14 +30,8 @@
 	"number": 390,
 	"offerings": [
 		{
-			"day": "We",
-			"end": "12:10",
-			"location": "RNS 297",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "12:10",
+			"day": "WF",
+			"end": "1210PM",
 			"location": "RNS 297",
 			"start": "10:45"
 		}
@@ -66,6 +69,38 @@
 					"start": "10:45"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:47.737492+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Prabal Adhikari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "12:10",
+					"location": "RNS 297",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "12:10",
+					"location": "RNS 297",
+					"start": "10:45"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

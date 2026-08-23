@@ -1,30 +1,38 @@
 {
 	"clbid": "0000047842",
-	"credits": 0.0,
 	"crsid": "0000000663",
 	"department": "JAPAN",
 	"enrolled": 22,
-	"firstyear": "3/0",
-	"groupid": "0000000662",
+	"enrollment_fy": 3,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Holly Ogren"
+		"Ogren, Holly"
 	],
-	"junior": "3/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17528",
+			"name": "Ogren, Holly"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Intermed Japanese I Lab",
 	"number": 231,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:00",
+			"end": "0400PM",
 			"location": "OM 001",
-			"start": "15:05"
+			"start": "03:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.785037+00:00",
@@ -46,11 +54,43 @@
 		{
 			"_updated": "2020-10-15T15:23:20.220172+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:59.467721+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/0",
+			"groupid": "0000000662",
+			"instructors": [
+				"Holly Ogren"
+			],
+			"instructors_full": null,
+			"junior": "3/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:00",
+					"location": "OM 001",
+					"start": "15:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/0",
+			"sophomore": "13/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/0",
-	"sophomore": "13/0",
 	"status": "O",
 	"term": 20051,
 	"type": "Lab",

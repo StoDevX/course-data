@@ -4,30 +4,38 @@
 	"crsid": "0000000213",
 	"department": "CHEM",
 	"enrolled": 4,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 4,
 	"instructors": [
-		"John Walters"
+		"Walters, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8885",
+			"name": "Walters, John"
+		}
+	],
 	"level": 300,
 	"max": 4,
 	"name": "Instrum Analysis Lab",
 	"number": 378,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "17:20",
-			"location": "SC 321/326",
-			"start": "13:20"
+			"day": "Mo",
+			"end": "0405PM",
+			"location": "SC 310",
+			"start": "03:05"
 		},
 		{
-			"day": "Mo",
-			"end": "16:05",
-			"location": "SC 310",
-			"start": "15:05"
+			"day": "Tu",
+			"end": "0520PM",
+			"location": "SC 321/326",
+			"start": "01:20"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.485133+00:00",
@@ -42,6 +50,39 @@
 		{
 			"_updated": "2020-10-15T15:23:10.469387+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.778658+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"John Walters"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:20",
+					"location": "SC 321/326",
+					"start": "13:20"
+				},
+				{
+					"day": "Mo",
+					"end": "16:05",
+					"location": "SC 310",
+					"start": "15:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

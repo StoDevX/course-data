@@ -4,36 +4,37 @@
 	"crsid": "0000000515",
 	"department": "GERM",
 	"enrolled": 13,
-	"instructors": [
-		"Frederike Von Schwerin-High"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-L",
+		"FOL-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Von Schwerin-High, Frederike"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8820",
+			"name": "Von Schwerin-High, Frederike"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Understand Narratives",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "OM 035",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "OM 035",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "OM 035",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.820531+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:13.545171+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.493383+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Frederike Von Schwerin-High"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "OM 035",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "OM 035",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "OM 035",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

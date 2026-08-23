@@ -4,32 +4,39 @@
 	"crsid": "0000000022",
 	"department": "ART",
 	"enrolled": 17,
-	"firstyear": "8/9",
-	"instructors": [
-		"John Saurer"
+	"enrollment_fy": 8,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/3",
-	"learningmode": "S",
+	"instructors": [
+		"Saurer, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 100,
 	"max": 17,
+	"max_fy": 9,
+	"max_jr": 3,
+	"max_so": 9,
+	"max_sr": 2,
 	"name": "Foundation Sculpture",
 	"number": 114,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "FH 18",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "FH 18",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:28.904250+00:00",
@@ -58,12 +65,48 @@
 		{
 			"_updated": "2020-10-15T15:22:56.308014+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:57:48.497501+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "8/9",
+			"gereqs": null,
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "1/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "FH 18",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "FH 18",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/2",
+			"sophomore": "5/9",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/2",
-	"sophomore": "5/9",
 	"status": "C",
 	"term": 19971,
 	"type": "Research",

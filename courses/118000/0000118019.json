@@ -1,29 +1,49 @@
 {
-	"clbid": 118019,
+	"clbid": "0000118019",
 	"credits": 1.0,
-	"crsid": 32291,
-	"departments": [
-		"MSCS"
-	],
+	"crsid": "0000032291",
+	"department": "MSCS",
 	"description": [
 		"This elementary introduction to the geometry of four-dimensional Euclidean space begins with an examination of lower-dimensional spaces and their relationships to one another. Generic objects are examined with the goal of understanding how a four-dimensional counterpart might be generated. Students explore what it means to \"see\" four-dimensional objects and in alternative ways. The term ends with group projects realized as a short research paper, a virtual reality show/object, and a class presentation. Offered periodically during Interim. No Prerequisite."
 	],
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
 		"AQR"
 	],
 	"instructors": [
-		"Paul Humke"
+		"Humke, Paul"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3558",
+			"name": "Humke, Paul"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"TOH 182",
-		"TOH 182"
-	],
+	"max": 24,
 	"name": "A Four Dimensional Excursion",
 	"notes": [
 		"This course has been cancelled."
 	],
 	"number": 124,
+	"offerings": [
+		{
+			"day": "M-F",
+			"end": "0300PM",
+			"location": "TOH 182",
+			"start": "01:00"
+		},
+		{
+			"day": "M-F",
+			"end": "10:00",
+			"location": "TOH 182",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": "Prerequisite.",
 	"revisions": [
@@ -48,15 +68,45 @@
 			"_updated": "2017-11-07T01:32:07.292287+00:00",
 			"notes": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:04:17.827776+00:00",
+			"clbid": 118019,
+			"crsid": 32291,
+			"department": null,
+			"departments": [
+				"MSCS"
+			],
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Paul Humke"
+			],
+			"instructors_full": null,
+			"locations": [
+				"TOH 182",
+				"TOH 182"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"status": "C",
+			"times": [
+				"M-F 0800-1000",
+				"M-F 0100-0300PM"
+			]
 		}
 	],
 	"semester": 2,
-	"status": "C",
+	"status": "X",
 	"term": 20172,
-	"times": [
-		"M-F 0800-1000",
-		"M-F 0100-0300PM"
-	],
 	"title": "A Four-Dimensional Excursion",
 	"type": "Research",
 	"year": 2017

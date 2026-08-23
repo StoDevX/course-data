@@ -4,30 +4,31 @@
 	"crsid": "0000000864",
 	"department": "MUSIC",
 	"enrolled": 13,
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 12,
 	"instructors": [
-		"John Ferguson"
+		"Ferguson, John"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2065",
+			"name": "Ferguson, John"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Church Music Pract II",
 	"number": 392,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "CHM 224",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "CHM 224",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.726516+00:00",
@@ -42,6 +43,41 @@
 		{
 			"_updated": "2020-10-15T15:23:03.496088+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:05.853543+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"John Ferguson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CHM 224",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "CHM 224",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

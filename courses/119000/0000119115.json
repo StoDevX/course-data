@@ -1,15 +1,21 @@
 {
 	"clbid": "0000119115",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 18,
-	"groupid": "0000001158",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 13,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Jessica M. Benson"
+		"Benson, Jessica M."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30091",
+			"name": "Benson, Jessica M."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 240",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-02-14T02:20:15.369453+00:00",
@@ -89,6 +94,36 @@
 		{
 			"_updated": "2020-10-15T15:24:07.336692+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:22.285628+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "2",
+			"instructors": [
+				"Jessica M. Benson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "RNS 240",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

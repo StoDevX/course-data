@@ -4,48 +4,35 @@
 	"crsid": "0000000050",
 	"department": "ART",
 	"enrolled": 7,
-	"instructors": [
-		"Heather M. Brooks-Shirey"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brooks-Shirey, Heather M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14840",
+			"name": "Brooks-Shirey, Heather M."
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Art 1776-1880",
 	"number": 251,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:30",
-			"location": "CAD 204",
-			"start": "10:00"
-		},
-		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "CAD 204",
-			"start": "10:00"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "CAD 204",
-			"start": "10:00"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "CAD 204",
-			"start": "10:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "CAD 204",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:23:18.162356+00:00",
@@ -66,6 +53,60 @@
 		{
 			"_updated": "2020-10-15T15:23:12.814915+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:40.107738+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Heather M. Brooks-Shirey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "CAD 204",
+					"start": "10:00"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "CAD 204",
+					"start": "10:00"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "CAD 204",
+					"start": "10:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "CAD 204",
+					"start": "10:00"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "CAD 204",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

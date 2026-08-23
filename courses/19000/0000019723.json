@@ -4,30 +4,35 @@
 	"crsid": "0000001398",
 	"department": "THEAT",
 	"enrolled": 14,
-	"instructors": [
-		"Lavinia Moyer"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Moyer, Lavinia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5399",
+			"name": "Moyer, Lavinia"
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Topics Interp & Thtr",
 	"number": 379,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "09:25",
-			"location": "TB 216",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "09:25",
 			"location": "TB 216",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.727145+00:00",
@@ -59,6 +64,41 @@
 		{
 			"_updated": "2020-10-15T15:22:53.787401+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:58.215717+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Lavinia Moyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "09:25",
+					"location": "TB 216",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:25",
+					"location": "TB 216",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

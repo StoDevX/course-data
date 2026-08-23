@@ -4,50 +4,45 @@
 	"crsid": "0000000950",
 	"department": "NURS",
 	"enrolled": 20,
-	"firstyear": "0/0",
-	"instructors": [
-		"Mary Johnson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 19,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "19/20",
-	"learningmode": "S",
+	"instructors": [
+		"Johnson, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4068",
+			"name": "Johnson, Mary"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Altr Hlth: Adult & Child",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "H 215",
 			"start": "12:55"
 		},
 		{
-			"day": "We",
-			"end": "14:55",
-			"location": "H 215",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "H 215",
-			"start": "12:55"
-		},
-		{
-			"day": "Tu",
-			"end": "14:30",
-			"location": "H 215",
-			"start": "07:00"
-		},
-		{
-			"day": "Th",
-			"end": "14:30",
+			"day": "TTh",
+			"end": "0230PM",
 			"location": "H 215",
 			"start": "07:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.542175+00:00",
@@ -77,11 +72,66 @@
 		{
 			"_updated": "2020-10-15T15:22:57.883410+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:30.317969+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Mary Johnson"
+			],
+			"instructors_full": null,
+			"junior": "19/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "H 215",
+					"start": "12:55"
+				},
+				{
+					"day": "Tu",
+					"end": "14:30",
+					"location": "H 215",
+					"start": "07:00"
+				},
+				{
+					"day": "Th",
+					"end": "14:30",
+					"location": "H 215",
+					"start": "07:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19973,
 	"type": "Research",

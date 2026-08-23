@@ -4,30 +4,35 @@
 	"crsid": "0000000792",
 	"department": "MEDIA",
 	"enrolled": 32,
-	"instructors": [
-		"Bill Sonnega"
+	"enrollment_fy": 4,
+	"enrollment_jr": 6,
+	"enrollment_so": 11,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sonnega, Bill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 100,
 	"max": 32,
 	"name": "Mass Media",
 	"number": 160,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "TB 216",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "TB 216",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:51.582015+00:00",
@@ -65,6 +70,41 @@
 			"instructors": [
 				"William Sonnega"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.572557+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "TB 216",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "TB 216",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

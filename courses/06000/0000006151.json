@@ -4,10 +4,22 @@
 	"crsid": "0000001024",
 	"department": "PEAC",
 	"enrolled": 25,
-	"instructors": [
-		"Kenneth Pratt"
+	"enrollment_fy": 7,
+	"enrollment_jr": 2,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Pratt, Kenneth"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6408",
+			"name": "Pratt, Kenneth"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Self-Defense",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:50",
+			"end": "0150PM",
 			"location": "SAC_WR_RM",
 			"start": "12:55"
 		},
 		{
 			"day": "Th",
-			"end": "13:40",
+			"end": "0140PM",
 			"location": "SAC_WR_RM",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:01.981717+00:00",
@@ -42,6 +53,40 @@
 		{
 			"_updated": "2020-10-15T15:23:13.648786+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:41.547368+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kenneth Pratt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "SAC_WR_RM",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:40",
+					"location": "SAC_WR_RM",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

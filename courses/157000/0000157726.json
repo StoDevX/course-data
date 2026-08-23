@@ -1,14 +1,21 @@
 {
 	"clbid": "0000157726",
-	"credits": 0.0,
 	"crsid": "0000000661",
 	"department": "JAPAN",
 	"enrolled": 11,
-	"groupid": "0000000660",
+	"enrollment_fy": 8,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 14,
 	"name": "Beginning Japanese II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "RNS 204",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-02-11T02:21:12.896082+00:00",
@@ -127,6 +133,32 @@
 		{
 			"_updated": "2025-04-11T03:00:57.168019+00:00",
 			"enrolled": 12
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.009917+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000660",
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "RNS 204",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

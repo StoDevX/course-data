@@ -4,30 +4,35 @@
 	"crsid": "0000001001",
 	"department": "PEAC",
 	"enrolled": 26,
-	"instructors": [
-		"Daniel Kosmoski"
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 9,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kosmoski, Daniel"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4502",
+			"name": "Kosmoski, Daniel"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Basketball",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SAC CTR GYM",
-			"start": "10:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SAC CTR GYM",
 			"start": "10:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:54.021740+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:09.134082+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.666797+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Daniel Kosmoski"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SAC CTR GYM",
+					"start": "10:05"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SAC CTR GYM",
+					"start": "10:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

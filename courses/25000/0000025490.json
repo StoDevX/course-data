@@ -4,38 +4,40 @@
 	"crsid": "0000001769",
 	"department": "HIST",
 	"enrolled": 28,
-	"firstyear": "27/25",
-	"instructors": [
-		"Richard A. Olson"
+	"enrollment_fy": 27,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"HWC",
+		"WRI"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors": [
+		"Olson, Richard A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5932",
+			"name": "Olson, Richard A."
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 25,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Athens & Rome",
 	"number": 101,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "H 501",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "H 501",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "H 501",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:39.718188+00:00",
@@ -65,11 +67,54 @@
 		{
 			"_updated": "2020-10-15T15:23:02.126126+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:49.771722+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "27/25",
+			"gereqs": null,
+			"instructors": [
+				"Richard A. Olson"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "H 501",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19991,
 	"type": "Research",

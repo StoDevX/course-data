@@ -4,36 +4,35 @@
 	"crsid": "0000000369",
 	"department": "DNCTH",
 	"enrolled": 12,
-	"instructors": [
-		"Janice Roberts"
+	"enrollment_fy": 1,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"ALS-A"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Roberts, Janice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3206",
+			"name": "Roberts, Janice"
+		}
+	],
 	"level": 200,
 	"max": 12,
 	"name": "Choreog & Improvisat",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "SPT RHT",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "SPT RHT",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "SPT RHT",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.681154+00:00",
@@ -48,6 +47,47 @@
 		{
 			"_updated": "2020-10-15T15:22:49.544486+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:55.462768+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Janice Roberts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "SPT RHT",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "SPT RHT",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "SPT RHT",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

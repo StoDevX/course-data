@@ -4,37 +4,38 @@
 	"crsid": "0000001110",
 	"department": "PSCI",
 	"enrolled": 32,
-	"instructors": [
-		"Stephen B. Dyson"
+	"enrollment_fy": 18,
+	"enrollment_jr": 0,
+	"enrollment_so": 11,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS"
 	],
-	"junior": "0/3",
-	"learningmode": "S",
+	"instructors": [
+		"Dyson, Stephen B."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16677",
+			"name": "Dyson, Stephen B."
+		}
+	],
 	"level": 100,
 	"max": 35,
+	"max_jr": 3,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "Intl Relations",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "HH 317",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "HH 317",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "HH 317",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:07.702940+00:00",
@@ -63,12 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:23:16.702104+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.694558+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Stephen B. Dyson"
+			],
+			"instructors_full": null,
+			"junior": "0/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "HH 317",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/0",
+			"sophomore": "11/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "3/0",
-	"sophomore": "11/10",
 	"status": "O",
 	"term": 20041,
 	"type": "Research",

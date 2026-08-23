@@ -4,17 +4,28 @@
 	"crsid": "0000000642",
 	"department": "HIST",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Steven C. Hahn",
-		"Mary E. Trull"
+		"Trull, Mary E.",
+		"Hahn, Steve C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15822",
+			"name": "Trull, Mary E."
+		},
+		{
+			"fsnum": "13148",
+			"name": "Hahn, Steve C."
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "IR/Women Empire 1650-1820",
 	"number": 398,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:15.491920+00:00",
@@ -29,6 +40,26 @@
 		{
 			"_updated": "2020-10-15T15:23:50.640515+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:24.422970+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Steven C. Hahn",
+				"Mary E. Trull"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false
 		}
 	],
 	"section": "A",

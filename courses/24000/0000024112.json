@@ -4,68 +4,45 @@
 	"crsid": "0000000825",
 	"department": "MUSIC",
 	"enrolled": 19,
-	"firstyear": "12/7",
-	"instructors": [
-		"Alice Hanson"
+	"enrollment_fy": 12,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A",
+		"MCS-D"
 	],
-	"junior": "1/17",
-	"learningmode": "S",
+	"instructors": [
+		"Hanson, Alice"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3030",
+			"name": "Hanson, Alice"
+		}
+	],
 	"level": 200,
 	"max": 30,
+	"max_fy": 7,
+	"max_jr": 17,
+	"max_sr": 11,
 	"name": "America's Hit Parade",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
 			"end": "10:00",
 			"location": "CHM 239",
 			"start": "09:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "CHM 239",
-			"start": "09:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CHM 239",
-			"start": "09:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "CHM 239",
-			"start": "09:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "CHM 239",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "CHM 239",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "CHM 239",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
+			"day": "M-Th",
+			"end": "1200PM",
 			"location": "CHM 239",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:35.143376+00:00",
@@ -93,10 +70,83 @@
 		{
 			"_updated": "2020-10-15T15:22:59.909907+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:13.064155+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "12/7",
+			"gereqs": null,
+			"instructors": [
+				"Alice Hanson"
+			],
+			"instructors_full": null,
+			"junior": "1/17",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "CHM 239",
+					"start": "09:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "CHM 239",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "CHM 239",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "CHM 239",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "CHM 239",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/11",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "3/11",
 	"status": "O",
 	"term": 19982,
 	"type": "Research",

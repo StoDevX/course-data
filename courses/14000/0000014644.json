@@ -4,37 +4,38 @@
 	"crsid": "0000000019",
 	"department": "ART",
 	"enrolled": 16,
+	"enrollment_fy": 3,
+	"enrollment_jr": 1,
+	"enrollment_so": 8,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"ALS-A"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "1/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 22,
+	"max_jr": 4,
+	"max_so": 8,
+	"max_sr": 3,
 	"name": "Found Perceptual Draw",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "FH 42",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "FH 42",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "FH 42",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.552510+00:00",
@@ -62,12 +63,50 @@
 		{
 			"_updated": "2020-10-15T15:22:46.528112+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:43.213168+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "1/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "FH 42",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "FH 42",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "FH 42",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/3",
+			"sophomore": "8/8",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "4/3",
-	"sophomore": "8/8",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

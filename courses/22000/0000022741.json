@@ -4,37 +4,32 @@
 	"crsid": "0000002222",
 	"department": "PETH",
 	"enrolled": 24,
-	"halfcredit": "2",
+	"enrollment_fy": 4,
+	"enrollment_jr": 5,
+	"enrollment_so": 6,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Kenneth Pratt"
+		"Pratt, Kenneth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6408",
+			"name": "Pratt, Kenneth"
+		}
+	],
 	"level": 300,
 	"max": 24,
 	"name": "Psychology of Sport",
 	"number": 380,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SAC 140",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "SAC 140",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "SAC 140",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.599805+00:00",
@@ -49,6 +44,47 @@
 		{
 			"_updated": "2020-10-15T15:22:57.920973+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:40.609674+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "2",
+			"instructors": [
+				"Kenneth Pratt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SAC 140",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SAC 140",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "SAC 140",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

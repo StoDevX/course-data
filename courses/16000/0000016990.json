@@ -4,31 +4,40 @@
 	"crsid": "0000000397",
 	"department": "ENGL",
 	"enrolled": 50,
-	"instructors": [
-		"Karen Cherewatuk",
-		"John T. Day"
+	"enrollment_fy": 1,
+	"enrollment_jr": 11,
+	"enrollment_so": 26,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Day, John T.",
+		"Cherewatuk, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1354",
+			"name": "Day, John T."
+		},
+		{
+			"fsnum": "1076",
+			"name": "Cherewatuk, Karen"
+		}
+	],
 	"level": 200,
 	"max": 60,
 	"name": "Lit in Engl to 1650",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "10:00",
 			"location": "L 525",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.691626+00:00",
@@ -43,6 +52,42 @@
 		{
 			"_updated": "2020-10-15T15:22:49.551507+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:58.556593+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen Cherewatuk",
+				"John T. Day"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

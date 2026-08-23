@@ -4,36 +4,36 @@
 	"crsid": "0000001263",
 	"department": "RUSSN",
 	"enrolled": 26,
-	"instructors": [
-		"Marc Robinson"
+	"enrollment_fy": 3,
+	"enrollment_jr": 10,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"HWC",
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Robinson, Marc"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6710",
+			"name": "Robinson, Marc"
+		}
+	],
 	"level": 100,
 	"max": 17,
 	"name": "The Russian World",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "M 11",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "M 11",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "M 11",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.983111+00:00",
@@ -48,6 +48,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.590750+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.696227+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Marc Robinson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "M 11",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "M 11",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "M 11",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

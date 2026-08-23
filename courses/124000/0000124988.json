@@ -7,36 +7,39 @@
 		"This course introduces students to computer science (CS), a field devoted to creative problem solving with computers, and its applications to other disciplines. Students explore fundamental concepts, including iteration, recursion, object-oriented software design, algorithm efficiency, levels of naming, parallel computing, and computing ethics. Students apply these concepts daily in hands-on homework exercises relevant to fields in the arts, humanities (including digital humanities computations), social sciences, and natural sciences. Includes a team project applying CS to a chosen discipline. No prior experience with programming is expected or required. Offered each semester. One of CSCI 121, CSCI 125, or CSCI 251 counts toward linguistic studies concentration."
 	],
 	"enrolled": 32,
-	"instructors": [
-		"Elizabeth A. Jensen"
+	"enrollment_fy": 18,
+	"enrollment_jr": 0,
+	"enrollment_so": 12,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"AQR",
+		"MAR"
 	],
-	"junior": "0/1",
-	"learningmode": "S",
+	"instructors": [
+		"Jensen, Elizabeth A."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16680",
+			"name": "Jensen, Elizabeth A."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 1,
+	"max_so": 10,
+	"max_sr": 2,
 	"name": "Principles Comp Sci",
 	"notes": [
-		"This course has class-year limits.",
-		"Supplemental Instruction (SI) is available for this course.",
+		"This course has class-year limits.                                              ",
+		"Supplemental Instruction (SI) is available for this course.                     ",
 		"Must have placement recommendation to enroll in this course."
 	],
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "RNS 203",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "RNS 203",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "RNS 203",
 			"start": "11:50"
 		}
@@ -221,12 +224,55 @@
 			"gereqs": [
 				"AQR"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:27.762407+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Elizabeth A. Jensen"
+			],
+			"instructors_full": null,
+			"junior": "0/1",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"This course has class-year limits.",
+				"Supplemental Instruction (SI) is available for this course.",
+				"Must have placement recommendation to enroll in this course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "RNS 203",
+					"start": "11:50"
+				}
+			],
+			"senior": "2/2",
+			"sophomore": "12/10"
 		}
 	],
 	"section": "B",
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "12/10",
 	"status": "C",
 	"term": 20191,
 	"title": "Principles of Computer Science",

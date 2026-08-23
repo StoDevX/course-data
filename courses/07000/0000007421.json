@@ -4,36 +4,36 @@
 	"crsid": "0000001327",
 	"department": "SPAN",
 	"enrolled": 21,
-	"instructors": [
-		"Joan Odd"
+	"enrollment_fy": 18,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"FOL-S",
+		"MCS-D"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Odd, Joan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5798",
+			"name": "Odd, Joan"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Intermed Spanish II",
 	"number": 232,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "OM 021",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "OM 021",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "OM 021",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.625326+00:00",
@@ -48,6 +48,46 @@
 		{
 			"_updated": "2020-10-15T15:23:15.123456+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:44.473364+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Joan Odd"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "OM 021",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "OM 021",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "OM 021",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

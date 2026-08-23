@@ -4,30 +4,35 @@
 	"crsid": "0000002193",
 	"department": "PEAC",
 	"enrolled": 8,
-	"instructors": [
-		"David Hauck"
+	"enrollment_fy": 1,
+	"enrollment_jr": 2,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hauck, David"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3166",
+			"name": "Hauck, David"
+		}
+	],
 	"level": 100,
 	"max": 8,
 	"name": "Handball/Racquetball",
 	"number": 155,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "SAC RACQ CT",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "SAC RACQ CT",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:21.947214+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:22:50.986908+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:10.501685+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"David Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "SAC RACQ CT",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "SAC RACQ CT",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

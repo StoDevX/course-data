@@ -4,36 +4,35 @@
 	"crsid": "0000033295",
 	"department": "HIST",
 	"enrolled": 23,
-	"instructors": [
-		"Larry Witherell"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 9,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Witherell, Larry"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "29078",
+			"name": "Witherell, Larry"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Ireland/Irish Question",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "HH 433",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "HH 433",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "HH 433",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-10-07T04:06:48.560419+00:00",
@@ -122,6 +121,46 @@
 			"gereqs": [
 				"HWC"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:24.917478+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Larry Witherell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "HH 433",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "HH 433",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "HH 433",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null
 		}
 	],
 	"semester": 3,

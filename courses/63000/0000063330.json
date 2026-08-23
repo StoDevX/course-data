@@ -7,10 +7,23 @@
 		"This course offers instruction in all skills and techniques necessary to obtain PADI Open Water certification. Lab fee includes use of equipment."
 	],
 	"enrolled": 25,
-	"instructors": [
-		"John Campion"
+	"enrollment_fy": 7,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Campion, John"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "920",
+			"name": "Campion, John"
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Scuba Diving",
@@ -18,9 +31,9 @@
 	"offerings": [
 		{
 			"day": "Fr",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "SAC_POOL",
-			"start": "18:00"
+			"start": "06:00"
 		}
 	],
 	"pn": false,
@@ -45,6 +58,32 @@
 			"gereqs": [
 				"SPM"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:01:54.957945+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"John Campion"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Fr",
+					"end": "21:00",
+					"location": "SAC_POOL",
+					"start": "18:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 3,

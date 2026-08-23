@@ -1,14 +1,21 @@
 {
 	"clbid": "0000058862",
-	"credits": 0.0,
 	"crsid": "0000016388",
 	"department": "ENVST",
 	"enrolled": 16,
-	"groupid": "0000000461",
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 2,
+	"enrollment_sr": 8,
 	"instructors": [
-		"Brian C. Welch"
+		"Welch, Brian C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13277",
+			"name": "Welch, Brian C."
+		}
+	],
 	"level": 200,
 	"max": 16,
 	"name": "Remote Sensing & GIS Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "15:20",
+			"end": "03:20",
 			"location": "RML 477",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:29.247490+00:00",
@@ -37,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:28.939477+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:36.311274+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000461",
+			"instructors": [
+				"Brian C. Welch"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:20",
+					"location": "RML 477",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

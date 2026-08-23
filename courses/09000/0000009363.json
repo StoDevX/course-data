@@ -4,10 +4,23 @@
 	"crsid": "0000000350",
 	"department": "DNCTE",
 	"enrolled": 12,
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 100,
 	"max": 15,
 	"name": "Fundamentally Dance",
@@ -15,19 +28,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "CAD _STUDIO_3",
-			"start": "14:00"
+			"start": "02:00"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD _STUDIO_3",
-			"start": "14:40"
+			"start": "02:40"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:17.716640+00:00",
@@ -49,6 +61,41 @@
 		{
 			"_updated": "2020-10-15T15:23:18.143431+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.636453+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "CAD _STUDIO_3",
+					"start": "14:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD _STUDIO_3",
+					"start": "14:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

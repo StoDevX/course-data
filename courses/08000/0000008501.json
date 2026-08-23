@@ -4,38 +4,38 @@
 	"crsid": "0000001359",
 	"department": "SWRK",
 	"enrolled": 23,
-	"firstyear": "1/0",
-	"instructors": [
-		"Mary Carlsen"
+	"enrollment_fy": 1,
+	"enrollment_jr": 4,
+	"enrollment_so": 14,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"WRI"
 	],
-	"junior": "4/19",
-	"learningmode": "S",
+	"instructors": [
+		"Carlsen, Mary"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "938",
+			"name": "Carlsen, Mary"
+		}
+	],
 	"level": 200,
 	"max": 45,
+	"max_fy": 0,
+	"max_jr": 19,
+	"max_sr": 10,
 	"name": "Soc Work/Soc Services",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD 204",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "CAD 204",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "CAD 204",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:12.109984+00:00",
@@ -72,10 +72,53 @@
 		{
 			"_updated": "2020-10-15T15:23:16.780404+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:48.744782+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "1/0",
+			"gereqs": null,
+			"instructors": [
+				"Mary Carlsen"
+			],
+			"instructors_full": null,
+			"junior": "4/19",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD 204",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD 204",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "CAD 204",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/10",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "4/10",
 	"status": "C",
 	"term": 20041,
 	"type": "Research",

@@ -4,10 +4,19 @@
 	"crsid": "0000001481",
 	"department": "WMNST",
 	"enrolled": 19,
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 1,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Karen Gervais"
+		"Gervais, Karen"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2519",
+			"name": "Gervais, Karen"
+		}
+	],
 	"level": 300,
 	"max": 15,
 	"name": "Sem: Women Cross-Cult",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "21:30",
+			"end": "0930PM",
 			"location": "H 516",
-			"start": "18:30"
+			"start": "06:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:22.122328+00:00",
@@ -36,6 +44,34 @@
 		{
 			"_updated": "2020-10-15T15:22:51.092320+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:26.932481+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Karen Gervais"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "21:30",
+					"location": "H 516",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

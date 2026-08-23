@@ -4,14 +4,28 @@
 	"crsid": "0000000023",
 	"department": "ART",
 	"enrolled": 19,
-	"firstyear": "5/5",
-	"instructors": [
-		"Margaret Ojala"
+	"enrollment_fy": 5,
+	"enrollment_jr": 2,
+	"enrollment_so": 3,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "2/2",
-	"learningmode": "S",
+	"instructors": [
+		"Ojala, Margaret"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5816",
+			"name": "Ojala, Margaret"
+		}
+	],
 	"level": 100,
 	"max": 20,
+	"max_fy": 5,
+	"max_jr": 2,
+	"max_so": 2,
+	"max_sr": 2,
 	"name": "Found Photography",
 	"number": 115,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:57.472625+00:00",
@@ -65,12 +78,34 @@
 		{
 			"_updated": "2020-10-15T15:23:14.789890+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.655444+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/5",
+			"gereqs": null,
+			"instructors": [
+				"Margaret Ojala"
+			],
+			"instructors_full": null,
+			"junior": "2/2",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"senior": "9/2",
+			"sophomore": "3/2",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "9/2",
-	"sophomore": "3/2",
 	"status": "C",
 	"term": 20033,
 	"type": "Research",

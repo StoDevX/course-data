@@ -4,36 +4,36 @@
 	"crsid": "0000000352",
 	"department": "DNCTE",
 	"enrolled": 16,
-	"instructors": [
-		"Susan Bauer"
+	"enrollment_fy": 8,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Bauer, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "338",
+			"name": "Bauer, Susan"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Movement/Perf Artist",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MWF",
 			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
-			"end": "10:00",
-			"location": "CAD STUDIO 1",
+			"location": "CAD  STUDIO 1",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:05.089603+00:00",
@@ -60,6 +60,47 @@
 		{
 			"_updated": "2020-10-15T15:23:09.002919+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.964478+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan Bauer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "CAD STUDIO 1",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

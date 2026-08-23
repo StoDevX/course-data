@@ -4,30 +4,35 @@
 	"crsid": "0000001165",
 	"department": "PSYCH",
 	"enrolled": 38,
-	"instructors": [
-		"Susan Marino"
+	"enrollment_fy": 1,
+	"enrollment_jr": 16,
+	"enrollment_so": 9,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"NST"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marino, Susan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10059",
+			"name": "Marino, Susan"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Biopsychology",
 	"number": 238,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 317",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 317",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:49.084186+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:06.356946+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:26.828620+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Susan Marino"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 317",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 317",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

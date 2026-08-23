@@ -4,37 +4,39 @@
 	"crsid": "0000000426",
 	"department": "ENGL",
 	"enrolled": 24,
-	"instructors": [
-		"Ronald J. Lee"
+	"enrollment_fy": 2,
+	"enrollment_jr": 9,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
+	"gereqs": [
+		"ALS-L",
+		"WRI"
 	],
-	"junior": "9/17",
-	"learningmode": "S",
+	"instructors": [
+		"Lee, Ronald J."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4736",
+			"name": "Lee, Ronald J."
+		}
+	],
 	"level": 200,
 	"max": 35,
+	"max_jr": 17,
+	"max_so": 17,
+	"max_sr": 12,
 	"name": "Intro to Shakespeare",
 	"number": 280,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 515",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 515",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "L 515",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:34.174606+00:00",
@@ -62,11 +64,53 @@
 		{
 			"_updated": "2020-10-15T15:22:59.298346+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:53.361790+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Ronald J. Lee"
+			],
+			"instructors_full": null,
+			"junior": "9/17",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 515",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/12",
+			"sophomore": "4/17",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "9/12",
-	"sophomore": "4/17",
 	"status": "O",
 	"term": 19981,
 	"type": "Research",

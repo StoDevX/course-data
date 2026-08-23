@@ -7,17 +7,30 @@
 		"This course introduces students to the working methods of Art History. Students learn to analyze works of art visually, to understand the relationships between works of art and their cultural contexts, to consider the practices and politics of museum display, and to think critically about the role of art in their own lives and in society. Offered each semester."
 	],
 	"enrolled": 29,
-	"firstyear": "13/10",
+	"enrollment_fy": 13,
+	"enrollment_jr": 5,
+	"enrollment_so": 8,
+	"enrollment_sr": 3,
 	"gereqs": [
-		"GHS"
+		"ALS-A",
+		"GHS",
+		"ORC"
 	],
 	"instructors": [
-		"Nancy M. Thompson"
+		"Thompson, Nancy M."
 	],
-	"junior": "5/5",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 10,
+	"max_jr": 5,
+	"max_so": 10,
+	"max_sr": 5,
 	"name": "Intro to Art History",
 	"notes": [
 		"This course has class-year limits."
@@ -25,22 +38,10 @@
 	"number": 153,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "CAD 305",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -53,12 +54,53 @@
 				"ORC",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:06.501119+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/10",
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Nancy M. Thompson"
+			],
+			"instructors_full": null,
+			"junior": "5/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "CAD 305",
+					"start": "14:00"
+				}
+			],
+			"senior": "3/5",
+			"sophomore": "8/10"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "3/5",
-	"sophomore": "8/10",
 	"status": "O",
 	"term": 20223,
 	"title": "Introduction to Art History",

@@ -7,38 +7,35 @@
 		"This course is the gateway for the biology major, guiding students as they develop the context, skills, and modern framework on which to continue their study of biology. Students explore the history, evolution, and diversity of life in the context of genetics and comparative genomics. The laboratory emphasizes question-asking, problem-solving, and exploring biodiversity, and students have multiple opportunities to practice and communicate their science. Students attend lectures plus one 3-hour laboratory/discussion per week. Offered each semester. Also counts toward biomolecular science concentration."
 	],
 	"enrolled": 20,
+	"enrollment_fy": 6,
+	"enrollment_jr": 2,
+	"enrollment_so": 10,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"NTS"
+		"IST",
+		"NTS",
+		"SED"
 	],
-	"groupid": "0000026649",
-	"grouptype": "4",
 	"instructors": [
-		"Josie Griffin"
+		"Griffin, Josie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33072",
+			"name": "Griffin, Josie"
+		}
+	],
 	"level": 100,
 	"max": 36,
 	"name": "Biodiversity Foundations",
 	"notes": [
-		"Students registering for BIO 150D must also register for one lab BIO 150 IL or",
-		"JL. Supplemental Instruction (SI) is available for this course."
+		"Students registering for BIO 150D must also register for one lab BIO 150 IL or  ",
+		"JL.  Supplemental Instruction (SI) is available for this course."
 	],
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "RNS 410",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "RNS 410",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "RNS 410",
 			"start": "08:00"
@@ -143,6 +140,51 @@
 				"IST",
 				"SED",
 				"NTS"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.773120+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"NTS"
+			],
+			"groupid": "0000026649",
+			"grouptype": "4",
+			"instructors": [
+				"Josie Griffin"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students registering for BIO 150D must also register for one lab BIO 150 IL or",
+				"JL. Supplemental Instruction (SI) is available for this course."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "RNS 410",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "RNS 410",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "RNS 410",
+					"start": "08:00"
+				}
 			]
 		}
 	],

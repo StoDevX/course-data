@@ -4,30 +4,35 @@
 	"crsid": "0000000854",
 	"department": "MUSIC",
 	"enrolled": 8,
-	"instructors": [
-		"Donnamae Gustafson"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Gustafson, Donnamae"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14003",
+			"name": "Gustafson, Donnamae"
+		}
+	],
 	"level": 300,
 	"max": 30,
 	"name": "Music of Baroque Era",
 	"number": 342,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CHM 224",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CHM 224",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.988435+00:00",
@@ -42,6 +47,41 @@
 		{
 			"_updated": "2020-10-15T15:23:06.297864+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:25.249057+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Donnamae Gustafson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CHM 224",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CHM 224",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

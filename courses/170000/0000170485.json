@@ -1,40 +1,78 @@
 {
 	"clbid": "0000170485",
-	"credits": 0.0,
 	"crsid": "0000001063",
 	"department": "KINES",
 	"enrolled": 0,
-	"groupid": "0000001062",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Matt D. Neuger"
+		"Neuger, Matt D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20080",
+			"name": "Neuger, Matt D."
+		}
+	],
 	"level": 300,
 	"max": 25,
 	"name": "Biomechanics Lab",
 	"number": 374,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SAC 103",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SAC 103",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:41.143472+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001062",
+			"instructors": [
+				"Matt D. Neuger"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SAC 103",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20263,

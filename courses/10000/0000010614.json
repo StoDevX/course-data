@@ -4,36 +4,37 @@
 	"crsid": "0000000616",
 	"department": "HIST",
 	"enrolled": 34,
-	"instructors": [
-		"Judy Kutulas"
+	"enrollment_fy": 0,
+	"enrollment_jr": 20,
+	"enrollment_so": 2,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"HWC",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kutulas, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4583",
+			"name": "Kutulas, Judy"
+		}
+	],
 	"level": 200,
 	"max": 35,
 	"name": "Women in America",
 	"number": 272,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "HH 317",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "HH 317",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "HH 317",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:13.348644+00:00",
@@ -48,6 +49,47 @@
 		{
 			"_updated": "2020-10-15T15:23:19.939674+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:58.832495+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Judy Kutulas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "HH 317",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

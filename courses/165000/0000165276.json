@@ -6,15 +6,29 @@
 	"description": [
 		"Students learn special topics in dance in a movement intensive environment. Students study the historical, social, and cultural context in which the dance topic emerged and currently functions and the physical and expressive capacities that distinguish it from other forms. Dance topics could include somatics, Gaga, contact improvisation, yoga, partnering, or aerial dance. Topics may vary from year to year. May be repeated. P/N only. Offered each semester. No prerequisite."
 	],
-	"enrolled": 28,
+	"enrolled": 22,
+	"enrollment_fy": 1,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 11,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SPM"
 	],
 	"instructors": [
-		"Fode Bangoura",
-		"Whitney McClusky"
+		"Bangoura, Fode",
+		"McClusky, Whitney"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "35136",
+			"name": "Bangoura, Fode"
+		},
+		{
+			"fsnum": "35149",
+			"name": "McClusky, Whitney"
+		}
+	],
 	"level": 100,
 	"max": 28,
 	"name": "Top: Intermed West African Dance",
@@ -22,15 +36,15 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD Studio 1",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "CAD Studio 1",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": true,
@@ -116,11 +130,47 @@
 		{
 			"_updated": "2025-11-30T03:22:05.019938+00:00",
 			"enrolled": 29
+		},
+		{
+			"_updated": "2026-08-23T03:05:41.761108+00:00",
+			"enrolled": 28,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Fode Bangoura",
+				"Whitney McClusky"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD Studio 1",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "CAD Studio 1",
+					"start": "14:15"
+				}
+			],
+			"status": "C"
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"status": "C",
+	"status": "O",
 	"term": 20253,
 	"title": "Topics in Movement Studies in Dance",
 	"type": "Topic",

@@ -1,29 +1,36 @@
 {
 	"clbid": "0000115451",
-	"credits": 0.0,
 	"crsid": "0000017302",
 	"department": "BIO",
 	"enrolled": 12,
-	"firstyear": "0/0",
-	"groupid": "0000000169",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"Kevin B. Potts"
+		"Potts, Kevin B."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28156",
+			"name": "Potts, Kevin B."
+		}
+	],
 	"level": 300,
 	"max": 10,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Evolutionary Bio Lab",
 	"number": 383,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "RNS 393",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-10-04T01:14:47.910622+00:00",
@@ -72,11 +79,41 @@
 		{
 			"_updated": "2021-03-02T16:51:42.472827+00:00",
 			"max": 12
+		},
+		{
+			"_updated": "2026-08-23T03:04:19.203696+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000000169",
+			"instructors": [
+				"Kevin B. Potts"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "16:20",
+					"location": "RNS 393",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20173,
 	"type": "Lab",

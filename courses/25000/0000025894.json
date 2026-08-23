@@ -4,37 +4,35 @@
 	"crsid": "0000002477",
 	"department": "THEAT",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Linda Devenish"
+		"Devenish, Linda"
 	],
-	"junior": "5/18",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "10495",
+			"name": "Devenish, Linda"
+		}
+	],
 	"level": 200,
 	"max": 25,
+	"max_jr": 18,
+	"max_so": 17,
+	"max_sr": 10,
 	"name": "Argumentation",
 	"number": 280,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "11:40",
-			"location": "CT 227",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "11:40",
-			"location": "CT 227",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "11:40",
 			"location": "CT 227",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:40.583169+00:00",
@@ -62,11 +60,52 @@
 		{
 			"_updated": "2020-10-15T15:23:02.295858+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:57.901270+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Linda Devenish"
+			],
+			"instructors_full": null,
+			"junior": "5/18",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "11:40",
+					"location": "CT 227",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/10",
+			"sophomore": "1/17",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "4/10",
-	"sophomore": "1/17",
 	"status": "O",
 	"term": 19991,
 	"type": "Research",

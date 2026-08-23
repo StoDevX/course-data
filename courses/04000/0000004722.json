@@ -4,14 +4,28 @@
 	"crsid": "0000000025",
 	"department": "ART",
 	"enrolled": 13,
-	"firstyear": "6/4",
-	"instructors": [
-		"David E. Ryan"
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 3,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Ryan, David E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13038",
+			"name": "Ryan, David E."
+		}
+	],
 	"level": 100,
 	"max": 15,
+	"max_fy": 4,
+	"max_jr": 0,
+	"max_so": 2,
+	"max_sr": 1,
 	"name": "Foundn Digital Media",
 	"number": 117,
 	"offerings": [
@@ -29,7 +43,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:56.828748+00:00",
@@ -68,11 +81,34 @@
 		{
 			"_updated": "2020-10-15T15:23:11.920050+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.599607+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "6/4",
+			"gereqs": null,
+			"instructors": [
+				"David E. Ryan"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/1",
+			"sophomore": "3/2",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "3/1",
-	"sophomore": "3/2",
 	"status": "C",
 	"term": 20023,
 	"type": "Research",

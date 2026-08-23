@@ -7,26 +7,30 @@
 		"This course builds on basic swimming skills, providing instruction in more advanced swimming strokes while focusing on physical conditioning and aquatic safety. Offered annually. Prerequisite: KINES 121 or permission of instructor."
 	],
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
 	"gereqs": [
-		"ACB"
+		"ACB",
+		"SPM"
 	],
 	"instructors": [
-		"Bob Hauck"
+		"Hauck, Bob"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Intermediate Swimming",
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "10:30",
-			"location": "SAC Pool",
-			"start": "09:30"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "10:30",
 			"location": "SAC Pool",
 			"start": "09:30"
@@ -112,6 +116,40 @@
 				"SPM",
 				"ACB"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:42.547045+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"ACB"
+			],
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "10:30",
+					"location": "SAC Pool",
+					"start": "09:30"
+				},
+				{
+					"day": "Th",
+					"end": "10:30",
+					"location": "SAC Pool",
+					"start": "09:30"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

@@ -4,67 +4,42 @@
 	"crsid": "0000000452",
 	"department": "ENGL",
 	"enrolled": 12,
-	"firstyear": "0/15",
-	"instructors": [
-		"Olivia Frey"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 1,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Frey, Olivia"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "2455",
+			"name": "Frey, Olivia"
+		}
+	],
 	"level": 300,
 	"max": 15,
+	"max_fy": 15,
 	"name": "Sem: Autobio Lit Crit",
 	"number": 399,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-Th",
 			"end": "10:00",
 			"location": "L 520",
 			"start": "08:00"
 		},
 		{
-			"day": "Tu",
-			"end": "10:00",
-			"location": "L 520",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 520",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "10:00",
-			"location": "L 520",
-			"start": "08:00"
-		},
-		{
-			"day": "Mo",
-			"end": "12:00",
-			"location": "L 520",
-			"start": "10:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:00",
-			"location": "L 520",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:00",
-			"location": "L 520",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:00",
+			"day": "M-Th",
+			"end": "1200PM",
 			"location": "L 520",
 			"start": "10:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.083119+00:00",
@@ -88,6 +63,78 @@
 		{
 			"_updated": "2020-10-15T15:22:57.042690+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.430024+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/15",
+			"gereqs": null,
+			"instructors": [
+				"Olivia Frey"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 520",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "10:00",
+					"location": "L 520",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 520",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "10:00",
+					"location": "L 520",
+					"start": "08:00"
+				},
+				{
+					"day": "Mo",
+					"end": "12:00",
+					"location": "L 520",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:00",
+					"location": "L 520",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:00",
+					"location": "L 520",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "L 520",
+					"start": "10:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

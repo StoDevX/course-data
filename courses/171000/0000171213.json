@@ -1,15 +1,22 @@
 {
 	"clbid": "0000171213",
-	"credits": 0.0,
 	"crsid": "0000038483",
 	"department": "ID",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "SOAR Discussion",
 	"notes": [
 		"SOAR Discussion meets on Feb 13, Feb 27, Mar 13, Mar 27, Apr 10."
@@ -18,13 +25,41 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:30",
+			"end": "1230PM",
 			"location": "TBA",
 			"start": "11:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:08:40.493523+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:30",
+					"location": "TBA",
+					"start": "11:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
+		}
+	],
 	"semester": 3,
 	"status": "O",
 	"term": 20263,

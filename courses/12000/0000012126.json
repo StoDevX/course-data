@@ -4,30 +4,32 @@
 	"crsid": "0000000809",
 	"department": "MUSIC",
 	"enrolled": 17,
+	"enrollment_fy": 2,
+	"enrollment_jr": 5,
+	"enrollment_so": 1,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Miriam Scholz-Carlson"
+		"Scholz-Carlson, Miriam"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7179",
+			"name": "Scholz-Carlson, Miriam"
+		}
+	],
 	"level": 100,
 	"max": 18,
 	"name": "Intro Alexander Tech",
 	"number": 163,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MW",
+			"end": "0255PM",
 			"location": "CHM 140",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "CHM 140",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.338158+00:00",
@@ -42,6 +44,40 @@
 		{
 			"_updated": "2020-10-15T15:23:21.719544+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:07.013263+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Miriam Scholz-Carlson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "CHM 140",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "CHM 140",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

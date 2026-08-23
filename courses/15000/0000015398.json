@@ -4,54 +4,43 @@
 	"crsid": "0000001368",
 	"department": "SWRK",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Social Work Methds II",
 	"number": 373,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "MW",
 			"end": "11:40",
 			"location": "YH 130",
 			"start": "09:05"
 		},
 		{
-			"day": "We",
-			"end": "11:40",
-			"location": "YH 130",
-			"start": "09:05"
-		},
-		{
-			"day": "Tu",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "YH 130",
 			"start": "09:00"
 		},
 		{
-			"day": "Th",
-			"end": "11:00",
-			"location": "YH 130",
-			"start": "09:00"
-		},
-		{
-			"day": "Tu",
-			"end": "13:50",
-			"location": "YH 130",
-			"start": "12:55"
-		},
-		{
-			"day": "Th",
-			"end": "13:50",
+			"day": "TTh",
+			"end": "0150PM",
 			"location": "YH 130",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.044596+00:00",
@@ -66,6 +55,62 @@
 		{
 			"_updated": "2020-10-15T15:22:46.864950+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.498656+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:40",
+					"location": "YH 130",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "11:40",
+					"location": "YH 130",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "YH 130",
+					"start": "09:00"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "YH 130",
+					"start": "09:00"
+				},
+				{
+					"day": "Tu",
+					"end": "13:50",
+					"location": "YH 130",
+					"start": "12:55"
+				},
+				{
+					"day": "Th",
+					"end": "13:50",
+					"location": "YH 130",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

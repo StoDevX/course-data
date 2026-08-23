@@ -4,10 +4,19 @@
 	"crsid": "0000026528",
 	"department": "ALSO",
 	"enrolled": 3,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Renata Debska-McWilliams"
+		"Debska-McWilliams, Renata"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16720",
+			"name": "Debska-McWilliams, Renata"
+		}
+	],
 	"level": 100,
 	"max": 10,
 	"name": "Top: Beginning Korean II",
@@ -18,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "TOH 153",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "TOH 153",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": "completion of ALSO 102 or permission of the instructor.",
 	"revisions": [
 		{
 			"_updated": "2018-02-02T23:56:30.218118+00:00",
@@ -49,6 +57,40 @@
 		{
 			"_updated": "2020-10-15T15:23:47.129846+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:07.271489+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Renata Debska-McWilliams"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "TOH 153",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "TOH 153",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": "completion of ALSO 102 or permission of the instructor.",
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

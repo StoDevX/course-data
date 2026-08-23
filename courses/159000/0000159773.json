@@ -1,15 +1,21 @@
 {
 	"clbid": "0000159773",
-	"credits": 0.0,
 	"crsid": "0000026692",
 	"department": "PSYCH",
 	"enrolled": 18,
-	"groupid": "0000001158",
-	"grouptype": "A",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Daniel R. Nelson"
+		"Nelson, Daniel R."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28151",
+			"name": "Nelson, Daniel R."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Research Methods Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "RNS 160C",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2024-10-12T02:47:14.133014+00:00",
@@ -57,6 +62,36 @@
 					"start": "10:45"
 				}
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:05:24.398609+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001158",
+			"grouptype": "A",
+			"instructors": [
+				"Daniel R. Nelson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "RNS 160C",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

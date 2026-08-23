@@ -4,54 +4,38 @@
 	"crsid": "0000001878",
 	"department": "FAMST",
 	"enrolled": 18,
+	"enrollment_fy": 1,
+	"enrollment_jr": 7,
+	"enrollment_so": 3,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Linda Marie Ernst"
+		"Ernst, Linda Marie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1911",
+			"name": "Ernst, Linda Marie"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Adol Dev & Family Rel",
 	"number": 248,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "MWF",
+			"end": "0300PM",
+			"location": "",
+			"start": "01:00"
+		},
+		{
+			"day": "MWF",
+			"end": "1240PM",
 			"location": "H 302",
 			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "12:40",
-			"location": "H 302",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "H 302",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "15:00",
-			"location": "H 302",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "H 302",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "H 302",
-			"start": "13:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.096553+00:00",
@@ -66,6 +50,64 @@
 		{
 			"_updated": "2020-10-15T15:22:57.052063+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:16.048008+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Linda Marie Ernst"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "H 302",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "H 302",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "H 302",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "H 302",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

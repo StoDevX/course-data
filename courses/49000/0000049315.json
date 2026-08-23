@@ -1,30 +1,43 @@
 {
 	"clbid": "0000049315",
-	"credits": 0.0,
 	"crsid": "0000017308",
 	"department": "NEURO",
 	"enrolled": 23,
-	"firstyear": "9/0",
+	"enrollment_fy": 9,
+	"enrollment_jr": 5,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Gary M. Muir",
-		"Kevin M. Crisp"
+		"Muir, Gary M.",
+		"Crisp, Kevin M."
 	],
-	"junior": "5/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16584",
+			"name": "Muir, Gary M."
+		},
+		{
+			"fsnum": "17430",
+			"name": "Crisp, Kevin M."
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Intro to Neuroscience Lab",
 	"number": 234,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "16:20",
+			"end": "0420PM",
 			"location": "SC 253",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.620719+00:00",
@@ -46,11 +59,43 @@
 		{
 			"_updated": "2020-10-15T15:23:21.898233+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:07.022967+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "9/0",
+			"instructors": [
+				"Gary M. Muir",
+				"Kevin M. Crisp"
+			],
+			"instructors_full": null,
+			"junior": "5/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "16:20",
+					"location": "SC 253",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "4/0",
+			"sophomore": "5/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "4/0",
-	"sophomore": "5/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

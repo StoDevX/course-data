@@ -4,32 +4,41 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 26,
-	"firstyear": "14/15",
-	"instructors": [
-		"Joan Hepburn"
+	"enrollment_fy": 14,
+	"enrollment_jr": 1,
+	"enrollment_so": 10,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Hepburn, Joan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3322",
+			"name": "Hepburn, Joan"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 15,
+	"max_jr": 0,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "L 525",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "L 525",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.660116+00:00",
@@ -61,12 +70,48 @@
 		{
 			"_updated": "2020-10-15T15:23:00.598444+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:20.088397+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "14/15",
+			"gereqs": null,
+			"instructors": [
+				"Joan Hepburn"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "L 525",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "10/10",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "10/10",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

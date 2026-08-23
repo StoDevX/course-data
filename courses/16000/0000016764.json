@@ -4,31 +4,37 @@
 	"crsid": "0000000064",
 	"department": "ART",
 	"enrolled": 6,
-	"instructors": [
-		"Matthew Rohn"
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 0,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "3/1",
-	"learningmode": "S",
+	"instructors": [
+		"Rohn, Matthew"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "6758",
+			"name": "Rohn, Matthew"
+		}
+	],
 	"level": 200,
 	"max": 14,
+	"max_jr": 1,
+	"max_sr": 1,
 	"name": "Issues Art Criticism",
 	"number": 270,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "14:45",
+			"day": "TTh",
+			"end": "0245PM",
 			"location": "FH SEM",
-			"start": "13:20"
-		},
-		{
-			"day": "Th",
-			"end": "14:45",
-			"location": "FH SEM",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.555563+00:00",
@@ -55,10 +61,46 @@
 		{
 			"_updated": "2020-10-15T15:22:49.462384+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:52.298525+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Matthew Rohn"
+			],
+			"instructors_full": null,
+			"junior": "3/1",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "FH SEM",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "14:45",
+					"location": "FH SEM",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "3/1",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "3/1",
 	"status": "O",
 	"term": 19951,
 	"type": "Research",

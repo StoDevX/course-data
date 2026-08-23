@@ -4,43 +4,44 @@
 	"crsid": "0000000108",
 	"department": "BIO",
 	"enrolled": 18,
-	"instructors": [
-		"Kathleen L. Shea"
+	"enrollment_fy": 10,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC",
+		"NSL"
 	],
-	"junior": "2/10",
-	"learningmode": "S",
+	"instructors": [
+		"Shea, Kathleen L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7450",
+			"name": "Shea, Kathleen L."
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_jr": 10,
+	"max_so": 10,
 	"name": "Organismic Biology",
 	"number": 126,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "SC 278",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "SC 278",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "SC 278",
 			"start": "09:05"
 		},
 		{
 			"day": "Tu",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "SC 273",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:10.059123+00:00",
@@ -65,11 +66,58 @@
 		{
 			"_updated": "2020-10-15T15:23:18.065354+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:51.605949+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kathleen L. Shea"
+			],
+			"instructors_full": null,
+			"junior": "2/10",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "SC 278",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "SC 278",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "SC 278",
+					"start": "09:05"
+				},
+				{
+					"day": "Tu",
+					"end": "17:30",
+					"location": "SC 273",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "5/10",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"sophomore": "5/10",
 	"status": "C",
 	"term": 20043,
 	"type": "Research",

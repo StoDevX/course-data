@@ -1,35 +1,37 @@
 {
 	"clbid": "0000103200",
-	"credits": 0.0,
 	"crsid": "0000029283",
 	"department": "NURS",
 	"enrolled": 24,
-	"firstyear": "0/0",
-	"groupid": "0000029265",
+	"enrollment_fy": 0,
+	"enrollment_jr": 22,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Elizabeth Rodgers"
+		"Rodgers, Elizabeth"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27235",
+			"name": "Rodgers, Elizabeth"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_fy": 0,
+	"max_so": 0,
+	"max_sr": 2,
 	"name": "Holistic Health Lab",
 	"number": 211,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "HH 215",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
+			"day": "TTh",
+			"end": "0300PM",
 			"location": "HH 215",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-04-28T23:00:25.691503+00:00",
@@ -76,11 +78,48 @@
 		{
 			"_updated": "2021-03-02T16:51:33.801774+00:00",
 			"max": 30
+		},
+		{
+			"_updated": "2026-08-23T03:03:50.226777+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000029265",
+			"instructors": [
+				"Elizabeth Rodgers"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "HH 215",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "HH 215",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/2",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/2",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20151,
 	"type": "Lab",

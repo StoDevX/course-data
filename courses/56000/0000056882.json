@@ -1,31 +1,90 @@
 {
-	"clbid": 56882,
+	"clbid": "0000056882",
 	"credits": 1.0,
-	"crsid": 762,
-	"departments": [
-		"MATH"
+	"crsid": "0000000762",
+	"department": "MATH",
+	"description": [
+		"Students work intensively in a special topic of analytic character. Topics vary from year to year. May be repeated if topics are different. Offered periodically."
 	],
-	"description": "Students work intensively in a special topic of analytic character. Topics vary from year to year. May be repeated if topics are different. Offered periodically.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Jill Dietz",
-		"Kristina Garrett"
+		"Dietz, Jill",
+		"Garrett, Tina"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1380",
+			"name": "Dietz, Jill"
+		},
+		{
+			"fsnum": "17527",
+			"name": "Garrett, Tina"
+		}
 	],
 	"level": 300,
-	"locations": [
-		"SC 188",
-		"SC 188"
-	],
+	"max": 18,
 	"name": "Sem: Topics in Math",
 	"number": 382,
+	"offerings": [
+		{
+			"day": "Tu",
+			"end": "0110PM",
+			"location": "SC 188",
+			"start": "11:45"
+		},
+		{
+			"day": "Th",
+			"end": "0205PM",
+			"location": "SC 188",
+			"start": "12:45"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:30.904605+00:00",
+			"clbid": 56882,
+			"crsid": 762,
+			"department": null,
+			"departments": [
+				"MATH"
+			],
+			"description": "Students work intensively in a special topic of analytic character. Topics vary from year to year. May be repeated if topics are different. Offered periodically.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Jill Dietz",
+				"Kristina Garrett"
+			],
+			"instructors_full": null,
+			"locations": [
+				"SC 188",
+				"SC 188"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"section": null,
+			"times": [
+				"T 1145-0110PM",
+				"Th 1245-0205PM"
+			]
+		}
+	],
 	"semester": 1,
 	"status": "X",
 	"term": 20071,
-	"times": [
-		"T 1145-0110PM",
-		"Th 1245-0205PM"
-	],
 	"title": "Topics in Analytic Mathematics",
 	"type": "Seminar",
 	"year": 2007

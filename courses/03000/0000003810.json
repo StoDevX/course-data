@@ -4,24 +4,31 @@
 	"crsid": "0000000209",
 	"department": "CHEM",
 	"enrolled": 1,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Tom Detwiler"
+		"Detwiler, Tom"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14134",
+			"name": "Detwiler, Tom"
+		}
+	],
 	"level": 300,
-	"max": 999,
 	"name": "Experimental Biochem",
 	"number": 373,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "17:30",
+			"end": "0530PM",
 			"location": "SC 344",
-			"start": "13:30"
+			"start": "01:30"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.483817+00:00",
@@ -40,6 +47,35 @@
 		{
 			"_updated": "2025-02-08T02:41:31.604542+00:00",
 			"type": "Research"
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.778118+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Tom Detwiler"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "17:30",
+					"location": "SC 344",
+					"start": "13:30"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

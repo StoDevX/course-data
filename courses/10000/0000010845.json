@@ -7,23 +7,29 @@
 		"Beginning level archers learn shooting skills. Students have opportunities for shooting both recurve and compound bows."
 	],
 	"enrolled": 24,
-	"instructors": [
-		"William Thornton"
+	"enrollment_fy": 0,
+	"enrollment_jr": 4,
+	"enrollment_so": 3,
+	"enrollment_sr": 17,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thornton, William"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8371",
+			"name": "Thornton, William"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Archery",
 	"number": 101,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SAC_FH",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
+			"day": "MW",
 			"end": "08:55",
 			"location": "SAC_FH",
 			"start": "08:00"
@@ -45,6 +51,38 @@
 		{
 			"_updated": "2020-10-15T15:23:20.044935+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:01.374059+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"William Thornton"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SAC_FH",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SAC_FH",
+					"start": "08:00"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

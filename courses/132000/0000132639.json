@@ -1,13 +1,21 @@
 {
 	"clbid": "0000132639",
-	"credits": 0.0,
 	"crsid": "0000029283",
 	"department": "NURS",
 	"enrolled": 8,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 8,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Susie Johnson"
+		"Johnson, Susie"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "29203",
+			"name": "Johnson, Susie"
+		}
+	],
 	"level": 200,
 	"max": 0,
 	"name": "Holistic Health Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "12:00",
+			"end": "1200PM",
 			"location": "RNS 160D",
 			"start": "10:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2020-10-15T15:24:16.996763+00:00",
@@ -63,6 +70,34 @@
 			"firstyear": "0/0",
 			"junior": "0/0",
 			"senior": "0/0"
+		},
+		{
+			"_updated": "2026-08-23T03:04:39.018229+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Susie Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "12:00",
+					"location": "RNS 160D",
+					"start": "10:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

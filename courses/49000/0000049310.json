@@ -1,30 +1,38 @@
 {
 	"clbid": "0000049310",
-	"credits": 0.0,
 	"crsid": "0000017307",
 	"department": "CHEM",
 	"enrolled": 26,
-	"firstyear": "3/0",
-	"groupid": "0000000181",
+	"enrollment_fy": 3,
+	"enrollment_jr": 10,
+	"enrollment_so": 4,
+	"enrollment_sr": 9,
 	"instructors": [
-		"Douglas J. Beussman"
+		"Beussman, Douglas J."
 	],
-	"junior": "10/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15745",
+			"name": "Beussman, Douglas J."
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Forensic Science Lab",
 	"number": 107,
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "SC 371",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.617094+00:00",
@@ -46,11 +54,43 @@
 		{
 			"_updated": "2020-10-15T15:23:21.895767+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:05.949447+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "3/0",
+			"groupid": "0000000181",
+			"instructors": [
+				"Douglas J. Beussman"
+			],
+			"instructors_full": null,
+			"junior": "10/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "SC 371",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "9/0",
+			"sophomore": "4/0",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "9/0",
-	"sophomore": "4/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

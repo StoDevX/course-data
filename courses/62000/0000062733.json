@@ -1,15 +1,21 @@
 {
 	"clbid": "0000062733",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 30,
-	"groupid": "0000000194",
-	"grouptype": "2",
+	"enrollment_fy": 21,
+	"enrollment_jr": 1,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Neil Palosaari"
+		"Palosaari, Neil"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "20399",
+			"name": "Palosaari, Neil"
+		}
+	],
 	"level": 100,
 	"max": 27,
 	"name": "Chem Reactions/Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 350",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:37.707627+00:00",
@@ -38,6 +43,36 @@
 		{
 			"_updated": "2020-10-15T15:23:32.343392+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:53.643524+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"grouptype": "2",
+			"instructors": [
+				"Neil Palosaari"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 350",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "G",

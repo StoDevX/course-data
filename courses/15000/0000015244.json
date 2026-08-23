@@ -4,31 +4,39 @@
 	"crsid": "0000001103",
 	"department": "PSCI",
 	"enrolled": 28,
+	"enrollment_fy": 13,
+	"enrollment_jr": 2,
+	"enrollment_so": 9,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"junior": "2/11",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 11,
+	"max_so": 9,
+	"max_sr": 15,
 	"name": "American Government",
 	"number": 111,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "M 2",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "M 2",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:13.940209+00:00",
@@ -56,12 +64,44 @@
 		{
 			"_updated": "2020-10-15T15:22:46.796556+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:44.456033+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"junior": "2/11",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "M 2",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "M 2",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "4/15",
+			"sophomore": "9/9",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "4/15",
-	"sophomore": "9/9",
 	"status": "O",
 	"term": 19941,
 	"type": "Research",

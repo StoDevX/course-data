@@ -1,15 +1,26 @@
 {
 	"clbid": "0000164860",
-	"credits": 0.0,
 	"crsid": "0000027684",
 	"department": "MATH",
-	"enrolled": 13,
-	"groupid": "0000000743",
+	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Norman Lee",
-		"Erin M. Ellefsen"
+		"Ellefsen, Erin M.",
+		"Lee, Norman"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002457",
+			"name": "Ellefsen, Erin M."
+		},
+		{
+			"fsnum": "29095",
+			"name": "Lee, Norman"
+		}
+	],
 	"level": 200,
 	"max": 22,
 	"name": "Math of Biology Lab",
@@ -17,13 +28,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "15:00",
+			"end": "0300PM",
 			"location": "RNS 394",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2025-02-13T02:49:47.826629+00:00",
@@ -53,6 +63,38 @@
 		{
 			"_updated": "2025-11-08T02:58:51.886637+00:00",
 			"enrolled": 11
+		},
+		{
+			"_updated": "2026-08-23T03:05:52.729307+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrolled": 13,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000743",
+			"instructors": [
+				"Norman Lee",
+				"Erin M. Ellefsen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "RNS 394",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

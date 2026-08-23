@@ -4,53 +4,41 @@
 	"crsid": "0000019755",
 	"department": "ENVST",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"instructors": [
-		"Larry L. Rasmussen"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 2,
+	"enrollment_sr": 12,
+	"gereqs": [
+		"EIN"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Rasmussen, Larry L."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "19326",
+			"name": "Rasmussen, Larry L."
+		}
+	],
 	"level": 200,
 	"max": 26,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Top: Ecol, Rel, & Gl Citi",
 	"notes": [
-		"Prerequisite: Completion of BTS-T requirement.",
+		"Prerequisite: Completion of BTS-T requirement.                                  ",
 		"Open to Juniors and Seniors only."
 	],
 	"number": 282,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "15:00",
+			"day": "M-F",
+			"end": "0300PM",
 			"location": "OM 021",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "15:00",
-			"location": "OM 021",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "15:00",
-			"location": "OM 021",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "15:00",
-			"location": "OM 021",
-			"start": "13:00"
-		},
-		{
-			"day": "Fr",
-			"end": "15:00",
-			"location": "OM 021",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": "Completion of BTS-T requirement.",
 	"revisions": [
 		{
 			"_updated": "2018-02-02T23:48:49.714202+00:00",
@@ -74,10 +62,68 @@
 		{
 			"_updated": "2020-10-15T15:23:27.842129+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:32.721332+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Larry L. Rasmussen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Prerequisite: Completion of BTS-T requirement.",
+				"Open to Juniors and Seniors only."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:00",
+					"location": "OM 021",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "15:00",
+					"location": "OM 021",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "15:00",
+					"location": "OM 021",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "15:00",
+					"location": "OM 021",
+					"start": "13:00"
+				},
+				{
+					"day": "Fr",
+					"end": "15:00",
+					"location": "OM 021",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": "Completion of BTS-T requirement.",
+			"section": null,
+			"sophomore": "2/0",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"sophomore": "2/0",
 	"status": "C",
 	"term": 20072,
 	"type": "Topic",

@@ -4,37 +4,39 @@
 	"crsid": "0000000397",
 	"department": "ENGL",
 	"enrolled": 32,
-	"instructors": [
-		"Karen E. Marsalek",
-		"Karen Cherewatuk"
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 30,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Marsalek, Karen E.",
+		"Cherewatuk, Karen"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10015",
+			"name": "Marsalek, Karen E."
+		},
+		{
+			"fsnum": "1076",
+			"name": "Cherewatuk, Karen"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Lit in Engl to 1650",
 	"number": 221,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "L 525",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "L 525",
 			"start": "09:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:48.828097+00:00",
@@ -49,6 +51,48 @@
 		{
 			"_updated": "2020-10-15T15:23:06.198468+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:23.637632+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Karen E. Marsalek",
+				"Karen Cherewatuk"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "L 525",
+					"start": "09:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

@@ -7,16 +7,29 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and during January term. Prerequisite: MATH 119, MATH 120 or CSCI 221."
 	],
 	"enrolled": 24,
+	"enrollment_fy": 8,
+	"enrollment_jr": 3,
+	"enrollment_so": 12,
+	"enrollment_sr": 1,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Daniel Stoertz"
+		"Stoertz, Daniel"
 	],
-	"junior": "3/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "34023",
+			"name": "Stoertz, Daniel"
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 3,
+	"max_so": 11,
+	"max_sr": 2,
 	"name": "Elem Linear Algebra",
 	"notes": [
 		"This course has class-year limits."
@@ -24,22 +37,10 @@
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "RNS 204",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "RNS 204",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "RNS 204",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
@@ -186,12 +187,52 @@
 		{
 			"_updated": "2025-11-08T02:58:50.503526+00:00",
 			"sophomore": "11/11"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.184376+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Daniel Stoertz"
+			],
+			"instructors_full": null,
+			"junior": "3/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "RNS 204",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "RNS 204",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "RNS 204",
+					"start": "14:00"
+				}
+			],
+			"senior": "1/2",
+			"sophomore": "12/11"
 		}
 	],
 	"section": "E",
 	"semester": 1,
-	"senior": "1/2",
-	"sophomore": "12/11",
 	"status": "C",
 	"term": 20251,
 	"title": "Elementary Linear Algebra",

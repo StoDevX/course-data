@@ -4,31 +4,38 @@
 	"crsid": "0000000728",
 	"department": "MATH",
 	"enrolled": 38,
-	"instructors": [
-		"Kay E. Smith"
+	"enrollment_fy": 13,
+	"enrollment_jr": 4,
+	"enrollment_so": 8,
+	"enrollment_sr": 13,
+	"gereqs": [
+		"MAR"
 	],
-	"junior": "4/5",
-	"learningmode": "S",
+	"instructors": [
+		"Smith, Kay E."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7593",
+			"name": "Smith, Kay E."
+		}
+	],
 	"level": 100,
 	"max": 35,
+	"max_jr": 5,
+	"max_so": 15,
+	"max_sr": 5,
 	"name": "Gateways/Mathematics",
 	"number": 117,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "SC 186",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "SC 186",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.636051+00:00",
@@ -56,11 +63,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.459936+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.686157+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Kay E. Smith"
+			],
+			"instructors_full": null,
+			"junior": "4/5",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "SC 186",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "SC 186",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "13/5",
+			"sophomore": "8/15",
+			"title": null
 		}
 	],
 	"semester": 3,
-	"senior": "13/5",
-	"sophomore": "8/15",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

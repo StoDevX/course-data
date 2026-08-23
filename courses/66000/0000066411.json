@@ -1,33 +1,87 @@
 {
-	"clbid": 66411,
+	"clbid": "0000066411",
 	"credits": 1.0,
-	"crsid": 287,
-	"departments": [
-		"CSCI"
+	"crsid": "0000000287",
+	"department": "CSCI",
+	"description": [
+		"The principles of computing make sounds, images, and animations possible on computers. This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, iteration (loop) invariants, levels of naming, computer design, computing ethics. Students apply these concepts daily to create web sites, make music, create and alter images, and produce animations on the computer, individually and in teams."
 	],
-	"description": "The principles of computing make sounds, images, and animations possible on computers. This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, iteration (loop) invariants, levels of naming, computer design, computing ethics. Students apply these concepts daily to create web sites, make music, create and alter images, and produce animations on the computer, individually and in teams.",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"AQR"
+		"AQR",
+		"MAR"
 	],
 	"instructors": [
-		"Alexander Woo"
+		"Woo, Alexander"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "20199",
+			"name": "Woo, Alexander"
+		}
 	],
 	"level": 100,
-	"locations": [
-		"RNS 203"
-	],
+	"max": 20,
 	"name": "Principles Comp Sci",
-	"notes": "This section has been canceled.",
+	"notes": [
+		"This section has been canceled."
+	],
 	"number": 121,
+	"offerings": [
+		{
+			"day": "MWF",
+			"end": "08:55",
+			"location": "RNS 203",
+			"start": "08:00"
+		}
+	],
 	"pn": false,
 	"prerequisites": false,
+	"revisions": [
+		{
+			"_updated": "2026-08-23T03:01:53.970744+00:00",
+			"clbid": 66411,
+			"crsid": 287,
+			"department": null,
+			"departments": [
+				"CSCI"
+			],
+			"description": "The principles of computing make sounds, images, and animations possible on computers. This course introduces students to computer science (CS), a field devoted to creative problem solving with computers. Students explore fundamental concepts, including recursion, iteration, object-oriented software design, algorithm efficiency, iteration (loop) invariants, levels of naming, computer design, computing ethics. Students apply these concepts daily to create web sites, make music, create and alter images, and produce animations on the computer, individually and in teams.",
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"AQR"
+			],
+			"instructors": [
+				"Alexander Woo"
+			],
+			"instructors_full": null,
+			"locations": [
+				"RNS 203"
+			],
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This section has been canceled.",
+			"offerings": null,
+			"times": [
+				"MWF 0800-0855"
+			]
+		}
+	],
 	"section": "C",
 	"semester": 3,
 	"status": "X",
 	"term": 20083,
-	"times": [
-		"MWF 0800-0855"
-	],
 	"title": "Principles of Computer Science",
 	"type": "Research",
 	"year": 2008

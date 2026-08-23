@@ -6,31 +6,28 @@
 	"description": [
 		"Students study topics related to the environment. Topics vary from year to year at the discretion of the instructor. Recent topics offered include Ecosystem Research, Landscape Art, Imaging Environmentalism, and Landscape and Regional Change in the Arctic."
 	],
-	"enrolled": 4,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 300,
-	"max": 15,
+	"max": 0,
 	"name": "Top: Advanced Topics ES",
 	"number": 381,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "TBA",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "TBA",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "TBA",
 			"start": "11:50"
 		}
@@ -49,10 +46,47 @@
 		{
 			"_updated": "2021-04-22T17:05:57.117825+00:00",
 			"enrolled": 1
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.868547+00:00",
+			"enrolled": 4,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 15,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "TBA",
+					"start": "11:50"
+				}
+			],
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 1,
-	"status": "O",
+	"status": "X",
 	"term": 20211,
 	"title": "Advanced Research Topics in Environmental Studies",
 	"type": "Topic",

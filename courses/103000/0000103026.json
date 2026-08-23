@@ -1,19 +1,30 @@
 {
-	"clbid": 103026,
+	"clbid": "0000103026",
 	"credits": 0.25,
-	"crsid": 18806,
-	"departments": [
-		"HIST"
-	],
+	"crsid": "0000018806",
+	"department": "HIST",
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 200,
+	"max": 0,
 	"name": "FLC - Latin",
-	"notes": "This FLC section has been canceled.",
+	"notes": [
+		"This FLC section has been canceled."
+	],
 	"number": 204,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-02-10T06:00:55.219504+00:00",
@@ -22,6 +33,31 @@
 			],
 			"notes": null,
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:03:56.416593+00:00",
+			"clbid": 103026,
+			"crsid": 18806,
+			"department": null,
+			"departments": [
+				"HIST"
+			],
+			"description": null,
+			"enrolled": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"max": null,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": "This FLC section has been canceled.",
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

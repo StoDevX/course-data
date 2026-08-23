@@ -4,31 +4,36 @@
 	"crsid": "0000001729",
 	"department": "ENVST",
 	"enrolled": 23,
-	"instructors": [
-		"Charles Jr. Umbanhowar"
+	"enrollment_fy": 0,
+	"enrollment_jr": 5,
+	"enrollment_so": 11,
+	"enrollment_sr": 7,
+	"gereqs": [
+		"NST"
 	],
-	"junior": "5/6",
-	"learningmode": "S",
+	"instructors": [
+		"Umbanhowar, Charles Jr."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8616",
+			"name": "Umbanhowar, Charles Jr."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 6,
 	"name": "Intro: Enviro Studies",
 	"number": 237,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SC 130",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SC 130",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.718277+00:00",
@@ -52,6 +57,41 @@
 		{
 			"_updated": "2020-10-15T15:22:49.568347+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:58.874661+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Jr. Umbanhowar"
+			],
+			"instructors_full": null,
+			"junior": "5/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SC 130",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SC 130",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

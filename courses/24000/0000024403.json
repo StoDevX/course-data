@@ -4,32 +4,39 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 22,
-	"firstyear": "0/0",
-	"instructors": [
-		"Jim Holden"
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 0,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"ORC"
 	],
-	"junior": "12/20",
-	"learningmode": "S",
+	"instructors": [
+		"Holden, Jim"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3420",
+			"name": "Holden, Jim"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_jr": 20,
+	"max_so": 0,
+	"max_sr": 20,
 	"name": "Principles of Educ",
 	"number": 330,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "FH 10",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "FH 10",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:36.625360+00:00",
@@ -61,12 +68,48 @@
 		{
 			"_updated": "2020-10-15T15:23:00.575768+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:59:19.772759+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Jim Holden"
+			],
+			"instructors_full": null,
+			"junior": "12/20",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "FH 10",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"senior": "10/20",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "10/20",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 19983,
 	"type": "Research",

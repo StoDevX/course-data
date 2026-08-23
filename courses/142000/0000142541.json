@@ -7,18 +7,31 @@
 		"This course takes students on an exciting journey back to the world of the ancient Greeks, a land of democracy and tyranny, comedy and tragedy, myth and mystery - and much more. Students explore ancient Greek society from an interdisciplinary perspective, analyzing its literature, art, and ideas in the light of their historical and cultural contexts. The course ranges far, both chronologically and geographically, from the palaces of the Bronze Age to the Library of Alexandria. Offered every other year. Also counts toward majors in Ancient Studies, Greek, and Latin."
 	],
 	"enrolled": 38,
-	"firstyear": "17/9",
+	"enrollment_fy": 17,
+	"enrollment_jr": 4,
+	"enrollment_so": 11,
+	"enrollment_sr": 6,
 	"gereqs": [
+		"ALS-L",
 		"CRE",
-		"GHS"
+		"GHS",
+		"HWC"
 	],
 	"instructors": [
-		"Hilary J. Bouxsein"
+		"Bouxsein, Hilary J."
 	],
-	"junior": "4/9",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "19583",
+			"name": "Bouxsein, Hilary J."
+		}
+	],
 	"level": 200,
 	"max": 36,
+	"max_fy": 9,
+	"max_jr": 9,
+	"max_so": 9,
+	"max_sr": 9,
 	"name": "The World of the Ancient Greeks",
 	"notes": [
 		"This course has class-year limits."
@@ -27,13 +40,13 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "TOH 210",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "TOH 210",
 			"start": "12:45"
 		}
@@ -49,11 +62,48 @@
 				"CRE",
 				"GHS"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:46.644812+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "17/9",
+			"gereqs": [
+				"CRE",
+				"GHS"
+			],
+			"instructors": [
+				"Hilary J. Bouxsein"
+			],
+			"instructors_full": null,
+			"junior": "4/9",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "TOH 210",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "TOH 210",
+					"start": "12:45"
+				}
+			],
+			"section": null,
+			"senior": "6/9",
+			"sophomore": "11/9"
 		}
 	],
 	"semester": 3,
-	"senior": "6/9",
-	"sophomore": "11/9",
 	"status": "C",
 	"term": 20213,
 	"type": "Research",

@@ -4,42 +4,36 @@
 	"crsid": "0000001286",
 	"department": "SOAN",
 	"enrolled": 24,
-	"instructors": [
-		"Grant P. Arndt"
+	"enrollment_fy": 19,
+	"enrollment_jr": 3,
+	"enrollment_so": 2,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Arndt, Grant P."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "16655",
+			"name": "Arndt, Grant P."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Anth of War and Peace",
 	"number": 115,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "16:00",
+			"day": "M-Th",
+			"end": "0400PM",
 			"location": "SH 001",
-			"start": "13:00"
-		},
-		{
-			"day": "Tu",
-			"end": "16:00",
-			"location": "SH 001",
-			"start": "13:00"
-		},
-		{
-			"day": "We",
-			"end": "16:00",
-			"location": "SH 001",
-			"start": "13:00"
-		},
-		{
-			"day": "Th",
-			"end": "16:00",
-			"location": "SH 001",
-			"start": "13:00"
+			"start": "01:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:08.797639+00:00",
@@ -83,6 +77,53 @@
 		{
 			"_updated": "2020-10-15T15:23:17.361686+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:50.439336+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Grant P. Arndt"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "16:00",
+					"location": "SH 001",
+					"start": "13:00"
+				},
+				{
+					"day": "Tu",
+					"end": "16:00",
+					"location": "SH 001",
+					"start": "13:00"
+				},
+				{
+					"day": "We",
+					"end": "16:00",
+					"location": "SH 001",
+					"start": "13:00"
+				},
+				{
+					"day": "Th",
+					"end": "16:00",
+					"location": "SH 001",
+					"start": "13:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

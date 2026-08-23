@@ -1,14 +1,21 @@
 {
 	"clbid": "0000002993",
-	"credits": 0.0,
 	"crsid": "0000000309",
 	"department": "EDUC",
 	"enrolled": 24,
-	"halfcredit": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Mark Storry"
+		"Storry, Mark"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8074",
+			"name": "Storry, Mark"
+		}
+	],
 	"level": 200,
 	"max": 50,
 	"name": "Drugs & Alcohol",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "CAD 305",
-			"start": "19:00"
+			"start": "07:00"
 		}
 	],
 	"pn": true,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:19.308856+00:00",
@@ -43,6 +49,36 @@
 		{
 			"_updated": "2020-10-15T15:23:08.986354+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:32.976156+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"halfcredit": "1",
+			"instructors": [
+				"Mark Storry"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "21:00",
+					"location": "CAD 305",
+					"start": "19:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

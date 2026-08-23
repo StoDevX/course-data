@@ -4,30 +4,36 @@
 	"crsid": "0000000031",
 	"department": "ART",
 	"enrolled": 33,
-	"instructors": [
-		"Nancy M. Thompson"
+	"enrollment_fy": 12,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 11,
+	"gereqs": [
+		"ALS-A",
+		"HWC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Thompson, Nancy M."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "13137",
+			"name": "Thompson, Nancy M."
+		}
+	],
 	"level": 100,
 	"max": 30,
 	"name": "Ancient--Medieval",
 	"number": 150,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "CAD 305",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "CAD 305",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:29:08.802761+00:00",
@@ -48,6 +54,41 @@
 		{
 			"_updated": "2020-10-15T15:23:07.569665+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:29.163895+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Nancy M. Thompson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CAD 305",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "CAD 305",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

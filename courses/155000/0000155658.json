@@ -1,33 +1,38 @@
 {
 	"clbid": "0000155658",
-	"credits": 0.0,
 	"crsid": "0000038633",
 	"department": "EDUC",
 	"enrolled": 22,
-	"groupid": "0000000321",
-	"grouptype": "2",
+	"enrollment_fy": 0,
+	"enrollment_jr": 3,
+	"enrollment_so": 19,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Courtney A. Humm"
+		"Humm, Courtney A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15009",
+			"name": "Humm, Courtney A."
+		}
+	],
 	"level": 300,
 	"max": 18,
 	"name": "Plan, Instruct, &  Assessment Lab",
 	"notes": [
-		"Taken concurrently with EDUC 330.",
+		"Taken concurrently with EDUC 330.                                               ",
 		"Meets only on April 10, 17, and 24."
 	],
 	"number": 330,
 	"offerings": [
 		{
 			"day": "We",
-			"end": "21:00",
+			"end": "0900PM",
 			"location": "TOH 214",
-			"start": "18:30"
+			"start": "06:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2023-11-02T02:21:01.476786+00:00",
@@ -53,6 +58,40 @@
 		{
 			"_updated": "2023-12-24T02:26:14.264996+00:00",
 			"enrolled": 21
+		},
+		{
+			"_updated": "2026-08-23T03:05:18.879411+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000321",
+			"grouptype": "2",
+			"instructors": [
+				"Courtney A. Humm"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Taken concurrently with EDUC 330.",
+				"Meets only on April 10, 17, and 24."
+			],
+			"offerings": [
+				{
+					"day": "We",
+					"end": "21:00",
+					"location": "TOH 214",
+					"start": "18:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

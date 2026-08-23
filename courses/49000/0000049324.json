@@ -7,32 +7,31 @@
 		"This course is an introduction to the mathematics of randomness and games of chance. Topics include combinatorial analysis, elementary probability measures, conditional probability, random variables, special distributions, expectations, generating functions and limit theorems. Prerequisite: Mathematics 126 or 128. Offered both semesters."
 	],
 	"enrolled": 16,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 5,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Amelia J. Taylor"
+		"Taylor, Amelia J."
 	],
-	"junior": "7/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "15808",
+			"name": "Taylor, Amelia J."
+		}
+	],
 	"level": 200,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Probability Theory",
 	"number": 262,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "SC 274",
-			"start": "11:50"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "SC 274",
-			"start": "11:50"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "SC 274",
 			"start": "11:50"
 		}
@@ -64,12 +63,50 @@
 		{
 			"_updated": "2020-10-15T15:23:21.901865+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:06.376059+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"Amelia J. Taylor"
+			],
+			"instructors_full": null,
+			"junior": "7/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "SC 274",
+					"start": "11:50"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SC 274",
+					"start": "11:50"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "SC 274",
+					"start": "11:50"
+				}
+			],
+			"senior": "4/0",
+			"sophomore": "5/0"
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "4/0",
-	"sophomore": "5/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Research",

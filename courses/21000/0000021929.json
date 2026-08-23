@@ -4,16 +4,44 @@
 	"crsid": "0000000147",
 	"department": "BIO",
 	"enrolled": 10,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 1,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Louis Henry Kermott"
+		"Kermott, Louis Henry"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4284",
+			"name": "Kermott, Louis Henry"
+		}
+	],
 	"level": 200,
 	"max": 10,
 	"name": "Desert Ecology",
 	"number": 282,
+	"offerings": [
+		{
+			"day": "M-Th",
+			"end": "0200PM",
+			"location": "SC 248",
+			"start": "01:00"
+		},
+		{
+			"day": "M-Th",
+			"end": "10:00",
+			"location": "SC 248",
+			"start": "08:30"
+		},
+		{
+			"day": "M-Th",
+			"end": "11:40",
+			"location": "SC 248",
+			"start": "10:40"
+		}
+	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:30.039401+00:00",
@@ -105,6 +133,27 @@
 		{
 			"_updated": "2020-10-15T15:22:57.014615+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:15.100862+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Louis Henry Kermott"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

@@ -4,30 +4,36 @@
 	"crsid": "0000000979",
 	"department": "PHIL",
 	"enrolled": 27,
-	"instructors": [
-		"Charles Taliaferro"
+	"enrollment_fy": 0,
+	"enrollment_jr": 11,
+	"enrollment_so": 8,
+	"enrollment_sr": 8,
+	"gereqs": [
+		"EIN",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Taliaferro, Charles"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8230",
+			"name": "Taliaferro, Charles"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Ethics/The Good Life",
 	"number": 252,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "M 31",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "M 31",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.850373+00:00",
@@ -42,6 +48,40 @@
 		{
 			"_updated": "2020-10-15T15:22:49.655677+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:19.603476+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Charles Taliaferro"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "M 31",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "M 31",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

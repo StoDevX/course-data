@@ -1,15 +1,21 @@
 {
 	"clbid": "0000068614",
-	"credits": 0.0,
 	"crsid": "0000000195",
 	"department": "CHEM",
 	"enrolled": 28,
-	"groupid": "0000000194",
-	"grouptype": "1",
+	"enrollment_fy": 9,
+	"enrollment_jr": 3,
+	"enrollment_so": 13,
+	"enrollment_sr": 3,
 	"instructors": [
-		"Mary Walczak"
+		"Walczak, Mary"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8868",
+			"name": "Walczak, Mary"
+		}
+	],
 	"level": 100,
 	"max": 31,
 	"name": "Chem Reactions/Lab",
@@ -17,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "17:00",
+			"end": "0500PM",
 			"location": "RNS 350",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:45.585659+00:00",
@@ -46,6 +51,36 @@
 		{
 			"_updated": "2021-03-02T16:51:14.322909+00:00",
 			"max": 27
+		},
+		{
+			"_updated": "2026-08-23T03:02:15.492528+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000194",
+			"grouptype": "1",
+			"instructors": [
+				"Mary Walczak"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "17:00",
+					"location": "RNS 350",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

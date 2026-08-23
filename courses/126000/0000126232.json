@@ -1,14 +1,21 @@
 {
 	"clbid": "0000126232",
-	"credits": 0.0,
 	"crsid": "0000001267",
 	"department": "RUSSN",
 	"enrolled": 6,
-	"groupid": "0000001266",
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 5,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Anna Pearce"
+		"Pearce, Anna"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "30199",
+			"name": "Pearce, Anna"
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Intermed Russian II Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:15",
+			"end": "0215PM",
 			"location": "TOH 110",
-			"start": "13:20"
+			"start": "01:20"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2019-02-14T05:09:57.982694+00:00",
@@ -58,6 +64,36 @@
 		{
 			"_updated": "2020-10-15T15:24:13.037636+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:32.411072+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001266",
+			"instructors": [
+				"Anna Pearce"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:15",
+					"location": "TOH 110",
+					"start": "13:20"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

@@ -4,38 +4,36 @@
 	"crsid": "0000000039",
 	"department": "ART",
 	"enrolled": 12,
-	"firstyear": "0/0",
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 4,
+	"enrollment_sr": 2,
 	"instructors": [
-		"John Saurer"
+		"Saurer, John"
 	],
-	"junior": "6/4",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "7064",
+			"name": "Saurer, John"
+		}
+	],
 	"level": 200,
 	"max": 16,
+	"max_fy": 0,
+	"max_jr": 4,
+	"max_so": 4,
+	"max_sr": 3,
 	"name": "Printmkg: Intaglio/Mono",
 	"number": 227,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "12:45",
-			"location": "CAD 212",
-			"start": "10:45"
-		},
-		{
-			"day": "We",
-			"end": "12:45",
-			"location": "CAD 212",
-			"start": "10:45"
-		},
-		{
-			"day": "Fr",
-			"end": "12:45",
+			"day": "MWF",
+			"end": "1245PM",
 			"location": "CAD 212",
 			"start": "10:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:39:37.169743+00:00",
@@ -73,11 +71,53 @@
 		{
 			"_updated": "2020-10-15T15:23:10.419727+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.749714+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"instructors": [
+				"John Saurer"
+			],
+			"instructors_full": null,
+			"junior": "6/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "12:45",
+					"location": "CAD 212",
+					"start": "10:45"
+				},
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "CAD 212",
+					"start": "10:45"
+				},
+				{
+					"day": "Fr",
+					"end": "12:45",
+					"location": "CAD 212",
+					"start": "10:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/3",
+			"sophomore": "4/4",
+			"title": null
 		}
 	],
 	"semester": 1,
-	"senior": "2/3",
-	"sophomore": "4/4",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

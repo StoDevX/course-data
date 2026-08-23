@@ -4,36 +4,35 @@
 	"crsid": "0000002447",
 	"department": "SWRK",
 	"enrolled": 10,
-	"instructors": [
-		"Naurine Lennox"
+	"enrollment_fy": 0,
+	"enrollment_jr": 7,
+	"enrollment_so": 1,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"MCS-G",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Lennox, Naurine"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4761",
+			"name": "Lennox, Naurine"
+		}
+	],
 	"level": 200,
-	"max": 999,
 	"name": "Soc Welfare/Glob Comm",
 	"number": 231,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "YH 130",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "YH 130",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "YH 130",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:24.711448+00:00",
@@ -48,6 +47,48 @@
 		{
 			"_updated": "2020-10-15T15:22:53.776190+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:56:56.054470+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Naurine Lennox"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "YH 130",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "YH 130",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "YH 130",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

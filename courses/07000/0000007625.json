@@ -4,10 +4,19 @@
 	"crsid": "0000000035",
 	"department": "ART",
 	"enrolled": 14,
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 1,
+	"enrollment_sr": 4,
 	"instructors": [
-		"Irve Dell"
+		"Dell, Irve"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "1369",
+			"name": "Dell, Irve"
+		}
+	],
 	"level": 200,
 	"max": 15,
 	"name": "Sculpt: Metal Casting",
@@ -15,19 +24,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "CAD 105",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "15:45",
+			"end": "0345PM",
 			"location": "CAD 105",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-05-30T15:43:11.734154+00:00",
@@ -49,6 +57,40 @@
 		{
 			"_updated": "2020-10-15T15:23:16.397553+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:46.662165+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Irve Dell"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "CAD 105",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "15:45",
+					"location": "CAD 105",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

@@ -4,10 +4,24 @@
 	"crsid": "0000000009",
 	"department": "AMST",
 	"enrolled": 29,
-	"instructors": [
-		"Judy Kutulas"
+	"enrollment_fy": 0,
+	"enrollment_jr": 8,
+	"enrollment_so": 3,
+	"enrollment_sr": 18,
+	"gereqs": [
+		"HWC",
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Kutulas, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "4583",
+			"name": "Kutulas, Judy"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Top: Amer Adolescence",
@@ -15,19 +29,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "HH 413",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "HH 413",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:58.817130+00:00",
@@ -42,6 +55,41 @@
 		{
 			"_updated": "2020-10-15T15:23:11.914127+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:38.595682+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Judy Kutulas"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "HH 413",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "HH 413",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

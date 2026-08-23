@@ -1,14 +1,21 @@
 {
 	"clbid": "0000099644",
-	"credits": 0.0,
 	"crsid": "0000027992",
 	"department": "MATH",
 	"enrolled": 23,
-	"groupid": "0000027943",
+	"enrollment_fy": 17,
+	"enrollment_jr": 1,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Bruce Hanson"
+		"Hanson, Bruce"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "3033",
+			"name": "Hanson, Bruce"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Calc I with Review Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "RNS 206",
 			"start": "12:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-03-26T04:19:10.864458+00:00",
@@ -60,6 +66,35 @@
 		{
 			"_updated": "2021-03-02T16:51:33.446996+00:00",
 			"max": 25
+		},
+		{
+			"_updated": "2026-08-23T03:03:49.879368+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000027943",
+			"instructors": [
+				"Bruce Hanson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "RNS 206",
+					"start": "12:45"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

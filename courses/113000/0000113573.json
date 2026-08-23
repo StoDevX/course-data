@@ -1,22 +1,30 @@
 {
 	"clbid": "0000113573",
-	"credits": 0.0,
 	"crsid": "0000000115",
 	"department": "BIO",
 	"enrolled": 24,
-	"firstyear": "5/6",
-	"groupid": "0000000114",
+	"enrollment_fy": 5,
+	"enrollment_jr": 9,
+	"enrollment_so": 5,
+	"enrollment_sr": 5,
 	"instructors": [
-		"John Giannini"
+		"Giannini, John"
 	],
-	"junior": "9/6",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2593",
+			"name": "Giannini, John"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 6,
+	"max_jr": 6,
+	"max_so": 6,
+	"max_sr": 6,
 	"name": "Thinking & Doing Bio Lab",
 	"number": 135,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-10-05T01:13:50.582179+00:00",
@@ -62,11 +70,35 @@
 		{
 			"_updated": "2020-10-15T15:24:04.188525+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:04:17.772949+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "5/6",
+			"groupid": "0000000114",
+			"instructors": [
+				"John Giannini"
+			],
+			"instructors_full": null,
+			"junior": "9/6",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"senior": "5/6",
+			"sophomore": "5/6",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "5/6",
-	"sophomore": "5/6",
 	"status": "C",
 	"term": 20172,
 	"type": "Lab",

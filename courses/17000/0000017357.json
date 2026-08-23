@@ -4,10 +4,19 @@
 	"crsid": "0000001096",
 	"department": "PHYS",
 	"enrolled": 11,
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 0,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Roger Proksch"
+		"Proksch, Roger"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "6428",
+			"name": "Proksch, Roger"
+		}
+	],
 	"level": 300,
 	"max": 12,
 	"name": "Adv Physics Lab (374)",
@@ -15,13 +24,12 @@
 	"offerings": [
 		{
 			"day": "Mo",
-			"end": "15:55",
+			"end": "0355PM",
 			"location": "SC 151",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:19.904709+00:00",
@@ -36,6 +44,34 @@
 		{
 			"_updated": "2020-10-15T15:22:49.691783+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:55:21.759238+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Roger Proksch"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "15:55",
+					"location": "SC 151",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 1,

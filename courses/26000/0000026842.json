@@ -4,31 +4,39 @@
 	"crsid": "0000001289",
 	"department": "SOAN",
 	"enrolled": 35,
-	"instructors": [
-		"Phyllis G. Myers"
+	"enrollment_fy": 15,
+	"enrollment_jr": 2,
+	"enrollment_so": 15,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-D"
 	],
-	"junior": "2/4",
-	"learningmode": "S",
+	"instructors": [
+		"Myers, Phyllis G."
+	],
+	"instructors_full": [
+		{
+			"fsnum": "5438",
+			"name": "Myers, Phyllis G."
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_jr": 4,
+	"max_so": 14,
+	"max_sr": 3,
 	"name": "Intro to Sociology",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "H 403",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "H 403",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.991613+00:00",
@@ -56,12 +64,47 @@
 		{
 			"_updated": "2020-10-15T15:23:03.594012+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:12.698093+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Phyllis G. Myers"
+			],
+			"instructors_full": null,
+			"junior": "2/4",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "H 403",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "H 403",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "3/3",
+			"sophomore": "15/14",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "3/3",
-	"sophomore": "15/14",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

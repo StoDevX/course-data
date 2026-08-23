@@ -4,16 +4,27 @@
 	"crsid": "0000002226",
 	"department": "PHYS",
 	"enrolled": 8,
+	"enrollment_fy": 6,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
+	"gereqs": [
+		"NSC"
+	],
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
 	"max": 24,
 	"name": "Light",
 	"number": 110,
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:14.716161+00:00",
@@ -28,6 +39,24 @@
 		{
 			"_updated": "2020-10-15T15:22:47.298771+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:54:45.648985+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 2,

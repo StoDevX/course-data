@@ -6,14 +6,25 @@
 	"description": [
 		"The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Depending on course content, can also count toward Chinese and/or Japanese majors. Prerequisite: determined by instructor."
 	],
-	"enrolled": 6,
+	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Joanne Quimby"
+		"Quimby, Joanne"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "28070",
+			"name": "Quimby, Joanne"
+		}
+	],
 	"level": 200,
 	"max": 24,
 	"name": "Top: Body in E Asian Women's Lit",
@@ -62,10 +73,32 @@
 		{
 			"_updated": "2025-11-15T03:02:47.854019+00:00",
 			"enrolled": 7
+		},
+		{
+			"_updated": "2026-08-23T03:05:32.989008+00:00",
+			"enrolled": 6,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Joanne Quimby"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"section": null,
+			"status": "O"
 		}
 	],
 	"semester": 3,
-	"status": "O",
+	"status": "X",
 	"term": 20253,
 	"title": "Topics in Asian Studies",
 	"type": "Topic",

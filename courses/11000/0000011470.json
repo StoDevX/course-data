@@ -4,80 +4,51 @@
 	"crsid": "0000000803",
 	"department": "MUSIC",
 	"enrolled": 21,
-	"firstyear": "16/11",
-	"instructors": [
-		"Linda Berger"
+	"enrollment_fy": 16,
+	"enrollment_jr": 1,
+	"enrollment_so": 2,
+	"enrollment_sr": 2,
+	"gereqs": [
+		"ALS-A"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"Berger, Linda"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "417",
+			"name": "Berger, Linda"
+		}
+	],
 	"level": 100,
 	"max": 24,
+	"max_fy": 11,
+	"max_jr": 0,
+	"max_so": 10,
+	"max_sr": 0,
 	"name": "The Music Spectrum",
 	"number": 130,
 	"offerings": [
 		{
-			"day": "Mo",
+			"day": "M-F",
 			"end": "11:30",
 			"location": "CHM 222",
 			"start": "10:40"
 		},
 		{
-			"day": "Tu",
-			"end": "11:30",
-			"location": "CHM 222",
-			"start": "10:40"
-		},
-		{
-			"day": "We",
-			"end": "11:30",
-			"location": "CHM 222",
-			"start": "10:40"
-		},
-		{
-			"day": "Th",
-			"end": "11:30",
-			"location": "CHM 222",
-			"start": "10:40"
-		},
-		{
-			"day": "Fr",
-			"end": "11:30",
-			"location": "CHM 222",
-			"start": "10:40"
-		},
-		{
-			"day": "Mo",
-			"end": "12:40",
+			"day": "MWF",
+			"end": "1240PM",
 			"location": "CHM 224",
 			"start": "11:40"
 		},
 		{
-			"day": "We",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "11:40"
-		},
-		{
-			"day": "Fr",
-			"end": "12:40",
-			"location": "CHM 224",
-			"start": "11:40"
-		},
-		{
-			"day": "Tu",
-			"end": "12:40",
-			"location": "RML 477",
-			"start": "11:40"
-		},
-		{
-			"day": "Th",
-			"end": "12:40",
+			"day": "TTh",
+			"end": "1240PM",
 			"location": "RML 477",
 			"start": "11:40"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:14.704812+00:00",
@@ -109,11 +80,96 @@
 		{
 			"_updated": "2020-10-15T15:23:20.746583+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:04.410352+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "16/11",
+			"gereqs": null,
+			"instructors": [
+				"Linda Berger"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "11:30",
+					"location": "CHM 222",
+					"start": "10:40"
+				},
+				{
+					"day": "Tu",
+					"end": "11:30",
+					"location": "CHM 222",
+					"start": "10:40"
+				},
+				{
+					"day": "We",
+					"end": "11:30",
+					"location": "CHM 222",
+					"start": "10:40"
+				},
+				{
+					"day": "Th",
+					"end": "11:30",
+					"location": "CHM 222",
+					"start": "10:40"
+				},
+				{
+					"day": "Fr",
+					"end": "11:30",
+					"location": "CHM 222",
+					"start": "10:40"
+				},
+				{
+					"day": "Mo",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "11:40"
+				},
+				{
+					"day": "We",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "11:40"
+				},
+				{
+					"day": "Fr",
+					"end": "12:40",
+					"location": "CHM 224",
+					"start": "11:40"
+				},
+				{
+					"day": "Tu",
+					"end": "12:40",
+					"location": "RML 477",
+					"start": "11:40"
+				},
+				{
+					"day": "Th",
+					"end": "12:40",
+					"location": "RML 477",
+					"start": "11:40"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"senior": "2/0",
+			"sophomore": "2/10",
+			"title": null
 		}
 	],
 	"semester": 2,
-	"senior": "2/0",
-	"sophomore": "2/10",
 	"status": "C",
 	"term": 20052,
 	"type": "Research",

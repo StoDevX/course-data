@@ -7,35 +7,36 @@
 		"This two-semester in-depth course addresses topics in classical and modern physics using algebra, geometry, and some calculus. The course is well suited for students of biology or chemistry or for those desiring a thorough introduction beyond the high school level. Physics 124 takes up the Newtonian mechanics of point particles (motion, mass, force, torque, energy, momentum, and gravitation), Einstein's reexamination of space time (relativity), and nuclear physics. One laboratory per week. Prerequisite: Mathematics 120 or equivalent. Offered annually in the fall semester."
 	],
 	"enrolled": 63,
-	"firstyear": "0/0",
-	"groupid": "0000001072",
-	"instructors": [
-		"Angela Reisetter"
+	"enrollment_fy": 0,
+	"enrollment_jr": 37,
+	"enrollment_so": 8,
+	"enrollment_sr": 18,
+	"gereqs": [
+		"NSC",
+		"NSL",
+		"SED"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Reisetter, Angela"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "20289",
+			"name": "Reisetter, Angela"
+		}
+	],
 	"level": 100,
 	"max": 66,
+	"max_fy": 0,
 	"name": "Principles Physics I",
 	"notes": [
-		"Students in Physics 124B must also register for one lab Physics 124AL, BL,",
+		"Students in Physics 124B must also register for one lab Physics 124AL, BL,      ",
 		"CL, DL, EL, or FL."
 	],
 	"number": 124,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "10:00",
-			"location": "RNS 210",
-			"start": "09:05"
-		},
-		{
-			"day": "We",
-			"end": "10:00",
-			"location": "RNS 210",
-			"start": "09:05"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "10:00",
 			"location": "RNS 210",
 			"start": "09:05"
@@ -70,6 +71,49 @@
 			"_updated": "2025-10-11T21:36:03.009017+00:00",
 			"gereqs": [
 				"SED"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:02:28.229506+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"groupid": "0000001072",
+			"instructors": [
+				"Angela Reisetter"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"notes": [
+				"Students in Physics 124B must also register for one lab Physics 124AL, BL,",
+				"CL, DL, EL, or FL."
+			],
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				},
+				{
+					"day": "We",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				},
+				{
+					"day": "Fr",
+					"end": "10:00",
+					"location": "RNS 210",
+					"start": "09:05"
+				}
 			]
 		}
 	],

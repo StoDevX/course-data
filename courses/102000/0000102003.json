@@ -1,14 +1,21 @@
 {
 	"clbid": "0000102003",
-	"credits": 0.0,
 	"crsid": "0000001052",
 	"department": "ESTH",
 	"enrolled": 12,
-	"groupid": "0000001051",
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 4,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Daniel Hagen"
+		"Hagen, Daniel"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "2890",
+			"name": "Hagen, Daniel"
+		}
+	],
 	"level": 200,
 	"max": 8,
 	"name": "Prev/Care Sport Injur Lab",
@@ -16,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "We",
-			"end": "12:45",
+			"end": "1245PM",
 			"location": "SAC Tr Rm",
 			"start": "11:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2015-11-12T00:01:25.080603+00:00",
@@ -41,6 +47,35 @@
 		{
 			"_updated": "2020-10-15T15:23:57.957532+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:55.766413+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000001051",
+			"instructors": [
+				"Daniel Hagen"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "We",
+					"end": "12:45",
+					"location": "SAC Tr Rm",
+					"start": "11:50"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

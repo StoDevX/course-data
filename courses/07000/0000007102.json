@@ -4,10 +4,22 @@
 	"crsid": "0000000778",
 	"department": "MGMT",
 	"enrolled": 28,
-	"instructors": [
-		"Siriwan Chutikamoltham"
+	"enrollment_fy": 1,
+	"enrollment_jr": 13,
+	"enrollment_so": 8,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"HBS"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Chutikamoltham, Siriwan"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "15806",
+			"name": "Chutikamoltham, Siriwan"
+		}
+	],
 	"level": 200,
 	"max": 25,
 	"name": "Management",
@@ -15,19 +27,18 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:45",
+			"end": "0245PM",
 			"location": "HH 413",
-			"start": "13:20"
+			"start": "01:20"
 		},
 		{
 			"day": "Th",
-			"end": "15:35",
+			"end": "0335PM",
 			"location": "HH 413",
-			"start": "14:15"
+			"start": "02:15"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:04.404338+00:00",
@@ -42,6 +53,41 @@
 		{
 			"_updated": "2020-10-15T15:23:14.981476+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:43.767060+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Siriwan Chutikamoltham"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:45",
+					"location": "HH 413",
+					"start": "13:20"
+				},
+				{
+					"day": "Th",
+					"end": "15:35",
+					"location": "HH 413",
+					"start": "14:15"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

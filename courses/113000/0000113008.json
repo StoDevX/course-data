@@ -1,28 +1,35 @@
 {
 	"clbid": "0000113008",
-	"credits": 0.0,
 	"crsid": "0000000193",
 	"department": "CHEM",
 	"enrolled": 19,
-	"groupid": "0000000192",
+	"enrollment_fy": 18,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
-		"William C. Solomon"
+		"Solomon, William C."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "27187",
+			"name": "Solomon, William C."
+		}
+	],
 	"level": 100,
 	"max": 16,
+	"max_so": 6,
 	"name": "Struct Chem & Equilib Lab",
 	"number": 125,
 	"offerings": [
 		{
 			"day": "Th",
-			"end": "15:50",
+			"end": "0350PM",
 			"location": "RNS 355",
 			"start": "12:50"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2017-04-13T23:40:12.688393+00:00",
@@ -66,11 +73,40 @@
 		{
 			"_updated": "2021-03-02T16:51:40.689487+00:00",
 			"max": 20
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.496618+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"groupid": "0000000192",
+			"instructors": [
+				"William C. Solomon"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Th",
+					"end": "15:50",
+					"location": "RNS 355",
+					"start": "12:50"
+				}
+			],
+			"prerequisites": false,
+			"sophomore": "0/6",
+			"title": null
 		}
 	],
 	"section": "G",
 	"semester": 1,
-	"sophomore": "0/6",
 	"status": "C",
 	"term": 20171,
 	"type": "Lab",

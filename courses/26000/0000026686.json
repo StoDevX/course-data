@@ -4,36 +4,32 @@
 	"crsid": "0000002210",
 	"department": "PETH",
 	"enrolled": 17,
+	"enrollment_fy": 4,
+	"enrollment_jr": 3,
+	"enrollment_so": 3,
+	"enrollment_sr": 7,
 	"instructors": [
-		"Judy Tegtmeyer"
+		"Tegtmeyer, Judy"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 200,
 	"max": 30,
 	"name": "Dynamics of Wellness",
 	"number": 250,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "SAC 140",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "SAC 140",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "SAC 140",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:44.925878+00:00",
@@ -66,6 +62,46 @@
 			"instructors": [
 				"Judith Tegtmeyer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:11.425025+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "SAC 140",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "SAC 140",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "SAC 140",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

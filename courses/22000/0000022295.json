@@ -1,33 +1,33 @@
 {
 	"clbid": "0000022295",
-	"credits": 0.0,
 	"crsid": "0000000240",
 	"department": "CHIN",
 	"enrolled": 0,
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 0,
 	"instructors": [
 		"Staff"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "",
+			"name": "Staff"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Begin Chinese II/Lab",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "M 1",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "M 1",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.332851+00:00",
@@ -42,6 +42,38 @@
 		{
 			"_updated": "2020-10-15T15:22:57.740101+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:22.779139+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "M 1",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "M 1",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "A",

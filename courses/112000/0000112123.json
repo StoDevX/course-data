@@ -7,23 +7,30 @@
 		"This course is for the non-swimming and the novice swimmer only."
 	],
 	"enrolled": 17,
-	"instructors": [
-		"Bob Hauck"
+	"enrollment_fy": 0,
+	"enrollment_jr": 6,
+	"enrollment_so": 6,
+	"enrollment_sr": 5,
+	"gereqs": [
+		"PHA",
+		"SPM"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Hauck, Bob"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "3165",
+			"name": "Hauck, Bob"
+		}
+	],
 	"level": 100,
 	"max": 16,
 	"name": "Beginning Swimming",
 	"number": 121,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "08:55",
-			"location": "SAC Pool",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "08:55",
 			"location": "SAC Pool",
 			"start": "08:00"
@@ -60,6 +67,37 @@
 			"_updated": "2025-10-11T21:36:25.208146+00:00",
 			"gereqs": [
 				"SPM"
+			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:15.555276+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Bob Hauck"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "08:55",
+					"location": "SAC Pool",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "08:55",
+					"location": "SAC Pool",
+					"start": "08:00"
+				}
 			]
 		}
 	],

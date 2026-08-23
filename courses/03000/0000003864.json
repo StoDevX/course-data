@@ -4,13 +4,26 @@
 	"crsid": "0000000321",
 	"department": "EDUC",
 	"enrolled": 18,
-	"firstyear": "0/0",
-	"instructors": [
-		"Martha Harris"
+	"enrollment_fy": 0,
+	"enrollment_jr": 12,
+	"enrollment_so": 0,
+	"enrollment_sr": 6,
+	"gereqs": [
+		"ORC"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Harris, Martha"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "10033",
+			"name": "Harris, Martha"
+		}
+	],
 	"level": 300,
 	"max": 20,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Principles of Educ",
 	"number": 330,
 	"offerings": [
@@ -28,7 +41,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:56.520638+00:00",
@@ -48,11 +60,32 @@
 		{
 			"_updated": "2020-10-15T15:23:10.492361+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.799827+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"gereqs": null,
+			"instructors": [
+				"Martha Harris"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 1,
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20021,
 	"type": "Research",

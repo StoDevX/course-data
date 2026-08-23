@@ -1,13 +1,21 @@
 {
 	"clbid": "0000137536",
-	"credits": 0.0,
 	"crsid": "0000033748",
 	"department": "CHEM",
 	"enrolled": 15,
+	"enrollment_fy": 12,
+	"enrollment_jr": 0,
+	"enrollment_so": 3,
+	"enrollment_sr": 0,
 	"instructors": [
-		"Brice Erickson"
+		"Erickson, Brice"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "33087",
+			"name": "Erickson, Brice"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Introductory Chemistry Lab",
@@ -15,13 +23,12 @@
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "18:00",
+			"end": "0600PM",
 			"location": "RNS 350",
-			"start": "15:00"
+			"start": "03:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2021-02-16T16:45:13.956656+00:00",
@@ -82,6 +89,34 @@
 			"instructors": [
 				"Staff"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:04:41.794970+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Brice Erickson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "18:00",
+					"location": "RNS 350",
+					"start": "15:00"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "D",

@@ -7,33 +7,32 @@
 		"The department periodically offers courses on special topics. The specific title will be listed in the class and lab schedule when it is offered. Depending on course content, can also count toward Chinese and/or Japanese majors. Prerequisite: determined by instructor."
 	],
 	"enrolled": 18,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 4,
+	"enrollment_sr": 12,
 	"gereqs": [
-		"GHS"
+		"GHS",
+		"MCG",
+		"MCS-G"
 	],
 	"instructors": [
-		"Karil J. Kucera"
+		"Kucera, Karil J."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "14964",
+			"name": "Kucera, Karil J."
+		}
+	],
 	"level": 200,
 	"max": 18,
 	"name": "Top: Tibetan History, Art & Culture",
 	"number": 200,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CAD 202",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
-			"location": "CAD 202",
-			"start": "12:55"
-		},
-		{
-			"day": "Fr",
-			"end": "13:50",
+			"day": "MWF",
+			"end": "0150PM",
 			"location": "CAD 202",
 			"start": "12:55"
 		}
@@ -132,6 +131,46 @@
 				"GHS"
 			],
 			"status": "O"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.028606+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Karil J. Kucera"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CAD 202",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CAD 202",
+					"start": "12:55"
+				},
+				{
+					"day": "Fr",
+					"end": "13:50",
+					"location": "CAD 202",
+					"start": "12:55"
+				}
+			],
+			"section": null
 		}
 	],
 	"semester": 1,

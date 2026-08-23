@@ -4,38 +4,35 @@
 	"crsid": "0000000336",
 	"department": "EDUC",
 	"enrolled": 26,
-	"firstyear": "0/0",
-	"halfcredit": "1",
+	"enrollment_fy": 0,
+	"enrollment_jr": 9,
+	"enrollment_so": 2,
+	"enrollment_sr": 15,
 	"instructors": [
-		"Ann A. Leming"
+		"Leming, Ann A."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4755",
+			"name": "Leming, Ann A."
+		}
+	],
 	"level": 300,
 	"max": 25,
+	"max_fy": 0,
+	"max_so": 0,
+	"max_sr": 25,
 	"name": "The Exceptional Child",
 	"number": 375,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "14:55",
+			"day": "MWF",
+			"end": "0255PM",
 			"location": "FH 10",
-			"start": "14:00"
-		},
-		{
-			"day": "We",
-			"end": "14:55",
-			"location": "FH 10",
-			"start": "14:00"
-		},
-		{
-			"day": "Fr",
-			"end": "14:55",
-			"location": "FH 10",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:43.421053+00:00",
@@ -64,12 +61,53 @@
 		{
 			"_updated": "2020-10-15T15:23:03.377546+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:03.339148+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"halfcredit": "1",
+			"instructors": [
+				"Ann A. Leming"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "14:55",
+					"location": "FH 10",
+					"start": "14:00"
+				},
+				{
+					"day": "We",
+					"end": "14:55",
+					"location": "FH 10",
+					"start": "14:00"
+				},
+				{
+					"day": "Fr",
+					"end": "14:55",
+					"location": "FH 10",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "15/25",
+			"sophomore": "2/0",
+			"title": null
 		}
 	],
 	"section": "B",
 	"semester": 3,
-	"senior": "15/25",
-	"sophomore": "2/0",
 	"status": "C",
 	"term": 19993,
 	"type": "Research",

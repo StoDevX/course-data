@@ -4,30 +4,32 @@
 	"crsid": "0000000810",
 	"department": "MUSIC",
 	"enrolled": 9,
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 5,
+	"enrollment_sr": 2,
 	"instructors": [
-		"Sigrid Johnson"
+		"Johnson, Sigrid"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "4103",
+			"name": "Johnson, Sigrid"
+		}
+	],
 	"level": 100,
 	"max": 12,
 	"name": "Voice Class",
 	"number": 164,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "13:50",
-			"location": "CHM 233",
-			"start": "12:55"
-		},
-		{
-			"day": "We",
-			"end": "13:50",
+			"day": "MW",
+			"end": "0150PM",
 			"location": "CHM 233",
 			"start": "12:55"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.972204+00:00",
@@ -42,6 +44,39 @@
 		{
 			"_updated": "2020-10-15T15:23:09.102299+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.344654+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"instructors": [
+				"Sigrid Johnson"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "13:50",
+					"location": "CHM 233",
+					"start": "12:55"
+				},
+				{
+					"day": "We",
+					"end": "13:50",
+					"location": "CHM 233",
+					"start": "12:55"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "C",

@@ -4,31 +4,37 @@
 	"crsid": "0000000674",
 	"department": "IS",
 	"enrolled": 12,
-	"firstyear": "0/4",
-	"instructors": [
-		"Bill Sonnega"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 6,
+	"enrollment_sr": 4,
+	"gereqs": [
+		"MCS-D",
+		"WRI"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Sonnega, Bill"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7676",
+			"name": "Sonnega, Bill"
+		}
+	],
 	"level": 200,
 	"max": 11,
+	"max_fy": 4,
 	"name": "Top: Performance Stu",
 	"number": 203,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "TB 227",
-			"start": "09:35"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "TB 227",
 			"start": "09:35"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:53.926214+00:00",
@@ -75,6 +81,42 @@
 			"instructors": [
 				"William Sonnega"
 			]
+		},
+		{
+			"_updated": "2026-08-23T03:00:33.324859+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/4",
+			"gereqs": null,
+			"instructors": [
+				"Bill Sonnega"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "TB 227",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "TB 227",
+					"start": "09:35"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 3,

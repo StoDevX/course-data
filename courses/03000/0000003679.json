@@ -4,48 +4,35 @@
 	"crsid": "0000001104",
 	"department": "PSCI",
 	"enrolled": 7,
-	"instructors": [
-		"D Christopher Brooks"
+	"enrollment_fy": 0,
+	"enrollment_jr": 2,
+	"enrollment_so": 2,
+	"enrollment_sr": 3,
+	"gereqs": [
+		"HBS",
+		"MCS-G"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Brooks, D Christopher"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "14170",
+			"name": "Brooks, D Christopher"
+		}
+	],
 	"level": 100,
-	"max": 999,
 	"name": "Comparative Politics",
 	"number": 112,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "09:30",
-			"location": "L 421",
-			"start": "08:00"
-		},
-		{
-			"day": "Tu",
-			"end": "09:30",
-			"location": "L 421",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "09:30",
-			"location": "L 421",
-			"start": "08:00"
-		},
-		{
-			"day": "Th",
-			"end": "09:30",
-			"location": "L 421",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "M-F",
 			"end": "09:30",
 			"location": "L 421",
 			"start": "08:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:55.333742+00:00",
@@ -60,6 +47,60 @@
 		{
 			"_updated": "2020-10-15T15:23:09.837330+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:34.732815+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"D Christopher Brooks"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max": 999,
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "09:30",
+					"location": "L 421",
+					"start": "08:00"
+				},
+				{
+					"day": "Tu",
+					"end": "09:30",
+					"location": "L 421",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "09:30",
+					"location": "L 421",
+					"start": "08:00"
+				},
+				{
+					"day": "Th",
+					"end": "09:30",
+					"location": "L 421",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "09:30",
+					"location": "L 421",
+					"start": "08:00"
+				}
+			],
+			"prerequisites": false,
+			"section": null,
+			"title": null
 		}
 	],
 	"semester": 5,

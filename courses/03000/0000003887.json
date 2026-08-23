@@ -4,10 +4,23 @@
 	"crsid": "0000000357",
 	"department": "DNCTE",
 	"enrolled": 1,
-	"instructors": [
-		"Sheryl Saterstrom"
+	"enrollment_fy": 0,
+	"enrollment_jr": 0,
+	"enrollment_so": 1,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-A",
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Saterstrom, Sheryl"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "7059",
+			"name": "Saterstrom, Sheryl"
+		}
+	],
 	"level": 200,
 	"max": 4,
 	"name": "Modern Dance II",
@@ -16,18 +29,17 @@
 		{
 			"day": "Tu",
 			"end": "11:00",
-			"location": "CAD STUDIO 3",
+			"location": "CAD  STUDIO 3",
 			"start": "09:35"
 		},
 		{
 			"day": "Th",
 			"end": "10:50",
-			"location": "CAD STUDIO 3",
+			"location": "CAD  STUDIO 3",
 			"start": "09:30"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:43:10.748459+00:00",
@@ -56,6 +68,40 @@
 		{
 			"_updated": "2020-10-15T15:23:10.502928+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:00:35.787436+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Sheryl Saterstrom"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "CAD STUDIO 3",
+					"start": "09:35"
+				},
+				{
+					"day": "Th",
+					"end": "10:50",
+					"location": "CAD STUDIO 3",
+					"start": "09:30"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

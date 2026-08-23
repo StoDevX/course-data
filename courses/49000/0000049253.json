@@ -1,29 +1,38 @@
 {
 	"clbid": "0000049253",
-	"credits": 0.0,
 	"crsid": "0000000661",
 	"department": "JAPAN",
 	"enrolled": 14,
-	"firstyear": "13/0",
+	"enrollment_fy": 13,
+	"enrollment_jr": 0,
+	"enrollment_so": 0,
+	"enrollment_sr": 1,
 	"instructors": [
-		"Holly Ogren"
+		"Ogren, Holly"
 	],
-	"junior": "0/0",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "17528",
+			"name": "Ogren, Holly"
+		}
+	],
 	"level": 100,
 	"max": 0,
+	"max_fy": 0,
+	"max_jr": 0,
+	"max_so": 0,
+	"max_sr": 0,
 	"name": "Beginning Japanese II Lab",
 	"number": 112,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "14:55",
+			"end": "0255PM",
 			"location": "OM 002",
-			"start": "14:00"
+			"start": "02:00"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:50:16.595623+00:00",
@@ -45,12 +54,42 @@
 		{
 			"_updated": "2020-10-15T15:23:21.881519+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:01:06.364664+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "13/0",
+			"instructors": [
+				"Holly Ogren"
+			],
+			"instructors_full": null,
+			"junior": "0/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "14:55",
+					"location": "OM 002",
+					"start": "14:00"
+				}
+			],
+			"prerequisites": false,
+			"senior": "1/0",
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"senior": "1/0",
-	"sophomore": "0/0",
 	"status": "C",
 	"term": 20053,
 	"type": "Lab",

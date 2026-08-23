@@ -4,32 +4,41 @@
 	"crsid": "0000001669",
 	"department": "ENGL",
 	"enrolled": 26,
-	"firstyear": "10/7",
-	"instructors": [
-		"Richard DuRocher"
+	"enrollment_fy": 10,
+	"enrollment_jr": 1,
+	"enrollment_so": 15,
+	"enrollment_sr": 0,
+	"gereqs": [
+		"ALS-L",
+		"ORC",
+		"WRI"
 	],
-	"junior": "1/0",
-	"learningmode": "S",
+	"instructors": [
+		"DuRocher, Richard"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "1548",
+			"name": "DuRocher, Richard"
+		}
+	],
 	"level": 100,
 	"max": 25,
+	"max_fy": 7,
+	"max_jr": 0,
+	"max_so": 18,
+	"max_sr": 0,
 	"name": "Intr/Literary Studies",
 	"number": 125,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "13:10",
-			"location": "L 420",
-			"start": "11:45"
-		},
-		{
-			"day": "Th",
-			"end": "13:10",
+			"day": "TTh",
+			"end": "0110PM",
 			"location": "L 420",
 			"start": "11:45"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:49:31.395446+00:00",
@@ -61,12 +70,48 @@
 		{
 			"_updated": "2020-10-15T15:22:57.783687+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T02:58:24.978577+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "10/7",
+			"gereqs": null,
+			"instructors": [
+				"Richard DuRocher"
+			],
+			"instructors_full": null,
+			"junior": "1/0",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "L 420",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "13:10",
+					"location": "L 420",
+					"start": "11:45"
+				}
+			],
+			"prerequisites": false,
+			"senior": "0/0",
+			"sophomore": "15/18",
+			"title": null
 		}
 	],
 	"section": "C",
 	"semester": 3,
-	"senior": "0/0",
-	"sophomore": "15/18",
 	"status": "C",
 	"term": 19973,
 	"type": "Research",

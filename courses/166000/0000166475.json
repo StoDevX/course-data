@@ -7,28 +7,39 @@
 		"This course introduces students to the working methods of Art History. Students learn to analyze works of art visually, to understand the relationships between works of art and their cultural contexts, to consider the practices and politics of museum display, and to think critically about the role of art in their own lives and in society. Offered each semester."
 	],
 	"enrolled": 29,
-	"firstyear": "9/10",
+	"enrollment_fy": 9,
+	"enrollment_jr": 5,
+	"enrollment_so": 14,
+	"enrollment_sr": 1,
 	"gereqs": [
-		"GHS"
+		"ALS-A",
+		"GHS",
+		"ORC"
 	],
 	"instructors": [
-		"Vanessa Reubendale"
+		"Reubendale, Vanessa"
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9003475",
+			"name": "Reubendale, Vanessa"
+		}
+	],
 	"level": 100,
 	"max": 30,
+	"max_fy": 10,
 	"name": "Intro to Art History",
 	"number": 153,
 	"offerings": [
 		{
 			"day": "Tu",
-			"end": "13:10",
+			"end": "0110PM",
 			"location": "CAD 305",
 			"start": "11:45"
 		},
 		{
 			"day": "Th",
-			"end": "14:05",
+			"end": "0205PM",
 			"location": "CAD 305",
 			"start": "12:45"
 		}
@@ -126,6 +137,40 @@
 				"GHS"
 			],
 			"status": "C"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.019648+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "9/10",
+			"gereqs": [
+				"GHS"
+			],
+			"instructors": [
+				"Vanessa Reubendale"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "13:10",
+					"location": "CAD 305",
+					"start": "11:45"
+				},
+				{
+					"day": "Th",
+					"end": "14:05",
+					"location": "CAD 305",
+					"start": "12:45"
+				}
+			]
 		}
 	],
 	"section": "A",

@@ -7,16 +7,29 @@
 		"This course beautifully illustrates the nature of mathematics as a blend of technique, theory, abstraction, and applications. The important problem of solving systems of linear equations leads to the study of matrix algebra, determinants, vector spaces, bases and dimension, linear transformations, and eigenvalues. Offered each semester and during January term. Prerequisite: MATH 119, MATH 120 or CSCI 221."
 	],
 	"enrolled": 25,
+	"enrollment_fy": 8,
+	"enrollment_jr": 2,
+	"enrollment_so": 12,
+	"enrollment_sr": 3,
 	"gereqs": [
+		"AQR",
+		"MAR",
 		"QCR"
 	],
 	"instructors": [
-		"Erin M. Ellefsen"
+		"Ellefsen, Erin M."
 	],
-	"junior": "2/3",
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "9002457",
+			"name": "Ellefsen, Erin M."
+		}
+	],
 	"level": 200,
 	"max": 24,
+	"max_jr": 3,
+	"max_so": 11,
+	"max_sr": 2,
 	"name": "Elem Linear Algebra",
 	"notes": [
 		"This course has class-year limits."
@@ -24,19 +37,7 @@
 	"number": 220,
 	"offerings": [
 		{
-			"day": "Mo",
-			"end": "08:55",
-			"location": "TOH 184",
-			"start": "08:00"
-		},
-		{
-			"day": "We",
-			"end": "08:55",
-			"location": "TOH 184",
-			"start": "08:00"
-		},
-		{
-			"day": "Fr",
+			"day": "MWF",
 			"end": "08:55",
 			"location": "TOH 184",
 			"start": "08:00"
@@ -100,12 +101,52 @@
 				"QCR"
 			],
 			"senior": "2/2"
+		},
+		{
+			"_updated": "2026-08-23T03:05:27.183063+00:00",
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": [
+				"QCR"
+			],
+			"instructors": [
+				"Erin M. Ellefsen"
+			],
+			"instructors_full": null,
+			"junior": "2/3",
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Mo",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				},
+				{
+					"day": "We",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				},
+				{
+					"day": "Fr",
+					"end": "08:55",
+					"location": "TOH 184",
+					"start": "08:00"
+				}
+			],
+			"senior": "3/2",
+			"sophomore": "12/11"
 		}
 	],
 	"section": "A",
 	"semester": 1,
-	"senior": "3/2",
-	"sophomore": "12/11",
 	"status": "C",
 	"term": 20251,
 	"title": "Elementary Linear Algebra",

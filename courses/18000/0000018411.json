@@ -4,30 +4,35 @@
 	"crsid": "0000001018",
 	"department": "PEAC",
 	"enrolled": 21,
-	"instructors": [
-		"Judy Tegtmeyer"
+	"enrollment_fy": 2,
+	"enrollment_jr": 7,
+	"enrollment_so": 2,
+	"enrollment_sr": 10,
+	"gereqs": [
+		"PHA"
 	],
-	"learningmode": "S",
+	"instructors": [
+		"Tegtmeyer, Judy"
+	],
+	"instructors_full": [
+		{
+			"fsnum": "8272",
+			"name": "Tegtmeyer, Judy"
+		}
+	],
 	"level": 100,
 	"max": 20,
 	"name": "Wt Training-Women",
 	"number": 142,
 	"offerings": [
 		{
-			"day": "Tu",
-			"end": "11:00",
-			"location": "SAC WT RM",
-			"start": "10:05"
-		},
-		{
-			"day": "Th",
+			"day": "TTh",
 			"end": "11:00",
 			"location": "SAC WT RM",
 			"start": "10:05"
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2016-07-06T00:42:04.432745+00:00",
@@ -60,6 +65,40 @@
 			"instructors": [
 				"Judith Tegtmeyer"
 			]
+		},
+		{
+			"_updated": "2026-08-23T02:56:10.498437+00:00",
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"gereqs": null,
+			"instructors": [
+				"Judy Tegtmeyer"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"offerings": [
+				{
+					"day": "Tu",
+					"end": "11:00",
+					"location": "SAC WT RM",
+					"start": "10:05"
+				},
+				{
+					"day": "Th",
+					"end": "11:00",
+					"location": "SAC WT RM",
+					"start": "10:05"
+				}
+			],
+			"prerequisites": false,
+			"title": null
 		}
 	],
 	"section": "B",

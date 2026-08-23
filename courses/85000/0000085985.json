@@ -1,17 +1,25 @@
 {
 	"clbid": "0000085985",
-	"credits": 0.0,
 	"crsid": "0000019396",
 	"department": "BI/ES",
 	"enrolled": 6,
-	"firstyear": "0/0",
-	"groupid": "0000018793",
+	"enrollment_fy": 0,
+	"enrollment_jr": 1,
+	"enrollment_so": 0,
+	"enrollment_sr": 5,
 	"instructors": [
-		"John D. Schade"
+		"Schade, John D."
 	],
-	"learningmode": "S",
+	"instructors_full": [
+		{
+			"fsnum": "16579",
+			"name": "Schade, John D."
+		}
+	],
 	"level": 300,
 	"max": 12,
+	"max_fy": 0,
+	"max_so": 0,
 	"name": "Biogeochemistry Lab",
 	"number": 350,
 	"offerings": [
@@ -23,7 +31,6 @@
 		}
 	],
 	"pn": false,
-	"prerequisites": false,
 	"revisions": [
 		{
 			"_updated": "2018-07-12T16:51:08.974778+00:00",
@@ -43,11 +50,33 @@
 		{
 			"_updated": "2020-10-15T15:23:47.038958+00:00",
 			"learningmode": null
+		},
+		{
+			"_updated": "2026-08-23T03:03:07.291473+00:00",
+			"credits": 0.0,
+			"description": null,
+			"enrollment_fy": null,
+			"enrollment_jr": null,
+			"enrollment_so": null,
+			"enrollment_sr": null,
+			"firstyear": "0/0",
+			"groupid": "0000018793",
+			"instructors": [
+				"John D. Schade"
+			],
+			"instructors_full": null,
+			"learningmode": "S",
+			"max_fy": null,
+			"max_jr": null,
+			"max_so": null,
+			"max_sr": null,
+			"prerequisites": false,
+			"sophomore": "0/0",
+			"title": null
 		}
 	],
 	"section": "A",
 	"semester": 3,
-	"sophomore": "0/0",
 	"status": "O",
 	"term": 20123,
 	"type": "Lab",
